@@ -1,0 +1,108 @@
+name: Refresh landing data
+
+# 方案 B：定时增量刷新联赛数据 → 提交回仓库 → 发布到 GitHub Pages（插件从 Pages 拉取）。
+#
+# 前置：
+#  - 仓库根放：build_league_landing_data.py、现有 landing_*.json、aslp-manifest.json、本 workflow
+#  - Settings → Secrets and variables → Actions：
+#      secret   ANYSPORT_API_KEY   你的 AnySport API Key
+#      (可选) var ANYSPORT_SLEEP   请求间隔秒：1 req/s→1.1，3 req/s→0.34，6 req/s→0.17
+#  - Settings → Pages → Build and deployment → Source 选 "GitHub Actions"
+#  - ⚠️ 免费版 Pages 需要仓库为 Public（私有仓库发 Pages 需付费套餐）。数据是公开体育数据，
+#    公开无妨；API Key 只在 secret 里、不入仓库。
+#
+# 计费提醒：GitHub Actions 按墙上时间计费，脚本大部分在 sleep 等限流。默认 active 模式
+# 只刷"近 N 天有比赛"的联赛，最省分钟数。full（含历史）请手动触发、勿每天跑。
+
+on:
+  schedule:
+    - cron: '17 2 * * *'        # 每天 UTC 02:17
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '刷新模式'
+        type: choice
+        default: active
+        options: [ active, all-existing, full ]
+      active_days:
+        description: 'active 模式回看天数'
+        default: '2'
+
+concurrency:
+  group: refresh-landing-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # 提交刷新后的数据回仓库
+  pages: write                 # 发布到 Pages
+  id-token: write              # Pages 部署鉴权
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    outputs:
+      built: ${{ steps.done.outputs.built }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Refresh data
+        env:
+          ANYSPORT_API_KEY: ${{ secrets.ANYSPORT_API_KEY }}
+          ANYSPORT_SLEEP: ${{ vars.ANYSPORT_SLEEP || '1.1' }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'active' }}"
+          DAYS="${{ github.event.inputs.active_days || '2' }}"
+          echo "mode=$MODE days=$DAYS sleep=$ANYSPORT_SLEEP"
+          case "$MODE" in
+            full)         python build_league_landing_data.py all ;;
+            all-existing) python build_league_landing_data.py refresh ;;
+            *)            python build_league_landing_data.py refresh-active "$DAYS" ;;
+          esac
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add landing_*.json aslp-manifest.json
+          if git diff --cached --quiet; then
+            echo "无数据变更，跳过提交"
+          else
+            git commit -m "chore: refresh landing data ($(date -u +%FT%TZ))"
+            git push
+          fi
+
+      - name: Assemble Pages content
+        run: |
+          rm -rf _site && mkdir -p _site
+          cp aslp-manifest.json _site/
+          cp landing_*.json _site/ 2>/dev/null || true
+          # 防止 Jekyll 处理，直接原样发布
+          touch _site/.nojekyll
+          echo "发布文件数: $(ls _site | wc -l)"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: done
+        run: echo "built=1" >> "$GITHUB_OUTPUT"
+
+  deploy-pages:
+    needs: refresh
+    if: needs.refresh.outputs.built == '1'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
