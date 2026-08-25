@@ -282,6 +282,7 @@ def build_league(slug, league_id):
     result = {
         "slug": slug,
         "league_id": league_id,
+        "updated_at": _today(),   # 页面“最近更新日期”，每次生成/刷新盖当天(UTC)
         "meta": meta,
         "current_season": current_season,
         "current_season_in_progress": current_in_progress,
@@ -309,6 +310,11 @@ def build_league(slug, league_id):
         },
     }
     return result
+
+
+def _today():
+    """页面“最近更新日期”，UTC，形如 2026/07/29。"""
+    return datetime.now(timezone.utc).strftime("%Y/%m/%d")
 
 
 def _matches_season(season):
@@ -780,6 +786,7 @@ def refresh_league(existing, league_id):
     existing["endpoint_samples"] = _refresh_dynamic_samples(
         existing.get("endpoint_samples"), league_id, season, st_en, top_scorers["goals"]["en"])
     existing["team_name_map"] = {k: dict(v) for k, v in name_map.items()}
+    existing["updated_at"] = _today()   # 每次增量刷新盖当天日期
     g = existing.get("generated", {}) or {}
     g.update({
         "standings_rows_current": len(st_en),
