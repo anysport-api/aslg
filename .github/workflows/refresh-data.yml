@@ -23,7 +23,7 @@ on:
         description: '刷新模式'
         type: choice
         default: active
-        options: [ active, all-existing, full ]
+        options: [ active, all-existing, full, publish ]
       active_days:
         description: 'active 模式回看天数'
         default: '2'
@@ -63,6 +63,7 @@ jobs:
           case "$MODE" in
             full)         python build_league_landing_data.py all ;;
             all-existing) python build_league_landing_data.py refresh ;;
+            publish)      echo "publish only — 跳过刷新，直接发布当前仓库数据到 Pages" ;;
             *)            python build_league_landing_data.py refresh-active "$DAYS" ;;
           esac
 

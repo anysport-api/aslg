@@ -1,0 +1,720 @@
+{
+  "slug": "super-cup-2",
+  "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+  "meta": {
+    "name": {
+      "en": "Super Cup",
+      "zh": "土耳其超级杯"
+    },
+    "country": {
+      "en": "Turkey",
+      "zh": "土耳其"
+    },
+    "country_id": "asx_c7bd6f08d0df478b84afef5376af2945",
+    "is_cup": true
+  },
+  "current_season": null,
+  "current_season_in_progress": false,
+  "seasons": [
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2025",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2024-2025",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2023-2024",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2022-2023",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2021-2022",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2020-2021",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2019-2020",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2018-2019",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2017-2018",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2016-2017",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2015-2016",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2014-2015",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2013-2014",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2012-2013",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2011",
+      "has_results": true,
+      "has_standings": false
+    },
+    {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2010",
+      "has_results": true,
+      "has_standings": false
+    }
+  ],
+  "standings": {
+    "season": null,
+    "en": [],
+    "zh": []
+  },
+  "top_scorers": {
+    "goals": {
+      "en": [],
+      "zh": []
+    },
+    "assists": {
+      "en": [],
+      "zh": []
+    },
+    "cards": {
+      "en": [],
+      "zh": []
+    }
+  },
+  "fixtures": {
+    "season": null,
+    "matches": [],
+    "upcoming": []
+  },
+  "champions": [],
+  "honours": [],
+  "historical_standings": {},
+  "team_name_map": {},
+  "stats": {
+    "matches_completed": 0,
+    "total_goals": 0,
+    "avg_goals_per_match": null,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 0,
+    "home_win_pct": null,
+    "biggest_win": null,
+    "highest_scoring_match": null,
+    "leader": null
+  },
+  "coverage": {
+    "seasons_total": 16,
+    "seasons_with_standings": 0,
+    "seasons_with_results": 16,
+    "earliest_standings_season": null,
+    "latest_standings_season": null,
+    "champion_seasons": 0,
+    "teams_all_time": 0
+  },
+  "samples": {
+    "league": {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "name": "Super Cup",
+      "country": "Turkey",
+      "country_id": "asx_c7bd6f08d0df478b84afef5376af2945",
+      "is_cup": true
+    },
+    "season": {
+      "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+      "season": "2025",
+      "has_results": true,
+      "has_standings": false
+    },
+    "standings_row": null,
+    "topscorer_row": null,
+    "match": null,
+    "champion": null
+  },
+  "endpoint_samples": {
+    "standings": {
+      "method": "GET",
+      "path": "/v1/soccer/standings",
+      "params": {
+        "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+        "season": null,
+        "lang": "en"
+      },
+      "scope": "league",
+      "url": "https://data.anysport.io/v1/soccer/standings?league_id=asl_48846a65434e4be7a681d5e63ad433bc&lang=en",
+      "response": {
+        "success": true,
+        "data": [],
+        "meta": {
+          "total": 0
+        }
+      }
+    },
+    "matches": {
+      "method": "GET",
+      "path": "/v1/soccer/matches",
+      "params": {
+        "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+        "season": null,
+        "lang": "en"
+      },
+      "scope": "league",
+      "url": "https://data.anysport.io/v1/soccer/matches?league_id=asl_48846a65434e4be7a681d5e63ad433bc&lang=en",
+      "response": {
+        "success": true,
+        "data": [],
+        "meta": {
+          "total": 0
+        }
+      }
+    },
+    "teams": {
+      "method": "GET",
+      "path": "/v1/soccer/teams",
+      "params": {
+        "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+        "season": null,
+        "lang": "en"
+      },
+      "scope": "league",
+      "url": "https://data.anysport.io/v1/soccer/teams?league_id=asl_48846a65434e4be7a681d5e63ad433bc&lang=en",
+      "response": {
+        "success": true,
+        "data": [],
+        "meta": {
+          "total": 0
+        }
+      }
+    },
+    "players": {
+      "method": "GET",
+      "path": "/v1/soccer/players",
+      "params": {
+        "team_id": null,
+        "league_id": "asl_48846a65434e4be7a681d5e63ad433bc",
+        "lang": "en"
+      },
+      "scope": "league",
+      "url": "https://data.anysport.io/v1/soccer/players?league_id=asl_48846a65434e4be7a681d5e63ad433bc&lang=en",
+      "response": {
+        "success": true,
+        "data": [],
+        "meta": {
+          "total": 0
+        }
+      }
+    },
+    "topscorers": {
+      "method": "GET",
+      "path": "/v1/soccer/topscorers",
+      "params": {
+        "league_id": "asl_30c1e028124f46529e230d780bbe0e9e",
+        "season": "2025-2026",
+        "kind": "goals",
+        "lang": "en"
+      },
+      "scope": "generic",
+      "url": "https://data.anysport.io/v1/soccer/topscorers?league_id=asl_30c1e028124f46529e230d780bbe0e9e&season=2025-2026&kind=goals&lang=en",
+      "response": {
+        "success": true,
+        "data": [
+          {
+            "rank": 1,
+            "player_id": "asp_0fc5b0bbf9de418abd1ea1459081e326",
+            "player_name": "Harry Kane",
+            "team_id": "ast_dd1f5dc0480040f89a8992e6659671c3",
+            "team_name": "Bayern Munich",
+            "value": 36
+          },
+          {
+            "rank": 2,
+            "player_id": "asp_251cc25a651c4aabad97ab9d83776c92",
+            "player_name": "Deniz Undav",
+            "team_id": "ast_15c6fce8ebc446a0acb0013afecc9bc2",
+            "team_name": "Stuttgart",
+            "value": 19
+          },
+          {
+            "rank": 3,
+            "player_id": "asp_aa4271c8822a498a863e5c8fa42d7f04",
+            "player_name": "Serhou Guirassy",
+            "team_id": "ast_c4a3b3c90a89431ca93d828e19f20284",
+            "team_name": "Dortmund",
+            "value": 19
+          }
+        ],
+        "meta": {
+          "total": 3
+        }
+      }
+    },
+    "livescore": {
+      "method": "GET",
+      "path": "/v1/soccer/livescore",
+      "params": {
+        "match_id": "as_0059673e806d4a0788a0d38a6a72f500",
+        "lang": "en"
+      },
+      "scope": "generic",
+      "url": "https://data.anysport.io/v1/soccer/livescore?match_id=as_0059673e806d4a0788a0d38a6a72f500&lang=en",
+      "response": {
+        "success": true,
+        "data": [
+          {
+            "match_id": "as_0059673e806d4a0788a0d38a6a72f500",
+            "home": "ABC",
+            "away": "Luverdense",
+            "league": "Brazil Serie D",
+            "minute": 90,
+            "phase": "finished",
+            "phase_label": "Finished",
+            "home_score": 4,
+            "away_score": 1,
+            "ht_score": "2-1",
+            "reg_score": "4-1",
+            "updated_at": "2026-07-26T21:57:59Z"
+          }
+        ],
+        "meta": {
+          "total": 1
+        }
+      }
+    },
+    "odds_prematch": {
+      "method": "GET",
+      "path": "/v1/soccer/odds/prematch",
+      "params": {
+        "lang": "en"
+      },
+      "scope": "generic",
+      "url": "https://data.anysport.io/v1/soccer/odds/prematch?lang=en",
+      "response": {
+        "success": true,
+        "data": [
+          {
+            "match_id": "as_d21c97e73a5e45c7b87cb82e28c9f986",
+            "home": "Hafnarfjordur",
+            "away": "KR Reykjavik",
+            "league": "Iceland: Besta Deild Karla",
+            "bookmaker": "bet365",
+            "phase": "prematch",
+            "main_market": "match_winner",
+            "main_market_label": "Match Winner",
+            "home_odd": 3.9,
+            "draw_odd": 4.5,
+            "away_odd": 1.57,
+            "markets": [
+              {
+                "market_code": "match_winner",
+                "market_code_label": "Match Winner",
+                "options": [
+                  {
+                    "name": "Home",
+                    "name_label": "Home",
+                    "odd": 3.9
+                  },
+                  {
+                    "name": "Draw",
+                    "name_label": "Draw",
+                    "odd": 4.5
+                  },
+                  {
+                    "name": "Away",
+                    "name_label": "Away",
+                    "odd": 1.57
+                  }
+                ]
+              },
+              {
+                "market_code": "home_away",
+                "market_code_label": "Home/Away",
+                "options": [
+                  {
+                    "name": "Home",
+                    "name_label": "Home",
+                    "odd": 3.4
+                  },
+                  {
+                    "name": "Away",
+                    "name_label": "Away",
+                    "odd": 1.3
+                  }
+                ]
+              },
+              {
+                "market_code": "2nd_half_winner",
+                "market_code_label": "2nd Half Winner",
+                "options": [
+                  {
+                    "name": "Home",
+                    "name_label": "Home",
+                    "odd": 3.6
+                  },
+                  {
+                    "name": "Draw",
+                    "name_label": "Draw",
+                    "odd": 3.4
+                  },
+                  {
+                    "name": "Away",
+                    "name_label": "Away",
+                    "odd": 1.83
+                  }
+                ]
+              },
+              {
+                "market_code": "asian_handicap",
+                "market_code_label": "Asian Handicap",
+                "options": [
+                  {
+                    "name": "Home -1",
+                    "name_label": "Home -1",
+                    "odd": 7.0
+                  },
+                  {
+                    "name": "Away +1",
+                    "name_label": "Away +1",
+                    "odd": 1.1
+                  },
+                  {
+                    "name": "Home -0.75",
+                    "name_label": "Home -0.75",
+                    "odd": 5.0
+                  },
+                  {
+                    "name": "Away +0.75",
+                    "name_label": "Away +0.75",
+                    "odd": 1.17
+                  },
+                  {
+                    "name": "Home -0.5",
+                    "name_label": "Home -0.5",
+                    "odd": 4.0
+                  },
+                  {
+                    "name": "Away +0.5",
+                    "name_label": "Away +0.5",
+                    "odd": 1.23
+                  },
+                  {
+                    "name": "Home -0.25",
+                    "name_label": "Home -0.25",
+                    "odd": 3.7
+                  },
+                  {
+                    "name": "Away +0.25",
+                    "name_label": "Away +0.25",
+                    "odd": 1.26
+                  },
+                  {
+                    "name": "Home +0",
+                    "name_label": "Home +0",
+                    "odd": 3.45
+                  },
+                  {
+                    "name": "Away 0",
+                    "name_label": "Away 0",
+                    "odd": 1.3
+                  },
+                  {
+                    "name": "Home +0.25",
+                    "name_label": "Home +0.25",
+                    "odd": 2.68
+                  },
+                  {
+                    "name": "Away -0.25",
+                    "name_label": "Away -0.25",
+                    "odd": 1.45
+                  },
+                  {
+                    "name": "Home +0.5",
+                    "name_label": "Home +0.5",
+                    "odd": 2.3
+                  },
+                  {
+                    "name": "Away -0.5",
+                    "name_label": "Away -0.5",
+                    "odd": 1.6
+                  },
+                  {
+                    "name": "Home +0.75",
+                    "name_label": "Home +0.75",
+                    "odd": 2.08
+                  },
+                  {
+                    "name": "Away -0.75",
+                    "name_label": "Away -0.75",
+                    "odd": 1.72
+                  },
+                  {
+                    "name": "Home +1",
+                    "name_label": "Home +1",
+                    "odd": 1.9
+                  },
+                  {
+                    "name": "Away -1",
+                    "name_label": "Away -1",
+                    "odd": 1.9
+                  },
+                  {
+                    "name": "Home +2",
+                    "name_label": "Home +2",
+                    "odd": 1.35
+                  },
+                  {
+                    "name": "Away -2",
+                    "name_label": "Away -2",
+                    "odd": 3.1
+                  },
+                  {
+                    "name": "Home +3",
+                    "name_label": "Home +3",
+                    "odd": 1.12
+                  },
+                  {
+                    "name": "Away -3",
+                    "name_label": "Away -3",
+                    "odd": 6.0
+                  },
+                  {
+                    "name": "Home +1.25",
+                    "name_label": "Home +1.25",
+                    "odd": 1.72
+                  },
+                  {
+                    "name": "Away -1.25",
+                    "name_label": "Away -1.25",
+                    "odd": 2.08
+                  },
+                  {
+                    "name": "Home +1.5",
+                    "name_label": "Home +1.5",
+                    "odd": 1.6
+                  },
+                  {
+                    "name": "Away -1.5",
+                    "name_label": "Away -1.5",
+                    "odd": 2.3
+                  },
+                  {
+                    "name": "Home +1.75",
+                    "name_label": "Home +1.75",
+                    "odd": 1.48
+                  },
+                  {
+                    "name": "Away -1.75",
+                    "name_label": "Away -1.75",
+                    "odd": 2.6
+                  },
+                  {
+                    "name": "Home +2.25",
+                    "name_label": "Home +2.25",
+                    "odd": 1.3
+                  },
+                  {
+                    "name": "Away -2.25",
+                    "name_label": "Away -2.25",
+                    "odd": 3.45
+                  },
+                  {
+                    "name": "Home +2.5",
+                    "name_label": "Home +2.5",
+                    "odd": 1.26
+                  },
+                  {
+                    "name": "Away -2.5",
+                    "name_label": "Away -2.5",
+                    "odd": 3.7
+                  },
+                  {
+                    "name": "Home +2.75",
+                    "name_label": "Home +2.75",
+                    "odd": 1.19
+                  },
+                  {
+                    "name": "Away -2.75",
+                    "name_label": "Away -2.75",
+                    "odd": 4.5
+                  }
+                ]
+              }
+            ],
+            "updated_at": "2026-07-28T14:20:04Z"
+          }
+        ],
+        "meta": {
+          "total": 1
+        }
+      }
+    },
+    "odds_live": {
+      "method": "GET",
+      "path": "/v1/soccer/odds/live",
+      "params": {
+        "lang": "en"
+      },
+      "scope": "generic",
+      "url": "https://data.anysport.io/v1/soccer/odds/live?lang=en",
+      "response": {
+        "success": true,
+        "data": [
+          {
+            "match_id": "as_0059673e806d4a0788a0d38a6a72f500",
+            "home": "ABC",
+            "away": "Luverdense",
+            "league": "Brazil Serie D",
+            "bookmaker": "bet365",
+            "phase": "live",
+            "main_market": "fulltime_result",
+            "main_market_label": "Fulltime Result",
+            "home_odd": 1.008,
+            "draw_odd": 26.0,
+            "away_odd": 51.0,
+            "markets": [
+              {
+                "market_code": "home_4th_goal_in_interval",
+                "market_code_label": "Home 4th Goal in Interval",
+                "handicap": 80,
+                "options": [
+                  {
+                    "name": "Yes",
+                    "name_label": "Yes",
+                    "odd": 9
+                  },
+                  {
+                    "name": "No",
+                    "name_label": "No",
+                    "odd": 1.04
+                  }
+                ]
+              },
+              {
+                "market_code": "last_corner",
+                "market_code_label": "Last Corner",
+                "options": [
+                  {
+                    "name": "1",
+                    "name_label": "1",
+                    "odd": 1.8
+                  },
+                  {
+                    "name": "2",
+                    "name_label": "2",
+                    "odd": 1.909
+                  }
+                ]
+              },
+              {
+                "market_code": "how_many_goals_will_away_team_score",
+                "market_code_label": "How many goals will Away Team score?",
+                "options": [
+                  {
+                    "name": "No goal",
+                    "name_label": "No goal",
+                    "odd": 1.571
+                  },
+                  {
+                    "name": "1",
+                    "name_label": "1",
+                    "odd": 1.142
+                  },
+                  {
+                    "name": "2",
+                    "name_label": "2",
+                    "odd": 5.5
+                  },
+                  {
+                    "name": "3 or more",
+                    "name_label": "3 or more",
+                    "odd": 17
+                  }
+                ]
+              },
+              {
+                "market_code": "asian_handicap",
+                "market_code_label": "Asian Handicap",
+                "handicap": -2.25,
+                "options": [
+                  {
+                    "name": "1",
+                    "name_label": "1",
+                    "odd": 2.5
+                  },
+                  {
+                    "name": "2",
+                    "name_label": "2",
+                    "odd": 1.5
+                  }
+                ]
+              }
+            ],
+            "updated_at": "2026-07-26T21:41:43Z"
+          }
+        ],
+        "meta": {
+          "total": 1
+        }
+      }
+    }
+  },
+  "generated": {
+    "seasons_total": 16,
+    "seasons_with_standings": 0,
+    "champions": 0,
+    "distinct_title_holders": 0,
+    "teams_all_time": 0,
+    "standings_rows_current": 0,
+    "matches_current_season": 0,
+    "upcoming_matches": 0
+  }
+}
