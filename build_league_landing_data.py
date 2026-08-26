@@ -24,6 +24,7 @@ AnySport 联赛落地页数据采集脚本
   # 后续跑全部联赛：见文件底部 run_all() 说明
 """
 import glob
+import html
 import json
 import os
 import re
@@ -836,12 +837,18 @@ def run_refresh(ids=None, active_days=None):
 # 并对**重名联赛**加国家前缀消歧（Premier League ×42 等）。放在这里让 CI 纯 Python 即可。
 
 
+# 通用/非国家的 country 值：不加前缀（洲际/国际赛事名字通常已够独特）。
+_GENERIC_COUNTRY = {"", "intl", "international", "world", "worldcup", "world cup",
+                    "europe", "africa", "asia", "oceania", "north america", "south america"}
+
+
 def _prefix_en(name, country):
-    if not country:
+    c = (country or "").strip()
+    if not c or c.lower() in _GENERIC_COUNTRY:
         return name
-    if name.lower().startswith(country.lower()):
+    if c.lower() in name.lower():   # 名字已含国家则不重复加
         return name
-    return f"{country} {name}"
+    return f"{c} {name}"
 
 
 def _prefix_zh(name, country):
@@ -866,10 +873,10 @@ def build_manifest(directory):
         if not lid or lid in entries:
             continue
         meta = d.get("meta", {}) or {}
-        ne = (meta.get("name", {}).get("en") or "").strip()
-        nz = (meta.get("name", {}).get("zh") or "").strip()
-        ce = (meta.get("country", {}).get("en") or "").strip()
-        cz = (meta.get("country", {}).get("zh") or "").strip()
+        ne = html.unescape((meta.get("name", {}).get("en") or "").strip())
+        nz = html.unescape((meta.get("name", {}).get("zh") or "").strip())
+        ce = html.unescape((meta.get("country", {}).get("en") or "").strip())
+        cz = html.unescape((meta.get("country", {}).get("zh") or "").strip())
         entries[lid] = {"file": os.path.basename(p), "ne": ne, "nz": nz, "ce": ce, "cz": cz}
         if ne:
             cnt_en[ne.lower()] = cnt_en.get(ne.lower(), 0) + 1
@@ -878,11 +885,10 @@ def build_manifest(directory):
 
     leagues, disamb = {}, 0
     for lid, e in entries.items():
-        dup_en = e["ne"] and cnt_en.get(e["ne"].lower(), 0) > 1
         dup_zh = e["nz"] and cnt_zh.get(e["nz"], 0) > 1
-        de = _prefix_en(e["ne"], e["ce"]) if dup_en else e["ne"]
-        dz = _prefix_zh(e["nz"], e["cz"]) if dup_zh else e["nz"]
-        if dup_en or dup_zh:
+        de = _prefix_en(e["ne"], e["ce"])          # 英文一律加国家前缀（消歧+统一）
+        dz = _prefix_zh(e["nz"], e["cz"]) if dup_zh else e["nz"]  # 中文名多已含国家，仅重名时加
+        if de != e["ne"] or dz != e["nz"]:
             disamb += 1
         leagues[lid] = {"file": e["file"], "display": {"en": de, "zh": dz}}
 
