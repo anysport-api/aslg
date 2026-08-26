@@ -877,7 +877,19 @@ def build_manifest(directory):
         nz = html.unescape((meta.get("name", {}).get("zh") or "").strip())
         ce = html.unescape((meta.get("country", {}).get("en") or "").strip())
         cz = html.unescape((meta.get("country", {}).get("zh") or "").strip())
-        entries[lid] = {"file": os.path.basename(p), "ne": ne, "nz": nz, "ce": ce, "cz": cz}
+        # 列表 shortcode 用的摘要字段（避免列表渲染时逐个加载完整 JSON）
+        cov = d.get("coverage") or {}
+        st_n = len((d.get("standings", {}) or {}).get("en") or [])
+        ch_n = len(d.get("champions") or [])
+        mc_n = (d.get("stats") or {}).get("matches_completed") or 0
+        entries[lid] = {
+            "file": os.path.basename(p), "ne": ne, "nz": nz, "ce": ce, "cz": cz,
+            "is_cup": bool(meta.get("is_cup")),
+            "seasons": cov.get("seasons_with_standings") or 0,
+            "since": cov.get("earliest_standings_season") or "",
+            "teams": cov.get("teams_all_time") or 0,
+            "has_data": (st_n > 0 or ch_n > 0 or mc_n > 0),
+        }
         if ne:
             cnt_en[ne.lower()] = cnt_en.get(ne.lower(), 0) + 1
         if nz:
@@ -890,7 +902,16 @@ def build_manifest(directory):
         dz = _prefix_zh(e["nz"], e["cz"]) if dup_zh else e["nz"]  # 中文名多已含国家，仅重名时加
         if de != e["ne"] or dz != e["nz"]:
             disamb += 1
-        leagues[lid] = {"file": e["file"], "display": {"en": de, "zh": dz}}
+        leagues[lid] = {
+            "file": e["file"],
+            "display": {"en": de, "zh": dz},
+            "country": {"en": e["ce"], "zh": e["cz"]},
+            "is_cup": e["is_cup"],
+            "seasons": e["seasons"],
+            "since": e["since"],
+            "teams": e["teams"],
+            "has_data": e["has_data"],
+        }
 
     leagues = dict(sorted(leagues.items()))
     manifest = {
