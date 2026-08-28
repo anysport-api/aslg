@@ -4202,7 +4202,100 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_365c6b26dc0e49718958f24d7240f033",
+        "date": "2026-08-30",
+        "time": "17:00",
+        "status": "17:00",
+        "league": "科索沃超级联赛",
+        "league_id": "asl_f0e4759c152a4105ac0d81cdb7dfa60c",
+        "season": "2026/2027",
+        "home": {
+          "name": "普里什蒂纳",
+          "team_id": "ast_e422aaeeee324aadb7d3b6864375afba"
+        },
+        "away": {
+          "name": "KF 利拉皮",
+          "team_id": "ast_74a7a58d6f01407e80a34dbdf4db2aa8"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_0665c36a3be7405abb7d4060988a2aae",
+        "date": "2026-08-30",
+        "time": "14:30",
+        "status": "14:30",
+        "league": "科索沃超级联赛",
+        "league_id": "asl_f0e4759c152a4105ac0d81cdb7dfa60c",
+        "season": "2026/2027",
+        "home": {
+          "name": "武什特里亚",
+          "team_id": "ast_fd41ceb6da0c48989d96f25648f8875e"
+        },
+        "away": {
+          "name": "德里塔",
+          "team_id": "ast_a5e53008d0ea416192a29f79463a82f3"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_db45b03de102446ba66d481e1ea06abd",
+        "date": "2026-08-29",
+        "time": "17:00",
+        "status": "17:00",
+        "league": "科索沃超级联赛",
+        "league_id": "asl_f0e4759c152a4105ac0d81cdb7dfa60c",
+        "season": "2026/2027",
+        "home": {
+          "name": "吉拉尼",
+          "team_id": "ast_0080a19e5d9a4ad887ba342107c79e87"
+        },
+        "away": {
+          "name": "杜卡吉尼",
+          "team_id": "ast_bd371799564a481785924d924d92b1c4"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_0460dbf5defb45f28088f7890e08e1f1",
+        "date": "2026-08-29",
+        "time": "14:30",
+        "status": "14:30",
+        "league": "科索沃超级联赛",
+        "league_id": "asl_f0e4759c152a4105ac0d81cdb7dfa60c",
+        "season": "2026/2027",
+        "home": {
+          "name": "费罗尼克利",
+          "team_id": "ast_59c29adda6ac4d669019ad3f1eafbc52"
+        },
+        "away": {
+          "name": "马利舍瓦",
+          "team_id": "ast_9212e43df8ce4906810a06451f02a68d"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_dcdd431b0bce468a8b1ee12e078cc5fd",
+        "date": "2026-08-28",
+        "time": "14:30",
+        "status": "22",
+        "league": "科索沃超级联赛",
+        "league_id": "asl_f0e4759c152a4105ac0d81cdb7dfa60c",
+        "season": "2026/2027",
+        "home": {
+          "name": "德雷尼察",
+          "team_id": "ast_06c4cbbeedca43a59fb12f5d7519339c"
+        },
+        "away": {
+          "name": "巴尔坎",
+          "team_id": "ast_4588bcdf9c6743749e58a3260c19c6ea"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -5342,7 +5435,7 @@
       "zh": "普里什蒂纳"
     },
     "ast_06c4cbbeedca43a59fb12f5d7519339c": {
-      "en": "Drenica Skenderaj",
+      "en": "Drenica",
       "zh": "德雷尼察"
     },
     "ast_59c29adda6ac4d669019ad3f1eafbc52": {
@@ -5360,7 +5453,7 @@
       "zh": "吉拉尼"
     },
     "ast_74a7a58d6f01407e80a34dbdf4db2aa8": {
-      "en": "Llapi",
+      "en": "KF Llapi",
       "zh": "KF 利拉皮"
     },
     "ast_bd371799564a481785924d924d92b1c4": {
@@ -5368,7 +5461,7 @@
       "zh": "杜卡吉尼"
     },
     "ast_4588bcdf9c6743749e58a3260c19c6ea": {
-      "en": "Ballkani",
+      "en": "FC Ballkani",
       "zh": "巴尔坎"
     },
     "ast_9212e43df8ce4906810a06451f02a68d": {
@@ -6222,6 +6315,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 10,
     "matches_current_season": 182,
-    "upcoming_matches": 0
-  }
+    "upcoming_matches": 5
+  },
+  "updated_at": "2026/08/28"
 }

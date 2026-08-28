@@ -4399,7 +4399,7 @@
         "match_id": "as_2f1886498d984c4db8c7fda271f6b051",
         "date": "2026-08-29",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "马来西亚超级联赛",
         "league_id": "asl_0052744e0aca4d9e80d00babed54c0bf",
         "season": "2026/2027",
@@ -4411,9 +4411,7 @@
           "name": "古晋城",
           "team_id": "ast_b53b4ef2620943f787108128ae0d48e4"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fe03a4a8e71a4d29ba5ddbcdc7db0db7",
@@ -4439,7 +4437,7 @@
         "match_id": "as_3b450e789514434ea6c2b26f75739121",
         "date": "2026-08-29",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "马来西亚超级联赛",
         "league_id": "asl_0052744e0aca4d9e80d00babed54c0bf",
         "season": "2026/2027",
@@ -4451,15 +4449,13 @@
           "name": "DPMM",
           "team_id": "ast_453f24f83d8f4d82882694c323060b57"
         },
-        "ht_score": "-",
-        "venue": "KLFA Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_77e9542224874231ad94c4c1bcd4a36c",
         "date": "2026-08-28",
         "time": "13:00",
-        "status": "13:00",
+        "status": "90",
         "league": "马来西亚超级联赛",
         "league_id": "asl_0052744e0aca4d9e80d00babed54c0bf",
         "season": "2026/2027",
@@ -4471,13 +4467,15 @@
           "name": "雪兰莪",
           "team_id": "ast_b67ab7d4896b4755b7894dc8117e8907"
         },
+        "ht_score": "0-0",
+        "reg_score": "0-3",
         "venue": ""
       },
       {
         "match_id": "as_8132f2e131ca45ecb5e6210c98e041a6",
         "date": "2026-08-28",
         "time": "11:30",
-        "status": "11:30",
+        "status": "FT",
         "league": "马来西亚超级联赛",
         "league_id": "asl_0052744e0aca4d9e80d00babed54c0bf",
         "season": "2026/2027",
@@ -4489,7 +4487,10 @@
           "name": "槟城",
           "team_id": "ast_cc1f638c55bb4f708a2db6bbacd5621e"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -9024,5 +9025,5 @@
     "matches_current_season": 155,
     "upcoming_matches": 18
   },
-  "updated_at": "2026/08/27"
+  "updated_at": "2026/08/28"
 }
