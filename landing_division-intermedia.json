@@ -142,6 +142,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_ece2040d27e748209e40b56a07b50286",
+        "team": "General Caballero JLM",
+        "played": 21,
+        "wins": 13,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 43,
+        "goals_against": 25,
+        "goal_difference": 18,
+        "points": 43,
+        "form": "WDWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc",
         "team": "12 de Junio",
         "played": 20,
@@ -153,20 +167,6 @@
         "goal_difference": 13,
         "points": 43,
         "form": "WWLDW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_ece2040d27e748209e40b56a07b50286",
-        "team": "General Caballero JLM",
-        "played": 20,
-        "wins": 12,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
-        "points": 40,
-        "form": "DWWWW"
       },
       {
         "position": 3,
@@ -228,15 +228,15 @@
         "position": 7,
         "team_id": "ast_94aa5083f404475d85732d1ca1776d3b",
         "team": "Independiente FBC",
-        "played": 20,
+        "played": 21,
         "wins": 6,
         "draws": 9,
-        "losses": 5,
-        "goals_for": 28,
-        "goals_against": 26,
-        "goal_difference": 2,
+        "losses": 6,
+        "goals_for": 30,
+        "goals_against": 31,
+        "goal_difference": -1,
         "points": 27,
-        "form": "DWDDD"
+        "form": "LDWDD"
       },
       {
         "position": 8,
@@ -270,15 +270,15 @@
         "position": 10,
         "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab",
         "team": "Dep. Capiata",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 9,
-        "losses": 6,
-        "goals_for": 24,
-        "goals_against": 26,
-        "goal_difference": -2,
+        "losses": 7,
+        "goals_for": 25,
+        "goals_against": 28,
+        "goal_difference": -3,
         "points": 24,
-        "form": "DLLLD"
+        "form": "LDLLL"
       },
       {
         "position": 11,
@@ -338,6 +338,20 @@
       },
       {
         "position": 15,
+        "team_id": "ast_7bc158e4a5814a6095f822f2db98e120",
+        "team": "3 de Noviembre",
+        "played": 21,
+        "wins": 3,
+        "draws": 7,
+        "losses": 11,
+        "goals_for": 23,
+        "goals_against": 32,
+        "goal_difference": -9,
+        "points": 16,
+        "form": "WWWLL"
+      },
+      {
+        "position": 16,
         "team_id": "ast_ffe20830ac654f9088de1d2c4b310e6f",
         "team": "Encarnacion FC",
         "played": 20,
@@ -349,25 +363,26 @@
         "goal_difference": -10,
         "points": 15,
         "form": "WLLLD"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_7bc158e4a5814a6095f822f2db98e120",
-        "team": "3 de Noviembre",
-        "played": 20,
-        "wins": 2,
-        "draws": 7,
-        "losses": 11,
-        "goals_for": 18,
-        "goals_against": 30,
-        "goal_difference": -12,
-        "points": 13,
-        "form": "WWLLL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_ece2040d27e748209e40b56a07b50286",
+        "team": "卡巴列罗将军JLM",
+        "played": 21,
+        "wins": 13,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 43,
+        "goals_against": 25,
+        "goal_difference": 18,
+        "points": 43,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc",
         "team": "12 de Junio",
         "played": 20,
@@ -380,21 +395,6 @@
         "points": 43,
         "form": "WWLDW",
         "form_label": "胜胜负平胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_ece2040d27e748209e40b56a07b50286",
-        "team": "卡巴列罗将军JLM",
-        "played": 20,
-        "wins": 12,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
-        "points": 40,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
       },
       {
         "position": 3,
@@ -460,16 +460,16 @@
         "position": 7,
         "team_id": "ast_94aa5083f404475d85732d1ca1776d3b",
         "team": "独立FBC",
-        "played": 20,
+        "played": 21,
         "wins": 6,
         "draws": 9,
-        "losses": 5,
-        "goals_for": 28,
-        "goals_against": 26,
-        "goal_difference": 2,
+        "losses": 6,
+        "goals_for": 30,
+        "goals_against": 31,
+        "goal_difference": -1,
         "points": 27,
-        "form": "DWDDD",
-        "form_label": "平胜平平平"
+        "form": "LDWDD",
+        "form_label": "负平胜平平"
       },
       {
         "position": 8,
@@ -505,16 +505,16 @@
         "position": 10,
         "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab",
         "team": "卡皮亚塔体育",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 9,
-        "losses": 6,
-        "goals_for": 24,
-        "goals_against": 26,
-        "goal_difference": -2,
+        "losses": 7,
+        "goals_for": 25,
+        "goals_against": 28,
+        "goal_difference": -3,
         "points": 24,
-        "form": "DLLLD",
-        "form_label": "平负负负平"
+        "form": "LDLLL",
+        "form_label": "负平负负负"
       },
       {
         "position": 11,
@@ -578,6 +578,21 @@
       },
       {
         "position": 15,
+        "team_id": "ast_7bc158e4a5814a6095f822f2db98e120",
+        "team": "11月3日",
+        "played": 21,
+        "wins": 3,
+        "draws": 7,
+        "losses": 11,
+        "goals_for": 23,
+        "goals_against": 32,
+        "goal_difference": -9,
+        "points": 16,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
+      },
+      {
+        "position": 16,
         "team_id": "ast_ffe20830ac654f9088de1d2c4b310e6f",
         "team": "恩卡纳西翁FC",
         "played": 20,
@@ -590,21 +605,6 @@
         "points": 15,
         "form": "WLLLD",
         "form_label": "胜负负负平"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_7bc158e4a5814a6095f822f2db98e120",
-        "team": "11月3日",
-        "played": 20,
-        "wins": 2,
-        "draws": 7,
-        "losses": 11,
-        "goals_for": 18,
-        "goals_against": 30,
-        "goal_difference": -12,
-        "points": 13,
-        "form": "WWLLL",
-        "form_label": "胜胜负负负"
       }
     ]
   },
@@ -629,7 +629,7 @@
         "match_id": "as_705be63f58e44e3ba156178a69b02ee3",
         "date": "2026-08-31",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -641,15 +641,13 @@
           "name": "雷西斯滕西亚",
           "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_77cfe87787d54558be9284d7fa2e810f",
         "date": "2026-08-31",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -661,15 +659,13 @@
           "name": "本杰明·阿塞瓦尔",
           "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_142c2239b9cf4f89b9bc8bb9f9de3cd2",
         "date": "2026-08-30",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -681,15 +677,13 @@
           "name": "卡拉佩瓜体育",
           "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5aad28a1b14a4997ba5822e34cad8b88",
         "date": "2026-08-30",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -701,9 +695,7 @@
           "name": "美洲之太阳",
           "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0feacb82df7640d596bddc369fa01c39",
@@ -745,7 +737,7 @@
         "match_id": "as_b2d2fa655c324d5f93ef32e5f8bb6818",
         "date": "2026-08-28",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -757,13 +749,16 @@
           "name": "独立FBC",
           "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "5-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a40b202145684897b8b2118f651a8d0f",
         "date": "2026-08-28",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -775,7 +770,10 @@
           "name": "卡皮亚塔体育",
           "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_918cdb1ca6984712ab6b0d50fb80d80b",
@@ -4143,7 +4141,7 @@
         "match_id": "as_77cfe87787d54558be9284d7fa2e810f",
         "date": "2026-08-31",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -4155,15 +4153,13 @@
           "name": "本杰明·阿塞瓦尔",
           "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_705be63f58e44e3ba156178a69b02ee3",
         "date": "2026-08-31",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -4175,15 +4171,13 @@
           "name": "雷西斯滕西亚",
           "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5aad28a1b14a4997ba5822e34cad8b88",
         "date": "2026-08-30",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -4195,15 +4189,13 @@
           "name": "美洲之太阳",
           "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_142c2239b9cf4f89b9bc8bb9f9de3cd2",
         "date": "2026-08-30",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -4215,9 +4207,7 @@
           "name": "卡拉佩瓜体育",
           "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ea01d1affaa74051ad61b2104c6afcf7",
@@ -4252,42 +4242,6 @@
         "away": {
           "name": "坦贝塔里竞技",
           "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a40b202145684897b8b2118f651a8d0f",
-        "date": "2026-08-28",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "卡巴列罗将军JLM",
-          "team_id": "ast_ece2040d27e748209e40b56a07b50286"
-        },
-        "away": {
-          "name": "卡皮亚塔体育",
-          "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b2d2fa655c324d5f93ef32e5f8bb6818",
-        "date": "2026-08-28",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "11月3日",
-          "team_id": "ast_7bc158e4a5814a6095f822f2db98e120"
-        },
-        "away": {
-          "name": "独立FBC",
-          "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
         },
         "venue": ""
       }
@@ -8851,13 +8805,13 @@
     }
   },
   "stats": {
-    "matches_completed": 160,
-    "total_goals": 406,
-    "avg_goals_per_match": 2.54,
-    "home_wins": 63,
+    "matches_completed": 162,
+    "total_goals": 416,
+    "avg_goals_per_match": 2.57,
+    "home_wins": 65,
     "draws": 49,
     "away_wins": 48,
-    "home_win_pct": 39.4,
+    "home_win_pct": 40.1,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -8883,9 +8837,9 @@
       }
     },
     "leader": {
-      "team": "12 de Junio",
+      "team": "General Caballero JLM",
       "points": 43,
-      "played": 20
+      "played": 21
     }
   },
   "coverage": {
@@ -8980,6 +8934,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_ece2040d27e748209e40b56a07b50286",
+            "team": "General Caballero JLM",
+            "played": 21,
+            "wins": 13,
+            "draws": 4,
+            "losses": 4,
+            "goals_for": 43,
+            "goals_against": 25,
+            "goal_difference": 18,
+            "points": 43,
+            "form": "WDWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc",
             "team": "12 de Junio",
             "played": 20,
@@ -8991,20 +8959,6 @@
             "goal_difference": 13,
             "points": 43,
             "form": "WWLDW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_ece2040d27e748209e40b56a07b50286",
-            "team": "General Caballero JLM",
-            "played": 20,
-            "wins": 12,
-            "draws": 4,
-            "losses": 4,
-            "goals_for": 41,
-            "goals_against": 24,
-            "goal_difference": 17,
-            "points": 40,
-            "form": "DWWWW"
           },
           {
             "position": 3,
@@ -9600,7 +9554,7 @@
     "teams_all_time": 52,
     "standings_rows_current": 16,
     "matches_current_season": 168,
-    "upcoming_matches": 8
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }

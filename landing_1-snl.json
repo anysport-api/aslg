@@ -230,32 +230,18 @@
         "position": 2,
         "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5",
         "team": "Koper",
-        "played": 6,
-        "wins": 2,
+        "played": 7,
+        "wins": 3,
         "draws": 3,
         "losses": 1,
-        "goals_for": 6,
+        "goals_for": 7,
         "goals_against": 5,
-        "goal_difference": 1,
-        "points": 9,
-        "form": "WDLDD"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3",
-        "team": "Aluminij",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
-        "points": 8,
+        "goal_difference": 2,
+        "points": 12,
         "form": "WWDLD"
       },
       {
-        "position": 4,
+        "position": 3,
         "team_id": "ast_938b38c528ba47648f71c28fb3513ec4",
         "team": "Celje",
         "played": 4,
@@ -267,6 +253,20 @@
         "goal_difference": 3,
         "points": 8,
         "form": "WWDD"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3",
+        "team": "Aluminij",
+        "played": 6,
+        "wins": 2,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 8,
+        "goals_against": 6,
+        "goal_difference": 2,
+        "points": 8,
+        "form": "LWWDL"
       },
       {
         "position": 5,
@@ -373,34 +373,19 @@
         "position": 2,
         "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5",
         "team": "科佩尔",
-        "played": 6,
-        "wins": 2,
+        "played": 7,
+        "wins": 3,
         "draws": 3,
         "losses": 1,
-        "goals_for": 6,
+        "goals_for": 7,
         "goals_against": 5,
-        "goal_difference": 1,
-        "points": 9,
-        "form": "WDLDD",
-        "form_label": "胜平负平平"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3",
-        "team": "阿卢米尼",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
-        "points": 8,
+        "goal_difference": 2,
+        "points": 12,
         "form": "WWDLD",
         "form_label": "胜胜平负平"
       },
       {
-        "position": 4,
+        "position": 3,
         "team_id": "ast_938b38c528ba47648f71c28fb3513ec4",
         "team": "切尔耶",
         "played": 4,
@@ -413,6 +398,21 @@
         "points": 8,
         "form": "WWDD",
         "form_label": "胜胜平平"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3",
+        "team": "阿卢米尼",
+        "played": 6,
+        "wins": 2,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 8,
+        "goals_against": 6,
+        "goal_difference": 2,
+        "points": 8,
+        "form": "LWWDL",
+        "form_label": "负胜胜平负"
       },
       {
         "position": 5,
@@ -3367,7 +3367,7 @@
         "match_id": "as_4bff8f1905a94df3ba9ffeb93bebb559",
         "date": "2026-09-05",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3379,15 +3379,13 @@
           "name": "布拉沃",
           "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c"
         },
-        "ht_score": "-",
-        "venue": "Sportni park Aluminij",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_de227afbe0af4de6980e430866a32630",
         "date": "2026-09-05",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3399,15 +3397,13 @@
           "name": "格鲁苏普列",
           "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706"
         },
-        "ht_score": "-",
-        "venue": "Stadion Stozice",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_39f74934aa2443adbc0cfcb7ce2f2371",
         "date": "2026-09-04",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3419,15 +3415,13 @@
           "name": "拉多姆列",
           "team_id": "ast_041e52aa90df4f758a96723898739b70"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d19de17290fc4c868934b2c98f3c3e51",
         "date": "2026-09-02",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3439,15 +3433,13 @@
           "name": "切尔耶",
           "team_id": "ast_938b38c528ba47648f71c28fb3513ec4"
         },
-        "ht_score": "-",
-        "venue": "Sportni park Aluminij",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_39e519e836e7443b8258102df55a2384",
         "date": "2026-08-30",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3459,15 +3451,13 @@
           "name": "切尔耶",
           "team_id": "ast_938b38c528ba47648f71c28fb3513ec4"
         },
-        "ht_score": "-",
-        "venue": "Nogometni park Brinje",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6e5f5325dd614fed9645294ea116cdd5",
         "date": "2026-08-30",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3479,9 +3469,7 @@
           "name": "马里博尔",
           "team_id": "ast_44a75787d4dd47218fa39b779fe4717d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_cbb988137d4b48d39ece5bcff862eb08",
@@ -3523,7 +3511,7 @@
         "match_id": "as_84abd6e2af834a0b9f5697763a7c7cc3",
         "date": "2026-08-28",
         "time": "18:15",
-        "status": "18:15",
+        "status": "FT",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3535,7 +3523,10 @@
           "name": "科佩尔",
           "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d6f141af5a3b4d60875f22a7481d5191",
@@ -4490,7 +4481,7 @@
         "match_id": "as_de227afbe0af4de6980e430866a32630",
         "date": "2026-09-05",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4502,15 +4493,13 @@
           "name": "格鲁苏普列",
           "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706"
         },
-        "ht_score": "-",
-        "venue": "Stadion Stozice",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4bff8f1905a94df3ba9ffeb93bebb559",
         "date": "2026-09-05",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4522,15 +4511,13 @@
           "name": "布拉沃",
           "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c"
         },
-        "ht_score": "-",
-        "venue": "Sportni park Aluminij",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_39f74934aa2443adbc0cfcb7ce2f2371",
         "date": "2026-09-04",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4542,15 +4529,13 @@
           "name": "拉多姆列",
           "team_id": "ast_041e52aa90df4f758a96723898739b70"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d19de17290fc4c868934b2c98f3c3e51",
         "date": "2026-09-02",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4562,15 +4547,13 @@
           "name": "切尔耶",
           "team_id": "ast_938b38c528ba47648f71c28fb3513ec4"
         },
-        "ht_score": "-",
-        "venue": "Sportni park Aluminij",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6e5f5325dd614fed9645294ea116cdd5",
         "date": "2026-08-30",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4582,15 +4565,13 @@
           "name": "马里博尔",
           "team_id": "ast_44a75787d4dd47218fa39b779fe4717d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_39e519e836e7443b8258102df55a2384",
         "date": "2026-08-30",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4602,9 +4583,7 @@
           "name": "切尔耶",
           "team_id": "ast_938b38c528ba47648f71c28fb3513ec4"
         },
-        "ht_score": "-",
-        "venue": "Nogometni park Brinje",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2757c685cc0b48e8a6580f6a14618a56",
@@ -4639,24 +4618,6 @@
         "away": {
           "name": "穆拉",
           "team_id": "ast_6a61b557534148c980c7edec5095beb4"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_84abd6e2af834a0b9f5697763a7c7cc3",
-        "date": "2026-08-28",
-        "time": "18:15",
-        "status": "18:15",
-        "league": "斯洛文尼亚甲级联赛",
-        "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿卢米尼",
-          "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3"
-        },
-        "away": {
-          "name": "科佩尔",
-          "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5"
         },
         "venue": ""
       }
@@ -8512,13 +8473,13 @@
     }
   },
   "stats": {
-    "matches_completed": 28,
-    "total_goals": 72,
-    "avg_goals_per_match": 2.57,
+    "matches_completed": 29,
+    "total_goals": 73,
+    "avg_goals_per_match": 2.52,
     "home_wins": 9,
     "draws": 9,
-    "away_wins": 10,
-    "home_win_pct": 32.1,
+    "away_wins": 11,
+    "home_win_pct": 31.0,
     "biggest_win": {
       "margin": 3,
       "match": {
@@ -8657,29 +8618,29 @@
             "position": 2,
             "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5",
             "team": "Koper",
-            "played": 6,
-            "wins": 2,
+            "played": 7,
+            "wins": 3,
             "draws": 3,
             "losses": 1,
-            "goals_for": 6,
+            "goals_for": 7,
             "goals_against": 5,
-            "goal_difference": 1,
-            "points": 9,
-            "form": "WDLDD"
+            "goal_difference": 2,
+            "points": 12,
+            "form": "WWDLD"
           },
           {
             "position": 3,
-            "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3",
-            "team": "Aluminij",
-            "played": 5,
+            "team_id": "ast_938b38c528ba47648f71c28fb3513ec4",
+            "team": "Celje",
+            "played": 4,
             "wins": 2,
             "draws": 2,
-            "losses": 1,
-            "goals_for": 8,
-            "goals_against": 5,
+            "losses": 0,
+            "goals_for": 7,
+            "goals_against": 4,
             "goal_difference": 3,
             "points": 8,
-            "form": "WWDLD"
+            "form": "WWDD"
           }
         ],
         "meta": {
@@ -9313,7 +9274,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }

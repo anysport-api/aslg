@@ -1,7 +1,7 @@
 {
   "slug": "bundesliga",
   "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-  "updated_at": "2026/08/28",
+  "updated_at": "2026/08/29",
   "meta": {
     "name": {
       "en": "Bundesliga",
@@ -309,15 +309,15 @@
         "position": 5,
         "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
         "team": "A. Lustenau",
-        "played": 4,
+        "played": 5,
         "wins": 1,
         "draws": 2,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 5,
-        "goals_against": 5,
-        "goal_difference": 0,
+        "goals_against": 9,
+        "goal_difference": -4,
         "points": 5,
-        "form": "DWLD"
+        "form": "LDWLD"
       },
       {
         "position": 6,
@@ -335,6 +335,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+        "team": "Tirol",
+        "played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 7,
+        "goal_difference": -1,
+        "points": 4,
+        "form": "WLLD"
+      },
+      {
+        "position": 8,
         "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
         "team": "Ried",
         "played": 4,
@@ -348,7 +362,7 @@
         "form": "WLLD"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
         "team": "Altach",
         "played": 4,
@@ -362,7 +376,7 @@
         "form": "LLWL"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
         "team": "Austria Vienna",
         "played": 3,
@@ -376,7 +390,7 @@
         "form": "WLL"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
         "team": "Hartberg",
         "played": 4,
@@ -390,7 +404,7 @@
         "form": "WLLL"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_576533b83b7a449d8a828f61801d9370",
         "team": "Grazer AK",
         "played": 4,
@@ -402,20 +416,6 @@
         "goal_difference": -11,
         "points": 3,
         "form": "LLWL"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
-        "team": "Tirol",
-        "played": 3,
-        "wins": 0,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 2,
-        "goals_against": 7,
-        "goal_difference": -5,
-        "points": 1,
-        "form": "LLD"
       }
     ],
     "zh": [
@@ -483,16 +483,16 @@
         "position": 5,
         "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
         "team": "A. 卢斯特瑙",
-        "played": 4,
+        "played": 5,
         "wins": 1,
         "draws": 2,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 5,
-        "goals_against": 5,
-        "goal_difference": 0,
+        "goals_against": 9,
+        "goal_difference": -4,
         "points": 5,
-        "form": "DWLD",
-        "form_label": "平胜负平"
+        "form": "LDWLD",
+        "form_label": "负平胜负平"
       },
       {
         "position": 6,
@@ -511,6 +511,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+        "team": "蒂罗尔",
+        "played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 7,
+        "goal_difference": -1,
+        "points": 4,
+        "form": "WLLD",
+        "form_label": "胜负负平"
+      },
+      {
+        "position": 8,
         "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
         "team": "里德",
         "played": 4,
@@ -525,7 +540,7 @@
         "form_label": "胜负负平"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
         "team": "阿尔塔赫",
         "played": 4,
@@ -540,7 +555,7 @@
         "form_label": "负负胜负"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
         "team": "维也纳奥地利",
         "played": 3,
@@ -555,7 +570,7 @@
         "form_label": "胜负负"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
         "team": "哈特贝格",
         "played": 4,
@@ -570,7 +585,7 @@
         "form_label": "胜负负负"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_576533b83b7a449d8a828f61801d9370",
         "team": "格拉茨AK",
         "played": 4,
@@ -583,21 +598,6 @@
         "points": 3,
         "form": "LLWL",
         "form_label": "负负胜负"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
-        "team": "蒂罗尔",
-        "played": 3,
-        "wins": 0,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 2,
-        "goals_against": 7,
-        "goal_difference": -5,
-        "points": 1,
-        "form": "LLD",
-        "form_label": "负负平"
       }
     ]
   },
@@ -3852,7 +3852,7 @@
         "match_id": "as_1e450d4d2fdf4fdebca08238d9cc76d8",
         "date": "2026-08-28",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -3864,7 +3864,10 @@
           "name": "蒂罗尔",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2a8404515f344c478400ada54db2482e",
@@ -4810,24 +4813,6 @@
         "away": {
           "name": "沃尔夫斯贝格",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1e450d4d2fdf4fdebca08238d9cc76d8",
-        "date": "2026-08-28",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "奥地利超级联赛",
-        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-        "season": "2026/2027",
-        "home": {
-          "name": "A. 卢斯特瑙",
-          "team_id": "ast_3e638980796048e4ac5536b4eada79d8"
-        },
-        "away": {
-          "name": "蒂罗尔",
-          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf"
         },
         "venue": ""
       }
@@ -8697,13 +8682,13 @@
     }
   },
   "stats": {
-    "matches_completed": 21,
-    "total_goals": 56,
-    "avg_goals_per_match": 2.67,
+    "matches_completed": 22,
+    "total_goals": 60,
+    "avg_goals_per_match": 2.73,
     "home_wins": 11,
     "draws": 4,
-    "away_wins": 6,
-    "home_win_pct": 52.4,
+    "away_wins": 7,
+    "home_win_pct": 50.0,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -9444,6 +9429,6 @@
     "teams_all_time": 24,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 27
+    "upcoming_matches": 26
   }
 }

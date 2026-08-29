@@ -188,15 +188,15 @@
         "position": 2,
         "team_id": "ast_386eb736e6b646ce946186c138330579",
         "team": "Viborg",
-        "played": 5,
-        "wins": 3,
+        "played": 6,
+        "wins": 4,
         "draws": 1,
         "losses": 1,
-        "goals_for": 7,
-        "goals_against": 2,
-        "goal_difference": 5,
-        "points": 10,
-        "form": "WWDLW"
+        "goals_for": 10,
+        "goals_against": 4,
+        "goal_difference": 6,
+        "points": 13,
+        "form": "WWWDL"
       },
       {
         "position": 3,
@@ -244,15 +244,15 @@
         "position": 6,
         "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
         "team": "Horsens",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
+        "losses": 3,
+        "goals_for": 8,
+        "goals_against": 10,
+        "goal_difference": -2,
         "points": 7,
-        "form": "WWLLD"
+        "form": "LWWLL"
       },
       {
         "position": 7,
@@ -359,16 +359,16 @@
         "position": 2,
         "team_id": "ast_386eb736e6b646ce946186c138330579",
         "team": "维堡",
-        "played": 5,
-        "wins": 3,
+        "played": 6,
+        "wins": 4,
         "draws": 1,
         "losses": 1,
-        "goals_for": 7,
-        "goals_against": 2,
-        "goal_difference": 5,
-        "points": 10,
-        "form": "WWDLW",
-        "form_label": "胜胜平负胜"
+        "goals_for": 10,
+        "goals_against": 4,
+        "goal_difference": 6,
+        "points": 13,
+        "form": "WWWDL",
+        "form_label": "胜胜胜平负"
       },
       {
         "position": 3,
@@ -419,16 +419,16 @@
         "position": 6,
         "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
         "team": "霍尔森斯",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
+        "losses": 3,
+        "goals_for": 8,
+        "goals_against": 10,
+        "goal_difference": -2,
         "points": 7,
-        "form": "WWLLD",
-        "form_label": "胜胜负负平"
+        "form": "LWWLL",
+        "form_label": "负胜胜负负"
       },
       {
         "position": 7,
@@ -4349,7 +4349,7 @@
         "match_id": "as_48abd2fba4d549da9d4ed9c3aac9b077",
         "date": "2026-09-05",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4361,15 +4361,13 @@
           "name": "西尔克堡",
           "team_id": "ast_1eaa756eca4c46e4a60dd4f5240acd0d"
         },
-        "ht_score": "-",
-        "venue": "New Vejlby Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ccbdd80bd6234da9825dea9fa766d874",
         "date": "2026-09-04",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4381,9 +4379,7 @@
           "name": "林比",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de"
         },
-        "ht_score": "-",
-        "venue": "Energi Viborg 竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_56e8324933874ba4a14443bb3661afae",
@@ -4515,7 +4511,7 @@
         "match_id": "as_09cd350f2c084cc1a1287483f2b4ee21",
         "date": "2026-08-28",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4527,7 +4523,10 @@
           "name": "维堡",
           "team_id": "ast_386eb736e6b646ce946186c138330579"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_265bdecccc5542f68b9faf5936f2e371",
@@ -5563,7 +5562,7 @@
         "match_id": "as_48abd2fba4d549da9d4ed9c3aac9b077",
         "date": "2026-09-05",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -5575,15 +5574,13 @@
           "name": "西尔克堡",
           "team_id": "ast_1eaa756eca4c46e4a60dd4f5240acd0d"
         },
-        "ht_score": "-",
-        "venue": "New Vejlby Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ccbdd80bd6234da9825dea9fa766d874",
         "date": "2026-09-04",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -5595,9 +5592,7 @@
           "name": "林比",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de"
         },
-        "ht_score": "-",
-        "venue": "Energi Viborg 竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_56e8324933874ba4a14443bb3661afae",
@@ -5722,24 +5717,6 @@
         "away": {
           "name": "奥登塞",
           "team_id": "ast_63d0c4d43a6e40bc8c642fe44301eb2a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_09cd350f2c084cc1a1287483f2b4ee21",
-        "date": "2026-08-28",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "丹麦超级联赛",
-        "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
-        "season": "2026/2027",
-        "home": {
-          "name": "霍尔森斯",
-          "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf"
-        },
-        "away": {
-          "name": "维堡",
-          "team_id": "ast_386eb736e6b646ce946186c138330579"
         },
         "venue": ""
       }
@@ -7597,13 +7574,13 @@
     }
   },
   "stats": {
-    "matches_completed": 28,
-    "total_goals": 73,
-    "avg_goals_per_match": 2.61,
+    "matches_completed": 29,
+    "total_goals": 78,
+    "avg_goals_per_match": 2.69,
     "home_wins": 15,
     "draws": 7,
-    "away_wins": 6,
-    "home_win_pct": 53.6,
+    "away_wins": 7,
+    "home_win_pct": 51.7,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7619,13 +7596,13 @@
     "highest_scoring_match": {
       "goals": 5,
       "match": {
-        "match_id": "as_060abc12b4094ccc930086c68f7cbfb4",
-        "date": "2026-08-17",
-        "home_id": "ast_07e046846a774b7498c44be27cc46b54",
-        "home": "布隆德比",
-        "away_id": "ast_efeedf78290d4878b205d63612876822",
-        "away": "桑德捷斯基",
-        "score": "3-2"
+        "match_id": "as_09cd350f2c084cc1a1287483f2b4ee21",
+        "date": "2026-08-28",
+        "home_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
+        "home": "霍尔森斯",
+        "away_id": "ast_386eb736e6b646ce946186c138330579",
+        "away": "维堡",
+        "score": "2-3"
       }
     },
     "leader": {
@@ -7742,15 +7719,15 @@
             "position": 2,
             "team_id": "ast_386eb736e6b646ce946186c138330579",
             "team": "Viborg",
-            "played": 5,
-            "wins": 3,
+            "played": 6,
+            "wins": 4,
             "draws": 1,
             "losses": 1,
-            "goals_for": 7,
-            "goals_against": 2,
-            "goal_difference": 5,
-            "points": 10,
-            "form": "WWDLW"
+            "goals_for": 10,
+            "goals_against": 4,
+            "goal_difference": 6,
+            "points": 13,
+            "form": "WWWDL"
           },
           {
             "position": 3,
@@ -8408,7 +8385,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 32
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }

@@ -5409,7 +5409,7 @@
         "match_id": "as_e4716ee6ac664368abb2b680d6ce3f28",
         "date": "2026-09-05",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -5421,15 +5421,13 @@
           "name": "翁斯卡尔达斯",
           "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4"
         },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3cf96638eeb242a9ad337c9aecce920a",
         "date": "2026-09-04",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -5441,9 +5439,7 @@
           "name": "麦德林独立",
           "team_id": "ast_e90f52fb079b43f9ac0c32bf7e877f7a"
         },
-        "ht_score": "-",
-        "venue": "Santiago de las Atalayas",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7494ab9e665b4958bb6eb934c5931c2d",
@@ -5782,7 +5778,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Estadio La Independencia",
         "status_label": "完场"
       },
       {
@@ -5803,7 +5799,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "桑坦德将军体育场",
         "status_label": "完场"
       },
       {
@@ -11261,6 +11257,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_34616eb9624c47d69d94b75981b9fb1f",
+        "date": "2026-10-13",
+        "time": "01:10",
+        "status": "Not Started",
+        "league": "哥伦比亚甲级联赛",
+        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
+        "season": "2026",
+        "home": {
+          "name": "奇科",
+          "team_id": "ast_0550cfe57592457190742383da011612"
+        },
+        "away": {
+          "name": "库库塔",
+          "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35"
+        },
+        "ht_score": "-",
+        "venue": "Estadio La Independencia",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_d6369c712e29407d8b1b126ba8a9d5d7",
         "date": "2026-10-12",
         "time": "01:15",
@@ -12238,26 +12254,6 @@
         },
         "ht_score": "-",
         "venue": "特乔大都会体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5990d8568dd6419b9f4b78b76ace8dca",
-        "date": "2026-09-12",
-        "time": "23:10",
-        "status": "Not Started",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "奇科",
-          "team_id": "ast_0550cfe57592457190742383da011612"
-        },
-        "away": {
-          "name": "麦德林独立",
-          "team_id": "ast_e90f52fb079b43f9ac0c32bf7e877f7a"
-        },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
         "status_label": "未开赛"
       }
     ]
@@ -15166,5 +15162,5 @@
     "matches_current_season": 394,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }

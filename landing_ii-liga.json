@@ -170,6 +170,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
+        "team": "Sandecja Nowy S.",
+        "played": 6,
+        "wins": 3,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 4,
+        "goal_difference": 4,
+        "points": 11,
+        "form": "WDWLW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
         "team": "Pruszkow",
         "played": 5,
@@ -183,7 +197,7 @@
         "form": "DLWWW"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_a438016db7844fadb2d5ca0a925432d8",
         "team": "Zawisza",
         "played": 5,
@@ -197,7 +211,7 @@
         "form": "WWWLD"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_33a301e935d84137a3e0265a1adcde92",
         "team": "Avia Swidnik",
         "played": 5,
@@ -209,20 +223,6 @@
         "goal_difference": 0,
         "points": 9,
         "form": "LLWWW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
-        "team": "Sandecja Nowy S.",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 4,
-        "goal_difference": 1,
-        "points": 8,
-        "form": "DWLWD"
       },
       {
         "position": 7,
@@ -368,15 +368,15 @@
         "position": 17,
         "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb",
         "team": "R. Rzeszow",
-        "played": 5,
+        "played": 6,
         "wins": 0,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
+        "goals_against": 13,
+        "goal_difference": -9,
         "points": 2,
-        "form": "DDLLL"
+        "form": "LDDLL"
       },
       {
         "position": 18,
@@ -426,6 +426,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
+        "team": "桑德恰诺维新",
+        "played": 6,
+        "wins": 3,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 4,
+        "goal_difference": 4,
+        "points": 11,
+        "form": "WDWLW",
+        "form_label": "胜平胜负胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
         "team": "普鲁什科夫",
         "played": 5,
@@ -440,7 +455,7 @@
         "form_label": "平负胜胜胜"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_a438016db7844fadb2d5ca0a925432d8",
         "team": "扎维沙",
         "played": 5,
@@ -455,7 +470,7 @@
         "form_label": "胜胜胜负平"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_33a301e935d84137a3e0265a1adcde92",
         "team": "阿维亚施维德尼克",
         "played": 5,
@@ -468,21 +483,6 @@
         "points": 9,
         "form": "LLWWW",
         "form_label": "负负胜胜胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
-        "team": "桑德恰诺维新",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 4,
-        "goal_difference": 1,
-        "points": 8,
-        "form": "DWLWD",
-        "form_label": "平胜负胜平"
       },
       {
         "position": 7,
@@ -638,16 +638,16 @@
         "position": 17,
         "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb",
         "team": "R. 热什佐夫",
-        "played": 5,
+        "played": 6,
         "wins": 0,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
+        "goals_against": 13,
+        "goal_difference": -9,
         "points": 2,
-        "form": "DDLLL",
-        "form_label": "平平负负负"
+        "form": "LDDLL",
+        "form_label": "负平平负负"
       },
       {
         "position": 18,
@@ -5627,7 +5627,7 @@
         "match_id": "as_20d4258214834de9b46a6d53a4570fae",
         "date": "2026-09-05",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5639,15 +5639,13 @@
           "name": "R. 热什佐夫",
           "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
         },
-        "ht_score": "-",
-        "venue": "Stadion Miejski Chojniczanka 1930",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_45af98c18e624da6877b97374f8541f8",
         "date": "2026-09-05",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5659,15 +5657,13 @@
           "name": "莱赫兹纳",
           "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_752ac7594db04f6ca66886b812264a88",
         "date": "2026-09-05",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5679,15 +5675,13 @@
           "name": "桑德恰诺维新",
           "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
         },
-        "ht_score": "-",
-        "venue": "Stadion Mijeski im. Jozefa Pilsudskiego",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_10d74ebaaf2b4f5a83fe47f70442a7b7",
         "date": "2026-09-05",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5699,15 +5693,13 @@
           "name": "斯维特什切青",
           "team_id": "ast_51d0641e51304be08ae792ce5bfe7bf3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_51aa6cb8517d46d1acf250e706090d2c",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5719,15 +5711,13 @@
           "name": "扎维沙",
           "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
         },
-        "ht_score": "-",
-        "venue": "Stadion Stali Stalowa Wola",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c61eedb7d1714127bd1eaf57ef1646e3",
         "date": "2026-08-30",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5739,15 +5729,13 @@
           "name": "比尔斯科-比亚瓦",
           "team_id": "ast_7df47cf870754692be548c6096556cb6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a2dd9515f9544e12b684428848df271f",
         "date": "2026-08-30",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5759,9 +5747,7 @@
           "name": "蒂希",
           "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2"
         },
-        "ht_score": "-",
-        "venue": "斯科尔温市立体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_abd2c4147e0a433d890d0b8738f93e50",
@@ -5875,7 +5861,7 @@
         "match_id": "as_77a2ef89483440c8aca87bb96637e2ac",
         "date": "2026-08-28",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5887,7 +5873,10 @@
           "name": "桑德恰诺维新",
           "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4a79a18aaf4242fd944779ae5ca6d75c",
@@ -7640,7 +7629,7 @@
         "match_id": "as_10d74ebaaf2b4f5a83fe47f70442a7b7",
         "date": "2026-09-05",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7652,15 +7641,13 @@
           "name": "斯维特什切青",
           "team_id": "ast_51d0641e51304be08ae792ce5bfe7bf3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_752ac7594db04f6ca66886b812264a88",
         "date": "2026-09-05",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7672,15 +7659,13 @@
           "name": "桑德恰诺维新",
           "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
         },
-        "ht_score": "-",
-        "venue": "Stadion Mijeski im. Jozefa Pilsudskiego",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_45af98c18e624da6877b97374f8541f8",
         "date": "2026-09-05",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7692,15 +7677,13 @@
           "name": "莱赫兹纳",
           "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_20d4258214834de9b46a6d53a4570fae",
         "date": "2026-09-05",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7712,15 +7695,13 @@
           "name": "R. 热什佐夫",
           "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
         },
-        "ht_score": "-",
-        "venue": "Stadion Miejski Chojniczanka 1930",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_51aa6cb8517d46d1acf250e706090d2c",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7732,15 +7713,13 @@
           "name": "扎维沙",
           "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
         },
-        "ht_score": "-",
-        "venue": "Stadion Stali Stalowa Wola",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a2dd9515f9544e12b684428848df271f",
         "date": "2026-08-30",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7752,15 +7731,13 @@
           "name": "蒂希",
           "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2"
         },
-        "ht_score": "-",
-        "venue": "斯科尔温市立体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c61eedb7d1714127bd1eaf57ef1646e3",
         "date": "2026-08-30",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7772,9 +7749,7 @@
           "name": "比尔斯科-比亚瓦",
           "team_id": "ast_7df47cf870754692be548c6096556cb6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b3be9fa6f2eb46908159e24b25667ef1",
@@ -10861,13 +10836,13 @@
     }
   },
   "stats": {
-    "matches_completed": 45,
-    "total_goals": 140,
+    "matches_completed": 46,
+    "total_goals": 143,
     "avg_goals_per_match": 3.11,
     "home_wins": 21,
     "draws": 11,
-    "away_wins": 13,
-    "home_win_pct": 46.7,
+    "away_wins": 14,
+    "home_win_pct": 45.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11018,17 +10993,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
-            "team": "Pruszkow",
-            "played": 5,
+            "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
+            "team": "Sandecja Nowy S.",
+            "played": 6,
             "wins": 3,
-            "draws": 1,
+            "draws": 2,
             "losses": 1,
             "goals_for": 8,
             "goals_against": 4,
             "goal_difference": 4,
-            "points": 10,
-            "form": "DLWWW"
+            "points": 11,
+            "form": "WDWLW"
           }
         ],
         "meta": {
@@ -11664,5 +11639,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }

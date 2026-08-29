@@ -292,20 +292,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_4be66655e3054b1687918b2b2923cdd3",
-        "team": "Comerciantes Unidos",
-        "played": 6,
-        "wins": 2,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 12,
-        "goals_against": 10,
-        "goal_difference": 2,
-        "points": 8,
-        "form": "WLWLD"
-      },
-      {
-        "position": 11,
         "team_id": "ast_deae78e1fa144be58e75b75c80fc6dd3",
         "team": "Juan Pablo II",
         "played": 6,
@@ -317,6 +303,20 @@
         "goal_difference": 2,
         "points": 8,
         "form": "WLDLW"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_4be66655e3054b1687918b2b2923cdd3",
+        "team": "Comerciantes Unidos",
+        "played": 7,
+        "wins": 2,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 14,
+        "goals_against": 13,
+        "goal_difference": 1,
+        "points": 8,
+        "form": "LWLWL"
       },
       {
         "position": 12,
@@ -348,6 +348,20 @@
       },
       {
         "position": 14,
+        "team_id": "ast_92f38b12a44145cfa2c561494d222120",
+        "team": "FC Cajamarca",
+        "played": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 13,
+        "goals_against": 16,
+        "goal_difference": -3,
+        "points": 7,
+        "form": "WLLWL"
+      },
+      {
+        "position": 15,
         "team_id": "ast_899b8096caa34d31b48adbd2313905d1",
         "team": "Los Chankas",
         "played": 6,
@@ -359,20 +373,6 @@
         "goal_difference": -6,
         "points": 7,
         "form": "LLDWL"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_92f38b12a44145cfa2c561494d222120",
-        "team": "FC Cajamarca",
-        "played": 6,
-        "wins": 1,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 10,
-        "goals_against": 14,
-        "goal_difference": -4,
-        "points": 4,
-        "form": "LLWLL"
       },
       {
         "position": 16,
@@ -555,21 +555,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_4be66655e3054b1687918b2b2923cdd3",
-        "team": "联合商人队",
-        "played": 6,
-        "wins": 2,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 12,
-        "goals_against": 10,
-        "goal_difference": 2,
-        "points": 8,
-        "form": "WLWLD",
-        "form_label": "胜负胜负平"
-      },
-      {
-        "position": 11,
         "team_id": "ast_deae78e1fa144be58e75b75c80fc6dd3",
         "team": "胡安·巴勃罗二世",
         "played": 6,
@@ -582,6 +567,21 @@
         "points": 8,
         "form": "WLDLW",
         "form_label": "胜负平负胜"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_4be66655e3054b1687918b2b2923cdd3",
+        "team": "联合商人队",
+        "played": 7,
+        "wins": 2,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 14,
+        "goals_against": 13,
+        "goal_difference": 1,
+        "points": 8,
+        "form": "LWLWL",
+        "form_label": "负胜负胜负"
       },
       {
         "position": 12,
@@ -615,6 +615,21 @@
       },
       {
         "position": 14,
+        "team_id": "ast_92f38b12a44145cfa2c561494d222120",
+        "team": "卡哈马尔卡",
+        "played": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 13,
+        "goals_against": 16,
+        "goal_difference": -3,
+        "points": 7,
+        "form": "WLLWL",
+        "form_label": "胜负负胜负"
+      },
+      {
+        "position": 15,
         "team_id": "ast_899b8096caa34d31b48adbd2313905d1",
         "team": "昌卡斯",
         "played": 6,
@@ -627,21 +642,6 @@
         "points": 7,
         "form": "LLDWL",
         "form_label": "负负平胜负"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_92f38b12a44145cfa2c561494d222120",
-        "team": "卡哈马尔卡",
-        "played": 6,
-        "wins": 1,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 10,
-        "goals_against": 14,
-        "goal_difference": -4,
-        "points": 4,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
       },
       {
         "position": 16,
@@ -4837,7 +4837,7 @@
         "match_id": "as_d96cd3110cca4f33a8e29a8b88e9edab",
         "date": "2026-09-05",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4849,15 +4849,13 @@
           "name": "莫克圭",
           "team_id": "ast_4e70c98b04ad4c61901f55e3249b90b7"
         },
-        "ht_score": "-",
-        "venue": "印加·加西拉索·德拉维加体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f08d4819940344618739d7be9370a8fe",
         "date": "2026-09-05",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4869,15 +4867,13 @@
           "name": "体育男孩",
           "team_id": "ast_761c5826c7ff481d8409477b754ef376"
         },
-        "ht_score": "-",
-        "venue": "万卡约体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fc62d3b77ef346e68d21d8a6b69d351f",
         "date": "2026-09-04",
         "time": "20:15",
-        "status": "Not Started",
+        "status": "20:15",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4889,15 +4885,13 @@
           "name": "卡哈马卡UTC",
           "team_id": "ast_d2d868436b6f414a88405a8e512d85dc"
         },
-        "ht_score": "-",
-        "venue": "Estadio Campeones del 36",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_99cc053cf4da4868b034e4bf209c5c86",
         "date": "2026-09-04",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4909,15 +4903,13 @@
           "name": "西恩西亚诺",
           "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1"
         },
-        "ht_score": "-",
-        "venue": "Estadio Heroes de San Ramon",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_cb5ee364bac2495d8f4fcda36e71ce78",
         "date": "2026-08-31",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4929,15 +4921,13 @@
           "name": "库斯科",
           "team_id": "ast_a1267ab678394880a3266b88ba2d159a"
         },
-        "ht_score": "-",
-        "venue": "印加·加西拉索·德拉维加体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0639b4fbe2894ddfb516447a6e1ae677",
         "date": "2026-08-31",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4949,15 +4939,13 @@
           "name": "梅尔加尔",
           "team_id": "ast_74e1c57acc7f444a868f1d3d75ac834b"
         },
-        "ht_score": "-",
-        "venue": "Ambrosio Maco Arroyo",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_680473a6139041f88ac420ce1639e542",
         "date": "2026-08-30",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4969,9 +4957,7 @@
           "name": "万凯约体育",
           "team_id": "ast_f42d60f2ef214287a29bce2293928dd6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1a3eddc1f0b6483b94d98a0a47da29f2",
@@ -4995,7 +4981,7 @@
         "match_id": "as_68dae33e132b471ab254e0b7d78b485e",
         "date": "2026-08-30",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -5007,15 +4993,13 @@
           "name": "阿利安萨竞技",
           "team_id": "ast_d52549c3394c4cb982058d97d1e07564"
         },
-        "ht_score": "-",
-        "venue": "十一月二十五日体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d69edfcb23b24c8881873b77a4f02cdc",
         "date": "2026-08-30",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -5027,9 +5011,7 @@
           "name": "水晶竞技",
           "team_id": "ast_ad3921e94f0646649749f9a0474cccff"
         },
-        "ht_score": "-",
-        "venue": "Estadio Miguel Grau",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_dcd5e318b4474cac8a0b1c1b53f9dc50",
@@ -5070,8 +5052,8 @@
       {
         "match_id": "as_8fda631c41ae4bbd97642e0118593365",
         "date": "2026-08-28",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "20:30",
+        "status": "FT",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -5083,7 +5065,10 @@
           "name": "卡哈马尔卡",
           "team_id": "ast_92f38b12a44145cfa2c561494d222120"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4ed83c41cf35418a99551a8e3df12dc0",
@@ -10078,7 +10063,7 @@
         "match_id": "as_f08d4819940344618739d7be9370a8fe",
         "date": "2026-09-05",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10090,15 +10075,13 @@
           "name": "体育男孩",
           "team_id": "ast_761c5826c7ff481d8409477b754ef376"
         },
-        "ht_score": "-",
-        "venue": "万卡约体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d96cd3110cca4f33a8e29a8b88e9edab",
         "date": "2026-09-05",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10110,15 +10093,13 @@
           "name": "莫克圭",
           "team_id": "ast_4e70c98b04ad4c61901f55e3249b90b7"
         },
-        "ht_score": "-",
-        "venue": "印加·加西拉索·德拉维加体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_99cc053cf4da4868b034e4bf209c5c86",
         "date": "2026-09-04",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10130,15 +10111,13 @@
           "name": "西恩西亚诺",
           "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1"
         },
-        "ht_score": "-",
-        "venue": "Estadio Heroes de San Ramon",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fc62d3b77ef346e68d21d8a6b69d351f",
         "date": "2026-09-04",
         "time": "20:15",
-        "status": "Not Started",
+        "status": "20:15",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10150,15 +10129,13 @@
           "name": "卡哈马卡UTC",
           "team_id": "ast_d2d868436b6f414a88405a8e512d85dc"
         },
-        "ht_score": "-",
-        "venue": "Estadio Campeones del 36",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0639b4fbe2894ddfb516447a6e1ae677",
         "date": "2026-08-31",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10170,15 +10147,13 @@
           "name": "梅尔加尔",
           "team_id": "ast_74e1c57acc7f444a868f1d3d75ac834b"
         },
-        "ht_score": "-",
-        "venue": "Ambrosio Maco Arroyo",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_cb5ee364bac2495d8f4fcda36e71ce78",
         "date": "2026-08-31",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10190,15 +10165,13 @@
           "name": "库斯科",
           "team_id": "ast_a1267ab678394880a3266b88ba2d159a"
         },
-        "ht_score": "-",
-        "venue": "印加·加西拉索·德拉维加体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d69edfcb23b24c8881873b77a4f02cdc",
         "date": "2026-08-30",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10210,15 +10183,13 @@
           "name": "水晶竞技",
           "team_id": "ast_ad3921e94f0646649749f9a0474cccff"
         },
-        "ht_score": "-",
-        "venue": "Estadio Miguel Grau",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_68dae33e132b471ab254e0b7d78b485e",
         "date": "2026-08-30",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10230,9 +10201,7 @@
           "name": "阿利安萨竞技",
           "team_id": "ast_d52549c3394c4cb982058d97d1e07564"
         },
-        "ht_score": "-",
-        "venue": "十一月二十五日体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1a3eddc1f0b6483b94d98a0a47da29f2",
@@ -10256,7 +10225,7 @@
         "match_id": "as_680473a6139041f88ac420ce1639e542",
         "date": "2026-08-30",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -10268,9 +10237,7 @@
           "name": "万凯约体育",
           "team_id": "ast_f42d60f2ef214287a29bce2293928dd6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4b8528a7488c4e988bb75f4c0e7d0326",
@@ -10305,24 +10272,6 @@
         "away": {
           "name": "大学生队",
           "team_id": "ast_edb7d3d8538946b68c5810c45c96b0f1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8fda631c41ae4bbd97642e0118593365",
-        "date": "2026-08-28",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "秘鲁甲级联赛",
-        "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
-        "season": "2026",
-        "home": {
-          "name": "联合商人队",
-          "team_id": "ast_4be66655e3054b1687918b2b2923cdd3"
-        },
-        "away": {
-          "name": "卡哈马尔卡",
-          "team_id": "ast_92f38b12a44145cfa2c561494d222120"
         },
         "venue": ""
       }
@@ -15789,13 +15738,13 @@
     }
   },
   "stats": {
-    "matches_completed": 207,
-    "total_goals": 555,
-    "avg_goals_per_match": 2.68,
+    "matches_completed": 208,
+    "total_goals": 560,
+    "avg_goals_per_match": 2.69,
     "home_wins": 111,
     "draws": 54,
-    "away_wins": 42,
-    "home_win_pct": 53.6,
+    "away_wins": 43,
+    "home_win_pct": 53.4,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -16600,7 +16549,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 45
+    "upcoming_matches": 44
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }

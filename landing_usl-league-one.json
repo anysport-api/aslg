@@ -64,6 +64,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_a015e53133d548dc86c208c749431062",
+        "team": "Charlotte Independ.",
+        "played": 22,
+        "wins": 14,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 52,
+        "goals_against": 29,
+        "goal_difference": 23,
+        "points": 46,
+        "form": "WDWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_fe728db455894a5dae22d922091f3e84",
         "team": "Union Omaha",
         "played": 23,
@@ -75,20 +89,6 @@
         "goal_difference": 14,
         "points": 45,
         "form": "LDWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_a015e53133d548dc86c208c749431062",
-        "team": "Charlotte Independ.",
-        "played": 21,
-        "wins": 13,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 47,
-        "goals_against": 29,
-        "goal_difference": 18,
-        "points": 43,
-        "form": "DWWWW"
       },
       {
         "position": 3,
@@ -164,15 +164,15 @@
         "position": 8,
         "team_id": "ast_177e5db3092f4c658dba4c9c90dc257c",
         "team": "AV Alta",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 8,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 33,
-        "goals_against": 29,
-        "goal_difference": 4,
+        "goals_against": 34,
+        "goal_difference": -1,
         "points": 32,
-        "form": "LLWLL"
+        "form": "LLLWL"
       },
       {
         "position": 9,
@@ -304,6 +304,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_a015e53133d548dc86c208c749431062",
+        "team": "夏洛特独立队",
+        "played": 22,
+        "wins": 14,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 52,
+        "goals_against": 29,
+        "goal_difference": 23,
+        "points": 46,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_fe728db455894a5dae22d922091f3e84",
         "team": "奥马哈联合",
         "played": 23,
@@ -316,21 +331,6 @@
         "points": 45,
         "form": "LDWWW",
         "form_label": "负平胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_a015e53133d548dc86c208c749431062",
-        "team": "夏洛特独立队",
-        "played": 21,
-        "wins": 13,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 47,
-        "goals_against": 29,
-        "goal_difference": 18,
-        "points": 43,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
       },
       {
         "position": 3,
@@ -411,16 +411,16 @@
         "position": 8,
         "team_id": "ast_177e5db3092f4c658dba4c9c90dc257c",
         "team": "阿尔塔",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 8,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 33,
-        "goals_against": 29,
-        "goal_difference": 4,
+        "goals_against": 34,
+        "goal_difference": -1,
         "points": 32,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 9,
@@ -1980,7 +1980,7 @@
         "match_id": "as_846f86cc8feb4c238f25c155246b8e91",
         "date": "2026-09-06",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "00:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -1992,15 +1992,13 @@
           "name": "前进者麦迪逊",
           "team_id": "ast_6774604e4b73463dbebed99d677d8059"
         },
-        "ht_score": "-",
-        "venue": "Cabaniss Athletic Complex",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_47e95c8a35b247bcaefe0f894fe8766e",
         "date": "2026-09-06",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -2012,9 +2010,7 @@
           "name": "夏洛特独立队",
           "team_id": "ast_a015e53133d548dc86c208c749431062"
         },
-        "ht_score": "-",
-        "venue": "沃纳公园体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_593bc78d70034460be23804ead69589a",
@@ -2040,7 +2036,7 @@
         "match_id": "as_5a714cbb11ba4881ba1c32513d49732f",
         "date": "2026-09-05",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -2052,15 +2048,13 @@
           "name": "格林维尔",
           "team_id": "ast_12d04645977a4126acb9fe34cddd5c66"
         },
-        "ht_score": "-",
-        "venue": "CHI纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_38514195af734258b629fbf006931565",
         "date": "2026-09-05",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -2072,15 +2066,13 @@
           "name": "博伊西",
           "team_id": "ast_87dc1679b3c94e458d1b280f97103850"
         },
-        "ht_score": "-",
-        "venue": "天堂海岸体育中心",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ae30170886d64f4f8a4885783a7b8e92",
         "date": "2026-09-05",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -2092,15 +2084,13 @@
           "name": "纽约宇宙",
           "team_id": "ast_121e3da961fd45e6a901ad9d0ad139d4"
         },
-        "ht_score": "-",
-        "venue": "Ruoff Mortgage Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_066d9acec1b044029ea50a97dcb32ce7",
         "date": "2026-09-05",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -2112,9 +2102,7 @@
           "name": "斯波坎速度",
           "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
         },
-        "ht_score": "-",
-        "venue": "Premier Sports Campus",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_041bb0758608473996c8d3673838c045",
@@ -2173,8 +2161,8 @@
       {
         "match_id": "as_e9dd8a1497954a44aa07eaa49c6d8307",
         "date": "2026-09-02",
-        "time": "23:00",
-        "status": "23:00",
+        "time": "23:30",
+        "status": "23:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -2318,7 +2306,7 @@
         "match_id": "as_b6ea4cfa212a4bedb3f4fbc1d7481a3e",
         "date": "2026-08-28",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -2330,7 +2318,10 @@
           "name": "阿尔塔",
           "team_id": "ast_177e5db3092f4c658dba4c9c90dc257c"
         },
-        "venue": ""
+        "ht_score": "4-0",
+        "reg_score": "5-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_dc1ba731bd654dc5a3795fdad93ca006",
@@ -2350,7 +2341,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "天堂海岸体育中心",
         "status_label": "完场"
       },
       {
@@ -8123,22 +8114,22 @@
     }
   },
   "stats": {
-    "matches_completed": 183,
-    "total_goals": 534,
-    "avg_goals_per_match": 2.92,
-    "home_wins": 100,
+    "matches_completed": 184,
+    "total_goals": 539,
+    "avg_goals_per_match": 2.93,
+    "home_wins": 101,
     "draws": 40,
     "away_wins": 43,
-    "home_win_pct": 54.6,
+    "home_win_pct": 54.9,
     "biggest_win": {
       "margin": 5,
       "match": {
-        "match_id": "as_6845bc7e97e3453590d9defe246da615",
-        "date": "2026-05-27",
-        "home_id": "ast_fc8f98df514347b0b3c0f5b379876ab0",
-        "home": "查塔努加红狼",
-        "away_id": "ast_6c6793a8b1c642ef914cb544d978ca39",
-        "away": "里士满踢球者",
+        "match_id": "as_b6ea4cfa212a4bedb3f4fbc1d7481a3e",
+        "date": "2026-08-28",
+        "home_id": "ast_a015e53133d548dc86c208c749431062",
+        "home": "夏洛特独立队",
+        "away_id": "ast_177e5db3092f4c658dba4c9c90dc257c",
+        "away": "阿尔塔",
         "score": "5-0"
       }
     },
@@ -8155,9 +8146,9 @@
       }
     },
     "leader": {
-      "team": "Union Omaha",
-      "points": 45,
-      "played": 23
+      "team": "Charlotte Independ.",
+      "points": 46,
+      "played": 22
     }
   },
   "coverage": {
@@ -8252,6 +8243,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_a015e53133d548dc86c208c749431062",
+            "team": "Charlotte Independ.",
+            "played": 22,
+            "wins": 14,
+            "draws": 4,
+            "losses": 4,
+            "goals_for": 52,
+            "goals_against": 29,
+            "goal_difference": 23,
+            "points": 46,
+            "form": "WDWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_fe728db455894a5dae22d922091f3e84",
             "team": "Union Omaha",
             "played": 23,
@@ -8263,20 +8268,6 @@
             "goal_difference": 14,
             "points": 45,
             "form": "LDWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_a015e53133d548dc86c208c749431062",
-            "team": "Charlotte Independ.",
-            "played": 21,
-            "wins": 13,
-            "draws": 4,
-            "losses": 4,
-            "goals_for": 47,
-            "goals_against": 29,
-            "goal_difference": 18,
-            "points": 43,
-            "form": "DWWWW"
           },
           {
             "position": 3,
@@ -8928,5 +8919,5 @@
     "matches_current_season": 272,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }

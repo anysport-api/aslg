@@ -246,6 +246,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
+        "team": "Dukla Prague",
+        "played": 6,
+        "wins": 3,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 11,
+        "goals_against": 9,
+        "goal_difference": 2,
+        "points": 10,
+        "form": "WLLWD"
+      },
+      {
+        "position": 6,
         "team_id": "ast_ef5701c983574258a028c6fbcbfebf00",
         "team": "Pribram",
         "played": 5,
@@ -259,32 +273,18 @@
         "form": "DDWWD"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_558e2e3821954d45b69a114640e7b35e",
         "team": "Jihlava",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 3,
-        "goal_difference": 3,
+        "losses": 3,
+        "goals_for": 7,
+        "goals_against": 6,
+        "goal_difference": 1,
         "points": 7,
-        "form": "LWLDW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
-        "team": "Dukla Prague",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
-        "points": 7,
-        "form": "LLWDW"
+        "form": "LLWLD"
       },
       {
         "position": 8,
@@ -476,6 +476,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
+        "team": "杜克拉布拉格",
+        "played": 6,
+        "wins": 3,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 11,
+        "goals_against": 9,
+        "goal_difference": 2,
+        "points": 10,
+        "form": "WLLWD",
+        "form_label": "胜负负胜平"
+      },
+      {
+        "position": 6,
         "team_id": "ast_ef5701c983574258a028c6fbcbfebf00",
         "team": "普里布拉姆",
         "played": 5,
@@ -490,34 +505,19 @@
         "form_label": "平平胜胜平"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_558e2e3821954d45b69a114640e7b35e",
         "team": "日赫拉瓦",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 3,
-        "goal_difference": 3,
+        "losses": 3,
+        "goals_for": 7,
+        "goals_against": 6,
+        "goal_difference": 1,
         "points": 7,
-        "form": "LWLDW",
-        "form_label": "负胜负平胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
-        "team": "杜克拉布拉格",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
-        "points": 7,
-        "form": "LLWDW",
-        "form_label": "负负胜平胜"
+        "form": "LLWLD",
+        "form_label": "负负胜负平"
       },
       {
         "position": 8,
@@ -4880,7 +4880,7 @@
         "match_id": "as_022db8dba32346a29b0c7bf5dae8fd75",
         "date": "2026-09-05",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -4892,9 +4892,7 @@
           "name": "杜克拉布拉格",
           "team_id": "ast_11e05cca972841289da334fbd41ae42e"
         },
-        "ht_score": "-",
-        "venue": "Simply Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_19d1eadb352f4bdd9f2c1c2094ef70f7",
@@ -4921,7 +4919,7 @@
         "match_id": "as_0f2ad0d279aa47daa94b607d73109708",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -4933,15 +4931,13 @@
           "name": "捷克利帕足球俱乐部",
           "team_id": "ast_c7c7fee154d84aa8811461f4da80be8b"
         },
-        "ht_score": "-",
-        "venue": "Stadion v Jiraskove ulici",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7b15bf8e0f2744cca98a98a467f5d67d",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -4953,15 +4949,13 @@
           "name": "塔博尔斯科",
           "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873"
         },
-        "ht_score": "-",
-        "venue": "Stadion Za Mistnim nadrazim",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_23d50ac179e44154b08fa1a3ddaa999a",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -4973,15 +4967,13 @@
           "name": "布拉格斯拉维亚B队",
           "team_id": "ast_7ae081c13b8e48239bea06ec1745ebce"
         },
-        "ht_score": "-",
-        "venue": "Town Stadium Usti",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b0237281888f4bee865e443c4ffabfcc",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -4993,15 +4985,13 @@
           "name": "特里涅茨",
           "team_id": "ast_dbeeaef6052842828e7862e084bda317"
         },
-        "ht_score": "-",
-        "venue": "Stadion v Kollarove ulici",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f4d060e9cf234d7b9cdfb073e3f949dd",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -5013,9 +5003,7 @@
           "name": "SK克拉德诺",
           "team_id": "ast_af751ba68bbd48af86599aae72009fd1"
         },
-        "ht_score": "-",
-        "venue": "Town Stadium Karvina",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3f1dd38e207e4dd5831fa7e51cdfedb7",
@@ -5168,7 +5156,7 @@
         "match_id": "as_fedeae6c369049978940f16687129abb",
         "date": "2026-08-28",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -5180,7 +5168,10 @@
           "name": "日赫拉瓦",
           "team_id": "ast_558e2e3821954d45b69a114640e7b35e"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7146bb2bf8ca4b16ae7150267baa23b1",
@@ -6716,7 +6707,7 @@
         "match_id": "as_022db8dba32346a29b0c7bf5dae8fd75",
         "date": "2026-09-05",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -6728,15 +6719,13 @@
           "name": "杜克拉布拉格",
           "team_id": "ast_11e05cca972841289da334fbd41ae42e"
         },
-        "ht_score": "-",
-        "venue": "Simply Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f4d060e9cf234d7b9cdfb073e3f949dd",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -6748,15 +6737,13 @@
           "name": "SK克拉德诺",
           "team_id": "ast_af751ba68bbd48af86599aae72009fd1"
         },
-        "ht_score": "-",
-        "venue": "Town Stadium Karvina",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b0237281888f4bee865e443c4ffabfcc",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -6768,15 +6755,13 @@
           "name": "特里涅茨",
           "team_id": "ast_dbeeaef6052842828e7862e084bda317"
         },
-        "ht_score": "-",
-        "venue": "Stadion v Kollarove ulici",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_23d50ac179e44154b08fa1a3ddaa999a",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -6788,15 +6773,13 @@
           "name": "布拉格斯拉维亚B队",
           "team_id": "ast_7ae081c13b8e48239bea06ec1745ebce"
         },
-        "ht_score": "-",
-        "venue": "Town Stadium Usti",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7b15bf8e0f2744cca98a98a467f5d67d",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -6808,15 +6791,13 @@
           "name": "塔博尔斯科",
           "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873"
         },
-        "ht_score": "-",
-        "venue": "Stadion Za Mistnim nadrazim",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0f2ad0d279aa47daa94b607d73109708",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -6828,9 +6809,7 @@
           "name": "捷克利帕足球俱乐部",
           "team_id": "ast_c7c7fee154d84aa8811461f4da80be8b"
         },
-        "ht_score": "-",
-        "venue": "Stadion v Jiraskove ulici",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_19d1eadb352f4bdd9f2c1c2094ef70f7",
@@ -6997,24 +6976,6 @@
         "away": {
           "name": "弗拉希姆",
           "team_id": "ast_18081b1b859849329d7a4145e6b11010"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_fedeae6c369049978940f16687129abb",
-        "date": "2026-08-28",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "杜克拉布拉格",
-          "team_id": "ast_11e05cca972841289da334fbd41ae42e"
-        },
-        "away": {
-          "name": "日赫拉瓦",
-          "team_id": "ast_558e2e3821954d45b69a114640e7b35e"
         },
         "venue": ""
       }
@@ -11619,13 +11580,13 @@
     }
   },
   "stats": {
-    "matches_completed": 40,
-    "total_goals": 114,
-    "avg_goals_per_match": 2.85,
-    "home_wins": 16,
+    "matches_completed": 41,
+    "total_goals": 118,
+    "avg_goals_per_match": 2.88,
+    "home_wins": 17,
     "draws": 14,
     "away_wins": 10,
-    "home_win_pct": 40.0,
+    "home_win_pct": 41.5,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -12430,7 +12391,7 @@
     "teams_all_time": 44,
     "standings_rows_current": 16,
     "matches_current_season": 270,
-    "upcoming_matches": 45
+    "upcoming_matches": 44
   },
-  "updated_at": "2026/08/28"
+  "updated_at": "2026/08/29"
 }
