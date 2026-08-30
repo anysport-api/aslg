@@ -208,6 +208,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1",
+        "team": "Vakhsh",
+        "played": 15,
+        "wins": 4,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 21,
+        "goals_against": 20,
+        "goal_difference": 1,
+        "points": 19,
+        "form": "DDWDL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_6457475ae9194c228f139f98870a95ab",
         "team": "Barkchi Hisor",
         "played": 14,
@@ -219,20 +233,6 @@
         "goal_difference": -4,
         "points": 18,
         "form": "DDDWW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1",
-        "team": "Vakhsh",
-        "played": 14,
-        "wins": 4,
-        "draws": 6,
-        "losses": 4,
-        "goals_for": 20,
-        "goals_against": 19,
-        "goal_difference": 1,
-        "points": 18,
-        "form": "DWDLD"
       },
       {
         "position": 9,
@@ -280,15 +280,15 @@
         "position": 12,
         "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
         "team": "Istaravshan",
-        "played": 13,
+        "played": 14,
         "wins": 0,
-        "draws": 5,
+        "draws": 6,
         "losses": 8,
-        "goals_for": 11,
-        "goals_against": 24,
+        "goals_for": 12,
+        "goals_against": 25,
         "goal_difference": -13,
-        "points": 5,
-        "form": "LLDDL"
+        "points": 6,
+        "form": "DLLDD"
       }
     ],
     "zh": [
@@ -384,6 +384,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1",
+        "team": "瓦赫什",
+        "played": 15,
+        "wins": 4,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 21,
+        "goals_against": 20,
+        "goal_difference": 1,
+        "points": 19,
+        "form": "DDWDL",
+        "form_label": "平平胜平负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_6457475ae9194c228f139f98870a95ab",
         "team": "巴尔基奇希索尔",
         "played": 14,
@@ -396,21 +411,6 @@
         "points": 18,
         "form": "DDDWW",
         "form_label": "平平平胜胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1",
-        "team": "瓦赫什",
-        "played": 14,
-        "wins": 4,
-        "draws": 6,
-        "losses": 4,
-        "goals_for": 20,
-        "goals_against": 19,
-        "goal_difference": 1,
-        "points": 18,
-        "form": "DWDLD",
-        "form_label": "平胜平负平"
       },
       {
         "position": 9,
@@ -461,16 +461,16 @@
         "position": 12,
         "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
         "team": "伊斯塔拉夫尚",
-        "played": 13,
+        "played": 14,
         "wins": 0,
-        "draws": 5,
+        "draws": 6,
         "losses": 8,
-        "goals_for": 11,
-        "goals_against": 24,
+        "goals_for": 12,
+        "goals_against": 25,
         "goal_difference": -13,
-        "points": 5,
-        "form": "LLDDL",
-        "form_label": "负负平平负"
+        "points": 6,
+        "form": "DLLDD",
+        "form_label": "平负负平平"
       }
     ]
   },
@@ -1215,7 +1215,7 @@
         "match_id": "as_7a166e787df942d2a1e86b15e0eb6d1a",
         "date": "2026-09-06",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -1227,15 +1227,13 @@
           "name": "埃斯克哈塔",
           "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3b35a5cdbdc04b9ea638a167b3cced13",
         "date": "2026-09-06",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -1247,9 +1245,7 @@
           "name": "帕尔沃兹-机场胡贾德",
           "team_id": "ast_ca471186d42445a189119d7b6938cb17"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b122146124bb48f1a36c332b3ae56c39",
@@ -1363,7 +1359,7 @@
         "match_id": "as_6ef0ba23c529448caadb2a87bed195b7",
         "date": "2026-08-29",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -1375,7 +1371,10 @@
           "name": "伊斯塔拉夫尚",
           "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a230891aa5c247b7a2df09a16feeafb0",
@@ -1419,7 +1418,7 @@
         "match_id": "as_4fafa9c4a1d849d5b3d9568ddd715a46",
         "date": "2026-08-27",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -1431,9 +1430,10 @@
           "name": "拉夫尚",
           "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512"
         },
-        "ht_score": "-",
+        "ht_score": "0-1",
+        "reg_score": "1-1",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_e2e49f4a66ec496d941c5579d2805e09",
@@ -3403,7 +3403,7 @@
         "match_id": "as_3b35a5cdbdc04b9ea638a167b3cced13",
         "date": "2026-09-06",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3415,15 +3415,13 @@
           "name": "帕尔沃兹-机场胡贾德",
           "team_id": "ast_ca471186d42445a189119d7b6938cb17"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7a166e787df942d2a1e86b15e0eb6d1a",
         "date": "2026-09-06",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3435,9 +3433,7 @@
           "name": "埃斯克哈塔",
           "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f30f07c82b53452abe70650ce1bf7894",
@@ -3544,24 +3540,6 @@
         "away": {
           "name": "雷加尔-塔达兹",
           "team_id": "ast_f318c556063f40e68a678415dad44278"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6ef0ba23c529448caadb2a87bed195b7",
-        "date": "2026-08-29",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "瓦赫什",
-          "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1"
-        },
-        "away": {
-          "name": "伊斯塔拉夫尚",
-          "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64"
         },
         "venue": ""
       }
@@ -4966,13 +4944,13 @@
     }
   },
   "stats": {
-    "matches_completed": 82,
-    "total_goals": 211,
-    "avg_goals_per_match": 2.57,
+    "matches_completed": 84,
+    "total_goals": 215,
+    "avg_goals_per_match": 2.56,
     "home_wins": 31,
-    "draws": 23,
+    "draws": 25,
     "away_wins": 28,
-    "home_win_pct": 37.8,
+    "home_win_pct": 36.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -5733,7 +5711,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 130,
-    "upcoming_matches": 21
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/08/29"
+  "updated_at": "2026/08/30"
 }

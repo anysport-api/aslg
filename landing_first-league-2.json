@@ -258,6 +258,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
+        "team": "Arsimi",
+        "played": 5,
+        "wins": 2,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 4,
+        "goals_against": 9,
+        "goal_difference": -5,
+        "points": 7,
+        "form": "DWWLL"
+      },
+      {
+        "position": 6,
         "team_id": "ast_8b6077284f384712b80402b56942c716",
         "team": "Vardar",
         "played": 4,
@@ -271,7 +285,7 @@
         "form": "WLLW"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2",
         "team": "Bregalnica Stip",
         "played": 5,
@@ -283,20 +297,6 @@
         "goal_difference": -2,
         "points": 6,
         "form": "LWLWL"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
-        "team": "Arsimi",
-        "played": 4,
-        "wins": 2,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 4,
-        "goals_against": 9,
-        "goal_difference": -5,
-        "points": 6,
-        "form": "WWLL"
       },
       {
         "position": 8,
@@ -316,15 +316,15 @@
         "position": 9,
         "team_id": "ast_8dfd99953954409084e10ee0a940e6f3",
         "team": "FK Skopje",
-        "played": 4,
+        "played": 5,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "losses": 2,
         "goals_for": 2,
         "goals_against": 8,
         "goal_difference": -6,
-        "points": 2,
-        "form": "DLDL"
+        "points": 3,
+        "form": "DDLDL"
       },
       {
         "position": 10,
@@ -404,6 +404,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
+        "team": "阿尔西米",
+        "played": 5,
+        "wins": 2,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 4,
+        "goals_against": 9,
+        "goal_difference": -5,
+        "points": 7,
+        "form": "DWWLL",
+        "form_label": "平胜胜负负"
+      },
+      {
+        "position": 6,
         "team_id": "ast_8b6077284f384712b80402b56942c716",
         "team": "瓦尔达尔",
         "played": 4,
@@ -418,7 +433,7 @@
         "form_label": "胜负负胜"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2",
         "team": "斯蒂普布雷加尔尼察",
         "played": 5,
@@ -431,21 +446,6 @@
         "points": 6,
         "form": "LWLWL",
         "form_label": "负胜负胜负"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
-        "team": "阿尔西米",
-        "played": 4,
-        "wins": 2,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 4,
-        "goals_against": 9,
-        "goal_difference": -5,
-        "points": 6,
-        "form": "WWLL",
-        "form_label": "胜胜负负"
       },
       {
         "position": 8,
@@ -466,16 +466,16 @@
         "position": 9,
         "team_id": "ast_8dfd99953954409084e10ee0a940e6f3",
         "team": "斯科普耶足球俱乐部",
-        "played": 4,
+        "played": 5,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "losses": 2,
         "goals_for": 2,
         "goals_against": 8,
         "goal_difference": -6,
-        "points": 2,
-        "form": "DLDL",
-        "form_label": "平负平负"
+        "points": 3,
+        "form": "DDLDL",
+        "form_label": "平平负平负"
       },
       {
         "position": 10,
@@ -1843,7 +1843,7 @@
         "match_id": "as_6414e345cebe438bb8492eb80477386c",
         "date": "2026-08-29",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1855,7 +1855,10 @@
           "name": "斯科普耶足球俱乐部",
           "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5b8aef9f696a46018a2753f36dd470e1",
@@ -2746,24 +2749,6 @@
         "away": {
           "name": "什肯迪亚哈拉奇",
           "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6414e345cebe438bb8492eb80477386c",
-        "date": "2026-08-29",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔西米",
-          "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a"
-        },
-        "away": {
-          "name": "斯科普耶足球俱乐部",
-          "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
         },
         "venue": ""
       }
@@ -6844,13 +6829,13 @@
     }
   },
   "stats": {
-    "matches_completed": 22,
+    "matches_completed": 23,
     "total_goals": 67,
-    "avg_goals_per_match": 3.05,
+    "avg_goals_per_match": 2.91,
     "home_wins": 14,
-    "draws": 3,
+    "draws": 4,
     "away_wins": 5,
-    "home_win_pct": 63.6,
+    "home_win_pct": 60.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7648,7 +7633,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 23
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/08/29"
+  "updated_at": "2026/08/30"
 }

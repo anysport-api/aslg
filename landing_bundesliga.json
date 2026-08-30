@@ -1,7 +1,7 @@
 {
   "slug": "bundesliga",
   "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-  "updated_at": "2026/08/29",
+  "updated_at": "2026/08/30",
   "meta": {
     "name": {
       "en": "Bundesliga",
@@ -251,6 +251,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
+        "team": "LASK",
+        "played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 12,
+        "goals_against": 1,
+        "goal_difference": 11,
+        "points": 12,
+        "form": "WWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_d23bd65c075e43908bc45b934484863a",
         "team": "SK Rapid",
         "played": 3,
@@ -260,20 +274,6 @@
         "goals_for": 11,
         "goals_against": 1,
         "goal_difference": 10,
-        "points": 9,
-        "form": "WWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
-        "team": "LASK",
-        "played": 3,
-        "wins": 3,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 9,
-        "goals_against": 1,
-        "goal_difference": 8,
         "points": 9,
         "form": "WWW"
       },
@@ -307,6 +307,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
+        "team": "Wolfsberger AC",
+        "played": 4,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 5,
+        "goals_against": 3,
+        "goal_difference": 2,
+        "points": 5,
+        "form": "DLDW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
         "team": "A. Lustenau",
         "played": 5,
@@ -318,20 +332,6 @@
         "goal_difference": -4,
         "points": 5,
         "form": "LDWLD"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
-        "team": "Wolfsberger AC",
-        "played": 3,
-        "wins": 1,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 3,
-        "goal_difference": 2,
-        "points": 4,
-        "form": "LDW"
       },
       {
         "position": 7,
@@ -363,17 +363,17 @@
       },
       {
         "position": 9,
-        "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
-        "team": "Altach",
-        "played": 4,
+        "team_id": "ast_576533b83b7a449d8a828f61801d9370",
+        "team": "Grazer AK",
+        "played": 5,
         "wins": 1,
-        "draws": 0,
+        "draws": 1,
         "losses": 3,
-        "goals_for": 4,
-        "goals_against": 5,
-        "goal_difference": -1,
-        "points": 3,
-        "form": "LLWL"
+        "goals_for": 2,
+        "goals_against": 13,
+        "goal_difference": -11,
+        "points": 4,
+        "form": "DLLWL"
       },
       {
         "position": 10,
@@ -391,6 +391,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
+        "team": "Altach",
+        "played": 5,
+        "wins": 1,
+        "draws": 0,
+        "losses": 4,
+        "goals_for": 4,
+        "goals_against": 8,
+        "goal_difference": -4,
+        "points": 3,
+        "form": "LLLWL"
+      },
+      {
+        "position": 12,
         "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
         "team": "Hartberg",
         "played": 4,
@@ -402,25 +416,26 @@
         "goal_difference": -4,
         "points": 3,
         "form": "WLLL"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_576533b83b7a449d8a828f61801d9370",
-        "team": "Grazer AK",
-        "played": 4,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 2,
-        "goals_against": 13,
-        "goal_difference": -11,
-        "points": 3,
-        "form": "LLWL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
+        "team": "林茨体育",
+        "played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 12,
+        "goals_against": 1,
+        "goal_difference": 11,
+        "points": 12,
+        "form": "WWWW",
+        "form_label": "胜胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_d23bd65c075e43908bc45b934484863a",
         "team": "SK快速",
         "played": 3,
@@ -430,21 +445,6 @@
         "goals_for": 11,
         "goals_against": 1,
         "goal_difference": 10,
-        "points": 9,
-        "form": "WWW",
-        "form_label": "胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
-        "team": "林茨体育",
-        "played": 3,
-        "wins": 3,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 9,
-        "goals_against": 1,
-        "goal_difference": 8,
         "points": 9,
         "form": "WWW",
         "form_label": "胜胜胜"
@@ -481,6 +481,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
+        "team": "沃尔夫斯贝格",
+        "played": 4,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 5,
+        "goals_against": 3,
+        "goal_difference": 2,
+        "points": 5,
+        "form": "DLDW",
+        "form_label": "平负平胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
         "team": "A. 卢斯特瑙",
         "played": 5,
@@ -493,21 +508,6 @@
         "points": 5,
         "form": "LDWLD",
         "form_label": "负平胜负平"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
-        "team": "沃尔夫斯贝格",
-        "played": 3,
-        "wins": 1,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 3,
-        "goal_difference": 2,
-        "points": 4,
-        "form": "LDW",
-        "form_label": "负平胜"
       },
       {
         "position": 7,
@@ -541,18 +541,18 @@
       },
       {
         "position": 9,
-        "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
-        "team": "阿尔塔赫",
-        "played": 4,
+        "team_id": "ast_576533b83b7a449d8a828f61801d9370",
+        "team": "格拉茨AK",
+        "played": 5,
         "wins": 1,
-        "draws": 0,
+        "draws": 1,
         "losses": 3,
-        "goals_for": 4,
-        "goals_against": 5,
-        "goal_difference": -1,
-        "points": 3,
-        "form": "LLWL",
-        "form_label": "负负胜负"
+        "goals_for": 2,
+        "goals_against": 13,
+        "goal_difference": -11,
+        "points": 4,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       },
       {
         "position": 10,
@@ -571,6 +571,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
+        "team": "阿尔塔赫",
+        "played": 5,
+        "wins": 1,
+        "draws": 0,
+        "losses": 4,
+        "goals_for": 4,
+        "goals_against": 8,
+        "goal_difference": -4,
+        "points": 3,
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
+      },
+      {
+        "position": 12,
         "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
         "team": "哈特贝格",
         "played": 4,
@@ -583,21 +598,6 @@
         "points": 3,
         "form": "WLLL",
         "form_label": "胜负负负"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_576533b83b7a449d8a828f61801d9370",
-        "team": "格拉茨AK",
-        "played": 4,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 2,
-        "goals_against": 13,
-        "goal_difference": -11,
-        "points": 3,
-        "form": "LLWL",
-        "form_label": "负负胜负"
       }
     ]
   },
@@ -646,6 +646,22 @@
         },
         {
           "rank": 6,
+          "player_id": "asp_cb3a4a33bdea4c2c987b3c5ff7a215d6",
+          "player_name": "N. Frederiksen",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "Wattens",
+          "value": 2
+        },
+        {
+          "rank": 7,
+          "player_id": "asp_a409abf42e864872b84eef9e99059a54",
+          "player_name": "M. Striednig",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "Wattens",
+          "value": 1
+        },
+        {
+          "rank": 8,
           "player_id": "asp_db5d7ef570c34061a2c14048055f86b2",
           "player_name": "K. Konaté",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -653,7 +669,7 @@
           "value": 1
         },
         {
-          "rank": 7,
+          "rank": 9,
           "player_id": "asp_3ef7b1b052ce4768bbad57b78909b30b",
           "player_name": "Frans Kratzig",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -661,7 +677,7 @@
           "value": 1
         },
         {
-          "rank": 8,
+          "rank": 10,
           "player_id": "asp_fce7aef2393a4d8893bb69e2dc9f0cc4",
           "player_name": "Giacomo Vrioni",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
@@ -669,7 +685,7 @@
           "value": 1
         },
         {
-          "rank": 9,
+          "rank": 11,
           "player_id": "asp_2813bdfcb9e2489bbbd1272460624d29",
           "player_name": "Dominik Weixelbraun",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -677,7 +693,7 @@
           "value": 1
         },
         {
-          "rank": 10,
+          "rank": 12,
           "player_id": "asp_6994fb5e5b35436bb8a09bfd97efb417",
           "player_name": "Nenad Cvetkovic",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -685,7 +701,7 @@
           "value": 1
         },
         {
-          "rank": 11,
+          "rank": 13,
           "player_id": "asp_e25c76e21a6f424783ed39f49862b6c5",
           "player_name": "J. Hettwer",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -693,7 +709,7 @@
           "value": 1
         },
         {
-          "rank": 12,
+          "rank": 14,
           "player_id": "asp_ac5bb9af1b0941f6abf5efe41f921760",
           "player_name": "Nnodim Daniel",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -701,7 +717,7 @@
           "value": 1
         },
         {
-          "rank": 13,
+          "rank": 15,
           "player_id": "asp_6fbe5c7893a142e09a59d790b6f3cc1f",
           "player_name": "Pape Niama",
           "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
@@ -709,7 +725,7 @@
           "value": 1
         },
         {
-          "rank": 14,
+          "rank": 16,
           "player_id": "asp_ba246296c2dc409d8bb82da0c77a9870",
           "player_name": "Yusuf Demir",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -717,7 +733,7 @@
           "value": 1
         },
         {
-          "rank": 15,
+          "rank": 17,
           "player_id": "asp_f90529781dda4fd2908a231d78fe2518",
           "player_name": "Lang Christoph",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
@@ -725,7 +741,15 @@
           "value": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
+          "player_id": "asp_5fe9d67eb1044f9280e31672e2cb0b24",
+          "player_name": "M. Olakigbe",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "Wattens",
+          "value": 1
+        },
+        {
+          "rank": 19,
           "player_id": "asp_320177ce2b6347c6a03a63bb157dc87a",
           "player_name": "O. Diawara",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -733,7 +757,7 @@
           "value": 1
         },
         {
-          "rank": 17,
+          "rank": 20,
           "player_id": "asp_582e110dd28a4e1ab9618f30a6938caf",
           "player_name": "A. Gattermayer",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -741,7 +765,7 @@
           "value": 1
         },
         {
-          "rank": 18,
+          "rank": 21,
           "player_id": "asp_d0b738d126d84d0da6d2df61e0a99574",
           "player_name": "Sota Kitano",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -749,7 +773,7 @@
           "value": 1
         },
         {
-          "rank": 19,
+          "rank": 22,
           "player_id": "asp_f0bccb7ac8414163826c5e9bffbdaf35",
           "player_name": "B. Markuš",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -800,6 +824,22 @@
         },
         {
           "rank": 6,
+          "player_id": "asp_cb3a4a33bdea4c2c987b3c5ff7a215d6",
+          "player_name": "尼古拉·巴登·弗雷德里克森",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "蒂罗尔",
+          "value": 2
+        },
+        {
+          "rank": 7,
+          "player_id": "asp_a409abf42e864872b84eef9e99059a54",
+          "player_name": "M. 斯特里德尼格",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "蒂罗尔",
+          "value": 1
+        },
+        {
+          "rank": 8,
           "player_id": "asp_db5d7ef570c34061a2c14048055f86b2",
           "player_name": "卡里姆·科纳特",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -807,7 +847,7 @@
           "value": 1
         },
         {
-          "rank": 7,
+          "rank": 9,
           "player_id": "asp_3ef7b1b052ce4768bbad57b78909b30b",
           "player_name": "弗朗斯·克拉齐格",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -815,7 +855,7 @@
           "value": 1
         },
         {
-          "rank": 8,
+          "rank": 10,
           "player_id": "asp_fce7aef2393a4d8893bb69e2dc9f0cc4",
           "player_name": "贾科莫·弗里奥尼",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
@@ -823,7 +863,7 @@
           "value": 1
         },
         {
-          "rank": 9,
+          "rank": 11,
           "player_id": "asp_2813bdfcb9e2489bbbd1272460624d29",
           "player_name": "多米尼克·韦克塞尔布劳恩",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -831,7 +871,7 @@
           "value": 1
         },
         {
-          "rank": 10,
+          "rank": 12,
           "player_id": "asp_6994fb5e5b35436bb8a09bfd97efb417",
           "player_name": "内纳德·茨维特科维奇",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -839,7 +879,7 @@
           "value": 1
         },
         {
-          "rank": 11,
+          "rank": 13,
           "player_id": "asp_e25c76e21a6f424783ed39f49862b6c5",
           "player_name": "朱利安·赫特维尔",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -847,7 +887,7 @@
           "value": 1
         },
         {
-          "rank": 12,
+          "rank": 14,
           "player_id": "asp_ac5bb9af1b0941f6abf5efe41f921760",
           "player_name": "丹尼尔·诺迪姆",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -855,7 +895,7 @@
           "value": 1
         },
         {
-          "rank": 13,
+          "rank": 15,
           "player_id": "asp_6fbe5c7893a142e09a59d790b6f3cc1f",
           "player_name": "N. 西索科",
           "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
@@ -863,7 +903,7 @@
           "value": 1
         },
         {
-          "rank": 14,
+          "rank": 16,
           "player_id": "asp_ba246296c2dc409d8bb82da0c77a9870",
           "player_name": "尤素福·德米尔",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -871,7 +911,7 @@
           "value": 1
         },
         {
-          "rank": 15,
+          "rank": 17,
           "player_id": "asp_f90529781dda4fd2908a231d78fe2518",
           "player_name": "克里斯托夫·朗",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
@@ -879,7 +919,15 @@
           "value": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
+          "player_id": "asp_5fe9d67eb1044f9280e31672e2cb0b24",
+          "player_name": "迈克尔·奥拉基贝",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "蒂罗尔",
+          "value": 1
+        },
+        {
+          "rank": 19,
           "player_id": "asp_320177ce2b6347c6a03a63bb157dc87a",
           "player_name": "乌斯曼·迪亚瓦拉",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -887,7 +935,7 @@
           "value": 1
         },
         {
-          "rank": 17,
+          "rank": 20,
           "player_id": "asp_582e110dd28a4e1ab9618f30a6938caf",
           "player_name": "安杰洛·加特梅耶尔",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -895,7 +943,7 @@
           "value": 1
         },
         {
-          "rank": 18,
+          "rank": 21,
           "player_id": "asp_d0b738d126d84d0da6d2df61e0a99574",
           "player_name": "北野颂太",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -903,7 +951,7 @@
           "value": 1
         },
         {
-          "rank": 19,
+          "rank": 22,
           "player_id": "asp_f0bccb7ac8414163826c5e9bffbdaf35",
           "player_name": "本杰明·马尔库斯",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -932,6 +980,14 @@
         },
         {
           "rank": 3,
+          "player_id": "asp_af86fe971c2b455bb4ef576d52723840",
+          "player_name": "T. Goiginger",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "Wattens",
+          "value": 1
+        },
+        {
+          "rank": 4,
           "player_id": "asp_8686575fa3204810a6e5a6350b1cffed",
           "player_name": "M. Bogarde",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
@@ -939,7 +995,7 @@
           "value": 1
         },
         {
-          "rank": 4,
+          "rank": 5,
           "player_id": "asp_daa82dff9b624dc2a6ef31c768f83ee4",
           "player_name": "Yorbe Vertessen",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -947,7 +1003,7 @@
           "value": 1
         },
         {
-          "rank": 5,
+          "rank": 6,
           "player_id": "asp_2813bdfcb9e2489bbbd1272460624d29",
           "player_name": "Dominik Weixelbraun",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -955,7 +1011,7 @@
           "value": 1
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_90bbfe5831e2429482f2765bf7b14acd",
           "player_name": "Romeo Amane",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -963,7 +1019,7 @@
           "value": 1
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_63f743b861374079995d9bd046c576eb",
           "player_name": "A. Barry",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -971,7 +1027,7 @@
           "value": 1
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_3e5c6c91ad514bf8944946780bd8fbf8",
           "player_name": "D. Avdijaj",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
@@ -979,7 +1035,7 @@
           "value": 1
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_a4ff4b2b785d494a9d6f3bd6a13bd762",
           "player_name": "Matthias Seidl",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -987,7 +1043,7 @@
           "value": 1
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_807436d18f4f4d1bbf8411a2882cdb63",
           "player_name": "M. Fischer",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -995,7 +1051,7 @@
           "value": 1
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_f08a1c074f764c2bb8e85d1bcbaddffb",
           "player_name": "Jannes-Kilian Horn",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -1003,7 +1059,7 @@
           "value": 1
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_fd101f3be3124627b3c39eff1c6ac99f",
           "player_name": "N. Niehoff",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -1011,7 +1067,7 @@
           "value": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_0e93dfa450504a8db1f8cac1f2392e08",
           "player_name": "Hoffmann Marco",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1019,7 +1075,7 @@
           "value": 1
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_00b4eeb1ef454f688810483cc7a2fa20",
           "player_name": "Seidl Simon",
           "team_id": "ast_fe11ba7f4fdf422caeb35a56fe176e1a",
@@ -1027,7 +1083,15 @@
           "value": 1
         },
         {
-          "rank": 15,
+          "rank": 16,
+          "player_id": "asp_5fe9d67eb1044f9280e31672e2cb0b24",
+          "player_name": "M. Olakigbe",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "Wattens",
+          "value": 1
+        },
+        {
+          "rank": 17,
           "player_id": "asp_d04b145183d842cf8694cd2d50a0906f",
           "player_name": "Marco Tilio",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -1035,7 +1099,7 @@
           "value": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "player_id": "asp_8b3ffdb5997b4454b7a44d40dac5c9e6",
           "player_name": "Tae-Seok Lee",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -1043,7 +1107,7 @@
           "value": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "player_id": "asp_37383b103f41433b8c031877851f5ff7",
           "player_name": "Soares Danilo",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -1070,6 +1134,14 @@
         },
         {
           "rank": 3,
+          "player_id": "asp_af86fe971c2b455bb4ef576d52723840",
+          "player_name": "托马斯·戈伊金格",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "蒂罗尔",
+          "value": 1
+        },
+        {
+          "rank": 4,
           "player_id": "asp_8686575fa3204810a6e5a6350b1cffed",
           "player_name": "梅莱罗·博加德",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
@@ -1077,7 +1149,7 @@
           "value": 1
         },
         {
-          "rank": 4,
+          "rank": 5,
           "player_id": "asp_daa82dff9b624dc2a6ef31c768f83ee4",
           "player_name": "约尔贝·维尔特森",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -1085,7 +1157,7 @@
           "value": 1
         },
         {
-          "rank": 5,
+          "rank": 6,
           "player_id": "asp_2813bdfcb9e2489bbbd1272460624d29",
           "player_name": "多米尼克·韦克塞尔布劳恩",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -1093,7 +1165,7 @@
           "value": 1
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_90bbfe5831e2429482f2765bf7b14acd",
           "player_name": "罗密欧·阿曼尼",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -1101,7 +1173,7 @@
           "value": 1
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_63f743b861374079995d9bd046c576eb",
           "player_name": "阿布巴卡尔·巴里",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
@@ -1109,7 +1181,7 @@
           "value": 1
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_3e5c6c91ad514bf8944946780bd8fbf8",
           "player_name": "多尼斯·阿夫迪贾伊",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
@@ -1117,7 +1189,7 @@
           "value": 1
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_a4ff4b2b785d494a9d6f3bd6a13bd762",
           "player_name": "马提亚斯·塞德尔",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -1125,7 +1197,7 @@
           "value": 1
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_807436d18f4f4d1bbf8411a2882cdb63",
           "player_name": "曼弗雷德·费舍尔",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -1133,7 +1205,7 @@
           "value": 1
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_f08a1c074f764c2bb8e85d1bcbaddffb",
           "player_name": "扬内斯-基利安·霍恩",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -1141,7 +1213,7 @@
           "value": 1
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_fd101f3be3124627b3c39eff1c6ac99f",
           "player_name": "尼克拉斯·尼霍夫",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -1149,7 +1221,7 @@
           "value": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_0e93dfa450504a8db1f8cac1f2392e08",
           "player_name": "Hoffmann Marco",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1157,7 +1229,7 @@
           "value": 1
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_00b4eeb1ef454f688810483cc7a2fa20",
           "player_name": "西蒙·赛德尔",
           "team_id": "ast_fe11ba7f4fdf422caeb35a56fe176e1a",
@@ -1165,7 +1237,15 @@
           "value": 1
         },
         {
-          "rank": 15,
+          "rank": 16,
+          "player_id": "asp_5fe9d67eb1044f9280e31672e2cb0b24",
+          "player_name": "迈克尔·奥拉基贝",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "蒂罗尔",
+          "value": 1
+        },
+        {
+          "rank": 17,
           "player_id": "asp_d04b145183d842cf8694cd2d50a0906f",
           "player_name": "马尔科·蒂利奥",
           "team_id": "ast_d23bd65c075e43908bc45b934484863a",
@@ -1173,7 +1253,7 @@
           "value": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "player_id": "asp_8b3ffdb5997b4454b7a44d40dac5c9e6",
           "player_name": "李泰石",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -1181,7 +1261,7 @@
           "value": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "player_id": "asp_37383b103f41433b8c031877851f5ff7",
           "player_name": "索亚雷斯·达尼洛",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -1274,6 +1354,14 @@
         },
         {
           "rank": 11,
+          "player_id": "asp_b2cc7f8b7add4e8281cdbab73a7e4c53",
+          "player_name": "Verinac Antonio",
+          "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
+          "team_name": "Austria Lustenau",
+          "value": 1
+        },
+        {
+          "rank": 12,
           "player_id": "asp_6fbe5c7893a142e09a59d790b6f3cc1f",
           "player_name": "Pape Niama",
           "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
@@ -1281,7 +1369,7 @@
           "value": 1
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_028564109d5b42d1a3ec7a0bc4ef2997",
           "player_name": "N. Celic",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
@@ -1289,7 +1377,7 @@
           "value": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_76872e47e86c48398ef46b17c0e4285b",
           "player_name": "Anas Habib",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1297,7 +1385,7 @@
           "value": 1
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_11e38329d5174119aa09d2d82a4117fe",
           "player_name": "Wilfinger Fabian",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1305,7 +1393,7 @@
           "value": 1
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_716fa81c3d364e4f8e9b23de4ff2c228",
           "player_name": "M. Schabauer",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
@@ -1313,7 +1401,23 @@
           "value": 1
         },
         {
-          "rank": 16,
+          "rank": 17,
+          "player_id": "asp_4db91b18abab431aa3a4a09a50fc6711",
+          "player_name": "M. Oswald",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "Wattens",
+          "value": 1
+        },
+        {
+          "rank": 18,
+          "player_id": "asp_5aa92cedc26242c9991011bb4ea67516",
+          "player_name": "Bohm Phillip",
+          "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
+          "team_name": "Austria Lustenau",
+          "value": 1
+        },
+        {
+          "rank": 19,
           "player_id": "asp_aa6ee2e7c4aa412f8bba8f7143659723",
           "player_name": "P. Michorl",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1321,7 +1425,7 @@
           "value": 1
         },
         {
-          "rank": 17,
+          "rank": 20,
           "player_id": "asp_45da1fb8c3a342588472551b2e963b7b",
           "player_name": "L. Jäger",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -1329,7 +1433,7 @@
           "value": 1
         },
         {
-          "rank": 18,
+          "rank": 21,
           "player_id": "asp_c3eddb0401934a07ac02da7ed3d04a26",
           "player_name": "Feldhofer Nikolaus",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1337,7 +1441,7 @@
           "value": 1
         },
         {
-          "rank": 19,
+          "rank": 22,
           "player_id": "asp_3ca13c9ceeef43a78777e07696d592f7",
           "player_name": "Gschösser Raphael",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
@@ -1345,7 +1449,7 @@
           "value": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "player_id": "asp_289334bd580a442586d743106c031e4d",
           "player_name": "L. Jastremski",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -1353,7 +1457,7 @@
           "value": 1
         },
         {
-          "rank": 21,
+          "rank": 24,
           "player_id": "asp_a7ee707738f34f80af8bdd98578569a5",
           "player_name": "T. Koch",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1361,7 +1465,7 @@
           "value": 1
         },
         {
-          "rank": 22,
+          "rank": 25,
           "player_id": "asp_25d47635063949c7b1458279e8aa46dd",
           "player_name": "P. Greil",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -1369,7 +1473,7 @@
           "value": 1
         },
         {
-          "rank": 23,
+          "rank": 26,
           "player_id": "asp_eeca71e371244acab4ec2bc2e6ea8e4f",
           "player_name": "Afrifa Lord",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -1377,7 +1481,7 @@
           "value": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "player_id": "asp_9b542fac9f8c4bd8a37e3b6da88ac95f",
           "player_name": "Y. Oberleitner",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1385,7 +1489,7 @@
           "value": 1
         },
         {
-          "rank": 25,
+          "rank": 28,
           "player_id": "asp_9827f2a8bcb0425e94372fdbbd4914ec",
           "player_name": "K. Boateng",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -1393,7 +1497,7 @@
           "value": 1
         },
         {
-          "rank": 26,
+          "rank": 29,
           "player_id": "asp_2023bf5940f94571812e1d61edbb7e44",
           "player_name": "A. Hofleitner",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1401,7 +1505,7 @@
           "value": 1
         },
         {
-          "rank": 27,
+          "rank": 30,
           "player_id": "asp_b1851ce88c2040bb841f0bc378e09eda",
           "player_name": "Anderson",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1409,7 +1513,7 @@
           "value": 1
         },
         {
-          "rank": 28,
+          "rank": 31,
           "player_id": "asp_d9ef6811575b46ac9fdc298dd80352aa",
           "player_name": "Stankovic Gorenc",
           "team_id": "ast_fe11ba7f4fdf422caeb35a56fe176e1a",
@@ -1417,7 +1521,7 @@
           "value": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "player_id": "asp_a7479a386ae048f699a717898e9bec71",
           "player_name": "B. Owusu (o.g.)",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1508,6 +1612,14 @@
         },
         {
           "rank": 11,
+          "player_id": "asp_b2cc7f8b7add4e8281cdbab73a7e4c53",
+          "player_name": "安东尼奥·维里纳克",
+          "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
+          "team_name": "A. 卢斯特瑙",
+          "value": 1
+        },
+        {
+          "rank": 12,
           "player_id": "asp_6fbe5c7893a142e09a59d790b6f3cc1f",
           "player_name": "N. 西索科",
           "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
@@ -1515,7 +1627,7 @@
           "value": 1
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_028564109d5b42d1a3ec7a0bc4ef2997",
           "player_name": "内曼贾·切利奇",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
@@ -1523,7 +1635,7 @@
           "value": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_76872e47e86c48398ef46b17c0e4285b",
           "player_name": "哈比布·库利巴利",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1531,7 +1643,7 @@
           "value": 1
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_11e38329d5174119aa09d2d82a4117fe",
           "player_name": "法比安·维尔芬格",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1539,7 +1651,7 @@
           "value": 1
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_716fa81c3d364e4f8e9b23de4ff2c228",
           "player_name": "M. Schabauer",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4",
@@ -1547,7 +1659,23 @@
           "value": 1
         },
         {
-          "rank": 16,
+          "rank": 17,
+          "player_id": "asp_4db91b18abab431aa3a4a09a50fc6711",
+          "player_name": "莫里茨·奥斯瓦尔德",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
+          "team_name": "蒂罗尔",
+          "value": 1
+        },
+        {
+          "rank": 18,
+          "player_id": "asp_5aa92cedc26242c9991011bb4ea67516",
+          "player_name": "Bohm Phillip",
+          "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
+          "team_name": "A. 卢斯特瑙",
+          "value": 1
+        },
+        {
+          "rank": 19,
           "player_id": "asp_aa6ee2e7c4aa412f8bba8f7143659723",
           "player_name": "彼得·米霍尔",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1555,7 +1683,7 @@
           "value": 1
         },
         {
-          "rank": 17,
+          "rank": 20,
           "player_id": "asp_45da1fb8c3a342588472551b2e963b7b",
           "player_name": "卢卡斯·雅格尔",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -1563,7 +1691,7 @@
           "value": 1
         },
         {
-          "rank": 18,
+          "rank": 21,
           "player_id": "asp_c3eddb0401934a07ac02da7ed3d04a26",
           "player_name": "Feldhofer Nikolaus",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14",
@@ -1571,7 +1699,7 @@
           "value": 1
         },
         {
-          "rank": 19,
+          "rank": 22,
           "player_id": "asp_3ca13c9ceeef43a78777e07696d592f7",
           "player_name": "拉斐尔·格施霍瑟",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
@@ -1579,7 +1707,7 @@
           "value": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "player_id": "asp_289334bd580a442586d743106c031e4d",
           "player_name": "伦·雅斯特雷姆斯基",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -1587,7 +1715,7 @@
           "value": 1
         },
         {
-          "rank": 21,
+          "rank": 24,
           "player_id": "asp_a7ee707738f34f80af8bdd98578569a5",
           "player_name": "托比亚斯·科赫",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1595,7 +1723,7 @@
           "value": 1
         },
         {
-          "rank": 22,
+          "rank": 25,
           "player_id": "asp_25d47635063949c7b1458279e8aa46dd",
           "player_name": "帕特里克·格雷尔",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3",
@@ -1603,7 +1731,7 @@
           "value": 1
         },
         {
-          "rank": 23,
+          "rank": 26,
           "player_id": "asp_eeca71e371244acab4ec2bc2e6ea8e4f",
           "player_name": "L. 阿弗里法",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
@@ -1611,7 +1739,7 @@
           "value": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "player_id": "asp_9b542fac9f8c4bd8a37e3b6da88ac95f",
           "player_name": "扬尼克·奥贝尔莱特纳",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1619,7 +1747,7 @@
           "value": 1
         },
         {
-          "rank": 25,
+          "rank": 28,
           "player_id": "asp_9827f2a8bcb0425e94372fdbbd4914ec",
           "player_name": "凯尔文·博阿滕",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735",
@@ -1627,7 +1755,7 @@
           "value": 1
         },
         {
-          "rank": 26,
+          "rank": 29,
           "player_id": "asp_2023bf5940f94571812e1d61edbb7e44",
           "player_name": "亚历山大·霍夫莱特纳",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1635,7 +1763,7 @@
           "value": 1
         },
         {
-          "rank": 27,
+          "rank": 30,
           "player_id": "asp_b1851ce88c2040bb841f0bc378e09eda",
           "player_name": "安德森",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -1643,7 +1771,7 @@
           "value": 1
         },
         {
-          "rank": 28,
+          "rank": 31,
           "player_id": "asp_d9ef6811575b46ac9fdc298dd80352aa",
           "player_name": "乔恩·戈伦茨·斯坦科维奇",
           "team_id": "ast_fe11ba7f4fdf422caeb35a56fe176e1a",
@@ -1651,7 +1779,7 @@
           "value": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "player_id": "asp_a7479a386ae048f699a717898e9bec71",
           "player_name": "B. 欧苏",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370",
@@ -3816,7 +3944,7 @@
         "match_id": "as_dae19b576d304a36bc9a43b1b42e9d64",
         "date": "2026-08-29",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -3828,13 +3956,16 @@
           "name": "沃尔夫斯贝格",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_51bad004526d4dc382a7493eefd2dc18",
         "date": "2026-08-29",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -3846,7 +3977,10 @@
           "name": "阿尔塔赫",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1e450d4d2fdf4fdebca08238d9cc76d8",
@@ -4777,42 +4911,6 @@
         "away": {
           "name": "里德",
           "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_51bad004526d4dc382a7493eefd2dc18",
-        "date": "2026-08-29",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "奥地利超级联赛",
-        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-        "season": "2026/2027",
-        "home": {
-          "name": "林茨体育",
-          "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d"
-        },
-        "away": {
-          "name": "阿尔塔赫",
-          "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_dae19b576d304a36bc9a43b1b42e9d64",
-        "date": "2026-08-29",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "奥地利超级联赛",
-        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-        "season": "2026/2027",
-        "home": {
-          "name": "格拉茨AK",
-          "team_id": "ast_576533b83b7a449d8a828f61801d9370"
-        },
-        "away": {
-          "name": "沃尔夫斯贝格",
-          "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
         },
         "venue": ""
       }
@@ -8682,11 +8780,11 @@
     }
   },
   "stats": {
-    "matches_completed": 22,
-    "total_goals": 60,
-    "avg_goals_per_match": 2.73,
-    "home_wins": 11,
-    "draws": 4,
+    "matches_completed": 24,
+    "total_goals": 63,
+    "avg_goals_per_match": 2.62,
+    "home_wins": 12,
+    "draws": 5,
     "away_wins": 7,
     "home_win_pct": 50.0,
     "biggest_win": {
@@ -8714,9 +8812,9 @@
       }
     },
     "leader": {
-      "team": "SK Rapid",
-      "points": 9,
-      "played": 3
+      "team": "LASK",
+      "points": 12,
+      "played": 4
     }
   },
   "coverage": {
@@ -8818,6 +8916,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
+            "team": "LASK",
+            "played": 4,
+            "wins": 4,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 12,
+            "goals_against": 1,
+            "goal_difference": 11,
+            "points": 12,
+            "form": "WWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_d23bd65c075e43908bc45b934484863a",
             "team": "SK Rapid",
             "played": 3,
@@ -8827,20 +8939,6 @@
             "goals_for": 11,
             "goals_against": 1,
             "goal_difference": 10,
-            "points": 9,
-            "form": "WWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
-            "team": "LASK",
-            "played": 3,
-            "wins": 3,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 9,
-            "goals_against": 1,
-            "goal_difference": 8,
             "points": 9,
             "form": "WWW"
           },
@@ -9074,7 +9172,7 @@
           }
         ],
         "meta": {
-          "total": 19
+          "total": 22
         }
       }
     },
@@ -9429,6 +9527,6 @@
     "teams_all_time": 24,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 26
+    "upcoming_matches": 24
   }
 }

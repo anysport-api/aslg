@@ -70,6 +70,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
+        "team": "Cavalry",
+        "played": 19,
+        "wins": 13,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 37,
+        "goals_against": 11,
+        "goal_difference": 26,
+        "points": 43,
+        "form": "WWWDW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_1e7a6eeae41147c0ac02796dfe9a5cb0",
         "team": "Forge",
         "played": 19,
@@ -81,20 +95,6 @@
         "goal_difference": 15,
         "points": 41,
         "form": "LWWLL"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
-        "team": "Cavalry",
-        "played": 18,
-        "wins": 12,
-        "draws": 4,
-        "losses": 2,
-        "goals_for": 36,
-        "goals_against": 11,
-        "goal_difference": 25,
-        "points": 40,
-        "form": "WWDWW"
       },
       {
         "position": 3,
@@ -114,15 +114,15 @@
         "position": 4,
         "team_id": "ast_c5ddaa558822424296632dc759cff76d",
         "team": "Vancouver FC",
-        "played": 19,
+        "played": 20,
         "wins": 8,
         "draws": 3,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 26,
-        "goals_against": 22,
-        "goal_difference": 4,
+        "goals_against": 23,
+        "goal_difference": 3,
         "points": 27,
-        "form": "LLDWW"
+        "form": "LLLDW"
       },
       {
         "position": 5,
@@ -184,6 +184,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
+        "team": "骑兵",
+        "played": 19,
+        "wins": 13,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 37,
+        "goals_against": 11,
+        "goal_difference": 26,
+        "points": 43,
+        "form": "WWWDW",
+        "form_label": "胜胜胜平胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_1e7a6eeae41147c0ac02796dfe9a5cb0",
         "team": "福尔吉",
         "played": 19,
@@ -196,21 +211,6 @@
         "points": 41,
         "form": "LWWLL",
         "form_label": "负胜胜负负"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
-        "team": "骑兵",
-        "played": 18,
-        "wins": 12,
-        "draws": 4,
-        "losses": 2,
-        "goals_for": 36,
-        "goals_against": 11,
-        "goal_difference": 25,
-        "points": 40,
-        "form": "WWDWW",
-        "form_label": "胜胜平胜胜"
       },
       {
         "position": 3,
@@ -231,16 +231,16 @@
         "position": 4,
         "team_id": "ast_c5ddaa558822424296632dc759cff76d",
         "team": "温哥华 FC",
-        "played": 19,
+        "played": 20,
         "wins": 8,
         "draws": 3,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 26,
-        "goals_against": 22,
-        "goal_difference": 4,
+        "goals_against": 23,
+        "goal_difference": 3,
         "points": 27,
-        "form": "LLDWW",
-        "form_label": "负负平胜胜"
+        "form": "LLLDW",
+        "form_label": "负负负平胜"
       },
       {
         "position": 5,
@@ -1005,7 +1005,7 @@
         "match_id": "as_4e8ae82214214dbb9199ccd7702fe7bd",
         "date": "2026-09-05",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -1017,13 +1017,15 @@
           "name": "太平洋FC",
           "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "TD广场体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e2bbc41ea0ef4ac99f587069e1962215",
         "date": "2026-09-05",
         "time": "23:00",
-        "status": "23:00",
+        "status": "Not Started",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -1035,7 +1037,9 @@
           "name": "国际多伦多",
           "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Tim Hortons Field",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2dcfef2556464a38b9742a759a13eb50",
@@ -1059,7 +1063,7 @@
         "match_id": "as_7119882ee23649fca3ffb5faf9f80eb1",
         "date": "2026-08-29",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -1071,7 +1075,10 @@
           "name": "温哥华 FC",
           "team_id": "ast_c5ddaa558822424296632dc759cff76d"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d5d0bd0b8645461f827dcab619f8af93",
@@ -3153,7 +3160,7 @@
         "match_id": "as_e2bbc41ea0ef4ac99f587069e1962215",
         "date": "2026-09-05",
         "time": "23:00",
-        "status": "23:00",
+        "status": "Not Started",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -3165,13 +3172,15 @@
           "name": "国际多伦多",
           "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Tim Hortons Field",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4e8ae82214214dbb9199ccd7702fe7bd",
         "date": "2026-09-05",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -3183,7 +3192,9 @@
           "name": "太平洋FC",
           "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "TD广场体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2dcfef2556464a38b9742a759a13eb50",
@@ -3200,24 +3211,6 @@
         "away": {
           "name": "HFX流浪者",
           "team_id": "ast_570e22319b7a495c89c79b071111007b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7119882ee23649fca3ffb5faf9f80eb1",
-        "date": "2026-08-29",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "骑兵",
-          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
-        },
-        "away": {
-          "name": "温哥华 FC",
-          "team_id": "ast_c5ddaa558822424296632dc759cff76d"
         },
         "venue": ""
       }
@@ -4200,13 +4193,13 @@
     }
   },
   "stats": {
-    "matches_completed": 74,
-    "total_goals": 217,
-    "avg_goals_per_match": 2.93,
-    "home_wins": 35,
+    "matches_completed": 75,
+    "total_goals": 218,
+    "avg_goals_per_match": 2.91,
+    "home_wins": 36,
     "draws": 16,
     "away_wins": 23,
-    "home_win_pct": 47.3,
+    "home_win_pct": 48.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4232,8 +4225,8 @@
       }
     },
     "leader": {
-      "team": "Forge",
-      "points": 41,
+      "team": "Cavalry",
+      "points": 43,
       "played": 19
     }
   },
@@ -4329,6 +4322,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
+            "team": "Cavalry",
+            "played": 19,
+            "wins": 13,
+            "draws": 4,
+            "losses": 2,
+            "goals_for": 37,
+            "goals_against": 11,
+            "goal_difference": 26,
+            "points": 43,
+            "form": "WWWDW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_1e7a6eeae41147c0ac02796dfe9a5cb0",
             "team": "Forge",
             "played": 19,
@@ -4340,20 +4347,6 @@
             "goal_difference": 15,
             "points": 41,
             "form": "LWWLL"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
-            "team": "Cavalry",
-            "played": 18,
-            "wins": 12,
-            "draws": 4,
-            "losses": 2,
-            "goals_for": 36,
-            "goals_against": 11,
-            "goal_difference": 25,
-            "points": 40,
-            "form": "WWDWW"
           },
           {
             "position": 3,
@@ -5016,7 +5009,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 112,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   },
-  "updated_at": "2026/08/29"
+  "updated_at": "2026/08/30"
 }

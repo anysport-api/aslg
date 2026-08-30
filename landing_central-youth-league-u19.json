@@ -6250,6 +6250,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_ad95f595c69d4dae888644468eefcea8",
+        "date": "2026-09-13",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "波兰中央青年联赛U19",
+        "league_id": "asl_c8db5f1dd764434ab08ea54017a37dbf",
+        "season": "2026/2027",
+        "home": {
+          "name": "斯拉斯克U19",
+          "team_id": "ast_277b84e4fd9543a2a598ede58acd45f5"
+        },
+        "away": {
+          "name": "Talent Warszawa U19",
+          "team_id": "ast_cda2cf5059a149f9a17e77485da7d619"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_e2d38331454e4436a8cc1ab72a200607",
         "date": "2026-09-12",
         "time": "10:00",
@@ -6270,29 +6290,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_ad95f595c69d4dae888644468eefcea8",
-        "date": "2026-09-12",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "波兰中央青年联赛U19",
-        "league_id": "asl_c8db5f1dd764434ab08ea54017a37dbf",
-        "season": "2026/2027",
-        "home": {
-          "name": "斯拉斯克U19",
-          "team_id": "ast_277b84e4fd9543a2a598ede58acd45f5"
-        },
-        "away": {
-          "name": "Talent Warszawa U19",
-          "team_id": "ast_cda2cf5059a149f9a17e77485da7d619"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_8defa544532f4425ba1c23039df81a1a",
         "date": "2026-09-12",
-        "time": "10:00",
+        "time": "09:00",
         "status": "Not Started",
         "league": "波兰中央青年联赛U19",
         "league_id": "asl_c8db5f1dd764434ab08ea54017a37dbf",
@@ -6393,7 +6393,7 @@
         "match_id": "as_805a5c6caf474f41a3260101b15d7d65",
         "date": "2026-09-06",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "波兰中央青年联赛U19",
         "league_id": "asl_c8db5f1dd764434ab08ea54017a37dbf",
         "season": "2026/2027",
@@ -6405,15 +6405,13 @@
           "name": "Arka Gdynia U19",
           "team_id": "ast_41ce8a2ddc964934896fa9713f105b54"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b0216608243d4537bd2f5aec6c3c2d67",
         "date": "2026-09-06",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "波兰中央青年联赛U19",
         "league_id": "asl_c8db5f1dd764434ab08ea54017a37dbf",
         "season": "2026/2027",
@@ -6425,15 +6423,13 @@
           "name": "Rakow Czestochowa U19",
           "team_id": "ast_f1377790fb694079ba15ac338f18e4a1"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fccf4464a74548768e4b3b5f7298ea8d",
         "date": "2026-09-06",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "波兰中央青年联赛U19",
         "league_id": "asl_c8db5f1dd764434ab08ea54017a37dbf",
         "season": "2026/2027",
@@ -6445,9 +6441,7 @@
           "name": "华沙学校U19",
           "team_id": "ast_475f1f15dce040989aeecfc37d0f74ba"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_40c9acd07a8646429ba8aa80ba0e22c1",
@@ -6554,24 +6548,6 @@
         "away": {
           "name": "戈尔尼克扎布热U19",
           "team_id": "ast_23c3ffeae8fa4ecab1554d189084457f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2f95506f05014207aa6377af17968cd8",
-        "date": "2026-08-29",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "波兰中央青年联赛U19",
-        "league_id": "asl_c8db5f1dd764434ab08ea54017a37dbf",
-        "season": "2026/2027",
-        "home": {
-          "name": "维斯瓦U19",
-          "team_id": "ast_caa3147d0dae459fa82821147b19ca68"
-        },
-        "away": {
-          "name": "Talent Warszawa U19",
-          "team_id": "ast_cda2cf5059a149f9a17e77485da7d619"
         },
         "venue": ""
       }
@@ -7942,7 +7918,7 @@
     "teams_all_time": 20,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/08/29"
+  "updated_at": "2026/08/30"
 }

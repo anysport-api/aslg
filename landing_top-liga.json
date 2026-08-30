@@ -184,6 +184,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_f6ededd543d3485b90b9e737871c42e5",
+        "team": "Toktogul",
+        "played": 22,
+        "wins": 8,
+        "draws": 3,
+        "losses": 11,
+        "goals_for": 25,
+        "goals_against": 34,
+        "goal_difference": -9,
+        "points": 27,
+        "form": "DWWWW"
+      },
+      {
+        "position": 8,
         "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007",
         "team": "Talant",
         "played": 22,
@@ -195,20 +209,6 @@
         "goal_difference": 2,
         "points": 26,
         "form": "WWLLL"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_f6ededd543d3485b90b9e737871c42e5",
-        "team": "Toktogul",
-        "played": 21,
-        "wins": 8,
-        "draws": 2,
-        "losses": 11,
-        "goals_for": 24,
-        "goals_against": 33,
-        "goal_difference": -9,
-        "points": 26,
-        "form": "WWWWD"
       },
       {
         "position": 9,
@@ -312,15 +312,15 @@
         "position": 16,
         "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0",
         "team": "Kyrgyzaltyn",
-        "played": 20,
+        "played": 21,
         "wins": 1,
-        "draws": 4,
+        "draws": 5,
         "losses": 15,
-        "goals_for": 18,
-        "goals_against": 56,
+        "goals_for": 19,
+        "goals_against": 57,
         "goal_difference": -38,
-        "points": 7,
-        "form": "LLWLL"
+        "points": 8,
+        "form": "DLLWL"
       }
     ],
     "zh": [
@@ -416,6 +416,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_f6ededd543d3485b90b9e737871c42e5",
+        "team": "托克托古尔",
+        "played": 22,
+        "wins": 8,
+        "draws": 3,
+        "losses": 11,
+        "goals_for": 25,
+        "goals_against": 34,
+        "goal_difference": -9,
+        "points": 27,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
+      },
+      {
+        "position": 8,
         "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007",
         "team": "塔兰特",
         "played": 22,
@@ -428,21 +443,6 @@
         "points": 26,
         "form": "WWLLL",
         "form_label": "胜胜负负负"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_f6ededd543d3485b90b9e737871c42e5",
-        "team": "托克托古尔",
-        "played": 21,
-        "wins": 8,
-        "draws": 2,
-        "losses": 11,
-        "goals_for": 24,
-        "goals_against": 33,
-        "goal_difference": -9,
-        "points": 26,
-        "form": "WWWWD",
-        "form_label": "胜胜胜胜平"
       },
       {
         "position": 9,
@@ -553,16 +553,16 @@
         "position": 16,
         "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0",
         "team": "吉尔吉斯阿尔廷",
-        "played": 20,
+        "played": 21,
         "wins": 1,
-        "draws": 4,
+        "draws": 5,
         "losses": 15,
-        "goals_for": 18,
-        "goals_against": 56,
+        "goals_for": 19,
+        "goals_against": 57,
         "goal_difference": -38,
-        "points": 7,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "points": 8,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       }
     ]
   },
@@ -695,7 +695,7 @@
         "match_id": "as_ece44d6359164cab861278ae1f736dfc",
         "date": "2026-08-29",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -707,7 +707,10 @@
           "name": "吉尔吉斯阿尔廷",
           "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b7574b9970254e20bf21b2eb7ca0344a",
@@ -4262,24 +4265,6 @@
           "team_id": "ast_2047d0506517448baa3a767bb106a0ad"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_ece44d6359164cab861278ae1f736dfc",
-        "date": "2026-08-29",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "托克托古尔",
-          "team_id": "ast_f6ededd543d3485b90b9e737871c42e5"
-        },
-        "away": {
-          "name": "吉尔吉斯阿尔廷",
-          "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5733,13 +5718,13 @@
     }
   },
   "stats": {
-    "matches_completed": 164,
-    "total_goals": 491,
+    "matches_completed": 165,
+    "total_goals": 493,
     "avg_goals_per_match": 2.99,
     "home_wins": 60,
-    "draws": 44,
+    "draws": 45,
     "away_wins": 60,
-    "home_win_pct": 36.6,
+    "home_win_pct": 36.4,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6503,7 +6488,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 16,
     "matches_current_season": 171,
-    "upcoming_matches": 7
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/08/29"
+  "updated_at": "2026/08/30"
 }

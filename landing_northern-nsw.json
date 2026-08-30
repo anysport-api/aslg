@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e4f93c074ca24496af8a18a941605999",
@@ -477,7 +477,7 @@
         "match_id": "as_84da0fa0d46049a2b5592428764aec16",
         "date": "2026-08-30",
         "time": "04:00",
-        "status": "04:00",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -489,13 +489,16 @@
           "name": "Newcastle Croatia",
           "team_id": "ast_729cd889d39e4c05942c342bd5fd966f"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_94b60933b3bf4df7b6d6812dfaf6304c",
         "date": "2026-08-30",
         "time": "06:00",
-        "status": "06:00",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -507,7 +510,10 @@
           "name": "埃奇沃斯特E.",
           "team_id": "ast_8730f901639649759e3f2667d647f045"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_212663c55c514128a27843d413269491",
@@ -3416,7 +3422,7 @@
         "match_id": "as_94b60933b3bf4df7b6d6812dfaf6304c",
         "date": "2026-08-30",
         "time": "06:00",
-        "status": "06:00",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -3428,13 +3434,16 @@
           "name": "埃奇沃斯特E.",
           "team_id": "ast_8730f901639649759e3f2667d647f045"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_84da0fa0d46049a2b5592428764aec16",
         "date": "2026-08-30",
         "time": "04:00",
-        "status": "04:00",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -3446,48 +3455,8 @@
           "name": "Newcastle Croatia",
           "team_id": "ast_729cd889d39e4c05942c342bd5fd966f"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9197a326b67a44b2ba0bf62fae90e76b",
-        "date": "2026-08-29",
-        "time": "06:00",
-        "status": "AET",
-        "league": "澳大利亚北部新南威尔士联赛",
-        "league_id": "asl_e4f93c074ca24496af8a18a941605999",
-        "season": "2026",
-        "home": {
-          "name": "布罗德梅多",
-          "team_id": "ast_59476f87ba924fd2af7e7c2893e61ac2"
-        },
-        "away": {
-          "name": "韦斯顿熊队",
-          "team_id": "ast_fda2215b915145a7b48728940c7d27b0"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-0",
-        "et_score": "0-3",
-        "venue": "",
-        "status_label": "加时赛后结束"
-      },
-      {
-        "match_id": "as_212663c55c514128a27843d413269491",
-        "date": "2026-08-29",
-        "time": "04:00",
-        "status": "FT",
-        "league": "澳大利亚北部新南威尔士联赛",
-        "league_id": "asl_e4f93c074ca24496af8a18a941605999",
-        "season": "2026",
-        "home": {
-          "name": "卡希巴",
-          "team_id": "ast_96d808a007a74599826bc3c0ebb74eec"
-        },
-        "away": {
-          "name": "New Lambton",
-          "team_id": "ast_da61578a644546faa31dd1cbb7b34959"
-        },
-        "ht_score": "1-0",
-        "reg_score": "3-0",
+        "ht_score": "1-1",
+        "reg_score": "2-3",
         "venue": "",
         "status_label": "完场"
       }
@@ -4731,13 +4700,13 @@
     }
   },
   "stats": {
-    "matches_completed": 138,
-    "total_goals": 494,
-    "avg_goals_per_match": 3.58,
-    "home_wins": 56,
+    "matches_completed": 140,
+    "total_goals": 502,
+    "avg_goals_per_match": 3.59,
+    "home_wins": 57,
     "draws": 30,
-    "away_wins": 52,
-    "home_win_pct": 40.6,
+    "away_wins": 53,
+    "home_win_pct": 40.7,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -5498,7 +5467,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 12,
     "matches_current_season": 140,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/08/29"
+  "updated_at": "2026/08/30"
 }
