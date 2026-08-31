@@ -168,6 +168,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_0d6d8ec4cf8e443c90796c8765eed871",
+        "team": "Enskede W",
+        "played": 16,
+        "wins": 5,
+        "draws": 4,
+        "losses": 7,
+        "goals_for": 25,
+        "goals_against": 28,
+        "goal_difference": -3,
+        "points": 19,
+        "form": "DLLLD"
+      },
+      {
+        "position": 9,
         "team_id": "ast_8542813752c74bbaa789a73d7a8288f3",
         "team": "Orebro SK W",
         "played": 16,
@@ -181,32 +195,18 @@
         "form": "DLLDW"
       },
       {
-        "position": 9,
-        "team_id": "ast_0d6d8ec4cf8e443c90796c8765eed871",
-        "team": "Enskede W",
-        "played": 15,
-        "wins": 5,
-        "draws": 3,
-        "losses": 7,
-        "goals_for": 23,
-        "goals_against": 26,
-        "goal_difference": -3,
-        "points": 18,
-        "form": "LLLDD"
-      },
-      {
         "position": 10,
         "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3",
         "team": "Jitex W",
-        "played": 15,
+        "played": 16,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 7,
-        "goals_for": 16,
-        "goals_against": 21,
+        "goals_for": 18,
+        "goals_against": 23,
         "goal_difference": -5,
-        "points": 18,
-        "form": "LLWWW"
+        "points": 19,
+        "form": "DLLWW"
       },
       {
         "position": 11,
@@ -373,6 +373,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_0d6d8ec4cf8e443c90796c8765eed871",
+        "team": "恩斯基德女足",
+        "played": 16,
+        "wins": 5,
+        "draws": 4,
+        "losses": 7,
+        "goals_for": 25,
+        "goals_against": 28,
+        "goal_difference": -3,
+        "points": 19,
+        "form": "DLLLD",
+        "form_label": "平负负负平"
+      },
+      {
+        "position": 9,
         "team_id": "ast_8542813752c74bbaa789a73d7a8288f3",
         "team": "厄勒布鲁SK女足",
         "played": 16,
@@ -387,34 +402,19 @@
         "form_label": "平负负平胜"
       },
       {
-        "position": 9,
-        "team_id": "ast_0d6d8ec4cf8e443c90796c8765eed871",
-        "team": "恩斯基德女足",
-        "played": 15,
-        "wins": 5,
-        "draws": 3,
-        "losses": 7,
-        "goals_for": 23,
-        "goals_against": 26,
-        "goal_difference": -3,
-        "points": 18,
-        "form": "LLLDD",
-        "form_label": "负负负平平"
-      },
-      {
         "position": 10,
         "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3",
         "team": "吉特克斯女队",
-        "played": 15,
+        "played": 16,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 7,
-        "goals_for": 16,
-        "goals_against": 21,
+        "goals_for": 18,
+        "goals_against": 23,
         "goal_difference": -5,
-        "points": 18,
-        "form": "LLWWW",
-        "form_label": "负负胜胜胜"
+        "points": 19,
+        "form": "DLLWW",
+        "form_label": "平负负胜胜"
       },
       {
         "position": 11,
@@ -1885,7 +1885,7 @@
         "match_id": "as_13793b49776a4d33946aec55aa746745",
         "date": "2026-08-30",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1897,7 +1897,10 @@
           "name": "吉特克斯女队",
           "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_471baee4a228463b8fa4a2fe37122386",
@@ -1980,7 +1983,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "贝恩竞技场",
         "status_label": "完场"
       },
       {
@@ -4917,24 +4920,6 @@
           "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_13793b49776a4d33946aec55aa746745",
-        "date": "2026-08-30",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "恩斯基德女足",
-          "team_id": "ast_0d6d8ec4cf8e443c90796c8765eed871"
-        },
-        "away": {
-          "name": "吉特克斯女队",
-          "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6399,13 +6384,13 @@
     }
   },
   "stats": {
-    "matches_completed": 111,
-    "total_goals": 335,
-    "avg_goals_per_match": 3.02,
+    "matches_completed": 112,
+    "total_goals": 339,
+    "avg_goals_per_match": 3.03,
     "home_wins": 42,
-    "draws": 23,
+    "draws": 24,
     "away_wins": 46,
-    "home_win_pct": 37.8,
+    "home_win_pct": 37.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7203,7 +7188,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

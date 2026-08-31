@@ -138,6 +138,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_bd9abe28067148759889e10468308235",
+        "team": "Klubi 04",
+        "played": 21,
+        "wins": 4,
+        "draws": 7,
+        "losses": 10,
+        "goals_for": 25,
+        "goals_against": 29,
+        "goal_difference": -4,
+        "points": 19,
+        "form": "WWDLL"
+      },
+      {
+        "position": 9,
         "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89",
         "team": "KaPa",
         "played": 21,
@@ -151,32 +165,18 @@
         "form": "DLLLL"
       },
       {
-        "position": 9,
-        "team_id": "ast_bd9abe28067148759889e10468308235",
-        "team": "Klubi 04",
-        "played": 20,
-        "wins": 3,
-        "draws": 7,
-        "losses": 10,
-        "goals_for": 19,
-        "goals_against": 27,
-        "goal_difference": -8,
-        "points": 16,
-        "form": "WDLLL"
-      },
-      {
         "position": 10,
         "team_id": "ast_8130cb8853464bd688bc80640b9d1e71",
         "team": "SJK Akatemia",
-        "played": 20,
+        "played": 21,
         "wins": 2,
         "draws": 6,
-        "losses": 12,
-        "goals_for": 9,
-        "goals_against": 27,
-        "goal_difference": -18,
+        "losses": 13,
+        "goals_for": 11,
+        "goals_against": 33,
+        "goal_difference": -22,
         "points": 12,
-        "form": "LWLLD"
+        "form": "LLWLL"
       }
     ],
     "zh": [
@@ -287,6 +287,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_bd9abe28067148759889e10468308235",
+        "team": "克鲁比04",
+        "played": 21,
+        "wins": 4,
+        "draws": 7,
+        "losses": 10,
+        "goals_for": 25,
+        "goals_against": 29,
+        "goal_difference": -4,
+        "points": 19,
+        "form": "WWDLL",
+        "form_label": "胜胜平负负"
+      },
+      {
+        "position": 9,
         "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89",
         "team": "KaPa",
         "played": 21,
@@ -301,34 +316,19 @@
         "form_label": "平负负负负"
       },
       {
-        "position": 9,
-        "team_id": "ast_bd9abe28067148759889e10468308235",
-        "team": "克鲁比04",
-        "played": 20,
-        "wins": 3,
-        "draws": 7,
-        "losses": 10,
-        "goals_for": 19,
-        "goals_against": 27,
-        "goal_difference": -8,
-        "points": 16,
-        "form": "WDLLL",
-        "form_label": "胜平负负负"
-      },
-      {
         "position": 10,
         "team_id": "ast_8130cb8853464bd688bc80640b9d1e71",
         "team": "SJK学术队",
-        "played": 20,
+        "played": 21,
         "wins": 2,
         "draws": 6,
-        "losses": 12,
-        "goals_for": 9,
-        "goals_against": 27,
-        "goal_difference": -18,
+        "losses": 13,
+        "goals_for": 11,
+        "goals_against": 33,
+        "goal_difference": -22,
         "points": 12,
-        "form": "LWLLD",
-        "form_label": "负胜负负平"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       }
     ]
   },
@@ -853,7 +853,7 @@
         "match_id": "as_fae0a60b86c74eb39802e5950349b162",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "芬兰Ykkosliiga联赛",
         "league_id": "asl_5201d28389174ce38a373739cde2a252",
         "season": "2026",
@@ -865,9 +865,7 @@
           "name": "KaPa",
           "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
         },
-        "ht_score": "-",
-        "venue": "博尔特球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d6729aec50514e1cb66b0e181e2dcf45",
@@ -945,7 +943,7 @@
         "match_id": "as_78ece0dafa6749259b45925d7c9f7f43",
         "date": "2026-08-30",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "芬兰Ykkosliiga联赛",
         "league_id": "asl_5201d28389174ce38a373739cde2a252",
         "season": "2026",
@@ -957,7 +955,10 @@
           "name": "克鲁比04",
           "team_id": "ast_bd9abe28067148759889e10468308235"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "2-6",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_27a13ea0c51447eebd49cac5a19b4708",
@@ -977,7 +978,7 @@
         },
         "ht_score": "0-3",
         "reg_score": "0-3",
-        "venue": "",
+        "venue": "Mikkelin Urheilupuisto",
         "status_label": "完场"
       },
       {
@@ -998,7 +999,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Ekenas Sparbank Arena TN",
         "status_label": "完场"
       },
       {
@@ -3549,7 +3550,7 @@
         "match_id": "as_fae0a60b86c74eb39802e5950349b162",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "芬兰Ykkosliiga联赛",
         "league_id": "asl_5201d28389174ce38a373739cde2a252",
         "season": "2026",
@@ -3561,9 +3562,7 @@
           "name": "KaPa",
           "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
         },
-        "ht_score": "-",
-        "venue": "博尔特球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_26b163923d734eda84232d89bf34452a",
@@ -3634,24 +3633,6 @@
         "away": {
           "name": "KTP",
           "team_id": "ast_71dc3df39ffd45708c71638970264071"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_78ece0dafa6749259b45925d7c9f7f43",
-        "date": "2026-08-30",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "芬兰Ykkosliiga联赛",
-        "league_id": "asl_5201d28389174ce38a373739cde2a252",
-        "season": "2026",
-        "home": {
-          "name": "SJK学术队",
-          "team_id": "ast_8130cb8853464bd688bc80640b9d1e71"
-        },
-        "away": {
-          "name": "克鲁比04",
-          "team_id": "ast_bd9abe28067148759889e10468308235"
         },
         "venue": ""
       }
@@ -4199,13 +4180,13 @@
     }
   },
   "stats": {
-    "matches_completed": 104,
-    "total_goals": 258,
-    "avg_goals_per_match": 2.48,
+    "matches_completed": 105,
+    "total_goals": 266,
+    "avg_goals_per_match": 2.53,
     "home_wins": 45,
     "draws": 22,
-    "away_wins": 37,
-    "home_win_pct": 43.3,
+    "away_wins": 38,
+    "home_win_pct": 42.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4219,15 +4200,15 @@
       }
     },
     "highest_scoring_match": {
-      "goals": 7,
+      "goals": 8,
       "match": {
-        "match_id": "as_85e78711f2144300a21665b3d3c629ce",
-        "date": "2026-08-22",
-        "home_id": "ast_bd9abe28067148759889e10468308235",
-        "home": "克鲁比04",
-        "away_id": "ast_38b2f9cf7630495a8cd74464221d7e95",
-        "away": "米凯利",
-        "score": "4-3"
+        "match_id": "as_78ece0dafa6749259b45925d7c9f7f43",
+        "date": "2026-08-30",
+        "home_id": "ast_8130cb8853464bd688bc80640b9d1e71",
+        "home": "SJK学术队",
+        "away_id": "ast_bd9abe28067148759889e10468308235",
+        "away": "克鲁比04",
+        "score": "2-6"
       }
     },
     "leader": {
@@ -5003,7 +4984,7 @@
     "teams_all_time": 14,
     "standings_rows_current": 10,
     "matches_current_season": 135,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

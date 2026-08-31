@@ -270,32 +270,18 @@
         "position": 4,
         "team_id": "ast_c02e6f1515874574bc0e04ab3b901528",
         "team": "Dusheti",
-        "played": 22,
+        "played": 23,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "losses": 9,
-        "goals_for": 23,
-        "goals_against": 27,
+        "goals_for": 24,
+        "goals_against": 28,
         "goal_difference": -4,
-        "points": 31,
-        "form": "WWLLW"
+        "points": 32,
+        "form": "DWWLL"
       },
       {
         "position": 5,
-        "team_id": "ast_bc8b6acb75a44ff895ade60f41468ac1",
-        "team": "Merani Martvili",
-        "played": 23,
-        "wins": 8,
-        "draws": 7,
-        "losses": 8,
-        "goals_for": 25,
-        "goals_against": 25,
-        "goal_difference": 0,
-        "points": 31,
-        "form": "LLDLL"
-      },
-      {
-        "position": 6,
         "team_id": "ast_db473bbace1f486498515bac1b48b82d",
         "team": "Bolnisi",
         "played": 23,
@@ -307,6 +293,20 @@
         "goal_difference": 3,
         "points": 31,
         "form": "WWLLW"
+      },
+      {
+        "position": 6,
+        "team_id": "ast_bc8b6acb75a44ff895ade60f41468ac1",
+        "team": "Merani Martvili",
+        "played": 23,
+        "wins": 8,
+        "draws": 7,
+        "losses": 8,
+        "goals_for": 25,
+        "goals_against": 25,
+        "goal_difference": 0,
+        "points": 31,
+        "form": "LLDLL"
       },
       {
         "position": 7,
@@ -354,15 +354,15 @@
         "position": 10,
         "team_id": "ast_0df3db2676d24d0d8f2c9eb0e5bee23a",
         "team": "Kolkheti 1913",
-        "played": 22,
+        "played": 23,
         "wins": 4,
-        "draws": 7,
+        "draws": 8,
         "losses": 11,
-        "goals_for": 28,
-        "goals_against": 30,
+        "goals_for": 29,
+        "goals_against": 31,
         "goal_difference": -2,
-        "points": 19,
-        "form": "LDLDD"
+        "points": 20,
+        "form": "DLDLD"
       }
     ],
     "zh": [
@@ -415,34 +415,19 @@
         "position": 4,
         "team_id": "ast_c02e6f1515874574bc0e04ab3b901528",
         "team": "杜谢季",
-        "played": 22,
+        "played": 23,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "losses": 9,
-        "goals_for": 23,
-        "goals_against": 27,
+        "goals_for": 24,
+        "goals_against": 28,
         "goal_difference": -4,
-        "points": 31,
-        "form": "WWLLW",
-        "form_label": "胜胜负负胜"
+        "points": 32,
+        "form": "DWWLL",
+        "form_label": "平胜胜负负"
       },
       {
         "position": 5,
-        "team_id": "ast_bc8b6acb75a44ff895ade60f41468ac1",
-        "team": "梅拉尼马特维利",
-        "played": 23,
-        "wins": 8,
-        "draws": 7,
-        "losses": 8,
-        "goals_for": 25,
-        "goals_against": 25,
-        "goal_difference": 0,
-        "points": 31,
-        "form": "LLDLL",
-        "form_label": "负负平负负"
-      },
-      {
-        "position": 6,
         "team_id": "ast_db473bbace1f486498515bac1b48b82d",
         "team": "博尔尼西",
         "played": 23,
@@ -455,6 +440,21 @@
         "points": 31,
         "form": "WWLLW",
         "form_label": "胜胜负负胜"
+      },
+      {
+        "position": 6,
+        "team_id": "ast_bc8b6acb75a44ff895ade60f41468ac1",
+        "team": "梅拉尼马特维利",
+        "played": 23,
+        "wins": 8,
+        "draws": 7,
+        "losses": 8,
+        "goals_for": 25,
+        "goals_against": 25,
+        "goal_difference": 0,
+        "points": 31,
+        "form": "LLDLL",
+        "form_label": "负负平负负"
       },
       {
         "position": 7,
@@ -505,16 +505,16 @@
         "position": 10,
         "team_id": "ast_0df3db2676d24d0d8f2c9eb0e5bee23a",
         "team": "科尔基提1913",
-        "played": 22,
+        "played": 23,
         "wins": 4,
-        "draws": 7,
+        "draws": 8,
         "losses": 11,
-        "goals_for": 28,
-        "goals_against": 30,
+        "goals_for": 29,
+        "goals_against": 31,
         "goal_difference": -2,
-        "points": 19,
-        "form": "LDLDD",
-        "form_label": "负平负平平"
+        "points": 20,
+        "form": "DLDLD",
+        "form_label": "平负平负平"
       }
     ]
   },
@@ -1739,7 +1739,7 @@
         "match_id": "as_33b372bd5908405b8b7f9922e77b959b",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "格鲁吉亚甲级联赛",
         "league_id": "asl_0e325eb2961b4251a56f099720ecc550",
         "season": "2026",
@@ -1751,9 +1751,7 @@
           "name": "萨姆特雷迪亚",
           "team_id": "ast_634f99dd4f51422e99c132fda49b4410"
         },
-        "ht_score": "-",
-        "venue": "卡夫卡西奥尼竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_31902cb9d23c47e495c049cc84ca89b7",
@@ -1831,7 +1829,7 @@
         "match_id": "as_4de68652dfec4b20bbba334ae515bb5f",
         "date": "2026-08-30",
         "time": "13:30",
-        "status": "13:30",
+        "status": "FT",
         "league": "格鲁吉亚甲级联赛",
         "league_id": "asl_0e325eb2961b4251a56f099720ecc550",
         "season": "2026",
@@ -1843,7 +1841,10 @@
           "name": "杜谢季",
           "team_id": "ast_c02e6f1515874574bc0e04ab3b901528"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c004dcecc901438882c21315be17ea1c",
@@ -1926,7 +1927,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "Erosi Manjgaladze Stadium",
         "status_label": "完场"
       },
       {
@@ -4645,7 +4646,7 @@
         "match_id": "as_33b372bd5908405b8b7f9922e77b959b",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "格鲁吉亚甲级联赛",
         "league_id": "asl_0e325eb2961b4251a56f099720ecc550",
         "season": "2026",
@@ -4657,9 +4658,7 @@
           "name": "萨姆特雷迪亚",
           "team_id": "ast_634f99dd4f51422e99c132fda49b4410"
         },
-        "ht_score": "-",
-        "venue": "卡夫卡西奥尼竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_40ada26d564a4b15aded4323e598d1fc",
@@ -4730,24 +4729,6 @@
         "away": {
           "name": "什图尔米",
           "team_id": "ast_9d65846d745f4b45bfcf6b1fe5405aa8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4de68652dfec4b20bbba334ae515bb5f",
-        "date": "2026-08-30",
-        "time": "13:30",
-        "status": "13:30",
-        "league": "格鲁吉亚甲级联赛",
-        "league_id": "asl_0e325eb2961b4251a56f099720ecc550",
-        "season": "2026",
-        "home": {
-          "name": "科尔基提1913",
-          "team_id": "ast_0df3db2676d24d0d8f2c9eb0e5bee23a"
-        },
-        "away": {
-          "name": "杜谢季",
-          "team_id": "ast_c02e6f1515874574bc0e04ab3b901528"
         },
         "venue": ""
       }
@@ -8565,13 +8546,13 @@
     }
   },
   "stats": {
-    "matches_completed": 114,
-    "total_goals": 259,
+    "matches_completed": 115,
+    "total_goals": 261,
     "avg_goals_per_match": 2.27,
     "home_wins": 56,
-    "draws": 33,
+    "draws": 34,
     "away_wins": 25,
-    "home_win_pct": 49.1,
+    "home_win_pct": 48.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9369,7 +9350,7 @@
     "teams_all_time": 58,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

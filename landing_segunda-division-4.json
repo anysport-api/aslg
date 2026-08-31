@@ -184,15 +184,15 @@
         "position": 9,
         "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
         "team": "S. Morning",
-        "played": 3,
+        "played": 4,
         "wins": 1,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
         "goals_for": 5,
         "goals_against": 4,
         "goal_difference": 1,
-        "points": 5,
-        "form": "DWD"
+        "points": 6,
+        "form": "DDWD"
       },
       {
         "position": 10,
@@ -240,15 +240,15 @@
         "position": 13,
         "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
         "team": "Provincial Ovalle",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
         "goals_for": 1,
         "goals_against": 2,
         "goal_difference": -1,
-        "points": 1,
-        "form": "DL"
+        "points": 2,
+        "form": "DDL"
       },
       {
         "position": 14,
@@ -390,16 +390,16 @@
         "position": 9,
         "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
         "team": "早晨队",
-        "played": 3,
+        "played": 4,
         "wins": 1,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
         "goals_for": 5,
         "goals_against": 4,
         "goal_difference": 1,
-        "points": 5,
-        "form": "DWD",
-        "form_label": "平胜平"
+        "points": 6,
+        "form": "DDWD",
+        "form_label": "平平胜平"
       },
       {
         "position": 10,
@@ -450,16 +450,16 @@
         "position": 13,
         "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
         "team": "省级奥瓦列",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
         "goals_for": 1,
         "goals_against": 2,
         "goal_difference": -1,
-        "points": 1,
-        "form": "DL",
-        "form_label": "平负"
+        "points": 2,
+        "form": "DDL",
+        "form_label": "平平负"
       },
       {
         "position": 14,
@@ -1579,7 +1579,7 @@
         "match_id": "as_5885c156347c4a6e960b590d1dda2c0c",
         "date": "2026-09-07",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利乙级联赛",
         "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
         "season": "2026",
@@ -1591,9 +1591,7 @@
           "name": "科利纳竞技",
           "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b"
         },
-        "ht_score": "-",
-        "venue": "迪亚吉塔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e6fa601cee3e40fdac2247bdccc9ab66",
@@ -1725,7 +1723,7 @@
         "match_id": "as_3476712a7a484db094100544185d1e63",
         "date": "2026-08-30",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "智利乙级联赛",
         "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
         "season": "2026",
@@ -1737,7 +1735,10 @@
           "name": "省级奥瓦列",
           "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_695b0b539e6147dca6884fe55ff355f1",
@@ -4350,7 +4351,7 @@
         "match_id": "as_5885c156347c4a6e960b590d1dda2c0c",
         "date": "2026-09-07",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利乙级联赛",
         "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
         "season": "2026",
@@ -4362,9 +4363,7 @@
           "name": "科利纳竞技",
           "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b"
         },
-        "ht_score": "-",
-        "venue": "迪亚吉塔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_42efead02c9d47db85b980f262e7aaf1",
@@ -4489,24 +4488,6 @@
         "away": {
           "name": "伦戈体育",
           "team_id": "ast_4f89aee940e647c5a00d2da459d48967"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3476712a7a484db094100544185d1e63",
-        "date": "2026-08-30",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "智利乙级联赛",
-        "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
-        "season": "2026",
-        "home": {
-          "name": "早晨队",
-          "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd"
-        },
-        "away": {
-          "name": "省级奥瓦列",
-          "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24"
         },
         "venue": ""
       }
@@ -6073,13 +6054,13 @@
     }
   },
   "stats": {
-    "matches_completed": 106,
+    "matches_completed": 107,
     "total_goals": 236,
-    "avg_goals_per_match": 2.23,
+    "avg_goals_per_match": 2.21,
     "home_wins": 37,
-    "draws": 34,
+    "draws": 35,
     "away_wins": 35,
-    "home_win_pct": 34.9,
+    "home_win_pct": 34.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6877,7 +6858,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 14,
     "matches_current_season": 170,
-    "upcoming_matches": 27
+    "upcoming_matches": 26
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

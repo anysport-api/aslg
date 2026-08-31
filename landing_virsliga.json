@@ -180,15 +180,15 @@
         "position": 1,
         "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb",
         "team": "RFS",
-        "played": 26,
-        "wins": 21,
+        "played": 27,
+        "wins": 22,
         "draws": 3,
         "losses": 2,
-        "goals_for": 65,
+        "goals_for": 68,
         "goals_against": 20,
-        "goal_difference": 45,
-        "points": 66,
-        "form": "DWWWD"
+        "goal_difference": 48,
+        "points": 69,
+        "form": "WDWWW"
       },
       {
         "position": 2,
@@ -306,15 +306,15 @@
         "position": 10,
         "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11",
         "team": "Ogre United",
-        "played": 26,
+        "played": 27,
         "wins": 3,
         "draws": 5,
-        "losses": 18,
+        "losses": 19,
         "goals_for": 26,
-        "goals_against": 68,
-        "goal_difference": -42,
+        "goals_against": 71,
+        "goal_difference": -45,
         "points": 14,
-        "form": "LLDLW"
+        "form": "LLLDL"
       }
     ],
     "zh": [
@@ -322,16 +322,16 @@
         "position": 1,
         "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb",
         "team": "RFS",
-        "played": 26,
-        "wins": 21,
+        "played": 27,
+        "wins": 22,
         "draws": 3,
         "losses": 2,
-        "goals_for": 65,
+        "goals_for": 68,
         "goals_against": 20,
-        "goal_difference": 45,
-        "points": 66,
-        "form": "DWWWD",
-        "form_label": "平胜胜胜平"
+        "goal_difference": 48,
+        "points": 69,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
       },
       {
         "position": 2,
@@ -457,16 +457,16 @@
         "position": 10,
         "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11",
         "team": "奥格联合",
-        "played": 26,
+        "played": 27,
         "wins": 3,
         "draws": 5,
-        "losses": 18,
+        "losses": 19,
         "goals_for": 26,
-        "goals_against": 68,
-        "goal_difference": -42,
+        "goals_against": 71,
+        "goal_difference": -45,
         "points": 14,
-        "form": "LLDLW",
-        "form_label": "负负平负胜"
+        "form": "LLLDL",
+        "form_label": "负负负平负"
       }
     ]
   },
@@ -1251,7 +1251,7 @@
         "match_id": "as_4100700e4bd347f7b8b747e2c0a547ba",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1263,15 +1263,13 @@
           "name": "道加瓦皮尔斯BFC",
           "team_id": "ast_9055dec34a934c0782c14f9067d8be6c"
         },
-        "ht_score": "-",
-        "venue": "Skonto stadions",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e650748ba15641b1a8b9dabdc3722c35",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1283,9 +1281,7 @@
           "name": "利耶帕亚足球俱乐部",
           "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10"
         },
-        "ht_score": "-",
-        "venue": "LNK Sporta Parks",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aaafb2db487448bbac5ee85dbde442f1",
@@ -1363,7 +1359,7 @@
         "match_id": "as_79ecbc717b9846f19f3051ce674b7b4f",
         "date": "2026-08-30",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1375,7 +1371,10 @@
           "name": "RFS",
           "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_15665ddcb8d144c5ab9f9a8437107f95",
@@ -4215,6 +4214,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_47496eb59e6240e9a807807b1ce8da5f",
+        "date": "2026-10-15",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "拉脱维亚Virsliga",
+        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
+        "season": "2026",
+        "home": {
+          "name": "RFS",
+          "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb"
+        },
+        "away": {
+          "name": "超级新星",
+          "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e"
+        },
+        "ht_score": "-",
+        "venue": "LNK Sporta Parks",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_f239d8f8cd5a45ee90f598d726e69dc0",
         "date": "2026-10-12",
         "time": "15:00",
@@ -4558,7 +4577,7 @@
         "match_id": "as_e650748ba15641b1a8b9dabdc3722c35",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4570,15 +4589,13 @@
           "name": "利耶帕亚足球俱乐部",
           "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10"
         },
-        "ht_score": "-",
-        "venue": "LNK Sporta Parks",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4100700e4bd347f7b8b747e2c0a547ba",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4590,9 +4607,7 @@
           "name": "道加瓦皮尔斯BFC",
           "team_id": "ast_9055dec34a934c0782c14f9067d8be6c"
         },
-        "ht_score": "-",
-        "venue": "Skonto stadions",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aaafb2db487448bbac5ee85dbde442f1",
@@ -4663,24 +4678,6 @@
         "away": {
           "name": "里加FC",
           "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_79ecbc717b9846f19f3051ce674b7b4f",
-        "date": "2026-08-30",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "奥格联合",
-          "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11"
-        },
-        "away": {
-          "name": "RFS",
-          "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb"
         },
         "venue": ""
       }
@@ -8111,13 +8108,13 @@
     }
   },
   "stats": {
-    "matches_completed": 135,
-    "total_goals": 403,
+    "matches_completed": 136,
+    "total_goals": 406,
     "avg_goals_per_match": 2.99,
     "home_wins": 58,
     "draws": 29,
-    "away_wins": 48,
-    "home_win_pct": 43.0,
+    "away_wins": 49,
+    "home_win_pct": 42.6,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8144,8 +8141,8 @@
     },
     "leader": {
       "team": "RFS",
-      "points": 66,
-      "played": 26
+      "points": 69,
+      "played": 27
     }
   },
   "coverage": {
@@ -8242,15 +8239,15 @@
             "position": 1,
             "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb",
             "team": "RFS",
-            "played": 26,
-            "wins": 21,
+            "played": 27,
+            "wins": 22,
             "draws": 3,
             "losses": 2,
-            "goals_for": 65,
+            "goals_for": 68,
             "goals_against": 20,
-            "goal_difference": 45,
-            "points": 66,
-            "form": "DWWWD"
+            "goal_difference": 48,
+            "points": 69,
+            "form": "WDWWW"
           },
           {
             "position": 2,
@@ -8917,5 +8914,5 @@
     "matches_current_season": 180,
     "upcoming_matches": 24
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

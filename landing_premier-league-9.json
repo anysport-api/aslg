@@ -246,15 +246,15 @@
         "position": 1,
         "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
         "team": "Shamrock Rovers",
-        "played": 27,
+        "played": 28,
         "wins": 16,
-        "draws": 6,
+        "draws": 7,
         "losses": 5,
-        "goals_for": 43,
-        "goals_against": 24,
+        "goals_for": 46,
+        "goals_against": 27,
         "goal_difference": 19,
-        "points": 54,
-        "form": "WDWWD"
+        "points": 55,
+        "form": "DWDWW"
       },
       {
         "position": 2,
@@ -314,6 +314,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
+        "team": "Derry City",
+        "played": 29,
+        "wins": 7,
+        "draws": 13,
+        "losses": 9,
+        "goals_for": 41,
+        "goals_against": 40,
+        "goal_difference": 1,
+        "points": 34,
+        "form": "DLWDL"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
         "team": "Galway",
         "played": 28,
@@ -325,20 +339,6 @@
         "goal_difference": -6,
         "points": 34,
         "form": "DWDDD"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
-        "team": "Derry City",
-        "played": 28,
-        "wins": 7,
-        "draws": 12,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 37,
-        "goal_difference": 1,
-        "points": 33,
-        "form": "LWDLW"
       },
       {
         "position": 8,
@@ -388,16 +388,16 @@
         "position": 1,
         "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
         "team": "香农流浪者",
-        "played": 27,
+        "played": 28,
         "wins": 16,
-        "draws": 6,
+        "draws": 7,
         "losses": 5,
-        "goals_for": 43,
-        "goals_against": 24,
+        "goals_for": 46,
+        "goals_against": 27,
         "goal_difference": 19,
-        "points": 54,
-        "form": "WDWWD",
-        "form_label": "胜平胜胜平"
+        "points": 55,
+        "form": "DWDWW",
+        "form_label": "平胜平胜胜"
       },
       {
         "position": 2,
@@ -461,6 +461,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
+        "team": "德里城",
+        "played": 29,
+        "wins": 7,
+        "draws": 13,
+        "losses": 9,
+        "goals_for": 41,
+        "goals_against": 40,
+        "goal_difference": 1,
+        "points": 34,
+        "form": "DLWDL",
+        "form_label": "平负胜平负"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
         "team": "高威",
         "played": 28,
@@ -473,21 +488,6 @@
         "points": 34,
         "form": "DWDDD",
         "form_label": "平胜平平平"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
-        "team": "德里城",
-        "played": 28,
-        "wins": 7,
-        "draws": 12,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 37,
-        "goal_difference": 1,
-        "points": 33,
-        "form": "LWDLW",
-        "form_label": "负胜平负胜"
       },
       {
         "position": 8,
@@ -3682,7 +3682,7 @@
         "match_id": "as_290b90447aef490ca4740b5ec2d8abda",
         "date": "2026-08-30",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -3694,7 +3694,10 @@
           "name": "香农流浪者",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_924d8b15b8fd44129d6fbb527f84cf5d",
@@ -3714,7 +3717,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "达利蒙特公园",
         "status_label": "完场"
       },
       {
@@ -3756,7 +3759,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "埃蒙·迪西公园",
         "status_label": "完场"
       },
       {
@@ -3777,7 +3780,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "里士满公园",
         "status_label": "完场"
       },
       {
@@ -7117,24 +7120,6 @@
         },
         "venue": "",
         "status_label": "延期"
-      },
-      {
-        "match_id": "as_290b90447aef490ca4740b5ec2d8abda",
-        "date": "2026-08-30",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "爱尔兰超级联赛",
-        "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
-        "season": "2026",
-        "home": {
-          "name": "德里城",
-          "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47"
-        },
-        "away": {
-          "name": "香农流浪者",
-          "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11029,13 +11014,13 @@
     }
   },
   "stats": {
-    "matches_completed": 142,
-    "total_goals": 390,
-    "avg_goals_per_match": 2.75,
+    "matches_completed": 143,
+    "total_goals": 396,
+    "avg_goals_per_match": 2.77,
     "home_wins": 55,
-    "draws": 47,
+    "draws": 48,
     "away_wins": 40,
-    "home_win_pct": 38.7,
+    "home_win_pct": 38.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11062,8 +11047,8 @@
     },
     "leader": {
       "team": "Shamrock Rovers",
-      "points": 54,
-      "played": 27
+      "points": 55,
+      "played": 28
     }
   },
   "coverage": {
@@ -11167,15 +11152,15 @@
             "position": 1,
             "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
             "team": "Shamrock Rovers",
-            "played": 27,
+            "played": 28,
             "wins": 16,
-            "draws": 6,
+            "draws": 7,
             "losses": 5,
-            "goals_for": 43,
-            "goals_against": 24,
+            "goals_for": 46,
+            "goals_against": 27,
             "goal_difference": 19,
-            "points": 54,
-            "form": "WDWWD"
+            "points": 55,
+            "form": "DWDWW"
           },
           {
             "position": 2,
@@ -11840,7 +11825,7 @@
     "teams_all_time": 20,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

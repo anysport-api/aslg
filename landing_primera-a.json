@@ -156,15 +156,15 @@
         "position": 1,
         "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
         "team": "Leones Negros",
-        "played": 5,
+        "played": 6,
         "wins": 4,
-        "draws": 0,
+        "draws": 1,
         "losses": 1,
-        "goals_for": 13,
-        "goals_against": 6,
+        "goals_for": 14,
+        "goals_against": 7,
         "goal_difference": 7,
-        "points": 12,
-        "form": "WWLWW"
+        "points": 13,
+        "form": "DWWLW"
       },
       {
         "position": 2,
@@ -254,15 +254,15 @@
         "position": 8,
         "team_id": "ast_e5e92a72234f4af8b3631c917bcce171",
         "team": "Piratas",
-        "played": 5,
+        "played": 6,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
-        "goals_for": 4,
-        "goals_against": 3,
+        "goals_for": 5,
+        "goals_against": 4,
         "goal_difference": 1,
-        "points": 7,
-        "form": "LLWWD"
+        "points": 8,
+        "form": "DLLWW"
       },
       {
         "position": 9,
@@ -382,16 +382,16 @@
         "position": 1,
         "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
         "team": "黑狮队UdeG",
-        "played": 5,
+        "played": 6,
         "wins": 4,
-        "draws": 0,
+        "draws": 1,
         "losses": 1,
-        "goals_for": 13,
-        "goals_against": 6,
+        "goals_for": 14,
+        "goals_against": 7,
         "goal_difference": 7,
-        "points": 12,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "points": 13,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 2,
@@ -487,16 +487,16 @@
         "position": 8,
         "team_id": "ast_e5e92a72234f4af8b3631c917bcce171",
         "team": "海盗队",
-        "played": 5,
+        "played": 6,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
-        "goals_for": 4,
-        "goals_against": 3,
+        "goals_for": 5,
+        "goals_against": 4,
         "goal_difference": 1,
-        "points": 7,
-        "form": "LLWWD",
-        "form_label": "负负胜胜平"
+        "points": 8,
+        "form": "DLLWW",
+        "form_label": "平负负胜胜"
       },
       {
         "position": 9,
@@ -2106,7 +2106,7 @@
         "match_id": "as_dc219b8bd89e47b288d2857e22a9acbf",
         "date": "2026-08-30",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -2118,7 +2118,10 @@
           "name": "海盗队",
           "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8494f90577104f56a3d62d030083f683",
@@ -4028,24 +4031,6 @@
         "away": {
           "name": "多拉多斯",
           "team_id": "ast_5f682ed1e4834cadbeb951a09998ce0d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_dc219b8bd89e47b288d2857e22a9acbf",
-        "date": "2026-08-30",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "黑狮队UdeG",
-          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
-        },
-        "away": {
-          "name": "海盗队",
-          "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
         },
         "venue": ""
       }
@@ -6122,13 +6107,13 @@
     }
   },
   "stats": {
-    "matches_completed": 46,
-    "total_goals": 145,
-    "avg_goals_per_match": 3.15,
+    "matches_completed": 47,
+    "total_goals": 147,
+    "avg_goals_per_match": 3.13,
     "home_wins": 21,
-    "draws": 9,
+    "draws": 10,
     "away_wins": 16,
-    "home_win_pct": 45.7,
+    "home_win_pct": 44.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6155,8 +6140,8 @@
     },
     "leader": {
       "team": "Leones Negros",
-      "points": 12,
-      "played": 5
+      "points": 13,
+      "played": 6
     }
   },
   "coverage": {
@@ -6253,15 +6238,15 @@
             "position": 1,
             "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
             "team": "Leones Negros",
-            "played": 5,
+            "played": 6,
             "wins": 4,
-            "draws": 0,
+            "draws": 1,
             "losses": 1,
-            "goals_for": 13,
-            "goals_against": 6,
+            "goals_for": 14,
+            "goals_against": 7,
             "goal_difference": 7,
-            "points": 12,
-            "form": "WWLWW"
+            "points": 13,
+            "form": "DWWLW"
           },
           {
             "position": 2,
@@ -6926,7 +6911,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 120,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

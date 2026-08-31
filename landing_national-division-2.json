@@ -190,29 +190,29 @@
         "position": 3,
         "team_id": "ast_99ff68eea4804f9a8a99c9c8c90d126e",
         "team": "Petrocub",
-        "played": 9,
-        "wins": 4,
+        "played": 10,
+        "wins": 5,
         "draws": 2,
         "losses": 3,
-        "goals_for": 16,
+        "goals_for": 19,
         "goals_against": 10,
-        "goal_difference": 6,
-        "points": 14,
-        "form": "LLWWD"
+        "goal_difference": 9,
+        "points": 17,
+        "form": "WLLWW"
       },
       {
         "position": 4,
         "team_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452",
         "team": "Dacia Buiucani",
-        "played": 9,
+        "played": 10,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 4,
         "goals_for": 12,
         "goals_against": 14,
         "goal_difference": -2,
-        "points": 13,
-        "form": "DWLLW"
+        "points": 14,
+        "form": "DDWLL"
       },
       {
         "position": 5,
@@ -232,15 +232,15 @@
         "position": 6,
         "team_id": "ast_08397deef4d347a6801a566cf7e398e3",
         "team": "Milsami",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 4,
+        "draws": 5,
         "losses": 3,
         "goals_for": 8,
         "goals_against": 14,
         "goal_difference": -6,
-        "points": 10,
-        "form": "WLDDD"
+        "points": 11,
+        "form": "DWLDD"
       },
       {
         "position": 7,
@@ -260,15 +260,15 @@
         "position": 8,
         "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9",
         "team": "Balti",
-        "played": 9,
+        "played": 10,
         "wins": 1,
         "draws": 2,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 8,
-        "goals_against": 26,
-        "goal_difference": -18,
+        "goals_against": 29,
+        "goal_difference": -21,
         "points": 5,
-        "form": "LLDLL"
+        "form": "LLLDL"
       }
     ],
     "zh": [
@@ -306,31 +306,31 @@
         "position": 3,
         "team_id": "ast_99ff68eea4804f9a8a99c9c8c90d126e",
         "team": "佩特罗库布",
-        "played": 9,
-        "wins": 4,
+        "played": 10,
+        "wins": 5,
         "draws": 2,
         "losses": 3,
-        "goals_for": 16,
+        "goals_for": 19,
         "goals_against": 10,
-        "goal_difference": 6,
-        "points": 14,
-        "form": "LLWWD",
-        "form_label": "负负胜胜平"
+        "goal_difference": 9,
+        "points": 17,
+        "form": "WLLWW",
+        "form_label": "胜负负胜胜"
       },
       {
         "position": 4,
         "team_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452",
         "team": "达契亚布尤坎尼",
-        "played": 9,
+        "played": 10,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 4,
         "goals_for": 12,
         "goals_against": 14,
         "goal_difference": -2,
-        "points": 13,
-        "form": "DWLLW",
-        "form_label": "平胜负负胜"
+        "points": 14,
+        "form": "DDWLL",
+        "form_label": "平平胜负负"
       },
       {
         "position": 5,
@@ -351,16 +351,16 @@
         "position": 6,
         "team_id": "ast_08397deef4d347a6801a566cf7e398e3",
         "team": "米尔萨米",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 4,
+        "draws": 5,
         "losses": 3,
         "goals_for": 8,
         "goals_against": 14,
         "goal_difference": -6,
-        "points": 10,
-        "form": "WLDDD",
-        "form_label": "胜负平平平"
+        "points": 11,
+        "form": "DWLDD",
+        "form_label": "平胜负平平"
       },
       {
         "position": 7,
@@ -381,16 +381,16 @@
         "position": 8,
         "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9",
         "team": "巴尔蒂",
-        "played": 9,
+        "played": 10,
         "wins": 1,
         "draws": 2,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 8,
-        "goals_against": 26,
-        "goal_difference": -18,
+        "goals_against": 29,
+        "goal_difference": -21,
         "points": 5,
-        "form": "LLDLL",
-        "form_label": "负负平负负"
+        "form": "LLLDL",
+        "form_label": "负负负平负"
       }
     ]
   },
@@ -1287,7 +1287,7 @@
         "match_id": "as_092959cbc3f541b6be619195cb02a861",
         "date": "2026-08-30",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "摩尔多瓦国家联赛",
         "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
         "season": "2026/2027",
@@ -1299,13 +1299,16 @@
           "name": "巴尔蒂",
           "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d9e557bb0b7b4f6490b62b5d4a570ce7",
         "date": "2026-08-30",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "摩尔多瓦国家联赛",
         "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
         "season": "2026/2027",
@@ -1317,7 +1320,10 @@
           "name": "米尔萨米",
           "team_id": "ast_08397deef4d347a6801a566cf7e398e3"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_31d6166f803d4288afb6ab44305097de",
@@ -2428,42 +2434,6 @@
         "away": {
           "name": "达契亚布尤坎尼",
           "team_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d9e557bb0b7b4f6490b62b5d4a570ce7",
-        "date": "2026-08-30",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "摩尔多瓦国家联赛",
-        "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
-        "season": "2026/2027",
-        "home": {
-          "name": "达契亚布尤坎尼",
-          "team_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452"
-        },
-        "away": {
-          "name": "米尔萨米",
-          "team_id": "ast_08397deef4d347a6801a566cf7e398e3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_092959cbc3f541b6be619195cb02a861",
-        "date": "2026-08-30",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "摩尔多瓦国家联赛",
-        "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
-        "season": "2026/2027",
-        "home": {
-          "name": "佩特罗库布",
-          "team_id": "ast_99ff68eea4804f9a8a99c9c8c90d126e"
-        },
-        "away": {
-          "name": "巴尔蒂",
-          "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9"
         },
         "venue": ""
       }
@@ -3670,13 +3640,13 @@
     }
   },
   "stats": {
-    "matches_completed": 38,
-    "total_goals": 110,
-    "avg_goals_per_match": 2.89,
-    "home_wins": 16,
-    "draws": 12,
+    "matches_completed": 40,
+    "total_goals": 113,
+    "avg_goals_per_match": 2.83,
+    "home_wins": 17,
+    "draws": 13,
     "away_wins": 10,
-    "home_win_pct": 42.1,
+    "home_win_pct": 42.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -3829,15 +3799,15 @@
             "position": 3,
             "team_id": "ast_99ff68eea4804f9a8a99c9c8c90d126e",
             "team": "Petrocub",
-            "played": 9,
-            "wins": 4,
+            "played": 10,
+            "wins": 5,
             "draws": 2,
             "losses": 3,
-            "goals_for": 16,
+            "goals_for": 19,
             "goals_against": 10,
-            "goal_difference": 6,
-            "points": 14,
-            "form": "LLWWD"
+            "goal_difference": 9,
+            "points": 17,
+            "form": "WLLWW"
           }
         ],
         "meta": {
@@ -4454,7 +4424,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 8,
     "matches_current_season": 84,
-    "upcoming_matches": 18
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

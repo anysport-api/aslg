@@ -142,15 +142,15 @@
         "position": 6,
         "team_id": "ast_570e22319b7a495c89c79b071111007b",
         "team": "HFX Wanderers",
-        "played": 19,
+        "played": 20,
         "wins": 5,
         "draws": 5,
-        "losses": 9,
-        "goals_for": 25,
-        "goals_against": 30,
-        "goal_difference": -5,
+        "losses": 10,
+        "goals_for": 28,
+        "goals_against": 34,
+        "goal_difference": -6,
         "points": 20,
-        "form": "WLLDL"
+        "form": "LWLLD"
       },
       {
         "position": 7,
@@ -170,15 +170,15 @@
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "Pacific FC",
-        "played": 17,
-        "wins": 0,
+        "played": 18,
+        "wins": 1,
         "draws": 5,
         "losses": 12,
-        "goals_for": 18,
-        "goals_against": 36,
-        "goal_difference": -18,
-        "points": 5,
-        "form": "LDDLL"
+        "goals_for": 22,
+        "goals_against": 39,
+        "goal_difference": -17,
+        "points": 8,
+        "form": "WLDDL"
       }
     ],
     "zh": [
@@ -261,16 +261,16 @@
         "position": 6,
         "team_id": "ast_570e22319b7a495c89c79b071111007b",
         "team": "HFX流浪者",
-        "played": 19,
+        "played": 20,
         "wins": 5,
         "draws": 5,
-        "losses": 9,
-        "goals_for": 25,
-        "goals_against": 30,
-        "goal_difference": -5,
+        "losses": 10,
+        "goals_for": 28,
+        "goals_against": 34,
+        "goal_difference": -6,
         "points": 20,
-        "form": "WLLDL",
-        "form_label": "胜负负平负"
+        "form": "LWLLD",
+        "form_label": "负胜负负平"
       },
       {
         "position": 7,
@@ -291,16 +291,16 @@
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "太平洋FC",
-        "played": 17,
-        "wins": 0,
+        "played": 18,
+        "wins": 1,
         "draws": 5,
         "losses": 12,
-        "goals_for": 18,
-        "goals_against": 36,
-        "goal_difference": -18,
-        "points": 5,
-        "form": "LDDLL",
-        "form_label": "负平平负负"
+        "goals_for": 22,
+        "goals_against": 39,
+        "goal_difference": -17,
+        "points": 8,
+        "form": "WLDDL",
+        "form_label": "胜负平平负"
       }
     ]
   },
@@ -1045,7 +1045,7 @@
         "match_id": "as_2dcfef2556464a38b9742a759a13eb50",
         "date": "2026-08-30",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -1057,7 +1057,10 @@
           "name": "HFX流浪者",
           "team_id": "ast_570e22319b7a495c89c79b071111007b"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "4-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7119882ee23649fca3ffb5faf9f80eb1",
@@ -1077,7 +1080,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "ATCO球场",
         "status_label": "完场"
       },
       {
@@ -1098,7 +1101,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "TD广场体育场",
         "status_label": "完场"
       },
       {
@@ -1119,7 +1122,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "CEPSUM Stadium",
         "status_label": "完场"
       },
       {
@@ -3195,24 +3198,6 @@
         "ht_score": "-",
         "venue": "TD广场体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2dcfef2556464a38b9742a759a13eb50",
-        "date": "2026-08-30",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "太平洋FC",
-          "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
-        },
-        "away": {
-          "name": "HFX流浪者",
-          "team_id": "ast_570e22319b7a495c89c79b071111007b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4193,13 +4178,13 @@
     }
   },
   "stats": {
-    "matches_completed": 75,
-    "total_goals": 218,
-    "avg_goals_per_match": 2.91,
-    "home_wins": 36,
+    "matches_completed": 76,
+    "total_goals": 225,
+    "avg_goals_per_match": 2.96,
+    "home_wins": 37,
     "draws": 16,
     "away_wins": 23,
-    "home_win_pct": 48.0,
+    "home_win_pct": 48.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -5009,7 +4994,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 112,
-    "upcoming_matches": 29
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

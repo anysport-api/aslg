@@ -1853,7 +1853,7 @@
         "match_id": "as_45a609a779af439884049a599a68c4b3",
         "date": "2026-09-07",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1865,9 +1865,7 @@
           "name": "老虎队",
           "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
         },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e1d93d2640024b5db206d563ba3c5502",
@@ -2091,7 +2089,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "4-1",
-        "venue": "",
+        "venue": "Estadio Municipal de Mosquera",
         "status_label": "完场"
       },
       {
@@ -2112,7 +2110,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Estadio Villa Concha",
         "status_label": "完场"
       },
       {
@@ -2133,7 +2131,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "内华达山脉体育场",
         "status_label": "完场"
       },
       {
@@ -6111,6 +6109,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_4cec1c213f8f4c409aeff3f2b5aea52e",
+        "date": "2026-10-15",
+        "time": "20:30",
+        "status": "Not Started",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "尤姆博独立",
+          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
+        },
+        "away": {
+          "name": "博卡青年",
+          "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Municipal Raul Miranda",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_cdcc1d93fe824c498b98570b1a03fb34",
         "date": "2026-10-14",
         "time": "20:30",
@@ -7088,26 +7106,6 @@
         },
         "ht_score": "-",
         "venue": "Estadio Municipal de Mosquera",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4a77bde0b1a24f3d8cb5d775ddc354e7",
-        "date": "2026-09-10",
-        "time": "00:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "爱国者",
-          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
-        },
-        "away": {
-          "name": "巴兰基亚",
-          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
-        },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
         "status_label": "未开赛"
       }
     ]
@@ -12478,5 +12476,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

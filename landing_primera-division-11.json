@@ -200,7 +200,7 @@
       },
       {
         "position": 3,
-        "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
+        "team_id": "ast_161c07103220439cbbd04011482a2373",
         "team": "Independiente",
         "played": 16,
         "wins": 4,
@@ -284,7 +284,7 @@
       },
       {
         "position": 6,
-        "team_id": "ast_40a8492bd8044037be201a80f9e5ad10",
+        "team_id": "ast_42c48149a1f3491591ff635d82babaad",
         "team": "Herrera",
         "played": 16,
         "wins": 1,
@@ -375,7 +375,7 @@
       },
       {
         "position": 3,
-        "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
+        "team_id": "ast_161c07103220439cbbd04011482a2373",
         "team": "独立队",
         "played": 16,
         "wins": 4,
@@ -465,7 +465,7 @@
       },
       {
         "position": 6,
-        "team_id": "ast_40a8492bd8044037be201a80f9e5ad10",
+        "team_id": "ast_42c48149a1f3491591ff635d82babaad",
         "team": "埃雷拉",
         "played": 16,
         "wins": 1,
@@ -1730,7 +1730,7 @@
         "match_id": "as_0008d071a856473599865c47879c3cd2",
         "date": "2026-08-30",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1742,13 +1742,16 @@
           "name": "阿利安萨",
           "team_id": "ast_56b7eecdc5654764801ae9188aab3306"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_17b138f892134d29b330b889d0958f60",
         "date": "2026-08-30",
         "time": "23:15",
-        "status": "23:15",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1760,7 +1763,10 @@
           "name": "埃雷拉",
           "team_id": "ast_42c48149a1f3491591ff635d82babaad"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fbea0af1eaf74fc3a0b21e940726cd3f",
@@ -1780,7 +1786,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Estadio Rommel Fernandez",
         "status_label": "完场"
       },
       {
@@ -5326,63 +5332,6 @@
           "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_17b138f892134d29b330b889d0958f60",
-        "date": "2026-08-30",
-        "time": "23:15",
-        "status": "23:15",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "圣米格尔体育",
-          "team_id": "ast_61121edf34484c4aa17ab9990913cc14"
-        },
-        "away": {
-          "name": "埃雷拉",
-          "team_id": "ast_42c48149a1f3491591ff635d82babaad"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0008d071a856473599865c47879c3cd2",
-        "date": "2026-08-30",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "科克莱联合",
-          "team_id": "ast_8f2f22a37d36431399f865006017ad71"
-        },
-        "away": {
-          "name": "阿利安萨",
-          "team_id": "ast_56b7eecdc5654764801ae9188aab3306"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3269fcccfce54ea19a65d5f3b02eff8a",
-        "date": "2026-08-30",
-        "time": "01:30",
-        "status": "FT",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "旧金山",
-          "team_id": "ast_3aaea0dfe3664165b1b93b8cb75000e8"
-        },
-        "away": {
-          "name": "普拉萨阿莫多尔",
-          "team_id": "ast_d3baa4540a6f40f89e88b5a5fa6ac30c"
-        },
-        "ht_score": "2-1",
-        "reg_score": "4-1",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -6360,13 +6309,13 @@
     }
   },
   "stats": {
-    "matches_completed": 136,
-    "total_goals": 356,
-    "avg_goals_per_match": 2.62,
-    "home_wins": 51,
-    "draws": 50,
+    "matches_completed": 138,
+    "total_goals": 364,
+    "avg_goals_per_match": 2.64,
+    "home_wins": 52,
+    "draws": 51,
     "away_wins": 35,
-    "home_win_pct": 37.5,
+    "home_win_pct": 37.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7164,7 +7113,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 12,
     "matches_current_season": 199,
-    "upcoming_matches": 40
+    "upcoming_matches": 37
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }

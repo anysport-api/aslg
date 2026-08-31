@@ -186,15 +186,15 @@
         "position": 1,
         "team_id": "ast_87ca76edd61347c3892fa6381a9833ea",
         "team": "Kiffen",
-        "played": 18,
-        "wins": 12,
+        "played": 19,
+        "wins": 13,
         "draws": 3,
         "losses": 3,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
-        "points": 39,
-        "form": "WWWDD"
+        "goals_for": 43,
+        "goals_against": 25,
+        "goal_difference": 18,
+        "points": 42,
+        "form": "WWWWD"
       },
       {
         "position": 2,
@@ -242,15 +242,15 @@
         "position": 5,
         "team_id": "ast_354fccc67d484b06828fde4efbf5cc18",
         "team": "HPS",
-        "played": 18,
+        "played": 19,
         "wins": 7,
         "draws": 4,
-        "losses": 7,
-        "goals_for": 39,
-        "goals_against": 41,
-        "goal_difference": -2,
+        "losses": 8,
+        "goals_for": 40,
+        "goals_against": 43,
+        "goal_difference": -3,
         "points": 25,
-        "form": "LLDDL"
+        "form": "LLLDD"
       },
       {
         "position": 6,
@@ -328,16 +328,16 @@
         "position": 1,
         "team_id": "ast_87ca76edd61347c3892fa6381a9833ea",
         "team": "基芬",
-        "played": 18,
-        "wins": 12,
+        "played": 19,
+        "wins": 13,
         "draws": 3,
         "losses": 3,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
-        "points": 39,
-        "form": "WWWDD",
-        "form_label": "胜胜胜平平"
+        "goals_for": 43,
+        "goals_against": 25,
+        "goal_difference": 18,
+        "points": 42,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
       },
       {
         "position": 2,
@@ -388,16 +388,16 @@
         "position": 5,
         "team_id": "ast_354fccc67d484b06828fde4efbf5cc18",
         "team": "HPS",
-        "played": 18,
+        "played": 19,
         "wins": 7,
         "draws": 4,
-        "losses": 7,
-        "goals_for": 39,
-        "goals_against": 41,
-        "goal_difference": -2,
+        "losses": 8,
+        "goals_for": 40,
+        "goals_against": 43,
+        "goal_difference": -3,
         "points": 25,
-        "form": "LLDDL",
-        "form_label": "负负平平负"
+        "form": "LLLDD",
+        "form_label": "负负负平平"
       },
       {
         "position": 6,
@@ -1897,7 +1897,7 @@
         "match_id": "as_fc8c7ed6cce14b11955bdf2a6b257210",
         "date": "2026-08-30",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "芬兰甲级联赛",
         "league_id": "asl_3b3f4df0056142f6a7c9cae912ddaded",
         "season": "2026",
@@ -1909,7 +1909,10 @@
           "name": "HPS",
           "team_id": "ast_354fccc67d484b06828fde4efbf5cc18"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2d69e41eb5cf4305a6e1cc842238bd81",
@@ -1992,7 +1995,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Leppavaara stadium",
         "status_label": "完场"
       },
       {
@@ -2013,7 +2016,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "4-1",
-        "venue": "",
+        "venue": "Espoonlahden urheilupuisto",
         "status_label": "完场"
       },
       {
@@ -2034,7 +2037,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Urheilupuiston Ylakentta",
         "status_label": "完场"
       },
       {
@@ -2055,7 +2058,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Kokkolan keskuskentta",
         "status_label": "完场"
       },
       {
@@ -2076,7 +2079,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "5-0",
-        "venue": "",
+        "venue": "Project Liv Arena",
         "status_label": "完场"
       },
       {
@@ -12513,13 +12516,13 @@
     }
   },
   "stats": {
-    "matches_completed": 278,
-    "total_goals": 1080,
+    "matches_completed": 279,
+    "total_goals": 1083,
     "avg_goals_per_match": 3.88,
-    "home_wins": 134,
+    "home_wins": 135,
     "draws": 52,
     "away_wins": 92,
-    "home_win_pct": 48.2,
+    "home_win_pct": 48.4,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -12546,8 +12549,8 @@
     },
     "leader": {
       "team": "Kiffen",
-      "points": 39,
-      "played": 18
+      "points": 42,
+      "played": 19
     }
   },
   "coverage": {
@@ -12644,15 +12647,15 @@
             "position": 1,
             "team_id": "ast_87ca76edd61347c3892fa6381a9833ea",
             "team": "Kiffen",
-            "played": 18,
-            "wins": 12,
+            "played": 19,
+            "wins": 13,
             "draws": 3,
             "losses": 3,
-            "goals_for": 41,
-            "goals_against": 24,
-            "goal_difference": 17,
-            "points": 39,
-            "form": "WWWDD"
+            "goals_for": 43,
+            "goals_against": 25,
+            "goal_difference": 18,
+            "points": 42,
+            "form": "WWWWD"
           },
           {
             "position": 2,
@@ -13319,5 +13322,5 @@
     "matches_current_season": 351,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/08/30"
+  "updated_at": "2026/08/31"
 }
