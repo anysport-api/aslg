@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
@@ -596,6 +596,42 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_8a8f2ca38ada43b8a2be94f2da5e0ad3",
+        "date": "2026-09-02",
+        "time": "09:30",
+        "status": "09:30",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "马尔科尼公牛",
+          "team_id": "ast_86862125d3c841b79130fd898dca11b3"
+        },
+        "away": {
+          "name": "NWS精神",
+          "team_id": "ast_5dd88019707e4379aea210c9b3dad454"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_98c10807b4aa4cc686fefedf992b47cf",
+        "date": "2026-09-02",
+        "time": "09:30",
+        "status": "09:30",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "萨瑟兰鲨鱼",
+          "team_id": "ast_0132d905417843ae8700f16007ed7302"
+        },
+        "away": {
+          "name": "曼利联",
+          "team_id": "ast_e1415c1a8e754a9994bd647af7a163b1"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_af7d605238ec4e399f222f8780709a57",
         "date": "2026-08-30",
         "time": "05:00",
@@ -613,7 +649,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "贝尔莫尔体育场地",
         "status_label": "完场"
       },
       {
@@ -634,7 +670,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-3",
-        "venue": "",
+        "venue": "兰登体育场",
         "status_label": "完场"
       },
       {
@@ -655,7 +691,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "马可尼体育场",
         "status_label": "完场"
       },
       {
@@ -676,7 +712,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "Rockdale Ilinden Sports Centre",
         "status_label": "完场"
       },
       {
@@ -697,7 +733,7 @@
         },
         "ht_score": "0-3",
         "reg_score": "0-4",
-        "venue": "",
+        "venue": "WIN体育场",
         "status_label": "完场"
       },
       {
@@ -718,7 +754,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "4-2",
-        "venue": "",
+        "venue": "兰伯特公园球场",
         "status_label": "完场"
       },
       {
@@ -739,7 +775,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "6-0",
-        "venue": "",
+        "venue": "Sydney United Sports Centre",
         "status_label": "完场"
       },
       {
@@ -760,7 +796,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "西摩·肖公园",
         "status_label": "完场"
       },
       {
@@ -5636,7 +5672,44 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_98c10807b4aa4cc686fefedf992b47cf",
+        "date": "2026-09-02",
+        "time": "09:30",
+        "status": "09:30",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "萨瑟兰鲨鱼",
+          "team_id": "ast_0132d905417843ae8700f16007ed7302"
+        },
+        "away": {
+          "name": "曼利联",
+          "team_id": "ast_e1415c1a8e754a9994bd647af7a163b1"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_8a8f2ca38ada43b8a2be94f2da5e0ad3",
+        "date": "2026-09-02",
+        "time": "09:30",
+        "status": "09:30",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "马尔科尼公牛",
+          "team_id": "ast_86862125d3c841b79130fd898dca11b3"
+        },
+        "away": {
+          "name": "NWS精神",
+          "team_id": "ast_5dd88019707e4379aea210c9b3dad454"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -9297,8 +9370,8 @@
     "distinct_title_holders": 9,
     "teams_all_time": 31,
     "standings_rows_current": 16,
-    "matches_current_season": 240,
-    "upcoming_matches": 0
+    "matches_current_season": 242,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/02"
 }

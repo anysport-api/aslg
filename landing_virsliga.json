@@ -194,15 +194,15 @@
         "position": 2,
         "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b",
         "team": "Riga FC",
-        "played": 26,
+        "played": 27,
         "wins": 20,
         "draws": 5,
-        "losses": 1,
-        "goals_for": 79,
-        "goals_against": 24,
-        "goal_difference": 55,
+        "losses": 2,
+        "goals_for": 81,
+        "goals_against": 27,
+        "goal_difference": 54,
         "points": 65,
-        "form": "DWWWW"
+        "form": "LDWWW"
       },
       {
         "position": 3,
@@ -220,6 +220,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
+        "team": "FK Liepaja",
+        "played": 28,
+        "wins": 12,
+        "draws": 4,
+        "losses": 12,
+        "goals_for": 39,
+        "goals_against": 41,
+        "goal_difference": -2,
+        "points": 40,
+        "form": "WLWWL"
+      },
+      {
+        "position": 5,
         "team_id": "ast_9055dec34a934c0782c14f9067d8be6c",
         "team": "BFC Daugavpils",
         "played": 28,
@@ -231,20 +245,6 @@
         "goal_difference": 1,
         "points": 37,
         "form": "LDWWL"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
-        "team": "FK Liepaja",
-        "played": 27,
-        "wins": 11,
-        "draws": 4,
-        "losses": 12,
-        "goals_for": 36,
-        "goals_against": 39,
-        "goal_difference": -3,
-        "points": 37,
-        "form": "LWWLW"
       },
       {
         "position": 6,
@@ -337,16 +337,16 @@
         "position": 2,
         "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b",
         "team": "里加FC",
-        "played": 26,
+        "played": 27,
         "wins": 20,
         "draws": 5,
-        "losses": 1,
-        "goals_for": 79,
-        "goals_against": 24,
-        "goal_difference": 55,
+        "losses": 2,
+        "goals_for": 81,
+        "goals_against": 27,
+        "goal_difference": 54,
         "points": 65,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
+        "form": "LDWWW",
+        "form_label": "负平胜胜胜"
       },
       {
         "position": 3,
@@ -365,6 +365,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
+        "team": "利耶帕亚足球俱乐部",
+        "played": 28,
+        "wins": 12,
+        "draws": 4,
+        "losses": 12,
+        "goals_for": 39,
+        "goals_against": 41,
+        "goal_difference": -2,
+        "points": 40,
+        "form": "WLWWL",
+        "form_label": "胜负胜胜负"
+      },
+      {
+        "position": 5,
         "team_id": "ast_9055dec34a934c0782c14f9067d8be6c",
         "team": "道加瓦皮尔斯BFC",
         "played": 28,
@@ -377,21 +392,6 @@
         "points": 37,
         "form": "LDWWL",
         "form_label": "负平胜胜负"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
-        "team": "利耶帕亚足球俱乐部",
-        "played": 27,
-        "wins": 11,
-        "draws": 4,
-        "losses": 12,
-        "goals_for": 36,
-        "goals_against": 39,
-        "goal_difference": -3,
-        "points": 37,
-        "form": "LWWLW",
-        "form_label": "负胜胜负胜"
       },
       {
         "position": 6,
@@ -1251,7 +1251,7 @@
         "match_id": "as_4100700e4bd347f7b8b747e2c0a547ba",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1263,13 +1263,15 @@
           "name": "道加瓦皮尔斯BFC",
           "team_id": "ast_9055dec34a934c0782c14f9067d8be6c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Skonto stadions",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e650748ba15641b1a8b9dabdc3722c35",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1281,13 +1283,15 @@
           "name": "利耶帕亚足球俱乐部",
           "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "LNK Sporta Parks",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_aaafb2db487448bbac5ee85dbde442f1",
         "date": "2026-09-06",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1299,13 +1303,15 @@
           "name": "格罗比纳",
           "team_id": "ast_8a232a2881404432900a6a027865ee2d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Skonto stadions",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4e81d6bb89964494aaea797bc949a382",
         "date": "2026-09-05",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1317,13 +1323,15 @@
           "name": "奥格联合",
           "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_90978c72989e4e378f54f4a407bcbbb2",
         "date": "2026-09-05",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1335,13 +1343,15 @@
           "name": "超级新星",
           "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Zemgales Olimpiskais centrs",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_8b2a58cc8d484b10b4b4ef8465e66859",
         "date": "2026-08-31",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1353,7 +1363,10 @@
           "name": "里加FC",
           "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-2",
+        "venue": "Daugavas stadions",
+        "status_label": "完场"
       },
       {
         "match_id": "as_79ecbc717b9846f19f3051ce674b7b4f",
@@ -1394,7 +1407,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Skonto stadions",
         "status_label": "完场"
       },
       {
@@ -4214,6 +4227,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_af319b5167a047db8e760541a698e7e8",
+        "date": "2026-10-17",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚Virsliga",
+        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
+        "season": "2026",
+        "home": {
+          "name": "格罗比纳",
+          "team_id": "ast_8a232a2881404432900a6a027865ee2d"
+        },
+        "away": {
+          "name": "奥格联合",
+          "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_47496eb59e6240e9a807807b1ce8da5f",
         "date": "2026-10-15",
         "time": "16:00",
@@ -4577,7 +4610,7 @@
         "match_id": "as_e650748ba15641b1a8b9dabdc3722c35",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4589,13 +4622,15 @@
           "name": "利耶帕亚足球俱乐部",
           "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "LNK Sporta Parks",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4100700e4bd347f7b8b747e2c0a547ba",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4607,13 +4642,15 @@
           "name": "道加瓦皮尔斯BFC",
           "team_id": "ast_9055dec34a934c0782c14f9067d8be6c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Skonto stadions",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_aaafb2db487448bbac5ee85dbde442f1",
         "date": "2026-09-06",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4625,13 +4662,15 @@
           "name": "格罗比纳",
           "team_id": "ast_8a232a2881404432900a6a027865ee2d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Skonto stadions",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_90978c72989e4e378f54f4a407bcbbb2",
         "date": "2026-09-05",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4643,13 +4682,15 @@
           "name": "超级新星",
           "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Zemgales Olimpiskais centrs",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4e81d6bb89964494aaea797bc949a382",
         "date": "2026-09-05",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4661,25 +4702,9 @@
           "name": "奥格联合",
           "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8b2a58cc8d484b10b4b4ef8465e66859",
-        "date": "2026-08-31",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "利耶帕亚足球俱乐部",
-          "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10"
-        },
-        "away": {
-          "name": "里加FC",
-          "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
-        },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -8108,13 +8133,13 @@
     }
   },
   "stats": {
-    "matches_completed": 136,
-    "total_goals": 406,
-    "avg_goals_per_match": 2.99,
-    "home_wins": 58,
+    "matches_completed": 137,
+    "total_goals": 411,
+    "avg_goals_per_match": 3.0,
+    "home_wins": 59,
     "draws": 29,
     "away_wins": 49,
-    "home_win_pct": 42.6,
+    "home_win_pct": 43.1,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8253,15 +8278,15 @@
             "position": 2,
             "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b",
             "team": "Riga FC",
-            "played": 26,
+            "played": 27,
             "wins": 20,
             "draws": 5,
-            "losses": 1,
-            "goals_for": 79,
-            "goals_against": 24,
-            "goal_difference": 55,
+            "losses": 2,
+            "goals_for": 81,
+            "goals_against": 27,
+            "goal_difference": 54,
             "points": 65,
-            "form": "DWWWW"
+            "form": "LDWWW"
           },
           {
             "position": 3,
@@ -8914,5 +8939,5 @@
     "matches_current_season": 180,
     "upcoming_matches": 24
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/02"
 }

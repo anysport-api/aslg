@@ -1473,7 +1473,7 @@
         "match_id": "as_b5ca09c825d24424858273b82b3e328c",
         "date": "2026-09-08",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1485,15 +1485,13 @@
           "name": "诺梅联",
           "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49"
         },
-        "ht_score": "-",
-        "venue": "Hiiu Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e23ee256255e4e4c89be09360044b1bc",
         "date": "2026-09-08",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1505,9 +1503,7 @@
           "name": "弗洛拉",
           "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52"
         },
-        "ht_score": "-",
-        "venue": "Narva Kalev-Fama staadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_01df0b0cc0f7444caf2a8bcc7cd4a880",
@@ -1635,7 +1631,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Narva Kalev-Fama staadion",
         "status_label": "完场"
       },
       {
@@ -1656,7 +1652,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "Hiiu Stadium",
         "status_label": "完场"
       },
       {
@@ -1677,7 +1673,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "A. Le Coq竞技场",
         "status_label": "完场"
       },
       {
@@ -1719,7 +1715,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Kuressaare Linnastaadion",
         "status_label": "完场"
       },
       {
@@ -4182,6 +4178,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_6d08054e7cef4c50aabab5d53823a952",
+        "date": "2026-10-17",
+        "time": "11:30",
+        "status": "Not Started",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "诺梅联",
+          "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49"
+        },
+        "away": {
+          "name": "卡尔朱",
+          "team_id": "ast_65c6a522362042f494acbd4a5fea1e48"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_3fa6480dcc8f41fc83833b266917efe3",
         "date": "2026-10-15",
         "time": "16:00",
@@ -4685,7 +4701,7 @@
         "match_id": "as_e23ee256255e4e4c89be09360044b1bc",
         "date": "2026-09-08",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4697,15 +4713,13 @@
           "name": "弗洛拉",
           "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52"
         },
-        "ht_score": "-",
-        "venue": "Narva Kalev-Fama staadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b5ca09c825d24424858273b82b3e328c",
         "date": "2026-09-08",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4717,9 +4731,7 @@
           "name": "诺梅联",
           "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49"
         },
-        "ht_score": "-",
-        "venue": "Hiiu Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0c7c04dc8b6b46eda6696f787b72fde4",
@@ -9244,7 +9256,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 33
+    "upcoming_matches": 34
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/02"
 }

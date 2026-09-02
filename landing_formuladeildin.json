@@ -146,15 +146,15 @@
         "position": 2,
         "team_id": "ast_de8b223c5840471fa1f9ffd023480448",
         "team": "Klaksvik",
-        "played": 20,
-        "wins": 10,
+        "played": 21,
+        "wins": 11,
         "draws": 8,
         "losses": 2,
-        "goals_for": 39,
+        "goals_for": 42,
         "goals_against": 19,
-        "goal_difference": 20,
-        "points": 38,
-        "form": "DWLWD"
+        "goal_difference": 23,
+        "points": 41,
+        "form": "WDWLW"
       },
       {
         "position": 3,
@@ -230,15 +230,15 @@
         "position": 8,
         "team_id": "ast_f16d69a56167454da64128fa92f1a267",
         "team": "Streymur",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 5,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 25,
-        "goals_against": 32,
-        "goal_difference": -7,
+        "goals_against": 35,
+        "goal_difference": -10,
         "points": 20,
-        "form": "WLLLW"
+        "form": "LWLLL"
       },
       {
         "position": 9,
@@ -289,16 +289,16 @@
         "position": 2,
         "team_id": "ast_de8b223c5840471fa1f9ffd023480448",
         "team": "克拉克斯维克",
-        "played": 20,
-        "wins": 10,
+        "played": 21,
+        "wins": 11,
         "draws": 8,
         "losses": 2,
-        "goals_for": 39,
+        "goals_for": 42,
         "goals_against": 19,
-        "goal_difference": 20,
-        "points": 38,
-        "form": "DWLWD",
-        "form_label": "平胜负胜平"
+        "goal_difference": 23,
+        "points": 41,
+        "form": "WDWLW",
+        "form_label": "胜平胜负胜"
       },
       {
         "position": 3,
@@ -379,16 +379,16 @@
         "position": 8,
         "team_id": "ast_f16d69a56167454da64128fa92f1a267",
         "team": "斯特雷穆尔",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 5,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 25,
-        "goals_against": 32,
-        "goal_difference": -7,
+        "goals_against": 35,
+        "goal_difference": -10,
         "points": 20,
-        "form": "WLLLW",
-        "form_label": "胜负负负胜"
+        "form": "LWLLL",
+        "form_label": "负胜负负负"
       },
       {
         "position": 9,
@@ -1043,7 +1043,7 @@
         "match_id": "as_8e82618196b043de89dc375b6c952600",
         "date": "2026-08-31",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "法罗群岛联赛",
         "league_id": "asl_8742ff584aff49149581174c21ff6a36",
         "season": "2026",
@@ -1055,7 +1055,10 @@
           "name": "斯特雷穆尔",
           "team_id": "ast_f16d69a56167454da64128fa92f1a267"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_18815e09b88b4e9d8349dfabc6fc54df",
@@ -1075,7 +1078,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "贡达达鲁尔",
         "status_label": "完场"
       },
       {
@@ -3542,24 +3545,6 @@
         "ht_score": "-",
         "venue": "斯坎西竞技场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_8e82618196b043de89dc375b6c952600",
-        "date": "2026-08-31",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "法罗群岛联赛",
-        "league_id": "asl_8742ff584aff49149581174c21ff6a36",
-        "season": "2026",
-        "home": {
-          "name": "克拉克斯维克",
-          "team_id": "ast_de8b223c5840471fa1f9ffd023480448"
-        },
-        "away": {
-          "name": "斯特雷穆尔",
-          "team_id": "ast_f16d69a56167454da64128fa92f1a267"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4906,13 +4891,13 @@
     }
   },
   "stats": {
-    "matches_completed": 104,
-    "total_goals": 296,
+    "matches_completed": 105,
+    "total_goals": 299,
     "avg_goals_per_match": 2.85,
-    "home_wins": 45,
+    "home_wins": 46,
     "draws": 27,
     "away_wins": 32,
-    "home_win_pct": 43.3,
+    "home_win_pct": 43.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -5051,15 +5036,15 @@
             "position": 2,
             "team_id": "ast_de8b223c5840471fa1f9ffd023480448",
             "team": "Klaksvik",
-            "played": 20,
-            "wins": 10,
+            "played": 21,
+            "wins": 11,
             "draws": 8,
             "losses": 2,
-            "goals_for": 39,
+            "goals_for": 42,
             "goals_against": 19,
-            "goal_difference": 20,
-            "points": 38,
-            "form": "DWLWD"
+            "goal_difference": 23,
+            "points": 41,
+            "form": "WDWLW"
           },
           {
             "position": 3,
@@ -5710,7 +5695,7 @@
     "teams_all_time": 13,
     "standings_rows_current": 10,
     "matches_current_season": 135,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/02"
 }

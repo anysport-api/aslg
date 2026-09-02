@@ -224,7 +224,6 @@
       },
       {
         "position": 6,
-        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
         "team": "San Marcos",
         "played": 7,
         "wins": 2,
@@ -371,8 +370,7 @@
       },
       {
         "position": 6,
-        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
-        "team": "圣马尔科斯",
+        "team": "阿帕雷西达",
         "played": 7,
         "wins": 2,
         "draws": 1,
@@ -467,7 +465,7 @@
         "match_id": "as_1e6e128c903a490ead8952a0232d152c",
         "date": "2026-09-04",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -479,7 +477,9 @@
           "name": "马那瓜UNAN",
           "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_eba20238ad0f4168b2ecbe5abeaf3b32",
@@ -1252,7 +1252,7 @@
         "match_id": "as_1e6e128c903a490ead8952a0232d152c",
         "date": "2026-09-04",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -1264,7 +1264,9 @@
           "name": "马那瓜UNAN",
           "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_f76e83e2f25e468195d47ebbcbc29c26",
@@ -1337,27 +1339,6 @@
           "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_398f9af29b074b8183734339318283c4",
-        "date": "2026-08-31",
-        "time": "01:00",
-        "status": "FT",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "马那瓜UNAN",
-          "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
-        },
-        "away": {
-          "name": "马那瓜FC",
-          "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
-        },
-        "ht_score": "0-1",
-        "reg_score": "0-2",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -3693,7 +3674,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 10,
     "matches_current_season": 38,
-    "upcoming_matches": 6
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/02"
 }

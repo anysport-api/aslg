@@ -202,6 +202,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_e21078252fb24525b3a75bd87d8e0409",
+        "team": "Dziugas Telsiai",
+        "played": 26,
+        "wins": 10,
+        "draws": 8,
+        "losses": 8,
+        "goals_for": 36,
+        "goals_against": 33,
+        "goal_difference": 3,
+        "points": 38,
+        "form": "DLLWD"
+      },
+      {
+        "position": 5,
         "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb",
         "team": "Banga",
         "played": 25,
@@ -215,7 +229,7 @@
         "form": "DDWLW"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
         "team": "Zalgiris",
         "played": 24,
@@ -227,20 +241,6 @@
         "goal_difference": 8,
         "points": 37,
         "form": "LWLWW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_e21078252fb24525b3a75bd87d8e0409",
-        "team": "Dziugas Telsiai",
-        "played": 25,
-        "wins": 10,
-        "draws": 7,
-        "losses": 8,
-        "goals_for": 34,
-        "goals_against": 31,
-        "goal_difference": 3,
-        "points": 37,
-        "form": "LLWDL"
       },
       {
         "position": 7,
@@ -260,15 +260,15 @@
         "position": 8,
         "team_id": "ast_1b95a994a3144aeda795d6574b085324",
         "team": "Hegelmann",
-        "played": 25,
+        "played": 26,
         "wins": 4,
-        "draws": 11,
+        "draws": 12,
         "losses": 10,
-        "goals_for": 27,
-        "goals_against": 42,
+        "goals_for": 29,
+        "goals_against": 44,
         "goal_difference": -15,
-        "points": 23,
-        "form": "DLLLW"
+        "points": 24,
+        "form": "DDLLL"
       },
       {
         "position": 9,
@@ -347,6 +347,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_e21078252fb24525b3a75bd87d8e0409",
+        "team": "齐乌戈斯特尔西亚",
+        "played": 26,
+        "wins": 10,
+        "draws": 8,
+        "losses": 8,
+        "goals_for": 36,
+        "goals_against": 33,
+        "goal_difference": 3,
+        "points": 38,
+        "form": "DLLWD",
+        "form_label": "平负负胜平"
+      },
+      {
+        "position": 5,
         "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb",
         "team": "班加",
         "played": 25,
@@ -361,7 +376,7 @@
         "form_label": "平平胜负胜"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
         "team": "扎尔吉里斯",
         "played": 24,
@@ -374,21 +389,6 @@
         "points": 37,
         "form": "LWLWW",
         "form_label": "负胜负胜胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_e21078252fb24525b3a75bd87d8e0409",
-        "team": "齐乌戈斯特尔西亚",
-        "played": 25,
-        "wins": 10,
-        "draws": 7,
-        "losses": 8,
-        "goals_for": 34,
-        "goals_against": 31,
-        "goal_difference": 3,
-        "points": 37,
-        "form": "LLWDL",
-        "form_label": "负负胜平负"
       },
       {
         "position": 7,
@@ -409,16 +409,16 @@
         "position": 8,
         "team_id": "ast_1b95a994a3144aeda795d6574b085324",
         "team": "黑格尔曼",
-        "played": 25,
+        "played": 26,
         "wins": 4,
-        "draws": 11,
+        "draws": 12,
         "losses": 10,
-        "goals_for": 27,
-        "goals_against": 42,
+        "goals_for": 29,
+        "goals_against": 44,
         "goal_difference": -15,
-        "points": 23,
-        "form": "DLLLW",
-        "form_label": "平负负负胜"
+        "points": 24,
+        "form": "DDLLL",
+        "form_label": "平平负负负"
       },
       {
         "position": 9,
@@ -1012,7 +1012,7 @@
         "match_id": "as_c09c78901a4c46688bd6e9144c783736",
         "date": "2026-09-07",
         "time": "15:45",
-        "status": "15:45",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1024,13 +1024,15 @@
           "name": "帕尔讷维兹斯足球俱乐部",
           "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "劳多恩瓦里奥体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d98841bb15fd457db86993c61588e226",
         "date": "2026-09-06",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1042,13 +1044,15 @@
           "name": "苏杜瓦",
           "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "FK TransINVEST stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2002a8f9b4524694a3fd846f94ad1984",
         "date": "2026-09-06",
         "time": "15:45",
-        "status": "15:45",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1060,13 +1064,15 @@
           "name": "齐乌戈斯特尔西亚",
           "team_id": "ast_e21078252fb24525b3a75bd87d8e0409"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_1408d725bf3c431d898b26bc0c29292d",
         "date": "2026-09-06",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1078,7 +1084,9 @@
           "name": "FA绍利艾",
           "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "LFF stadionas",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_220c9d561dbe4b18a375ed6284d30b26",
@@ -1102,7 +1110,7 @@
         "match_id": "as_7268466914984bcab4256d65c56c5a32",
         "date": "2026-08-31",
         "time": "15:45",
-        "status": "15:45",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1114,7 +1122,10 @@
           "name": "黑格尔曼",
           "team_id": "ast_1b95a994a3144aeda795d6574b085324"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-2",
+        "venue": "Telsiai Central Stadium",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b05f1d49847d47fab5c4b50649566635",
@@ -1134,7 +1145,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Gargzdai stadium",
         "status_label": "完场"
       },
       {
@@ -1155,7 +1166,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "Aukstaitijos Stadium",
         "status_label": "完场"
       },
       {
@@ -1176,7 +1187,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Siauliai central stadium",
         "status_label": "完场"
       },
       {
@@ -3807,6 +3818,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_a108a9c930c848dfaa9cc60da9d55c14",
+        "date": "2026-10-17",
+        "time": "14:30",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "齐乌戈斯特尔西亚",
+          "team_id": "ast_e21078252fb24525b3a75bd87d8e0409"
+        },
+        "away": {
+          "name": "转投资",
+          "team_id": "ast_87337d4088194f0598930dcfbc04d160"
+        },
+        "ht_score": "-",
+        "venue": "Telsiai Central Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_09de27a9e02a4328aa6beefde6fb4aa5",
+        "date": "2026-10-17",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "帕尔讷维兹斯足球俱乐部",
+          "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
+        },
+        "away": {
+          "name": "班加",
+          "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb"
+        },
+        "ht_score": "-",
+        "venue": "Aukstaitijos Stadium",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_2d6f475eccd343c791cf36505bc8c0b3",
         "date": "2026-10-10",
         "time": "11:15",
@@ -4030,7 +4081,7 @@
         "match_id": "as_c09c78901a4c46688bd6e9144c783736",
         "date": "2026-09-07",
         "time": "15:45",
-        "status": "15:45",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -4042,13 +4093,15 @@
           "name": "帕尔讷维兹斯足球俱乐部",
           "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "劳多恩瓦里奥体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_1408d725bf3c431d898b26bc0c29292d",
         "date": "2026-09-06",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -4060,13 +4113,15 @@
           "name": "FA绍利艾",
           "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "LFF stadionas",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2002a8f9b4524694a3fd846f94ad1984",
         "date": "2026-09-06",
         "time": "15:45",
-        "status": "15:45",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -4078,13 +4133,15 @@
           "name": "齐乌戈斯特尔西亚",
           "team_id": "ast_e21078252fb24525b3a75bd87d8e0409"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d98841bb15fd457db86993c61588e226",
         "date": "2026-09-06",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -4096,7 +4153,9 @@
           "name": "苏杜瓦",
           "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "FK TransINVEST stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_220c9d561dbe4b18a375ed6284d30b26",
@@ -4113,24 +4172,6 @@
         "away": {
           "name": "帕尔讷维兹斯足球俱乐部",
           "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7268466914984bcab4256d65c56c5a32",
-        "date": "2026-08-31",
-        "time": "15:45",
-        "status": "15:45",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
-        "season": "2026",
-        "home": {
-          "name": "齐乌戈斯特尔西亚",
-          "team_id": "ast_e21078252fb24525b3a75bd87d8e0409"
-        },
-        "away": {
-          "name": "黑格尔曼",
-          "team_id": "ast_1b95a994a3144aeda795d6574b085324"
         },
         "venue": ""
       }
@@ -7561,13 +7602,13 @@
     }
   },
   "stats": {
-    "matches_completed": 128,
-    "total_goals": 336,
-    "avg_goals_per_match": 2.62,
+    "matches_completed": 129,
+    "total_goals": 340,
+    "avg_goals_per_match": 2.64,
     "home_wins": 51,
-    "draws": 36,
+    "draws": 37,
     "away_wins": 41,
-    "home_win_pct": 39.8,
+    "home_win_pct": 39.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8365,7 +8406,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 161,
-    "upcoming_matches": 17
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/02"
 }

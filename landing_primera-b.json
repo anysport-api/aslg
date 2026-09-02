@@ -76,6 +76,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b",
+        "team": "Cobreloa",
+        "played": 22,
+        "wins": 11,
+        "draws": 8,
+        "losses": 3,
+        "goals_for": 40,
+        "goals_against": 23,
+        "goal_difference": 17,
+        "points": 41,
+        "form": "WLWDD"
+      },
+      {
+        "position": 2,
         "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
         "team": "S. Wanderers",
         "played": 22,
@@ -87,20 +101,6 @@
         "goal_difference": 17,
         "points": 41,
         "form": "WWDDD"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b",
-        "team": "Cobreloa",
-        "played": 21,
-        "wins": 10,
-        "draws": 8,
-        "losses": 3,
-        "goals_for": 38,
-        "goals_against": 23,
-        "goal_difference": 15,
-        "points": 38,
-        "form": "LWDDD"
       },
       {
         "position": 3,
@@ -190,15 +190,15 @@
         "position": 9,
         "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939",
         "team": "San Marcos de Arica",
-        "played": 21,
+        "played": 22,
         "wins": 7,
         "draws": 9,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 18,
-        "goal_difference": 7,
+        "goals_against": 20,
+        "goal_difference": 5,
         "points": 30,
-        "form": "LLLDD"
+        "form": "LLLLD"
       },
       {
         "position": 10,
@@ -302,6 +302,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b",
+        "team": "科布雷洛阿",
+        "played": 22,
+        "wins": 11,
+        "draws": 8,
+        "losses": 3,
+        "goals_for": 40,
+        "goals_against": 23,
+        "goal_difference": 17,
+        "points": 41,
+        "form": "WLWDD",
+        "form_label": "胜负胜平平"
+      },
+      {
+        "position": 2,
         "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
         "team": "流浪者队",
         "played": 22,
@@ -314,21 +329,6 @@
         "points": 41,
         "form": "WWDDD",
         "form_label": "胜胜平平平"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b",
-        "team": "科布雷洛阿",
-        "played": 21,
-        "wins": 10,
-        "draws": 8,
-        "losses": 3,
-        "goals_for": 38,
-        "goals_against": 23,
-        "goal_difference": 15,
-        "points": 38,
-        "form": "LWDDD",
-        "form_label": "负胜平平平"
       },
       {
         "position": 3,
@@ -424,16 +424,16 @@
         "position": 9,
         "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939",
         "team": "圣马尔科斯德阿里卡",
-        "played": 21,
+        "played": 22,
         "wins": 7,
         "draws": 9,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 18,
-        "goal_difference": 7,
+        "goals_against": 20,
+        "goal_difference": 5,
         "points": 30,
-        "form": "LLLDD",
-        "form_label": "负负负平平"
+        "form": "LLLLD",
+        "form_label": "负负负负平"
       },
       {
         "position": 10,
@@ -1443,7 +1443,7 @@
         "match_id": "as_cff48fc60eab48d1b1a93ad123a52b91",
         "date": "2026-09-08",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1455,15 +1455,13 @@
           "name": "西班牙大学",
           "team_id": "ast_1ed14f5057d040cebce157a9b8764e7f"
         },
-        "ht_score": "-",
-        "venue": "拉格兰哈二百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_85c34da8cf684cf2ae29d4b0ffeeec59",
         "date": "2026-09-08",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1475,15 +1473,13 @@
           "name": "流浪者队",
           "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5b2d58587d0d41b8a8b970eee049364c",
         "date": "2026-09-08",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1495,15 +1491,13 @@
           "name": "流浪者",
           "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4"
         },
-        "ht_score": "-",
-        "venue": "Estadio Regional de Chinquihue",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3b4290a3b2fe4c25ba1e7d07db72998f",
         "date": "2026-09-08",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1515,9 +1509,7 @@
           "name": "圣路易斯",
           "team_id": "ast_def3eed8eb6b4522934c849bef7b482b"
         },
-        "ht_score": "-",
-        "venue": "圣费利佩市政体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bd47b42e27134459b4f8cbd59b238425",
@@ -1667,7 +1659,7 @@
         "match_id": "as_a340a84dafbd463c8ee375d1f1d9b05b",
         "date": "2026-09-01",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1679,7 +1671,10 @@
           "name": "圣马尔科斯德阿里卡",
           "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8725064c3501421b8b075655e9e5383e",
@@ -1699,7 +1694,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-4",
-        "venue": "",
+        "venue": "路易斯·巴伦苏埃拉·埃尔莫西利亚体育场",
         "status_label": "完场"
       },
       {
@@ -1720,7 +1715,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "拉格兰哈二百周年体育场",
         "status_label": "完场"
       },
       {
@@ -1741,7 +1736,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "冠军之地体育场",
         "status_label": "完场"
       },
       {
@@ -1783,7 +1778,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "圣费利佩市政体育场",
         "status_label": "完场"
       },
       {
@@ -1825,7 +1820,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "圣劳拉-SEK大学体育场",
         "status_label": "完场"
       },
       {
@@ -5914,7 +5909,7 @@
         "match_id": "as_3b4290a3b2fe4c25ba1e7d07db72998f",
         "date": "2026-09-08",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5926,15 +5921,13 @@
           "name": "圣路易斯",
           "team_id": "ast_def3eed8eb6b4522934c849bef7b482b"
         },
-        "ht_score": "-",
-        "venue": "圣费利佩市政体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5b2d58587d0d41b8a8b970eee049364c",
         "date": "2026-09-08",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5946,15 +5939,13 @@
           "name": "流浪者",
           "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4"
         },
-        "ht_score": "-",
-        "venue": "Estadio Regional de Chinquihue",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_85c34da8cf684cf2ae29d4b0ffeeec59",
         "date": "2026-09-08",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5966,15 +5957,13 @@
           "name": "流浪者队",
           "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_cff48fc60eab48d1b1a93ad123a52b91",
         "date": "2026-09-08",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5986,9 +5975,7 @@
           "name": "西班牙大学",
           "team_id": "ast_1ed14f5057d040cebce157a9b8764e7f"
         },
-        "ht_score": "-",
-        "venue": "拉格兰哈二百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_30331fb7760e4f12b0a341c267acad46",
@@ -6131,24 +6118,6 @@
         "away": {
           "name": "特木科体育",
           "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a340a84dafbd463c8ee375d1f1d9b05b",
-        "date": "2026-09-01",
-        "time": "00:00",
-        "status": "00:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "科布雷洛阿",
-          "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b"
-        },
-        "away": {
-          "name": "圣马尔科斯德阿里卡",
-          "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
         },
         "venue": ""
       }
@@ -8261,13 +8230,13 @@
     }
   },
   "stats": {
-    "matches_completed": 175,
-    "total_goals": 472,
-    "avg_goals_per_match": 2.7,
-    "home_wins": 73,
+    "matches_completed": 176,
+    "total_goals": 474,
+    "avg_goals_per_match": 2.69,
+    "home_wins": 74,
     "draws": 56,
     "away_wins": 46,
-    "home_win_pct": 41.7,
+    "home_win_pct": 42.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8293,7 +8262,7 @@
       }
     },
     "leader": {
-      "team": "S. Wanderers",
+      "team": "Cobreloa",
       "points": 41,
       "played": 22
     }
@@ -8390,6 +8359,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b",
+            "team": "Cobreloa",
+            "played": 22,
+            "wins": 11,
+            "draws": 8,
+            "losses": 3,
+            "goals_for": 40,
+            "goals_against": 23,
+            "goal_difference": 17,
+            "points": 41,
+            "form": "WLWDD"
+          },
+          {
+            "position": 2,
             "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
             "team": "S. Wanderers",
             "played": 22,
@@ -8401,20 +8384,6 @@
             "goal_difference": 17,
             "points": 41,
             "form": "WWDDD"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b",
-            "team": "Cobreloa",
-            "played": 21,
-            "wins": 10,
-            "draws": 8,
-            "losses": 3,
-            "goals_for": 38,
-            "goals_against": 23,
-            "goal_difference": 15,
-            "points": 38,
-            "form": "LWDDD"
           },
           {
             "position": 3,
@@ -9065,7 +9034,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 33
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/02"
 }
