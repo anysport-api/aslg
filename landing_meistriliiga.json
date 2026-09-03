@@ -174,6 +174,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
+        "team": "Flora",
+        "played": 25,
+        "wins": 15,
+        "draws": 0,
+        "losses": 10,
+        "goals_for": 49,
+        "goals_against": 32,
+        "goal_difference": 17,
+        "points": 45,
+        "form": "WLLWL"
+      },
+      {
+        "position": 3,
         "team_id": "ast_65c6a522362042f494acbd4a5fea1e48",
         "team": "Kalju",
         "played": 25,
@@ -185,20 +199,6 @@
         "goal_difference": 23,
         "points": 44,
         "form": "LLWWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
-        "team": "Flora",
-        "played": 24,
-        "wins": 14,
-        "draws": 0,
-        "losses": 10,
-        "goals_for": 46,
-        "goals_against": 30,
-        "goal_difference": 16,
-        "points": 42,
-        "form": "LLWLW"
       },
       {
         "position": 4,
@@ -218,15 +218,15 @@
         "position": 5,
         "team_id": "ast_9818a598b4474b469ee63e1892f634fc",
         "team": "Tammeka",
-        "played": 23,
+        "played": 24,
         "wins": 12,
         "draws": 2,
-        "losses": 9,
-        "goals_for": 29,
-        "goals_against": 32,
-        "goal_difference": -3,
+        "losses": 10,
+        "goals_for": 31,
+        "goals_against": 35,
+        "goal_difference": -4,
         "points": 38,
-        "form": "WWWWL"
+        "form": "LWWWW"
       },
       {
         "position": 6,
@@ -317,6 +317,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
+        "team": "弗洛拉",
+        "played": 25,
+        "wins": 15,
+        "draws": 0,
+        "losses": 10,
+        "goals_for": 49,
+        "goals_against": 32,
+        "goal_difference": 17,
+        "points": 45,
+        "form": "WLLWL",
+        "form_label": "胜负负胜负"
+      },
+      {
+        "position": 3,
         "team_id": "ast_65c6a522362042f494acbd4a5fea1e48",
         "team": "卡尔朱",
         "played": 25,
@@ -329,21 +344,6 @@
         "points": 44,
         "form": "LLWWW",
         "form_label": "负负胜胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
-        "team": "弗洛拉",
-        "played": 24,
-        "wins": 14,
-        "draws": 0,
-        "losses": 10,
-        "goals_for": 46,
-        "goals_against": 30,
-        "goal_difference": 16,
-        "points": 42,
-        "form": "LLWLW",
-        "form_label": "负负胜负胜"
       },
       {
         "position": 4,
@@ -364,16 +364,16 @@
         "position": 5,
         "team_id": "ast_9818a598b4474b469ee63e1892f634fc",
         "team": "塔梅卡",
-        "played": 23,
+        "played": 24,
         "wins": 12,
         "draws": 2,
-        "losses": 9,
-        "goals_for": 29,
-        "goals_against": 32,
-        "goal_difference": -3,
+        "losses": 10,
+        "goals_for": 31,
+        "goals_against": 35,
+        "goal_difference": -4,
         "points": 38,
-        "form": "WWWWL",
-        "form_label": "胜胜胜胜负"
+        "form": "LWWWW",
+        "form_label": "负胜胜胜胜"
       },
       {
         "position": 6,
@@ -1413,7 +1413,7 @@
         "match_id": "as_95171cc1540449229982b1b4ce8c45aa",
         "date": "2026-09-09",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1425,15 +1425,13 @@
           "name": "库雷萨雷",
           "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
         },
-        "ht_score": "-",
-        "venue": "A. Le Coq竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d1bfd5e267d44e6590cbfb476aa4e1ec",
         "date": "2026-09-09",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1445,15 +1443,13 @@
           "name": "哈尔尤JK拉格里",
           "team_id": "ast_e591bf62bb6247659ca8fa031f9f2ec7"
         },
-        "ht_score": "-",
-        "venue": "Parnu Rannastaadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8c2c5e13e7df42c1b864d3daa6f2e4f6",
         "date": "2026-09-09",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1465,9 +1461,7 @@
           "name": "派德",
           "team_id": "ast_d290a337acd3405880f89a023c2bac1f"
         },
-        "ht_score": "-",
-        "venue": "Tamme Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b5ca09c825d24424858273b82b3e328c",
@@ -1490,8 +1484,8 @@
       {
         "match_id": "as_e23ee256255e4e4c89be09360044b1bc",
         "date": "2026-09-08",
-        "time": "16:00",
-        "status": "16:00",
+        "time": "14:30",
+        "status": "14:30",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1599,7 +1593,7 @@
         "match_id": "as_0d0aa7a9da9c4dd98faa78741ace41c8",
         "date": "2026-09-02",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1611,7 +1605,10 @@
           "name": "塔梅卡",
           "team_id": "ast_9818a598b4474b469ee63e1892f634fc"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_75673ad2366644858cdee74bf941641f",
@@ -4178,6 +4175,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_a90e05eff46142dab2ad883da8f2688f",
+        "date": "2026-10-18",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "派德",
+          "team_id": "ast_d290a337acd3405880f89a023c2bac1f"
+        },
+        "away": {
+          "name": "纳尔瓦",
+          "team_id": "ast_7bcbc6c0523644a3b4f0a8d60f5d59ab"
+        },
+        "ht_score": "-",
+        "venue": "派德城市体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_14e9e24887f14a82bf042214312fc3dc",
+        "date": "2026-10-18",
+        "time": "11:30",
+        "status": "Not Started",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "哈尔尤JK拉格里",
+          "team_id": "ast_e591bf62bb6247659ca8fa031f9f2ec7"
+        },
+        "away": {
+          "name": "帕尔努JK瓦普鲁斯",
+          "team_id": "ast_8b05196bc5a34517888a4cc7b4fa678c"
+        },
+        "ht_score": "-",
+        "venue": "Laagri kunstmurustaadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_25a615a075c4424486fa3b83f21feff5",
+        "date": "2026-10-18",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "弗洛拉",
+          "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52"
+        },
+        "away": {
+          "name": "塔梅卡",
+          "team_id": "ast_9818a598b4474b469ee63e1892f634fc"
+        },
+        "ht_score": "-",
+        "venue": "A. Le Coq竞技场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ff1d7f9ccb0741f5a7579794eb8c71d3",
+        "date": "2026-10-18",
+        "time": "11:30",
+        "status": "Not Started",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "库雷萨雷",
+          "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
+        },
+        "away": {
+          "name": "列瓦迪亚",
+          "team_id": "ast_f2a73532fc3e425381f5efd4187af00b"
+        },
+        "ht_score": "-",
+        "venue": "Kuressaare Linnastaadion",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_6d08054e7cef4c50aabab5d53823a952",
         "date": "2026-10-17",
         "time": "11:30",
@@ -4641,7 +4718,7 @@
         "match_id": "as_8c2c5e13e7df42c1b864d3daa6f2e4f6",
         "date": "2026-09-09",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4653,15 +4730,13 @@
           "name": "派德",
           "team_id": "ast_d290a337acd3405880f89a023c2bac1f"
         },
-        "ht_score": "-",
-        "venue": "Tamme Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d1bfd5e267d44e6590cbfb476aa4e1ec",
         "date": "2026-09-09",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4673,15 +4748,13 @@
           "name": "哈尔尤JK拉格里",
           "team_id": "ast_e591bf62bb6247659ca8fa031f9f2ec7"
         },
-        "ht_score": "-",
-        "venue": "Parnu Rannastaadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_95171cc1540449229982b1b4ce8c45aa",
         "date": "2026-09-09",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4693,15 +4766,13 @@
           "name": "库雷萨雷",
           "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
         },
-        "ht_score": "-",
-        "venue": "A. Le Coq竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e23ee256255e4e4c89be09360044b1bc",
         "date": "2026-09-08",
-        "time": "16:00",
-        "status": "16:00",
+        "time": "14:30",
+        "status": "14:30",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4820,24 +4891,6 @@
         "away": {
           "name": "卡尔朱",
           "team_id": "ast_65c6a522362042f494acbd4a5fea1e48"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0d0aa7a9da9c4dd98faa78741ace41c8",
-        "date": "2026-09-02",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚超级联赛",
-        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
-        "season": "2026",
-        "home": {
-          "name": "弗洛拉",
-          "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52"
-        },
-        "away": {
-          "name": "塔梅卡",
-          "team_id": "ast_9818a598b4474b469ee63e1892f634fc"
         },
         "venue": ""
       }
@@ -8452,13 +8505,13 @@
     }
   },
   "stats": {
-    "matches_completed": 122,
-    "total_goals": 380,
-    "avg_goals_per_match": 3.11,
-    "home_wins": 56,
+    "matches_completed": 123,
+    "total_goals": 385,
+    "avg_goals_per_match": 3.13,
+    "home_wins": 57,
     "draws": 15,
     "away_wins": 51,
-    "home_win_pct": 45.9,
+    "home_win_pct": 46.3,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8595,6 +8648,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
+            "team": "Flora",
+            "played": 25,
+            "wins": 15,
+            "draws": 0,
+            "losses": 10,
+            "goals_for": 49,
+            "goals_against": 32,
+            "goal_difference": 17,
+            "points": 45,
+            "form": "WLLWL"
+          },
+          {
+            "position": 3,
             "team_id": "ast_65c6a522362042f494acbd4a5fea1e48",
             "team": "Kalju",
             "played": 25,
@@ -8606,20 +8673,6 @@
             "goal_difference": 23,
             "points": 44,
             "form": "LLWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
-            "team": "Flora",
-            "played": 24,
-            "wins": 14,
-            "draws": 0,
-            "losses": 10,
-            "goals_for": 46,
-            "goals_against": 30,
-            "goal_difference": 16,
-            "points": 42,
-            "form": "LLWLW"
           }
         ],
         "meta": {
@@ -9256,7 +9309,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 34
+    "upcoming_matches": 37
   },
-  "updated_at": "2026/09/02"
+  "updated_at": "2026/09/03"
 }

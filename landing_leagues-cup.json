@@ -2422,7 +2422,7 @@
         "match_id": "as_d97f315f919848ee819816edc887f43b",
         "date": "2026-09-03",
         "time": "03:30",
-        "status": "03:30",
+        "status": "Pen.",
         "league": "联赛杯",
         "league_id": "asl_a6ec8a10e5004f92a041973362504694",
         "season": "2026",
@@ -2434,13 +2434,18 @@
           "name": "蒙特雷",
           "team_id": "ast_66a8a53250194ec894fd2dceb30591f7"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-2",
+        "et_score": "0-0",
+        "penalty_score": "4-5",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_a7b7153bb8b543b48daf84e95f1191e9",
         "date": "2026-09-03",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "联赛杯",
         "league_id": "asl_a6ec8a10e5004f92a041973362504694",
         "season": "2026",
@@ -2452,7 +2457,10 @@
           "name": "莱昂俱乐部",
           "team_id": "ast_cb68b47acba043489ad8e27f4b4f21f0"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -5736,5 +5744,5 @@
     "matches_current_season": 62,
     "upcoming_matches": 2
   },
-  "updated_at": "2026/08/29"
+  "updated_at": "2026/09/03"
 }

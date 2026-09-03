@@ -204,15 +204,15 @@
         "position": 4,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "Elva",
-        "played": 26,
-        "wins": 12,
+        "played": 25,
+        "wins": 11,
         "draws": 5,
         "losses": 9,
-        "goals_for": 43,
+        "goals_for": 42,
         "goals_against": 37,
-        "goal_difference": 6,
-        "points": 41,
-        "form": "WDWLW"
+        "goal_difference": 5,
+        "points": 38,
+        "form": "DWLWD"
       },
       {
         "position": 5,
@@ -260,15 +260,15 @@
         "position": 8,
         "team_id": "ast_c18af10718ec4850879e99b486d17356",
         "team": "Nomme Utd U21",
-        "played": 26,
+        "played": 25,
         "wins": 7,
         "draws": 6,
-        "losses": 13,
+        "losses": 12,
         "goals_for": 43,
-        "goals_against": 57,
-        "goal_difference": -14,
+        "goals_against": 56,
+        "goal_difference": -13,
         "points": 27,
-        "form": "LLDWL"
+        "form": "LDWLW"
       },
       {
         "position": 9,
@@ -349,16 +349,16 @@
         "position": 4,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "埃尔瓦",
-        "played": 26,
-        "wins": 12,
+        "played": 25,
+        "wins": 11,
         "draws": 5,
         "losses": 9,
-        "goals_for": 43,
+        "goals_for": 42,
         "goals_against": 37,
-        "goal_difference": 6,
-        "points": 41,
-        "form": "WDWLW",
-        "form_label": "胜平胜负胜"
+        "goal_difference": 5,
+        "points": 38,
+        "form": "DWLWD",
+        "form_label": "平胜负胜平"
       },
       {
         "position": 5,
@@ -409,16 +409,16 @@
         "position": 8,
         "team_id": "ast_c18af10718ec4850879e99b486d17356",
         "team": "诺梅联U21",
-        "played": 26,
+        "played": 25,
         "wins": 7,
         "draws": 6,
-        "losses": 13,
+        "losses": 12,
         "goals_for": 43,
-        "goals_against": 57,
-        "goal_difference": -14,
+        "goals_against": 56,
+        "goal_difference": -13,
         "points": 27,
-        "form": "LLDWL",
-        "form_label": "负负平胜负"
+        "form": "LDWLW",
+        "form_label": "负平胜负胜"
       },
       {
         "position": 9,
@@ -570,6 +570,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_d25e2dc7ef57484fb302464c5c649db0",
+        "date": "2026-11-01",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "埃尔瓦",
+          "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc"
+        },
+        "away": {
+          "name": "塔林卡列夫",
+          "team_id": "ast_26db6d36f76244239fb3177106ad8770"
+        },
+        "ht_score": "-",
+        "venue": "耐克竞技场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_6b390bf68cce48aeae8fd5c8abe0c05c",
         "date": "2026-11-01",
         "time": "15:00",
@@ -610,26 +630,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_f7ca06956d6a42fea957c09092ee51e0",
-        "date": "2026-10-31",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "塔林卡列夫",
-          "team_id": "ast_26db6d36f76244239fb3177106ad8770"
-        },
-        "away": {
-          "name": "诺梅卡尔尤U21",
-          "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
-        },
-        "ht_score": "-",
-        "venue": "Kadrioru Staadion",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_813def60eb86487d91ceb3552a0d41b8",
         "date": "2026-10-31",
         "time": "17:00",
@@ -667,6 +667,26 @@
         },
         "ht_score": "-",
         "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f7ca06956d6a42fea957c09092ee51e0",
+        "date": "2026-10-29",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "塔林卡列夫",
+          "team_id": "ast_26db6d36f76244239fb3177106ad8770"
+        },
+        "away": {
+          "name": "诺梅卡尔尤U21",
+          "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
+        },
+        "ht_score": "-",
+        "venue": "Kadrioru Staadion",
         "status_label": "未开赛"
       },
       {
@@ -887,26 +907,6 @@
         },
         "ht_score": "-",
         "venue": "Holm Jalgpallipark",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d25e2dc7ef57484fb302464c5c649db0",
-        "date": "2026-10-15",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "埃尔瓦",
-          "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc"
-        },
-        "away": {
-          "name": "塔林卡列夫",
-          "team_id": "ast_26db6d36f76244239fb3177106ad8770"
-        },
-        "ht_score": "-",
-        "venue": "耐克竞技场",
         "status_label": "未开赛"
       },
       {
@@ -1519,7 +1519,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "5-0",
-        "venue": "",
+        "venue": "斯波特兰竞技场",
         "status_label": "完场"
       },
       {
@@ -1540,7 +1540,7 @@
         },
         "ht_score": "2-2",
         "reg_score": "4-2",
-        "venue": "",
+        "venue": "马阿尔杜市政体育场",
         "status_label": "完场"
       },
       {
@@ -1561,7 +1561,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "1-3",
-        "venue": "",
+        "venue": "Holm Jalgpallipark",
         "status_label": "完场"
       },
       {
@@ -4192,6 +4192,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_9cf0f618fb38492c8752ec8e04e7d4a6",
+        "date": "2026-10-18",
+        "time": "09:30",
+        "status": "Not Started",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "塔尔图韦尔科",
+          "team_id": "ast_b040e072fb624d908848954d38c93e12"
+        },
+        "away": {
+          "name": "诺梅联U21",
+          "team_id": "ast_c18af10718ec4850879e99b486d17356"
+        },
+        "ht_score": "-",
+        "venue": "Holm Jalgpallipark",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ffea49cef5fc41d3a8c7b7b797797078",
+        "date": "2026-10-18",
+        "time": "09:30",
+        "status": "Not Started",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "诺梅卡尔尤U21",
+          "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
+        },
+        "away": {
+          "name": "埃尔瓦",
+          "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc"
+        },
+        "ht_score": "-",
+        "venue": "Hiiu Stadium",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_e8b3ac961e024702881bb6d33481a160",
         "date": "2026-10-15",
         "time": "16:00",
@@ -4229,26 +4269,6 @@
         },
         "ht_score": "-",
         "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d25e2dc7ef57484fb302464c5c649db0",
-        "date": "2026-10-15",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "埃尔瓦",
-          "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc"
-        },
-        "away": {
-          "name": "塔林卡列夫",
-          "team_id": "ast_26db6d36f76244239fb3177106ad8770"
-        },
-        "ht_score": "-",
-        "venue": "耐克竞技场",
         "status_label": "未开赛"
       },
       {
@@ -8633,7 +8653,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 29
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/03"
 }

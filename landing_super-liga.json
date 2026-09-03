@@ -172,6 +172,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_51e4180562a94deca15d1a4151a56896",
+        "team": "Midtjylland",
+        "played": 6,
+        "wins": 4,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 10,
+        "goals_against": 5,
+        "goal_difference": 5,
+        "points": 14,
+        "form": "WDWDW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
         "team": "Nordsjaelland",
         "played": 5,
@@ -185,7 +199,7 @@
         "form": "WWWWD"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_386eb736e6b646ce946186c138330579",
         "team": "Viborg",
         "played": 6,
@@ -199,7 +213,7 @@
         "form": "WWWDL"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_07e046846a774b7498c44be27cc46b54",
         "team": "Brondby",
         "played": 6,
@@ -213,7 +227,7 @@
         "form": "LWWWW"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_72e86adf61e0402d9d9824523f638c19",
         "team": "FC Copenhagen",
         "played": 5,
@@ -225,20 +239,6 @@
         "goal_difference": 5,
         "points": 12,
         "form": "WLWWW"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_51e4180562a94deca15d1a4151a56896",
-        "team": "Midtjylland",
-        "played": 5,
-        "wins": 3,
-        "draws": 2,
-        "losses": 0,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
-        "points": 11,
-        "form": "DWDWW"
       },
       {
         "position": 6,
@@ -300,15 +300,15 @@
         "position": 10,
         "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
         "team": "Aarhus",
-        "played": 5,
+        "played": 6,
         "wins": 0,
         "draws": 3,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 7,
-        "goals_against": 9,
-        "goal_difference": -2,
+        "goals_against": 11,
+        "goal_difference": -4,
         "points": 3,
-        "form": "LDLDD"
+        "form": "LLDLD"
       },
       {
         "position": 11,
@@ -342,6 +342,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_51e4180562a94deca15d1a4151a56896",
+        "team": "米德尤兰",
+        "played": 6,
+        "wins": 4,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 10,
+        "goals_against": 5,
+        "goal_difference": 5,
+        "points": 14,
+        "form": "WDWDW",
+        "form_label": "胜平胜平胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
         "team": "诺德斯亚兰",
         "played": 5,
@@ -356,7 +371,7 @@
         "form_label": "胜胜胜胜平"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_386eb736e6b646ce946186c138330579",
         "team": "维堡",
         "played": 6,
@@ -371,7 +386,7 @@
         "form_label": "胜胜胜平负"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_07e046846a774b7498c44be27cc46b54",
         "team": "布隆德比",
         "played": 6,
@@ -386,7 +401,7 @@
         "form_label": "负胜胜胜胜"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_72e86adf61e0402d9d9824523f638c19",
         "team": "哥本哈根",
         "played": 5,
@@ -399,21 +414,6 @@
         "points": 12,
         "form": "WLWWW",
         "form_label": "胜负胜胜胜"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_51e4180562a94deca15d1a4151a56896",
-        "team": "米德尤兰",
-        "played": 5,
-        "wins": 3,
-        "draws": 2,
-        "losses": 0,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
-        "points": 11,
-        "form": "DWDWW",
-        "form_label": "平胜平胜胜"
       },
       {
         "position": 6,
@@ -479,16 +479,16 @@
         "position": 10,
         "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
         "team": "奥胡斯",
-        "played": 5,
+        "played": 6,
         "wins": 0,
         "draws": 3,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 7,
-        "goals_against": 9,
-        "goal_difference": -2,
+        "goals_against": 11,
+        "goal_difference": -4,
         "points": 3,
-        "form": "LDLDD",
-        "form_label": "负平负平平"
+        "form": "LLDLD",
+        "form_label": "负负平负平"
       },
       {
         "position": 11,
@@ -743,6 +743,14 @@
         },
         {
           "rank": 28,
+          "player_id": "asp_384647871ad74fc7931c57e4e27da40f",
+          "player_name": "Friday Etim",
+          "team_id": "ast_51e4180562a94deca15d1a4151a56896",
+          "team_name": "Midtjylland",
+          "value": 1
+        },
+        {
+          "rank": 29,
           "player_id": "asp_ad3883709bac4801b281582e06cf70b9",
           "player_name": "T. Jørgensen",
           "team_id": "ast_386eb736e6b646ce946186c138330579",
@@ -750,7 +758,7 @@
           "value": 1
         },
         {
-          "rank": 29,
+          "rank": 30,
           "player_id": "asp_b61756aa1f644a24958e9f14a519978d",
           "player_name": "Valdemar Byskov",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896",
@@ -758,7 +766,7 @@
           "value": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "player_id": "asp_44a2e14d5a3f489abbb1f6df9e412e82",
           "player_name": "M. Jensen",
           "team_id": "ast_efeedf78290d4878b205d63612876822",
@@ -766,7 +774,7 @@
           "value": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
           "player_id": "asp_fd494a3fc997440a8319f0b6a1f4f92d",
           "player_name": "R. Tytens",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de",
@@ -774,7 +782,7 @@
           "value": 1
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_19efcd41238d43ab97eccd4a79b6190b",
           "player_name": "Dario Osorio",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896",
@@ -782,7 +790,7 @@
           "value": 1
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_413c5980b6624cbaa7925e3aae162d6b",
           "player_name": "P. Mortensen",
           "team_id": "ast_07e046846a774b7498c44be27cc46b54",
@@ -790,7 +798,7 @@
           "value": 1
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_f6259be11f144bd7ac30ed9ffd647360",
           "player_name": "B. Tambedou",
           "team_id": "ast_efeedf78290d4878b205d63612876822",
@@ -798,7 +806,7 @@
           "value": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_4c75c78c8b9c4f29a224d7cb2dd5a128",
           "player_name": "G. Fraulo",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de",
@@ -806,7 +814,7 @@
           "value": 1
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_31ed3a75a24c4a078156a71f1cb4bb87",
           "player_name": "A. Munksgaard",
           "team_id": "ast_efeedf78290d4878b205d63612876822",
@@ -814,7 +822,7 @@
           "value": 1
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_f2d43cafb1ed4fa7ba66aecaa1cfb6b2",
           "player_name": "Sorensen Bech",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896",
@@ -822,7 +830,7 @@
           "value": 1
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_5bb1d49060314b8a80778aa5e814ecdc",
           "player_name": "E. Mahmoud",
           "team_id": "ast_1fa24b5f10404c2a9e302a7f58f8cf57",
@@ -830,7 +838,15 @@
           "value": 1
         },
         {
-          "rank": 39,
+          "rank": 40,
+          "player_id": "asp_0bbb69e5516c48a88845bbed9b5c2548",
+          "player_name": "Denil Castillo",
+          "team_id": "ast_51e4180562a94deca15d1a4151a56896",
+          "team_name": "Midtjylland",
+          "value": 1
+        },
+        {
+          "rank": 41,
           "player_id": "asp_bb7423abab6749e89feee4f748b4e003",
           "player_name": "O. Ross",
           "team_id": "ast_1eaa756eca4c46e4a60dd4f5240acd0d",
@@ -838,7 +854,7 @@
           "value": 1
         },
         {
-          "rank": 40,
+          "rank": 42,
           "player_id": "asp_f3c414fc46be490586a3727d3b079d2f",
           "player_name": "S. Colyn",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de",
@@ -846,7 +862,7 @@
           "value": 1
         },
         {
-          "rank": 41,
+          "rank": 43,
           "player_id": "asp_5d11588b427d498cba849b67fedfe74f",
           "player_name": "J. Serra",
           "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
@@ -854,7 +870,7 @@
           "value": 1
         },
         {
-          "rank": 42,
+          "rank": 44,
           "player_id": "asp_700c80152177484d9aab08a728c32557",
           "player_name": "Bogere James",
           "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
@@ -862,7 +878,7 @@
           "value": 1
         },
         {
-          "rank": 43,
+          "rank": 45,
           "player_id": "asp_ec590ef5ce504e26b2853b51bd9fe255",
           "player_name": "J. Vanlerberghe",
           "team_id": "ast_07e046846a774b7498c44be27cc46b54",
@@ -870,7 +886,7 @@
           "value": 1
         },
         {
-          "rank": 44,
+          "rank": 46,
           "player_id": "asp_c5762808ea8242adb946da0947c88fa2",
           "player_name": "Rasmussen Hjalte",
           "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
@@ -878,7 +894,7 @@
           "value": 1
         },
         {
-          "rank": 45,
+          "rank": 47,
           "player_id": "asp_1158e781cf9e4d3984a0b74058cf3fac",
           "player_name": "L. Binks",
           "team_id": "ast_07e046846a774b7498c44be27cc46b54",
@@ -886,7 +902,7 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 48,
           "player_id": "asp_93467b2c34d940aea5cc84bf0f502f6a",
           "player_name": "J. Janssen",
           "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
@@ -894,7 +910,7 @@
           "value": 1
         },
         {
-          "rank": 47,
+          "rank": 49,
           "player_id": "asp_5eee57073bba4fedb0a27f37dd72d6b6",
           "player_name": "R. Carstensen",
           "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
@@ -902,19 +918,11 @@
           "value": 1
         },
         {
-          "rank": 48,
+          "rank": 50,
           "player_id": "asp_9e5f666ab0a34f47940038e9d2eedd3a",
           "player_name": "K. Kirkegaard",
           "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
           "team_name": "Horsens",
-          "value": 1
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_081e916b1d7d4ff5bb44abd83c2b1be8",
-          "player_name": "Hyseni Olti",
-          "team_id": "ast_07e046846a774b7498c44be27cc46b54",
-          "team_name": "Brondby",
           "value": 1
         }
       ],
@@ -1137,6 +1145,14 @@
         },
         {
           "rank": 28,
+          "player_id": "asp_384647871ad74fc7931c57e4e27da40f",
+          "player_name": "弗莱迪·埃蒂姆",
+          "team_id": "ast_51e4180562a94deca15d1a4151a56896",
+          "team_name": "米德尤兰",
+          "value": 1
+        },
+        {
+          "rank": 29,
           "player_id": "asp_ad3883709bac4801b281582e06cf70b9",
           "player_name": "托马斯·约根森",
           "team_id": "ast_386eb736e6b646ce946186c138330579",
@@ -1144,7 +1160,7 @@
           "value": 1
         },
         {
-          "rank": 29,
+          "rank": 30,
           "player_id": "asp_b61756aa1f644a24958e9f14a519978d",
           "player_name": "瓦尔德马尔·比斯科夫",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896",
@@ -1152,7 +1168,7 @@
           "value": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "player_id": "asp_44a2e14d5a3f489abbb1f6df9e412e82",
           "player_name": "马格努斯·延森",
           "team_id": "ast_efeedf78290d4878b205d63612876822",
@@ -1160,7 +1176,7 @@
           "value": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
           "player_id": "asp_fd494a3fc997440a8319f0b6a1f4f92d",
           "player_name": "任佐·泰滕斯",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de",
@@ -1168,7 +1184,7 @@
           "value": 1
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_19efcd41238d43ab97eccd4a79b6190b",
           "player_name": "达里奥·奥索里奥",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896",
@@ -1176,7 +1192,7 @@
           "value": 1
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_413c5980b6624cbaa7925e3aae162d6b",
           "player_name": "帕特里克·莫滕森",
           "team_id": "ast_07e046846a774b7498c44be27cc46b54",
@@ -1184,7 +1200,7 @@
           "value": 1
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_f6259be11f144bd7ac30ed9ffd647360",
           "player_name": "布巴卡尔·坦贝杜",
           "team_id": "ast_efeedf78290d4878b205d63612876822",
@@ -1192,7 +1208,7 @@
           "value": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_4c75c78c8b9c4f29a224d7cb2dd5a128",
           "player_name": "古斯塔夫·弗劳洛",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de",
@@ -1200,7 +1216,7 @@
           "value": 1
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_31ed3a75a24c4a078156a71f1cb4bb87",
           "player_name": "亚历山大·蒙克斯高德",
           "team_id": "ast_efeedf78290d4878b205d63612876822",
@@ -1208,7 +1224,7 @@
           "value": 1
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_f2d43cafb1ed4fa7ba66aecaa1cfb6b2",
           "player_name": "贝赫·索伦森·马兹",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896",
@@ -1216,7 +1232,7 @@
           "value": 1
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_5bb1d49060314b8a80778aa5e814ecdc",
           "player_name": "埃利斯·马哈茂德",
           "team_id": "ast_1fa24b5f10404c2a9e302a7f58f8cf57",
@@ -1224,7 +1240,15 @@
           "value": 1
         },
         {
-          "rank": 39,
+          "rank": 40,
+          "player_id": "asp_0bbb69e5516c48a88845bbed9b5c2548",
+          "player_name": "德尼尔·卡斯蒂略",
+          "team_id": "ast_51e4180562a94deca15d1a4151a56896",
+          "team_name": "米德尤兰",
+          "value": 1
+        },
+        {
+          "rank": 41,
           "player_id": "asp_bb7423abab6749e89feee4f748b4e003",
           "player_name": "奥利弗·罗斯",
           "team_id": "ast_1eaa756eca4c46e4a60dd4f5240acd0d",
@@ -1232,7 +1256,7 @@
           "value": 1
         },
         {
-          "rank": 40,
+          "rank": 42,
           "player_id": "asp_f3c414fc46be490586a3727d3b079d2f",
           "player_name": "西蒙·科林",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de",
@@ -1240,7 +1264,7 @@
           "value": 1
         },
         {
-          "rank": 41,
+          "rank": 43,
           "player_id": "asp_5d11588b427d498cba849b67fedfe74f",
           "player_name": "扬尼·塞拉",
           "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
@@ -1248,7 +1272,7 @@
           "value": 1
         },
         {
-          "rank": 42,
+          "rank": 44,
           "player_id": "asp_700c80152177484d9aab08a728c32557",
           "player_name": "詹姆斯·博杰雷",
           "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
@@ -1256,7 +1280,7 @@
           "value": 1
         },
         {
-          "rank": 43,
+          "rank": 45,
           "player_id": "asp_ec590ef5ce504e26b2853b51bd9fe255",
           "player_name": "乔尔迪·范勒贝赫",
           "team_id": "ast_07e046846a774b7498c44be27cc46b54",
@@ -1264,7 +1288,7 @@
           "value": 1
         },
         {
-          "rank": 44,
+          "rank": 46,
           "player_id": "asp_c5762808ea8242adb946da0947c88fa2",
           "player_name": "Rasmussen Hjalte",
           "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
@@ -1272,7 +1296,7 @@
           "value": 1
         },
         {
-          "rank": 45,
+          "rank": 47,
           "player_id": "asp_1158e781cf9e4d3984a0b74058cf3fac",
           "player_name": "路易斯·宾克斯",
           "team_id": "ast_07e046846a774b7498c44be27cc46b54",
@@ -1280,7 +1304,7 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 48,
           "player_id": "asp_93467b2c34d940aea5cc84bf0f502f6a",
           "player_name": "贾斯廷·扬森",
           "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
@@ -1288,7 +1312,7 @@
           "value": 1
         },
         {
-          "rank": 47,
+          "rank": 49,
           "player_id": "asp_5eee57073bba4fedb0a27f37dd72d6b6",
           "player_name": "拉斯穆斯·卡尔斯滕森",
           "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea",
@@ -1296,19 +1320,11 @@
           "value": 1
         },
         {
-          "rank": 48,
+          "rank": 50,
           "player_id": "asp_9e5f666ab0a34f47940038e9d2eedd3a",
           "player_name": "克里斯蒂安·基尔克高德",
           "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
           "team_name": "霍尔森斯",
-          "value": 1
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_081e916b1d7d4ff5bb44abd83c2b1be8",
-          "player_name": "奥尔提·赫西尼",
-          "team_id": "ast_07e046846a774b7498c44be27cc46b54",
-          "team_name": "布隆德比",
           "value": 1
         }
       ]
@@ -4747,7 +4763,7 @@
         "match_id": "as_ddc058a78bf141a5a91bab18090bd1d4",
         "date": "2026-09-02",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4759,7 +4775,10 @@
           "name": "米德尤兰",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6024c63ed7304268bdb372b97e4de3c1",
@@ -4779,7 +4798,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Parken Stadium",
         "status_label": "完场"
       },
       {
@@ -5478,6 +5497,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_c694fd374e3641ecae29201fcdc21ecd",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "丹麦超级联赛",
+        "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
+        "season": "2026/2027",
+        "home": {
+          "name": "桑德捷斯基",
+          "team_id": "ast_efeedf78290d4878b205d63612876822"
+        },
+        "away": {
+          "name": "西尔克堡",
+          "team_id": "ast_1eaa756eca4c46e4a60dd4f5240acd0d"
+        },
+        "ht_score": "-",
+        "venue": "Haderslev Football Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cb6c5b7366b44296b3edbf6ce2c4e3ab",
+        "date": "2026-10-18",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "丹麦超级联赛",
+        "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
+        "season": "2026/2027",
+        "home": {
+          "name": "奥登塞",
+          "team_id": "ast_63d0c4d43a6e40bc8c642fe44301eb2a"
+        },
+        "away": {
+          "name": "布隆德比",
+          "team_id": "ast_07e046846a774b7498c44be27cc46b54"
+        },
+        "ht_score": "-",
+        "venue": "自然能源公园",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5499fe735bd844ea8dd068b136faad28",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "丹麦超级联赛",
+        "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
+        "season": "2026/2027",
+        "home": {
+          "name": "林比",
+          "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de"
+        },
+        "away": {
+          "name": "诺德斯亚兰",
+          "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed"
+        },
+        "ht_score": "-",
+        "venue": "灵比体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9b7fb9c8004d44939ba9ebb3223b4e65",
+        "date": "2026-10-18",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "丹麦超级联赛",
+        "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
+        "season": "2026/2027",
+        "home": {
+          "name": "哥本哈根",
+          "team_id": "ast_72e86adf61e0402d9d9824523f638c19"
+        },
+        "away": {
+          "name": "奥胡斯",
+          "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea"
+        },
+        "ht_score": "-",
+        "venue": "Parken Stadium",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_f67b398f3df5471990a5b7dec7ca2f05",
         "date": "2026-10-16",
         "time": "17:00",
@@ -5980,24 +6079,6 @@
         "away": {
           "name": "诺德斯亚兰",
           "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ddc058a78bf141a5a91bab18090bd1d4",
-        "date": "2026-09-02",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "丹麦超级联赛",
-        "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥胡斯",
-          "team_id": "ast_ebdd03dce2c2413e8ea437e5ee3285ea"
-        },
-        "away": {
-          "name": "米德尤兰",
-          "team_id": "ast_51e4180562a94deca15d1a4151a56896"
         },
         "venue": ""
       }
@@ -7855,13 +7936,13 @@
     }
   },
   "stats": {
-    "matches_completed": 34,
-    "total_goals": 93,
-    "avg_goals_per_match": 2.74,
+    "matches_completed": 35,
+    "total_goals": 95,
+    "avg_goals_per_match": 2.71,
     "home_wins": 18,
     "draws": 9,
-    "away_wins": 7,
-    "home_win_pct": 52.9,
+    "away_wins": 8,
+    "home_win_pct": 51.4,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7887,9 +7968,9 @@
       }
     },
     "leader": {
-      "team": "Nordsjaelland",
-      "points": 13,
-      "played": 5
+      "team": "Midtjylland",
+      "points": 14,
+      "played": 6
     }
   },
   "coverage": {
@@ -7984,6 +8065,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_51e4180562a94deca15d1a4151a56896",
+            "team": "Midtjylland",
+            "played": 6,
+            "wins": 4,
+            "draws": 2,
+            "losses": 0,
+            "goals_for": 10,
+            "goals_against": 5,
+            "goal_difference": 5,
+            "points": 14,
+            "form": "WDWDW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
             "team": "Nordsjaelland",
             "played": 5,
@@ -7997,7 +8092,7 @@
             "form": "WWWWD"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_386eb736e6b646ce946186c138330579",
             "team": "Viborg",
             "played": 6,
@@ -8009,20 +8104,6 @@
             "goal_difference": 6,
             "points": 13,
             "form": "WWWDL"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_07e046846a774b7498c44be27cc46b54",
-            "team": "Brondby",
-            "played": 6,
-            "wins": 4,
-            "draws": 1,
-            "losses": 1,
-            "goals_for": 11,
-            "goals_against": 7,
-            "goal_difference": 4,
-            "points": 13,
-            "form": "LWWWW"
           }
         ],
         "meta": {
@@ -8245,7 +8326,7 @@
           }
         ],
         "meta": {
-          "total": 49
+          "total": 50
         }
       }
     },
@@ -8666,7 +8747,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 27
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/09/02"
+  "updated_at": "2026/09/03"
 }

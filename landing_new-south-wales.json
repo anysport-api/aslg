@@ -596,10 +596,90 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_2d756eb90c0e48c4af0775d6cf3e94a1",
+        "date": "2026-09-12",
+        "time": "08:30",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "圣乔治圣徒",
+          "team_id": "ast_be259899b0fe4aca954298ef5465d69d"
+        },
+        "away": {
+          "name": "北方老虎",
+          "team_id": "ast_a3e30c5def12458eb1dcd295cefdbc07"
+        },
+        "ht_score": "-",
+        "venue": "St George Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d33365a3c085440f9f6876c00d7a3b0b",
+        "date": "2026-09-06",
+        "time": "04:00",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "悉尼联",
+          "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7"
+        },
+        "away": {
+          "name": "曼利联",
+          "team_id": "ast_e1415c1a8e754a9994bd647af7a163b1"
+        },
+        "ht_score": "-",
+        "venue": "Sydney United Sports Centre",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6cf5d3333bfe4385bb584af08620c650",
+        "date": "2026-09-06",
+        "time": "06:00",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "APIA莱奇哈特",
+          "team_id": "ast_7f66db09ce0f4ef3b3a85a53a2332831"
+        },
+        "away": {
+          "name": "NWS精神",
+          "team_id": "ast_5dd88019707e4379aea210c9b3dad454"
+        },
+        "ht_score": "-",
+        "venue": "兰伯特公园球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9cf9f4903186475cb557b0b40f21fe9e",
+        "date": "2026-09-05",
+        "time": "08:30",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "北方老虎",
+          "team_id": "ast_a3e30c5def12458eb1dcd295cefdbc07"
+        },
+        "away": {
+          "name": "圣乔治圣徒",
+          "team_id": "ast_be259899b0fe4aca954298ef5465d69d"
+        },
+        "ht_score": "-",
+        "venue": "北特拉穆拉休闲区",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_8a8f2ca38ada43b8a2be94f2da5e0ad3",
         "date": "2026-09-02",
         "time": "09:30",
-        "status": "09:30",
+        "status": "FT",
         "league": "澳大利亚新南威尔士联赛",
         "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
         "season": "2026",
@@ -611,13 +691,16 @@
           "name": "NWS精神",
           "team_id": "ast_5dd88019707e4379aea210c9b3dad454"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_98c10807b4aa4cc686fefedf992b47cf",
         "date": "2026-09-02",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Pen.",
         "league": "澳大利亚新南威尔士联赛",
         "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
         "season": "2026",
@@ -629,7 +712,12 @@
           "name": "曼利联",
           "team_id": "ast_e1415c1a8e754a9994bd647af7a163b1"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "et_score": "0-0",
+        "penalty_score": "4-5",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_af7d605238ec4e399f222f8780709a57",
@@ -5674,40 +5762,84 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_98c10807b4aa4cc686fefedf992b47cf",
-        "date": "2026-09-02",
-        "time": "09:30",
-        "status": "09:30",
+        "match_id": "as_2d756eb90c0e48c4af0775d6cf3e94a1",
+        "date": "2026-09-12",
+        "time": "08:30",
+        "status": "Not Started",
         "league": "澳大利亚新南威尔士联赛",
         "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
         "season": "2026",
         "home": {
-          "name": "萨瑟兰鲨鱼",
-          "team_id": "ast_0132d905417843ae8700f16007ed7302"
+          "name": "圣乔治圣徒",
+          "team_id": "ast_be259899b0fe4aca954298ef5465d69d"
         },
         "away": {
-          "name": "曼利联",
-          "team_id": "ast_e1415c1a8e754a9994bd647af7a163b1"
+          "name": "北方老虎",
+          "team_id": "ast_a3e30c5def12458eb1dcd295cefdbc07"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "St George Stadium",
+        "status_label": "未开赛"
       },
       {
-        "match_id": "as_8a8f2ca38ada43b8a2be94f2da5e0ad3",
-        "date": "2026-09-02",
-        "time": "09:30",
-        "status": "09:30",
+        "match_id": "as_6cf5d3333bfe4385bb584af08620c650",
+        "date": "2026-09-06",
+        "time": "06:00",
+        "status": "Not Started",
         "league": "澳大利亚新南威尔士联赛",
         "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
         "season": "2026",
         "home": {
-          "name": "马尔科尼公牛",
-          "team_id": "ast_86862125d3c841b79130fd898dca11b3"
+          "name": "APIA莱奇哈特",
+          "team_id": "ast_7f66db09ce0f4ef3b3a85a53a2332831"
         },
         "away": {
           "name": "NWS精神",
           "team_id": "ast_5dd88019707e4379aea210c9b3dad454"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "兰伯特公园球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d33365a3c085440f9f6876c00d7a3b0b",
+        "date": "2026-09-06",
+        "time": "04:00",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "悉尼联",
+          "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7"
+        },
+        "away": {
+          "name": "曼利联",
+          "team_id": "ast_e1415c1a8e754a9994bd647af7a163b1"
+        },
+        "ht_score": "-",
+        "venue": "Sydney United Sports Centre",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9cf9f4903186475cb557b0b40f21fe9e",
+        "date": "2026-09-05",
+        "time": "08:30",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛",
+        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
+        "season": "2026",
+        "home": {
+          "name": "北方老虎",
+          "team_id": "ast_a3e30c5def12458eb1dcd295cefdbc07"
+        },
+        "away": {
+          "name": "圣乔治圣徒",
+          "team_id": "ast_be259899b0fe4aca954298ef5465d69d"
+        },
+        "ht_score": "-",
+        "venue": "北特拉穆拉休闲区",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -8564,16 +8696,19 @@
     },
     "ast_16f5b423fc2a43bdb73d08cbdc6553e2": {
       "en": "Macarthur Rams"
+    },
+    "ast_a3e30c5def12458eb1dcd295cefdbc07": {
+      "en": "北方老虎"
     }
   },
   "stats": {
-    "matches_completed": 240,
-    "total_goals": 674,
+    "matches_completed": 242,
+    "total_goals": 680,
     "avg_goals_per_match": 2.81,
     "home_wins": 109,
-    "draws": 43,
-    "away_wins": 88,
-    "home_win_pct": 45.4,
+    "draws": 44,
+    "away_wins": 89,
+    "home_win_pct": 45.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9370,8 +9505,8 @@
     "distinct_title_holders": 9,
     "teams_all_time": 31,
     "standings_rows_current": 16,
-    "matches_current_season": 242,
-    "upcoming_matches": 2
+    "matches_current_season": 246,
+    "upcoming_matches": 4
   },
-  "updated_at": "2026/09/02"
+  "updated_at": "2026/09/03"
 }

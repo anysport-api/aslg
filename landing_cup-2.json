@@ -1107,7 +1107,7 @@
         "match_id": "as_b5f2b814bfa84ca4b5b7ba6ca89a053f",
         "date": "2026-09-02",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞典杯",
         "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
         "season": "2026/2027",
@@ -1119,7 +1119,10 @@
           "name": "哥德堡",
           "team_id": "ast_49810ca0136b4443bf6319749db37d63"
         },
-        "venue": ""
+        "ht_score": "0-3",
+        "reg_score": "0-5",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9ee5b90514be4839aeb607567b20ad11",
@@ -2449,24 +2452,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b5f2b814bfa84ca4b5b7ba6ca89a053f",
-        "date": "2026-09-02",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞典杯",
-        "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥林匹克",
-          "team_id": "ast_55772ad32c8b4dcdbb9eba173dd92d98"
-        },
-        "away": {
-          "name": "哥德堡",
-          "team_id": "ast_49810ca0136b4443bf6319749db37d63"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6212,13 +6197,13 @@
     }
   },
   "stats": {
-    "matches_completed": 61,
-    "total_goals": 216,
-    "avg_goals_per_match": 3.54,
+    "matches_completed": 62,
+    "total_goals": 221,
+    "avg_goals_per_match": 3.56,
     "home_wins": 12,
     "draws": 5,
-    "away_wins": 44,
-    "home_win_pct": 19.7,
+    "away_wins": 45,
+    "home_win_pct": 19.4,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7016,7 +7001,7 @@
     "teams_all_time": 56,
     "standings_rows_current": 32,
     "matches_current_season": 64,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/02"
+  "updated_at": "2026/09/03"
 }

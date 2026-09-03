@@ -210,15 +210,15 @@
         "position": 1,
         "team_id": "ast_39338f39cf95445a9500aa59c343a052",
         "team": "Juventude",
-        "played": 24,
+        "played": 25,
         "wins": 13,
-        "draws": 6,
+        "draws": 7,
         "losses": 5,
         "goals_for": 26,
         "goals_against": 13,
         "goal_difference": 13,
-        "points": 45,
-        "form": "WWDWW"
+        "points": 46,
+        "form": "DWWDW"
       },
       {
         "position": 2,
@@ -448,15 +448,15 @@
         "position": 18,
         "team_id": "ast_1dfc375e75d9478489de1549ed257d7c",
         "team": "Londrina",
-        "played": 24,
+        "played": 25,
         "wins": 5,
-        "draws": 6,
+        "draws": 7,
         "losses": 13,
         "goals_for": 29,
         "goals_against": 36,
         "goal_difference": -7,
-        "points": 21,
-        "form": "LDLLL"
+        "points": 22,
+        "form": "DLDLL"
       },
       {
         "position": 19,
@@ -492,16 +492,16 @@
         "position": 1,
         "team_id": "ast_39338f39cf95445a9500aa59c343a052",
         "team": "青年队",
-        "played": 24,
+        "played": 25,
         "wins": 13,
-        "draws": 6,
+        "draws": 7,
         "losses": 5,
         "goals_for": 26,
         "goals_against": 13,
         "goal_difference": 13,
-        "points": 45,
-        "form": "WWDWW",
-        "form_label": "胜胜平胜胜"
+        "points": 46,
+        "form": "DWWDW",
+        "form_label": "平胜胜平胜"
       },
       {
         "position": 2,
@@ -747,16 +747,16 @@
         "position": 18,
         "team_id": "ast_1dfc375e75d9478489de1549ed257d7c",
         "team": "隆德里纳",
-        "played": 24,
+        "played": 25,
         "wins": 5,
-        "draws": 6,
+        "draws": 7,
         "losses": 13,
         "goals_for": 29,
         "goals_against": 36,
         "goal_difference": -7,
-        "points": 21,
-        "form": "LDLLL",
-        "form_label": "负平负负负"
+        "points": 22,
+        "form": "DLDLL",
+        "form_label": "平负平负负"
       },
       {
         "position": 19,
@@ -5537,7 +5537,7 @@
         "match_id": "as_82add9d6e1be4eec98fb4cc669dd83a7",
         "date": "2026-09-09",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5549,7 +5549,9 @@
           "name": "青年队",
           "team_id": "ast_39338f39cf95445a9500aa59c343a052"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ca4b4080cd1a4969a95d6d2a5254dc4d",
@@ -5595,7 +5597,7 @@
         "match_id": "as_d2462ff321394cfc825bfa9269983263",
         "date": "2026-09-08",
         "time": "23:30",
-        "status": "23:30",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5607,13 +5609,15 @@
           "name": "竞技俱乐部",
           "team_id": "ast_2df42b74fc784102839291ceeb3f024e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "潘塔纳尔竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d143ecb22a274e8f871f19847ec5f4db",
         "date": "2026-09-06",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5625,13 +5629,15 @@
           "name": "奥佩拉里奥-PR",
           "team_id": "ast_5bac84df117b4fd0b1e2cfd2eb06c352"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_1bac020e47854885b3fcd8dbbb09a4c8",
         "date": "2026-09-06",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5643,13 +5649,15 @@
           "name": "圣贝尔纳多",
           "team_id": "ast_895b2f115fde47789d8aaf7db6438672"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_03e1eab3a02f47d59e34795568d6f00c",
         "date": "2026-09-05",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5661,7 +5669,9 @@
           "name": "累西腓体育",
           "team_id": "ast_bb4113859f1141d4bd4717a03dd93eb7"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_5d9c1d0c4645435fa8a03f395f117025",
@@ -5685,7 +5695,7 @@
         "match_id": "as_f674393ced4d4a9bb543c60f6ddf6b87",
         "date": "2026-09-05",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5697,13 +5707,15 @@
           "name": "福塔雷萨",
           "team_id": "ast_237aa65f4e3a4034a1b798938f91b735"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6a8c3f6a1bdf4c6e83762d291829ee7d",
         "date": "2026-09-05",
         "time": "21:00",
-        "status": "21:00",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5715,13 +5727,15 @@
           "name": "GO竞技",
           "team_id": "ast_c65e94732e264ce29a255721f7943550"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Estadio Alfredo Jaconi",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_89ef302b68a64a28b486a59f43c171d3",
         "date": "2026-09-05",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Not Started",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -5733,7 +5747,9 @@
           "name": "阿瓦伊",
           "team_id": "ast_089ae6fd886e4d288c77dd2fefa94d8d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Estadio Dr. Jorge Ismael de Biasi",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6b249ff501594156a6e45f533b34b323",
@@ -19143,8 +19159,8 @@
     },
     "leader": {
       "team": "Juventude",
-      "points": 45,
-      "played": 24
+      "points": 46,
+      "played": 25
     }
   },
   "coverage": {
@@ -19248,15 +19264,15 @@
             "position": 1,
             "team_id": "ast_39338f39cf95445a9500aa59c343a052",
             "team": "Juventude",
-            "played": 24,
+            "played": 25,
             "wins": 13,
-            "draws": 6,
+            "draws": 7,
             "losses": 5,
             "goals_for": 26,
             "goals_against": 13,
             "goal_difference": 13,
-            "points": 45,
-            "form": "WWDWW"
+            "points": 46,
+            "form": "DWWDW"
           },
           {
             "position": 2,
@@ -19942,5 +19958,5 @@
     "matches_current_season": 380,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/02"
+  "updated_at": "2026/09/03"
 }

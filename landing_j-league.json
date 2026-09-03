@@ -172,20 +172,6 @@
     "en": [
       {
         "position": 1,
-        "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482",
-        "team": "Kashima Antlers",
-        "played": 18,
-        "wins": 15,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 31,
-        "goals_against": 11,
-        "goal_difference": 20,
-        "points": 45,
-        "form": "WWWOWWO"
-      },
-      {
-        "position": 1,
         "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
         "team": "Vissel Kobe",
         "played": 18,
@@ -199,18 +185,18 @@
         "form": "WLOWLWO"
       },
       {
-        "position": 2,
-        "team_id": "ast_41d0109e972b48ebb44c64a003b42684",
-        "team": "FC Tokyo",
+        "position": 1,
+        "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482",
+        "team": "Kashima Antlers",
         "played": 18,
-        "wins": 13,
+        "wins": 15,
         "draws": 0,
-        "losses": 5,
-        "goals_for": 32,
-        "goals_against": 18,
-        "goal_difference": 14,
-        "points": 37,
-        "form": "LWOWLW"
+        "losses": 3,
+        "goals_for": 31,
+        "goals_against": 11,
+        "goal_difference": 20,
+        "points": 45,
+        "form": "WWWOWWO"
       },
       {
         "position": 2,
@@ -225,6 +211,20 @@
         "goal_difference": 9,
         "points": 31,
         "form": "WWWLOWO"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_41d0109e972b48ebb44c64a003b42684",
+        "team": "FC Tokyo",
+        "played": 18,
+        "wins": 13,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 32,
+        "goals_against": 18,
+        "goal_difference": 14,
+        "points": 37,
+        "form": "LWOWLW"
       },
       {
         "position": 3,
@@ -454,20 +454,6 @@
     "zh": [
       {
         "position": 1,
-        "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482",
-        "team": "鹿岛鹿角",
-        "played": 18,
-        "wins": 15,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 31,
-        "goals_against": 11,
-        "goal_difference": 20,
-        "points": 45,
-        "form": "WWWOWWO"
-      },
-      {
-        "position": 1,
         "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
         "team": "神户胜利船",
         "played": 18,
@@ -481,18 +467,18 @@
         "form": "WLOWLWO"
       },
       {
-        "position": 2,
-        "team_id": "ast_41d0109e972b48ebb44c64a003b42684",
-        "team": "东京足球俱乐部",
+        "position": 1,
+        "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482",
+        "team": "鹿岛鹿角",
         "played": 18,
-        "wins": 13,
+        "wins": 15,
         "draws": 0,
-        "losses": 5,
-        "goals_for": 32,
-        "goals_against": 18,
-        "goal_difference": 14,
-        "points": 37,
-        "form": "LWOWLW"
+        "losses": 3,
+        "goals_for": 31,
+        "goals_against": 11,
+        "goal_difference": 20,
+        "points": 45,
+        "form": "WWWOWWO"
       },
       {
         "position": 2,
@@ -507,6 +493,20 @@
         "goal_difference": 9,
         "points": 31,
         "form": "WWWLOWO"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_41d0109e972b48ebb44c64a003b42684",
+        "team": "东京足球俱乐部",
+        "played": 18,
+        "wins": 13,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 32,
+        "goals_against": 18,
+        "goal_difference": 14,
+        "points": 37,
+        "form": "LWOWLW"
       },
       {
         "position": 3,
@@ -4958,6 +4958,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_b4dc555a904c497c960da7bd28ecc851",
+        "date": "2026-10-18",
+        "time": "04:55",
+        "status": "Not Started",
+        "league": "日本职业联赛",
+        "league_id": "asl_9fd861db35a448d799bca75367e11471",
+        "season": "2026/2027",
+        "home": {
+          "name": "冈山",
+          "team_id": "ast_98c324f87b1143398b4f302c6ff6cf4c"
+        },
+        "away": {
+          "name": "神户胜利船",
+          "team_id": "ast_266e68d783ff41409cf5e69ea093926f"
+        },
+        "ht_score": "-",
+        "venue": "City Light Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_4cf25d85919c478095394e64d58bf87c",
+        "date": "2026-10-18",
+        "time": "07:00",
+        "status": "Not Started",
+        "league": "日本职业联赛",
+        "league_id": "asl_9fd861db35a448d799bca75367e11471",
+        "season": "2026/2027",
+        "home": {
+          "name": "町田",
+          "team_id": "ast_930a9cca90bd4f738d0273ad908a9679"
+        },
+        "away": {
+          "name": "福冈黄蜂",
+          "team_id": "ast_73619d26fac6420e8284226747b6a11d"
+        },
+        "ht_score": "-",
+        "venue": "Machida GION Stadium",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_424d7dae74de4c8c8a0c7c8d190f2d8a",
         "date": "2026-10-17",
         "time": "05:00",
@@ -5916,42 +5956,6 @@
         "ht_score": "-",
         "venue": "贝斯特电気体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fa95b9a5a01a448e8d09d6d8c02efa26",
-        "date": "2026-09-02",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "日本职业联赛",
-        "league_id": "asl_9fd861db35a448d799bca75367e11471",
-        "season": "2026/2027",
-        "home": {
-          "name": "横滨F·马里诺斯",
-          "team_id": "ast_7b8ac318ec85447eb09e300c4b63187b"
-        },
-        "away": {
-          "name": "京都",
-          "team_id": "ast_ec52389f4b26424cb157b1ef8120070d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_de9bc3082b5447bb9a0c04643d20704b",
-        "date": "2026-09-02",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "日本职业联赛",
-        "league_id": "asl_9fd861db35a448d799bca75367e11471",
-        "season": "2026/2027",
-        "home": {
-          "name": "长崎V·瓦伦",
-          "team_id": "ast_ef11bae977294cab8280bf8001bb0a96"
-        },
-        "away": {
-          "name": "冈巴大阪",
-          "team_id": "ast_03e716361bc6439d85fa35b906ed7431"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8710,8 +8714,8 @@
       }
     },
     "leader": {
-      "team": "Kashima Antlers",
-      "points": 45,
+      "team": "Vissel Kobe",
+      "points": 35,
       "played": 18
     }
   },
@@ -8807,20 +8811,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482",
-            "team": "Kashima Antlers",
-            "played": 18,
-            "wins": 15,
-            "draws": 0,
-            "losses": 3,
-            "goals_for": 31,
-            "goals_against": 11,
-            "goal_difference": 20,
-            "points": 45,
-            "form": "WWWOWWO"
-          },
-          {
-            "position": 1,
             "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
             "team": "Vissel Kobe",
             "played": 18,
@@ -8834,18 +8824,32 @@
             "form": "WLOWLWO"
           },
           {
-            "position": 2,
-            "team_id": "ast_41d0109e972b48ebb44c64a003b42684",
-            "team": "FC Tokyo",
+            "position": 1,
+            "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482",
+            "team": "Kashima Antlers",
             "played": 18,
-            "wins": 13,
+            "wins": 15,
             "draws": 0,
-            "losses": 5,
-            "goals_for": 32,
-            "goals_against": 18,
-            "goal_difference": 14,
-            "points": 37,
-            "form": "LWOWLW"
+            "losses": 3,
+            "goals_for": 31,
+            "goals_against": 11,
+            "goal_difference": 20,
+            "points": 45,
+            "form": "WWWOWWO"
+          },
+          {
+            "position": 2,
+            "team_id": "ast_d06fc9b0aced48c1bb1786a44ebf647d",
+            "team": "Cerezo Osaka",
+            "played": 18,
+            "wins": 11,
+            "draws": 0,
+            "losses": 7,
+            "goals_for": 30,
+            "goals_against": 21,
+            "goal_difference": 9,
+            "points": 31,
+            "form": "WWWLOWO"
           }
         ],
         "meta": {
@@ -9498,5 +9502,5 @@
     "matches_current_season": 200,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/02"
+  "updated_at": "2026/09/03"
 }
