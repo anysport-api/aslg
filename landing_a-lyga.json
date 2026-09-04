@@ -218,15 +218,15 @@
         "position": 5,
         "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb",
         "team": "Banga",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 8,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 29,
-        "goals_against": 22,
-        "goal_difference": 7,
+        "goals_against": 25,
+        "goal_difference": 4,
         "points": 38,
-        "form": "DDWLW"
+        "form": "LDDWL"
       },
       {
         "position": 6,
@@ -246,15 +246,15 @@
         "position": 7,
         "team_id": "ast_7ad81465f99a4888844e24b7f0078817",
         "team": "FK Panevezys",
-        "played": 25,
-        "wins": 7,
+        "played": 26,
+        "wins": 8,
         "draws": 5,
         "losses": 13,
-        "goals_for": 23,
+        "goals_for": 26,
         "goals_against": 41,
-        "goal_difference": -18,
-        "points": 26,
-        "form": "WLLWD"
+        "goal_difference": -15,
+        "points": 29,
+        "form": "WWLLW"
       },
       {
         "position": 8,
@@ -364,16 +364,16 @@
         "position": 5,
         "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb",
         "team": "班加",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 8,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 29,
-        "goals_against": 22,
-        "goal_difference": 7,
+        "goals_against": 25,
+        "goal_difference": 4,
         "points": 38,
-        "form": "DDWLW",
-        "form_label": "平平胜负胜"
+        "form": "LDDWL",
+        "form_label": "负平平胜负"
       },
       {
         "position": 6,
@@ -394,16 +394,16 @@
         "position": 7,
         "team_id": "ast_7ad81465f99a4888844e24b7f0078817",
         "team": "帕尔讷维兹斯足球俱乐部",
-        "played": 25,
-        "wins": 7,
+        "played": 26,
+        "wins": 8,
         "draws": 5,
         "losses": 13,
-        "goals_for": 23,
+        "goals_for": 26,
         "goals_against": 41,
-        "goal_difference": -18,
-        "points": 26,
-        "form": "WLLWD",
-        "form_label": "胜负负胜平"
+        "goal_difference": -15,
+        "points": 29,
+        "form": "WWLLW",
+        "form_label": "胜胜负负胜"
       },
       {
         "position": 8,
@@ -1082,7 +1082,7 @@
         "match_id": "as_220c9d561dbe4b18a375ed6284d30b26",
         "date": "2026-09-03",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1094,7 +1094,10 @@
           "name": "帕尔讷维兹斯足球俱乐部",
           "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7268466914984bcab4256d65c56c5a32",
@@ -4174,24 +4177,6 @@
         "away": {
           "name": "苏杜瓦",
           "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_220c9d561dbe4b18a375ed6284d30b26",
-        "date": "2026-09-03",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
-        "season": "2026",
-        "home": {
-          "name": "班加",
-          "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb"
-        },
-        "away": {
-          "name": "帕尔讷维兹斯足球俱乐部",
-          "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
         },
         "venue": ""
       }
@@ -7622,13 +7607,13 @@
     }
   },
   "stats": {
-    "matches_completed": 129,
-    "total_goals": 340,
+    "matches_completed": 130,
+    "total_goals": 343,
     "avg_goals_per_match": 2.64,
     "home_wins": 51,
     "draws": 37,
-    "away_wins": 41,
-    "home_win_pct": 39.5,
+    "away_wins": 42,
+    "home_win_pct": 39.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8426,7 +8411,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 161,
-    "upcoming_matches": 20
+    "upcoming_matches": 19
   },
-  "updated_at": "2026/09/03"
+  "updated_at": "2026/09/04"
 }

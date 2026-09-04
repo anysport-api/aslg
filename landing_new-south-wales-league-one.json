@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
@@ -541,6 +541,44 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_21e23032875a4807a4e076f058cfcf2a",
+        "date": "2026-09-11",
+        "time": "09:00",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛一",
+        "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
+        "season": "2026",
+        "home": {
+          "name": "前景联",
+          "team_id": "ast_f5fa29689dd34ccf928371f3505fc7ce"
+        },
+        "away": {
+          "name": "Parramatta Eagles",
+          "team_id": "ast_f23e8e7d27294d7f87e47001527228c4"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5399f26fa9d64dc8a7f2b35e7dcd8f26",
+        "date": "2026-09-04",
+        "time": "09:30",
+        "status": "09:30",
+        "league": "澳大利亚新南威尔士联赛一",
+        "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
+        "season": "2026",
+        "home": {
+          "name": "Parramatta Eagles",
+          "team_id": "ast_f23e8e7d27294d7f87e47001527228c4"
+        },
+        "away": {
+          "name": "前景联",
+          "team_id": "ast_f5fa29689dd34ccf928371f3505fc7ce"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_777133a5dde04b299eb219fec00d2312",
         "date": "2026-08-29",
@@ -5582,7 +5620,46 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_21e23032875a4807a4e076f058cfcf2a",
+        "date": "2026-09-11",
+        "time": "09:00",
+        "status": "Not Started",
+        "league": "澳大利亚新南威尔士联赛一",
+        "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
+        "season": "2026",
+        "home": {
+          "name": "前景联",
+          "team_id": "ast_f5fa29689dd34ccf928371f3505fc7ce"
+        },
+        "away": {
+          "name": "Parramatta Eagles",
+          "team_id": "ast_f23e8e7d27294d7f87e47001527228c4"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5399f26fa9d64dc8a7f2b35e7dcd8f26",
+        "date": "2026-09-04",
+        "time": "09:30",
+        "status": "09:30",
+        "league": "澳大利亚新南威尔士联赛一",
+        "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
+        "season": "2026",
+        "home": {
+          "name": "Parramatta Eagles",
+          "team_id": "ast_f23e8e7d27294d7f87e47001527228c4"
+        },
+        "away": {
+          "name": "前景联",
+          "team_id": "ast_f5fa29689dd34ccf928371f3505fc7ce"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [],
   "honours": [],
@@ -5878,6 +5955,9 @@
     "ast_4981fdeb4c8548e39e8cc8cadab319bc": {
       "en": "Western City Rangers",
       "zh": "西方城流浪者"
+    },
+    "ast_f23e8e7d27294d7f87e47001527228c4": {
+      "en": "Parramatta Eagles"
     }
   },
   "stats": {
@@ -6632,8 +6712,8 @@
     "distinct_title_holders": 0,
     "teams_all_time": 16,
     "standings_rows_current": 16,
-    "matches_current_season": 240,
-    "upcoming_matches": 0
+    "matches_current_season": 242,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/04"
 }

@@ -6072,7 +6072,7 @@
         "match_id": "as_791e371dcb794fffafc5fb73d1b29b6b",
         "date": "2026-09-07",
         "time": "01:30",
-        "status": "01:30",
+        "status": "Not Started",
         "league": "洪都拉斯甲级联赛",
         "league_id": "asl_fce4de1c18ec42599f1f18a64e58aa92",
         "season": "2026/2027",
@@ -6084,13 +6084,15 @@
           "name": "创世纪",
           "team_id": "ast_0dd45c48ce434905ae1870a71b026d3d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Estadio Juan Ramon Breve Vargas",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_92885e8dba3045fe9a09f536c9c210a7",
         "date": "2026-09-06",
         "time": "23:15",
-        "status": "23:15",
+        "status": "Not Started",
         "league": "洪都拉斯甲级联赛",
         "league_id": "asl_fce4de1c18ec42599f1f18a64e58aa92",
         "season": "2026/2027",
@@ -6102,13 +6104,15 @@
           "name": "UPNFM",
           "team_id": "ast_f12b85168b34490a8df506ec9f8bbc8c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9a7091cb81ba4cfb887b2ce9d91448e9",
         "date": "2026-09-06",
         "time": "01:30",
-        "status": "01:30",
+        "status": "Not Started",
         "league": "洪都拉斯甲级联赛",
         "league_id": "asl_fce4de1c18ec42599f1f18a64e58aa92",
         "season": "2026/2027",
@@ -6120,7 +6124,9 @@
           "name": "红星",
           "team_id": "ast_c68052de950f4579827cb3c1f1facd4b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "扬克尔·罗森塔尔体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0f4d25d69b634730b375c27359f9a234",
@@ -6162,7 +6168,7 @@
         "match_id": "as_f758f7fa05e54de1af6ff8603b9f4c47",
         "date": "2026-09-04",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "洪都拉斯甲级联赛",
         "league_id": "asl_fce4de1c18ec42599f1f18a64e58aa92",
         "season": "2026/2027",
@@ -6174,7 +6180,10 @@
           "name": "普拉滕塞",
           "team_id": "ast_07a8a656929e4fd7aa9257ef7e52ee82"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "4-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -9731,5 +9740,5 @@
     "matches_current_season": 248,
     "upcoming_matches": 24
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/04"
 }
