@@ -174,15 +174,15 @@
         "position": 4,
         "team_id": "ast_59be459124c94af4820339f33076352d",
         "team": "IF Fuglafjordur",
-        "played": 21,
+        "played": 22,
         "wins": 9,
         "draws": 6,
-        "losses": 6,
-        "goals_for": 51,
-        "goals_against": 44,
-        "goal_difference": 7,
+        "losses": 7,
+        "goals_for": 52,
+        "goals_against": 46,
+        "goal_difference": 6,
         "points": 33,
-        "form": "WWLWW"
+        "form": "LWWLW"
       },
       {
         "position": 5,
@@ -228,6 +228,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_6c03cb45b01f49fdbed7d1841ef28215",
+        "team": "Hoyvik",
+        "played": 22,
+        "wins": 7,
+        "draws": 1,
+        "losses": 14,
+        "goals_for": 34,
+        "goals_against": 63,
+        "goal_difference": -29,
+        "points": 22,
+        "form": "WLLLW"
+      },
+      {
+        "position": 9,
         "team_id": "ast_757bbb43fb1f450bb3b6758c06be1638",
         "team": "HB Torshavn 2",
         "played": 21,
@@ -239,20 +253,6 @@
         "goal_difference": -9,
         "points": 20,
         "form": "LWLLL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_6c03cb45b01f49fdbed7d1841ef28215",
-        "team": "Hoyvik",
-        "played": 21,
-        "wins": 6,
-        "draws": 1,
-        "losses": 14,
-        "goals_for": 32,
-        "goals_against": 62,
-        "goal_difference": -30,
-        "points": 19,
-        "form": "LLLWL"
       },
       {
         "position": 10,
@@ -319,16 +319,16 @@
         "position": 4,
         "team_id": "ast_59be459124c94af4820339f33076352d",
         "team": "IF福格拉菲尔杜尔",
-        "played": 21,
+        "played": 22,
         "wins": 9,
         "draws": 6,
-        "losses": 6,
-        "goals_for": 51,
-        "goals_against": 44,
-        "goal_difference": 7,
+        "losses": 7,
+        "goals_for": 52,
+        "goals_against": 46,
+        "goal_difference": 6,
         "points": 33,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "form": "LWWLW",
+        "form_label": "负胜胜负胜"
       },
       {
         "position": 5,
@@ -377,6 +377,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_6c03cb45b01f49fdbed7d1841ef28215",
+        "team": "霍伊维克",
+        "played": 22,
+        "wins": 7,
+        "draws": 1,
+        "losses": 14,
+        "goals_for": 34,
+        "goals_against": 63,
+        "goal_difference": -29,
+        "points": 22,
+        "form": "WLLLW",
+        "form_label": "胜负负负胜"
+      },
+      {
+        "position": 9,
         "team_id": "ast_757bbb43fb1f450bb3b6758c06be1638",
         "team": "HB托尔斯哈文二队",
         "played": 21,
@@ -389,21 +404,6 @@
         "points": 20,
         "form": "LWLLL",
         "form_label": "负胜负负负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_6c03cb45b01f49fdbed7d1841ef28215",
-        "team": "霍伊维克",
-        "played": 21,
-        "wins": 6,
-        "draws": 1,
-        "losses": 14,
-        "goals_for": 32,
-        "goals_against": 62,
-        "goal_difference": -30,
-        "points": 19,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
       },
       {
         "position": 10,
@@ -943,7 +943,7 @@
         "match_id": "as_5945f401b5c845e8afca3c851982533d",
         "date": "2026-09-07",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -955,13 +955,15 @@
           "name": "维京古尔 2",
           "team_id": "ast_d9cf0d84ace341d1888e0da8cd3c05d4"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3544c2731aa94ca6a9775787ba4675bd",
         "date": "2026-09-06",
-        "time": "11:30",
-        "status": "11:30",
+        "time": "14:30",
+        "status": "14:30",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -978,8 +980,8 @@
       {
         "match_id": "as_36e6e502a3af4ec085da05caf024ff9a",
         "date": "2026-09-06",
-        "time": "13:00",
-        "status": "13:00",
+        "time": "14:00",
+        "status": "14:00",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -1015,7 +1017,7 @@
         "match_id": "as_2368c91daf01448ca460a3fc8d205751",
         "date": "2026-09-04",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -1027,7 +1029,10 @@
           "name": "霍伊维克",
           "team_id": "ast_6c03cb45b01f49fdbed7d1841ef28215"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2123c050793542efbf55e8467a79d296",
@@ -3640,7 +3645,7 @@
         "match_id": "as_5945f401b5c845e8afca3c851982533d",
         "date": "2026-09-07",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -3652,7 +3657,9 @@
           "name": "维京古尔 2",
           "team_id": "ast_d9cf0d84ace341d1888e0da8cd3c05d4"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_072e236c2b964f11ab0973b102284c66",
@@ -3675,8 +3682,8 @@
       {
         "match_id": "as_36e6e502a3af4ec085da05caf024ff9a",
         "date": "2026-09-06",
-        "time": "13:00",
-        "status": "13:00",
+        "time": "14:00",
+        "status": "14:00",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -3693,8 +3700,8 @@
       {
         "match_id": "as_3544c2731aa94ca6a9775787ba4675bd",
         "date": "2026-09-06",
-        "time": "11:30",
-        "status": "11:30",
+        "time": "14:30",
+        "status": "14:30",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -3705,24 +3712,6 @@
         "away": {
           "name": "苏杜罗伊足球俱乐部",
           "team_id": "ast_fc8ef661edee45808b8bfc5fb37f4475"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2368c91daf01448ca460a3fc8d205751",
-        "date": "2026-09-04",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "法罗群岛甲级联赛",
-        "league_id": "asl_b56effba61534f26ab9587becdfb5376",
-        "season": "2026",
-        "home": {
-          "name": "IF福格拉菲尔杜尔",
-          "team_id": "ast_59be459124c94af4820339f33076352d"
-        },
-        "away": {
-          "name": "霍伊维克",
-          "team_id": "ast_6c03cb45b01f49fdbed7d1841ef28215"
         },
         "venue": ""
       }
@@ -5106,13 +5095,13 @@
     }
   },
   "stats": {
-    "matches_completed": 105,
-    "total_goals": 424,
-    "avg_goals_per_match": 4.04,
+    "matches_completed": 106,
+    "total_goals": 427,
+    "avg_goals_per_match": 4.03,
     "home_wins": 44,
     "draws": 16,
-    "away_wins": 45,
-    "home_win_pct": 41.9,
+    "away_wins": 46,
+    "home_win_pct": 41.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -5910,7 +5899,7 @@
     "teams_all_time": 21,
     "standings_rows_current": 10,
     "matches_current_season": 135,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/09/04"
+  "updated_at": "2026/09/05"
 }

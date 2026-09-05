@@ -178,6 +178,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
+        "team": "Montevideo City",
+        "played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 11,
+        "goals_against": 3,
+        "goal_difference": 8,
+        "points": 12,
+        "form": "WWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b",
         "team": "Liverpool M.",
         "played": 4,
@@ -189,20 +203,6 @@
         "goal_difference": 9,
         "points": 10,
         "form": "DWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
-        "team": "Montevideo City",
-        "played": 3,
-        "wins": 3,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 9,
-        "goals_against": 2,
-        "goal_difference": 7,
-        "points": 9,
-        "form": "WWW"
       },
       {
         "position": 3,
@@ -304,20 +304,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6",
-        "team": "Cerro Largo",
-        "played": 4,
-        "wins": 0,
-        "draws": 4,
-        "losses": 0,
-        "goals_for": 4,
-        "goals_against": 4,
-        "goal_difference": 0,
-        "points": 4,
-        "form": "DDDD"
-      },
-      {
-        "position": 11,
         "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b",
         "team": "Penarol",
         "played": 3,
@@ -329,6 +315,20 @@
         "goal_difference": 0,
         "points": 4,
         "form": "LDW"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6",
+        "team": "Cerro Largo",
+        "played": 5,
+        "wins": 0,
+        "draws": 4,
+        "losses": 1,
+        "goals_for": 5,
+        "goals_against": 6,
+        "goal_difference": -1,
+        "points": 4,
+        "form": "LDDDD"
       },
       {
         "position": 12,
@@ -404,6 +404,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
+        "team": "蒙得维的亚城",
+        "played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 11,
+        "goals_against": 3,
+        "goal_difference": 8,
+        "points": 12,
+        "form": "WWWW",
+        "form_label": "胜胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b",
         "team": "利物浦M队",
         "played": 4,
@@ -416,21 +431,6 @@
         "points": 10,
         "form": "DWWW",
         "form_label": "平胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
-        "team": "蒙得维的亚城",
-        "played": 3,
-        "wins": 3,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 9,
-        "goals_against": 2,
-        "goal_difference": 7,
-        "points": 9,
-        "form": "WWW",
-        "form_label": "胜胜胜"
       },
       {
         "position": 3,
@@ -539,21 +539,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6",
-        "team": "塞罗拉尔戈",
-        "played": 4,
-        "wins": 0,
-        "draws": 4,
-        "losses": 0,
-        "goals_for": 4,
-        "goals_against": 4,
-        "goal_difference": 0,
-        "points": 4,
-        "form": "DDDD",
-        "form_label": "平平平平"
-      },
-      {
-        "position": 11,
         "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b",
         "team": "佩纳罗尔",
         "played": 3,
@@ -566,6 +551,21 @@
         "points": 4,
         "form": "LDW",
         "form_label": "负平胜"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6",
+        "team": "塞罗拉尔戈",
+        "played": 5,
+        "wins": 0,
+        "draws": 4,
+        "losses": 1,
+        "goals_for": 5,
+        "goals_against": 6,
+        "goal_difference": -1,
+        "points": 4,
+        "form": "LDDDD",
+        "form_label": "负平平平平"
       },
       {
         "position": 12,
@@ -845,7 +845,7 @@
         "match_id": "as_78b96d905323422bb83c8d881034e970",
         "date": "2026-09-07",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Not Started",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -857,7 +857,9 @@
           "name": "进步",
           "team_id": "ast_07bb5e567e8143278864181fe0daafa9"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "路易斯·弗兰齐尼体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0d82526faa4a461489e6637fbd339815",
@@ -971,7 +973,7 @@
         "match_id": "as_30ff1c8b1386497ba6323bc1d3315bae",
         "date": "2026-09-04",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -983,7 +985,10 @@
           "name": "塞罗拉尔戈",
           "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_74ebc5b25c204ba5ad00a2614a636529",
@@ -5539,7 +5544,7 @@
         "match_id": "as_78b96d905323422bb83c8d881034e970",
         "date": "2026-09-07",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Not Started",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -5551,7 +5556,9 @@
           "name": "进步",
           "team_id": "ast_07bb5e567e8143278864181fe0daafa9"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "路易斯·弗兰齐尼体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6d6c06d4e9764cde9ad041e45fd50bbf",
@@ -5658,24 +5665,6 @@
         "away": {
           "name": "佩纳罗尔",
           "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_30ff1c8b1386497ba6323bc1d3315bae",
-        "date": "2026-09-04",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "蒙得维的亚城",
-          "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
-        },
-        "away": {
-          "name": "塞罗拉尔戈",
-          "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6"
         },
         "venue": ""
       }
@@ -11024,13 +11013,13 @@
     }
   },
   "stats": {
-    "matches_completed": 208,
-    "total_goals": 488,
+    "matches_completed": 209,
+    "total_goals": 491,
     "avg_goals_per_match": 2.35,
-    "home_wins": 85,
+    "home_wins": 86,
     "draws": 54,
     "away_wins": 69,
-    "home_win_pct": 40.9,
+    "home_win_pct": 41.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11056,8 +11045,8 @@
       }
     },
     "leader": {
-      "team": "Liverpool M.",
-      "points": 10,
+      "team": "Montevideo City",
+      "points": 12,
       "played": 4
     }
   },
@@ -11153,6 +11142,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
+            "team": "Montevideo City",
+            "played": 4,
+            "wins": 4,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 11,
+            "goals_against": 3,
+            "goal_difference": 8,
+            "points": 12,
+            "form": "WWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b",
             "team": "Liverpool M.",
             "played": 4,
@@ -11164,20 +11167,6 @@
             "goal_difference": 9,
             "points": 10,
             "form": "DWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
-            "team": "Montevideo City",
-            "played": 3,
-            "wins": 3,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 9,
-            "goals_against": 2,
-            "goal_difference": 7,
-            "points": 9,
-            "form": "WWW"
           },
           {
             "position": 3,
@@ -11769,7 +11758,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 225,
-    "upcoming_matches": 17
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/09/04"
+  "updated_at": "2026/09/05"
 }

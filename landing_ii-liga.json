@@ -158,15 +158,15 @@
         "position": 2,
         "team_id": "ast_a438016db7844fadb2d5ca0a925432d8",
         "team": "Zawisza",
-        "played": 6,
+        "played": 7,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 12,
-        "goals_against": 7,
+        "goals_for": 15,
+        "goals_against": 10,
         "goal_difference": 5,
-        "points": 13,
-        "form": "WWWWL"
+        "points": 14,
+        "form": "DWWWW"
       },
       {
         "position": 3,
@@ -282,6 +282,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1",
+        "team": "S. Wola",
+        "played": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 12,
+        "goals_against": 12,
+        "goal_difference": 0,
+        "points": 7,
+        "form": "DLLWL"
+      },
+      {
+        "position": 12,
         "team_id": "ast_7df47cf870754692be548c6096556cb6",
         "team": "Bielsko-Biala",
         "played": 6,
@@ -295,7 +309,7 @@
         "form": "LLLWW"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_94fc953b100b4c559fb2f0691a5db666",
         "team": "Chojniczanka",
         "played": 6,
@@ -309,7 +323,7 @@
         "form": "DWWLL"
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "ast_6068e14e2e9b40daa991d60ec339992f",
         "team": "Legia II",
         "played": 6,
@@ -321,20 +335,6 @@
         "goal_difference": 2,
         "points": 6,
         "form": "LWLWL"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1",
-        "team": "S. Wola",
-        "played": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 4,
-        "goals_for": 9,
-        "goals_against": 9,
-        "goal_difference": 0,
-        "points": 6,
-        "form": "LLWLL"
       },
       {
         "position": 15,
@@ -413,16 +413,16 @@
         "position": 2,
         "team_id": "ast_a438016db7844fadb2d5ca0a925432d8",
         "team": "扎维沙",
-        "played": 6,
+        "played": 7,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 12,
-        "goals_against": 7,
+        "goals_for": 15,
+        "goals_against": 10,
         "goal_difference": 5,
-        "points": 13,
-        "form": "WWWWL",
-        "form_label": "胜胜胜胜负"
+        "points": 14,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
       },
       {
         "position": 3,
@@ -546,6 +546,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1",
+        "team": "沃拉",
+        "played": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 12,
+        "goals_against": 12,
+        "goal_difference": 0,
+        "points": 7,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
+      },
+      {
+        "position": 12,
         "team_id": "ast_7df47cf870754692be548c6096556cb6",
         "team": "比尔斯科-比亚瓦",
         "played": 6,
@@ -560,7 +575,7 @@
         "form_label": "负负负胜胜"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_94fc953b100b4c559fb2f0691a5db666",
         "team": "霍伊尼茨卡",
         "played": 6,
@@ -575,7 +590,7 @@
         "form_label": "平胜胜负负"
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "ast_6068e14e2e9b40daa991d60ec339992f",
         "team": "莱吉亚二队",
         "played": 6,
@@ -588,21 +603,6 @@
         "points": 6,
         "form": "LWLWL",
         "form_label": "负胜负胜负"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1",
-        "team": "沃拉",
-        "played": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 4,
-        "goals_for": 9,
-        "goals_against": 9,
-        "goal_difference": 0,
-        "points": 6,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
       },
       {
         "position": 15,
@@ -5691,7 +5691,7 @@
         "match_id": "as_51aa6cb8517d46d1acf250e706090d2c",
         "date": "2026-09-04",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -5703,7 +5703,10 @@
           "name": "扎维沙",
           "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c61eedb7d1714127bd1eaf57ef1646e3",
@@ -10862,13 +10865,13 @@
     }
   },
   "stats": {
-    "matches_completed": 54,
-    "total_goals": 169,
-    "avg_goals_per_match": 3.13,
+    "matches_completed": 55,
+    "total_goals": 175,
+    "avg_goals_per_match": 3.18,
     "home_wins": 24,
-    "draws": 13,
+    "draws": 14,
     "away_wins": 17,
-    "home_win_pct": 44.4,
+    "home_win_pct": 43.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11007,15 +11010,15 @@
             "position": 2,
             "team_id": "ast_a438016db7844fadb2d5ca0a925432d8",
             "team": "Zawisza",
-            "played": 6,
+            "played": 7,
             "wins": 4,
-            "draws": 1,
+            "draws": 2,
             "losses": 1,
-            "goals_for": 12,
-            "goals_against": 7,
+            "goals_for": 15,
+            "goals_against": 10,
             "goal_difference": 5,
-            "points": 13,
-            "form": "WWWWL"
+            "points": 14,
+            "form": "DWWWW"
           },
           {
             "position": 3,
@@ -11665,5 +11668,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/04"
+  "updated_at": "2026/09/05"
 }

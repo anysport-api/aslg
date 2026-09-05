@@ -2554,28 +2554,10 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_92e9f275bf1d4ce6be0e1b321a3822a7",
-        "date": "2026-09-07",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷B级联赛",
-        "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
-        "season": "2026",
-        "home": {
-          "name": "多克苏德",
-          "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107"
-        },
-        "away": {
-          "name": "通讯队",
-          "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf"
-        },
-        "venue": ""
-      },
-      {
         "match_id": "as_d88502d09e524802a919826eb75f575e",
         "date": "2026-09-07",
         "time": "23:00",
-        "status": "23:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2587,7 +2569,9 @@
           "name": "伊图萨因戈",
           "team_id": "ast_19fe9e3461234602a926b4da9e44508a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Excursionistas Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9b374f20e1814abdaa0d6c9d1b856f3a",
@@ -2604,6 +2588,24 @@
         "away": {
           "name": "阿根廷基尔梅斯",
           "team_id": "ast_28c6a2657de84a0dbafed019634fbc73"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_92e9f275bf1d4ce6be0e1b321a3822a7",
+        "date": "2026-09-06",
+        "time": "16:00",
+        "status": "16:00",
+        "league": "阿根廷B级联赛",
+        "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
+        "season": "2026",
+        "home": {
+          "name": "多克苏德",
+          "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107"
+        },
+        "away": {
+          "name": "通讯队",
+          "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf"
         },
         "venue": ""
       },
@@ -2769,7 +2771,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Alfredo Ramos stadium",
         "status_label": "完场"
       },
       {
@@ -14703,5 +14705,5 @@
     "matches_current_season": 462,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/02"
+  "updated_at": "2026/09/05"
 }

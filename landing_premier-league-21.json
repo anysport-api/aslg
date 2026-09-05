@@ -8394,6 +8394,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_f9b05888cff24671ae3e066f36d3110c",
+        "date": "2026-09-20",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "南非超级联赛",
+        "league_id": "asl_a2d493cd76e344d6b454981fa55368ec",
+        "season": "2026/2027",
+        "home": {
+          "name": "米尔福德FC",
+          "team_id": "ast_c5cffb1104fb4fecbf502ea4256c9455"
+        },
+        "away": {
+          "name": "德班城",
+          "team_id": "ast_fccbb22a1140471b9f4d6ab0b16aa2ea"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_2d1a27cb512643d7b4238d840450aa67",
         "date": "2026-09-19",
         "time": "18:00",
@@ -8434,26 +8454,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_f9b05888cff24671ae3e066f36d3110c",
-        "date": "2026-09-19",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "南非超级联赛",
-        "league_id": "asl_a2d493cd76e344d6b454981fa55368ec",
-        "season": "2026/2027",
-        "home": {
-          "name": "米尔福德FC",
-          "team_id": "ast_c5cffb1104fb4fecbf502ea4256c9455"
-        },
-        "away": {
-          "name": "德班城",
-          "team_id": "ast_fccbb22a1140471b9f4d6ab0b16aa2ea"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_2e8ad4076bb74fad8f8a78d5ec929c28",
         "date": "2026-09-19",
         "time": "13:00",
@@ -8475,8 +8475,8 @@
       },
       {
         "match_id": "as_b06e4be3087448f6b0b4ead8e1f2ea62",
-        "date": "2026-09-18",
-        "time": "17:30",
+        "date": "2026-09-19",
+        "time": "13:00",
         "status": "Not Started",
         "league": "南非超级联赛",
         "league_id": "asl_a2d493cd76e344d6b454981fa55368ec",
@@ -8495,7 +8495,7 @@
       },
       {
         "match_id": "as_e3201133192d4effa3c78828c489849f",
-        "date": "2026-09-16",
+        "date": "2026-09-17",
         "time": "17:30",
         "status": "Not Started",
         "league": "南非超级联赛",
@@ -8657,7 +8657,7 @@
         "match_id": "as_0e2f23f46e6b4da1abe5b7c388e089f4",
         "date": "2026-09-09",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Not Started",
         "league": "南非超级联赛",
         "league_id": "asl_a2d493cd76e344d6b454981fa55368ec",
         "season": "2026/2027",
@@ -8669,7 +8669,9 @@
           "name": "西维莱莱",
           "team_id": "ast_78bfa62150014c28b6d379810ed14da1"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "卢卡斯杰作莫里佩体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_56ade0194bd44ed586920c53d024fe7a",
@@ -8740,42 +8742,6 @@
         "away": {
           "name": "米尔福德FC",
           "team_id": "ast_c5cffb1104fb4fecbf502ea4256c9455"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_79f02406e74c41408a679be1049d4f67",
-        "date": "2026-09-04",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "南非超级联赛",
-        "league_id": "asl_a2d493cd76e344d6b454981fa55368ec",
-        "season": "2026/2027",
-        "home": {
-          "name": "理查兹湾",
-          "team_id": "ast_1a12123a17fb425cb94e6bd59163dd8d"
-        },
-        "away": {
-          "name": "阿马祖鲁",
-          "team_id": "ast_76965c156d95435688130d3f83e3fe79"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d3b83118d4fb4224996535b4c93ff275",
-        "date": "2026-09-04",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "南非超级联赛",
-        "league_id": "asl_a2d493cd76e344d6b454981fa55368ec",
-        "season": "2026/2027",
-        "home": {
-          "name": "马鲁莫·加朗特斯",
-          "team_id": "ast_043a5846c953406f96848115006e16da"
-        },
-        "away": {
-          "name": "波洛克瓦内",
-          "team_id": "ast_dcfe0a758f884a3b8e24d189a059d36e"
         },
         "venue": ""
       }
@@ -11683,7 +11649,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 16,
     "matches_current_season": 246,
-    "upcoming_matches": 30
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/09/04"
+  "updated_at": "2026/09/05"
 }

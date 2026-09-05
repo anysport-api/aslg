@@ -204,15 +204,15 @@
         "position": 4,
         "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
         "team": "Torpedo Moscow",
-        "played": 8,
-        "wins": 5,
+        "played": 9,
+        "wins": 6,
         "draws": 1,
         "losses": 2,
-        "goals_for": 15,
-        "goals_against": 5,
-        "goal_difference": 10,
-        "points": 16,
-        "form": "WWWLL"
+        "goals_for": 19,
+        "goals_against": 6,
+        "goal_difference": 13,
+        "points": 19,
+        "form": "WWWWL"
       },
       {
         "position": 5,
@@ -356,20 +356,6 @@
       },
       {
         "position": 15,
-        "team_id": "ast_e7130a86a0d54fafa12a20754b2ba09a",
-        "team": "Tekstilshtik",
-        "played": 9,
-        "wins": 1,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 5,
-        "goals_against": 11,
-        "goal_difference": -6,
-        "points": 6,
-        "form": "LLWLD"
-      },
-      {
-        "position": 16,
         "team_id": "ast_f1dfcb40a4e24c7a83dc04a1952ba196",
         "team": "Leningradets",
         "played": 8,
@@ -381,6 +367,20 @@
         "goal_difference": -6,
         "points": 6,
         "form": "LDDLW"
+      },
+      {
+        "position": 16,
+        "team_id": "ast_e7130a86a0d54fafa12a20754b2ba09a",
+        "team": "Tekstilshtik",
+        "played": 10,
+        "wins": 1,
+        "draws": 3,
+        "losses": 6,
+        "goals_for": 6,
+        "goals_against": 15,
+        "goal_difference": -9,
+        "points": 6,
+        "form": "LLLWL"
       },
       {
         "position": 17,
@@ -461,16 +461,16 @@
         "position": 4,
         "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
         "team": "莫斯科火车头",
-        "played": 8,
-        "wins": 5,
+        "played": 9,
+        "wins": 6,
         "draws": 1,
         "losses": 2,
-        "goals_for": 15,
-        "goals_against": 5,
-        "goal_difference": 10,
-        "points": 16,
-        "form": "WWWLL",
-        "form_label": "胜胜胜负负"
+        "goals_for": 19,
+        "goals_against": 6,
+        "goal_difference": 13,
+        "points": 19,
+        "form": "WWWWL",
+        "form_label": "胜胜胜胜负"
       },
       {
         "position": 5,
@@ -624,21 +624,6 @@
       },
       {
         "position": 15,
-        "team_id": "ast_e7130a86a0d54fafa12a20754b2ba09a",
-        "team": "特克斯蒂尔什提克",
-        "played": 9,
-        "wins": 1,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 5,
-        "goals_against": 11,
-        "goal_difference": -6,
-        "points": 6,
-        "form": "LLWLD",
-        "form_label": "负负胜负平"
-      },
-      {
-        "position": 16,
         "team_id": "ast_f1dfcb40a4e24c7a83dc04a1952ba196",
         "team": "列宁格勒茨",
         "played": 8,
@@ -651,6 +636,21 @@
         "points": 6,
         "form": "LDDLW",
         "form_label": "负平平负胜"
+      },
+      {
+        "position": 16,
+        "team_id": "ast_e7130a86a0d54fafa12a20754b2ba09a",
+        "team": "特克斯蒂尔什提克",
+        "played": 10,
+        "wins": 1,
+        "draws": 3,
+        "losses": 6,
+        "goals_for": 6,
+        "goals_against": 15,
+        "goal_difference": -9,
+        "points": 6,
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 17,
@@ -4662,9 +4662,49 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_2dfce439f3e64c99aa1cf6d3ed40e73e",
+        "date": "2026-09-27",
+        "time": "09:30",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "乌法",
+          "team_id": "ast_9d81322700074b689aae3ab50960eca5"
+        },
+        "away": {
+          "name": "莫斯科火车头",
+          "team_id": "ast_4669036fd9ec413086b2f8e931e92a89"
+        },
+        "ht_score": "-",
+        "venue": "BetBoom Arena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_aa0ccb0e63274c718ed3d5382c42c564",
+        "date": "2026-09-27",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "乌里扬诺夫斯克",
+          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
+        },
+        "away": {
+          "name": "列宁格勒茨",
+          "team_id": "ast_f1dfcb40a4e24c7a83dc04a1952ba196"
+        },
+        "ht_score": "-",
+        "venue": "Trud Stadium",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_56447ba18e08406f94ff7729de3cf112",
         "date": "2026-09-26",
-        "time": "15:00",
+        "time": "09:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -4704,7 +4744,7 @@
       {
         "match_id": "as_aa56454ecd714b6898854279aa134441",
         "date": "2026-09-26",
-        "time": "15:00",
+        "time": "11:30",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -4719,46 +4759,6 @@
         },
         "ht_score": "-",
         "venue": "Stadion Urozhay",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2dfce439f3e64c99aa1cf6d3ed40e73e",
-        "date": "2026-09-26",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌法",
-          "team_id": "ast_9d81322700074b689aae3ab50960eca5"
-        },
-        "away": {
-          "name": "莫斯科火车头",
-          "team_id": "ast_4669036fd9ec413086b2f8e931e92a89"
-        },
-        "ht_score": "-",
-        "venue": "BetBoom Arena",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_aa0ccb0e63274c718ed3d5382c42c564",
-        "date": "2026-09-26",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌里扬诺夫斯克",
-          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
-        },
-        "away": {
-          "name": "列宁格勒茨",
-          "team_id": "ast_f1dfcb40a4e24c7a83dc04a1952ba196"
-        },
-        "ht_score": "-",
-        "venue": "Trud Stadium",
         "status_label": "未开赛"
       },
       {
@@ -4779,6 +4779,46 @@
         },
         "ht_score": "-",
         "venue": "Central Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f1b6c70a0de64a769413b31d48a391ca",
+        "date": "2026-09-18",
+        "time": "15:30",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "雅罗斯拉夫尔希尼克",
+          "team_id": "ast_5b2ff2bb2e8942a8832714609b87118e"
+        },
+        "away": {
+          "name": "卡马兹",
+          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
+        },
+        "ht_score": "-",
+        "venue": "希尼克体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_37946eb284c04bdeb5dc281b2f63015a",
+        "date": "2026-09-18",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "乌里扬诺夫斯克",
+          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
+        },
+        "away": {
+          "name": "斯科特罗马",
+          "team_id": "ast_a4fbd58b55ce47fa8394d1d38a5e0164"
+        },
+        "ht_score": "-",
+        "venue": "Trud Stadium",
         "status_label": "未开赛"
       },
       {
@@ -4804,7 +4844,7 @@
       {
         "match_id": "as_9c5c86e7d4f44dcf8333cc5c9ae6bf8f",
         "date": "2026-09-17",
-        "time": "15:00",
+        "time": "16:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -4819,26 +4859,6 @@
         },
         "ht_score": "-",
         "venue": "Sovcombank Arena",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f1b6c70a0de64a769413b31d48a391ca",
-        "date": "2026-09-17",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "雅罗斯拉夫尔希尼克",
-          "team_id": "ast_5b2ff2bb2e8942a8832714609b87118e"
-        },
-        "away": {
-          "name": "卡马兹",
-          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
-        },
-        "ht_score": "-",
-        "venue": "希尼克体育场",
         "status_label": "未开赛"
       },
       {
@@ -4864,7 +4884,7 @@
       {
         "match_id": "as_c8978f7af1334e358613b41805024f75",
         "date": "2026-09-17",
-        "time": "15:00",
+        "time": "14:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -4902,26 +4922,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_37946eb284c04bdeb5dc281b2f63015a",
-        "date": "2026-09-17",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌里扬诺夫斯克",
-          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
-        },
-        "away": {
-          "name": "斯科特罗马",
-          "team_id": "ast_a4fbd58b55ce47fa8394d1d38a5e0164"
-        },
-        "ht_score": "-",
-        "venue": "Trud Stadium",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_6cc82add52964105adb3b9d23f00b36a",
         "date": "2026-09-16",
         "time": "12:30",
@@ -4939,6 +4939,26 @@
         },
         "ht_score": "-",
         "venue": "中央体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cc3e723234964d599feb3c1a1282828d",
+        "date": "2026-09-14",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "卡马兹",
+          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
+        },
+        "away": {
+          "name": "车里雅宾斯克",
+          "team_id": "ast_c558734cfef24f09b38fa798defcd0d3"
+        },
+        "ht_score": "-",
+        "venue": "KAMAZ Stadium",
         "status_label": "未开赛"
       },
       {
@@ -4964,7 +4984,7 @@
       {
         "match_id": "as_d0637b20e22f4ebab54c6ac5b835fb0c",
         "date": "2026-09-14",
-        "time": "15:00",
+        "time": "15:30",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -5002,6 +5022,66 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_b604ba74207440bbbc51378eb94e9702",
+        "date": "2026-09-13",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿森纳图拉",
+          "team_id": "ast_3ea1ac0defc442daaf029316f57e2598"
+        },
+        "away": {
+          "name": "SKA哈巴罗夫斯克",
+          "team_id": "ast_aaec59d73ecc4f30991d851b573250ae"
+        },
+        "ht_score": "-",
+        "venue": "阿森纳体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_13b7cc93f5614d999366c954beb82a93",
+        "date": "2026-09-13",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "列宁格勒茨",
+          "team_id": "ast_f1dfcb40a4e24c7a83dc04a1952ba196"
+        },
+        "away": {
+          "name": "特克斯蒂尔什提克",
+          "team_id": "ast_e7130a86a0d54fafa12a20754b2ba09a"
+        },
+        "ht_score": "-",
+        "venue": "罗希诺竞技场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_757a79bb52e64cdcb917a3c8f007e7b0",
+        "date": "2026-09-13",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "R. 伏尔加格勒",
+          "team_id": "ast_c50955daa80f45808a8e2364f01f70dd"
+        },
+        "away": {
+          "name": "耶尼塞",
+          "team_id": "ast_1f36b0f13fb84c68802092ec2d786691"
+        },
+        "ht_score": "-",
+        "venue": "伏尔加格勒竞技场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_beaf0c0576ad4a42a0468357e9695faf",
         "date": "2026-09-13",
         "time": "13:30",
@@ -5022,89 +5102,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_b604ba74207440bbbc51378eb94e9702",
-        "date": "2026-09-12",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿森纳图拉",
-          "team_id": "ast_3ea1ac0defc442daaf029316f57e2598"
-        },
-        "away": {
-          "name": "SKA哈巴罗夫斯克",
-          "team_id": "ast_aaec59d73ecc4f30991d851b573250ae"
-        },
-        "ht_score": "-",
-        "venue": "阿森纳体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_cc3e723234964d599feb3c1a1282828d",
-        "date": "2026-09-12",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "卡马兹",
-          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
-        },
-        "away": {
-          "name": "车里雅宾斯克",
-          "team_id": "ast_c558734cfef24f09b38fa798defcd0d3"
-        },
-        "ht_score": "-",
-        "venue": "KAMAZ Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_13b7cc93f5614d999366c954beb82a93",
-        "date": "2026-09-12",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "列宁格勒茨",
-          "team_id": "ast_f1dfcb40a4e24c7a83dc04a1952ba196"
-        },
-        "away": {
-          "name": "特克斯蒂尔什提克",
-          "team_id": "ast_e7130a86a0d54fafa12a20754b2ba09a"
-        },
-        "ht_score": "-",
-        "venue": "罗希诺竞技场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_757a79bb52e64cdcb917a3c8f007e7b0",
-        "date": "2026-09-12",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "R. 伏尔加格勒",
-          "team_id": "ast_c50955daa80f45808a8e2364f01f70dd"
-        },
-        "away": {
-          "name": "耶尼塞",
-          "team_id": "ast_1f36b0f13fb84c68802092ec2d786691"
-        },
-        "ht_score": "-",
-        "venue": "伏尔加格勒竞技场",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_a1fe8d1a87284a828cdf51ad6879a019",
-        "date": "2026-09-12",
-        "time": "15:00",
+        "date": "2026-09-13",
+        "time": "12:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -5269,7 +5269,7 @@
         "match_id": "as_95391a53e9204f67b1a237c832f942f5",
         "date": "2026-09-04",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -5281,7 +5281,10 @@
           "name": "莫斯科火车头",
           "team_id": "ast_4669036fd9ec413086b2f8e931e92a89"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_90d0e91fd5ae479da54bfbbee6309112",
@@ -7243,7 +7246,7 @@
       },
       {
         "match_id": "as_aa0ccb0e63274c718ed3d5382c42c564",
-        "date": "2026-09-26",
+        "date": "2026-09-27",
         "time": "15:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
@@ -7263,8 +7266,8 @@
       },
       {
         "match_id": "as_2dfce439f3e64c99aa1cf6d3ed40e73e",
-        "date": "2026-09-26",
-        "time": "15:00",
+        "date": "2026-09-27",
+        "time": "09:30",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7284,7 +7287,7 @@
       {
         "match_id": "as_aa56454ecd714b6898854279aa134441",
         "date": "2026-09-26",
-        "time": "15:00",
+        "time": "11:30",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7324,7 +7327,7 @@
       {
         "match_id": "as_56447ba18e08406f94ff7729de3cf112",
         "date": "2026-09-26",
-        "time": "15:00",
+        "time": "09:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7339,6 +7342,46 @@
         },
         "ht_score": "-",
         "venue": "Central Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_37946eb284c04bdeb5dc281b2f63015a",
+        "date": "2026-09-18",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "乌里扬诺夫斯克",
+          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
+        },
+        "away": {
+          "name": "斯科特罗马",
+          "team_id": "ast_a4fbd58b55ce47fa8394d1d38a5e0164"
+        },
+        "ht_score": "-",
+        "venue": "Trud Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f1b6c70a0de64a769413b31d48a391ca",
+        "date": "2026-09-18",
+        "time": "15:30",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "雅罗斯拉夫尔希尼克",
+          "team_id": "ast_5b2ff2bb2e8942a8832714609b87118e"
+        },
+        "away": {
+          "name": "卡马兹",
+          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
+        },
+        "ht_score": "-",
+        "venue": "希尼克体育场",
         "status_label": "未开赛"
       },
       {
@@ -7359,26 +7402,6 @@
         },
         "ht_score": "-",
         "venue": "Central Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_37946eb284c04bdeb5dc281b2f63015a",
-        "date": "2026-09-17",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌里扬诺夫斯克",
-          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
-        },
-        "away": {
-          "name": "斯科特罗马",
-          "team_id": "ast_a4fbd58b55ce47fa8394d1d38a5e0164"
-        },
-        "ht_score": "-",
-        "venue": "Trud Stadium",
         "status_label": "未开赛"
       },
       {
@@ -7404,7 +7427,7 @@
       {
         "match_id": "as_c8978f7af1334e358613b41805024f75",
         "date": "2026-09-17",
-        "time": "15:00",
+        "time": "14:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7442,29 +7465,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_f1b6c70a0de64a769413b31d48a391ca",
-        "date": "2026-09-17",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "雅罗斯拉夫尔希尼克",
-          "team_id": "ast_5b2ff2bb2e8942a8832714609b87118e"
-        },
-        "away": {
-          "name": "卡马兹",
-          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
-        },
-        "ht_score": "-",
-        "venue": "希尼克体育场",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_9c5c86e7d4f44dcf8333cc5c9ae6bf8f",
         "date": "2026-09-17",
-        "time": "15:00",
+        "time": "16:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7544,7 +7547,7 @@
       {
         "match_id": "as_d0637b20e22f4ebab54c6ac5b835fb0c",
         "date": "2026-09-14",
-        "time": "15:00",
+        "time": "15:30",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7582,6 +7585,46 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_cc3e723234964d599feb3c1a1282828d",
+        "date": "2026-09-14",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "卡马兹",
+          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
+        },
+        "away": {
+          "name": "车里雅宾斯克",
+          "team_id": "ast_c558734cfef24f09b38fa798defcd0d3"
+        },
+        "ht_score": "-",
+        "venue": "KAMAZ Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_a1fe8d1a87284a828cdf51ad6879a019",
+        "date": "2026-09-13",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "俄罗斯甲级联赛",
+        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
+        "season": "2026/2027",
+        "home": {
+          "name": "乌法",
+          "team_id": "ast_9d81322700074b689aae3ab50960eca5"
+        },
+        "away": {
+          "name": "乌里扬诺夫斯克",
+          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
+        },
+        "ht_score": "-",
+        "venue": "BetBoom Arena",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_beaf0c0576ad4a42a0468357e9695faf",
         "date": "2026-09-13",
         "time": "13:30",
@@ -7602,29 +7645,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_a1fe8d1a87284a828cdf51ad6879a019",
-        "date": "2026-09-12",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌法",
-          "team_id": "ast_9d81322700074b689aae3ab50960eca5"
-        },
-        "away": {
-          "name": "乌里扬诺夫斯克",
-          "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
-        },
-        "ht_score": "-",
-        "venue": "BetBoom Arena",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_757a79bb52e64cdcb917a3c8f007e7b0",
-        "date": "2026-09-12",
-        "time": "15:00",
+        "date": "2026-09-13",
+        "time": "14:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7643,8 +7666,8 @@
       },
       {
         "match_id": "as_13b7cc93f5614d999366c954beb82a93",
-        "date": "2026-09-12",
-        "time": "15:00",
+        "date": "2026-09-13",
+        "time": "12:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7662,29 +7685,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_cc3e723234964d599feb3c1a1282828d",
-        "date": "2026-09-12",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "卡马兹",
-          "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
-        },
-        "away": {
-          "name": "车里雅宾斯克",
-          "team_id": "ast_c558734cfef24f09b38fa798defcd0d3"
-        },
-        "ht_score": "-",
-        "venue": "KAMAZ Stadium",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_b604ba74207440bbbc51378eb94e9702",
-        "date": "2026-09-12",
-        "time": "15:00",
+        "date": "2026-09-13",
+        "time": "14:00",
         "status": "Not Started",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
@@ -7842,24 +7845,6 @@
         "away": {
           "name": "斯科特罗马",
           "team_id": "ast_a4fbd58b55ce47fa8394d1d38a5e0164"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_95391a53e9204f67b1a237c832f942f5",
-        "date": "2026-09-04",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "特克斯蒂尔什提克",
-          "team_id": "ast_e7130a86a0d54fafa12a20754b2ba09a"
-        },
-        "away": {
-          "name": "莫斯科火车头",
-          "team_id": "ast_4669036fd9ec413086b2f8e931e92a89"
         },
         "venue": ""
       }
@@ -14844,13 +14829,13 @@
     }
   },
   "stats": {
-    "matches_completed": 76,
-    "total_goals": 202,
-    "avg_goals_per_match": 2.66,
+    "matches_completed": 77,
+    "total_goals": 207,
+    "avg_goals_per_match": 2.69,
     "home_wins": 34,
     "draws": 17,
-    "away_wins": 25,
-    "home_win_pct": 44.7,
+    "away_wins": 26,
+    "home_win_pct": 44.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -15648,7 +15633,7 @@
     "teams_all_time": 87,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/09/04"
+  "updated_at": "2026/09/05"
 }

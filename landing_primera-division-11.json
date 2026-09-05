@@ -284,7 +284,7 @@
       },
       {
         "position": 6,
-        "team_id": "ast_40a8492bd8044037be201a80f9e5ad10",
+        "team_id": "ast_42c48149a1f3491591ff635d82babaad",
         "team": "Herrera",
         "played": 16,
         "wins": 1,
@@ -465,7 +465,7 @@
       },
       {
         "position": 6,
-        "team_id": "ast_40a8492bd8044037be201a80f9e5ad10",
+        "team_id": "ast_42c48149a1f3491591ff635d82babaad",
         "team": "埃雷拉",
         "played": 16,
         "wins": 1,
@@ -1580,8 +1580,8 @@
       {
         "match_id": "as_c187cc1ea46c4310b22f076c3299e400",
         "date": "2026-09-08",
-        "time": "01:30",
-        "status": "01:30",
+        "time": "01:00",
+        "status": "Not Started",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1593,7 +1593,9 @@
           "name": "独立队",
           "team_id": "ast_161c07103220439cbbd04011482a2373"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_387fbff3150740609612a16af4c791b9",
@@ -1653,7 +1655,7 @@
         "match_id": "as_f14193ddf1bc4cf8a14d43aaaac64084",
         "date": "2026-09-05",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1665,7 +1667,10 @@
           "name": "维拉瓜斯",
           "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f6f90db0f853446d8ba545015232b53d",
@@ -4607,6 +4612,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_400a8e65a90f48ce97a7068deecfc568",
+        "date": "2026-10-20",
+        "time": "01:30",
+        "status": "Not Started",
+        "league": "巴拿马甲级联赛",
+        "league_id": "asl_318de76388e247e58be658fa4480212b",
+        "season": "2026",
+        "home": {
+          "name": "维拉瓜斯",
+          "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
+        },
+        "away": {
+          "name": "科克莱联合",
+          "team_id": "ast_8f2f22a37d36431399f865006017ad71"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_a60d0f81453944eb9ed8fbcb940384e0",
         "date": "2026-10-18",
         "time": "23:15",
@@ -5309,8 +5334,8 @@
       {
         "match_id": "as_c187cc1ea46c4310b22f076c3299e400",
         "date": "2026-09-08",
-        "time": "01:30",
-        "status": "01:30",
+        "time": "01:00",
+        "status": "Not Started",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5322,7 +5347,9 @@
           "name": "独立队",
           "team_id": "ast_161c07103220439cbbd04011482a2373"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0a0372249856439d968b81605dbecafe",
@@ -5400,7 +5427,7 @@
         "match_id": "as_f14193ddf1bc4cf8a14d43aaaac64084",
         "date": "2026-09-05",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5412,7 +5439,10 @@
           "name": "维拉瓜斯",
           "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -6390,13 +6420,13 @@
     }
   },
   "stats": {
-    "matches_completed": 139,
-    "total_goals": 366,
-    "avg_goals_per_match": 2.63,
-    "home_wins": 52,
+    "matches_completed": 140,
+    "total_goals": 370,
+    "avg_goals_per_match": 2.64,
+    "home_wins": 53,
     "draws": 52,
     "away_wins": 35,
-    "home_win_pct": 37.4,
+    "home_win_pct": 37.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7194,7 +7224,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 12,
     "matches_current_season": 199,
-    "upcoming_matches": 41
+    "upcoming_matches": 42
   },
-  "updated_at": "2026/09/03"
+  "updated_at": "2026/09/05"
 }

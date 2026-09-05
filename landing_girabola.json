@@ -6293,7 +6293,7 @@
         "match_id": "as_769d795402a942dba862b2885e009e64",
         "date": "2026-09-09",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "安哥拉联赛",
         "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
         "season": "2026/2027",
@@ -6305,7 +6305,9 @@
           "name": "八月第一",
           "team_id": "ast_30135e54139a476cab26d1684f268eed"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_8d6e9a144d0a4a49bd34c4bae06cfcd1",
@@ -6329,7 +6331,7 @@
         "match_id": "as_7d36c0b65a3941279aecb86d71497af9",
         "date": "2026-09-05",
         "time": "14:30",
-        "status": "Not Started",
+        "status": "14:30",
         "league": "安哥拉联赛",
         "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
         "season": "2026/2027",
@@ -6341,9 +6343,7 @@
           "name": "Cabinda",
           "team_id": "ast_449e2c31368e4ba08a6c3e2b9ea32d41"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_df14c0973b1d4331a32cdd39bbddc68c",
@@ -9267,5 +9267,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 37
   },
-  "updated_at": "2026/09/03"
+  "updated_at": "2026/09/05"
 }
