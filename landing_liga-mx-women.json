@@ -8385,7 +8385,7 @@
         "match_id": "as_2d43a5acb4514e008eeda9ca1956e9c6",
         "date": "2026-09-13",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8397,15 +8397,13 @@
           "name": "老虎队UANL女足",
           "team_id": "ast_e6ebd9b6e7fa47188efe63f35778990d"
         },
-        "ht_score": "-",
-        "venue": "巴诺尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_34a94d4651114890b2e5ec803d5cdd97",
         "date": "2026-09-13",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8417,15 +8415,13 @@
           "name": "桑托斯拉古纳女足",
           "team_id": "ast_a5e272bfb35e48b0a3dda5cee69afa95"
         },
-        "ht_score": "-",
-        "venue": "Estadio Libertad Financiera",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7067cb80a0344719985ca1ace365f159",
         "date": "2026-09-13",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8437,15 +8433,13 @@
           "name": "克雷塔罗女足",
           "team_id": "ast_884e2e43d2024bef8b7aac275910fe7e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9eae95cc6c9843fcb5f0df93315d6701",
         "date": "2026-09-13",
         "time": "01:10",
-        "status": "Not Started",
+        "status": "01:10",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8457,9 +8451,7 @@
           "name": "内卡萨女足",
           "team_id": "ast_799e982bb1d9420ebe84c5a2acb7e6df"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f72e27389d984667a0fed2e40326ba25",
@@ -8591,7 +8583,7 @@
         "match_id": "as_71835679dc2e467e84a1654a0a1c546f",
         "date": "2026-09-06",
         "time": "01:06",
-        "status": "01:06",
+        "status": "FT",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8603,7 +8595,10 @@
           "name": "帕丘卡女足",
           "team_id": "ast_86a39fbe7d7d4047a6f5a1234154b18d"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -10046,5 +10041,5 @@
     "matches_current_season": 334,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/05"
+  "updated_at": "2026/09/06"
 }

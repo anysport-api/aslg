@@ -168,6 +168,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8",
+        "team": "Angel City W",
+        "played": 22,
+        "wins": 9,
+        "draws": 5,
+        "losses": 8,
+        "goals_for": 34,
+        "goals_against": 24,
+        "goal_difference": 10,
+        "points": 32,
+        "form": "WWLDD"
+      },
+      {
+        "position": 9,
         "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0",
         "team": "Seattle Reign W",
         "played": 21,
@@ -179,20 +193,6 @@
         "goal_difference": 0,
         "points": 31,
         "form": "WDLWD"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8",
-        "team": "Angel City W",
-        "played": 21,
-        "wins": 8,
-        "draws": 5,
-        "losses": 8,
-        "goals_for": 32,
-        "goals_against": 24,
-        "goal_difference": 8,
-        "points": 29,
-        "form": "WLDDD"
       },
       {
         "position": 10,
@@ -240,15 +240,15 @@
         "position": 13,
         "team_id": "ast_eea9383a21184ffaa71e8983ab722c5b",
         "team": "Racing Louisville W",
-        "played": 22,
+        "played": 23,
         "wins": 7,
         "draws": 2,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 34,
-        "goals_against": 43,
-        "goal_difference": -9,
+        "goals_against": 45,
+        "goal_difference": -11,
         "points": 23,
-        "form": "LLWWW"
+        "form": "LLLWW"
       },
       {
         "position": 14,
@@ -401,6 +401,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8",
+        "team": "天使城女足",
+        "played": 22,
+        "wins": 9,
+        "draws": 5,
+        "losses": 8,
+        "goals_for": 34,
+        "goals_against": 24,
+        "goal_difference": 10,
+        "points": 32,
+        "form": "WWLDD",
+        "form_label": "胜胜负平平"
+      },
+      {
+        "position": 9,
         "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0",
         "team": "西雅图雷恩女足",
         "played": 21,
@@ -413,21 +428,6 @@
         "points": 31,
         "form": "WDLWD",
         "form_label": "胜平负胜平"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8",
-        "team": "天使城女足",
-        "played": 21,
-        "wins": 8,
-        "draws": 5,
-        "losses": 8,
-        "goals_for": 32,
-        "goals_against": 24,
-        "goal_difference": 8,
-        "points": 29,
-        "form": "WLDDD",
-        "form_label": "胜负平平平"
       },
       {
         "position": 10,
@@ -478,16 +478,16 @@
         "position": 13,
         "team_id": "ast_eea9383a21184ffaa71e8983ab722c5b",
         "team": "路易斯维尔竞技女足",
-        "played": 22,
+        "played": 23,
         "wins": 7,
         "draws": 2,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 34,
-        "goals_against": 43,
-        "goal_difference": -9,
+        "goals_against": 45,
+        "goal_difference": -11,
         "points": 23,
-        "form": "LLWWW",
-        "form_label": "负负胜胜胜"
+        "form": "LLLWW",
+        "form_label": "负负负胜胜"
       },
       {
         "position": 14,
@@ -1370,7 +1370,7 @@
           "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Centennial Stadium",
         "status_label": "未开赛"
       },
       {
@@ -1530,7 +1530,7 @@
           "team_id": "ast_7cb21ccd34404ff0a29aa91cf5ec3461"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Centennial Stadium",
         "status_label": "未开赛"
       },
       {
@@ -1593,7 +1593,7 @@
         "match_id": "as_7adcb7f45afb449aae71ac3e9e7d1f0b",
         "date": "2026-09-13",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -1605,15 +1605,13 @@
           "name": "波士顿遗产女足",
           "team_id": "ast_1293208bcba24d90ad9536e52dc7107e"
         },
-        "ht_score": "-",
-        "venue": "奥迪球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_400f2549de5440258704670ae014f682",
         "date": "2026-09-13",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -1625,9 +1623,7 @@
           "name": "芝加哥女足",
           "team_id": "ast_82069965889f4a4ba072ab79a4bc8a85"
         },
-        "ht_score": "-",
-        "venue": "普罗维登斯公园球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1bd8c452ef18440fb430a43d30afb305",
@@ -1837,7 +1833,7 @@
         "match_id": "as_bc2c901066834fe6bf487ffd2400d19e",
         "date": "2026-09-05",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -1849,7 +1845,10 @@
           "name": "天使城女足",
           "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_423376b3ec814b3cb5dd5a87a5995692",
@@ -6084,7 +6083,7 @@
           "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Centennial Stadium",
         "status_label": "未开赛"
       },
       {
@@ -6184,14 +6183,14 @@
           "team_id": "ast_7cb21ccd34404ff0a29aa91cf5ec3461"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Centennial Stadium",
         "status_label": "未开赛"
       },
       {
         "match_id": "as_400f2549de5440258704670ae014f682",
         "date": "2026-09-13",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -6203,15 +6202,13 @@
           "name": "芝加哥女足",
           "team_id": "ast_82069965889f4a4ba072ab79a4bc8a85"
         },
-        "ht_score": "-",
-        "venue": "普罗维登斯公园球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7adcb7f45afb449aae71ac3e9e7d1f0b",
         "date": "2026-09-13",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -6223,9 +6220,7 @@
           "name": "波士顿遗产女足",
           "team_id": "ast_1293208bcba24d90ad9536e52dc7107e"
         },
-        "ht_score": "-",
-        "venue": "奥迪球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a6ef7e14971249af94830a92219a6cd5",
@@ -6424,66 +6419,6 @@
           "team_id": "ast_d7fc8b26b0c445259a29da45d82bcd0a"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_bc2c901066834fe6bf487ffd2400d19e",
-        "date": "2026-09-05",
-        "time": "22:30",
-        "status": "22:30",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "路易斯维尔竞技女足",
-          "team_id": "ast_eea9383a21184ffaa71e8983ab722c5b"
-        },
-        "away": {
-          "name": "天使城女足",
-          "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8d3c25dddb534b66aa747b420462b6e4",
-        "date": "2026-09-05",
-        "time": "02:00",
-        "status": "FT",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "湾区女足",
-          "team_id": "ast_7cb21ccd34404ff0a29aa91cf5ec3461"
-        },
-        "away": {
-          "name": "堪萨斯城当前女足",
-          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
-        },
-        "ht_score": "1-1",
-        "reg_score": "1-2",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_5ff48ab4149b4120b26a017f640bbccc",
-        "date": "2026-09-05",
-        "time": "01:30",
-        "status": "FT",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "犹他皇家女足",
-          "team_id": "ast_573fa1501b2e4eb29b903455eeb6ad06"
-        },
-        "away": {
-          "name": "波士顿遗产女足",
-          "team_id": "ast_1293208bcba24d90ad9536e52dc7107e"
-        },
-        "ht_score": "1-1",
-        "reg_score": "1-2",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -7632,13 +7567,13 @@
     }
   },
   "stats": {
-    "matches_completed": 176,
-    "total_goals": 483,
+    "matches_completed": 177,
+    "total_goals": 485,
     "avg_goals_per_match": 2.74,
     "home_wins": 86,
     "draws": 31,
-    "away_wins": 59,
-    "home_win_pct": 48.9,
+    "away_wins": 60,
+    "home_win_pct": 48.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8454,7 +8389,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 50
+    "upcoming_matches": 47
   },
-  "updated_at": "2026/09/05"
+  "updated_at": "2026/09/06"
 }

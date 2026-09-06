@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e4f93c074ca24496af8a18a941605999",
@@ -477,7 +477,7 @@
         "match_id": "as_bace8991fdc84efdadd7bb4015fb2f0a",
         "date": "2026-09-06",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -489,7 +489,10 @@
           "name": "梅特兰",
           "team_id": "ast_de9d806e49884ad18aeded5c924ccc2c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9556e66cd57f43348946a5abf48f06b9",
@@ -3461,7 +3464,7 @@
         "match_id": "as_bace8991fdc84efdadd7bb4015fb2f0a",
         "date": "2026-09-06",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -3473,26 +3476,8 @@
           "name": "梅特兰",
           "team_id": "ast_de9d806e49884ad18aeded5c924ccc2c"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9556e66cd57f43348946a5abf48f06b9",
-        "date": "2026-09-05",
-        "time": "04:00",
-        "status": "FT",
-        "league": "澳大利亚北部新南威尔士联赛",
-        "league_id": "asl_e4f93c074ca24496af8a18a941605999",
-        "season": "2026",
-        "home": {
-          "name": "卡希巴",
-          "team_id": "ast_96d808a007a74599826bc3c0ebb74eec"
-        },
-        "away": {
-          "name": "Newcastle Croatia",
-          "team_id": "ast_729cd889d39e4c05942c342bd5fd966f"
-        },
-        "ht_score": "2-1",
-        "reg_score": "2-1",
+        "ht_score": "0-0",
+        "reg_score": "0-1",
         "venue": "",
         "status_label": "完场"
       }
@@ -4736,13 +4721,13 @@
     }
   },
   "stats": {
-    "matches_completed": 141,
-    "total_goals": 505,
-    "avg_goals_per_match": 3.58,
+    "matches_completed": 142,
+    "total_goals": 506,
+    "avg_goals_per_match": 3.56,
     "home_wins": 58,
     "draws": 30,
-    "away_wins": 53,
-    "home_win_pct": 41.1,
+    "away_wins": 54,
+    "home_win_pct": 40.8,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -5503,7 +5488,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 12,
     "matches_current_season": 142,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/05"
+  "updated_at": "2026/09/06"
 }

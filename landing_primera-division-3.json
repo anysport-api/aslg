@@ -130,6 +130,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_0af32aef73f44afdb85659293fccd968",
+        "team": "Always Ready",
+        "played": 18,
+        "wins": 11,
+        "draws": 6,
+        "losses": 1,
+        "goals_for": 37,
+        "goals_against": 13,
+        "goal_difference": 24,
+        "points": 39,
+        "form": "WDDDW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_8a1887f0ba9f4896a884e20862e8cdb0",
         "team": "Bolivar",
         "played": 17,
@@ -141,20 +155,6 @@
         "goal_difference": 25,
         "points": 36,
         "form": "WWWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_0af32aef73f44afdb85659293fccd968",
-        "team": "Always Ready",
-        "played": 17,
-        "wins": 10,
-        "draws": 6,
-        "losses": 1,
-        "goals_for": 35,
-        "goals_against": 12,
-        "goal_difference": 23,
-        "points": 36,
-        "form": "DDDWD"
       },
       {
         "position": 3,
@@ -174,32 +174,60 @@
         "position": 4,
         "team_id": "ast_bb6d401bce78433d9fcd4b71f78d5399",
         "team": "Oriente Petrolero",
-        "played": 17,
+        "played": 18,
         "wins": 8,
         "draws": 3,
-        "losses": 6,
-        "goals_for": 32,
-        "goals_against": 23,
-        "goal_difference": 9,
+        "losses": 7,
+        "goals_for": 33,
+        "goals_against": 25,
+        "goal_difference": 8,
         "points": 27,
-        "form": "DWWWL"
+        "form": "LDWWW"
       },
       {
         "position": 5,
-        "team_id": "ast_daf3800e10c64dfda8688d97f6b01019",
-        "team": "Real Potosi",
-        "played": 17,
+        "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec",
+        "team": "Aurora",
+        "played": 18,
         "wins": 6,
-        "draws": 7,
-        "losses": 4,
-        "goals_for": 22,
-        "goals_against": 12,
-        "goal_difference": 10,
-        "points": 25,
-        "form": "LDDWW"
+        "draws": 9,
+        "losses": 3,
+        "goals_for": 28,
+        "goals_against": 24,
+        "goal_difference": 4,
+        "points": 27,
+        "form": "WDDLL"
       },
       {
         "position": 6,
+        "team_id": "ast_daf3800e10c64dfda8688d97f6b01019",
+        "team": "Real Potosi",
+        "played": 18,
+        "wins": 6,
+        "draws": 8,
+        "losses": 4,
+        "goals_for": 23,
+        "goals_against": 13,
+        "goal_difference": 10,
+        "points": 26,
+        "form": "DLDDW"
+      },
+      {
+        "position": 7,
+        "team_id": "ast_ee911d72f9254a08aaa5910f7ef52b6a",
+        "team": "Guabira",
+        "played": 18,
+        "wins": 7,
+        "draws": 5,
+        "losses": 6,
+        "goals_for": 29,
+        "goals_against": 32,
+        "goal_difference": -3,
+        "points": 26,
+        "form": "DLDWW"
+      },
+      {
+        "position": 8,
         "team_id": "ast_551cf741afc24a5c8ff566b14b9b7c83",
         "team": "Independiente",
         "played": 17,
@@ -211,34 +239,6 @@
         "goal_difference": 0,
         "points": 25,
         "form": "WLWWD"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_ee911d72f9254a08aaa5910f7ef52b6a",
-        "team": "Guabira",
-        "played": 17,
-        "wins": 7,
-        "draws": 4,
-        "losses": 6,
-        "goals_for": 28,
-        "goals_against": 31,
-        "goal_difference": -3,
-        "points": 25,
-        "form": "LDWWW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec",
-        "team": "Aurora",
-        "played": 17,
-        "wins": 5,
-        "draws": 9,
-        "losses": 3,
-        "goals_for": 25,
-        "goals_against": 24,
-        "goal_difference": 1,
-        "points": 24,
-        "form": "DDLLD"
       },
       {
         "position": 9,
@@ -328,15 +328,15 @@
         "position": 15,
         "team_id": "ast_64dc4d28917d4dccb3759193f1c64d03",
         "team": "GV San Jose",
-        "played": 17,
+        "played": 18,
         "wins": 2,
         "draws": 8,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 19,
-        "goals_against": 27,
-        "goal_difference": -8,
+        "goals_against": 30,
+        "goal_difference": -11,
         "points": 14,
-        "form": "DDLLD"
+        "form": "LDDLL"
       },
       {
         "position": 16,
@@ -356,6 +356,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_0af32aef73f44afdb85659293fccd968",
+        "team": "永远准备",
+        "played": 18,
+        "wins": 11,
+        "draws": 6,
+        "losses": 1,
+        "goals_for": 37,
+        "goals_against": 13,
+        "goal_difference": 24,
+        "points": 39,
+        "form": "WDDDW",
+        "form_label": "胜平平平胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_8a1887f0ba9f4896a884e20862e8cdb0",
         "team": "博利瓦尔",
         "played": 17,
@@ -368,21 +383,6 @@
         "points": 36,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_0af32aef73f44afdb85659293fccd968",
-        "team": "永远准备",
-        "played": 17,
-        "wins": 10,
-        "draws": 6,
-        "losses": 1,
-        "goals_for": 35,
-        "goals_against": 12,
-        "goal_difference": 23,
-        "points": 36,
-        "form": "DDDWD",
-        "form_label": "平平平胜平"
       },
       {
         "position": 3,
@@ -403,34 +403,64 @@
         "position": 4,
         "team_id": "ast_bb6d401bce78433d9fcd4b71f78d5399",
         "team": "东方石油",
-        "played": 17,
+        "played": 18,
         "wins": 8,
         "draws": 3,
-        "losses": 6,
-        "goals_for": 32,
-        "goals_against": 23,
-        "goal_difference": 9,
+        "losses": 7,
+        "goals_for": 33,
+        "goals_against": 25,
+        "goal_difference": 8,
         "points": 27,
-        "form": "DWWWL",
-        "form_label": "平胜胜胜负"
+        "form": "LDWWW",
+        "form_label": "负平胜胜胜"
       },
       {
         "position": 5,
-        "team_id": "ast_daf3800e10c64dfda8688d97f6b01019",
-        "team": "皇家波托西",
-        "played": 17,
+        "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec",
+        "team": "极光",
+        "played": 18,
         "wins": 6,
-        "draws": 7,
-        "losses": 4,
-        "goals_for": 22,
-        "goals_against": 12,
-        "goal_difference": 10,
-        "points": 25,
-        "form": "LDDWW",
-        "form_label": "负平平胜胜"
+        "draws": 9,
+        "losses": 3,
+        "goals_for": 28,
+        "goals_against": 24,
+        "goal_difference": 4,
+        "points": 27,
+        "form": "WDDLL",
+        "form_label": "胜平平负负"
       },
       {
         "position": 6,
+        "team_id": "ast_daf3800e10c64dfda8688d97f6b01019",
+        "team": "皇家波托西",
+        "played": 18,
+        "wins": 6,
+        "draws": 8,
+        "losses": 4,
+        "goals_for": 23,
+        "goals_against": 13,
+        "goal_difference": 10,
+        "points": 26,
+        "form": "DLDDW",
+        "form_label": "平负平平胜"
+      },
+      {
+        "position": 7,
+        "team_id": "ast_ee911d72f9254a08aaa5910f7ef52b6a",
+        "team": "瓜比拉",
+        "played": 18,
+        "wins": 7,
+        "draws": 5,
+        "losses": 6,
+        "goals_for": 29,
+        "goals_against": 32,
+        "goal_difference": -3,
+        "points": 26,
+        "form": "DLDWW",
+        "form_label": "平负平胜胜"
+      },
+      {
+        "position": 8,
         "team_id": "ast_551cf741afc24a5c8ff566b14b9b7c83",
         "team": "独立队",
         "played": 17,
@@ -443,36 +473,6 @@
         "points": 25,
         "form": "WLWWD",
         "form_label": "胜负胜胜平"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_ee911d72f9254a08aaa5910f7ef52b6a",
-        "team": "瓜比拉",
-        "played": 17,
-        "wins": 7,
-        "draws": 4,
-        "losses": 6,
-        "goals_for": 28,
-        "goals_against": 31,
-        "goal_difference": -3,
-        "points": 25,
-        "form": "LDWWW",
-        "form_label": "负平胜胜胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec",
-        "team": "极光",
-        "played": 17,
-        "wins": 5,
-        "draws": 9,
-        "losses": 3,
-        "goals_for": 25,
-        "goals_against": 24,
-        "goal_difference": 1,
-        "points": 24,
-        "form": "DDLLD",
-        "form_label": "平平负负平"
       },
       {
         "position": 9,
@@ -568,16 +568,16 @@
         "position": 15,
         "team_id": "ast_64dc4d28917d4dccb3759193f1c64d03",
         "team": "GV圣荷西",
-        "played": 17,
+        "played": 18,
         "wins": 2,
         "draws": 8,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 19,
-        "goals_against": 27,
-        "goal_difference": -8,
+        "goals_against": 30,
+        "goal_difference": -11,
         "points": 14,
-        "form": "DDLLD",
-        "form_label": "平平负负平"
+        "form": "LDDLL",
+        "form_label": "负平平负负"
       },
       {
         "position": 16,
@@ -1097,7 +1097,7 @@
         "match_id": "as_7035925e95ca4b9187159d6e2b7efaea",
         "date": "2026-09-13",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1109,15 +1109,13 @@
           "name": "瓜比拉",
           "team_id": "ast_ee911d72f9254a08aaa5910f7ef52b6a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e6b0b066507c444488087f9ec23b57ff",
         "date": "2026-09-13",
         "time": "21:15",
-        "status": "Not Started",
+        "status": "21:15",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1129,15 +1127,13 @@
           "name": "独立队",
           "team_id": "ast_551cf741afc24a5c8ff566b14b9b7c83"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8e5a725234bd40c1a09c2b423f622a5e",
         "date": "2026-09-13",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1149,15 +1145,13 @@
           "name": "博利瓦尔",
           "team_id": "ast_8a1887f0ba9f4896a884e20862e8cdb0"
         },
-        "ht_score": "-",
-        "venue": "四百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1dee69cd0dbf42de986e547ffe020e36",
         "date": "2026-09-12",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1169,15 +1163,13 @@
           "name": "东方石油",
           "team_id": "ast_bb6d401bce78433d9fcd4b71f78d5399"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_91c3940cf7244cf2bb1a096b6f65e8b4",
         "date": "2026-09-12",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1189,15 +1181,13 @@
           "name": "国家波托西",
           "team_id": "ast_876a05ad4b484fd1b3fee5e88a91b8a0"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_67fc782bf7bc42f2974f77ba1cfcbf46",
         "date": "2026-09-12",
         "time": "21:15",
-        "status": "Not Started",
+        "status": "21:15",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1209,15 +1199,13 @@
           "name": "皇家奥鲁罗",
           "team_id": "ast_3b94e37ae826445a80a1e2b1274fb07c"
         },
-        "ht_score": "-",
-        "venue": "埃尔南多·西莱斯体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_481530a6d4e04a80ade03ed060343904",
         "date": "2026-09-12",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1229,15 +1217,13 @@
           "name": "巴隆皮学院",
           "team_id": "ast_f36065d57014472bb97549fd7953a395"
         },
-        "ht_score": "-",
-        "venue": "Estadio Ramon Tahuichi Aguilera Costas",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_26e60fdc5baa4a059e0007c74df38727",
         "date": "2026-09-11",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1249,9 +1235,7 @@
           "name": "极光",
           "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec"
         },
-        "ht_score": "-",
-        "venue": "卡洛斯·比列加斯博士体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8e25c2aee5bb4357a7c673921df06a8b",
@@ -1311,7 +1295,7 @@
         "match_id": "as_e3d34f3ca407455b86c92d2ee5af637b",
         "date": "2026-09-05",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1323,13 +1307,16 @@
           "name": "皇家波托西",
           "team_id": "ast_daf3800e10c64dfda8688d97f6b01019"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_46e62a6c3fab4a7eb4b0ee3d0bac18d3",
         "date": "2026-09-05",
         "time": "21:15",
-        "status": "21:15",
+        "status": "FT",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1341,13 +1328,16 @@
           "name": "GV圣荷西",
           "team_id": "ast_64dc4d28917d4dccb3759193f1c64d03"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b16ac9fedddf48d2aa7c719e02da9871",
         "date": "2026-09-05",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1359,7 +1349,10 @@
           "name": "永远准备",
           "team_id": "ast_0af32aef73f44afdb85659293fccd968"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4cb66e64301a48c6bd5882a4a07f7ea0",
@@ -4745,7 +4738,7 @@
         "match_id": "as_8e5a725234bd40c1a09c2b423f622a5e",
         "date": "2026-09-13",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4757,15 +4750,13 @@
           "name": "博利瓦尔",
           "team_id": "ast_8a1887f0ba9f4896a884e20862e8cdb0"
         },
-        "ht_score": "-",
-        "venue": "四百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e6b0b066507c444488087f9ec23b57ff",
         "date": "2026-09-13",
         "time": "21:15",
-        "status": "Not Started",
+        "status": "21:15",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4777,15 +4768,13 @@
           "name": "独立队",
           "team_id": "ast_551cf741afc24a5c8ff566b14b9b7c83"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7035925e95ca4b9187159d6e2b7efaea",
         "date": "2026-09-13",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4797,15 +4786,13 @@
           "name": "瓜比拉",
           "team_id": "ast_ee911d72f9254a08aaa5910f7ef52b6a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_481530a6d4e04a80ade03ed060343904",
         "date": "2026-09-12",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4817,15 +4804,13 @@
           "name": "巴隆皮学院",
           "team_id": "ast_f36065d57014472bb97549fd7953a395"
         },
-        "ht_score": "-",
-        "venue": "Estadio Ramon Tahuichi Aguilera Costas",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_67fc782bf7bc42f2974f77ba1cfcbf46",
         "date": "2026-09-12",
         "time": "21:15",
-        "status": "Not Started",
+        "status": "21:15",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4837,15 +4822,13 @@
           "name": "皇家奥鲁罗",
           "team_id": "ast_3b94e37ae826445a80a1e2b1274fb07c"
         },
-        "ht_score": "-",
-        "venue": "埃尔南多·西莱斯体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_91c3940cf7244cf2bb1a096b6f65e8b4",
         "date": "2026-09-12",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4857,15 +4840,13 @@
           "name": "国家波托西",
           "team_id": "ast_876a05ad4b484fd1b3fee5e88a91b8a0"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1dee69cd0dbf42de986e547ffe020e36",
         "date": "2026-09-12",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4877,15 +4858,13 @@
           "name": "东方石油",
           "team_id": "ast_bb6d401bce78433d9fcd4b71f78d5399"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_26e60fdc5baa4a059e0007c74df38727",
         "date": "2026-09-11",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -4897,9 +4876,7 @@
           "name": "极光",
           "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec"
         },
-        "ht_score": "-",
-        "venue": "卡洛斯·比列加斯博士体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8e25c2aee5bb4357a7c673921df06a8b",
@@ -4952,60 +4929,6 @@
         "away": {
           "name": "博利瓦尔",
           "team_id": "ast_8a1887f0ba9f4896a884e20862e8cdb0"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b16ac9fedddf48d2aa7c719e02da9871",
-        "date": "2026-09-05",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "玻利维亚甲级联赛",
-        "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
-        "season": "2026",
-        "home": {
-          "name": "东方石油",
-          "team_id": "ast_bb6d401bce78433d9fcd4b71f78d5399"
-        },
-        "away": {
-          "name": "永远准备",
-          "team_id": "ast_0af32aef73f44afdb85659293fccd968"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_46e62a6c3fab4a7eb4b0ee3d0bac18d3",
-        "date": "2026-09-05",
-        "time": "21:15",
-        "status": "21:15",
-        "league": "玻利维亚甲级联赛",
-        "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
-        "season": "2026",
-        "home": {
-          "name": "极光",
-          "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec"
-        },
-        "away": {
-          "name": "GV圣荷西",
-          "team_id": "ast_64dc4d28917d4dccb3759193f1c64d03"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e3d34f3ca407455b86c92d2ee5af637b",
-        "date": "2026-09-05",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "玻利维亚甲级联赛",
-        "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
-        "season": "2026",
-        "home": {
-          "name": "瓜比拉",
-          "team_id": "ast_ee911d72f9254a08aaa5910f7ef52b6a"
-        },
-        "away": {
-          "name": "皇家波托西",
-          "team_id": "ast_daf3800e10c64dfda8688d97f6b01019"
         },
         "venue": ""
       }
@@ -7042,13 +6965,13 @@
     }
   },
   "stats": {
-    "matches_completed": 138,
-    "total_goals": 420,
+    "matches_completed": 141,
+    "total_goals": 428,
     "avg_goals_per_match": 3.04,
-    "home_wins": 68,
-    "draws": 37,
-    "away_wins": 33,
-    "home_win_pct": 49.3,
+    "home_wins": 69,
+    "draws": 38,
+    "away_wins": 34,
+    "home_win_pct": 48.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7074,9 +6997,9 @@
       }
     },
     "leader": {
-      "team": "Bolivar",
-      "points": 36,
-      "played": 17
+      "team": "Always Ready",
+      "points": 39,
+      "played": 18
     }
   },
   "coverage": {
@@ -7171,6 +7094,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_0af32aef73f44afdb85659293fccd968",
+            "team": "Always Ready",
+            "played": 18,
+            "wins": 11,
+            "draws": 6,
+            "losses": 1,
+            "goals_for": 37,
+            "goals_against": 13,
+            "goal_difference": 24,
+            "points": 39,
+            "form": "WDDDW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_8a1887f0ba9f4896a884e20862e8cdb0",
             "team": "Bolivar",
             "played": 17,
@@ -7182,20 +7119,6 @@
             "goal_difference": 25,
             "points": 36,
             "form": "WWWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_0af32aef73f44afdb85659293fccd968",
-            "team": "Always Ready",
-            "played": 17,
-            "wins": 10,
-            "draws": 6,
-            "losses": 1,
-            "goals_for": 35,
-            "goals_against": 12,
-            "goal_difference": 23,
-            "points": 36,
-            "form": "DDDWD"
           },
           {
             "position": 3,
@@ -7864,7 +7787,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 176,
-    "upcoming_matches": 38
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/09/05"
+  "updated_at": "2026/09/06"
 }

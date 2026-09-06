@@ -126,15 +126,15 @@
         "position": 1,
         "team_id": "ast_fd91cb152faf4306be2820457c97d094",
         "team": "Istiqlol Dushanbe",
-        "played": 15,
-        "wins": 10,
+        "played": 16,
+        "wins": 11,
         "draws": 4,
         "losses": 1,
-        "goals_for": 22,
+        "goals_for": 23,
         "goals_against": 5,
-        "goal_difference": 17,
-        "points": 34,
-        "form": "WWLWW"
+        "goal_difference": 18,
+        "points": 37,
+        "form": "WWWLW"
       },
       {
         "position": 2,
@@ -154,15 +154,15 @@
         "position": 3,
         "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
         "team": "Khosilot Parkhar",
-        "played": 15,
+        "played": 16,
         "wins": 9,
         "draws": 4,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 32,
-        "goals_against": 16,
-        "goal_difference": 16,
+        "goals_against": 17,
+        "goal_difference": 15,
         "points": 31,
-        "form": "WDWWW"
+        "form": "LWDWW"
       },
       {
         "position": 4,
@@ -296,16 +296,16 @@
         "position": 1,
         "team_id": "ast_fd91cb152faf4306be2820457c97d094",
         "team": "伊斯提克洛尔·杜尚别",
-        "played": 15,
-        "wins": 10,
+        "played": 16,
+        "wins": 11,
         "draws": 4,
         "losses": 1,
-        "goals_for": 22,
+        "goals_for": 23,
         "goals_against": 5,
-        "goal_difference": 17,
-        "points": 34,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "goal_difference": 18,
+        "points": 37,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
       },
       {
         "position": 2,
@@ -326,16 +326,16 @@
         "position": 3,
         "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
         "team": "霍西洛特·帕尔哈尔",
-        "played": 15,
+        "played": 16,
         "wins": 9,
         "draws": 4,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 32,
-        "goals_against": 16,
-        "goal_difference": 16,
+        "goals_against": 17,
+        "goal_difference": 15,
         "points": 31,
-        "form": "WDWWW",
-        "form_label": "胜平胜胜胜"
+        "form": "LWDWW",
+        "form_label": "负胜平胜胜"
       },
       {
         "position": 4,
@@ -1305,7 +1305,7 @@
         "match_id": "as_b122146124bb48f1a36c332b3ae56c39",
         "date": "2026-09-05",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -1317,7 +1317,10 @@
           "name": "霍西洛特·帕尔哈尔",
           "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ffeb56ecacce46bf8de65bbdf2a2f859",
@@ -3656,24 +3659,6 @@
           "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_b122146124bb48f1a36c332b3ae56c39",
-        "date": "2026-09-05",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "伊斯提克洛尔·杜尚别",
-          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
-        },
-        "away": {
-          "name": "霍西洛特·帕尔哈尔",
-          "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5076,13 +5061,13 @@
     }
   },
   "stats": {
-    "matches_completed": 88,
-    "total_goals": 228,
-    "avg_goals_per_match": 2.59,
-    "home_wins": 34,
+    "matches_completed": 89,
+    "total_goals": 229,
+    "avg_goals_per_match": 2.57,
+    "home_wins": 35,
     "draws": 25,
     "away_wins": 29,
-    "home_win_pct": 38.6,
+    "home_win_pct": 39.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -5109,8 +5094,8 @@
     },
     "leader": {
       "team": "Istiqlol Dushanbe",
-      "points": 34,
-      "played": 15
+      "points": 37,
+      "played": 16
     }
   },
   "coverage": {
@@ -5207,15 +5192,15 @@
             "position": 1,
             "team_id": "ast_fd91cb152faf4306be2820457c97d094",
             "team": "Istiqlol Dushanbe",
-            "played": 15,
-            "wins": 10,
+            "played": 16,
+            "wins": 11,
             "draws": 4,
             "losses": 1,
-            "goals_for": 22,
+            "goals_for": 23,
             "goals_against": 5,
-            "goal_difference": 17,
-            "points": 34,
-            "form": "WWLWW"
+            "goal_difference": 18,
+            "points": 37,
+            "form": "WWWLW"
           },
           {
             "position": 2,
@@ -5235,15 +5220,15 @@
             "position": 3,
             "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
             "team": "Khosilot Parkhar",
-            "played": 15,
+            "played": 16,
             "wins": 9,
             "draws": 4,
-            "losses": 2,
+            "losses": 3,
             "goals_for": 32,
-            "goals_against": 16,
-            "goal_difference": 16,
+            "goals_against": 17,
+            "goal_difference": 15,
             "points": 31,
-            "form": "WDWWW"
+            "form": "LWDWW"
           }
         ],
         "meta": {
@@ -5843,7 +5828,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/09/05"
+  "updated_at": "2026/09/06"
 }

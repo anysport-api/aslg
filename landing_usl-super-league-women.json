@@ -3395,7 +3395,7 @@
         "match_id": "as_862f1c366e30412c9b8f13179c4a7464",
         "date": "2026-09-12",
         "time": "22:00",
-        "status": "22:00",
+        "status": "Not Started",
         "league": "美国USL超级女足联赛",
         "league_id": "asl_dfe89792340443d2b2b2f7d9358bc9b7",
         "season": "2026/2027",
@@ -3407,13 +3407,15 @@
           "name": "劳德代尔堡女足",
           "team_id": "ast_f3d9aac6229e47af9e8ffd7979741617"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Riverfront Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c6cd34e51a58468082897e8acea2548d",
         "date": "2026-09-11",
         "time": "23:30",
-        "status": "23:30",
+        "status": "Not Started",
         "league": "美国USL超级女足联赛",
         "league_id": "asl_dfe89792340443d2b2b2f7d9358bc9b7",
         "season": "2026/2027",
@@ -3425,13 +3427,15 @@
           "name": "卡罗莱纳女足",
           "team_id": "ast_d0cae6d0df9f42b88044a77c780a0529"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "丰田体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0103aa0c0dff467ca8dbdd25eca56516",
         "date": "2026-09-06",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "美国USL超级女足联赛",
         "league_id": "asl_dfe89792340443d2b2b2f7d9358bc9b7",
         "season": "2026/2027",
@@ -3443,25 +3447,10 @@
           "name": "布鲁克林",
           "team_id": "ast_bc872a5bbe904aa9a62d33d47652a900"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b074b7fe44df4c209a5cd8aad7c11f10",
-        "date": "2026-09-05",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "美国USL超级女足联赛",
-        "league_id": "asl_dfe89792340443d2b2b2f7d9358bc9b7",
-        "season": "2026/2027",
-        "home": {
-          "name": "卡罗莱纳女足",
-          "team_id": "ast_d0cae6d0df9f42b88044a77c780a0529"
-        },
-        "away": {
-          "name": "劳德代尔堡女足",
-          "team_id": "ast_f3d9aac6229e47af9e8ffd7979741617"
-        },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -4583,7 +4572,7 @@
     "teams_all_time": 9,
     "standings_rows_current": 9,
     "matches_current_season": 129,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/09/05"
+  "updated_at": "2026/09/06"
 }

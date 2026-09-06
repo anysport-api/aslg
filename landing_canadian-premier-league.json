@@ -100,15 +100,15 @@
         "position": 3,
         "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
         "team": "Atl. Ottawa",
-        "played": 20,
+        "played": 21,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 7,
         "goals_for": 34,
         "goals_against": 34,
         "goal_difference": 0,
-        "points": 33,
-        "form": "WLWWW"
+        "points": 34,
+        "form": "DWLWW"
       },
       {
         "position": 4,
@@ -170,15 +170,15 @@
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "Pacific FC",
-        "played": 18,
+        "played": 19,
         "wins": 1,
-        "draws": 5,
+        "draws": 6,
         "losses": 12,
         "goals_for": 22,
         "goals_against": 39,
         "goal_difference": -17,
-        "points": 8,
-        "form": "WLDDL"
+        "points": 9,
+        "form": "DWLDD"
       }
     ],
     "zh": [
@@ -216,16 +216,16 @@
         "position": 3,
         "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
         "team": "渥太华竞技",
-        "played": 20,
+        "played": 21,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 7,
         "goals_for": 34,
         "goals_against": 34,
         "goal_difference": 0,
-        "points": 33,
-        "form": "WLWWW",
-        "form_label": "胜负胜胜胜"
+        "points": 34,
+        "form": "DWLWW",
+        "form_label": "平胜负胜胜"
       },
       {
         "position": 4,
@@ -291,16 +291,16 @@
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "太平洋FC",
-        "played": 18,
+        "played": 19,
         "wins": 1,
-        "draws": 5,
+        "draws": 6,
         "losses": 12,
         "goals_for": 22,
         "goals_against": 39,
         "goal_difference": -17,
-        "points": 8,
-        "form": "WLDDL",
-        "form_label": "胜负平平负"
+        "points": 9,
+        "form": "DWLDD",
+        "form_label": "平胜负平平"
       }
     ]
   },
@@ -865,7 +865,7 @@
         "match_id": "as_a1f229f81e5f4301b4c73c9a3454c7da",
         "date": "2026-09-13",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -877,15 +877,13 @@
           "name": "温哥华 FC",
           "team_id": "ast_c5ddaa558822424296632dc759cff76d"
         },
-        "ht_score": "-",
-        "venue": "约克雄狮体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_62d5dbed1c044abfb7a9e0d957f9a438",
         "date": "2026-09-13",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -897,9 +895,7 @@
           "name": "骑兵",
           "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
         },
-        "ht_score": "-",
-        "venue": "Starlight Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_80cea90d3205476680f0419951c267d9",
@@ -995,7 +991,7 @@
         "match_id": "as_4e8ae82214214dbb9199ccd7702fe7bd",
         "date": "2026-09-05",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -1007,13 +1003,16 @@
           "name": "太平洋FC",
           "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e2bbc41ea0ef4ac99f587069e1962215",
         "date": "2026-09-05",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -1025,7 +1024,10 @@
           "name": "国际多伦多",
           "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2dcfef2556464a38b9742a759a13eb50",
@@ -3089,7 +3091,7 @@
         "match_id": "as_62d5dbed1c044abfb7a9e0d957f9a438",
         "date": "2026-09-13",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -3101,15 +3103,13 @@
           "name": "骑兵",
           "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
         },
-        "ht_score": "-",
-        "venue": "Starlight Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a1f229f81e5f4301b4c73c9a3454c7da",
         "date": "2026-09-13",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -3121,9 +3121,7 @@
           "name": "温哥华 FC",
           "team_id": "ast_c5ddaa558822424296632dc759cff76d"
         },
-        "ht_score": "-",
-        "venue": "约克雄狮体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_104a38cd79ac49d3b8cc8102f41319f9",
@@ -3212,42 +3210,6 @@
         "away": {
           "name": "魁北克超越",
           "team_id": "ast_eaee4847fb6f4636806d5070cb08014c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e2bbc41ea0ef4ac99f587069e1962215",
-        "date": "2026-09-05",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "福尔吉",
-          "team_id": "ast_1e7a6eeae41147c0ac02796dfe9a5cb0"
-        },
-        "away": {
-          "name": "国际多伦多",
-          "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4e8ae82214214dbb9199ccd7702fe7bd",
-        "date": "2026-09-05",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "渥太华竞技",
-          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
-        },
-        "away": {
-          "name": "太平洋FC",
-          "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
         },
         "venue": ""
       }
@@ -4230,13 +4192,13 @@
     }
   },
   "stats": {
-    "matches_completed": 76,
-    "total_goals": 225,
-    "avg_goals_per_match": 2.96,
+    "matches_completed": 78,
+    "total_goals": 227,
+    "avg_goals_per_match": 2.91,
     "home_wins": 37,
-    "draws": 16,
+    "draws": 18,
     "away_wins": 23,
-    "home_win_pct": 48.7,
+    "home_win_pct": 47.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4389,15 +4351,15 @@
             "position": 3,
             "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
             "team": "Atl. Ottawa",
-            "played": 20,
+            "played": 21,
             "wins": 10,
-            "draws": 3,
+            "draws": 4,
             "losses": 7,
             "goals_for": 34,
             "goals_against": 34,
             "goal_difference": 0,
-            "points": 33,
-            "form": "WLWWW"
+            "points": 34,
+            "form": "DWLWW"
           }
         ],
         "meta": {
@@ -5046,7 +5008,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 112,
-    "upcoming_matches": 32
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/09/05"
+  "updated_at": "2026/09/06"
 }
