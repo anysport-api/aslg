@@ -462,7 +462,7 @@
         "match_id": "as_ffa9774e5b744d19ab34ba1f123c317b",
         "date": "2026-09-06",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -474,13 +474,16 @@
           "name": "西部巴西",
           "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_79b510072bbd4e79857b503d20ac3e2a",
         "date": "2026-09-06",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -492,13 +495,16 @@
           "name": "AA 伊瓜苏",
           "team_id": "ast_395e91a35e8141d99d74660991cba37f"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f5f18e634bcd4d76b4a47718be93bfdc",
         "date": "2026-09-06",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -510,13 +516,16 @@
           "name": "希望国际",
           "team_id": "ast_76fe6827e425485ba491695e1fcd5676"
         },
-        "venue": ""
+        "ht_score": "3-2",
+        "reg_score": "4-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8174fe2c524c432bb3098b1025e6b16f",
         "date": "2026-09-05",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -528,7 +537,10 @@
           "name": "乌尼昂PR",
           "team_id": "ast_8a06944a0df04235ac6e67d5423b08e4"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_01c98f9e06fa4a30a68db537ea6b6524",
@@ -1241,60 +1253,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f5f18e634bcd4d76b4a47718be93bfdc",
-        "date": "2026-09-06",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "伦敦城",
-          "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
-        },
-        "away": {
-          "name": "希望国际",
-          "team_id": "ast_76fe6827e425485ba491695e1fcd5676"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_79b510072bbd4e79857b503d20ac3e2a",
-        "date": "2026-09-06",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "伊拉提",
-          "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9"
-        },
-        "away": {
-          "name": "AA 伊瓜苏",
-          "team_id": "ast_395e91a35e8141d99d74660991cba37f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ffa9774e5b744d19ab34ba1f123c317b",
-        "date": "2026-09-06",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "坎贝",
-          "team_id": "ast_efbb74cbad4d4d5e82f679711edbac44"
-        },
-        "away": {
-          "name": "西部巴西",
-          "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf"
-        },
-        "venue": ""
       }
     ]
   },
@@ -1737,13 +1695,13 @@
     }
   },
   "stats": {
-    "matches_completed": 30,
-    "total_goals": 61,
-    "avg_goals_per_match": 2.03,
-    "home_wins": 14,
-    "draws": 5,
+    "matches_completed": 34,
+    "total_goals": 75,
+    "avg_goals_per_match": 2.21,
+    "home_wins": 16,
+    "draws": 7,
     "away_wins": 11,
-    "home_win_pct": 46.7,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 3,
       "match": {
@@ -1757,15 +1715,15 @@
       }
     },
     "highest_scoring_match": {
-      "goals": 6,
+      "goals": 7,
       "match": {
-        "match_id": "as_f3154433888e4252a76b096dd409d4f6",
-        "date": "2026-07-25",
-        "home_id": "ast_b4c4311cb7a447b49035ba1c1a4c8d01",
-        "home": "隆德里嫩塞",
-        "away_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e",
-        "away": "巴拉那S.T.C.",
-        "score": "2-4"
+        "match_id": "as_f5f18e634bcd4d76b4a47718be93bfdc",
+        "date": "2026-09-06",
+        "home_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
+        "home": "伦敦城",
+        "away_id": "ast_76fe6827e425485ba491695e1fcd5676",
+        "away": "希望国际",
+        "score": "4-3"
       }
     },
     "leader": {
@@ -2540,7 +2498,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 11,
     "matches_current_season": 38,
-    "upcoming_matches": 7
+    "upcoming_matches": 4
   },
-  "updated_at": "2026/09/06"
+  "updated_at": "2026/09/07"
 }

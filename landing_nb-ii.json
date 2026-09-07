@@ -328,15 +328,15 @@
         "position": 12,
         "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3",
         "team": "Szeged",
-        "played": 5,
+        "played": 6,
         "wins": 1,
-        "draws": 2,
+        "draws": 3,
         "losses": 2,
-        "goals_for": 4,
-        "goals_against": 5,
+        "goals_for": 6,
+        "goals_against": 7,
         "goal_difference": -1,
-        "points": 5,
-        "form": "DWLLD"
+        "points": 6,
+        "form": "DDWLL"
       },
       {
         "position": 13,
@@ -370,15 +370,15 @@
         "position": 15,
         "team_id": "ast_fcefad25a3df4472a610f75e053060c4",
         "team": "Csakvari",
-        "played": 6,
+        "played": 7,
         "wins": 1,
-        "draws": 0,
+        "draws": 1,
         "losses": 5,
-        "goals_for": 6,
-        "goals_against": 16,
+        "goals_for": 8,
+        "goals_against": 18,
         "goal_difference": -10,
-        "points": 3,
-        "form": "LLLWL"
+        "points": 4,
+        "form": "DLLLW"
       },
       {
         "position": 16,
@@ -565,16 +565,16 @@
         "position": 12,
         "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3",
         "team": "塞格德",
-        "played": 5,
+        "played": 6,
         "wins": 1,
-        "draws": 2,
+        "draws": 3,
         "losses": 2,
-        "goals_for": 4,
-        "goals_against": 5,
+        "goals_for": 6,
+        "goals_against": 7,
         "goal_difference": -1,
-        "points": 5,
-        "form": "DWLLD",
-        "form_label": "平胜负负平"
+        "points": 6,
+        "form": "DDWLL",
+        "form_label": "平平胜负负"
       },
       {
         "position": 13,
@@ -610,16 +610,16 @@
         "position": 15,
         "team_id": "ast_fcefad25a3df4472a610f75e053060c4",
         "team": "查克瓦里",
-        "played": 6,
+        "played": 7,
         "wins": 1,
-        "draws": 0,
+        "draws": 1,
         "losses": 5,
-        "goals_for": 6,
-        "goals_against": 16,
+        "goals_for": 8,
+        "goals_against": 18,
         "goal_difference": -10,
-        "points": 3,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
+        "points": 4,
+        "form": "DLLLW",
+        "form_label": "平负负负胜"
       },
       {
         "position": 16,
@@ -4357,7 +4357,7 @@
         "match_id": "as_9d05efadea05463486d8a08975adecd2",
         "date": "2026-09-06",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "匈牙利Nb II联赛",
         "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
         "season": "2026/2027",
@@ -4369,7 +4369,10 @@
           "name": "塞格德",
           "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9bc9c35e465a4be185ea1069593e016e",
@@ -5996,24 +5999,6 @@
         "away": {
           "name": "DVTK",
           "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9d05efadea05463486d8a08975adecd2",
-        "date": "2026-09-06",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "匈牙利Nb II联赛",
-        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
-        "season": "2026/2027",
-        "home": {
-          "name": "查克瓦里",
-          "team_id": "ast_fcefad25a3df4472a610f75e053060c4"
-        },
-        "away": {
-          "name": "塞格德",
-          "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3"
         },
         "venue": ""
       }
@@ -8419,13 +8404,13 @@
     }
   },
   "stats": {
-    "matches_completed": 51,
-    "total_goals": 144,
-    "avg_goals_per_match": 2.82,
+    "matches_completed": 52,
+    "total_goals": 148,
+    "avg_goals_per_match": 2.85,
     "home_wins": 25,
-    "draws": 11,
+    "draws": 12,
     "away_wins": 15,
-    "home_win_pct": 49.0,
+    "home_win_pct": 48.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9220,7 +9205,7 @@
     "teams_all_time": 38,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/09/06"
+  "updated_at": "2026/09/07"
 }

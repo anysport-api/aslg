@@ -226,6 +226,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_171e497ba69048c684d114da826f8a7f",
+        "team": "Lugano",
+        "played": 6,
+        "wins": 6,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 17,
+        "goals_against": 4,
+        "goal_difference": 13,
+        "points": 18,
+        "form": "WWWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_5467bc2b3cc2492982993402f32f39fa",
         "team": "Young Boys",
         "played": 7,
@@ -239,49 +253,49 @@
         "form": "DWDWD"
       },
       {
-        "position": 2,
-        "team_id": "ast_171e497ba69048c684d114da826f8a7f",
-        "team": "Lugano",
-        "played": 5,
-        "wins": 5,
+        "position": 3,
+        "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974",
+        "team": "Sion",
+        "played": 6,
+        "wins": 4,
         "draws": 0,
-        "losses": 0,
+        "losses": 2,
         "goals_for": 14,
-        "goals_against": 3,
-        "goal_difference": 11,
-        "points": 15,
-        "form": "WWWWW"
+        "goals_against": 11,
+        "goal_difference": 3,
+        "points": 12,
+        "form": "WWLWW"
       },
       {
-        "position": 3,
-        "team_id": "ast_6c80d41e4ae14902b31d3584df69b041",
-        "team": "Basel",
+        "position": 4,
+        "team_id": "ast_fa55f4a7f6d04378a0285c9ed3d72e27",
+        "team": "St. Gallen",
         "played": 6,
         "wins": 3,
         "draws": 1,
         "losses": 2,
-        "goals_for": 11,
-        "goals_against": 9,
-        "goal_difference": 2,
+        "goals_for": 12,
+        "goals_against": 11,
+        "goal_difference": 1,
         "points": 10,
-        "form": "LDWWL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974",
-        "team": "Sion",
-        "played": 5,
-        "wins": 3,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 11,
-        "goals_against": 9,
-        "goal_difference": 2,
-        "points": 9,
-        "form": "WLWWL"
+        "form": "WLLDW"
       },
       {
         "position": 5,
+        "team_id": "ast_6c80d41e4ae14902b31d3584df69b041",
+        "team": "Basel",
+        "played": 7,
+        "wins": 3,
+        "draws": 1,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 12,
+        "goal_difference": 0,
+        "points": 10,
+        "form": "LLDWW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_3afda115b0364eebbcef6df39f68a024",
         "team": "Luzern",
         "played": 7,
@@ -295,32 +309,18 @@
         "form": "DWDWD"
       },
       {
-        "position": 6,
-        "team_id": "ast_fa55f4a7f6d04378a0285c9ed3d72e27",
-        "team": "St. Gallen",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
-        "points": 7,
-        "form": "LLDWW"
-      },
-      {
         "position": 7,
         "team_id": "ast_af583b00dd5c4731b1a7a11f7568e0a5",
         "team": "Thun",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 14,
-        "goal_difference": -5,
+        "losses": 3,
+        "goals_for": 11,
+        "goals_against": 17,
+        "goal_difference": -6,
         "points": 7,
-        "form": "DWLLW"
+        "form": "LDWLL"
       },
       {
         "position": 8,
@@ -382,20 +382,35 @@
         "position": 12,
         "team_id": "ast_dea248e595e346fca85a3c8b9f901f07",
         "team": "Servette",
-        "played": 5,
+        "played": 6,
         "wins": 1,
         "draws": 1,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 4,
-        "goals_against": 6,
-        "goal_difference": -2,
+        "goals_against": 8,
+        "goal_difference": -4,
         "points": 4,
-        "form": "LDWLL"
+        "form": "LLDWL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_171e497ba69048c684d114da826f8a7f",
+        "team": "卢加诺",
+        "played": 6,
+        "wins": 6,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 17,
+        "goals_against": 4,
+        "goal_difference": 13,
+        "points": 18,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_5467bc2b3cc2492982993402f32f39fa",
         "team": "年轻男孩",
         "played": 7,
@@ -410,52 +425,52 @@
         "form_label": "平胜平胜平"
       },
       {
-        "position": 2,
-        "team_id": "ast_171e497ba69048c684d114da826f8a7f",
-        "team": "卢加诺",
-        "played": 5,
-        "wins": 5,
+        "position": 3,
+        "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974",
+        "team": "锡永",
+        "played": 6,
+        "wins": 4,
         "draws": 0,
-        "losses": 0,
+        "losses": 2,
         "goals_for": 14,
-        "goals_against": 3,
-        "goal_difference": 11,
-        "points": 15,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "goals_against": 11,
+        "goal_difference": 3,
+        "points": 12,
+        "form": "WWLWW",
+        "form_label": "胜胜负胜胜"
       },
       {
-        "position": 3,
-        "team_id": "ast_6c80d41e4ae14902b31d3584df69b041",
-        "team": "巴塞尔",
+        "position": 4,
+        "team_id": "ast_fa55f4a7f6d04378a0285c9ed3d72e27",
+        "team": "圣加仑",
         "played": 6,
         "wins": 3,
         "draws": 1,
         "losses": 2,
-        "goals_for": 11,
-        "goals_against": 9,
-        "goal_difference": 2,
+        "goals_for": 12,
+        "goals_against": 11,
+        "goal_difference": 1,
         "points": 10,
-        "form": "LDWWL",
-        "form_label": "负平胜胜负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974",
-        "team": "锡永",
-        "played": 5,
-        "wins": 3,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 11,
-        "goals_against": 9,
-        "goal_difference": 2,
-        "points": 9,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
+        "form": "WLLDW",
+        "form_label": "胜负负平胜"
       },
       {
         "position": 5,
+        "team_id": "ast_6c80d41e4ae14902b31d3584df69b041",
+        "team": "巴塞尔",
+        "played": 7,
+        "wins": 3,
+        "draws": 1,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 12,
+        "goal_difference": 0,
+        "points": 10,
+        "form": "LLDWW",
+        "form_label": "负负平胜胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_3afda115b0364eebbcef6df39f68a024",
         "team": "卢塞恩",
         "played": 7,
@@ -470,34 +485,19 @@
         "form_label": "平胜平胜平"
       },
       {
-        "position": 6,
-        "team_id": "ast_fa55f4a7f6d04378a0285c9ed3d72e27",
-        "team": "圣加仑",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
-        "points": 7,
-        "form": "LLDWW",
-        "form_label": "负负平胜胜"
-      },
-      {
         "position": 7,
         "team_id": "ast_af583b00dd5c4731b1a7a11f7568e0a5",
         "team": "图恩",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 14,
-        "goal_difference": -5,
+        "losses": 3,
+        "goals_for": 11,
+        "goals_against": 17,
+        "goal_difference": -6,
         "points": 7,
-        "form": "DWLLW",
-        "form_label": "平胜负负胜"
+        "form": "LDWLL",
+        "form_label": "负平胜负负"
       },
       {
         "position": 8,
@@ -563,16 +563,16 @@
         "position": 12,
         "team_id": "ast_dea248e595e346fca85a3c8b9f901f07",
         "team": "日内瓦服务队",
-        "played": 5,
+        "played": 6,
         "wins": 1,
         "draws": 1,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 4,
-        "goals_against": 6,
-        "goal_difference": -2,
+        "goals_against": 8,
+        "goal_difference": -4,
         "points": 4,
-        "form": "LDWLL",
-        "form_label": "负平胜负负"
+        "form": "LLDWL",
+        "form_label": "负负平胜负"
       }
     ]
   },
@@ -4503,7 +4503,7 @@
         "match_id": "as_136b2b449d074bdf9e2f61af51f0c766",
         "date": "2026-09-13",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4515,13 +4515,15 @@
           "name": "瓦杜兹",
           "team_id": "ast_d92a6d51edf94393b0b552eb17d7202a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Letzigrund Stadion",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3021f9e84fe8468996a98393333e06bf",
         "date": "2026-09-13",
         "time": "14:30",
-        "status": "14:30",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4533,13 +4535,15 @@
           "name": "日内瓦服务队",
           "team_id": "ast_dea248e595e346fca85a3c8b9f901f07"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Stade de la Tuiliere",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_350ed308afaa45eea379ac78b86b739e",
         "date": "2026-09-13",
         "time": "14:30",
-        "status": "14:30",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4551,13 +4555,15 @@
           "name": "巴塞尔",
           "team_id": "ast_6c80d41e4ae14902b31d3584df69b041"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Thermoplan Arena",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3e4f589373ed4cf7bed2cace5b180dd6",
         "date": "2026-09-12",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4569,13 +4575,15 @@
           "name": "锡永",
           "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Kybunpark",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0d28643ab0b84c9a920204eb1bae8f3e",
         "date": "2026-09-12",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4587,13 +4595,15 @@
           "name": "草蜢",
           "team_id": "ast_a5760fe53b5443288127804dea06a840"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "施托克霍恩竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ecc36c1173df405d8b7edc0ced398d1b",
         "date": "2026-09-12",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4605,13 +4615,15 @@
           "name": "年轻男孩",
           "team_id": "ast_5467bc2b3cc2492982993402f32f39fa"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "AIL Arena",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_1813d1e64abb4f889700d47d2c9aae80",
         "date": "2026-09-06",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4623,13 +4635,16 @@
           "name": "圣加仑",
           "team_id": "ast_fa55f4a7f6d04378a0285c9ed3d72e27"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_635a13dd3abd496088635808ec99b69c",
         "date": "2026-09-06",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4641,13 +4656,16 @@
           "name": "卢加诺",
           "team_id": "ast_171e497ba69048c684d114da826f8a7f"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_17689103754943d78803722568b3e24c",
         "date": "2026-09-06",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -4659,7 +4677,10 @@
           "name": "图恩",
           "team_id": "ast_af583b00dd5c4731b1a7a11f7568e0a5"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2c4d47ddd1764d20a0bcf01820c5b67f",
@@ -5723,7 +5744,7 @@
         "match_id": "as_350ed308afaa45eea379ac78b86b739e",
         "date": "2026-09-13",
         "time": "14:30",
-        "status": "14:30",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -5735,13 +5756,15 @@
           "name": "巴塞尔",
           "team_id": "ast_6c80d41e4ae14902b31d3584df69b041"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Thermoplan Arena",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3021f9e84fe8468996a98393333e06bf",
         "date": "2026-09-13",
         "time": "14:30",
-        "status": "14:30",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -5753,13 +5776,15 @@
           "name": "日内瓦服务队",
           "team_id": "ast_dea248e595e346fca85a3c8b9f901f07"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Stade de la Tuiliere",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_136b2b449d074bdf9e2f61af51f0c766",
         "date": "2026-09-13",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -5771,13 +5796,15 @@
           "name": "瓦杜兹",
           "team_id": "ast_d92a6d51edf94393b0b552eb17d7202a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Letzigrund Stadion",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ecc36c1173df405d8b7edc0ced398d1b",
         "date": "2026-09-12",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -5789,13 +5816,15 @@
           "name": "年轻男孩",
           "team_id": "ast_5467bc2b3cc2492982993402f32f39fa"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "AIL Arena",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0d28643ab0b84c9a920204eb1bae8f3e",
         "date": "2026-09-12",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -5807,13 +5836,15 @@
           "name": "草蜢",
           "team_id": "ast_a5760fe53b5443288127804dea06a840"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "施托克霍恩竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3e4f589373ed4cf7bed2cace5b180dd6",
         "date": "2026-09-12",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "瑞士超级联赛",
         "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
         "season": "2026/2027",
@@ -5825,61 +5856,9 @@
           "name": "锡永",
           "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_17689103754943d78803722568b3e24c",
-        "date": "2026-09-06",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "瑞士超级联赛",
-        "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
-        "season": "2026/2027",
-        "home": {
-          "name": "锡永",
-          "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974"
-        },
-        "away": {
-          "name": "图恩",
-          "team_id": "ast_af583b00dd5c4731b1a7a11f7568e0a5"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_635a13dd3abd496088635808ec99b69c",
-        "date": "2026-09-06",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "瑞士超级联赛",
-        "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
-        "season": "2026/2027",
-        "home": {
-          "name": "巴塞尔",
-          "team_id": "ast_6c80d41e4ae14902b31d3584df69b041"
-        },
-        "away": {
-          "name": "卢加诺",
-          "team_id": "ast_171e497ba69048c684d114da826f8a7f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1813d1e64abb4f889700d47d2c9aae80",
-        "date": "2026-09-06",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞士超级联赛",
-        "league_id": "asl_f049fc1e46a640cdbfb514450695c8d5",
-        "season": "2026/2027",
-        "home": {
-          "name": "日内瓦服务队",
-          "team_id": "ast_dea248e595e346fca85a3c8b9f901f07"
-        },
-        "away": {
-          "name": "圣加仑",
-          "team_id": "ast_fa55f4a7f6d04378a0285c9ed3d72e27"
-        },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Kybunpark",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -9575,13 +9554,13 @@
     }
   },
   "stats": {
-    "matches_completed": 36,
-    "total_goals": 138,
-    "avg_goals_per_match": 3.83,
-    "home_wins": 16,
+    "matches_completed": 39,
+    "total_goals": 149,
+    "avg_goals_per_match": 3.82,
+    "home_wins": 17,
     "draws": 8,
-    "away_wins": 12,
-    "home_win_pct": 44.4,
+    "away_wins": 14,
+    "home_win_pct": 43.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9607,9 +9586,9 @@
       }
     },
     "leader": {
-      "team": "Young Boys",
-      "points": 15,
-      "played": 7
+      "team": "Lugano",
+      "points": 18,
+      "played": 6
     }
   },
   "coverage": {
@@ -9704,6 +9683,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_171e497ba69048c684d114da826f8a7f",
+            "team": "Lugano",
+            "played": 6,
+            "wins": 6,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 17,
+            "goals_against": 4,
+            "goal_difference": 13,
+            "points": 18,
+            "form": "WWWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_5467bc2b3cc2492982993402f32f39fa",
             "team": "Young Boys",
             "played": 7,
@@ -9717,32 +9710,18 @@
             "form": "DWDWD"
           },
           {
-            "position": 2,
-            "team_id": "ast_171e497ba69048c684d114da826f8a7f",
-            "team": "Lugano",
-            "played": 5,
-            "wins": 5,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 14,
-            "goals_against": 3,
-            "goal_difference": 11,
-            "points": 15,
-            "form": "WWWWW"
-          },
-          {
             "position": 3,
-            "team_id": "ast_6c80d41e4ae14902b31d3584df69b041",
-            "team": "Basel",
+            "team_id": "ast_8b4daf5b43be4ad2bf00fbe3fc245974",
+            "team": "Sion",
             "played": 6,
-            "wins": 3,
-            "draws": 1,
+            "wins": 4,
+            "draws": 0,
             "losses": 2,
-            "goals_for": 11,
-            "goals_against": 9,
-            "goal_difference": 2,
-            "points": 10,
-            "form": "LDWWL"
+            "goals_for": 14,
+            "goals_against": 11,
+            "goal_difference": 3,
+            "points": 12,
+            "form": "WWLWW"
           }
         ],
         "meta": {
@@ -10398,7 +10377,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 24
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/09/06"
+  "updated_at": "2026/09/07"
 }

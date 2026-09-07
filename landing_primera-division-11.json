@@ -1581,7 +1581,7 @@
         "match_id": "as_c187cc1ea46c4310b22f076c3299e400",
         "date": "2026-09-08",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1593,9 +1593,7 @@
           "name": "独立队",
           "team_id": "ast_161c07103220439cbbd04011482a2373"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_387fbff3150740609612a16af4c791b9",
@@ -1622,7 +1620,7 @@
         "match_id": "as_2c2d6ce0168f4b36ac487322960e7e30",
         "date": "2026-09-06",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1634,13 +1632,16 @@
           "name": "陶罗",
           "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0a0372249856439d968b81605dbecafe",
         "date": "2026-09-06",
         "time": "23:15",
-        "status": "23:15",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1652,7 +1653,10 @@
           "name": "旧金山",
           "team_id": "ast_3aaea0dfe3664165b1b93b8cb75000e8"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f14193ddf1bc4cf8a14d43aaaac64084",
@@ -5341,7 +5345,7 @@
         "match_id": "as_c187cc1ea46c4310b22f076c3299e400",
         "date": "2026-09-08",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5353,66 +5357,7 @@
           "name": "独立队",
           "team_id": "ast_161c07103220439cbbd04011482a2373"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_0a0372249856439d968b81605dbecafe",
-        "date": "2026-09-06",
-        "time": "23:15",
-        "status": "23:15",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "阿利安萨",
-          "team_id": "ast_56b7eecdc5654764801ae9188aab3306"
-        },
-        "away": {
-          "name": "旧金山",
-          "team_id": "ast_3aaea0dfe3664165b1b93b8cb75000e8"
-        },
         "venue": ""
-      },
-      {
-        "match_id": "as_2c2d6ce0168f4b36ac487322960e7e30",
-        "date": "2026-09-06",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "科克莱联合",
-          "team_id": "ast_8f2f22a37d36431399f865006017ad71"
-        },
-        "away": {
-          "name": "陶罗",
-          "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_387fbff3150740609612a16af4c791b9",
-        "date": "2026-09-06",
-        "time": "01:30",
-        "status": "FT",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "普拉萨阿莫多尔",
-          "team_id": "ast_d3baa4540a6f40f89e88b5a5fa6ac30c"
-        },
-        "away": {
-          "name": "埃雷拉",
-          "team_id": "ast_42c48149a1f3491591ff635d82babaad"
-        },
-        "ht_score": "2-1",
-        "reg_score": "4-1",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -6390,13 +6335,13 @@
     }
   },
   "stats": {
-    "matches_completed": 142,
-    "total_goals": 377,
+    "matches_completed": 144,
+    "total_goals": 381,
     "avg_goals_per_match": 2.65,
     "home_wins": 54,
-    "draws": 53,
-    "away_wins": 35,
-    "home_win_pct": 38.0,
+    "draws": 54,
+    "away_wins": 36,
+    "home_win_pct": 37.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7194,7 +7139,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 12,
     "matches_current_season": 199,
-    "upcoming_matches": 40
+    "upcoming_matches": 37
   },
-  "updated_at": "2026/09/06"
+  "updated_at": "2026/09/07"
 }

@@ -216,18 +216,32 @@
         "position": 1,
         "team_id": "ast_beb2b09557624dd092d1e5a5a8702216",
         "team": "Puskas Academy",
-        "played": 6,
+        "played": 7,
         "wins": 4,
         "draws": 0,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 10,
-        "goals_against": 8,
-        "goal_difference": 2,
+        "goals_against": 9,
+        "goal_difference": 1,
         "points": 12,
-        "form": "LWWWL"
+        "form": "LLWWW"
       },
       {
         "position": 2,
+        "team_id": "ast_f70751f58bf84c7aa6dbdaf0640030f7",
+        "team": "Gyor",
+        "played": 7,
+        "wins": 3,
+        "draws": 3,
+        "losses": 1,
+        "goals_for": 14,
+        "goals_against": 9,
+        "goal_difference": 5,
+        "points": 12,
+        "form": "WLDWD"
+      },
+      {
+        "position": 3,
         "team_id": "ast_26649f0f41334847bfb2d4559458cc0a",
         "team": "Vasas",
         "played": 7,
@@ -241,46 +255,32 @@
         "form": "WLLWW"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_affacc49668243e8b11157eb26fb7554",
         "team": "Ujpest",
-        "played": 6,
+        "played": 7,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
-        "goals_for": 13,
-        "goals_against": 10,
+        "goals_for": 15,
+        "goals_against": 12,
         "goal_difference": 3,
-        "points": 10,
-        "form": "WLDWW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_7c151e2569fb4f80b474a3a7bf328297",
-        "team": "Ferencvaros",
-        "played": 5,
-        "wins": 3,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
-        "points": 10,
-        "form": "WWWDL"
+        "points": 11,
+        "form": "DWLDW"
       },
       {
         "position": 5,
-        "team_id": "ast_f70751f58bf84c7aa6dbdaf0640030f7",
-        "team": "Gyor",
+        "team_id": "ast_7c151e2569fb4f80b474a3a7bf328297",
+        "team": "Ferencvaros",
         "played": 6,
-        "wins": 2,
-        "draws": 3,
+        "wins": 3,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 11,
+        "goals_for": 10,
         "goals_against": 7,
-        "goal_difference": 4,
-        "points": 9,
-        "form": "LDWDW"
+        "goal_difference": 3,
+        "points": 11,
+        "form": "DWWWD"
       },
       {
         "position": 6,
@@ -354,31 +354,31 @@
       },
       {
         "position": 11,
-        "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9",
-        "team": "Honved",
-        "played": 5,
-        "wins": 1,
-        "draws": 3,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
+        "team_id": "ast_a1eeef829ece494e9fa099134d0f526d",
+        "team": "Zalaegerszegi",
+        "played": 7,
+        "wins": 2,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 6,
+        "goals_against": 15,
+        "goal_difference": -9,
         "points": 6,
-        "form": "WLDDD"
+        "form": "WLLLL"
       },
       {
         "position": 12,
-        "team_id": "ast_a1eeef829ece494e9fa099134d0f526d",
-        "team": "Zalaegerszegi",
+        "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9",
+        "team": "Honved",
         "played": 6,
         "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 5,
-        "goals_against": 15,
-        "goal_difference": -10,
-        "points": 3,
-        "form": "LLLLW"
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 11,
+        "goal_difference": -1,
+        "points": 6,
+        "form": "LWLDD"
       }
     ],
     "zh": [
@@ -386,19 +386,34 @@
         "position": 1,
         "team_id": "ast_beb2b09557624dd092d1e5a5a8702216",
         "team": "普斯卡什学院",
-        "played": 6,
+        "played": 7,
         "wins": 4,
         "draws": 0,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 10,
-        "goals_against": 8,
-        "goal_difference": 2,
+        "goals_against": 9,
+        "goal_difference": 1,
         "points": 12,
-        "form": "LWWWL",
-        "form_label": "负胜胜胜负"
+        "form": "LLWWW",
+        "form_label": "负负胜胜胜"
       },
       {
         "position": 2,
+        "team_id": "ast_f70751f58bf84c7aa6dbdaf0640030f7",
+        "team": "吉尔",
+        "played": 7,
+        "wins": 3,
+        "draws": 3,
+        "losses": 1,
+        "goals_for": 14,
+        "goals_against": 9,
+        "goal_difference": 5,
+        "points": 12,
+        "form": "WLDWD",
+        "form_label": "胜负平胜平"
+      },
+      {
+        "position": 3,
         "team_id": "ast_26649f0f41334847bfb2d4559458cc0a",
         "team": "瓦萨什",
         "played": 7,
@@ -413,49 +428,34 @@
         "form_label": "胜负负胜胜"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_affacc49668243e8b11157eb26fb7554",
         "team": "乌伊佩斯特",
-        "played": 6,
+        "played": 7,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
-        "goals_for": 13,
-        "goals_against": 10,
+        "goals_for": 15,
+        "goals_against": 12,
         "goal_difference": 3,
-        "points": 10,
-        "form": "WLDWW",
-        "form_label": "胜负平胜胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_7c151e2569fb4f80b474a3a7bf328297",
-        "team": "费伦茨瓦罗斯",
-        "played": 5,
-        "wins": 3,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
-        "points": 10,
-        "form": "WWWDL",
-        "form_label": "胜胜胜平负"
+        "points": 11,
+        "form": "DWLDW",
+        "form_label": "平胜负平胜"
       },
       {
         "position": 5,
-        "team_id": "ast_f70751f58bf84c7aa6dbdaf0640030f7",
-        "team": "吉尔",
+        "team_id": "ast_7c151e2569fb4f80b474a3a7bf328297",
+        "team": "费伦茨瓦罗斯",
         "played": 6,
-        "wins": 2,
-        "draws": 3,
+        "wins": 3,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 11,
+        "goals_for": 10,
         "goals_against": 7,
-        "goal_difference": 4,
-        "points": 9,
-        "form": "LDWDW",
-        "form_label": "负平胜平胜"
+        "goal_difference": 3,
+        "points": 11,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
       },
       {
         "position": 6,
@@ -534,33 +534,33 @@
       },
       {
         "position": 11,
-        "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9",
-        "team": "霍恩维德",
-        "played": 5,
-        "wins": 1,
-        "draws": 3,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
+        "team_id": "ast_a1eeef829ece494e9fa099134d0f526d",
+        "team": "扎拉埃格尔塞吉",
+        "played": 7,
+        "wins": 2,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 6,
+        "goals_against": 15,
+        "goal_difference": -9,
         "points": 6,
-        "form": "WLDDD",
-        "form_label": "胜负平平平"
+        "form": "WLLLL",
+        "form_label": "胜负负负负"
       },
       {
         "position": 12,
-        "team_id": "ast_a1eeef829ece494e9fa099134d0f526d",
-        "team": "扎拉埃格尔塞吉",
+        "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9",
+        "team": "霍恩维德",
         "played": 6,
         "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 5,
-        "goals_against": 15,
-        "goal_difference": -10,
-        "points": 3,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 11,
+        "goal_difference": -1,
+        "points": 6,
+        "form": "LWLDD",
+        "form_label": "负胜负平平"
       }
     ]
   },
@@ -3725,7 +3725,7 @@
         "match_id": "as_660b1ee372bb4da59603aee8ce14bcff",
         "date": "2026-09-06",
         "time": "15:45",
-        "status": "15:45",
+        "status": "FT",
         "league": "匈牙利甲级联赛",
         "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
         "season": "2026/2027",
@@ -3737,13 +3737,16 @@
           "name": "乌伊佩斯特",
           "team_id": "ast_affacc49668243e8b11157eb26fb7554"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_302971d75b0648fd8f259dd805ff78a3",
         "date": "2026-09-06",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "匈牙利甲级联赛",
         "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
         "season": "2026/2027",
@@ -3755,13 +3758,16 @@
           "name": "霍恩维德",
           "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b0273fe5ff20499aa6a8aaa4f701eade",
         "date": "2026-09-06",
         "time": "13:30",
-        "status": "13:30",
+        "status": "FT",
         "league": "匈牙利甲级联赛",
         "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
         "season": "2026/2027",
@@ -3773,7 +3779,10 @@
           "name": "普斯卡什学院",
           "team_id": "ast_beb2b09557624dd092d1e5a5a8702216"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_426b92eb4e1741a7bb478d135c008a8d",
@@ -3835,7 +3844,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "鲁道夫·伊洛夫斯基体育场",
         "status_label": "完场"
       },
       {
@@ -4934,60 +4943,6 @@
         "ht_score": "-",
         "venue": "Pancho Arena",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b0273fe5ff20499aa6a8aaa4f701eade",
-        "date": "2026-09-06",
-        "time": "13:30",
-        "status": "13:30",
-        "league": "匈牙利甲级联赛",
-        "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
-        "season": "2026/2027",
-        "home": {
-          "name": "扎拉埃格尔塞吉",
-          "team_id": "ast_a1eeef829ece494e9fa099134d0f526d"
-        },
-        "away": {
-          "name": "普斯卡什学院",
-          "team_id": "ast_beb2b09557624dd092d1e5a5a8702216"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_302971d75b0648fd8f259dd805ff78a3",
-        "date": "2026-09-06",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "匈牙利甲级联赛",
-        "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
-        "season": "2026/2027",
-        "home": {
-          "name": "吉尔",
-          "team_id": "ast_f70751f58bf84c7aa6dbdaf0640030f7"
-        },
-        "away": {
-          "name": "霍恩维德",
-          "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_660b1ee372bb4da59603aee8ce14bcff",
-        "date": "2026-09-06",
-        "time": "15:45",
-        "status": "15:45",
-        "league": "匈牙利甲级联赛",
-        "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
-        "season": "2026/2027",
-        "home": {
-          "name": "费伦茨瓦罗斯",
-          "team_id": "ast_7c151e2569fb4f80b474a3a7bf328297"
-        },
-        "away": {
-          "name": "乌伊佩斯特",
-          "team_id": "ast_affacc49668243e8b11157eb26fb7554"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10081,13 +10036,13 @@
     }
   },
   "stats": {
-    "matches_completed": 38,
-    "total_goals": 124,
-    "avg_goals_per_match": 3.26,
-    "home_wins": 16,
-    "draws": 11,
+    "matches_completed": 41,
+    "total_goals": 134,
+    "avg_goals_per_match": 3.27,
+    "home_wins": 18,
+    "draws": 12,
     "away_wins": 11,
-    "home_win_pct": 42.1,
+    "home_win_pct": 43.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10115,7 +10070,7 @@
     "leader": {
       "team": "Puskas Academy",
       "points": 12,
-      "played": 6
+      "played": 7
     }
   },
   "coverage": {
@@ -10212,18 +10167,32 @@
             "position": 1,
             "team_id": "ast_beb2b09557624dd092d1e5a5a8702216",
             "team": "Puskas Academy",
-            "played": 6,
+            "played": 7,
             "wins": 4,
             "draws": 0,
-            "losses": 2,
+            "losses": 3,
             "goals_for": 10,
-            "goals_against": 8,
-            "goal_difference": 2,
+            "goals_against": 9,
+            "goal_difference": 1,
             "points": 12,
-            "form": "LWWWL"
+            "form": "LLWWW"
           },
           {
             "position": 2,
+            "team_id": "ast_f70751f58bf84c7aa6dbdaf0640030f7",
+            "team": "Gyor",
+            "played": 7,
+            "wins": 3,
+            "draws": 3,
+            "losses": 1,
+            "goals_for": 14,
+            "goals_against": 9,
+            "goal_difference": 5,
+            "points": 12,
+            "form": "WLDWD"
+          },
+          {
+            "position": 3,
             "team_id": "ast_26649f0f41334847bfb2d4559458cc0a",
             "team": "Vasas",
             "played": 7,
@@ -10235,20 +10204,6 @@
             "goal_difference": 4,
             "points": 11,
             "form": "WLLWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_affacc49668243e8b11157eb26fb7554",
-            "team": "Ujpest",
-            "played": 6,
-            "wins": 3,
-            "draws": 1,
-            "losses": 2,
-            "goals_for": 13,
-            "goals_against": 10,
-            "goal_difference": 3,
-            "points": 10,
-            "form": "WLDWW"
           }
         ],
         "meta": {
@@ -10885,7 +10840,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 12,
     "matches_current_season": 198,
-    "upcoming_matches": 21
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/09/06"
+  "updated_at": "2026/09/07"
 }

@@ -204,6 +204,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
+        "team": "Yverdon",
+        "played": 7,
+        "wins": 4,
+        "draws": 3,
+        "losses": 0,
+        "goals_for": 14,
+        "goals_against": 7,
+        "goal_difference": 7,
+        "points": 15,
+        "form": "WWDWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
         "team": "Winterthur",
         "played": 7,
@@ -215,20 +229,6 @@
         "goal_difference": 9,
         "points": 12,
         "form": "WDDWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
-        "team": "Yverdon",
-        "played": 6,
-        "wins": 3,
-        "draws": 3,
-        "losses": 0,
-        "goals_for": 10,
-        "goals_against": 6,
-        "goal_difference": 4,
-        "points": 12,
-        "form": "WDWWD"
       },
       {
         "position": 4,
@@ -318,15 +318,15 @@
         "position": 10,
         "team_id": "ast_e20d413e689b4715b4311ffe1f2e475e",
         "team": "Stade Nyonnais",
-        "played": 6,
+        "played": 7,
         "wins": 0,
         "draws": 2,
-        "losses": 4,
-        "goals_for": 4,
-        "goals_against": 11,
-        "goal_difference": -7,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 15,
+        "goal_difference": -10,
         "points": 2,
-        "form": "DLDLL"
+        "form": "LDLDL"
       }
     ],
     "zh": [
@@ -347,6 +347,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
+        "team": "伊夫尔登",
+        "played": 7,
+        "wins": 4,
+        "draws": 3,
+        "losses": 0,
+        "goals_for": 14,
+        "goals_against": 7,
+        "goal_difference": 7,
+        "points": 15,
+        "form": "WWDWW",
+        "form_label": "胜胜平胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
         "team": "温特图尔",
         "played": 7,
@@ -359,21 +374,6 @@
         "points": 12,
         "form": "WDDWW",
         "form_label": "胜平平胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
-        "team": "伊夫尔登",
-        "played": 6,
-        "wins": 3,
-        "draws": 3,
-        "losses": 0,
-        "goals_for": 10,
-        "goals_against": 6,
-        "goal_difference": 4,
-        "points": 12,
-        "form": "WDWWD",
-        "form_label": "胜平胜胜平"
       },
       {
         "position": 4,
@@ -469,16 +469,16 @@
         "position": 10,
         "team_id": "ast_e20d413e689b4715b4311ffe1f2e475e",
         "team": "尼永体育场",
-        "played": 6,
+        "played": 7,
         "wins": 0,
         "draws": 2,
-        "losses": 4,
-        "goals_for": 4,
-        "goals_against": 11,
-        "goal_difference": -7,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 15,
+        "goal_difference": -10,
         "points": 2,
-        "form": "DLDLL",
-        "form_label": "平负平负负"
+        "form": "LDLDL",
+        "form_label": "负平负平负"
       }
     ]
   },
@@ -1503,7 +1503,7 @@
         "match_id": "as_943726ce52a940ea8f6f6755dbf78688",
         "date": "2026-09-12",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1515,13 +1515,15 @@
           "name": "克里恩斯",
           "team_id": "ast_4b41e604443646059bca14daa382d07b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c7ed14625c2b4382aae74d46b68bd2ab",
         "date": "2026-09-11",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1533,13 +1535,15 @@
           "name": "维尔",
           "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "拉蓬泰斯奥林匹克体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_89308ea7cb284abf8c90f3080aa57b77",
         "date": "2026-09-11",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1551,13 +1555,15 @@
           "name": "伊夫尔登",
           "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6dc18983b3ca43318e986112d282ac4f",
         "date": "2026-09-11",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1569,13 +1575,15 @@
           "name": "夏马克",
           "team_id": "ast_fca8ce4dd0dc46c3b0618e71e296b2b9"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Colovray Sports Centre",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b2cda21de0d545d3aad8722a8c7e853a",
         "date": "2026-09-11",
         "time": "18:15",
-        "status": "18:15",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1587,13 +1595,15 @@
           "name": "温特图尔",
           "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "丰特内特体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_f10c8919f90a4021b505e77d9297f265",
         "date": "2026-09-06",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1605,7 +1615,10 @@
           "name": "尼永体育场",
           "team_id": "ast_e20d413e689b4715b4311ffe1f2e475e"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "4-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_12dba73c5bbf4223b76babf0ea57e62f",
@@ -1646,7 +1659,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "小田野体育场",
         "status_label": "完场"
       },
       {
@@ -1667,7 +1680,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "丰特内特体育场",
         "status_label": "完场"
       },
       {
@@ -2527,7 +2540,7 @@
         "match_id": "as_943726ce52a940ea8f6f6755dbf78688",
         "date": "2026-09-12",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -2539,13 +2552,15 @@
           "name": "克里恩斯",
           "team_id": "ast_4b41e604443646059bca14daa382d07b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b2cda21de0d545d3aad8722a8c7e853a",
         "date": "2026-09-11",
         "time": "18:15",
-        "status": "18:15",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -2557,13 +2572,15 @@
           "name": "温特图尔",
           "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "丰特内特体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6dc18983b3ca43318e986112d282ac4f",
         "date": "2026-09-11",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -2575,13 +2592,15 @@
           "name": "夏马克",
           "team_id": "ast_fca8ce4dd0dc46c3b0618e71e296b2b9"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Colovray Sports Centre",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_89308ea7cb284abf8c90f3080aa57b77",
         "date": "2026-09-11",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -2593,13 +2612,15 @@
           "name": "伊夫尔登",
           "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c7ed14625c2b4382aae74d46b68bd2ab",
         "date": "2026-09-11",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Not Started",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -2611,25 +2632,9 @@
           "name": "维尔",
           "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f10c8919f90a4021b505e77d9297f265",
-        "date": "2026-09-06",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞士挑战联赛",
-        "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
-        "season": "2026/2027",
-        "home": {
-          "name": "伊夫尔登",
-          "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea"
-        },
-        "away": {
-          "name": "尼永体育场",
-          "team_id": "ast_e20d413e689b4715b4311ffe1f2e475e"
-        },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "拉蓬泰斯奥林匹克体育场",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -5988,13 +5993,13 @@
     }
   },
   "stats": {
-    "matches_completed": 34,
-    "total_goals": 100,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 14,
+    "matches_completed": 35,
+    "total_goals": 105,
+    "avg_goals_per_match": 3.0,
+    "home_wins": 15,
     "draws": 10,
     "away_wins": 10,
-    "home_win_pct": 41.2,
+    "home_win_pct": 42.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6131,6 +6136,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
+            "team": "Yverdon",
+            "played": 7,
+            "wins": 4,
+            "draws": 3,
+            "losses": 0,
+            "goals_for": 14,
+            "goals_against": 7,
+            "goal_difference": 7,
+            "points": 15,
+            "form": "WWDWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
             "team": "Winterthur",
             "played": 7,
@@ -6142,20 +6161,6 @@
             "goal_difference": 9,
             "points": 12,
             "form": "WDDWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
-            "team": "Yverdon",
-            "played": 6,
-            "wins": 3,
-            "draws": 3,
-            "losses": 0,
-            "goals_for": 10,
-            "goals_against": 6,
-            "goal_difference": 4,
-            "points": 12,
-            "form": "WDWWD"
           }
         ],
         "meta": {
@@ -6792,7 +6797,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/09/06"
+  "updated_at": "2026/09/07"
 }
