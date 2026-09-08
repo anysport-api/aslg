@@ -5776,6 +5776,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_f991e512362e4928926461d569a94712",
+        "date": "2026-10-23",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "坦桑尼亚顶级联赛",
+        "league_id": "asl_a11b1f85315f4bc9b34f2424850b02fd",
+        "season": "2026/2027",
+        "home": {
+          "name": "坦桑尼亚警察队",
+          "team_id": "ast_abff6659628d4e1999ea935ae0f8ac6a"
+        },
+        "away": {
+          "name": "Pamba Jiji",
+          "team_id": "ast_04854f431773462bafa5fd7f8fed4370"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_0323bc4734bb4cd58f3e4ae08d6de15d",
         "date": "2026-10-18",
         "time": "16:00",
@@ -5893,26 +5913,6 @@
         },
         "ht_score": "-",
         "venue": "阿里·哈桑·姆温尼体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_cadd21b5e50d4793b5af7852fb026e47",
-        "date": "2026-10-12",
-        "time": "17:30",
-        "status": "Not Started",
-        "league": "坦桑尼亚顶级联赛",
-        "league_id": "asl_a11b1f85315f4bc9b34f2424850b02fd",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿扎姆",
-          "team_id": "ast_db3947b662754629945990457bb18e99"
-        },
-        "away": {
-          "name": "南蒙戈",
-          "team_id": "ast_1c42680c02d544c0bfd3eb85aa83d2c1"
-        },
-        "ht_score": "-",
-        "venue": "阿扎姆综合体育场",
         "status_label": "未开赛"
       },
       {
@@ -6219,7 +6219,7 @@
         "match_id": "as_f72b06fbd42a476b8b8b940af8483ecd",
         "date": "2026-09-08",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "坦桑尼亚顶级联赛",
         "league_id": "asl_a11b1f85315f4bc9b34f2424850b02fd",
         "season": "2026/2027",
@@ -6231,15 +6231,13 @@
           "name": "Geita Gold",
           "team_id": "ast_b87d2f1606364ace94e5e2fbfb9f07de"
         },
-        "ht_score": "-",
-        "venue": "KMC 体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8c18208578254c51bbc2c5ed6eff26ec",
         "date": "2026-09-08",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "坦桑尼亚顶级联赛",
         "league_id": "asl_a11b1f85315f4bc9b34f2424850b02fd",
         "season": "2026/2027",
@@ -6251,9 +6249,7 @@
           "name": "辛吉达黑星",
           "team_id": "ast_2bafd309bf274345bb5837f0718f9ef5"
         },
-        "ht_score": "-",
-        "venue": "坦噶尼喀湖体育场",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -9520,5 +9516,5 @@
     "matches_current_season": 246,
     "upcoming_matches": 24
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

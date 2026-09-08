@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_e4f93c074ca24496af8a18a941605999",
@@ -474,6 +474,26 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_c96d861fc1ac45caa70d8b5cfaee0df3",
+        "date": "2026-09-13",
+        "time": "04:00",
+        "status": "Not Started",
+        "league": "澳大利亚北部新南威尔士联赛",
+        "league_id": "asl_e4f93c074ca24496af8a18a941605999",
+        "season": "2026",
+        "home": {
+          "name": "韦斯顿熊队",
+          "team_id": "ast_fda2215b915145a7b48728940c7d27b0"
+        },
+        "away": {
+          "name": "梅特兰",
+          "team_id": "ast_de9d806e49884ad18aeded5c924ccc2c"
+        },
+        "ht_score": "-",
+        "venue": "罗克韦尔自动化公园",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_bace8991fdc84efdadd7bb4015fb2f0a",
         "date": "2026-09-06",
         "time": "05:00",
@@ -512,7 +532,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Fred Wright Oval",
         "status_label": "完场"
       },
       {
@@ -3459,7 +3479,28 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_c96d861fc1ac45caa70d8b5cfaee0df3",
+        "date": "2026-09-13",
+        "time": "04:00",
+        "status": "Not Started",
+        "league": "澳大利亚北部新南威尔士联赛",
+        "league_id": "asl_e4f93c074ca24496af8a18a941605999",
+        "season": "2026",
+        "home": {
+          "name": "韦斯顿熊队",
+          "team_id": "ast_fda2215b915145a7b48728940c7d27b0"
+        },
+        "away": {
+          "name": "梅特兰",
+          "team_id": "ast_de9d806e49884ad18aeded5c924ccc2c"
+        },
+        "ht_score": "-",
+        "venue": "罗克韦尔自动化公园",
+        "status_label": "未开赛"
+      }
+    ]
   },
   "champions": [
     {
@@ -5465,8 +5506,8 @@
     "distinct_title_holders": 4,
     "teams_all_time": 18,
     "standings_rows_current": 12,
-    "matches_current_season": 142,
-    "upcoming_matches": 0
+    "matches_current_season": 143,
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

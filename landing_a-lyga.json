@@ -246,29 +246,29 @@
         "position": 7,
         "team_id": "ast_7ad81465f99a4888844e24b7f0078817",
         "team": "FK Panevezys",
-        "played": 26,
-        "wins": 8,
+        "played": 27,
+        "wins": 9,
         "draws": 5,
         "losses": 13,
-        "goals_for": 26,
-        "goals_against": 41,
-        "goal_difference": -15,
-        "points": 29,
-        "form": "WWLLW"
+        "goals_for": 29,
+        "goals_against": 42,
+        "goal_difference": -13,
+        "points": 32,
+        "form": "WWWLL"
       },
       {
         "position": 8,
         "team_id": "ast_1b95a994a3144aeda795d6574b085324",
         "team": "Hegelmann",
-        "played": 26,
+        "played": 27,
         "wins": 4,
         "draws": 12,
-        "losses": 10,
-        "goals_for": 29,
-        "goals_against": 44,
-        "goal_difference": -15,
+        "losses": 11,
+        "goals_for": 30,
+        "goals_against": 47,
+        "goal_difference": -17,
         "points": 24,
-        "form": "DDLLL"
+        "form": "LDDLL"
       },
       {
         "position": 9,
@@ -394,31 +394,31 @@
         "position": 7,
         "team_id": "ast_7ad81465f99a4888844e24b7f0078817",
         "team": "帕尔讷维兹斯足球俱乐部",
-        "played": 26,
-        "wins": 8,
+        "played": 27,
+        "wins": 9,
         "draws": 5,
         "losses": 13,
-        "goals_for": 26,
-        "goals_against": 41,
-        "goal_difference": -15,
-        "points": 29,
-        "form": "WWLLW",
-        "form_label": "胜胜负负胜"
+        "goals_for": 29,
+        "goals_against": 42,
+        "goal_difference": -13,
+        "points": 32,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
       },
       {
         "position": 8,
         "team_id": "ast_1b95a994a3144aeda795d6574b085324",
         "team": "黑格尔曼",
-        "played": 26,
+        "played": 27,
         "wins": 4,
         "draws": 12,
-        "losses": 10,
-        "goals_for": 29,
-        "goals_against": 44,
-        "goal_difference": -15,
+        "losses": 11,
+        "goals_for": 30,
+        "goals_against": 47,
+        "goal_difference": -17,
         "points": 24,
-        "form": "DDLLL",
-        "form_label": "平平负负负"
+        "form": "LDDLL",
+        "form_label": "负平平负负"
       },
       {
         "position": 9,
@@ -992,7 +992,7 @@
         "match_id": "as_c5112a30014142f28571f7658e61bb2f",
         "date": "2026-09-09",
         "time": "15:45",
-        "status": "Not Started",
+        "status": "15:45",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1004,15 +1004,13 @@
           "name": "苏杜瓦",
           "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c09c78901a4c46688bd6e9144c783736",
         "date": "2026-09-07",
         "time": "15:45",
-        "status": "15:45",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -1024,7 +1022,10 @@
           "name": "帕尔讷维兹斯足球俱乐部",
           "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d98841bb15fd457db86993c61588e226",
@@ -4105,7 +4106,7 @@
         "match_id": "as_c5112a30014142f28571f7658e61bb2f",
         "date": "2026-09-09",
         "time": "15:45",
-        "status": "Not Started",
+        "status": "15:45",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -4116,26 +4117,6 @@
         "away": {
           "name": "苏杜瓦",
           "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c09c78901a4c46688bd6e9144c783736",
-        "date": "2026-09-07",
-        "time": "15:45",
-        "status": "15:45",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
-        "season": "2026",
-        "home": {
-          "name": "黑格尔曼",
-          "team_id": "ast_1b95a994a3144aeda795d6574b085324"
-        },
-        "away": {
-          "name": "帕尔讷维兹斯足球俱乐部",
-          "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
         },
         "venue": ""
       }
@@ -7566,13 +7547,13 @@
     }
   },
   "stats": {
-    "matches_completed": 133,
-    "total_goals": 352,
-    "avg_goals_per_match": 2.65,
+    "matches_completed": 134,
+    "total_goals": 356,
+    "avg_goals_per_match": 2.66,
     "home_wins": 53,
     "draws": 37,
-    "away_wins": 43,
-    "home_win_pct": 39.8,
+    "away_wins": 44,
+    "home_win_pct": 39.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8370,7 +8351,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 161,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

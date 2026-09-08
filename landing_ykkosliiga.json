@@ -140,29 +140,29 @@
         "position": 8,
         "team_id": "ast_bd9abe28067148759889e10468308235",
         "team": "Klubi 04",
-        "played": 21,
+        "played": 22,
         "wins": 4,
-        "draws": 7,
+        "draws": 8,
         "losses": 10,
-        "goals_for": 25,
-        "goals_against": 29,
+        "goals_for": 27,
+        "goals_against": 31,
         "goal_difference": -4,
-        "points": 19,
-        "form": "WWDLL"
+        "points": 20,
+        "form": "DWWDL"
       },
       {
         "position": 9,
         "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89",
         "team": "KaPa",
-        "played": 21,
+        "played": 22,
         "wins": 4,
-        "draws": 5,
+        "draws": 6,
         "losses": 12,
-        "goals_for": 21,
-        "goals_against": 35,
+        "goals_for": 23,
+        "goals_against": 37,
         "goal_difference": -14,
-        "points": 17,
-        "form": "DLLLL"
+        "points": 18,
+        "form": "DDLLL"
       },
       {
         "position": 10,
@@ -289,31 +289,31 @@
         "position": 8,
         "team_id": "ast_bd9abe28067148759889e10468308235",
         "team": "克鲁比04",
-        "played": 21,
+        "played": 22,
         "wins": 4,
-        "draws": 7,
+        "draws": 8,
         "losses": 10,
-        "goals_for": 25,
-        "goals_against": 29,
+        "goals_for": 27,
+        "goals_against": 31,
         "goal_difference": -4,
-        "points": 19,
-        "form": "WWDLL",
-        "form_label": "胜胜平负负"
+        "points": 20,
+        "form": "DWWDL",
+        "form_label": "平胜胜平负"
       },
       {
         "position": 9,
         "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89",
         "team": "KaPa",
-        "played": 21,
+        "played": 22,
         "wins": 4,
-        "draws": 5,
+        "draws": 6,
         "losses": 12,
-        "goals_for": 21,
-        "goals_against": 35,
+        "goals_for": 23,
+        "goals_against": 37,
         "goal_difference": -14,
-        "points": 17,
-        "form": "DLLLL",
-        "form_label": "平负负负负"
+        "points": 18,
+        "form": "DDLLL",
+        "form_label": "平平负负负"
       },
       {
         "position": 10,
@@ -853,7 +853,7 @@
         "match_id": "as_fae0a60b86c74eb39802e5950349b162",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "芬兰Ykkosliiga联赛",
         "league_id": "asl_5201d28389174ce38a373739cde2a252",
         "season": "2026",
@@ -865,7 +865,10 @@
           "name": "KaPa",
           "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d6729aec50514e1cb66b0e181e2dcf45",
@@ -906,7 +909,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "OmaSp Stadion",
         "status_label": "完场"
       },
       {
@@ -3657,24 +3660,6 @@
         "ht_score": "-",
         "venue": "阿尔托·托尔萨竞技场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fae0a60b86c74eb39802e5950349b162",
-        "date": "2026-09-07",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "芬兰Ykkosliiga联赛",
-        "league_id": "asl_5201d28389174ce38a373739cde2a252",
-        "season": "2026",
-        "home": {
-          "name": "克鲁比04",
-          "team_id": "ast_bd9abe28067148759889e10468308235"
-        },
-        "away": {
-          "name": "KaPa",
-          "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4220,13 +4205,13 @@
     }
   },
   "stats": {
-    "matches_completed": 109,
-    "total_goals": 275,
-    "avg_goals_per_match": 2.52,
+    "matches_completed": 110,
+    "total_goals": 279,
+    "avg_goals_per_match": 2.54,
     "home_wins": 45,
-    "draws": 23,
+    "draws": 24,
     "away_wins": 41,
-    "home_win_pct": 41.3,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -5024,7 +5009,7 @@
     "teams_all_time": 14,
     "standings_rows_current": 10,
     "matches_current_season": 135,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

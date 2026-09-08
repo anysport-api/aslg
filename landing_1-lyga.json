@@ -198,15 +198,15 @@
         "position": 4,
         "team_id": "ast_e24ba1e6b2434937854c5e6966e3451c",
         "team": "Neptunas",
-        "played": 22,
+        "played": 23,
         "wins": 13,
         "draws": 2,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 30,
-        "goals_against": 27,
-        "goal_difference": 3,
+        "goals_against": 28,
+        "goal_difference": 2,
         "points": 41,
-        "form": "WLLWW"
+        "form": "LWLLW"
       },
       {
         "position": 5,
@@ -224,6 +224,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326",
+        "team": "Zalgiris 2",
+        "played": 23,
+        "wins": 12,
+        "draws": 4,
+        "losses": 7,
+        "goals_for": 37,
+        "goals_against": 31,
+        "goal_difference": 6,
+        "points": 40,
+        "form": "WWWWW"
+      },
+      {
+        "position": 7,
         "team_id": "ast_8d12c8f384b14888b20a2a980b89057b",
         "team": "BFA Vilnius",
         "played": 23,
@@ -235,20 +249,6 @@
         "goal_difference": 3,
         "points": 39,
         "form": "WDWDW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326",
-        "team": "Zalgiris 2",
-        "played": 22,
-        "wins": 11,
-        "draws": 4,
-        "losses": 7,
-        "goals_for": 36,
-        "goals_against": 31,
-        "goal_difference": 5,
-        "points": 37,
-        "form": "WWWWD"
       },
       {
         "position": 8,
@@ -427,16 +427,16 @@
         "position": 4,
         "team_id": "ast_e24ba1e6b2434937854c5e6966e3451c",
         "team": "内普图纳斯",
-        "played": 22,
+        "played": 23,
         "wins": 13,
         "draws": 2,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 30,
-        "goals_against": 27,
-        "goal_difference": 3,
+        "goals_against": 28,
+        "goal_difference": 2,
         "points": 41,
-        "form": "WLLWW",
-        "form_label": "胜负负胜胜"
+        "form": "LWLLW",
+        "form_label": "负胜负负胜"
       },
       {
         "position": 5,
@@ -455,6 +455,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326",
+        "team": "扎尔吉里斯二队",
+        "played": 23,
+        "wins": 12,
+        "draws": 4,
+        "losses": 7,
+        "goals_for": 37,
+        "goals_against": 31,
+        "goal_difference": 6,
+        "points": 40,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 7,
         "team_id": "ast_8d12c8f384b14888b20a2a980b89057b",
         "team": "维尔纽斯BFA",
         "played": 23,
@@ -467,21 +482,6 @@
         "points": 39,
         "form": "WDWDW",
         "form_label": "胜平胜平胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326",
-        "team": "扎尔吉里斯二队",
-        "played": 22,
-        "wins": 11,
-        "draws": 4,
-        "losses": 7,
-        "goals_for": 36,
-        "goals_against": 31,
-        "goal_difference": 5,
-        "points": 37,
-        "form": "WWWWD",
-        "form_label": "胜胜胜胜平"
       },
       {
         "position": 8,
@@ -1801,7 +1801,7 @@
         "match_id": "as_1b5963c6b60f4467b3a8dd7fb3c47878",
         "date": "2026-09-07",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -1813,7 +1813,10 @@
           "name": "内普图纳斯",
           "team_id": "ast_e24ba1e6b2434937854c5e6966e3451c"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b2e637c82a2f445781bc9db8acf96918",
@@ -5598,6 +5601,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_5539119bd88e44b587f21f5297c3c274",
+        "date": "2026-10-23",
+        "time": "16:30",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "加尔利亚瓦",
+          "team_id": "ast_fafe3def811d43398c9253272e2cd4a2"
+        },
+        "away": {
+          "name": "扎尔吉里斯二队",
+          "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_e82f88d119494e61afe054ea738bf3c5",
         "date": "2026-10-17",
         "time": "16:00",
@@ -6256,24 +6279,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_1b5963c6b60f4467b3a8dd7fb3c47878",
-        "date": "2026-09-07",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "扎尔吉里斯二队",
-          "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326"
-        },
-        "away": {
-          "name": "内普图纳斯",
-          "team_id": "ast_e24ba1e6b2434937854c5e6966e3451c"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10173,13 +10178,13 @@
     }
   },
   "stats": {
-    "matches_completed": 180,
-    "total_goals": 507,
-    "avg_goals_per_match": 2.82,
-    "home_wins": 92,
+    "matches_completed": 181,
+    "total_goals": 508,
+    "avg_goals_per_match": 2.81,
+    "home_wins": 93,
     "draws": 27,
     "away_wins": 61,
-    "home_win_pct": 51.1,
+    "home_win_pct": 51.4,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10942,5 +10947,5 @@
     "matches_current_season": 239,
     "upcoming_matches": 34
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

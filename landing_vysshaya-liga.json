@@ -1291,7 +1291,7 @@
         "match_id": "as_7a166e787df942d2a1e86b15e0eb6d1a",
         "date": "2026-09-06",
         "time": "13:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -1303,10 +1303,9 @@
           "name": "埃斯克哈塔",
           "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
         },
-        "ht_score": "0-0",
-        "reg_score": "1-0",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b122146124bb48f1a36c332b3ae56c39",
@@ -3218,6 +3217,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_6345dfc948e74d359cf58712c3fe1254",
+        "date": "2026-10-23",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "塔吉克斯坦Vysshaya Liga",
+        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
+        "season": "2026",
+        "home": {
+          "name": "萨尔多尔·图尔孙佐达",
+          "team_id": "ast_ed5e7f70ea9f45ff9117b58ec0a4cccc"
+        },
+        "away": {
+          "name": "伊斯塔拉夫尚",
+          "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8b5418f343e44d21b5bf34d6a9a66216",
+        "date": "2026-10-23",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "塔吉克斯坦Vysshaya Liga",
+        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
+        "season": "2026",
+        "home": {
+          "name": "帕尔沃兹-机场胡贾德",
+          "team_id": "ast_ca471186d42445a189119d7b6938cb17"
+        },
+        "away": {
+          "name": "巴尔基奇希索尔",
+          "team_id": "ast_6457475ae9194c228f139f98870a95ab"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_6edcf4192fc64d9fac20da8c7eaf38a2",
         "date": "2026-10-18",
         "time": "12:00",
@@ -5054,13 +5093,13 @@
     }
   },
   "stats": {
-    "matches_completed": 90,
-    "total_goals": 230,
-    "avg_goals_per_match": 2.56,
-    "home_wins": 36,
+    "matches_completed": 89,
+    "total_goals": 229,
+    "avg_goals_per_match": 2.57,
+    "home_wins": 35,
     "draws": 25,
     "away_wins": 29,
-    "home_win_pct": 40.0,
+    "home_win_pct": 39.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -5821,7 +5860,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 22
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

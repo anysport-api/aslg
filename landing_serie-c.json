@@ -1117,7 +1117,7 @@
         "match_id": "as_533761e53579492b9c912a6138c47bd4",
         "date": "2026-09-07",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -1129,7 +1129,10 @@
           "name": "布鲁斯克",
           "team_id": "ast_78b06997534745c381c37f6cf0ec31c1"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_172a3ecdbca04743a3226c088e77808a",
@@ -5577,24 +5580,6 @@
           "team_id": "ast_8ac3b3a72ff84664841a52f80e1131e4"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_533761e53579492b9c912a6138c47bd4",
-        "date": "2026-09-07",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "佩桑杜",
-          "team_id": "ast_33a966d65b14420c99a3f62c1db9084e"
-        },
-        "away": {
-          "name": "布鲁斯克",
-          "team_id": "ast_78b06997534745c381c37f6cf0ec31c1"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7551,13 +7536,13 @@
     }
   },
   "stats": {
-    "matches_completed": 193,
-    "total_goals": 439,
-    "avg_goals_per_match": 2.27,
+    "matches_completed": 194,
+    "total_goals": 442,
+    "avg_goals_per_match": 2.28,
     "home_wins": 90,
     "draws": 52,
-    "away_wins": 51,
-    "home_win_pct": 46.6,
+    "away_wins": 52,
+    "home_win_pct": 46.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8355,7 +8340,7 @@
     "teams_all_time": 49,
     "standings_rows_current": 20,
     "matches_current_season": 214,
-    "upcoming_matches": 21
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

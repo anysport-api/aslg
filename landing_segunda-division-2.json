@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
@@ -154,6 +154,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_5206e696fb5446c086911259c84d13ba",
+        "team": "Plaza Colonia",
+        "played": 23,
+        "wins": 11,
+        "draws": 6,
+        "losses": 6,
+        "goals_for": 31,
+        "goals_against": 18,
+        "goal_difference": 13,
+        "points": 39,
+        "form": "WLDWD"
+      },
+      {
+        "position": 2,
         "team_id": "ast_ed004bd5651946339e7caa485f4eda48",
         "team": "Atenas",
         "played": 55,
@@ -167,7 +181,7 @@
         "form": "WLDWW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
         "team": "Colon",
         "played": 55,
@@ -179,20 +193,6 @@
         "goal_difference": 24,
         "points": 91,
         "form": "WWDWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_5206e696fb5446c086911259c84d13ba",
-        "team": "Plaza Colonia",
-        "played": 22,
-        "wins": 10,
-        "draws": 6,
-        "losses": 6,
-        "goals_for": 30,
-        "goals_against": 18,
-        "goal_difference": 12,
-        "points": 36,
-        "form": "LDWDW"
       },
       {
         "position": 4,
@@ -324,15 +324,15 @@
         "position": 13,
         "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41",
         "team": "Uruguay Montevideo",
-        "played": 54,
+        "played": 55,
         "wins": 13,
         "draws": 12,
-        "losses": 29,
+        "losses": 30,
         "goals_for": 47,
-        "goals_against": 77,
-        "goal_difference": -30,
+        "goals_against": 78,
+        "goal_difference": -31,
         "points": 51,
-        "form": "DLLWW"
+        "form": "LDLLW"
       },
       {
         "position": 14,
@@ -351,6 +351,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_5206e696fb5446c086911259c84d13ba",
+        "team": "普拉萨科隆尼亚",
+        "played": 23,
+        "wins": 11,
+        "draws": 6,
+        "losses": 6,
+        "goals_for": 31,
+        "goals_against": 18,
+        "goal_difference": 13,
+        "points": 39,
+        "form": "WLDWD",
+        "form_label": "胜负平胜平"
+      },
+      {
+        "position": 2,
         "team_id": "ast_ed004bd5651946339e7caa485f4eda48",
         "team": "阿特纳斯",
         "played": 55,
@@ -365,7 +380,7 @@
         "form_label": "胜负平胜胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
         "team": "科隆",
         "played": 55,
@@ -378,21 +393,6 @@
         "points": 91,
         "form": "WWDWW",
         "form_label": "胜胜平胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_5206e696fb5446c086911259c84d13ba",
-        "team": "普拉萨科隆尼亚",
-        "played": 22,
-        "wins": 10,
-        "draws": 6,
-        "losses": 6,
-        "goals_for": 30,
-        "goals_against": 18,
-        "goal_difference": 12,
-        "points": 36,
-        "form": "LDWDW",
-        "form_label": "负平胜平胜"
       },
       {
         "position": 4,
@@ -533,16 +533,16 @@
         "position": 13,
         "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41",
         "team": "乌拉圭蒙得维的亚",
-        "played": 54,
+        "played": 55,
         "wins": 13,
         "draws": 12,
-        "losses": 29,
+        "losses": 30,
         "goals_for": 47,
-        "goals_against": 77,
-        "goal_difference": -30,
+        "goals_against": 78,
+        "goal_difference": -31,
         "points": 51,
-        "form": "DLLWW",
-        "form_label": "平负负胜胜"
+        "form": "LDLLW",
+        "form_label": "负平负负胜"
       },
       {
         "position": 14,
@@ -581,7 +581,7 @@
         "match_id": "as_a4464b060410403a8092357767011163",
         "date": "2026-09-07",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -593,7 +593,10 @@
           "name": "乌拉圭蒙得维的亚",
           "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_59fde185a4c9453daf05e1bb10db92ab",
@@ -697,7 +700,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "巴勒莫公园",
         "status_label": "完场"
       },
       {
@@ -3977,26 +3980,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_a4464b060410403a8092357767011163",
-        "date": "2026-09-07",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "乌拉圭乙级联赛",
-        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
-        "season": "2026",
-        "home": {
-          "name": "普拉萨科隆尼亚",
-          "team_id": "ast_5206e696fb5446c086911259c84d13ba"
-        },
-        "away": {
-          "name": "乌拉圭蒙得维的亚",
-          "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -7550,13 +7534,13 @@
     }
   },
   "stats": {
-    "matches_completed": 161,
-    "total_goals": 373,
-    "avg_goals_per_match": 2.32,
-    "home_wins": 67,
+    "matches_completed": 162,
+    "total_goals": 374,
+    "avg_goals_per_match": 2.31,
+    "home_wins": 68,
     "draws": 50,
     "away_wins": 44,
-    "home_win_pct": 41.6,
+    "home_win_pct": 42.0,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7582,9 +7566,9 @@
       }
     },
     "leader": {
-      "team": "Atenas",
-      "points": 93,
-      "played": 55
+      "team": "Plaza Colonia",
+      "points": 39,
+      "played": 23
     }
   },
   "coverage": {
@@ -7679,6 +7663,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_5206e696fb5446c086911259c84d13ba",
+            "team": "Plaza Colonia",
+            "played": 23,
+            "wins": 11,
+            "draws": 6,
+            "losses": 6,
+            "goals_for": 31,
+            "goals_against": 18,
+            "goal_difference": 13,
+            "points": 39,
+            "form": "WLDWD"
+          },
+          {
+            "position": 2,
             "team_id": "ast_ed004bd5651946339e7caa485f4eda48",
             "team": "Atenas",
             "played": 55,
@@ -7692,7 +7690,7 @@
             "form": "WLDWW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
             "team": "Colon",
             "played": 55,
@@ -7704,20 +7702,6 @@
             "goal_difference": 24,
             "points": 91,
             "form": "WWDWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_5206e696fb5446c086911259c84d13ba",
-            "team": "Plaza Colonia",
-            "played": 22,
-            "wins": 10,
-            "draws": 6,
-            "losses": 6,
-            "goals_for": 30,
-            "goals_against": 18,
-            "goal_difference": 12,
-            "points": 36,
-            "form": "LDWDW"
           }
         ],
         "meta": {
@@ -8320,7 +8304,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 14,
     "matches_current_season": 162,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

@@ -210,6 +210,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
+        "team": "Provincial Ovalle",
+        "played": 4,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 2,
+        "goals_against": 2,
+        "goal_difference": 0,
+        "points": 5,
+        "form": "WDDL"
+      },
+      {
+        "position": 12,
         "team_id": "ast_2cb4e35e699849a69375bc980a268660",
         "team": "General Velasquez",
         "played": 4,
@@ -223,7 +237,7 @@
         "form": "DDWL"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_09bf08e1d36c49bf95bd903d049deb67",
         "team": "Real San Joaquin",
         "played": 4,
@@ -237,32 +251,18 @@
         "form": "DLDD"
       },
       {
-        "position": 13,
-        "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
-        "team": "Provincial Ovalle",
-        "played": 3,
-        "wins": 0,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 1,
-        "goals_against": 2,
-        "goal_difference": -1,
-        "points": 2,
-        "form": "DDL"
-      },
-      {
         "position": 14,
         "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
         "team": "Atletico Colina",
-        "played": 3,
+        "played": 4,
         "wins": 0,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 1,
-        "goals_against": 3,
-        "goal_difference": -2,
+        "goals_against": 4,
+        "goal_difference": -3,
         "points": 1,
-        "form": "DLL"
+        "form": "LDLL"
       }
     ],
     "zh": [
@@ -418,6 +418,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
+        "team": "省级奥瓦列",
+        "played": 4,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 2,
+        "goals_against": 2,
+        "goal_difference": 0,
+        "points": 5,
+        "form": "WDDL",
+        "form_label": "胜平平负"
+      },
+      {
+        "position": 12,
         "team_id": "ast_2cb4e35e699849a69375bc980a268660",
         "team": "维拉斯克斯将军",
         "played": 4,
@@ -432,7 +447,7 @@
         "form_label": "平平胜负"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_09bf08e1d36c49bf95bd903d049deb67",
         "team": "皇家圣华金",
         "played": 4,
@@ -447,34 +462,19 @@
         "form_label": "平负平平"
       },
       {
-        "position": 13,
-        "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
-        "team": "省级奥瓦列",
-        "played": 3,
-        "wins": 0,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 1,
-        "goals_against": 2,
-        "goal_difference": -1,
-        "points": 2,
-        "form": "DDL",
-        "form_label": "平平负"
-      },
-      {
         "position": 14,
         "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
         "team": "科利纳竞技",
-        "played": 3,
+        "played": 4,
         "wins": 0,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 1,
-        "goals_against": 3,
-        "goal_difference": -2,
+        "goals_against": 4,
+        "goal_difference": -3,
         "points": 1,
-        "form": "DLL",
-        "form_label": "平负负"
+        "form": "LDLL",
+        "form_label": "负平负负"
       }
     ]
   },
@@ -1579,7 +1579,7 @@
         "match_id": "as_5885c156347c4a6e960b590d1dda2c0c",
         "date": "2026-09-07",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "智利乙级联赛",
         "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
         "season": "2026",
@@ -1591,7 +1591,10 @@
           "name": "科利纳竞技",
           "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e6fa601cee3e40fdac2247bdccc9ab66",
@@ -1611,7 +1614,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "萨拉曼卡市立体育场",
         "status_label": "完场"
       },
       {
@@ -1632,7 +1635,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Estadio Municipal Guillermo Guzman Diaz",
         "status_label": "完场"
       },
       {
@@ -4367,24 +4370,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5885c156347c4a6e960b590d1dda2c0c",
-        "date": "2026-09-07",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "智利乙级联赛",
-        "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
-        "season": "2026",
-        "home": {
-          "name": "省级奥瓦列",
-          "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24"
-        },
-        "away": {
-          "name": "科利纳竞技",
-          "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5949,13 +5934,13 @@
     }
   },
   "stats": {
-    "matches_completed": 114,
-    "total_goals": 257,
-    "avg_goals_per_match": 2.25,
-    "home_wins": 40,
+    "matches_completed": 115,
+    "total_goals": 258,
+    "avg_goals_per_match": 2.24,
+    "home_wins": 41,
     "draws": 37,
     "away_wins": 37,
-    "home_win_pct": 35.1,
+    "home_win_pct": 35.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6753,7 +6738,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 14,
     "matches_current_season": 170,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

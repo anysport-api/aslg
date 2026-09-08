@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
@@ -244,18 +244,32 @@
         "position": 6,
         "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1",
         "team": "Estudiantes Merida",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 3,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
+        "goals_against": 9,
+        "goal_difference": -1,
         "points": 12,
-        "form": "DWDWL"
+        "form": "LDWDW"
       },
       {
         "position": 7,
+        "team_id": "ast_0e7297d7db7248379bbc957f3af0388b",
+        "team": "Carabobo",
+        "played": 8,
+        "wins": 3,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 8,
+        "goals_against": 7,
+        "goal_difference": 1,
+        "points": 11,
+        "form": "WLDDW"
+      },
+      {
+        "position": 8,
         "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3",
         "team": "Caracas",
         "played": 8,
@@ -267,20 +281,6 @@
         "goal_difference": -1,
         "points": 10,
         "form": "WDDDW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_0e7297d7db7248379bbc957f3af0388b",
-        "team": "Carabobo",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 7,
-        "goals_against": 7,
-        "goal_difference": 0,
-        "points": 8,
-        "form": "LDDWL"
       },
       {
         "position": 9,
@@ -447,19 +447,34 @@
         "position": 6,
         "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1",
         "team": "梅里达学生队",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 3,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
+        "goals_against": 9,
+        "goal_difference": -1,
         "points": 12,
-        "form": "DWDWL",
-        "form_label": "平胜平胜负"
+        "form": "LDWDW",
+        "form_label": "负平胜平胜"
       },
       {
         "position": 7,
+        "team_id": "ast_0e7297d7db7248379bbc957f3af0388b",
+        "team": "卡拉博博",
+        "played": 8,
+        "wins": 3,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 8,
+        "goals_against": 7,
+        "goal_difference": 1,
+        "points": 11,
+        "form": "WLDDW",
+        "form_label": "胜负平平胜"
+      },
+      {
+        "position": 8,
         "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3",
         "team": "加拉加斯",
         "played": 8,
@@ -472,21 +487,6 @@
         "points": 10,
         "form": "WDDDW",
         "form_label": "胜平平平胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_0e7297d7db7248379bbc957f3af0388b",
-        "team": "卡拉博博",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 7,
-        "goals_against": 7,
-        "goal_difference": 0,
-        "points": 8,
-        "form": "LDDWL",
-        "form_label": "负平平胜负"
       },
       {
         "position": 9,
@@ -923,7 +923,7 @@
         "match_id": "as_b281d13376e44d3cb417858f52ec38d7",
         "date": "2026-09-07",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -935,13 +935,16 @@
           "name": "梅里达学生队",
           "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9663cafe97ef45a5a57a61148ac39d61",
         "date": "2026-09-07",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -953,7 +956,10 @@
           "name": "普埃尔托·卡贝略",
           "team_id": "ast_459053da836741c89d2b6b65c731e190"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_34f683f6199b4e9a94077d94ddbfeb51",
@@ -1057,7 +1063,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Estadio General Jose Antonio Paez",
         "status_label": "完场"
       },
       {
@@ -4526,44 +4532,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_9663cafe97ef45a5a57a61148ac39d61",
-        "date": "2026-09-07",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "中央大学",
-          "team_id": "ast_242d403bab88400ea3323985d0abadb6"
-        },
-        "away": {
-          "name": "普埃尔托·卡贝略",
-          "team_id": "ast_459053da836741c89d2b6b65c731e190"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b281d13376e44d3cb417858f52ec38d7",
-        "date": "2026-09-07",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "卡拉博博",
-          "team_id": "ast_0e7297d7db7248379bbc957f3af0388b"
-        },
-        "away": {
-          "name": "梅里达学生队",
-          "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -10159,13 +10128,13 @@
     }
   },
   "stats": {
-    "matches_completed": 170,
-    "total_goals": 436,
-    "avg_goals_per_match": 2.56,
-    "home_wins": 75,
-    "draws": 48,
+    "matches_completed": 172,
+    "total_goals": 437,
+    "avg_goals_per_match": 2.54,
+    "home_wins": 76,
+    "draws": 49,
     "away_wins": 47,
-    "home_win_pct": 44.1,
+    "home_win_pct": 44.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10979,7 +10948,7 @@
     "teams_all_time": 40,
     "standings_rows_current": 14,
     "matches_current_season": 172,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

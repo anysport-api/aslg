@@ -72,15 +72,15 @@
         "position": 1,
         "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
         "team": "Cavalry",
-        "played": 19,
-        "wins": 13,
+        "played": 20,
+        "wins": 14,
         "draws": 4,
         "losses": 2,
-        "goals_for": 37,
-        "goals_against": 11,
-        "goal_difference": 26,
-        "points": 43,
-        "form": "WWWDW"
+        "goals_for": 40,
+        "goals_against": 12,
+        "goal_difference": 28,
+        "points": 46,
+        "form": "WWWWD"
       },
       {
         "position": 2,
@@ -142,15 +142,15 @@
         "position": 6,
         "team_id": "ast_570e22319b7a495c89c79b071111007b",
         "team": "HFX Wanderers",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 5,
-        "losses": 10,
-        "goals_for": 28,
-        "goals_against": 34,
-        "goal_difference": -6,
+        "losses": 11,
+        "goals_for": 29,
+        "goals_against": 37,
+        "goal_difference": -8,
         "points": 20,
-        "form": "LWLLD"
+        "form": "LLWLL"
       },
       {
         "position": 7,
@@ -186,16 +186,16 @@
         "position": 1,
         "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
         "team": "骑兵",
-        "played": 19,
-        "wins": 13,
+        "played": 20,
+        "wins": 14,
         "draws": 4,
         "losses": 2,
-        "goals_for": 37,
-        "goals_against": 11,
-        "goal_difference": 26,
-        "points": 43,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
+        "goals_for": 40,
+        "goals_against": 12,
+        "goal_difference": 28,
+        "points": 46,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
       },
       {
         "position": 2,
@@ -261,16 +261,16 @@
         "position": 6,
         "team_id": "ast_570e22319b7a495c89c79b071111007b",
         "team": "HFX流浪者",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 5,
-        "losses": 10,
-        "goals_for": 28,
-        "goals_against": 34,
-        "goal_difference": -6,
+        "losses": 11,
+        "goals_for": 29,
+        "goals_against": 37,
+        "goal_difference": -8,
         "points": 20,
-        "form": "LWLLD",
-        "form_label": "负胜负负平"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 7,
@@ -945,7 +945,7 @@
         "match_id": "as_e18f02fdd968490dad6bb5a822e31514",
         "date": "2026-09-09",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -957,15 +957,13 @@
           "name": "太平洋FC",
           "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
         },
-        "ht_score": "-",
-        "venue": "约克雄狮体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ae7ba83c683f4d2fb459e61d08d83557",
         "date": "2026-09-07",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -977,7 +975,10 @@
           "name": "骑兵",
           "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4776930da9244733b21fd93fe993c67f",
@@ -997,7 +998,7 @@
         },
         "ht_score": "2-2",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Willoughby Community Park Stadium",
         "status_label": "完场"
       },
       {
@@ -1039,7 +1040,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Tim Hortons Field",
         "status_label": "完场"
       },
       {
@@ -3184,7 +3185,7 @@
         "match_id": "as_e18f02fdd968490dad6bb5a822e31514",
         "date": "2026-09-09",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -3195,26 +3196,6 @@
         "away": {
           "name": "太平洋FC",
           "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
-        },
-        "ht_score": "-",
-        "venue": "约克雄狮体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ae7ba83c683f4d2fb459e61d08d83557",
-        "date": "2026-09-07",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "HFX流浪者",
-          "team_id": "ast_570e22319b7a495c89c79b071111007b"
-        },
-        "away": {
-          "name": "骑兵",
-          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
         },
         "venue": ""
       }
@@ -4197,13 +4178,13 @@
     }
   },
   "stats": {
-    "matches_completed": 79,
-    "total_goals": 232,
-    "avg_goals_per_match": 2.94,
+    "matches_completed": 80,
+    "total_goals": 236,
+    "avg_goals_per_match": 2.95,
     "home_wins": 38,
     "draws": 18,
-    "away_wins": 23,
-    "home_win_pct": 48.1,
+    "away_wins": 24,
+    "home_win_pct": 47.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4230,8 +4211,8 @@
     },
     "leader": {
       "team": "Cavalry",
-      "points": 43,
-      "played": 19
+      "points": 46,
+      "played": 20
     }
   },
   "coverage": {
@@ -4328,15 +4309,15 @@
             "position": 1,
             "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
             "team": "Cavalry",
-            "played": 19,
-            "wins": 13,
+            "played": 20,
+            "wins": 14,
             "draws": 4,
             "losses": 2,
-            "goals_for": 37,
-            "goals_against": 11,
-            "goal_difference": 26,
-            "points": 43,
-            "form": "WWWDW"
+            "goals_for": 40,
+            "goals_against": 12,
+            "goal_difference": 28,
+            "points": 46,
+            "form": "WWWWD"
           },
           {
             "position": 2,
@@ -5013,7 +4994,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 112,
-    "upcoming_matches": 29
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

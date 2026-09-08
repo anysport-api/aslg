@@ -1738,7 +1738,7 @@
         "match_id": "as_8cca814708b54c549eca3a3c4fe76147",
         "date": "2026-09-06",
         "time": "18:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -1750,16 +1750,15 @@
           "name": "哥谭女足",
           "team_id": "ast_d7fc8b26b0c445259a29da45d82bcd0a"
         },
-        "ht_score": "0-0",
-        "reg_score": "3-0",
-        "venue": "",
-        "status_label": "完场"
+        "ht_score": "-",
+        "venue": "Centennial Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_04f44574ecbc44b8851e41d763f6ecdb",
         "date": "2026-09-06",
         "time": "20:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -1771,16 +1770,15 @@
           "name": "北卡罗来纳勇气女足",
           "team_id": "ast_98241981d2cc4d86b29afb5c835cd049"
         },
-        "ht_score": "0-2",
-        "reg_score": "0-6",
-        "venue": "",
-        "status_label": "完场"
+        "ht_score": "-",
+        "venue": "Martin Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c81a011587a3400f830957ed3ca1df8a",
         "date": "2026-09-06",
         "time": "20:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -1792,10 +1790,9 @@
           "name": "华盛顿精神女足",
           "team_id": "ast_f7e6993871a4493ba90c0e184564a687"
         },
-        "ht_score": "1-0",
-        "reg_score": "1-2",
-        "venue": "",
-        "status_label": "完场"
+        "ht_score": "-",
+        "venue": "普罗维登斯公园球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e221a5cb476440fc80a4074c0c5f5940",
@@ -6375,27 +6372,6 @@
         "ht_score": "-",
         "venue": "林恩家族体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c4e9f1e591f7465f8a1e59d4899c1369",
-        "date": "2026-09-07",
-        "time": "01:00",
-        "status": "FT",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "西雅图雷恩女足",
-          "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0"
-        },
-        "away": {
-          "name": "圣地亚哥波浪女足",
-          "team_id": "ast_ed7c28e1f9204e618ac9ea8eda9f08d0"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -7544,23 +7520,23 @@
     }
   },
   "stats": {
-    "matches_completed": 181,
-    "total_goals": 498,
-    "avg_goals_per_match": 2.75,
-    "home_wins": 88,
+    "matches_completed": 178,
+    "total_goals": 486,
+    "avg_goals_per_match": 2.73,
+    "home_wins": 87,
     "draws": 31,
-    "away_wins": 62,
-    "home_win_pct": 48.6,
+    "away_wins": 60,
+    "home_win_pct": 48.9,
     "biggest_win": {
-      "margin": 6,
+      "margin": 5,
       "match": {
-        "match_id": "as_04f44574ecbc44b8851e41d763f6ecdb",
-        "date": "2026-09-06",
-        "home_id": "ast_82069965889f4a4ba072ab79a4bc8a85",
-        "home": "芝加哥女足",
-        "away_id": "ast_98241981d2cc4d86b29afb5c835cd049",
-        "away": "北卡罗来纳勇气女足",
-        "score": "0-6"
+        "match_id": "as_485160f23afb4bf2b5115bf8399d4c30",
+        "date": "2026-08-30",
+        "home_id": "ast_3ba2a9916fc4400d8fc2380da083bc30",
+        "home": "丹佛峰女足",
+        "away_id": "ast_82069965889f4a4ba072ab79a4bc8a85",
+        "away": "芝加哥女足",
+        "score": "6-1"
       }
     },
     "highest_scoring_match": {
@@ -8366,7 +8342,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 43
+    "upcoming_matches": 42
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

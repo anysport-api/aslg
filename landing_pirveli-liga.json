@@ -242,15 +242,15 @@
         "position": 2,
         "team_id": "ast_03292ebb2b044eeeb146dedc33a52153",
         "team": "Telavi",
-        "played": 23,
+        "played": 24,
         "wins": 11,
         "draws": 7,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 18,
-        "goal_difference": 7,
+        "goals_against": 21,
+        "goal_difference": 4,
         "points": 40,
-        "form": "LWDDW"
+        "form": "LLWDD"
       },
       {
         "position": 3,
@@ -312,15 +312,15 @@
         "position": 7,
         "team_id": "ast_634f99dd4f51422e99c132fda49b4410",
         "team": "Samtredia",
-        "played": 23,
-        "wins": 8,
+        "played": 24,
+        "wins": 9,
         "draws": 4,
         "losses": 11,
-        "goals_for": 34,
+        "goals_for": 37,
         "goals_against": 38,
-        "goal_difference": -4,
-        "points": 28,
-        "form": "WWWWL"
+        "goal_difference": -1,
+        "points": 31,
+        "form": "WWWWW"
       },
       {
         "position": 8,
@@ -385,16 +385,16 @@
         "position": 2,
         "team_id": "ast_03292ebb2b044eeeb146dedc33a52153",
         "team": "特拉维",
-        "played": 23,
+        "played": 24,
         "wins": 11,
         "draws": 7,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 18,
-        "goal_difference": 7,
+        "goals_against": 21,
+        "goal_difference": 4,
         "points": 40,
-        "form": "LWDDW",
-        "form_label": "负胜平平胜"
+        "form": "LLWDD",
+        "form_label": "负负胜平平"
       },
       {
         "position": 3,
@@ -460,16 +460,16 @@
         "position": 7,
         "team_id": "ast_634f99dd4f51422e99c132fda49b4410",
         "team": "萨姆特雷迪亚",
-        "played": 23,
-        "wins": 8,
+        "played": 24,
+        "wins": 9,
         "draws": 4,
         "losses": 11,
-        "goals_for": 34,
+        "goals_for": 37,
         "goals_against": 38,
-        "goal_difference": -4,
-        "points": 28,
-        "form": "WWWWL",
-        "form_label": "胜胜胜胜负"
+        "goal_difference": -1,
+        "points": 31,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
       },
       {
         "position": 8,
@@ -1729,7 +1729,7 @@
         "match_id": "as_33b372bd5908405b8b7f9922e77b959b",
         "date": "2026-09-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "格鲁吉亚甲级联赛",
         "league_id": "asl_0e325eb2961b4251a56f099720ecc550",
         "season": "2026",
@@ -1741,7 +1741,10 @@
           "name": "萨姆特雷迪亚",
           "team_id": "ast_634f99dd4f51422e99c132fda49b4410"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_31902cb9d23c47e495c049cc84ca89b7",
@@ -4731,24 +4734,6 @@
         "away": {
           "name": "科尔基提1913",
           "team_id": "ast_0df3db2676d24d0d8f2c9eb0e5bee23a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_33b372bd5908405b8b7f9922e77b959b",
-        "date": "2026-09-07",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "格鲁吉亚甲级联赛",
-        "league_id": "asl_0e325eb2961b4251a56f099720ecc550",
-        "season": "2026",
-        "home": {
-          "name": "特拉维",
-          "team_id": "ast_03292ebb2b044eeeb146dedc33a52153"
-        },
-        "away": {
-          "name": "萨姆特雷迪亚",
-          "team_id": "ast_634f99dd4f51422e99c132fda49b4410"
         },
         "venue": ""
       }
@@ -8566,13 +8551,13 @@
     }
   },
   "stats": {
-    "matches_completed": 119,
-    "total_goals": 281,
-    "avg_goals_per_match": 2.36,
+    "matches_completed": 120,
+    "total_goals": 284,
+    "avg_goals_per_match": 2.37,
     "home_wins": 57,
     "draws": 35,
-    "away_wins": 27,
-    "home_win_pct": 47.9,
+    "away_wins": 28,
+    "home_win_pct": 47.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8711,15 +8696,15 @@
             "position": 2,
             "team_id": "ast_03292ebb2b044eeeb146dedc33a52153",
             "team": "Telavi",
-            "played": 23,
+            "played": 24,
             "wins": 11,
             "draws": 7,
-            "losses": 5,
+            "losses": 6,
             "goals_for": 25,
-            "goals_against": 18,
-            "goal_difference": 7,
+            "goals_against": 21,
+            "goal_difference": 4,
             "points": 40,
-            "form": "LWDDW"
+            "form": "LLWDD"
           },
           {
             "position": 3,
@@ -9370,7 +9355,7 @@
     "teams_all_time": 58,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

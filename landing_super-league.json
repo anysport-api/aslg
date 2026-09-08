@@ -282,15 +282,15 @@
         "position": 10,
         "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
         "team": "Zhejiang Professional",
-        "played": 24,
+        "played": 25,
         "wins": 9,
         "draws": 6,
-        "losses": 9,
-        "goals_for": 40,
-        "goals_against": 40,
-        "goal_difference": 0,
+        "losses": 10,
+        "goals_for": 41,
+        "goals_against": 42,
+        "goal_difference": -1,
         "points": 28,
-        "form": "WDLLW"
+        "form": "LWDLL"
       },
       {
         "position": 11,
@@ -336,6 +336,20 @@
       },
       {
         "position": 14,
+        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
+        "team": "Tianjin Jinmen Tiger",
+        "played": 25,
+        "wins": 8,
+        "draws": 8,
+        "losses": 9,
+        "goals_for": 35,
+        "goals_against": 32,
+        "goal_difference": 3,
+        "points": 22,
+        "form": "WDDLL"
+      },
+      {
+        "position": 15,
         "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38",
         "team": "Wuhan Three Towns",
         "played": 24,
@@ -347,20 +361,6 @@
         "goal_difference": -4,
         "points": 20,
         "form": "DWDLD"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
-        "team": "Tianjin Jinmen Tiger",
-        "played": 24,
-        "wins": 7,
-        "draws": 8,
-        "losses": 9,
-        "goals_for": 33,
-        "goals_against": 31,
-        "goal_difference": 2,
-        "points": 19,
-        "form": "DDLLW"
       },
       {
         "position": 16,
@@ -517,16 +517,16 @@
         "position": 10,
         "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
         "team": "浙江职业",
-        "played": 24,
+        "played": 25,
         "wins": 9,
         "draws": 6,
-        "losses": 9,
-        "goals_for": 40,
-        "goals_against": 40,
-        "goal_difference": 0,
+        "losses": 10,
+        "goals_for": 41,
+        "goals_against": 42,
+        "goal_difference": -1,
         "points": 28,
-        "form": "WDLLW",
-        "form_label": "胜平负负胜"
+        "form": "LWDLL",
+        "form_label": "负胜平负负"
       },
       {
         "position": 11,
@@ -575,6 +575,21 @@
       },
       {
         "position": 14,
+        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
+        "team": "天津津门虎",
+        "played": 25,
+        "wins": 8,
+        "draws": 8,
+        "losses": 9,
+        "goals_for": 35,
+        "goals_against": 32,
+        "goal_difference": 3,
+        "points": 22,
+        "form": "WDDLL",
+        "form_label": "胜平平负负"
+      },
+      {
+        "position": 15,
         "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38",
         "team": "武汉三镇",
         "played": 24,
@@ -587,21 +602,6 @@
         "points": 20,
         "form": "DWDLD",
         "form_label": "平胜平负平"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
-        "team": "天津津门虎",
-        "played": 24,
-        "wins": 7,
-        "draws": 8,
-        "losses": 9,
-        "goals_for": 33,
-        "goals_against": 31,
-        "goal_difference": 2,
-        "points": 19,
-        "form": "DDLLW",
-        "form_label": "平平负负胜"
       },
       {
         "position": 16,
@@ -1435,7 +1435,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Wuhan Sports Centre",
         "status_label": "完场"
       },
       {
@@ -1456,7 +1456,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "大连梭鱼湾足球场",
         "status_label": "完场"
       },
       {
@@ -1477,7 +1477,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Pudong Football Stadium",
         "status_label": "完场"
       },
       {
@@ -1498,7 +1498,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Jinan Olympic Sports Center Stadium",
         "status_label": "完场"
       },
       {
@@ -8943,5 +8943,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 19
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

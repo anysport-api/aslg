@@ -6243,7 +6243,7 @@
         "match_id": "as_51a3a4e5b34944a085c0273c3563e1db",
         "date": "2026-09-07",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "俄罗斯FNL 2甲级联赛B组",
         "league_id": "asl_c6d209a138014536924886c45d35fec8",
         "season": "2026",
@@ -6255,7 +6255,10 @@
           "name": "伊热夫斯克",
           "team_id": "ast_ab4fd53e556e4024a43d5b00e7c96787"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4ac87174ffad4fdf95839eed2311345f",
@@ -25135,13 +25138,13 @@
     }
   },
   "stats": {
-    "matches_completed": 633,
-    "total_goals": 1792,
+    "matches_completed": 634,
+    "total_goals": 1795,
     "avg_goals_per_match": 2.83,
-    "home_wins": 281,
+    "home_wins": 282,
     "draws": 135,
     "away_wins": 217,
-    "home_win_pct": 44.4,
+    "home_win_pct": 44.5,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -25904,5 +25907,5 @@
     "matches_current_season": 857,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

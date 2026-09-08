@@ -260,15 +260,15 @@
         "position": 8,
         "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
         "team": "Rubin Kazan",
-        "played": 6,
+        "played": 7,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "losses": 1,
-        "goals_for": 9,
-        "goals_against": 8,
+        "goals_for": 10,
+        "goals_against": 9,
         "goal_difference": 1,
-        "points": 9,
-        "form": "WDDDW"
+        "points": 10,
+        "form": "DWDDD"
       },
       {
         "position": 9,
@@ -300,6 +300,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+        "team": "Akhmat Grozny",
+        "played": 7,
+        "wins": 1,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 9,
+        "goal_difference": 1,
+        "points": 7,
+        "form": "DDWLD"
+      },
+      {
+        "position": 12,
         "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
         "team": "Krylya Sovetov",
         "played": 7,
@@ -311,20 +325,6 @@
         "goal_difference": -2,
         "points": 7,
         "form": "DDWLL"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
-        "team": "Akhmat Grozny",
-        "played": 6,
-        "wins": 1,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 8,
-        "goal_difference": 1,
-        "points": 6,
-        "form": "DWLDL"
       },
       {
         "position": 13,
@@ -493,16 +493,16 @@
         "position": 8,
         "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
         "team": "喀山鲁宾",
-        "played": 6,
+        "played": 7,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "losses": 1,
-        "goals_for": 9,
-        "goals_against": 8,
+        "goals_for": 10,
+        "goals_against": 9,
         "goal_difference": 1,
-        "points": 9,
-        "form": "WDDDW",
-        "form_label": "胜平平平胜"
+        "points": 10,
+        "form": "DWDDD",
+        "form_label": "平胜平平平"
       },
       {
         "position": 9,
@@ -536,6 +536,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+        "team": "阿赫马特·格罗兹尼",
+        "played": 7,
+        "wins": 1,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 9,
+        "goal_difference": 1,
+        "points": 7,
+        "form": "DDWLD",
+        "form_label": "平平胜负平"
+      },
+      {
+        "position": 12,
         "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
         "team": "克里利亚·索维托夫",
         "played": 7,
@@ -548,21 +563,6 @@
         "points": 7,
         "form": "DDWLL",
         "form_label": "平平胜负负"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
-        "team": "阿赫马特·格罗兹尼",
-        "played": 6,
-        "wins": 1,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 8,
-        "goal_difference": 1,
-        "points": 6,
-        "form": "DWLDL",
-        "form_label": "平胜负平负"
       },
       {
         "position": 13,
@@ -6413,7 +6413,7 @@
         "match_id": "as_1848acf8057b48f3a6d0cf7f5635a491",
         "date": "2026-09-07",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -6425,7 +6425,10 @@
           "name": "阿赫马特·格罗兹尼",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8a35a3d7d24c462e9be8bd6dd6c89116",
@@ -6529,7 +6532,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "罗斯托夫竞技场",
         "status_label": "完场"
       },
       {
@@ -6550,7 +6553,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Samara Arena",
         "status_label": "完场"
       },
       {
@@ -6571,7 +6574,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "天然气工业竞技场",
         "status_label": "完场"
       },
       {
@@ -7585,6 +7588,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_5b3f7bd5f5c143baa6ec4746a4cebdca",
+        "date": "2026-10-23",
+        "time": "16:30",
+        "status": "Not Started",
+        "league": "俄罗斯超级联赛",
+        "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿赫马特·格罗兹尼",
+          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4"
+        },
+        "away": {
+          "name": "奥伦堡",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2"
+        },
+        "ht_score": "-",
+        "venue": "Akhmat-Arena",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_8af5df52241541b3af222652efc9cd29",
         "date": "2026-10-19",
         "time": "16:30",
@@ -8223,24 +8246,6 @@
         "ht_score": "-",
         "venue": "Samara Arena",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_1848acf8057b48f3a6d0cf7f5635a491",
-        "date": "2026-09-07",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "俄罗斯超级联赛",
-        "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
-        "season": "2026/2027",
-        "home": {
-          "name": "喀山鲁宾",
-          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019"
-        },
-        "away": {
-          "name": "阿赫马特·格罗兹尼",
-          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4"
-        },
-        "venue": ""
       }
     ]
   },
@@ -13523,13 +13528,13 @@
     }
   },
   "stats": {
-    "matches_completed": 55,
-    "total_goals": 153,
-    "avg_goals_per_match": 2.78,
+    "matches_completed": 56,
+    "total_goals": 155,
+    "avg_goals_per_match": 2.77,
     "home_wins": 19,
-    "draws": 17,
+    "draws": 18,
     "away_wins": 19,
-    "home_win_pct": 34.5,
+    "home_win_pct": 33.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14329,5 +14334,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 33
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

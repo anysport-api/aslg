@@ -208,6 +208,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
+        "team": "Zilina B",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 8,
+        "goals_against": 6,
+        "goal_difference": 2,
+        "points": 13,
+        "form": "WLWDW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_e669d1d0130d4c1599f3f62877433408",
         "team": "Povazska Bystrica",
         "played": 7,
@@ -221,7 +235,7 @@
         "form": "WDLWW"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55",
         "team": "Lehota p. V.",
         "played": 7,
@@ -233,20 +247,6 @@
         "goal_difference": 2,
         "points": 10,
         "form": "LWDWD"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
-        "team": "Zilina B",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 6,
-        "goal_difference": 0,
-        "points": 10,
-        "form": "LWDWW"
       },
       {
         "position": 7,
@@ -350,15 +350,15 @@
         "position": 14,
         "team_id": "ast_caa3053fdb094da9856212e361503d25",
         "team": "Slovan Bratislava B",
-        "played": 6,
+        "played": 7,
         "wins": 1,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 9,
-        "goals_against": 10,
-        "goal_difference": -1,
+        "goals_against": 12,
+        "goal_difference": -3,
         "points": 5,
-        "form": "DDWLL"
+        "form": "LDDWL"
       },
       {
         "position": 15,
@@ -437,6 +437,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
+        "team": "日利纳B队",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 8,
+        "goals_against": 6,
+        "goal_difference": 2,
+        "points": 13,
+        "form": "WLWDW",
+        "form_label": "胜负胜平胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_e669d1d0130d4c1599f3f62877433408",
         "team": "波瓦兹斯卡比斯特里察",
         "played": 7,
@@ -451,7 +466,7 @@
         "form_label": "胜平负胜胜"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55",
         "team": "莱霍塔",
         "played": 7,
@@ -464,21 +479,6 @@
         "points": 10,
         "form": "LWDWD",
         "form_label": "负胜平胜平"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
-        "team": "日利纳B队",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 6,
-        "goal_difference": 0,
-        "points": 10,
-        "form": "LWDWW",
-        "form_label": "负胜平胜胜"
       },
       {
         "position": 7,
@@ -589,16 +589,16 @@
         "position": 14,
         "team_id": "ast_caa3053fdb094da9856212e361503d25",
         "team": "布拉迪斯拉发B队",
-        "played": 6,
+        "played": 7,
         "wins": 1,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 9,
-        "goals_against": 10,
-        "goal_difference": -1,
+        "goals_against": 12,
+        "goal_difference": -3,
         "points": 5,
-        "form": "DDWLL",
-        "form_label": "平平胜负负"
+        "form": "LDDWL",
+        "form_label": "负平平胜负"
       },
       {
         "position": 15,
@@ -4333,7 +4333,7 @@
         "match_id": "as_bd79848ac9154493a63cbada8c40987b",
         "date": "2026-09-07",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -4345,7 +4345,10 @@
           "name": "布拉迪斯拉发B队",
           "team_id": "ast_caa3053fdb094da9856212e361503d25"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cb09b69a5b0246278fe2f2da75a09add",
@@ -4365,7 +4368,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Humenne Football Stadium",
         "status_label": "完场"
       },
       {
@@ -4386,7 +4389,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Mestsky futbalovy stadion Galanta",
         "status_label": "完场"
       },
       {
@@ -4407,7 +4410,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Mestsky stadion Bytca",
         "status_label": "完场"
       },
       {
@@ -6463,24 +6466,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_bd79848ac9154493a63cbada8c40987b",
-        "date": "2026-09-07",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "日利纳B队",
-          "team_id": "ast_03de54b888154cd9a67cfa8cbefee450"
-        },
-        "away": {
-          "name": "布拉迪斯拉发B队",
-          "team_id": "ast_caa3053fdb094da9856212e361503d25"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8579,13 +8564,13 @@
     }
   },
   "stats": {
-    "matches_completed": 55,
-    "total_goals": 154,
-    "avg_goals_per_match": 2.8,
-    "home_wins": 26,
+    "matches_completed": 56,
+    "total_goals": 156,
+    "avg_goals_per_match": 2.79,
+    "home_wins": 27,
     "draws": 11,
     "away_wins": 18,
-    "home_win_pct": 47.3,
+    "home_win_pct": 48.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9383,7 +9368,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 49
+    "upcoming_matches": 48
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

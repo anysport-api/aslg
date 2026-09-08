@@ -236,6 +236,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_f3af5695b777400796349480769e732e",
+        "team": "Guarani",
+        "played": 9,
+        "wins": 3,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 8,
+        "goal_difference": 2,
+        "points": 13,
+        "form": "WDDDL"
+      },
+      {
+        "position": 7,
         "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca",
         "team": "Ameliano",
         "played": 9,
@@ -249,7 +263,7 @@
         "form": "WLDWL"
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "ast_22af90edab57462cbd2f20a33cd31406",
         "team": "Cerro Porteno",
         "played": 8,
@@ -263,7 +277,7 @@
         "form": "WDLWL"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_dc69c491da244bc584c7ceaaa2db3acf",
         "team": "Sp. Luqueno",
         "played": 9,
@@ -275,20 +289,6 @@
         "goal_difference": -6,
         "points": 10,
         "form": "LDWLL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_f3af5695b777400796349480769e732e",
-        "team": "Guarani",
-        "played": 8,
-        "wins": 2,
-        "draws": 4,
-        "losses": 2,
-        "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
-        "points": 10,
-        "form": "DDDLD"
       },
       {
         "position": 10,
@@ -308,15 +308,15 @@
         "position": 11,
         "team_id": "ast_601351189aab40b0beefdb417a63e630",
         "team": "Recoleta",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 1,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 12,
-        "goals_against": 18,
-        "goal_difference": -6,
+        "goals_against": 20,
+        "goal_difference": -8,
         "points": 7,
-        "form": "LLLLW"
+        "form": "LLLLL"
       },
       {
         "position": 12,
@@ -411,6 +411,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_f3af5695b777400796349480769e732e",
+        "team": "瓜拉尼",
+        "played": 9,
+        "wins": 3,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 8,
+        "goal_difference": 2,
+        "points": 13,
+        "form": "WDDDL",
+        "form_label": "胜平平平负"
+      },
+      {
+        "position": 7,
         "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca",
         "team": "阿梅利亚诺",
         "played": 9,
@@ -425,7 +440,7 @@
         "form_label": "胜负平胜负"
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "ast_22af90edab57462cbd2f20a33cd31406",
         "team": "塞罗波特尼奥",
         "played": 8,
@@ -440,7 +455,7 @@
         "form_label": "胜平负胜负"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_dc69c491da244bc584c7ceaaa2db3acf",
         "team": "卢奎诺体育",
         "played": 9,
@@ -453,21 +468,6 @@
         "points": 10,
         "form": "LDWLL",
         "form_label": "负平胜负负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_f3af5695b777400796349480769e732e",
-        "team": "瓜拉尼",
-        "played": 8,
-        "wins": 2,
-        "draws": 4,
-        "losses": 2,
-        "goals_for": 8,
-        "goals_against": 8,
-        "goal_difference": 0,
-        "points": 10,
-        "form": "DDDLD",
-        "form_label": "平平平负平"
       },
       {
         "position": 10,
@@ -488,16 +488,16 @@
         "position": 11,
         "team_id": "ast_601351189aab40b0beefdb417a63e630",
         "team": "雷科莱塔",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 1,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 12,
-        "goals_against": 18,
-        "goal_difference": -6,
+        "goals_against": 20,
+        "goal_difference": -8,
         "points": 7,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 12,
@@ -4260,69 +4260,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_c0fdd7be6a344eb1957cf00020018bb8",
-        "date": "2026-09-23",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "塞罗波特尼奥",
-          "team_id": "ast_22af90edab57462cbd2f20a33cd31406"
-        },
-        "away": {
-          "name": "鲁比奥·努",
-          "team_id": "ast_18f560d58a164c27a9245caf57d2d7e1"
-        },
-        "ht_score": "-",
-        "venue": "Estadio General Pablo Rojas",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b0c8b92184cd42319c2d91c183c9cf2f",
-        "date": "2026-09-23",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "亚松森自由",
-          "team_id": "ast_8c626113d13b47b9b7e904680db9d57d"
-        },
-        "away": {
-          "name": "阿梅利亚诺",
-          "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca"
-        },
-        "ht_score": "-",
-        "venue": "蒂戈·拉韦尔塔体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_67ddf55760564ebbb8bcfb86edcdea21",
-        "date": "2026-09-23",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "国家亚松森",
-          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
-        },
-        "away": {
-          "name": "5月2日",
-          "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb"
-        },
-        "ht_score": "-",
-        "venue": "阿塞尼奥·埃里科体育场",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_516daf3ab6ea4a0ab61d3b440b3775bd",
-        "date": "2026-09-23",
-        "time": "20:00",
+        "date": "2026-09-20",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -4341,8 +4281,8 @@
       },
       {
         "match_id": "as_6f1b147be8af4f9297a832492c66553a",
-        "date": "2026-09-23",
-        "time": "20:00",
+        "date": "2026-09-20",
+        "time": "21:30",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -4360,9 +4300,69 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_c0fdd7be6a344eb1957cf00020018bb8",
+        "date": "2026-09-19",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "塞罗波特尼奥",
+          "team_id": "ast_22af90edab57462cbd2f20a33cd31406"
+        },
+        "away": {
+          "name": "鲁比奥·努",
+          "team_id": "ast_18f560d58a164c27a9245caf57d2d7e1"
+        },
+        "ht_score": "-",
+        "venue": "Estadio General Pablo Rojas",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b0c8b92184cd42319c2d91c183c9cf2f",
+        "date": "2026-09-19",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "亚松森自由",
+          "team_id": "ast_8c626113d13b47b9b7e904680db9d57d"
+        },
+        "away": {
+          "name": "阿梅利亚诺",
+          "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca"
+        },
+        "ht_score": "-",
+        "venue": "蒂戈·拉韦尔塔体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_67ddf55760564ebbb8bcfb86edcdea21",
+        "date": "2026-09-18",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "国家亚松森",
+          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
+        },
+        "away": {
+          "name": "5月2日",
+          "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb"
+        },
+        "ht_score": "-",
+        "venue": "阿塞尼奥·埃里科体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_66087f476f1146009b3a76be030cb654",
-        "date": "2026-09-23",
-        "time": "20:00",
+        "date": "2026-09-18",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -4380,9 +4380,89 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_9bcb8fc97162400eb2d6971f230bbea0",
+        "date": "2026-09-13",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "亚松森奥林匹亚",
+          "team_id": "ast_2d7fb62bca044f519e4767338f7d0557"
+        },
+        "away": {
+          "name": "卢奎诺体育",
+          "team_id": "ast_dc69c491da244bc584c7ceaaa2db3acf"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Osvaldo Dominguez Dibb",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ef3e86d2d04d4fc5aeb1aa3a08331985",
+        "date": "2026-09-13",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "鲁比奥·努",
+          "team_id": "ast_18f560d58a164c27a9245caf57d2d7e1"
+        },
+        "away": {
+          "name": "国家亚松森",
+          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7e4dcc35356849689776674d91cfc798",
+        "date": "2026-09-12",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "瓜拉尼",
+          "team_id": "ast_f3af5695b777400796349480769e732e"
+        },
+        "away": {
+          "name": "塞罗波特尼奥",
+          "team_id": "ast_22af90edab57462cbd2f20a33cd31406"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Rogelio Livieres",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f8181551417e449aa49b8e52717cac25",
+        "date": "2026-09-12",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "雷科莱塔",
+          "team_id": "ast_601351189aab40b0beefdb417a63e630"
+        },
+        "away": {
+          "name": "特里尼登斯体育",
+          "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_bb656307f46546c5b899212ea2a98ad6",
-        "date": "2026-09-16",
-        "time": "20:00",
+        "date": "2026-09-11",
+        "time": "21:30",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -4401,8 +4481,8 @@
       },
       {
         "match_id": "as_930be7dc393543d29ef5037f4fab174a",
-        "date": "2026-09-16",
-        "time": "20:00",
+        "date": "2026-09-11",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -4420,90 +4500,10 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_7e4dcc35356849689776674d91cfc798",
-        "date": "2026-09-16",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "瓜拉尼",
-          "team_id": "ast_f3af5695b777400796349480769e732e"
-        },
-        "away": {
-          "name": "塞罗波特尼奥",
-          "team_id": "ast_22af90edab57462cbd2f20a33cd31406"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Rogelio Livieres",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_9bcb8fc97162400eb2d6971f230bbea0",
-        "date": "2026-09-16",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "亚松森奥林匹亚",
-          "team_id": "ast_2d7fb62bca044f519e4767338f7d0557"
-        },
-        "away": {
-          "name": "卢奎诺体育",
-          "team_id": "ast_dc69c491da244bc584c7ceaaa2db3acf"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Osvaldo Dominguez Dibb",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f8181551417e449aa49b8e52717cac25",
-        "date": "2026-09-16",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "雷科莱塔",
-          "team_id": "ast_601351189aab40b0beefdb417a63e630"
-        },
-        "away": {
-          "name": "特里尼登斯体育",
-          "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ef3e86d2d04d4fc5aeb1aa3a08331985",
-        "date": "2026-09-16",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "鲁比奥·努",
-          "team_id": "ast_18f560d58a164c27a9245caf57d2d7e1"
-        },
-        "away": {
-          "name": "国家亚松森",
-          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_984dbb40fcb243328f0b3d305110955e",
         "date": "2026-09-07",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
         "season": "2026",
@@ -4515,13 +4515,16 @@
           "name": "国家亚松森",
           "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ff9705316daf4c8b82cf6a89e32fee14",
         "date": "2026-09-07",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
         "season": "2026",
@@ -4533,7 +4536,10 @@
           "name": "雷科莱塔",
           "team_id": "ast_601351189aab40b0beefdb417a63e630"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0b1ac80675634f1d9d83a37e629e0202",
@@ -4616,7 +4622,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "埃里科·加莱亚诺·塞戈维亚执照体育场",
         "status_label": "完场"
       },
       {
@@ -8882,29 +8888,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_66087f476f1146009b3a76be030cb654",
-        "date": "2026-09-23",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "特里尼登斯体育",
-          "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
-        },
-        "away": {
-          "name": "瓜拉尼",
-          "team_id": "ast_f3af5695b777400796349480769e732e"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_6f1b147be8af4f9297a832492c66553a",
-        "date": "2026-09-23",
-        "time": "20:00",
+        "date": "2026-09-20",
+        "time": "21:30",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -8923,8 +8909,8 @@
       },
       {
         "match_id": "as_516daf3ab6ea4a0ab61d3b440b3775bd",
-        "date": "2026-09-23",
-        "time": "20:00",
+        "date": "2026-09-20",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -8942,29 +8928,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_67ddf55760564ebbb8bcfb86edcdea21",
-        "date": "2026-09-23",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "国家亚松森",
-          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
-        },
-        "away": {
-          "name": "5月2日",
-          "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb"
-        },
-        "ht_score": "-",
-        "venue": "阿塞尼奥·埃里科体育场",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_b0c8b92184cd42319c2d91c183c9cf2f",
-        "date": "2026-09-23",
-        "time": "20:00",
+        "date": "2026-09-19",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -8983,8 +8949,8 @@
       },
       {
         "match_id": "as_c0fdd7be6a344eb1957cf00020018bb8",
-        "date": "2026-09-23",
-        "time": "20:00",
+        "date": "2026-09-19",
+        "time": "21:30",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -9002,9 +8968,49 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_66087f476f1146009b3a76be030cb654",
+        "date": "2026-09-18",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "特里尼登斯体育",
+          "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
+        },
+        "away": {
+          "name": "瓜拉尼",
+          "team_id": "ast_f3af5695b777400796349480769e732e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_67ddf55760564ebbb8bcfb86edcdea21",
+        "date": "2026-09-18",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "国家亚松森",
+          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
+        },
+        "away": {
+          "name": "5月2日",
+          "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb"
+        },
+        "ht_score": "-",
+        "venue": "阿塞尼奥·埃里科体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_ef3e86d2d04d4fc5aeb1aa3a08331985",
-        "date": "2026-09-16",
-        "time": "20:00",
+        "date": "2026-09-13",
+        "time": "21:30",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -9022,29 +9028,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_f8181551417e449aa49b8e52717cac25",
-        "date": "2026-09-16",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "雷科莱塔",
-          "team_id": "ast_601351189aab40b0beefdb417a63e630"
-        },
-        "away": {
-          "name": "特里尼登斯体育",
-          "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_9bcb8fc97162400eb2d6971f230bbea0",
-        "date": "2026-09-16",
-        "time": "20:00",
+        "date": "2026-09-13",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -9062,9 +9048,29 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_f8181551417e449aa49b8e52717cac25",
+        "date": "2026-09-12",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭甲级联赛",
+        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
+        "season": "2026",
+        "home": {
+          "name": "雷科莱塔",
+          "team_id": "ast_601351189aab40b0beefdb417a63e630"
+        },
+        "away": {
+          "name": "特里尼登斯体育",
+          "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_7e4dcc35356849689776674d91cfc798",
-        "date": "2026-09-16",
-        "time": "20:00",
+        "date": "2026-09-12",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -9083,8 +9089,8 @@
       },
       {
         "match_id": "as_930be7dc393543d29ef5037f4fab174a",
-        "date": "2026-09-16",
-        "time": "20:00",
+        "date": "2026-09-11",
+        "time": "19:00",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -9103,8 +9109,8 @@
       },
       {
         "match_id": "as_bb656307f46546c5b899212ea2a98ad6",
-        "date": "2026-09-16",
-        "time": "20:00",
+        "date": "2026-09-11",
+        "time": "21:30",
         "status": "Not Started",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
@@ -9120,42 +9126,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ff9705316daf4c8b82cf6a89e32fee14",
-        "date": "2026-09-07",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "瓜拉尼",
-          "team_id": "ast_f3af5695b777400796349480769e732e"
-        },
-        "away": {
-          "name": "雷科莱塔",
-          "team_id": "ast_601351189aab40b0beefdb417a63e630"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_984dbb40fcb243328f0b3d305110955e",
-        "date": "2026-09-07",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "塞罗波特尼奥",
-          "team_id": "ast_22af90edab57462cbd2f20a33cd31406"
-        },
-        "away": {
-          "name": "国家亚松森",
-          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10746,13 +10716,13 @@
     }
   },
   "stats": {
-    "matches_completed": 184,
-    "total_goals": 460,
-    "avg_goals_per_match": 2.5,
-    "home_wins": 81,
+    "matches_completed": 186,
+    "total_goals": 463,
+    "avg_goals_per_match": 2.49,
+    "home_wins": 83,
     "draws": 49,
     "away_wins": 54,
-    "home_win_pct": 44.0,
+    "home_win_pct": 44.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -11563,7 +11533,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 12,
     "matches_current_season": 264,
-    "upcoming_matches": 38
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }

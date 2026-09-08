@@ -318,6 +318,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_07bb5e567e8143278864181fe0daafa9",
+        "team": "Progreso",
+        "played": 5,
+        "wins": 2,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 2,
+        "goals_against": 4,
+        "goal_difference": -2,
+        "points": 6,
+        "form": "WWLLL"
+      },
+      {
+        "position": 12,
         "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6",
         "team": "Cerro Largo",
         "played": 5,
@@ -331,7 +345,7 @@
         "form": "LDDDD"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_75ecbb49a2f0427fafe4f144580058d4",
         "team": "Central Esp.",
         "played": 5,
@@ -343,20 +357,6 @@
         "goal_difference": -4,
         "points": 4,
         "form": "DLLLW"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_07bb5e567e8143278864181fe0daafa9",
-        "team": "Progreso",
-        "played": 4,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 1,
-        "goals_against": 4,
-        "goal_difference": -3,
-        "points": 3,
-        "form": "WLLL"
       },
       {
         "position": 14,
@@ -390,15 +390,15 @@
         "position": 16,
         "team_id": "ast_f114328b14054b7faad9326206df767b",
         "team": "Albion",
-        "played": 4,
+        "played": 5,
         "wins": 0,
         "draws": 0,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 3,
-        "goals_against": 7,
-        "goal_difference": -4,
+        "goals_against": 8,
+        "goal_difference": -5,
         "points": 0,
-        "form": "LLLL"
+        "form": "LLLLL"
       }
     ],
     "zh": [
@@ -554,6 +554,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_07bb5e567e8143278864181fe0daafa9",
+        "team": "进步",
+        "played": 5,
+        "wins": 2,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 2,
+        "goals_against": 4,
+        "goal_difference": -2,
+        "points": 6,
+        "form": "WWLLL",
+        "form_label": "胜胜负负负"
+      },
+      {
+        "position": 12,
         "team_id": "ast_fc8cb7dc44ec4a7c921e7bf3c2c7c3f6",
         "team": "塞罗拉尔戈",
         "played": 5,
@@ -568,7 +583,7 @@
         "form_label": "负平平平平"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_75ecbb49a2f0427fafe4f144580058d4",
         "team": "中央体育",
         "played": 5,
@@ -581,21 +596,6 @@
         "points": 4,
         "form": "DLLLW",
         "form_label": "平负负负胜"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_07bb5e567e8143278864181fe0daafa9",
-        "team": "进步",
-        "played": 4,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 1,
-        "goals_against": 4,
-        "goal_difference": -3,
-        "points": 3,
-        "form": "WLLL",
-        "form_label": "胜负负负"
       },
       {
         "position": 14,
@@ -631,16 +631,16 @@
         "position": 16,
         "team_id": "ast_f114328b14054b7faad9326206df767b",
         "team": "阿尔比恩",
-        "played": 4,
+        "played": 5,
         "wins": 0,
         "draws": 0,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 3,
-        "goals_against": 7,
-        "goal_difference": -4,
+        "goals_against": 8,
+        "goal_difference": -5,
         "points": 0,
-        "form": "LLLL",
-        "form_label": "负负负负"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       }
     ]
   },
@@ -845,7 +845,7 @@
         "match_id": "as_78b96d905323422bb83c8d881034e970",
         "date": "2026-09-07",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -857,7 +857,10 @@
           "name": "进步",
           "team_id": "ast_07bb5e567e8143278864181fe0daafa9"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0d82526faa4a461489e6637fbd339815",
@@ -5555,24 +5558,6 @@
         "ht_score": "-",
         "venue": "Estadio Osvaldo Roberto",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_78b96d905323422bb83c8d881034e970",
-        "date": "2026-09-07",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "阿尔比恩",
-          "team_id": "ast_f114328b14054b7faad9326206df767b"
-        },
-        "away": {
-          "name": "进步",
-          "team_id": "ast_07bb5e567e8143278864181fe0daafa9"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10919,13 +10904,13 @@
     }
   },
   "stats": {
-    "matches_completed": 215,
-    "total_goals": 505,
-    "avg_goals_per_match": 2.35,
+    "matches_completed": 216,
+    "total_goals": 506,
+    "avg_goals_per_match": 2.34,
     "home_wins": 89,
     "draws": 56,
-    "away_wins": 70,
-    "home_win_pct": 41.4,
+    "away_wins": 71,
+    "home_win_pct": 41.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11664,7 +11649,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 225,
-    "upcoming_matches": 10
+    "upcoming_matches": 9
   },
-  "updated_at": "2026/09/07"
+  "updated_at": "2026/09/08"
 }
