@@ -278,18 +278,32 @@
         "position": 8,
         "team_id": "ast_a6e58fc50dbd424bb8da9bbef2b8c648",
         "team": "Atletico Balboa",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 8,
-        "goals_against": 11,
-        "goal_difference": -3,
+        "goals_against": 12,
+        "goal_difference": -4,
         "points": 9,
-        "form": "LLWWD"
+        "form": "LLLWW"
       },
       {
         "position": 9,
+        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
+        "team": "Inca Aruba",
+        "played": 9,
+        "wins": 2,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 16,
+        "goal_difference": -11,
+        "points": 8,
+        "form": "WWDLD"
+      },
+      {
+        "position": 10,
         "team_id": "ast_53d4aef7488a461fb245ae55d1178d72",
         "team": "Aguila",
         "played": 8,
@@ -303,7 +317,7 @@
         "form": "DWLLL"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_f80a1054ba594238b80831a157b6b5c4",
         "team": "Cacahuatique",
         "played": 8,
@@ -317,7 +331,7 @@
         "form": "LDLDD"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_a22f732498a3448d8fa302992408de2c",
         "team": "Fuerte San Francisco",
         "played": 8,
@@ -329,20 +343,6 @@
         "goal_difference": -8,
         "points": 6,
         "form": "LLLWD"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
-        "team": "Inca Aruba",
-        "played": 8,
-        "wins": 1,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 16,
-        "goal_difference": -12,
-        "points": 5,
-        "form": "WDLDL"
       }
     ],
     "zh": [
@@ -455,19 +455,34 @@
         "position": 8,
         "team_id": "ast_a6e58fc50dbd424bb8da9bbef2b8c648",
         "team": "Atletico Balboa",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 8,
-        "goals_against": 11,
-        "goal_difference": -3,
+        "goals_against": 12,
+        "goal_difference": -4,
         "points": 9,
-        "form": "LLWWD",
-        "form_label": "负负胜胜平"
+        "form": "LLLWW",
+        "form_label": "负负负胜胜"
       },
       {
         "position": 9,
+        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
+        "team": "Inca Aruba",
+        "played": 9,
+        "wins": 2,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 16,
+        "goal_difference": -11,
+        "points": 8,
+        "form": "WWDLD",
+        "form_label": "胜胜平负平"
+      },
+      {
+        "position": 10,
         "team_id": "ast_53d4aef7488a461fb245ae55d1178d72",
         "team": "鹰队",
         "played": 8,
@@ -482,7 +497,7 @@
         "form_label": "平胜负负负"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_f80a1054ba594238b80831a157b6b5c4",
         "team": "卡卡瓦提克",
         "played": 8,
@@ -497,7 +512,7 @@
         "form_label": "负平负平平"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_a22f732498a3448d8fa302992408de2c",
         "team": "富尔特圣弗朗西斯科",
         "played": 8,
@@ -510,21 +525,6 @@
         "points": 6,
         "form": "LLLWD",
         "form_label": "负负负胜平"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
-        "team": "Inca Aruba",
-        "played": 8,
-        "wins": 1,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 16,
-        "goal_difference": -12,
-        "points": 5,
-        "form": "WDLDL",
-        "form_label": "胜平负平负"
       }
     ]
   },
@@ -2171,7 +2171,7 @@
         "match_id": "as_c7a4007401484cbf83292c6fc60e1813",
         "date": "2026-09-09",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -2183,7 +2183,10 @@
           "name": "Atletico Balboa",
           "team_id": "ast_a6e58fc50dbd424bb8da9bbef2b8c648"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_62aca1ad76cc42b28d8c8da29bd13567",
@@ -3211,6 +3214,66 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_f2d20c780d6c4762b2017d08bef6da5f",
+        "date": "2026-10-24",
+        "time": "23:00",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "利梅诺市立队",
+          "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
+        },
+        "away": {
+          "name": "卡卡瓦提克",
+          "team_id": "ast_f80a1054ba594238b80831a157b6b5c4"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9e2509171afb4fac8ea82ea7b2395582",
+        "date": "2026-10-24",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "富尔特圣弗朗西斯科",
+          "team_id": "ast_a22f732498a3448d8fa302992408de2c"
+        },
+        "away": {
+          "name": "Atletico Balboa",
+          "team_id": "ast_a6e58fc50dbd424bb8da9bbef2b8c648"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_64e190ecdbc541fe8b08fad5f6ed5adb",
+        "date": "2026-10-24",
+        "time": "00:00",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "Inca Aruba",
+          "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
+        },
+        "away": {
+          "name": "国际F.A.",
+          "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_004993712ef84e55ae578b62d731eaeb",
         "date": "2026-10-18",
         "time": "23:30",
@@ -4127,42 +4190,6 @@
         "away": {
           "name": "鹰队",
           "team_id": "ast_53d4aef7488a461fb245ae55d1178d72"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_62aca1ad76cc42b28d8c8da29bd13567",
-        "date": "2026-09-09",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "普拉滕塞市",
-          "team_id": "ast_1c88b3d537fc417f920ed25d00041d3c"
-        },
-        "away": {
-          "name": "梅塔潘",
-          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c7a4007401484cbf83292c6fc60e1813",
-        "date": "2026-09-09",
-        "time": "00:00",
-        "status": "00:00",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "Inca Aruba",
-          "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
-        },
-        "away": {
-          "name": "Atletico Balboa",
-          "team_id": "ast_a6e58fc50dbd424bb8da9bbef2b8c648"
         },
         "venue": ""
       }
@@ -7980,13 +8007,13 @@
     }
   },
   "stats": {
-    "matches_completed": 47,
-    "total_goals": 120,
-    "avg_goals_per_match": 2.55,
-    "home_wins": 21,
+    "matches_completed": 48,
+    "total_goals": 121,
+    "avg_goals_per_match": 2.52,
+    "home_wins": 22,
     "draws": 15,
     "away_wins": 11,
-    "home_win_pct": 44.7,
+    "home_win_pct": 45.8,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -8775,7 +8802,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 49
+    "upcoming_matches": 50
   },
-  "updated_at": "2026/09/08"
+  "updated_at": "2026/09/09"
 }

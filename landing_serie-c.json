@@ -124,17 +124,17 @@
     "en": [
       {
         "position": 1,
-        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
-        "team": "Ferroviaria",
+        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
+        "team": "Brusque",
         "played": 1,
-        "wins": 0,
-        "draws": 1,
+        "wins": 1,
+        "draws": 0,
         "losses": 0,
-        "goals_for": 3,
-        "goals_against": 3,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D"
+        "goals_for": 2,
+        "goals_against": 1,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "W"
       },
       {
         "position": 1,
@@ -152,6 +152,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
+        "team": "Ferroviaria",
+        "played": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 0,
+        "goals_for": 3,
+        "goals_against": 3,
+        "goal_difference": 0,
+        "points": 1,
+        "form": "D"
+      },
+      {
+        "position": 2,
         "team_id": "ast_df319754a46744b29dd51ca5fa201626",
         "team": "Maringa FC",
         "played": 1,
@@ -163,20 +177,6 @@
         "goal_difference": 1,
         "points": 3,
         "form": "W"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed",
-        "team": "Inter de Limeira",
-        "played": 1,
-        "wins": 0,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 3,
-        "goals_against": 3,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D"
       },
       {
         "position": 3,
@@ -194,31 +194,17 @@
       },
       {
         "position": 3,
-        "team_id": "ast_33a966d65b14420c99a3f62c1db9084e",
-        "team": "Paysandu PA",
-        "played": 0,
+        "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed",
+        "team": "Inter de Limeira",
+        "played": 1,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
+        "goals_for": 3,
+        "goals_against": 3,
         "goal_difference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 4,
-        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
-        "team": "Brusque",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 0,
-        "form": ""
+        "points": 1,
+        "form": "D"
       },
       {
         "position": 4,
@@ -230,6 +216,20 @@
         "losses": 1,
         "goals_for": 0,
         "goals_against": 1,
+        "goal_difference": -1,
+        "points": 0,
+        "form": "L"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_33a966d65b14420c99a3f62c1db9084e",
+        "team": "Paysandu PA",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 2,
         "goal_difference": -1,
         "points": 0,
         "form": "L"
@@ -406,18 +406,18 @@
     "zh": [
       {
         "position": 1,
-        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
-        "team": "费罗维亚里亚",
+        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
+        "team": "布鲁斯克",
         "played": 1,
-        "wins": 0,
-        "draws": 1,
+        "wins": 1,
+        "draws": 0,
         "losses": 0,
-        "goals_for": 3,
-        "goals_against": 3,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D",
-        "form_label": "平"
+        "goals_for": 2,
+        "goals_against": 1,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "W",
+        "form_label": "胜"
       },
       {
         "position": 1,
@@ -436,6 +436,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
+        "team": "费罗维亚里亚",
+        "played": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 0,
+        "goals_for": 3,
+        "goals_against": 3,
+        "goal_difference": 0,
+        "points": 1,
+        "form": "D",
+        "form_label": "平"
+      },
+      {
+        "position": 2,
         "team_id": "ast_df319754a46744b29dd51ca5fa201626",
         "team": "马林加FC",
         "played": 1,
@@ -448,21 +463,6 @@
         "points": 3,
         "form": "W",
         "form_label": "胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed",
-        "team": "国际利梅拉",
-        "played": 1,
-        "wins": 0,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 3,
-        "goals_against": 3,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D",
-        "form_label": "平"
       },
       {
         "position": 3,
@@ -481,31 +481,18 @@
       },
       {
         "position": 3,
-        "team_id": "ast_33a966d65b14420c99a3f62c1db9084e",
-        "team": "佩桑杜",
-        "played": 0,
+        "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed",
+        "team": "国际利梅拉",
+        "played": 1,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
+        "goals_for": 3,
+        "goals_against": 3,
         "goal_difference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 4,
-        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
-        "team": "布鲁斯克",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 0,
-        "form": ""
+        "points": 1,
+        "form": "D",
+        "form_label": "平"
       },
       {
         "position": 4,
@@ -517,6 +504,21 @@
         "losses": 1,
         "goals_for": 0,
         "goals_against": 1,
+        "goal_difference": -1,
+        "points": 0,
+        "form": "L",
+        "form_label": "负"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_33a966d65b14420c99a3f62c1db9084e",
+        "team": "佩桑杜",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 2,
         "goal_difference": -1,
         "points": 0,
         "form": "L",
@@ -1173,7 +1175,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Arena Pernambuco",
         "status_label": "完场"
       },
       {
@@ -7568,8 +7570,8 @@
       }
     },
     "leader": {
-      "team": "Ferroviaria",
-      "points": 1,
+      "team": "Brusque",
+      "points": 3,
       "played": 1
     }
   },
@@ -7665,17 +7667,17 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
-            "team": "Ferroviaria",
+            "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
+            "team": "Brusque",
             "played": 1,
-            "wins": 0,
-            "draws": 1,
+            "wins": 1,
+            "draws": 0,
             "losses": 0,
-            "goals_for": 3,
-            "goals_against": 3,
-            "goal_difference": 0,
-            "points": 1,
-            "form": "D"
+            "goals_for": 2,
+            "goals_against": 1,
+            "goal_difference": 1,
+            "points": 3,
+            "form": "W"
           },
           {
             "position": 1,
@@ -7693,17 +7695,17 @@
           },
           {
             "position": 2,
-            "team_id": "ast_df319754a46744b29dd51ca5fa201626",
-            "team": "Maringa FC",
+            "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
+            "team": "Ferroviaria",
             "played": 1,
-            "wins": 1,
-            "draws": 0,
+            "wins": 0,
+            "draws": 1,
             "losses": 0,
-            "goals_for": 1,
-            "goals_against": 0,
-            "goal_difference": 1,
-            "points": 3,
-            "form": "W"
+            "goals_for": 3,
+            "goals_against": 3,
+            "goal_difference": 0,
+            "points": 1,
+            "form": "D"
           }
         ],
         "meta": {
@@ -8342,5 +8344,5 @@
     "matches_current_season": 214,
     "upcoming_matches": 20
   },
-  "updated_at": "2026/09/08"
+  "updated_at": "2026/09/09"
 }
