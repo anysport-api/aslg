@@ -288,6 +288,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_f5f71dd70ac342ae8442ffe135071003",
+        "team": "Jablonec",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 6,
+        "goal_difference": 4,
+        "points": 13,
+        "form": "WLDLW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_a9cb2d375edd405880520c1c0fee873a",
         "team": "Teplice",
         "played": 7,
@@ -301,7 +315,7 @@
         "form": "WWLLD"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_54f24e5c490942ffa4e0dc827464b89f",
         "team": "Brno",
         "played": 7,
@@ -313,20 +327,6 @@
         "goal_difference": 1,
         "points": 13,
         "form": "LWWWL"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_f5f71dd70ac342ae8442ffe135071003",
-        "team": "Jablonec",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 7,
-        "goals_against": 6,
-        "goal_difference": 1,
-        "points": 10,
-        "form": "LDLWW"
       },
       {
         "position": 8,
@@ -374,15 +374,15 @@
         "position": 11,
         "team_id": "ast_0b06723622d24ec7b9814a8dcf0c6404",
         "team": "Ostrava",
-        "played": 6,
+        "played": 7,
         "wins": 3,
         "draws": 0,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
+        "goals_against": 13,
+        "goal_difference": -9,
         "points": 9,
-        "form": "LWWLL"
+        "form": "LLWWL"
       },
       {
         "position": 12,
@@ -518,6 +518,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_f5f71dd70ac342ae8442ffe135071003",
+        "team": "亚布洛内茨",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 10,
+        "goals_against": 6,
+        "goal_difference": 4,
+        "points": 13,
+        "form": "WLDLW",
+        "form_label": "胜负平负胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_a9cb2d375edd405880520c1c0fee873a",
         "team": "特普利采",
         "played": 7,
@@ -532,7 +547,7 @@
         "form_label": "胜胜负负平"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_54f24e5c490942ffa4e0dc827464b89f",
         "team": "布尔诺",
         "played": 7,
@@ -545,21 +560,6 @@
         "points": 13,
         "form": "LWWWL",
         "form_label": "负胜胜胜负"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_f5f71dd70ac342ae8442ffe135071003",
-        "team": "亚布洛内茨",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 7,
-        "goals_against": 6,
-        "goal_difference": 1,
-        "points": 10,
-        "form": "LDLWW",
-        "form_label": "负平负胜胜"
       },
       {
         "position": 8,
@@ -610,16 +610,16 @@
         "position": 11,
         "team_id": "ast_0b06723622d24ec7b9814a8dcf0c6404",
         "team": "奥斯特拉瓦",
-        "played": 6,
+        "played": 7,
         "wins": 3,
         "draws": 0,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
+        "goals_against": 13,
+        "goal_difference": -9,
         "points": 9,
-        "form": "LWWLL",
-        "form_label": "负胜胜负负"
+        "form": "LLWWL",
+        "form_label": "负负胜胜负"
       },
       {
         "position": 12,
@@ -6809,7 +6809,7 @@
         "match_id": "as_d9078fb1eb2840eca3615fa659552aea",
         "date": "2026-09-09",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "捷克甲级联赛",
         "league_id": "asl_dd3df7c4b4814203bfcc413b86144445",
         "season": "2026/2027",
@@ -6821,13 +6821,16 @@
           "name": "维克托利亚·普尔岑",
           "team_id": "ast_ec125b88d57c47c1b7f76946efea96e9"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d0d0ae57ab4c4ffbad340586196876ec",
         "date": "2026-09-09",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "捷克甲级联赛",
         "league_id": "asl_dd3df7c4b4814203bfcc413b86144445",
         "season": "2026/2027",
@@ -6839,7 +6842,10 @@
           "name": "奥斯特拉瓦",
           "team_id": "ast_0b06723622d24ec7b9814a8dcf0c6404"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_529c4700ef5e48bda2a6aa3935142457",
@@ -8757,42 +8763,6 @@
         "away": {
           "name": "斯洛伐克",
           "team_id": "ast_ff40c7efb83f42d6b43d0470ea2cac25"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d0d0ae57ab4c4ffbad340586196876ec",
-        "date": "2026-09-09",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_dd3df7c4b4814203bfcc413b86144445",
-        "season": "2026/2027",
-        "home": {
-          "name": "亚布洛内茨",
-          "team_id": "ast_f5f71dd70ac342ae8442ffe135071003"
-        },
-        "away": {
-          "name": "奥斯特拉瓦",
-          "team_id": "ast_0b06723622d24ec7b9814a8dcf0c6404"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d9078fb1eb2840eca3615fa659552aea",
-        "date": "2026-09-09",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_dd3df7c4b4814203bfcc413b86144445",
-        "season": "2026/2027",
-        "home": {
-          "name": "赫拉德茨克拉洛维",
-          "team_id": "ast_c34ae08e78734a2197ee38275976de09"
-        },
-        "away": {
-          "name": "维克托利亚·普尔岑",
-          "team_id": "ast_ec125b88d57c47c1b7f76946efea96e9"
         },
         "venue": ""
       }
@@ -14322,13 +14292,13 @@
     }
   },
   "stats": {
-    "matches_completed": 53,
-    "total_goals": 156,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 24,
-    "draws": 11,
+    "matches_completed": 55,
+    "total_goals": 159,
+    "avg_goals_per_match": 2.89,
+    "home_wins": 25,
+    "draws": 12,
     "away_wins": 18,
-    "home_win_pct": 45.3,
+    "home_win_pct": 45.5,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -15126,7 +15096,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 43
+    "upcoming_matches": 41
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/10"
 }

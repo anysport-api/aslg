@@ -148,6 +148,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
+        "team": "Ind. Valle del Cauca",
+        "played": 7,
+        "wins": 4,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 2,
+        "goal_difference": 6,
+        "points": 14,
+        "form": "DWWLW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
         "team": "Cartagena",
         "played": 7,
@@ -159,20 +173,6 @@
         "goal_difference": 7,
         "points": 13,
         "form": "WLWWL"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
-        "team": "Ind. Valle del Cauca",
-        "played": 6,
-        "wins": 4,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 2,
-        "goal_difference": 6,
-        "points": 13,
-        "form": "WWLWD"
       },
       {
         "position": 3,
@@ -231,6 +231,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
+        "team": "Quindio",
+        "played": 7,
+        "wins": 2,
+        "draws": 4,
+        "losses": 1,
+        "goals_for": 5,
+        "goals_against": 3,
+        "goal_difference": 2,
+        "points": 10,
+        "form": "DDWWD"
+      },
+      {
+        "position": 8,
         "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce",
         "team": "Real Santander",
         "played": 7,
@@ -241,20 +255,6 @@
         "goals_against": 12,
         "goal_difference": -1,
         "points": 10,
-        "form": "DWWDD"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
-        "team": "Quindio",
-        "played": 6,
-        "wins": 2,
-        "draws": 3,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 3,
-        "goal_difference": 2,
-        "points": 9,
         "form": "DWWDD"
       },
       {
@@ -373,6 +373,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
+        "team": "尤姆博独立",
+        "played": 7,
+        "wins": 4,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 2,
+        "goal_difference": 6,
+        "points": 14,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
         "team": "卡塔赫纳",
         "played": 7,
@@ -385,21 +400,6 @@
         "points": 13,
         "form": "WLWWL",
         "form_label": "胜负胜胜负"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
-        "team": "尤姆博独立",
-        "played": 6,
-        "wins": 4,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 2,
-        "goal_difference": 6,
-        "points": 13,
-        "form": "WWLWD",
-        "form_label": "胜胜负胜平"
       },
       {
         "position": 3,
@@ -462,6 +462,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
+        "team": "昆迪奥",
+        "played": 7,
+        "wins": 2,
+        "draws": 4,
+        "losses": 1,
+        "goals_for": 5,
+        "goals_against": 3,
+        "goal_difference": 2,
+        "points": 10,
+        "form": "DDWWD",
+        "form_label": "平平胜胜平"
+      },
+      {
+        "position": 8,
         "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce",
         "team": "皇家桑坦德",
         "played": 7,
@@ -472,21 +487,6 @@
         "goals_against": 12,
         "goal_difference": -1,
         "points": 10,
-        "form": "DWWDD",
-        "form_label": "平胜胜平平"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
-        "team": "昆迪奥",
-        "played": 6,
-        "wins": 2,
-        "draws": 3,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 3,
-        "goal_difference": 2,
-        "points": 9,
         "form": "DWWDD",
         "form_label": "平胜胜平平"
       },
@@ -1989,7 +1989,7 @@
         "match_id": "as_b9fbb3ba33e14245bb3353050285b513",
         "date": "2026-09-09",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -2001,7 +2001,10 @@
           "name": "昆迪奥",
           "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_805ef67df0084cceac5f4dac8b9e860d",
@@ -11704,13 +11707,13 @@
     }
   },
   "stats": {
-    "matches_completed": 197,
+    "matches_completed": 198,
     "total_goals": 434,
-    "avg_goals_per_match": 2.2,
+    "avg_goals_per_match": 2.19,
     "home_wins": 74,
-    "draws": 61,
+    "draws": 62,
     "away_wins": 62,
-    "home_win_pct": 37.6,
+    "home_win_pct": 37.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11736,8 +11739,8 @@
       }
     },
     "leader": {
-      "team": "Cartagena",
-      "points": 13,
+      "team": "Ind. Valle del Cauca",
+      "points": 14,
       "played": 7
     }
   },
@@ -11833,6 +11836,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
+            "team": "Ind. Valle del Cauca",
+            "played": 7,
+            "wins": 4,
+            "draws": 2,
+            "losses": 1,
+            "goals_for": 8,
+            "goals_against": 2,
+            "goal_difference": 6,
+            "points": 14,
+            "form": "DWWLW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
             "team": "Cartagena",
             "played": 7,
@@ -11844,20 +11861,6 @@
             "goal_difference": 7,
             "points": 13,
             "form": "WLWWL"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
-            "team": "Ind. Valle del Cauca",
-            "played": 6,
-            "wins": 4,
-            "draws": 1,
-            "losses": 1,
-            "goals_for": 8,
-            "goals_against": 2,
-            "goal_difference": 6,
-            "points": 13,
-            "form": "WWLWD"
           },
           {
             "position": 3,
@@ -12510,5 +12513,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/10"
 }

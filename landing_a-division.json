@@ -142,15 +142,15 @@
         "position": 3,
         "team_id": "ast_86aa04e45fd74264978047b0132a98fa",
         "team": "Transport United",
-        "played": 13,
-        "wins": 8,
+        "played": 14,
+        "wins": 9,
         "draws": 1,
         "losses": 4,
-        "goals_for": 19,
+        "goals_for": 24,
         "goals_against": 15,
-        "goal_difference": 4,
-        "points": 25,
-        "form": "LWWDW"
+        "goal_difference": 9,
+        "points": 28,
+        "form": "WLWWD"
       },
       {
         "position": 4,
@@ -196,20 +196,6 @@
       },
       {
         "position": 7,
-        "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5",
-        "team": "BFF Academy U19",
-        "played": 13,
-        "wins": 4,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 24,
-        "goals_against": 29,
-        "goal_difference": -5,
-        "points": 16,
-        "form": "DWLDD"
-      },
-      {
-        "position": 8,
         "team_id": "ast_4c9c865736294da090f256f15e8d7498",
         "team": "Tsirang",
         "played": 15,
@@ -221,6 +207,20 @@
         "goal_difference": -9,
         "points": 16,
         "form": "LWDDL"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5",
+        "team": "BFF Academy U19",
+        "played": 14,
+        "wins": 4,
+        "draws": 4,
+        "losses": 6,
+        "goals_for": 24,
+        "goals_against": 34,
+        "goal_difference": -10,
+        "points": 16,
+        "form": "LDWLD"
       },
       {
         "position": 9,
@@ -286,16 +286,16 @@
         "position": 3,
         "team_id": "ast_86aa04e45fd74264978047b0132a98fa",
         "team": "交通联",
-        "played": 13,
-        "wins": 8,
+        "played": 14,
+        "wins": 9,
         "draws": 1,
         "losses": 4,
-        "goals_for": 19,
+        "goals_for": 24,
         "goals_against": 15,
-        "goal_difference": 4,
-        "points": 25,
-        "form": "LWWDW",
-        "form_label": "负胜胜平胜"
+        "goal_difference": 9,
+        "points": 28,
+        "form": "WLWWD",
+        "form_label": "胜负胜胜平"
       },
       {
         "position": 4,
@@ -344,21 +344,6 @@
       },
       {
         "position": 7,
-        "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5",
-        "team": "BFF学院U19",
-        "played": 13,
-        "wins": 4,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 24,
-        "goals_against": 29,
-        "goal_difference": -5,
-        "points": 16,
-        "form": "DWLDD",
-        "form_label": "平胜负平平"
-      },
-      {
-        "position": 8,
         "team_id": "ast_4c9c865736294da090f256f15e8d7498",
         "team": "齐朗",
         "played": 15,
@@ -371,6 +356,21 @@
         "points": 16,
         "form": "LWDDL",
         "form_label": "负胜平平负"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5",
+        "team": "BFF学院U19",
+        "played": 14,
+        "wins": 4,
+        "draws": 4,
+        "losses": 6,
+        "goals_for": 24,
+        "goals_against": 34,
+        "goal_difference": -10,
+        "points": 16,
+        "form": "LDWLD",
+        "form_label": "负平胜负平"
       },
       {
         "position": 9,
@@ -2710,26 +2710,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b522fdad74a345858ea590ec183ad6dd",
-        "date": "2026-09-09",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "不丹甲级联赛",
-        "league_id": "asl_9288d76794134f2f923fda6717934dc2",
-        "season": "2026",
-        "home": {
-          "name": "BFF学院U19",
-          "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5"
-        },
-        "away": {
-          "name": "交通联",
-          "team_id": "ast_86aa04e45fd74264978047b0132a98fa"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
       }
     ]
   },
@@ -3258,15 +3238,15 @@
             "position": 3,
             "team_id": "ast_86aa04e45fd74264978047b0132a98fa",
             "team": "Transport United",
-            "played": 13,
-            "wins": 8,
+            "played": 14,
+            "wins": 9,
             "draws": 1,
             "losses": 4,
-            "goals_for": 19,
+            "goals_for": 24,
             "goals_against": 15,
-            "goal_difference": 4,
-            "points": 25,
-            "form": "LWWDW"
+            "goal_difference": 9,
+            "points": 28,
+            "form": "WLWWD"
           }
         ],
         "meta": {
@@ -3865,7 +3845,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/10"
 }

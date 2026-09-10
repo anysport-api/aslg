@@ -156,29 +156,29 @@
         "position": 7,
         "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92",
         "team": "Inter Toronto",
-        "played": 18,
+        "played": 19,
         "wins": 4,
-        "draws": 7,
+        "draws": 8,
         "losses": 7,
-        "goals_for": 23,
-        "goals_against": 38,
+        "goals_for": 26,
+        "goals_against": 41,
         "goal_difference": -15,
-        "points": 19,
-        "form": "DLDWD"
+        "points": 20,
+        "form": "DDLDW"
       },
       {
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "Pacific FC",
-        "played": 19,
+        "played": 20,
         "wins": 1,
-        "draws": 6,
+        "draws": 7,
         "losses": 12,
-        "goals_for": 22,
-        "goals_against": 39,
+        "goals_for": 25,
+        "goals_against": 42,
         "goal_difference": -17,
-        "points": 9,
-        "form": "DWLDD"
+        "points": 10,
+        "form": "DDWLD"
       }
     ],
     "zh": [
@@ -276,31 +276,31 @@
         "position": 7,
         "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92",
         "team": "国际多伦多",
-        "played": 18,
+        "played": 19,
         "wins": 4,
-        "draws": 7,
+        "draws": 8,
         "losses": 7,
-        "goals_for": 23,
-        "goals_against": 38,
+        "goals_for": 26,
+        "goals_against": 41,
         "goal_difference": -15,
-        "points": 19,
-        "form": "DLDWD",
-        "form_label": "平负平胜平"
+        "points": 20,
+        "form": "DDLDW",
+        "form_label": "平平负平胜"
       },
       {
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "太平洋FC",
-        "played": 19,
+        "played": 20,
         "wins": 1,
-        "draws": 6,
+        "draws": 7,
         "losses": 12,
-        "goals_for": 22,
-        "goals_against": 39,
+        "goals_for": 25,
+        "goals_against": 42,
         "goal_difference": -17,
-        "points": 9,
-        "form": "DWLDD",
-        "form_label": "平胜负平平"
+        "points": 10,
+        "form": "DDWLD",
+        "form_label": "平平胜负平"
       }
     ]
   },
@@ -945,7 +945,7 @@
         "match_id": "as_e18f02fdd968490dad6bb5a822e31514",
         "date": "2026-09-09",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -957,7 +957,10 @@
           "name": "太平洋FC",
           "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ae7ba83c683f4d2fb459e61d08d83557",
@@ -2642,6 +2645,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_e4719f94f1d1432092a266fe47ae34ad",
+        "date": "2026-10-25",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "加拿大超级联赛",
+        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
+        "season": "2026",
+        "home": {
+          "name": "太平洋FC",
+          "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
+        },
+        "away": {
+          "name": "福尔吉",
+          "team_id": "ast_1e7a6eeae41147c0ac02796dfe9a5cb0"
+        },
+        "ht_score": "-",
+        "venue": "Starlight Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_bad7f498682f4a3fac8a5924f234661f",
+        "date": "2026-10-25",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "加拿大超级联赛",
+        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
+        "season": "2026",
+        "home": {
+          "name": "国际多伦多",
+          "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92"
+        },
+        "away": {
+          "name": "渥太华竞技",
+          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
+        },
+        "ht_score": "-",
+        "venue": "约克雄狮体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cb13fc3360df4eb397ac307e92ea9405",
+        "date": "2026-10-25",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "加拿大超级联赛",
+        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
+        "season": "2026",
+        "home": {
+          "name": "HFX流浪者",
+          "team_id": "ast_570e22319b7a495c89c79b071111007b"
+        },
+        "away": {
+          "name": "魁北克超越",
+          "team_id": "ast_eaee4847fb6f4636806d5070cb08014c"
+        },
+        "ht_score": "-",
+        "venue": "流浪者球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_bd9ac2283ca34e6c8fd9b28be24b8f18",
+        "date": "2026-10-25",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "加拿大超级联赛",
+        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
+        "season": "2026",
+        "home": {
+          "name": "骑兵",
+          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
+        },
+        "away": {
+          "name": "温哥华 FC",
+          "team_id": "ast_c5ddaa558822424296632dc759cff76d"
+        },
+        "ht_score": "-",
+        "venue": "ATCO球场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_aeb230698c964c8389cf2e04495176df",
         "date": "2026-10-17",
         "time": "20:00",
@@ -3180,24 +3263,6 @@
         "ht_score": "-",
         "venue": "CEPSUM Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e18f02fdd968490dad6bb5a822e31514",
-        "date": "2026-09-09",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "国际多伦多",
-          "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92"
-        },
-        "away": {
-          "name": "太平洋FC",
-          "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4178,13 +4243,13 @@
     }
   },
   "stats": {
-    "matches_completed": 80,
-    "total_goals": 236,
-    "avg_goals_per_match": 2.95,
+    "matches_completed": 81,
+    "total_goals": 242,
+    "avg_goals_per_match": 2.99,
     "home_wins": 38,
-    "draws": 18,
+    "draws": 19,
     "away_wins": 24,
-    "home_win_pct": 47.5,
+    "home_win_pct": 46.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4994,7 +5059,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 112,
-    "upcoming_matches": 28
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/10"
 }

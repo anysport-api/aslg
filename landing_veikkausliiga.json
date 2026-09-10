@@ -3605,7 +3605,7 @@
         "match_id": "as_9ff62feacc254341a8797b4489842cd1",
         "date": "2026-09-09",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3617,7 +3617,10 @@
           "name": "国际图尔库",
           "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1388e7ade33841c78325030809efea52",
@@ -6499,6 +6502,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_a61333760b4f4b509f7f966b8414f5b9",
+        "date": "2026-10-25",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Veikkausliiga",
+        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
+        "season": "2026",
+        "home": {
+          "name": "HJK",
+          "team_id": "ast_f86e6d4b65ba41898bfffb0803c6171d"
+        },
+        "away": {
+          "name": "库普斯",
+          "team_id": "ast_069c39eeb4cb428ca0602b0c4ae1c2a3"
+        },
+        "ht_score": "-",
+        "venue": "博尔特球场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_b8c3b0fcafae441da124bb6f6eea35a7",
         "date": "2026-10-24",
         "time": "14:00",
@@ -7063,24 +7086,6 @@
         "away": {
           "name": "TPS",
           "team_id": "ast_44f3fd86dd94460494bbaa175a9af264"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9ff62feacc254341a8797b4489842cd1",
-        "date": "2026-09-09",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "HJK",
-          "team_id": "ast_f86e6d4b65ba41898bfffb0803c6171d"
-        },
-        "away": {
-          "name": "国际图尔库",
-          "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
         },
         "venue": ""
       }
@@ -11504,13 +11509,13 @@
     }
   },
   "stats": {
-    "matches_completed": 137,
-    "total_goals": 349,
+    "matches_completed": 138,
+    "total_goals": 352,
     "avg_goals_per_match": 2.55,
-    "home_wins": 63,
+    "home_wins": 64,
     "draws": 37,
     "away_wins": 37,
-    "home_win_pct": 46.0,
+    "home_win_pct": 46.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12317,5 +12322,5 @@
     "matches_current_season": 177,
     "upcoming_matches": 30
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/10"
 }

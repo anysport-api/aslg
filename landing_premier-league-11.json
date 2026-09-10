@@ -1625,7 +1625,7 @@
         "match_id": "as_9e3cabdc32064449aa632627226e8285",
         "date": "2026-09-09",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "哈萨克斯坦超级联赛",
         "league_id": "asl_8eb03e3acc1a4e1f857c79d4c9cedfae",
         "season": "2026",
@@ -1637,7 +1637,10 @@
           "name": "泽尼斯",
           "team_id": "ast_0b2ebb1fb1d0443998b9307c98e94ca4"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_eb3e0b0129d14781817dd0319e6fce00",
@@ -5611,6 +5614,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_6a42e25681464073ae11ce1dd42f4bcc",
+        "date": "2026-10-25",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "哈萨克斯坦超级联赛",
+        "league_id": "asl_8eb03e3acc1a4e1f857c79d4c9cedfae",
+        "season": "2026",
+        "home": {
+          "name": "FC阿斯塔纳",
+          "team_id": "ast_f90e3d342bde4d31b20d6a0d5fa0ed1d"
+        },
+        "away": {
+          "name": "凯萨尔基兹勒尔达",
+          "team_id": "ast_921686ad3b02404492f2cce4c800dba0"
+        },
+        "ht_score": "-",
+        "venue": "阿斯塔纳竞技场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b4540b725f8a4e7485de2f8d3f16ef1e",
+        "date": "2026-10-25",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "哈萨克斯坦超级联赛",
+        "league_id": "asl_8eb03e3acc1a4e1f857c79d4c9cedfae",
+        "season": "2026",
+        "home": {
+          "name": "阿特劳",
+          "team_id": "ast_d5a0604996b34be9b00a319706204029"
+        },
+        "away": {
+          "name": "埃尔季斯帕夫洛达尔",
+          "team_id": "ast_b761684a191f45f8b3a53f8855d875a4"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b10b0eeb6ce64063b90fa3d33f3d0474",
+        "date": "2026-10-25",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "哈萨克斯坦超级联赛",
+        "league_id": "asl_8eb03e3acc1a4e1f857c79d4c9cedfae",
+        "season": "2026",
+        "home": {
+          "name": "阿尔泰",
+          "team_id": "ast_af5f6e79624749dd89a17d48570424e0"
+        },
+        "away": {
+          "name": "耶利马伊·塞梅伊",
+          "team_id": "ast_bc54b4539e4d491992d8a49270941aca"
+        },
+        "ht_score": "-",
+        "venue": "Vostok Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f6c93db5b49f4aed88e41471b3528be8",
+        "date": "2026-10-25",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "哈萨克斯坦超级联赛",
+        "league_id": "asl_8eb03e3acc1a4e1f857c79d4c9cedfae",
+        "season": "2026",
+        "home": {
+          "name": "阿克托贝",
+          "team_id": "ast_1177778483d34a1d95b89f109e888620"
+        },
+        "away": {
+          "name": "凯拉特阿拉木图",
+          "team_id": "ast_0080503c24a54714aafa2b7f009187fe"
+        },
+        "ht_score": "-",
+        "venue": "Koblandy Batyr Stadium",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_0f29d1452dd24c41aadaf35019a230dd",
         "date": "2026-10-24",
         "time": "10:00",
@@ -6351,24 +6434,6 @@
         "away": {
           "name": "阿特劳",
           "team_id": "ast_d5a0604996b34be9b00a319706204029"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9e3cabdc32064449aa632627226e8285",
-        "date": "2026-09-09",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "哈萨克斯坦超级联赛",
-        "league_id": "asl_8eb03e3acc1a4e1f857c79d4c9cedfae",
-        "season": "2026",
-        "home": {
-          "name": "凯拉特阿拉木图",
-          "team_id": "ast_0080503c24a54714aafa2b7f009187fe"
-        },
-        "away": {
-          "name": "泽尼斯",
-          "team_id": "ast_0b2ebb1fb1d0443998b9307c98e94ca4"
         },
         "venue": ""
       }
@@ -8183,13 +8248,13 @@
     }
   },
   "stats": {
-    "matches_completed": 189,
-    "total_goals": 467,
+    "matches_completed": 190,
+    "total_goals": 470,
     "avg_goals_per_match": 2.47,
-    "home_wins": 89,
+    "home_wins": 90,
     "draws": 55,
     "away_wins": 45,
-    "home_win_pct": 47.1,
+    "home_win_pct": 47.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8994,7 +9059,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 39
+    "upcoming_matches": 42
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/10"
 }

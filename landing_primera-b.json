@@ -132,6 +132,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe",
+        "team": "Recoleta",
+        "played": 24,
+        "wins": 10,
+        "draws": 7,
+        "losses": 7,
+        "goals_for": 36,
+        "goals_against": 33,
+        "goal_difference": 3,
+        "points": 37,
+        "form": "WWDWD"
+      },
+      {
+        "position": 6,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "Magallanes",
         "played": 23,
@@ -145,7 +159,7 @@
         "form": "DLWWD"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_1ed14f5057d040cebce157a9b8764e7f",
         "team": "U. Espanola",
         "played": 24,
@@ -157,20 +171,6 @@
         "goal_difference": 0,
         "points": 35,
         "form": "LDLWW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe",
-        "team": "Recoleta",
-        "played": 23,
-        "wins": 9,
-        "draws": 7,
-        "losses": 7,
-        "goals_for": 34,
-        "goals_against": 32,
-        "goal_difference": 2,
-        "points": 34,
-        "form": "WDWDW"
       },
       {
         "position": 8,
@@ -190,15 +190,15 @@
         "position": 9,
         "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939",
         "team": "San Marcos de Arica",
-        "played": 23,
+        "played": 24,
         "wins": 8,
         "draws": 9,
-        "losses": 6,
-        "goals_for": 27,
-        "goals_against": 21,
-        "goal_difference": 6,
+        "losses": 7,
+        "goals_for": 28,
+        "goals_against": 23,
+        "goal_difference": 5,
         "points": 33,
-        "form": "WLLLL"
+        "form": "LWLLL"
       },
       {
         "position": 10,
@@ -362,6 +362,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe",
+        "team": "雷科莱塔",
+        "played": 24,
+        "wins": 10,
+        "draws": 7,
+        "losses": 7,
+        "goals_for": 36,
+        "goals_against": 33,
+        "goal_difference": 3,
+        "points": 37,
+        "form": "WWDWD",
+        "form_label": "胜胜平胜平"
+      },
+      {
+        "position": 6,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "马加利亚尼斯",
         "played": 23,
@@ -376,7 +391,7 @@
         "form_label": "平负胜胜平"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_1ed14f5057d040cebce157a9b8764e7f",
         "team": "西班牙大学",
         "played": 24,
@@ -389,21 +404,6 @@
         "points": 35,
         "form": "LDLWW",
         "form_label": "负平负胜胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe",
-        "team": "雷科莱塔",
-        "played": 23,
-        "wins": 9,
-        "draws": 7,
-        "losses": 7,
-        "goals_for": 34,
-        "goals_against": 32,
-        "goal_difference": 2,
-        "points": 34,
-        "form": "WDWDW",
-        "form_label": "胜平胜平胜"
       },
       {
         "position": 8,
@@ -424,16 +424,16 @@
         "position": 9,
         "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939",
         "team": "圣马尔科斯德阿里卡",
-        "played": 23,
+        "played": 24,
         "wins": 8,
         "draws": 9,
-        "losses": 6,
-        "goals_for": 27,
-        "goals_against": 21,
-        "goal_difference": 6,
+        "losses": 7,
+        "goals_for": 28,
+        "goals_against": 23,
+        "goal_difference": 5,
         "points": 33,
-        "form": "WLLLL",
-        "form_label": "胜负负负负"
+        "form": "LWLLL",
+        "form_label": "负胜负负负"
       },
       {
         "position": 10,
@@ -1549,7 +1549,7 @@
         "match_id": "as_c50ccd52768f49e280732d9f33986b21",
         "date": "2026-09-09",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1561,13 +1561,16 @@
           "name": "马加利亚尼斯",
           "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ca2cc01defa44203a10648cbeda6592d",
         "date": "2026-09-09",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1579,13 +1582,16 @@
           "name": "圣克鲁斯",
           "team_id": "ast_579e605d20ef4cc3ae54ef15b8ea093b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d58d42d03d7e4325b07ddd26302b4471",
         "date": "2026-09-09",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1597,7 +1603,10 @@
           "name": "圣马尔科斯德阿里卡",
           "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cff48fc60eab48d1b1a93ad123a52b91",
@@ -5529,6 +5538,166 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_e2264f68f2c74b58a98e5b30747820bf",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "西班牙大学",
+          "team_id": "ast_1ed14f5057d040cebce157a9b8764e7f"
+        },
+        "away": {
+          "name": "流浪者队",
+          "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e"
+        },
+        "ht_score": "-",
+        "venue": "圣劳拉-SEK大学体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_aca92335133a4c2391cd34704870baeb",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "圣路易斯",
+          "team_id": "ast_def3eed8eb6b4522934c849bef7b482b"
+        },
+        "away": {
+          "name": "雷科莱塔",
+          "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2ae7159efa904c3d85d7bd3515342337",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "流浪者",
+          "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4"
+        },
+        "away": {
+          "name": "科布雷洛阿",
+          "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b"
+        },
+        "ht_score": "-",
+        "venue": "塔尔卡市政体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_96cf884171ae4433a27ef446346e61af",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "普埃尔托蒙特",
+          "team_id": "ast_5f280de17c454d3f87c786d813a003c1"
+        },
+        "away": {
+          "name": "圣费利佩",
+          "team_id": "ast_e483bf8fb4824883adf10b6547088ed9"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Regional de Chinquihue",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f948163a28d7446ebe7d8200ea400514",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "特木科体育",
+          "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
+        },
+        "away": {
+          "name": "圣马尔科斯德阿里卡",
+          "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e38e8012bf5048cda41d49e7c6812eba",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "伊基克体育",
+          "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88"
+        },
+        "away": {
+          "name": "马加利亚尼斯",
+          "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
+        },
+        "ht_score": "-",
+        "venue": "冠军之地体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_beeee0bbc2d34f75b1e7b66b947c9bb2",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "科皮亚波",
+          "team_id": "ast_fc71ad129ad74b5a8f86f35f48f062c2"
+        },
+        "away": {
+          "name": "圣克鲁斯",
+          "team_id": "ast_579e605d20ef4cc3ae54ef15b8ea093b"
+        },
+        "ht_score": "-",
+        "venue": "路易斯·巴伦苏埃拉·埃尔莫西利亚体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c28af5c03e6640c7885b999d6a07a8fe",
+        "date": "2026-10-25",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利B级联赛",
+        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
+        "season": "2026",
+        "home": {
+          "name": "安托法加斯塔",
+          "team_id": "ast_86faf5a093c04da5a07943234315037a"
+        },
+        "away": {
+          "name": "库里科联合",
+          "team_id": "ast_52d6f5ae5f76402195ac8eb0e1a1610b"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Regional de Antofagasta",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_ce34a77fd97344538a7f7e16c4f99f73",
         "date": "2026-10-18",
         "time": "20:00",
@@ -6191,60 +6360,6 @@
         "away": {
           "name": "科布雷洛阿",
           "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d58d42d03d7e4325b07ddd26302b4471",
-        "date": "2026-09-09",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "雷科莱塔",
-          "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe"
-        },
-        "away": {
-          "name": "圣马尔科斯德阿里卡",
-          "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ca2cc01defa44203a10648cbeda6592d",
-        "date": "2026-09-09",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "伊基克体育",
-          "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88"
-        },
-        "away": {
-          "name": "圣克鲁斯",
-          "team_id": "ast_579e605d20ef4cc3ae54ef15b8ea093b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c50ccd52768f49e280732d9f33986b21",
-        "date": "2026-09-09",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "科皮亚波",
-          "team_id": "ast_fc71ad129ad74b5a8f86f35f48f062c2"
-        },
-        "away": {
-          "name": "马加利亚尼斯",
-          "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
         },
         "venue": ""
       }
@@ -8357,13 +8472,13 @@
     }
   },
   "stats": {
-    "matches_completed": 187,
-    "total_goals": 501,
-    "avg_goals_per_match": 2.68,
-    "home_wins": 81,
-    "draws": 58,
-    "away_wins": 48,
-    "home_win_pct": 43.3,
+    "matches_completed": 190,
+    "total_goals": 507,
+    "avg_goals_per_match": 2.67,
+    "home_wins": 82,
+    "draws": 59,
+    "away_wins": 49,
+    "home_win_pct": 43.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9161,7 +9276,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 37
+    "upcoming_matches": 42
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/10"
 }
