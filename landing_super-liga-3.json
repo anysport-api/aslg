@@ -156,15 +156,15 @@
         "position": 1,
         "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
         "team": "Crvena zvezda",
-        "played": 6,
+        "played": 7,
         "wins": 6,
-        "draws": 0,
+        "draws": 1,
         "losses": 0,
         "goals_for": 18,
         "goals_against": 2,
         "goal_difference": 16,
-        "points": 18,
-        "form": "WWWWW"
+        "points": 19,
+        "form": "DWWWW"
       },
       {
         "position": 2,
@@ -210,6 +210,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+        "team": "Radnik",
+        "played": 8,
+        "wins": 3,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 9,
+        "goals_against": 10,
+        "goal_difference": -1,
+        "points": 12,
+        "form": "DWLWW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_30640f36f4d34a8fb3a7e4c096af6f38",
         "team": "Radnicki 1923",
         "played": 7,
@@ -221,20 +235,6 @@
         "goal_difference": 1,
         "points": 11,
         "form": "DDWWW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-        "team": "Radnik",
-        "played": 7,
-        "wins": 3,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 10,
-        "goal_difference": -1,
-        "points": 11,
-        "form": "WLWWL"
       },
       {
         "position": 7,
@@ -354,16 +354,16 @@
         "position": 1,
         "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
         "team": "红星",
-        "played": 6,
+        "played": 7,
         "wins": 6,
-        "draws": 0,
+        "draws": 1,
         "losses": 0,
         "goals_for": 18,
         "goals_against": 2,
         "goal_difference": 16,
-        "points": 18,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "points": 19,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
       },
       {
         "position": 2,
@@ -412,6 +412,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+        "team": "拉德尼克",
+        "played": 8,
+        "wins": 3,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 9,
+        "goals_against": 10,
+        "goal_difference": -1,
+        "points": 12,
+        "form": "DWLWW",
+        "form_label": "平胜负胜胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_30640f36f4d34a8fb3a7e4c096af6f38",
         "team": "拉德尼基1923",
         "played": 7,
@@ -424,21 +439,6 @@
         "points": 11,
         "form": "DDWWW",
         "form_label": "平平胜胜胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-        "team": "拉德尼克",
-        "played": 7,
-        "wins": 3,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 10,
-        "goal_difference": -1,
-        "points": 11,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
       },
       {
         "position": 7,
@@ -5369,7 +5369,7 @@
         "match_id": "as_280c610238f144d5af647c063984b704",
         "date": "2026-09-17",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -5381,9 +5381,7 @@
           "name": "红星",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
         },
-        "ht_score": "-",
-        "venue": "青春体育休闲中心",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_00d4a752492a43c8ab7d1ecece19ec93",
@@ -5515,7 +5513,7 @@
         "match_id": "as_ee48782c6b634f3fa9c6d130166245e4",
         "date": "2026-09-10",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -5527,7 +5525,10 @@
           "name": "红星",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_daf9075cd6ed4ac98dca7fe701528192",
@@ -7225,7 +7226,7 @@
         "match_id": "as_280c610238f144d5af647c063984b704",
         "date": "2026-09-17",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -7237,9 +7238,7 @@
           "name": "红星",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
         },
-        "ht_score": "-",
-        "venue": "青春体育休闲中心",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_00d4a752492a43c8ab7d1ecece19ec93",
@@ -7364,24 +7363,6 @@
         "away": {
           "name": "马茨瓦",
           "team_id": "ast_860046e6eefd4855bbf70a1a42564d6e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ee48782c6b634f3fa9c6d130166245e4",
-        "date": "2026-09-10",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "拉德尼克",
-          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9"
-        },
-        "away": {
-          "name": "红星",
-          "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
         },
         "venue": ""
       }
@@ -12500,13 +12481,13 @@
     }
   },
   "stats": {
-    "matches_completed": 52,
+    "matches_completed": 53,
     "total_goals": 127,
-    "avg_goals_per_match": 2.44,
+    "avg_goals_per_match": 2.4,
     "home_wins": 30,
-    "draws": 12,
+    "draws": 13,
     "away_wins": 10,
-    "home_win_pct": 57.7,
+    "home_win_pct": 56.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12533,8 +12514,8 @@
     },
     "leader": {
       "team": "Crvena zvezda",
-      "points": 18,
-      "played": 6
+      "points": 19,
+      "played": 7
     }
   },
   "coverage": {
@@ -12629,15 +12610,15 @@
             "position": 1,
             "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
             "team": "Crvena zvezda",
-            "played": 6,
+            "played": 7,
             "wins": 6,
-            "draws": 0,
+            "draws": 1,
             "losses": 0,
             "goals_for": 18,
             "goals_against": 2,
             "goal_difference": 16,
-            "points": 18,
-            "form": "WWWWW"
+            "points": 19,
+            "form": "DWWWW"
           },
           {
             "position": 2,
@@ -13308,7 +13289,7 @@
     "teams_all_time": 41,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 37
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/09/10"
+  "updated_at": "2026/09/11"
 }

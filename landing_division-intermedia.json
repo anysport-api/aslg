@@ -186,15 +186,15 @@
         "position": 4,
         "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
         "team": "Benjamin Aceval",
-        "played": 22,
+        "played": 23,
         "wins": 11,
         "draws": 6,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 36,
-        "goals_against": 24,
-        "goal_difference": 12,
+        "goals_against": 26,
+        "goal_difference": 10,
         "points": 39,
-        "form": "DWLLW"
+        "form": "LDWLL"
       },
       {
         "position": 5,
@@ -240,6 +240,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
+        "team": "Sp. Carapegua",
+        "played": 23,
+        "wins": 9,
+        "draws": 4,
+        "losses": 10,
+        "goals_for": 28,
+        "goals_against": 37,
+        "goal_difference": -9,
+        "points": 31,
+        "form": "WLWLL"
+      },
+      {
+        "position": 9,
         "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b",
         "team": "Paraguari AC",
         "played": 23,
@@ -253,7 +267,7 @@
         "form": "WWWLD"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e",
         "team": "Atl. Tembetary",
         "played": 22,
@@ -267,7 +281,7 @@
         "form": "LWWLL"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_0e00bf7ccbac42a1a239bbe2b846fb10",
         "team": "Fernando de la Mora",
         "played": 23,
@@ -279,20 +293,6 @@
         "goal_difference": -7,
         "points": 28,
         "form": "WDDLW"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
-        "team": "Sp. Carapegua",
-        "played": 22,
-        "wins": 8,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 26,
-        "goals_against": 37,
-        "goal_difference": -11,
-        "points": 28,
-        "form": "LWLLW"
       },
       {
         "position": 12,
@@ -415,16 +415,16 @@
         "position": 4,
         "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
         "team": "本杰明·阿塞瓦尔",
-        "played": 22,
+        "played": 23,
         "wins": 11,
         "draws": 6,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 36,
-        "goals_against": 24,
-        "goal_difference": 12,
+        "goals_against": 26,
+        "goal_difference": 10,
         "points": 39,
-        "form": "DWLLW",
-        "form_label": "平胜负负胜"
+        "form": "LDWLL",
+        "form_label": "负平胜负负"
       },
       {
         "position": 5,
@@ -473,6 +473,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
+        "team": "卡拉佩瓜体育",
+        "played": 23,
+        "wins": 9,
+        "draws": 4,
+        "losses": 10,
+        "goals_for": 28,
+        "goals_against": 37,
+        "goal_difference": -9,
+        "points": 31,
+        "form": "WLWLL",
+        "form_label": "胜负胜负负"
+      },
+      {
+        "position": 9,
         "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b",
         "team": "帕拉瓜里AC",
         "played": 23,
@@ -487,7 +502,7 @@
         "form_label": "胜胜胜负平"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e",
         "team": "坦贝塔里竞技",
         "played": 22,
@@ -502,7 +517,7 @@
         "form_label": "负胜胜负负"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_0e00bf7ccbac42a1a239bbe2b846fb10",
         "team": "费尔南多·德·拉·莫拉",
         "played": 23,
@@ -515,21 +530,6 @@
         "points": 28,
         "form": "WDDLW",
         "form_label": "胜平平负胜"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
-        "team": "卡拉佩瓜体育",
-        "played": 22,
-        "wins": 8,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 26,
-        "goals_against": 37,
-        "goal_difference": -11,
-        "points": 28,
-        "form": "LWLLW",
-        "form_label": "负胜负负胜"
       },
       {
         "position": 12,
@@ -933,7 +933,7 @@
         "match_id": "as_09b36ceb02e84362a514bc501575198c",
         "date": "2026-09-10",
         "time": "19:30",
-        "status": "19:30",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -945,13 +945,16 @@
           "name": "本杰明·阿塞瓦尔",
           "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5d6ce6436a5d4599bb2928edbeb4b236",
         "date": "2026-09-10",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -963,7 +966,10 @@
           "name": "坦贝塔里竞技",
           "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_67e26454e3804199bf30810c7322005d",
@@ -1088,7 +1094,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "莱安德罗·奥韦拉尔体育场",
         "status_label": "完场"
       },
       {
@@ -5090,42 +5096,6 @@
         "away": {
           "name": "卡巴列罗将军JLM",
           "team_id": "ast_ece2040d27e748209e40b56a07b50286"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5d6ce6436a5d4599bb2928edbeb4b236",
-        "date": "2026-09-10",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "12 de Junio",
-          "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
-        },
-        "away": {
-          "name": "坦贝塔里竞技",
-          "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_09b36ceb02e84362a514bc501575198c",
-        "date": "2026-09-10",
-        "time": "19:30",
-        "status": "19:30",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "卡拉佩瓜体育",
-          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
-        },
-        "away": {
-          "name": "本杰明·阿塞瓦尔",
-          "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
         },
         "venue": ""
       }
@@ -9689,13 +9659,13 @@
     }
   },
   "stats": {
-    "matches_completed": 182,
-    "total_goals": 470,
+    "matches_completed": 184,
+    "total_goals": 474,
     "avg_goals_per_match": 2.58,
-    "home_wins": 72,
-    "draws": 54,
+    "home_wins": 73,
+    "draws": 55,
     "away_wins": 56,
-    "home_win_pct": 39.6,
+    "home_win_pct": 39.7,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -10438,7 +10408,7 @@
     "teams_all_time": 52,
     "standings_rows_current": 16,
     "matches_current_season": 200,
-    "upcoming_matches": 18
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/09/10"
+  "updated_at": "2026/09/11"
 }

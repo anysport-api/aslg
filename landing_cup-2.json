@@ -14,7 +14,7 @@
     "is_cup": true
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
@@ -1087,7 +1087,7 @@
         "match_id": "as_25b66ce8336d41b3b62d42fe2a4c8be9",
         "date": "2026-09-10",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞典杯",
         "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
         "season": "2026/2027",
@@ -1099,7 +1099,10 @@
           "name": "迪尤尔加登",
           "team_id": "ast_1dbfd90519a24aa0bb5b0480565e0b96"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-7",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b5f2b814bfa84ca4b5b7ba6ca89a053f",
@@ -2430,26 +2433,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_25b66ce8336d41b3b62d42fe2a4c8be9",
-        "date": "2026-09-10",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞典杯",
-        "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
-        "season": "2026/2027",
-        "home": {
-          "name": "哈宁",
-          "team_id": "ast_56cbf3d5848b4789af644812c603b07c"
-        },
-        "away": {
-          "name": "迪尤尔加登",
-          "team_id": "ast_1dbfd90519a24aa0bb5b0480565e0b96"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -6193,13 +6177,13 @@
     }
   },
   "stats": {
-    "matches_completed": 62,
-    "total_goals": 221,
-    "avg_goals_per_match": 3.56,
+    "matches_completed": 63,
+    "total_goals": 229,
+    "avg_goals_per_match": 3.63,
     "home_wins": 12,
     "draws": 5,
-    "away_wins": 45,
-    "home_win_pct": 19.4,
+    "away_wins": 46,
+    "home_win_pct": 19.0,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6997,7 +6981,7 @@
     "teams_all_time": 56,
     "standings_rows_current": 32,
     "matches_current_season": 64,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/10"
+  "updated_at": "2026/09/11"
 }

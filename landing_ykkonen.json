@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_8955600dc80748a4843a445302da1fff",
@@ -304,6 +304,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_33b22d596141487f9cbf0451fb1b503e",
+        "team": "Jazz Pori",
+        "played": 22,
+        "wins": 9,
+        "draws": 6,
+        "losses": 7,
+        "goals_for": 32,
+        "goals_against": 29,
+        "goal_difference": 3,
+        "points": 33,
+        "form": "WDWDD"
+      },
+      {
+        "position": 8,
         "team_id": "ast_513337ab22604091aeb09fc4f3a608e7",
         "team": "VJS",
         "played": 22,
@@ -315,20 +329,6 @@
         "goal_difference": 7,
         "points": 31,
         "form": "LDDWD"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_33b22d596141487f9cbf0451fb1b503e",
-        "team": "Jazz Pori",
-        "played": 22,
-        "wins": 9,
-        "draws": 6,
-        "losses": 7,
-        "goals_for": 32,
-        "goals_against": 29,
-        "goal_difference": 3,
-        "points": 30,
-        "form": "WDWDD"
       },
       {
         "position": 9,
@@ -480,6 +480,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_33b22d596141487f9cbf0451fb1b503e",
+        "team": "爵士",
+        "played": 22,
+        "wins": 9,
+        "draws": 6,
+        "losses": 7,
+        "goals_for": 32,
+        "goals_against": 29,
+        "goal_difference": 3,
+        "points": 33,
+        "form": "WDWDD",
+        "form_label": "胜平胜平平"
+      },
+      {
+        "position": 8,
         "team_id": "ast_513337ab22604091aeb09fc4f3a608e7",
         "team": "VJS",
         "played": 22,
@@ -492,21 +507,6 @@
         "points": 31,
         "form": "LDDWD",
         "form_label": "负平平胜平"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_33b22d596141487f9cbf0451fb1b503e",
-        "team": "爵士",
-        "played": 22,
-        "wins": 9,
-        "draws": 6,
-        "losses": 7,
-        "goals_for": 32,
-        "goals_against": 29,
-        "goal_difference": 3,
-        "points": 30,
-        "form": "WDWDD",
-        "form_label": "胜平胜平平"
       },
       {
         "position": 9,
@@ -587,6 +587,594 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_b00eb0a919554f3692e6febaec4184b6",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "away": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "ht_score": "-",
+        "venue": "Porin Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2427a4357301440481b732e402ae357c",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "away": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "ht_score": "-",
+        "venue": "Harjun Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_15717eb80afb4740b73ab7158fa4dafd",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "away": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "ht_score": "-",
+        "venue": "Kokkolan keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_4469468b325e4ce59efaa212baa5bb54",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "away": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "ht_score": "-",
+        "venue": "Salon urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_59b787ff20ab491fa8941ea3a1019e5b",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "away": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_69595c8a2ffd4e0fac535bc4d8a91e5c",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "away": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "ht_score": "-",
+        "venue": "Myyrmaen jalkapallostadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5076cbe389cc49398a17fba3dd402970",
+        "date": "2026-10-12",
+        "time": "15:30",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "away": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "ht_score": "-",
+        "venue": "维里塔斯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8debc5cae5414dc18b6a7c0ee83c6817",
+        "date": "2026-10-10",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "away": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "ht_score": "-",
+        "venue": "Kalevan Urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d60a59ebbeb24d83b7069c100f7168c6",
+        "date": "2026-10-10",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "away": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "ht_score": "-",
+        "venue": "Vare Areena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f999b938ec5640b0885053259bef7ffb",
+        "date": "2026-10-10",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "away": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "ht_score": "-",
+        "venue": "OTC Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_dd5d456116c447d0900c2c0b200bfbed",
+        "date": "2026-10-10",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "ht_score": "-",
+        "venue": "Keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9bd2347115d5458c8ee47bf513bbb5cd",
+        "date": "2026-10-10",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "away": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6d7ca3b54ce24fd1b6332f0a7a462fbd",
+        "date": "2026-09-27",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "away": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "ht_score": "-",
+        "venue": "Vare Areena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ff4d9bf1bac74520949a4a0fd478ca19",
+        "date": "2026-09-26",
+        "time": "11:30",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "away": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "ht_score": "-",
+        "venue": "OTC Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_49ce725b1c14445483e0252797daa50a",
+        "date": "2026-09-26",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "away": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_badb7e95079e4c15901cb227de8a7ae1",
+        "date": "2026-09-26",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "away": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "ht_score": "-",
+        "venue": "Myyrmaen jalkapallostadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_90051971973c42d89ed1bc44924da198",
+        "date": "2026-09-26",
+        "time": "15:15",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "ht_score": "-",
+        "venue": "Keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d7199a29587647a494bd4e9121c4c3cb",
+        "date": "2026-09-25",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "away": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8ad45431aaa3490d836e0b7d06694d47",
+        "date": "2026-09-20",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "away": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "ht_score": "-",
+        "venue": "维里塔斯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0cdc6063cfa14ef9abc34e6dd325d66a",
+        "date": "2026-09-19",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "away": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "ht_score": "-",
+        "venue": "Porin Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ee474ed12a134ed4906d8307c584abe7",
+        "date": "2026-09-19",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "away": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "ht_score": "-",
+        "venue": "Harjun Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9a5ac21752c448bdb8777f7fe95ddf1d",
+        "date": "2026-09-19",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "away": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "ht_score": "-",
+        "venue": "Kalevan Urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_79d0cb9b20614c58a96c40bfebb84bc7",
+        "date": "2026-09-19",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "away": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "ht_score": "-",
+        "venue": "Salon urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_bd8b5ab768a54b88aafcded01617fded",
+        "date": "2026-09-18",
+        "time": "15:30",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "away": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "ht_score": "-",
+        "venue": "Kokkolan keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1af8aebae9a74c749b14b4ac550b5278",
+        "date": "2026-09-13",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "away": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_1a63c57303314e668fa6a2c36079077c",
+        "date": "2026-09-12",
+        "time": "11:00",
+        "status": "11:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_71f5920e620348f1a0218b5e81c68879",
+        "date": "2026-09-12",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "away": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_18bdcaf603e8464c9da8a8d9d7c188de",
+        "date": "2026-09-12",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "away": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4cb304f1ffe841578b28baf721f48d2c",
+        "date": "2026-09-12",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "away": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_b3dd256c3d9c455797ab4e2833ed866e",
+        "date": "2026-09-11",
+        "time": "15:30",
+        "status": "15:30",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "away": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_ff5c84520f4d4beebc40cd2ebfbfe145",
         "date": "2026-08-29",
@@ -3360,7 +3948,596 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_69595c8a2ffd4e0fac535bc4d8a91e5c",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "away": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "ht_score": "-",
+        "venue": "Myyrmaen jalkapallostadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_59b787ff20ab491fa8941ea3a1019e5b",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "away": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_4469468b325e4ce59efaa212baa5bb54",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "away": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "ht_score": "-",
+        "venue": "Salon urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_15717eb80afb4740b73ab7158fa4dafd",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "away": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "ht_score": "-",
+        "venue": "Kokkolan keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2427a4357301440481b732e402ae357c",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "away": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "ht_score": "-",
+        "venue": "Harjun Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b00eb0a919554f3692e6febaec4184b6",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "away": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "ht_score": "-",
+        "venue": "Porin Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5076cbe389cc49398a17fba3dd402970",
+        "date": "2026-10-12",
+        "time": "15:30",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "away": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "ht_score": "-",
+        "venue": "维里塔斯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9bd2347115d5458c8ee47bf513bbb5cd",
+        "date": "2026-10-10",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "away": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_dd5d456116c447d0900c2c0b200bfbed",
+        "date": "2026-10-10",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "ht_score": "-",
+        "venue": "Keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f999b938ec5640b0885053259bef7ffb",
+        "date": "2026-10-10",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "away": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "ht_score": "-",
+        "venue": "OTC Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d60a59ebbeb24d83b7069c100f7168c6",
+        "date": "2026-10-10",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "away": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "ht_score": "-",
+        "venue": "Vare Areena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8debc5cae5414dc18b6a7c0ee83c6817",
+        "date": "2026-10-10",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "away": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "ht_score": "-",
+        "venue": "Kalevan Urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6d7ca3b54ce24fd1b6332f0a7a462fbd",
+        "date": "2026-09-27",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "away": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "ht_score": "-",
+        "venue": "Vare Areena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_90051971973c42d89ed1bc44924da198",
+        "date": "2026-09-26",
+        "time": "15:15",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "ht_score": "-",
+        "venue": "Keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_badb7e95079e4c15901cb227de8a7ae1",
+        "date": "2026-09-26",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "away": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "ht_score": "-",
+        "venue": "Myyrmaen jalkapallostadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_49ce725b1c14445483e0252797daa50a",
+        "date": "2026-09-26",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "away": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ff4d9bf1bac74520949a4a0fd478ca19",
+        "date": "2026-09-26",
+        "time": "11:30",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "away": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "ht_score": "-",
+        "venue": "OTC Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d7199a29587647a494bd4e9121c4c3cb",
+        "date": "2026-09-25",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "away": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "ht_score": "-",
+        "venue": "Kauppi 3 - Artificial grass",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8ad45431aaa3490d836e0b7d06694d47",
+        "date": "2026-09-20",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "away": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "ht_score": "-",
+        "venue": "维里塔斯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_79d0cb9b20614c58a96c40bfebb84bc7",
+        "date": "2026-09-19",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "away": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "ht_score": "-",
+        "venue": "Salon urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9a5ac21752c448bdb8777f7fe95ddf1d",
+        "date": "2026-09-19",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "away": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "ht_score": "-",
+        "venue": "Kalevan Urheilupuisto",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ee474ed12a134ed4906d8307c584abe7",
+        "date": "2026-09-19",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "away": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "ht_score": "-",
+        "venue": "Harjun Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0cdc6063cfa14ef9abc34e6dd325d66a",
+        "date": "2026-09-19",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "away": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "ht_score": "-",
+        "venue": "Porin Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_bd8b5ab768a54b88aafcded01617fded",
+        "date": "2026-09-18",
+        "time": "15:30",
+        "status": "Not Started",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "away": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "ht_score": "-",
+        "venue": "Kokkolan keskuskentta",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1af8aebae9a74c749b14b4ac550b5278",
+        "date": "2026-09-13",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "TPV",
+          "team_id": "ast_f3cd7811f5a44f3e8e550e1081207e3e"
+        },
+        "away": {
+          "name": "库普斯学院",
+          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4cb304f1ffe841578b28baf721f48d2c",
+        "date": "2026-09-12",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "VJS",
+          "team_id": "ast_513337ab22604091aeb09fc4f3a608e7"
+        },
+        "away": {
+          "name": "国际图尔库二队",
+          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_18bdcaf603e8464c9da8a8d9d7c188de",
+        "date": "2026-09-12",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "坦佩雷联",
+          "team_id": "ast_a2fca06be85945338833881f35bb220d"
+        },
+        "away": {
+          "name": "凯斯基-乌西马",
+          "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_71f5920e620348f1a0218b5e81c68879",
+        "date": "2026-09-12",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "萨尔帕",
+          "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
+        },
+        "away": {
+          "name": "JJK",
+          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_1a63c57303314e668fa6a2c36079077c",
+        "date": "2026-09-12",
+        "time": "11:00",
+        "status": "11:00",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "OLS",
+          "team_id": "ast_46238b3945574782bd8e81575692f2dd"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_b3dd256c3d9c455797ab4e2833ed866e",
+        "date": "2026-09-11",
+        "time": "15:30",
+        "status": "15:30",
+        "league": "芬兰Ykkonen联赛",
+        "league_id": "asl_8955600dc80748a4843a445302da1fff",
+        "season": "2026",
+        "home": {
+          "name": "爵士",
+          "team_id": "ast_33b22d596141487f9cbf0451fb1b503e"
+        },
+        "away": {
+          "name": "KPV科科拉",
+          "team_id": "ast_456c7e4cf7664a54af6cba634b26d2ce"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -7458,8 +8635,8 @@
     "distinct_title_holders": 13,
     "teams_all_time": 51,
     "standings_rows_current": 12,
-    "matches_current_season": 132,
-    "upcoming_matches": 0
+    "matches_current_season": 162,
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/08/31"
+  "updated_at": "2026/09/11"
 }

@@ -250,15 +250,15 @@
         "position": 6,
         "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e",
         "team": "Super Nova",
-        "played": 27,
-        "wins": 9,
+        "played": 28,
+        "wins": 10,
         "draws": 5,
         "losses": 13,
-        "goals_for": 28,
+        "goals_for": 29,
         "goals_against": 38,
-        "goal_difference": -10,
-        "points": 32,
-        "form": "WDDLW"
+        "goal_difference": -9,
+        "points": 35,
+        "form": "WWDDL"
       },
       {
         "position": 7,
@@ -292,15 +292,15 @@
         "position": 9,
         "team_id": "ast_4596f07daac649c28b5474b96edad1b7",
         "team": "Tukums 2000",
-        "played": 29,
+        "played": 30,
         "wins": 5,
         "draws": 8,
-        "losses": 16,
+        "losses": 17,
         "goals_for": 43,
-        "goals_against": 59,
-        "goal_difference": -16,
+        "goals_against": 60,
+        "goal_difference": -17,
         "points": 23,
-        "form": "WLLLW"
+        "form": "LWLLL"
       },
       {
         "position": 10,
@@ -397,16 +397,16 @@
         "position": 6,
         "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e",
         "team": "超级新星",
-        "played": 27,
-        "wins": 9,
+        "played": 28,
+        "wins": 10,
         "draws": 5,
         "losses": 13,
-        "goals_for": 28,
+        "goals_for": 29,
         "goals_against": 38,
-        "goal_difference": -10,
-        "points": 32,
-        "form": "WDDLW",
-        "form_label": "胜平平负胜"
+        "goal_difference": -9,
+        "points": 35,
+        "form": "WWDDL",
+        "form_label": "胜胜平平负"
       },
       {
         "position": 7,
@@ -442,16 +442,16 @@
         "position": 9,
         "team_id": "ast_4596f07daac649c28b5474b96edad1b7",
         "team": "图库姆斯2000",
-        "played": 29,
+        "played": 30,
         "wins": 5,
         "draws": 8,
-        "losses": 16,
+        "losses": 17,
         "goals_for": 43,
-        "goals_against": 59,
-        "goal_difference": -16,
+        "goals_against": 60,
+        "goal_difference": -17,
         "points": 23,
-        "form": "WLLLW",
-        "form_label": "胜负负负胜"
+        "form": "LWLLL",
+        "form_label": "负胜负负负"
       },
       {
         "position": 10,
@@ -890,7 +890,7 @@
       {
         "match_id": "as_47496eb59e6240e9a807807b1ce8da5f",
         "date": "2026-10-15",
-        "time": "16:00",
+        "time": "14:00",
         "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
@@ -1219,7 +1219,7 @@
         "match_id": "as_40880b4d3b1e487dabf36644a03898ba",
         "date": "2026-09-10",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1231,7 +1231,10 @@
           "name": "图库姆斯2000",
           "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4100700e4bd347f7b8b747e2c0a547ba",
@@ -4420,7 +4423,7 @@
       {
         "match_id": "as_47496eb59e6240e9a807807b1ce8da5f",
         "date": "2026-10-15",
-        "time": "16:00",
+        "time": "14:00",
         "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
@@ -4742,24 +4745,6 @@
         "away": {
           "name": "奥达",
           "team_id": "ast_3e29273aa6ee45d186f574701fb67edd"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_40880b4d3b1e487dabf36644a03898ba",
-        "date": "2026-09-10",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "超级新星",
-          "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e"
-        },
-        "away": {
-          "name": "图库姆斯2000",
-          "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
         },
         "venue": ""
       }
@@ -8190,13 +8175,13 @@
     }
   },
   "stats": {
-    "matches_completed": 142,
-    "total_goals": 418,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 61,
+    "matches_completed": 143,
+    "total_goals": 419,
+    "avg_goals_per_match": 2.93,
+    "home_wins": 62,
     "draws": 31,
     "away_wins": 50,
-    "home_win_pct": 43.0,
+    "home_win_pct": 43.4,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8994,7 +8979,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 28
+    "upcoming_matches": 27
   },
-  "updated_at": "2026/09/10"
+  "updated_at": "2026/09/11"
 }

@@ -128,15 +128,15 @@
         "position": 2,
         "team_id": "ast_4005ef8e2b214f82a1a3553395ecf30b",
         "team": "Thimphu City",
-        "played": 13,
-        "wins": 8,
+        "played": 14,
+        "wins": 9,
         "draws": 4,
         "losses": 1,
-        "goals_for": 35,
-        "goals_against": 10,
-        "goal_difference": 25,
-        "points": 28,
-        "form": "DDWWW"
+        "goals_for": 37,
+        "goals_against": 11,
+        "goal_difference": 26,
+        "points": 31,
+        "form": "WDDWW"
       },
       {
         "position": 3,
@@ -170,15 +170,15 @@
         "position": 5,
         "team_id": "ast_5a5f960e819740d28effea618fd633d5",
         "team": "RTC",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 3,
-        "losses": 5,
-        "goals_for": 13,
-        "goals_against": 14,
-        "goal_difference": -1,
+        "losses": 6,
+        "goals_for": 14,
+        "goals_against": 16,
+        "goal_difference": -2,
         "points": 18,
-        "form": "LLWDD"
+        "form": "LLLWD"
       },
       {
         "position": 6,
@@ -271,16 +271,16 @@
         "position": 2,
         "team_id": "ast_4005ef8e2b214f82a1a3553395ecf30b",
         "team": "廷布市",
-        "played": 13,
-        "wins": 8,
+        "played": 14,
+        "wins": 9,
         "draws": 4,
         "losses": 1,
-        "goals_for": 35,
-        "goals_against": 10,
-        "goal_difference": 25,
-        "points": 28,
-        "form": "DDWWW",
-        "form_label": "平平胜胜胜"
+        "goals_for": 37,
+        "goals_against": 11,
+        "goal_difference": 26,
+        "points": 31,
+        "form": "WDDWW",
+        "form_label": "胜平平胜胜"
       },
       {
         "position": 3,
@@ -316,16 +316,16 @@
         "position": 5,
         "team_id": "ast_5a5f960e819740d28effea618fd633d5",
         "team": "RTC",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 3,
-        "losses": 5,
-        "goals_for": 13,
-        "goals_against": 14,
-        "goal_difference": -1,
+        "losses": 6,
+        "goals_for": 14,
+        "goals_against": 16,
+        "goal_difference": -2,
         "points": 18,
-        "form": "LLWDD",
-        "form_label": "负负胜平平"
+        "form": "LLLWD",
+        "form_label": "负负负胜平"
       },
       {
         "position": 6,
@@ -825,7 +825,7 @@
         "match_id": "as_f1988c60713f4a308a78168b4bf2c4b8",
         "date": "2026-09-10",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "不丹甲级联赛",
         "league_id": "asl_9288d76794134f2f923fda6717934dc2",
         "season": "2026",
@@ -837,15 +837,16 @@
           "name": "廷布市",
           "team_id": "ast_4005ef8e2b214f82a1a3553395ecf30b"
         },
-        "ht_score": "-",
+        "ht_score": "0-1",
+        "reg_score": "1-2",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_b522fdad74a345858ea590ec183ad6dd",
         "date": "2026-09-09",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "不丹甲级联赛",
         "league_id": "asl_9288d76794134f2f923fda6717934dc2",
         "season": "2026",
@@ -857,9 +858,10 @@
           "name": "交通联",
           "team_id": "ast_86aa04e45fd74264978047b0132a98fa"
         },
-        "ht_score": "-",
+        "ht_score": "0-1",
+        "reg_score": "0-5",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_8136568e79d94c76a2c4c5dac13816a2",
@@ -2690,26 +2692,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f1988c60713f4a308a78168b4bf2c4b8",
-        "date": "2026-09-10",
-        "time": "09:00",
-        "status": "Not Started",
-        "league": "不丹甲级联赛",
-        "league_id": "asl_9288d76794134f2f923fda6717934dc2",
-        "season": "2026",
-        "home": {
-          "name": "RTC",
-          "team_id": "ast_5a5f960e819740d28effea618fd633d5"
-        },
-        "away": {
-          "name": "廷布市",
-          "team_id": "ast_4005ef8e2b214f82a1a3553395ecf30b"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
       }
     ]
   },
@@ -3079,13 +3061,13 @@
     }
   },
   "stats": {
-    "matches_completed": 68,
-    "total_goals": 238,
-    "avg_goals_per_match": 3.5,
+    "matches_completed": 70,
+    "total_goals": 246,
+    "avg_goals_per_match": 3.51,
     "home_wins": 24,
     "draws": 13,
-    "away_wins": 31,
-    "home_win_pct": 35.3,
+    "away_wins": 33,
+    "home_win_pct": 34.3,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -3224,15 +3206,15 @@
             "position": 2,
             "team_id": "ast_4005ef8e2b214f82a1a3553395ecf30b",
             "team": "Thimphu City",
-            "played": 13,
-            "wins": 8,
+            "played": 14,
+            "wins": 9,
             "draws": 4,
             "losses": 1,
-            "goals_for": 35,
-            "goals_against": 10,
-            "goal_difference": 25,
-            "points": 28,
-            "form": "DDWWW"
+            "goals_for": 37,
+            "goals_against": 11,
+            "goal_difference": 26,
+            "points": 31,
+            "form": "WDDWW"
           },
           {
             "position": 3,
@@ -3845,7 +3827,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 21
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/09/10"
+  "updated_at": "2026/09/11"
 }
