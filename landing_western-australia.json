@@ -3271,8 +3271,8 @@
       {
         "match_id": "as_24e04eedac7e4ff3b27b1993e6acd0a2",
         "date": "2026-09-12",
-        "time": "11:00",
-        "status": "Not Started",
+        "time": "10:00",
+        "status": "10:00",
         "league": "世界杯女足亚洲杯预选赛",
         "league_id": "asl_9c0aa3c74f554a49a71d3575f00661a0",
         "season": "2026",
@@ -3284,15 +3284,13 @@
           "name": "Perth Azzurri",
           "team_id": "ast_454829abea374f87b1913a19a2f977c5"
         },
-        "ht_score": "-",
-        "venue": "弗兰克·德拉戈保护区",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_77c042904605423cb186faa30121dc7a",
         "date": "2026-09-12",
         "time": "07:00",
-        "status": "07:00",
+        "status": "HT",
         "league": "世界杯女足亚洲杯预选赛",
         "league_id": "asl_9c0aa3c74f554a49a71d3575f00661a0",
         "season": "2026",
@@ -3304,13 +3302,16 @@
           "name": "Mandurah City",
           "team_id": "ast_7a1000bfc24d4011bc53e99eddfd035c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "中场"
       },
       {
         "match_id": "as_b9261b982b2043818bacbafb17c3d45f",
         "date": "2026-09-12",
         "time": "07:00",
-        "status": "07:00",
+        "status": "HT",
         "league": "世界杯女足亚洲杯预选赛",
         "league_id": "asl_9c0aa3c74f554a49a71d3575f00661a0",
         "season": "2026",
@@ -3322,7 +3323,10 @@
           "name": "Joondalup",
           "team_id": "ast_5cde10f8e36042da8fd4c558c6d6cf55"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "中场"
       }
     ]
   },
@@ -6682,5 +6686,5 @@
     "matches_current_season": 136,
     "upcoming_matches": 3
   },
-  "updated_at": "2026/09/10"
+  "updated_at": "2026/09/12"
 }

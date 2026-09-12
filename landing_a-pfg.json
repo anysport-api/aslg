@@ -382,18 +382,32 @@
         "position": 12,
         "team_id": "ast_8fd5c3a8059a4ae685c2d2d84f5d2906",
         "team": "Cherno More",
-        "played": 8,
+        "played": 9,
         "wins": 1,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 8,
-        "goals_against": 17,
+        "goals_for": 10,
+        "goals_against": 19,
         "goal_difference": -9,
-        "points": 4,
-        "form": "LLWLL"
+        "points": 5,
+        "form": "DLLWL"
       },
       {
         "position": 13,
+        "team_id": "ast_543ef31737ad40e8bcbc25b315223014",
+        "team": "Lok. Sofia",
+        "played": 8,
+        "wins": 0,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 10,
+        "goals_against": 16,
+        "goal_difference": -6,
+        "points": 4,
+        "form": "DLDLL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_7d27f7874005429b96887f38cbbce87b",
         "team": "Dunav Ruse",
         "played": 8,
@@ -405,20 +419,6 @@
         "goal_difference": -8,
         "points": 4,
         "form": "LDLWL"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_543ef31737ad40e8bcbc25b315223014",
-        "team": "Lok. Sofia",
-        "played": 7,
-        "wins": 0,
-        "draws": 3,
-        "losses": 4,
-        "goals_for": 8,
-        "goals_against": 14,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LDLLD"
       }
     ],
     "zh": [
@@ -591,19 +591,34 @@
         "position": 12,
         "team_id": "ast_8fd5c3a8059a4ae685c2d2d84f5d2906",
         "team": "切尔诺莫雷",
-        "played": 8,
+        "played": 9,
         "wins": 1,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 8,
-        "goals_against": 17,
+        "goals_for": 10,
+        "goals_against": 19,
         "goal_difference": -9,
-        "points": 4,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "points": 5,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       },
       {
         "position": 13,
+        "team_id": "ast_543ef31737ad40e8bcbc25b315223014",
+        "team": "索非亚火车头",
+        "played": 8,
+        "wins": 0,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 10,
+        "goals_against": 16,
+        "goal_difference": -6,
+        "points": 4,
+        "form": "DLDLL",
+        "form_label": "平负平负负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_7d27f7874005429b96887f38cbbce87b",
         "team": "杜纳夫·鲁塞",
         "played": 8,
@@ -616,21 +631,6 @@
         "points": 4,
         "form": "LDLWL",
         "form_label": "负平负胜负"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_543ef31737ad40e8bcbc25b315223014",
-        "team": "索非亚火车头",
-        "played": 7,
-        "wins": 0,
-        "draws": 3,
-        "losses": 4,
-        "goals_for": 8,
-        "goals_against": 14,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LDLLD",
-        "form_label": "负平负负平"
       }
     ]
   },
@@ -2955,7 +2955,7 @@
         "match_id": "as_61026aaf049649b3952a010e5bc4d45d",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -2967,15 +2967,13 @@
           "name": "切尔诺莫雷",
           "team_id": "ast_8fd5c3a8059a4ae685c2d2d84f5d2906"
         },
-        "ht_score": "-",
-        "venue": "阿尔达竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5a88cc47e58e42fd91b025c7b0321a63",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -2987,15 +2985,13 @@
           "name": "博特夫弗拉察",
           "team_id": "ast_c7e2df65a86541b59e226d85e82f7dde"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_31ebcc11da724766bb0a97ebb12692ba",
         "date": "2026-09-19",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3007,15 +3003,13 @@
           "name": "博特夫普洛夫迪夫",
           "team_id": "ast_e48be6cf796c414db9fc7568286fb6b8"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_73f6503915f84744923dbfc8a53ace71",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3027,15 +3021,13 @@
           "name": "索非亚CSKA 1948",
           "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92"
         },
-        "ht_score": "-",
-        "venue": "亚历山大·沙拉马诺夫体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_38f0a937ae02412fa5edad851524d8c7",
         "date": "2026-09-16",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3047,15 +3039,13 @@
           "name": "索非亚中央陆军",
           "team_id": "ast_df3e40b9c91d47bc9e138e020d0964b9"
         },
-        "ht_score": "-",
-        "venue": "火车头体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9941b2af4b444d4eb1e576319e7d8240",
         "date": "2026-09-14",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3067,15 +3057,13 @@
           "name": "塞普特姆夫里·索非亚",
           "team_id": "ast_c5b2c9b61a3647bea9484eeff7190b11"
         },
-        "ht_score": "-",
-        "venue": "Huvepharma竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_79aade22b9a5404a9ec0a0d4db0f081a",
         "date": "2026-09-13",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3087,15 +3075,13 @@
           "name": "普罗夫迪夫火车头",
           "team_id": "ast_85946b39587d452881f2372f8d8677f1"
         },
-        "ht_score": "-",
-        "venue": "赫里斯托·博特夫体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fc2a0f85371046d5ab4037664350f6ef",
         "date": "2026-09-13",
         "time": "14:45",
-        "status": "Not Started",
+        "status": "14:45",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3107,15 +3093,13 @@
           "name": "列夫斯基索非亚",
           "team_id": "ast_0d19b8082c2d41f5b46de0fd986b1918"
         },
-        "ht_score": "-",
-        "venue": "Hristo Botev Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5780574d4de04a7f9b86dbe7223381ca",
         "date": "2026-09-13",
         "time": "12:15",
-        "status": "Not Started",
+        "status": "12:15",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3127,9 +3111,7 @@
           "name": "斯巴达克瓦尔纳",
           "team_id": "ast_db1549df19534e9ebdde17a54c470637"
         },
-        "ht_score": "-",
-        "venue": "亚历山大·沙拉马诺夫体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aa7eb9df3b5a4286aaaa1395db8e3090",
@@ -3171,7 +3153,7 @@
         "match_id": "as_eaabb923e4d049208ba6f01b776479d5",
         "date": "2026-09-11",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3183,7 +3165,10 @@
           "name": "索非亚火车头",
           "team_id": "ast_543ef31737ad40e8bcbc25b315223014"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c407bb02ea094a139a20f13fc6b1fa9d",
@@ -4686,7 +4671,7 @@
         "match_id": "as_31ebcc11da724766bb0a97ebb12692ba",
         "date": "2026-09-19",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4698,15 +4683,13 @@
           "name": "博特夫普洛夫迪夫",
           "team_id": "ast_e48be6cf796c414db9fc7568286fb6b8"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5a88cc47e58e42fd91b025c7b0321a63",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4718,15 +4701,13 @@
           "name": "博特夫弗拉察",
           "team_id": "ast_c7e2df65a86541b59e226d85e82f7dde"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_61026aaf049649b3952a010e5bc4d45d",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4738,15 +4719,13 @@
           "name": "切尔诺莫雷",
           "team_id": "ast_8fd5c3a8059a4ae685c2d2d84f5d2906"
         },
-        "ht_score": "-",
-        "venue": "阿尔达竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_73f6503915f84744923dbfc8a53ace71",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4758,15 +4737,13 @@
           "name": "索非亚CSKA 1948",
           "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92"
         },
-        "ht_score": "-",
-        "venue": "亚历山大·沙拉马诺夫体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_38f0a937ae02412fa5edad851524d8c7",
         "date": "2026-09-16",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4778,15 +4755,13 @@
           "name": "索非亚中央陆军",
           "team_id": "ast_df3e40b9c91d47bc9e138e020d0964b9"
         },
-        "ht_score": "-",
-        "venue": "火车头体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9941b2af4b444d4eb1e576319e7d8240",
         "date": "2026-09-14",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4798,15 +4773,13 @@
           "name": "塞普特姆夫里·索非亚",
           "team_id": "ast_c5b2c9b61a3647bea9484eeff7190b11"
         },
-        "ht_score": "-",
-        "venue": "Huvepharma竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5780574d4de04a7f9b86dbe7223381ca",
         "date": "2026-09-13",
         "time": "12:15",
-        "status": "Not Started",
+        "status": "12:15",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4818,15 +4791,13 @@
           "name": "斯巴达克瓦尔纳",
           "team_id": "ast_db1549df19534e9ebdde17a54c470637"
         },
-        "ht_score": "-",
-        "venue": "亚历山大·沙拉马诺夫体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fc2a0f85371046d5ab4037664350f6ef",
         "date": "2026-09-13",
         "time": "14:45",
-        "status": "Not Started",
+        "status": "14:45",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4838,15 +4809,13 @@
           "name": "列夫斯基索非亚",
           "team_id": "ast_0d19b8082c2d41f5b46de0fd986b1918"
         },
-        "ht_score": "-",
-        "venue": "Hristo Botev Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_79aade22b9a5404a9ec0a0d4db0f081a",
         "date": "2026-09-13",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4858,9 +4827,7 @@
           "name": "普罗夫迪夫火车头",
           "team_id": "ast_85946b39587d452881f2372f8d8677f1"
         },
-        "ht_score": "-",
-        "venue": "赫里斯托·博特夫体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c4e0f05e7b8845a389245ab2e3bb34bc",
@@ -4895,24 +4862,6 @@
         "away": {
           "name": "杜纳夫·鲁塞",
           "team_id": "ast_7d27f7874005429b96887f38cbbce87b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_eaabb923e4d049208ba6f01b776479d5",
-        "date": "2026-09-11",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "保加利亚甲级联赛",
-        "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
-        "season": "2026/2027",
-        "home": {
-          "name": "切尔诺莫雷",
-          "team_id": "ast_8fd5c3a8059a4ae685c2d2d84f5d2906"
-        },
-        "away": {
-          "name": "索非亚火车头",
-          "team_id": "ast_543ef31737ad40e8bcbc25b315223014"
         },
         "venue": ""
       }
@@ -10330,13 +10279,13 @@
     }
   },
   "stats": {
-    "matches_completed": 55,
-    "total_goals": 150,
-    "avg_goals_per_match": 2.73,
+    "matches_completed": 56,
+    "total_goals": 154,
+    "avg_goals_per_match": 2.75,
     "home_wins": 27,
-    "draws": 11,
+    "draws": 12,
     "away_wins": 17,
-    "home_win_pct": 49.1,
+    "home_win_pct": 48.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -11134,7 +11083,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 29
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

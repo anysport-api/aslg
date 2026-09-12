@@ -268,15 +268,15 @@
         "position": 9,
         "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
         "team": "Din. Minsk 2",
-        "played": 23,
+        "played": 24,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "losses": 10,
         "goals_for": 41,
         "goals_against": 37,
         "goal_difference": 4,
-        "points": 31,
-        "form": "LWWLL"
+        "points": 32,
+        "form": "DLWWL"
       },
       {
         "position": 10,
@@ -322,6 +322,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
+        "team": "Orsha",
+        "played": 24,
+        "wins": 7,
+        "draws": 5,
+        "losses": 12,
+        "goals_for": 27,
+        "goals_against": 43,
+        "goal_difference": -16,
+        "points": 26,
+        "form": "DLWLL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
         "team": "Uni X Labs",
         "played": 23,
@@ -333,20 +347,6 @@
         "goal_difference": -7,
         "points": 25,
         "form": "DLWDD"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
-        "team": "Orsha",
-        "played": 23,
-        "wins": 7,
-        "draws": 4,
-        "losses": 12,
-        "goals_for": 27,
-        "goals_against": 43,
-        "goal_difference": -16,
-        "points": 25,
-        "form": "LWLLD"
       },
       {
         "position": 15,
@@ -530,16 +530,16 @@
         "position": 9,
         "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
         "team": "明斯克迪纳摩二队",
-        "played": 23,
+        "played": 24,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "losses": 10,
         "goals_for": 41,
         "goals_against": 37,
         "goal_difference": 4,
-        "points": 31,
-        "form": "LWWLL",
-        "form_label": "负胜胜负负"
+        "points": 32,
+        "form": "DLWWL",
+        "form_label": "平负胜胜负"
       },
       {
         "position": 10,
@@ -588,6 +588,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
+        "team": "奥尔沙",
+        "played": 24,
+        "wins": 7,
+        "draws": 5,
+        "losses": 12,
+        "goals_for": 27,
+        "goals_against": 43,
+        "goal_difference": -16,
+        "points": 26,
+        "form": "DLWLL",
+        "form_label": "平负胜负负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
         "team": "X实验室",
         "played": 23,
@@ -600,21 +615,6 @@
         "points": 25,
         "form": "DLWDD",
         "form_label": "平负胜平平"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
-        "team": "奥尔沙",
-        "played": 23,
-        "wins": 7,
-        "draws": 4,
-        "losses": 12,
-        "goals_for": 27,
-        "goals_against": 43,
-        "goal_difference": -16,
-        "points": 25,
-        "form": "LWLLD",
-        "form_label": "负胜负负平"
       },
       {
         "position": 15,
@@ -2359,7 +2359,7 @@
         "match_id": "as_c8bf2226ad5e4089b66efdc194ca35e8",
         "date": "2026-09-19",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2371,15 +2371,13 @@
           "name": "利达",
           "team_id": "ast_d3d1272e87ea45948d5a88a6315556b9"
         },
-        "ht_score": "-",
-        "venue": "SDYuShOR-6 Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2580f03507e7475e875e4a8fa1c5e9ae",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2391,15 +2389,13 @@
           "name": "奥西波维奇",
           "team_id": "ast_b0246912581140f28adb8531b36d087c"
         },
-        "ht_score": "-",
-        "venue": "Stadium FC Minsk",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_37681a77a2bc4b62b86c6b713b3da6b9",
         "date": "2026-09-19",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2411,15 +2407,13 @@
           "name": "斯卢茨克",
           "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b"
         },
-        "ht_score": "-",
-        "venue": "Central City Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a66a0e762c77469699fc6722d500950c",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2431,15 +2425,13 @@
           "name": "尼瓦多尔比兹诺",
           "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60"
         },
-        "ht_score": "-",
-        "venue": "Yunost Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9c31335886674921bcca333848a14f41",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2451,15 +2443,13 @@
           "name": "斯洛尼姆足球俱乐部",
           "team_id": "ast_af20ab1d27eb45d6b2f5cf1dbb5b8821"
         },
-        "ht_score": "-",
-        "venue": "Dinamo-Yuni Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d06ff92225a949faac987a8f89001b8b",
         "date": "2026-09-19",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2471,15 +2461,13 @@
           "name": "SKA-1938",
           "team_id": "ast_74cb1364e9284437839dcb944b1bdc68"
         },
-        "ht_score": "-",
-        "venue": "Volna Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_38d807f143414b68ade938775344d336",
         "date": "2026-09-18",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2491,15 +2479,13 @@
           "name": "明斯克迪纳摩二队",
           "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1"
         },
-        "ht_score": "-",
-        "venue": "Centralnyj Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a87fc91faed14e168fcce460fcdbac90",
         "date": "2026-09-13",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2511,15 +2497,13 @@
           "name": "明斯克2",
           "team_id": "ast_5697bb7134af403189154ef417ce041a"
         },
-        "ht_score": "-",
-        "venue": "Yunost Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_246bc2f9030943ca8bc128729afbcab7",
         "date": "2026-09-13",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2531,15 +2515,13 @@
           "name": "布姆普罗姆戈梅尔",
           "team_id": "ast_0bae38765c434b249d781546b75ec3cd"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fd083d73def64703af3c79ed592878f0",
         "date": "2026-09-13",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2551,9 +2533,7 @@
           "name": "奥西波维奇",
           "team_id": "ast_b0246912581140f28adb8531b36d087c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e726488a172041109fde1b71f78c5c4a",
@@ -2649,7 +2629,7 @@
         "match_id": "as_e5c7527ea6224927ac0e3a498fa98993",
         "date": "2026-09-11",
         "time": "13:30",
-        "status": "13:30",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2661,7 +2641,10 @@
           "name": "奥尔沙",
           "team_id": "ast_8b56fac9ec2446beae2d371cccb19115"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4b139860cb2d453fbdae682eed62c5df",
@@ -7956,7 +7939,7 @@
         "match_id": "as_d06ff92225a949faac987a8f89001b8b",
         "date": "2026-09-19",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -7968,15 +7951,13 @@
           "name": "SKA-1938",
           "team_id": "ast_74cb1364e9284437839dcb944b1bdc68"
         },
-        "ht_score": "-",
-        "venue": "Volna Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9c31335886674921bcca333848a14f41",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -7988,15 +7969,13 @@
           "name": "斯洛尼姆足球俱乐部",
           "team_id": "ast_af20ab1d27eb45d6b2f5cf1dbb5b8821"
         },
-        "ht_score": "-",
-        "venue": "Dinamo-Yuni Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a66a0e762c77469699fc6722d500950c",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -8008,9 +7987,7 @@
           "name": "尼瓦多尔比兹诺",
           "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60"
         },
-        "ht_score": "-",
-        "venue": "Yunost Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -13404,13 +13381,13 @@
     }
   },
   "stats": {
-    "matches_completed": 207,
+    "matches_completed": 208,
     "total_goals": 673,
-    "avg_goals_per_match": 3.25,
+    "avg_goals_per_match": 3.24,
     "home_wins": 84,
-    "draws": 41,
+    "draws": 42,
     "away_wins": 82,
-    "home_win_pct": 40.6,
+    "home_win_pct": 40.4,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14210,5 +14187,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

@@ -270,15 +270,15 @@
         "position": 4,
         "team_id": "ast_1885e9ee5fcb490d8047676689f8f6d7",
         "team": "Hacken",
-        "played": 20,
+        "played": 21,
         "wins": 8,
-        "draws": 8,
+        "draws": 9,
         "losses": 4,
-        "goals_for": 33,
-        "goals_against": 29,
+        "goals_for": 34,
+        "goals_against": 30,
         "goal_difference": 4,
-        "points": 32,
-        "form": "DLWWL"
+        "points": 33,
+        "form": "DDLWW"
       },
       {
         "position": 5,
@@ -382,15 +382,15 @@
         "position": 12,
         "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51",
         "team": "Mjallby",
-        "played": 19,
+        "played": 20,
         "wins": 5,
-        "draws": 5,
+        "draws": 6,
         "losses": 9,
-        "goals_for": 25,
-        "goals_against": 33,
+        "goals_for": 26,
+        "goals_against": 34,
         "goal_difference": -8,
-        "points": 20,
-        "form": "LLLWL"
+        "points": 21,
+        "form": "DLLLW"
       },
       {
         "position": 13,
@@ -499,16 +499,16 @@
         "position": 4,
         "team_id": "ast_1885e9ee5fcb490d8047676689f8f6d7",
         "team": "哈肯",
-        "played": 20,
+        "played": 21,
         "wins": 8,
-        "draws": 8,
+        "draws": 9,
         "losses": 4,
-        "goals_for": 33,
-        "goals_against": 29,
+        "goals_for": 34,
+        "goals_against": 30,
         "goal_difference": 4,
-        "points": 32,
-        "form": "DLWWL",
-        "form_label": "平负胜胜负"
+        "points": 33,
+        "form": "DDLWW",
+        "form_label": "平平负胜胜"
       },
       {
         "position": 5,
@@ -619,16 +619,16 @@
         "position": 12,
         "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51",
         "team": "米亚尔比",
-        "played": 19,
+        "played": 20,
         "wins": 5,
-        "draws": 5,
+        "draws": 6,
         "losses": 9,
-        "goals_for": 25,
-        "goals_against": 33,
+        "goals_for": 26,
+        "goals_against": 34,
         "goal_difference": -8,
-        "points": 20,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
+        "points": 21,
+        "form": "DLLLW",
+        "form_label": "平负负负胜"
       },
       {
         "position": 13,
@@ -4499,7 +4499,7 @@
         "match_id": "as_62d78c0a020b4c45b81a3755f6a60b68",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4511,15 +4511,13 @@
           "name": "哥德堡",
           "team_id": "ast_49810ca0136b4443bf6319749db37d63"
         },
-        "ht_score": "-",
-        "venue": "格里姆斯塔IP球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b1ce65dcd20845edbdefb86af64b12a8",
         "date": "2026-09-19",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4531,15 +4529,13 @@
           "name": "西里乌斯",
           "team_id": "ast_24137814e1ad4ecbbe1ea4908d883c7c"
         },
-        "ht_score": "-",
-        "venue": "老乌利维球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aafd2154008d48e797badee9e24ec42b",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4551,9 +4547,7 @@
           "name": "马尔默FF",
           "team_id": "ast_59bd5ddcdb514a76b706510016b2d72a"
         },
-        "ht_score": "-",
-        "venue": "日立能源球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b42907bb2a494789a64ef03efe6b219c",
@@ -4703,7 +4697,7 @@
         "match_id": "as_5c1555aad30544f19c953e8705cd5752",
         "date": "2026-09-11",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4715,7 +4709,10 @@
           "name": "米亚尔比",
           "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8503b06628d24279ad79d76f5f84dd6f",
@@ -8059,6 +8056,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_d246699b4a294a2bb2da15cda7d0e6bb",
+        "date": "2026-10-27",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
+        "season": "2026",
+        "home": {
+          "name": "AIK",
+          "team_id": "ast_200cc0a3e4e2441291c3d9b9ff3e8d8b"
+        },
+        "away": {
+          "name": "埃尔夫斯堡",
+          "team_id": "ast_623782c11918437d9604257ecfbd727f"
+        },
+        "ht_score": "-",
+        "venue": "草莓竞技场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_babe69f8018c4fb7b075befb8eadf378",
         "date": "2026-10-25",
         "time": "15:30",
@@ -8642,7 +8659,7 @@
         "match_id": "as_aafd2154008d48e797badee9e24ec42b",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -8654,15 +8671,13 @@
           "name": "马尔默FF",
           "team_id": "ast_59bd5ddcdb514a76b706510016b2d72a"
         },
-        "ht_score": "-",
-        "venue": "日立能源球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b1ce65dcd20845edbdefb86af64b12a8",
         "date": "2026-09-19",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -8674,15 +8689,13 @@
           "name": "西里乌斯",
           "team_id": "ast_24137814e1ad4ecbbe1ea4908d883c7c"
         },
-        "ht_score": "-",
-        "venue": "老乌利维球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_62d78c0a020b4c45b81a3755f6a60b68",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -8694,9 +8707,7 @@
           "name": "哥德堡",
           "team_id": "ast_49810ca0136b4443bf6319749db37d63"
         },
-        "ht_score": "-",
-        "venue": "格里姆斯塔IP球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b42907bb2a494789a64ef03efe6b219c",
@@ -8839,24 +8850,6 @@
         "away": {
           "name": "瓦斯特拉斯 SK",
           "team_id": "ast_67452dfd35464e5985830367ec307050"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5c1555aad30544f19c953e8705cd5752",
-        "date": "2026-09-11",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
-        "season": "2026",
-        "home": {
-          "name": "哈肯",
-          "team_id": "ast_1885e9ee5fcb490d8047676689f8f6d7"
-        },
-        "away": {
-          "name": "米亚尔比",
-          "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
         },
         "venue": ""
       }
@@ -14334,13 +14327,13 @@
     }
   },
   "stats": {
-    "matches_completed": 159,
-    "total_goals": 470,
-    "avg_goals_per_match": 2.96,
+    "matches_completed": 160,
+    "total_goals": 472,
+    "avg_goals_per_match": 2.95,
     "home_wins": 65,
-    "draws": 39,
+    "draws": 40,
     "away_wins": 55,
-    "home_win_pct": 40.9,
+    "home_win_pct": 40.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -15147,5 +15140,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 41
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

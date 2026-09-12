@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
@@ -198,15 +198,15 @@
         "position": 4,
         "team_id": "ast_68ab3fea95e04209890f31b008f31d7b",
         "team": "Oriental",
-        "played": 55,
+        "played": 56,
         "wins": 23,
         "draws": 19,
-        "losses": 13,
-        "goals_for": 69,
-        "goals_against": 54,
-        "goal_difference": 15,
+        "losses": 14,
+        "goals_for": 70,
+        "goals_against": 57,
+        "goal_difference": 13,
         "points": 88,
-        "form": "WWWDL"
+        "form": "LWWWD"
       },
       {
         "position": 5,
@@ -322,6 +322,19 @@
       },
       {
         "position": 13,
+        "team": "Miramar",
+        "played": 24,
+        "wins": 5,
+        "draws": 9,
+        "losses": 10,
+        "goals_for": 23,
+        "goals_against": 31,
+        "goal_difference": -8,
+        "points": 24,
+        "form": "WLDDL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41",
         "team": "Uruguay Montevideo",
         "played": 55,
@@ -333,19 +346,6 @@
         "goal_difference": -31,
         "points": 51,
         "form": "LDLLW"
-      },
-      {
-        "position": 14,
-        "team": "Miramar",
-        "played": 23,
-        "wins": 4,
-        "draws": 9,
-        "losses": 10,
-        "goals_for": 20,
-        "goals_against": 30,
-        "goal_difference": -10,
-        "points": 21,
-        "form": "LDDLD"
       }
     ],
     "zh": [
@@ -398,16 +398,16 @@
         "position": 4,
         "team_id": "ast_68ab3fea95e04209890f31b008f31d7b",
         "team": "东方",
-        "played": 55,
+        "played": 56,
         "wins": 23,
         "draws": 19,
-        "losses": 13,
-        "goals_for": 69,
-        "goals_against": 54,
-        "goal_difference": 15,
+        "losses": 14,
+        "goals_for": 70,
+        "goals_against": 57,
+        "goal_difference": 13,
         "points": 88,
-        "form": "WWWDL",
-        "form_label": "胜胜胜平负"
+        "form": "LWWWD",
+        "form_label": "负胜胜胜平"
       },
       {
         "position": 5,
@@ -531,6 +531,20 @@
       },
       {
         "position": 13,
+        "team": "阿帕雷西达",
+        "played": 24,
+        "wins": 5,
+        "draws": 9,
+        "losses": 10,
+        "goals_for": 23,
+        "goals_against": 31,
+        "goal_difference": -8,
+        "points": 24,
+        "form": "WLDDL",
+        "form_label": "胜负平平负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41",
         "team": "乌拉圭蒙得维的亚",
         "played": 55,
@@ -543,20 +557,6 @@
         "points": 51,
         "form": "LDLLW",
         "form_label": "负平负负胜"
-      },
-      {
-        "position": 14,
-        "team": "阿帕雷西达",
-        "played": 23,
-        "wins": 4,
-        "draws": 9,
-        "losses": 10,
-        "goals_for": 20,
-        "goals_against": 30,
-        "goal_difference": -10,
-        "points": 21,
-        "form": "LDDLD",
-        "form_label": "负平平负平"
       }
     ]
   },
@@ -578,6 +578,135 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_6501dc4eb3464f43a5eecc53de3280f3",
+        "date": "2026-09-13",
+        "time": "00:00",
+        "status": "00:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "科隆",
+          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
+        },
+        "away": {
+          "name": "伦蒂斯塔斯",
+          "team_id": "ast_431ce6ea20f0470ebcd55adfdfdac613"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_af907a7d070649528674205f97b63333",
+        "date": "2026-09-13",
+        "time": "15:30",
+        "status": "15:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "河床",
+          "team_id": "ast_634b3917b48b46f183d5f56abfe435eb"
+        },
+        "away": {
+          "name": "费尼克斯",
+          "team_id": "ast_cc3ff83cd6c14c9c91d517b7856239bc"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_dacf23665c594640b60884016bb374b1",
+        "date": "2026-09-13",
+        "time": "18:30",
+        "status": "18:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "阿特纳斯",
+          "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
+        },
+        "away": {
+          "name": "塞里托",
+          "team_id": "ast_8c3a500230f14df9b9704f219aa7e545"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_c1b3c859e1ed4425bc1f24e06227e793",
+        "date": "2026-09-12",
+        "time": "00:00",
+        "status": "FT",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "东方",
+          "team_id": "ast_68ab3fea95e04209890f31b008f31d7b"
+        },
+        "away": {
+          "name": "米拉马尔",
+          "team_id": "ast_70ef149f305d4585a7dea864c74ee0c6"
+        },
+        "ht_score": "1-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
+      },
+      {
+        "match_id": "as_3741126f853f42d2919c014263da93d1",
+        "date": "2026-09-12",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "乌拉圭蒙得维的亚",
+          "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
+        },
+        "away": {
+          "name": "塔库阿伦博",
+          "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_2c2c88c118bd4a10849fc44c306b232f",
+        "date": "2026-09-12",
+        "time": "18:00",
+        "status": "18:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "乌拉坎足球俱乐部",
+          "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0"
+        },
+        "away": {
+          "name": "普拉萨科隆尼亚",
+          "team_id": "ast_5206e696fb5446c086911259c84d13ba"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_7f315249df40430a869d07fd29c5da7a",
+        "date": "2026-09-12",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "佩桑杜FC",
+          "team_id": "ast_994afc4ff5174e1ba7c3946065465206"
+        },
+        "away": {
+          "name": "光明城",
+          "team_id": "ast_030d77659a864002b94113b3a39d6e24"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_a4464b060410403a8092357767011163",
         "date": "2026-09-07",
         "time": "22:00",
@@ -595,7 +724,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Parque Cincuentenario Juan Prandi",
         "status_label": "完场"
       },
       {
@@ -3980,7 +4109,137 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_dacf23665c594640b60884016bb374b1",
+        "date": "2026-09-13",
+        "time": "18:30",
+        "status": "18:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "阿特纳斯",
+          "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
+        },
+        "away": {
+          "name": "塞里托",
+          "team_id": "ast_8c3a500230f14df9b9704f219aa7e545"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_af907a7d070649528674205f97b63333",
+        "date": "2026-09-13",
+        "time": "15:30",
+        "status": "15:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "河床",
+          "team_id": "ast_634b3917b48b46f183d5f56abfe435eb"
+        },
+        "away": {
+          "name": "费尼克斯",
+          "team_id": "ast_cc3ff83cd6c14c9c91d517b7856239bc"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_6501dc4eb3464f43a5eecc53de3280f3",
+        "date": "2026-09-13",
+        "time": "00:00",
+        "status": "00:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "科隆",
+          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
+        },
+        "away": {
+          "name": "伦蒂斯塔斯",
+          "team_id": "ast_431ce6ea20f0470ebcd55adfdfdac613"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_7f315249df40430a869d07fd29c5da7a",
+        "date": "2026-09-12",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "佩桑杜FC",
+          "team_id": "ast_994afc4ff5174e1ba7c3946065465206"
+        },
+        "away": {
+          "name": "光明城",
+          "team_id": "ast_030d77659a864002b94113b3a39d6e24"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_2c2c88c118bd4a10849fc44c306b232f",
+        "date": "2026-09-12",
+        "time": "18:00",
+        "status": "18:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "乌拉坎足球俱乐部",
+          "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0"
+        },
+        "away": {
+          "name": "普拉萨科隆尼亚",
+          "team_id": "ast_5206e696fb5446c086911259c84d13ba"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_3741126f853f42d2919c014263da93d1",
+        "date": "2026-09-12",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "乌拉圭蒙得维的亚",
+          "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
+        },
+        "away": {
+          "name": "塔库阿伦博",
+          "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_c1b3c859e1ed4425bc1f24e06227e793",
+        "date": "2026-09-12",
+        "time": "00:00",
+        "status": "FT",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "东方",
+          "team_id": "ast_68ab3fea95e04209890f31b008f31d7b"
+        },
+        "away": {
+          "name": "米拉马尔",
+          "team_id": "ast_70ef149f305d4585a7dea864c74ee0c6"
+        },
+        "ht_score": "1-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
+      }
+    ]
   },
   "champions": [
     {
@@ -7534,13 +7793,13 @@
     }
   },
   "stats": {
-    "matches_completed": 162,
-    "total_goals": 374,
-    "avg_goals_per_match": 2.31,
+    "matches_completed": 163,
+    "total_goals": 378,
+    "avg_goals_per_match": 2.32,
     "home_wins": 68,
     "draws": 50,
-    "away_wins": 44,
-    "home_win_pct": 42.0,
+    "away_wins": 45,
+    "home_win_pct": 41.7,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -8303,8 +8562,8 @@
     "distinct_title_holders": 12,
     "teams_all_time": 39,
     "standings_rows_current": 14,
-    "matches_current_season": 162,
-    "upcoming_matches": 0
+    "matches_current_season": 169,
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/09/09"
+  "updated_at": "2026/09/12"
 }

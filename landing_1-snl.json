@@ -242,6 +242,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_530b373d32ce4e00a3d4173642579707",
+        "team": "Nafta",
+        "played": 9,
+        "wins": 4,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 17,
+        "goals_against": 14,
+        "goal_difference": 3,
+        "points": 13,
+        "form": "WWLLL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
         "team": "Bravo",
         "played": 8,
@@ -255,7 +269,7 @@
         "form": "DWLDD"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_938b38c528ba47648f71c28fb3513ec4",
         "team": "Celje",
         "played": 7,
@@ -269,7 +283,7 @@
         "form": "LWLWW"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
         "team": "O. Ljubljana",
         "played": 8,
@@ -281,20 +295,6 @@
         "goal_difference": 1,
         "points": 11,
         "form": "WDWDL"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_530b373d32ce4e00a3d4173642579707",
-        "team": "Nafta",
-        "played": 8,
-        "wins": 3,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 15,
-        "goals_against": 13,
-        "goal_difference": 2,
-        "points": 10,
-        "form": "WLLLD"
       },
       {
         "position": 7,
@@ -328,15 +328,15 @@
         "position": 9,
         "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706",
         "team": "Grosuplje",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 2,
-        "losses": 4,
-        "goals_for": 11,
-        "goals_against": 15,
-        "goal_difference": -4,
+        "losses": 5,
+        "goals_for": 12,
+        "goals_against": 17,
+        "goal_difference": -5,
         "points": 8,
-        "form": "LWLLD"
+        "form": "LLWLL"
       },
       {
         "position": 10,
@@ -386,6 +386,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_530b373d32ce4e00a3d4173642579707",
+        "team": "纳夫塔",
+        "played": 9,
+        "wins": 4,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 17,
+        "goals_against": 14,
+        "goal_difference": 3,
+        "points": 13,
+        "form": "WWLLL",
+        "form_label": "胜胜负负负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
         "team": "布拉沃",
         "played": 8,
@@ -400,7 +415,7 @@
         "form_label": "平胜负平平"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_938b38c528ba47648f71c28fb3513ec4",
         "team": "切尔耶",
         "played": 7,
@@ -415,7 +430,7 @@
         "form_label": "负胜负胜胜"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
         "team": "奥林匹亚卢布尔雅那",
         "played": 8,
@@ -428,21 +443,6 @@
         "points": 11,
         "form": "WDWDL",
         "form_label": "胜平胜平负"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_530b373d32ce4e00a3d4173642579707",
-        "team": "纳夫塔",
-        "played": 8,
-        "wins": 3,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 15,
-        "goals_against": 13,
-        "goal_difference": 2,
-        "points": 10,
-        "form": "WLLLD",
-        "form_label": "胜负负负平"
       },
       {
         "position": 7,
@@ -478,16 +478,16 @@
         "position": 9,
         "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706",
         "team": "格鲁苏普列",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 2,
-        "losses": 4,
-        "goals_for": 11,
-        "goals_against": 15,
-        "goal_difference": -4,
+        "losses": 5,
+        "goals_for": 12,
+        "goals_against": 17,
+        "goal_difference": -5,
         "points": 8,
-        "form": "LWLLD",
-        "form_label": "负胜负负平"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 10,
@@ -3187,7 +3187,7 @@
         "match_id": "as_72180d963fb74fd7999a5ff2c62dff3d",
         "date": "2026-09-19",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3199,15 +3199,13 @@
           "name": "纳夫塔",
           "team_id": "ast_530b373d32ce4e00a3d4173642579707"
         },
-        "ht_score": "-",
-        "venue": "Bonifika",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6639d2dab3914f57b10007adfe1264f6",
         "date": "2026-09-19",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3219,9 +3217,7 @@
           "name": "阿卢米尼",
           "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3"
         },
-        "ht_score": "-",
-        "venue": "柳德斯基·弗尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_300db5f4ec45484798c46e1ce6cd568b",
@@ -3299,7 +3295,7 @@
         "match_id": "as_7d5c3cd2c3a74d44ac65b2156d098243",
         "date": "2026-09-11",
         "time": "18:15",
-        "status": "18:15",
+        "status": "FT",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3311,7 +3307,10 @@
           "name": "纳夫塔",
           "team_id": "ast_530b373d32ce4e00a3d4173642579707"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_eecb656daae1401bb7f65b0a48e8affe",
@@ -4417,7 +4416,7 @@
         "match_id": "as_6639d2dab3914f57b10007adfe1264f6",
         "date": "2026-09-19",
         "time": "18:15",
-        "status": "Not Started",
+        "status": "18:15",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4429,15 +4428,13 @@
           "name": "阿卢米尼",
           "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3"
         },
-        "ht_score": "-",
-        "venue": "柳德斯基·弗尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_72180d963fb74fd7999a5ff2c62dff3d",
         "date": "2026-09-19",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4449,9 +4446,7 @@
           "name": "纳夫塔",
           "team_id": "ast_530b373d32ce4e00a3d4173642579707"
         },
-        "ht_score": "-",
-        "venue": "Bonifika",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9640a59de7d74d45b51ad6254572578e",
@@ -4522,24 +4517,6 @@
         "away": {
           "name": "切尔耶",
           "team_id": "ast_938b38c528ba47648f71c28fb3513ec4"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7d5c3cd2c3a74d44ac65b2156d098243",
-        "date": "2026-09-11",
-        "time": "18:15",
-        "status": "18:15",
-        "league": "斯洛文尼亚甲级联赛",
-        "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
-        "season": "2026/2027",
-        "home": {
-          "name": "格鲁苏普列",
-          "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706"
-        },
-        "away": {
-          "name": "纳夫塔",
-          "team_id": "ast_530b373d32ce4e00a3d4173642579707"
         },
         "venue": ""
       }
@@ -8395,13 +8372,13 @@
     }
   },
   "stats": {
-    "matches_completed": 39,
-    "total_goals": 97,
-    "avg_goals_per_match": 2.49,
+    "matches_completed": 40,
+    "total_goals": 100,
+    "avg_goals_per_match": 2.5,
     "home_wins": 13,
     "draws": 12,
-    "away_wins": 14,
-    "home_win_pct": 33.3,
+    "away_wins": 15,
+    "home_win_pct": 32.5,
     "biggest_win": {
       "margin": 3,
       "match": {
@@ -8552,17 +8529,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
-            "team": "Bravo",
-            "played": 8,
-            "wins": 3,
-            "draws": 3,
-            "losses": 2,
-            "goals_for": 8,
-            "goals_against": 8,
-            "goal_difference": 0,
-            "points": 12,
-            "form": "DWLDD"
+            "team_id": "ast_530b373d32ce4e00a3d4173642579707",
+            "team": "Nafta",
+            "played": 9,
+            "wins": 4,
+            "draws": 1,
+            "losses": 4,
+            "goals_for": 17,
+            "goals_against": 14,
+            "goal_difference": 3,
+            "points": 13,
+            "form": "WWLLL"
           }
         ],
         "meta": {
@@ -9196,7 +9173,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 20
+    "upcoming_matches": 19
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

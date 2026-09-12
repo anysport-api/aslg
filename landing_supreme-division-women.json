@@ -64,6 +64,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
+        "team": "CSKA Moscow W",
+        "played": 18,
+        "wins": 15,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 47,
+        "goals_against": 9,
+        "goal_difference": 38,
+        "points": 46,
+        "form": "WWWLW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_58addf18a5ea4d5f9ae6e035b12b5d8a",
         "team": "Zenit W",
         "played": 16,
@@ -75,20 +89,6 @@
         "goal_difference": 39,
         "points": 44,
         "form": "WWWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
-        "team": "CSKA Moscow W",
-        "played": 17,
-        "wins": 14,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 46,
-        "goals_against": 9,
-        "goal_difference": 37,
-        "points": 43,
-        "form": "WWLWW"
       },
       {
         "position": 3,
@@ -234,13 +234,13 @@
         "position": 13,
         "team_id": "ast_37f966973a1746ef8f25ba8d030721c5",
         "team": "FK Yenisey W",
-        "played": 16,
+        "played": 17,
         "wins": 0,
         "draws": 3,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 7,
-        "goals_against": 39,
-        "goal_difference": -32,
+        "goals_against": 40,
+        "goal_difference": -33,
         "points": 3,
         "form": "LLLLL"
       }
@@ -248,6 +248,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
+        "team": "莫斯科CSKA女足",
+        "played": 18,
+        "wins": 15,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 47,
+        "goals_against": 9,
+        "goal_difference": 38,
+        "points": 46,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_58addf18a5ea4d5f9ae6e035b12b5d8a",
         "team": "泽尼特女足",
         "played": 16,
@@ -260,21 +275,6 @@
         "points": 44,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
-        "team": "莫斯科CSKA女足",
-        "played": 17,
-        "wins": 14,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 46,
-        "goals_against": 9,
-        "goal_difference": 37,
-        "points": 43,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
       },
       {
         "position": 3,
@@ -430,13 +430,13 @@
         "position": 13,
         "team_id": "ast_37f966973a1746ef8f25ba8d030721c5",
         "team": "叶尼塞女足",
-        "played": 16,
+        "played": 17,
         "wins": 0,
         "draws": 3,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 7,
-        "goals_against": 39,
-        "goal_difference": -32,
+        "goals_against": 40,
+        "goal_difference": -33,
         "points": 3,
         "form": "LLLLL",
         "form_label": "负负负负负"
@@ -1184,7 +1184,7 @@
         "match_id": "as_4d5023f5db27488a831f87fdc0216e85",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -1196,15 +1196,13 @@
           "name": "莫斯科CSKA女足",
           "team_id": "ast_5bc45d2ea298461487db612b709fcbb1"
         },
-        "ht_score": "-",
-        "venue": "Chertanovo Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d6aae37d99744a308ec808c5091ba570",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -1216,15 +1214,13 @@
           "name": "莫斯科火车头女足",
           "team_id": "ast_fd42f13d9d5a4c978496657ae0f43680"
         },
-        "ht_score": "-",
-        "venue": "Metallurg Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1308a59cec9342f5845c2c0fdd529aa7",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -1236,15 +1232,13 @@
           "name": "兹维兹达2005女足",
           "team_id": "ast_b7f2a2e6aab247a28183c7c9df8b0d28"
         },
-        "ht_score": "-",
-        "venue": "Stadion Lokomotiv Rostov na Donu",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1d4a00ef50894d6093b264e64b13be85",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -1256,15 +1250,13 @@
           "name": "叶尼塞女足",
           "team_id": "ast_37f966973a1746ef8f25ba8d030721c5"
         },
-        "ht_score": "-",
-        "venue": "阿克巴尔斯竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b3ec05bf13ea4c078f1368676c163944",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -1276,15 +1268,13 @@
           "name": "斯巴达克莫斯科女足",
           "team_id": "ast_a97a2a4d6c614b92b2f1956a832f704f"
         },
-        "ht_score": "-",
-        "venue": "SportComplex Znamja Truda",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ca52b4c697604041be85754c0f635462",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -1296,9 +1286,7 @@
           "name": "莫斯科迪纳摩女足",
           "team_id": "ast_16751f1ac4954d1eb2b6bcad9494f217"
         },
-        "ht_score": "-",
-        "venue": "泽尼特学院5号球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_487c51dfebd64dbd9e1040b8748ad188",
@@ -1394,7 +1382,7 @@
         "match_id": "as_0b19e63cef8f4993bdca1a97da5452a7",
         "date": "2026-09-11",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -1406,7 +1394,10 @@
           "name": "叶尼塞女足",
           "team_id": "ast_37f966973a1746ef8f25ba8d030721c5"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_90814fb6f0ee4c61a8b5504fa15ecaf3",
@@ -4042,7 +4033,7 @@
         "match_id": "as_ca52b4c697604041be85754c0f635462",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -4054,15 +4045,13 @@
           "name": "莫斯科迪纳摩女足",
           "team_id": "ast_16751f1ac4954d1eb2b6bcad9494f217"
         },
-        "ht_score": "-",
-        "venue": "泽尼特学院5号球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b3ec05bf13ea4c078f1368676c163944",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -4074,15 +4063,13 @@
           "name": "斯巴达克莫斯科女足",
           "team_id": "ast_a97a2a4d6c614b92b2f1956a832f704f"
         },
-        "ht_score": "-",
-        "venue": "SportComplex Znamja Truda",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1d4a00ef50894d6093b264e64b13be85",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -4094,15 +4081,13 @@
           "name": "叶尼塞女足",
           "team_id": "ast_37f966973a1746ef8f25ba8d030721c5"
         },
-        "ht_score": "-",
-        "venue": "阿克巴尔斯竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1308a59cec9342f5845c2c0fdd529aa7",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -4114,15 +4099,13 @@
           "name": "兹维兹达2005女足",
           "team_id": "ast_b7f2a2e6aab247a28183c7c9df8b0d28"
         },
-        "ht_score": "-",
-        "venue": "Stadion Lokomotiv Rostov na Donu",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d6aae37d99744a308ec808c5091ba570",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -4134,15 +4117,13 @@
           "name": "莫斯科火车头女足",
           "team_id": "ast_fd42f13d9d5a4c978496657ae0f43680"
         },
-        "ht_score": "-",
-        "venue": "Metallurg Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4d5023f5db27488a831f87fdc0216e85",
         "date": "2026-09-19",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -4154,9 +4135,7 @@
           "name": "莫斯科CSKA女足",
           "team_id": "ast_5bc45d2ea298461487db612b709fcbb1"
         },
-        "ht_score": "-",
-        "venue": "Chertanovo Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d9991823af7844b4a150e08f12cc4136",
@@ -4245,24 +4224,6 @@
         "away": {
           "name": "切尔塔诺沃M.女足",
           "team_id": "ast_9b7ab142bfad46efb06427a29158a104"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0b19e63cef8f4993bdca1a97da5452a7",
-        "date": "2026-09-11",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "俄罗斯最高女子联赛",
-        "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
-        "season": "2026",
-        "home": {
-          "name": "莫斯科CSKA女足",
-          "team_id": "ast_5bc45d2ea298461487db612b709fcbb1"
-        },
-        "away": {
-          "name": "叶尼塞女足",
-          "team_id": "ast_37f966973a1746ef8f25ba8d030721c5"
         },
         "venue": ""
       }
@@ -4724,13 +4685,13 @@
     }
   },
   "stats": {
-    "matches_completed": 108,
-    "total_goals": 291,
-    "avg_goals_per_match": 2.69,
-    "home_wins": 45,
+    "matches_completed": 109,
+    "total_goals": 292,
+    "avg_goals_per_match": 2.68,
+    "home_wins": 46,
     "draws": 22,
     "away_wins": 41,
-    "home_win_pct": 41.7,
+    "home_win_pct": 42.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -4756,9 +4717,9 @@
       }
     },
     "leader": {
-      "team": "Zenit W",
-      "points": 44,
-      "played": 16
+      "team": "CSKA Moscow W",
+      "points": 46,
+      "played": 18
     }
   },
   "coverage": {
@@ -4853,6 +4814,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
+            "team": "CSKA Moscow W",
+            "played": 18,
+            "wins": 15,
+            "draws": 1,
+            "losses": 2,
+            "goals_for": 47,
+            "goals_against": 9,
+            "goal_difference": 38,
+            "points": 46,
+            "form": "WWWLW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_58addf18a5ea4d5f9ae6e035b12b5d8a",
             "team": "Zenit W",
             "played": 16,
@@ -4864,20 +4839,6 @@
             "goal_difference": 39,
             "points": 44,
             "form": "WWWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
-            "team": "CSKA Moscow W",
-            "played": 17,
-            "wins": 14,
-            "draws": 1,
-            "losses": 2,
-            "goals_for": 46,
-            "goals_against": 9,
-            "goal_difference": 37,
-            "points": 43,
-            "form": "WWLWW"
           },
           {
             "position": 3,
@@ -5528,7 +5489,7 @@
     "teams_all_time": 13,
     "standings_rows_current": 13,
     "matches_current_season": 156,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

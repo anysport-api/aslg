@@ -3515,6 +3515,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_8b5c39aaea564e47860d6d20fbc4188b",
+        "date": "2026-10-27",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "直布罗陀国家联赛",
+        "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
+        "season": "2026/2027",
+        "home": {
+          "name": "直布罗陀狮子队",
+          "team_id": "ast_a77676df8f6d482aa7238d069b37f7b8"
+        },
+        "away": {
+          "name": "蒙斯卡尔佩",
+          "team_id": "ast_8f4cf5f361874d52ad04cc36613c13bb"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_701c73fef4d34b94979c24d4d41cb7fe",
         "date": "2026-10-25",
         "time": "18:30",
@@ -3818,7 +3838,7 @@
         "match_id": "as_fe7e062872ee40fc925a34a9048c8271",
         "date": "2026-09-19",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "直布罗陀国家联赛",
         "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
         "season": "2026/2027",
@@ -3830,15 +3850,13 @@
           "name": "欧洲角",
           "team_id": "ast_3995b6558efe4d9aa2294cea6d82869e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_cd0026a93678401da7d5770d5310fff1",
         "date": "2026-09-19",
         "time": "14:30",
-        "status": "Not Started",
+        "status": "14:30",
         "league": "直布罗陀国家联赛",
         "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
         "season": "2026/2027",
@@ -3850,15 +3868,13 @@
           "name": "圣约瑟夫",
           "team_id": "ast_c78411cdea58425282ae22917af70cd9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1f2471face4f4a8b9b1c602f3c491883",
         "date": "2026-09-18",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "直布罗陀国家联赛",
         "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
         "season": "2026/2027",
@@ -3870,9 +3886,7 @@
           "name": "喜鹊",
           "team_id": "ast_2217849dcce44cb5be391e57953687ba"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_26ac7fef3e504e8eb633b5b951e52944",
@@ -3961,24 +3975,6 @@
         "away": {
           "name": "欧洲 FC",
           "team_id": "ast_3c6d945b8a974dcc8ebd372a94d8ec0c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f6642ea60d994a2987630574af43619f",
-        "date": "2026-09-11",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "直布罗陀国家联赛",
-        "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
-        "season": "2026/2027",
-        "home": {
-          "name": "喜鹊",
-          "team_id": "ast_2217849dcce44cb5be391e57953687ba"
-        },
-        "away": {
-          "name": "猎犬",
-          "team_id": "ast_d29f8f79026a49ac82c34d7de5c976d6"
         },
         "venue": ""
       }
@@ -5044,5 +5040,5 @@
     "matches_current_season": 147,
     "upcoming_matches": 24
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

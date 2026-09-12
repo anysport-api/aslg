@@ -1,7 +1,7 @@
 {
   "slug": "bundesliga",
   "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-  "updated_at": "2026/09/11",
+  "updated_at": "2026/09/12",
   "meta": {
     "name": {
       "en": "Bundesliga",
@@ -267,15 +267,15 @@
         "position": 2,
         "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
         "team": "Salzburg",
-        "played": 5,
+        "played": 6,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 0,
-        "goals_for": 14,
-        "goals_against": 3,
+        "goals_for": 15,
+        "goals_against": 4,
         "goal_difference": 11,
-        "points": 13,
-        "form": "WWWDW"
+        "points": 14,
+        "form": "DWWWD"
       },
       {
         "position": 3,
@@ -349,6 +349,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
+        "team": "Ried",
+        "played": 6,
+        "wins": 1,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 7,
+        "goals_against": 11,
+        "goal_difference": -4,
+        "points": 5,
+        "form": "DLWLL"
+      },
+      {
+        "position": 9,
         "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
         "team": "A. Lustenau",
         "played": 5,
@@ -360,20 +374,6 @@
         "goal_difference": -4,
         "points": 5,
         "form": "LDWLD"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
-        "team": "Ried",
-        "played": 5,
-        "wins": 1,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 10,
-        "goal_difference": -4,
-        "points": 4,
-        "form": "LWLLD"
       },
       {
         "position": 10,
@@ -438,16 +438,16 @@
         "position": 2,
         "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
         "team": "萨尔茨堡",
-        "played": 5,
+        "played": 6,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 0,
-        "goals_for": 14,
-        "goals_against": 3,
+        "goals_for": 15,
+        "goals_against": 4,
         "goal_difference": 11,
-        "points": 13,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
+        "points": 14,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
       },
       {
         "position": 3,
@@ -526,6 +526,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
+        "team": "里德",
+        "played": 6,
+        "wins": 1,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 7,
+        "goals_against": 11,
+        "goal_difference": -4,
+        "points": 5,
+        "form": "DLWLL",
+        "form_label": "平负胜负负"
+      },
+      {
+        "position": 9,
         "team_id": "ast_3e638980796048e4ac5536b4eada79d8",
         "team": "A. 卢斯特瑙",
         "played": 5,
@@ -538,21 +553,6 @@
         "points": 5,
         "form": "LDWLD",
         "form_label": "负平胜负平"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b",
-        "team": "里德",
-        "played": 5,
-        "wins": 1,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 10,
-        "goal_difference": -4,
-        "points": 4,
-        "form": "LWLLD",
-        "form_label": "负胜负负平"
       },
       {
         "position": 10,
@@ -4097,26 +4097,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_c5d98ea6f08a441fae1fd1417d3455e7",
-        "date": "2026-10-25",
-        "time": "13:30",
-        "status": "Not Started",
-        "league": "奥地利超级联赛",
-        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-        "season": "2026/2027",
-        "home": {
-          "name": "哈特贝格",
-          "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14"
-        },
-        "away": {
-          "name": "沃尔夫斯贝格",
-          "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
-        },
-        "ht_score": "-",
-        "venue": "Stadion Hartberg",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_cf5c92a81c3240128ae7b4cd3f7f34bb",
         "date": "2026-10-25",
         "time": "16:00",
@@ -4154,6 +4134,26 @@
         },
         "ht_score": "-",
         "venue": "Merkur-Arena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c5d98ea6f08a441fae1fd1417d3455e7",
+        "date": "2026-10-24",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "奥地利超级联赛",
+        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
+        "season": "2026/2027",
+        "home": {
+          "name": "哈特贝格",
+          "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14"
+        },
+        "away": {
+          "name": "沃尔夫斯贝格",
+          "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
+        },
+        "ht_score": "-",
+        "venue": "Stadion Hartberg",
         "status_label": "未开赛"
       },
       {
@@ -4520,7 +4520,7 @@
         "match_id": "as_746be914cdc240f780fe20821e5e8274",
         "date": "2026-09-19",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4532,15 +4532,13 @@
           "name": "阿尔塔赫",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3"
         },
-        "ht_score": "-",
-        "venue": "Planet Pure Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_81503d8376e44ab19902a7f6ec2503a5",
         "date": "2026-09-19",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4552,15 +4550,13 @@
           "name": "维也纳奥地利",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735"
         },
-        "ht_score": "-",
-        "venue": "Merkur-Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f78149cc6eb34c06a48830b666bcef6d",
         "date": "2026-09-18",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4572,15 +4568,13 @@
           "name": "蒂罗尔",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf"
         },
-        "ht_score": "-",
-        "venue": "安联体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ea2f4809a0d541c0b88f0ab0a8acfbe1",
         "date": "2026-09-13",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4592,15 +4586,13 @@
           "name": "A. 卢斯特瑙",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8"
         },
-        "ht_score": "-",
-        "venue": "忠利竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_14eb8b9d50e240019189eea7b6ccece4",
         "date": "2026-09-13",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4612,15 +4604,13 @@
           "name": "林茨体育",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d"
         },
-        "ht_score": "-",
-        "venue": "Merkur-Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f030ccb1672549e6b709a7d4c4f1db14",
         "date": "2026-09-13",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4632,9 +4622,7 @@
           "name": "哈特贝格",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14"
         },
-        "ht_score": "-",
-        "venue": "蒂沃利蒂罗尔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_cccaba7ed3b1433192acf34425adac58",
@@ -4676,7 +4664,7 @@
         "match_id": "as_706ae234957a41b6b5aea5556d4ff8c6",
         "date": "2026-09-11",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4688,7 +4676,10 @@
           "name": "萨尔茨堡",
           "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_235fcd72bb294b55b57d151518b5555e",
@@ -5363,26 +5354,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_c5d98ea6f08a441fae1fd1417d3455e7",
-        "date": "2026-10-25",
-        "time": "13:30",
-        "status": "Not Started",
-        "league": "奥地利超级联赛",
-        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-        "season": "2026/2027",
-        "home": {
-          "name": "哈特贝格",
-          "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14"
-        },
-        "away": {
-          "name": "沃尔夫斯贝格",
-          "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
-        },
-        "ht_score": "-",
-        "venue": "Stadion Hartberg",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_89b63e8fd54048fdaefc7b746192d92a",
         "date": "2026-10-24",
         "time": "15:00",
@@ -5420,6 +5391,26 @@
         },
         "ht_score": "-",
         "venue": "安联体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c5d98ea6f08a441fae1fd1417d3455e7",
+        "date": "2026-10-24",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "奥地利超级联赛",
+        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
+        "season": "2026/2027",
+        "home": {
+          "name": "哈特贝格",
+          "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14"
+        },
+        "away": {
+          "name": "沃尔夫斯贝格",
+          "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
+        },
+        "ht_score": "-",
+        "venue": "Stadion Hartberg",
         "status_label": "未开赛"
       },
       {
@@ -5746,7 +5737,7 @@
         "match_id": "as_81503d8376e44ab19902a7f6ec2503a5",
         "date": "2026-09-19",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -5758,15 +5749,13 @@
           "name": "维也纳奥地利",
           "team_id": "ast_60765e82a3f34e3e9d6983880cc09735"
         },
-        "ht_score": "-",
-        "venue": "Merkur-Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_746be914cdc240f780fe20821e5e8274",
         "date": "2026-09-19",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -5778,15 +5767,13 @@
           "name": "阿尔塔赫",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3"
         },
-        "ht_score": "-",
-        "venue": "Planet Pure Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f78149cc6eb34c06a48830b666bcef6d",
         "date": "2026-09-18",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -5798,15 +5785,13 @@
           "name": "蒂罗尔",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf"
         },
-        "ht_score": "-",
-        "venue": "安联体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f030ccb1672549e6b709a7d4c4f1db14",
         "date": "2026-09-13",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -5818,15 +5803,13 @@
           "name": "哈特贝格",
           "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14"
         },
-        "ht_score": "-",
-        "venue": "蒂沃利蒂罗尔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_14eb8b9d50e240019189eea7b6ccece4",
         "date": "2026-09-13",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -5838,15 +5821,13 @@
           "name": "林茨体育",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d"
         },
-        "ht_score": "-",
-        "venue": "Merkur-Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ea2f4809a0d541c0b88f0ab0a8acfbe1",
         "date": "2026-09-13",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -5858,9 +5839,7 @@
           "name": "A. 卢斯特瑙",
           "team_id": "ast_3e638980796048e4ac5536b4eada79d8"
         },
-        "ht_score": "-",
-        "venue": "忠利竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0aafbf66da924228b93e7d246d6c0f4c",
@@ -5895,24 +5874,6 @@
         "away": {
           "name": "格拉茨AK",
           "team_id": "ast_576533b83b7a449d8a828f61801d9370"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_706ae234957a41b6b5aea5556d4ff8c6",
-        "date": "2026-09-11",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "奥地利超级联赛",
-        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-        "season": "2026/2027",
-        "home": {
-          "name": "里德",
-          "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b"
-        },
-        "away": {
-          "name": "萨尔茨堡",
-          "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773"
         },
         "venue": ""
       }
@@ -9782,13 +9743,13 @@
     }
   },
   "stats": {
-    "matches_completed": 30,
-    "total_goals": 88,
-    "avg_goals_per_match": 2.93,
+    "matches_completed": 31,
+    "total_goals": 90,
+    "avg_goals_per_match": 2.9,
     "home_wins": 16,
-    "draws": 5,
+    "draws": 6,
     "away_wins": 9,
-    "home_win_pct": 53.3,
+    "home_win_pct": 51.6,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -9934,15 +9895,15 @@
             "position": 2,
             "team_id": "ast_a90baf6bef36419aaf5b6e6650f47773",
             "team": "Salzburg",
-            "played": 5,
+            "played": 6,
             "wins": 4,
-            "draws": 1,
+            "draws": 2,
             "losses": 0,
-            "goals_for": 14,
-            "goals_against": 3,
+            "goals_for": 15,
+            "goals_against": 4,
             "goal_difference": 11,
-            "points": 13,
-            "form": "WWWDW"
+            "points": 14,
+            "form": "DWWWD"
           },
           {
             "position": 3,
@@ -10529,6 +10490,6 @@
     "teams_all_time": 24,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   }
 }

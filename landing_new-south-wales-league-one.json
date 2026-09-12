@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
@@ -545,7 +545,7 @@
         "match_id": "as_21e23032875a4807a4e076f058cfcf2a",
         "date": "2026-09-11",
         "time": "09:00",
-        "status": "09:00",
+        "status": "FT",
         "league": "澳大利亚新南威尔士联赛一",
         "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
         "season": "2026",
@@ -557,7 +557,10 @@
           "name": "Parramatta Eagles",
           "team_id": "ast_f23e8e7d27294d7f87e47001527228c4"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5399f26fa9d64dc8a7f2b35e7dcd8f26",
@@ -5621,26 +5624,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_21e23032875a4807a4e076f058cfcf2a",
-        "date": "2026-09-11",
-        "time": "09:00",
-        "status": "09:00",
-        "league": "澳大利亚新南威尔士联赛一",
-        "league_id": "asl_5c8ccf9b27934ad0b2a44a315102d78b",
-        "season": "2026",
-        "home": {
-          "name": "前景联",
-          "team_id": "ast_f5fa29689dd34ccf928371f3505fc7ce"
-        },
-        "away": {
-          "name": "Parramatta Eagles",
-          "team_id": "ast_f23e8e7d27294d7f87e47001527228c4"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [],
   "honours": [],
@@ -5942,13 +5926,13 @@
     }
   },
   "stats": {
-    "matches_completed": 241,
-    "total_goals": 819,
+    "matches_completed": 242,
+    "total_goals": 822,
     "avg_goals_per_match": 3.4,
-    "home_wins": 96,
+    "home_wins": 97,
     "draws": 60,
     "away_wins": 85,
-    "home_win_pct": 39.8,
+    "home_win_pct": 40.1,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -6694,7 +6678,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 242,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

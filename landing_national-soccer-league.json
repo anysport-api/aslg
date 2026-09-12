@@ -5404,6 +5404,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_e466f7c64d7049b6a07e127243ec33da",
+        "date": "2026-10-27",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "卢旺达国家足球联赛",
+        "league_id": "asl_fc8b550ee9ce42908461d8b9d885cadb",
+        "season": "2026/2027",
+        "home": {
+          "name": "布盖塞拉",
+          "team_id": "ast_b861affc9ec044d2a2377cefdf9e53a0"
+        },
+        "away": {
+          "name": "APR",
+          "team_id": "ast_691361814697415ca338ba7cafd7b4fa"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_fdae3ea50d984a39ba87c5cdfb139d17",
         "date": "2026-10-25",
         "time": "13:00",
@@ -6127,10 +6147,9 @@
         "match_id": "as_ac91aad6acf740f29882f36fb78bf7da",
         "date": "2026-09-12",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "Postp.",
         "league": "卢旺达国家足球联赛",
         "league_id": "asl_fc8b550ee9ce42908461d8b9d885cadb",
-        "season": "2026/2027",
         "home": {
           "name": "Sunrise",
           "team_id": "ast_34230d2869b14d8196bd1b32339c5848"
@@ -6139,15 +6158,14 @@
           "name": "加索吉联",
           "team_id": "ast_940f63bde8704b4180cbf52db2d1b45c"
         },
-        "ht_score": "-",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "延期"
       },
       {
         "match_id": "as_57bdef7ca9344ebcbda70eaa66e14098",
         "date": "2026-09-12",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "卢旺达国家足球联赛",
         "league_id": "asl_fc8b550ee9ce42908461d8b9d885cadb",
         "season": "2026/2027",
@@ -6159,15 +6177,13 @@
           "name": "埃廷塞尔",
           "team_id": "ast_c07ef0f8c72f4d46b0b2abccd5e9a38b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_54d0c93f5a0c4e48adaf193517689cba",
         "date": "2026-09-12",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "卢旺达国家足球联赛",
         "league_id": "asl_fc8b550ee9ce42908461d8b9d885cadb",
         "season": "2026/2027",
@@ -6179,9 +6195,7 @@
           "name": "阿马加朱",
           "team_id": "ast_d36765f3006447de8a32f02de4b6fc66"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_556f1dbb256c4a4f821b06bd9aa77370",
@@ -6200,26 +6214,8 @@
           "team_id": "ast_2fec0eaeaff440e3b6e86b01476ba511"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Ngoma District Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_81992651461d421db7fe9894ea3703f0",
-        "date": "2026-09-11",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "卢旺达国家足球联赛",
-        "league_id": "asl_fc8b550ee9ce42908461d8b9d885cadb",
-        "season": "2026/2027",
-        "home": {
-          "name": "穆桑泽",
-          "team_id": "ast_d7152efda1754910a261ef056f6d1884"
-        },
-        "away": {
-          "name": "基约武",
-          "team_id": "ast_65f1a2e91d3e45849c6cf36dc3799505"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8816,5 +8812,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 41
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }

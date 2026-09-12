@@ -3897,7 +3897,7 @@
         "match_id": "as_5a846f9ca5244aa39c5c423823ab1672",
         "date": "2026-09-19",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -3909,15 +3909,13 @@
           "name": "奇勒贡联队",
           "team_id": "ast_89ce144b75f4464596681eb06adac07c"
         },
-        "ht_score": "-",
-        "venue": "克拉萨克蒂体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a52c6d2d9a0a4e0ea1bc0adad942eedf",
         "date": "2026-09-19",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -3929,15 +3927,13 @@
           "name": "南苏门答腊联",
           "team_id": "ast_df9d834ca31546b3a28a8f208c7cff41"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f1324c2d30f646eaaf3597c97f452739",
         "date": "2026-09-19",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -3949,15 +3945,13 @@
           "name": "普斯里哈亚切赫",
           "team_id": "ast_fc788eb340f04ccc98ea505334846a22"
         },
-        "ht_score": "-",
-        "venue": "Kaharudin Nasution Sport Center Rumbai Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b920ed3ddd8e42bdbd73ec83ffaab922",
         "date": "2026-09-19",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -3969,15 +3963,13 @@
           "name": "佩尔塞拉",
           "team_id": "ast_f681123883ad4cb983472da17b4c0b37"
         },
-        "ht_score": "-",
-        "venue": "巴塔坎体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_dae7afd68a1c4b74a80c6de783c22bb4",
         "date": "2026-09-18",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -3989,15 +3981,13 @@
           "name": "龙卷风佩坎巴鲁",
           "team_id": "ast_c215210a8b6345959618088269892902"
         },
-        "ht_score": "-",
-        "venue": "Mandala Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5124bf52885c4b17b14cb77ca59c3539",
         "date": "2026-09-18",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -4009,9 +3999,7 @@
           "name": "普斯基卡德德波克",
           "team_id": "ast_e55652d7b3304e0ebf1d68b7b8d0c7b3"
         },
-        "ht_score": "-",
-        "venue": "Purnawarman Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2daa9c2d2c894150850d33a864d315fa",
@@ -4179,7 +4167,7 @@
         "match_id": "as_53effd137470444db089aa8f4114ce25",
         "date": "2026-09-11",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -4191,7 +4179,10 @@
           "name": "PSPS 廖内",
           "team_id": "ast_1b95e70090984a18b771a10e4455fbc0"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ],
     "upcoming": [
@@ -5912,15 +5903,37 @@
     }
   },
   "stats": {
-    "matches_completed": 0,
-    "total_goals": 0,
-    "avg_goals_per_match": null,
-    "home_wins": 0,
+    "matches_completed": 1,
+    "total_goals": 3,
+    "avg_goals_per_match": 3.0,
+    "home_wins": 1,
     "draws": 0,
     "away_wins": 0,
-    "home_win_pct": null,
-    "biggest_win": null,
-    "highest_scoring_match": null,
+    "home_win_pct": 100.0,
+    "biggest_win": {
+      "margin": 1,
+      "match": {
+        "match_id": "as_53effd137470444db089aa8f4114ce25",
+        "date": "2026-09-11",
+        "home_id": "ast_b932e27e857a46c68a0249a7c884a2e3",
+        "home": "PSIS 塞马朗",
+        "away_id": "ast_1b95e70090984a18b771a10e4455fbc0",
+        "away": "PSPS 廖内",
+        "score": "2-1"
+      }
+    },
+    "highest_scoring_match": {
+      "goals": 3,
+      "match": {
+        "match_id": "as_53effd137470444db089aa8f4114ce25",
+        "date": "2026-09-11",
+        "home_id": "ast_b932e27e857a46c68a0249a7c884a2e3",
+        "home": "PSIS 塞马朗",
+        "away_id": "ast_1b95e70090984a18b771a10e4455fbc0",
+        "away": "PSPS 廖内",
+        "score": "2-1"
+      }
+    },
     "leader": {
       "team": "Garudayaksa",
       "points": 52,
@@ -6679,5 +6692,5 @@
     "matches_current_season": 179,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/11"
+  "updated_at": "2026/09/12"
 }
