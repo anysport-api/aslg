@@ -400,7 +400,7 @@
         "match_id": "as_b4e88eb88bdc4bf090d551f88b09150d",
         "date": "2026-09-12",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -412,13 +412,16 @@
           "name": "伦敦城",
           "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_22b7063b72fa4c8590880a70374a35c8",
         "date": "2026-09-12",
         "time": "18:30",
-        "status": "18:30",
+        "status": "Pen.",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -430,13 +433,17 @@
           "name": "坎贝",
           "team_id": "ast_efbb74cbad4d4d5e82f679711edbac44"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-2",
+        "et_score": "0-0",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_99c120d54c554ab3845cf9ba17d01a28",
         "date": "2026-09-12",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -448,7 +455,10 @@
           "name": "巴拉那S.T.C.",
           "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ffa9774e5b744d19ab34ba1f123c317b",
@@ -1183,60 +1193,6 @@
           "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_99c120d54c554ab3845cf9ba17d01a28",
-        "date": "2026-09-12",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "乌尼昂PR",
-          "team_id": "ast_8a06944a0df04235ac6e67d5423b08e4"
-        },
-        "away": {
-          "name": "巴拉那S.T.C.",
-          "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_22b7063b72fa4c8590880a70374a35c8",
-        "date": "2026-09-12",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "西部巴西",
-          "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf"
-        },
-        "away": {
-          "name": "坎贝",
-          "team_id": "ast_efbb74cbad4d4d5e82f679711edbac44"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b4e88eb88bdc4bf090d551f88b09150d",
-        "date": "2026-09-12",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "希望国际",
-          "team_id": "ast_76fe6827e425485ba491695e1fcd5676"
-        },
-        "away": {
-          "name": "伦敦城",
-          "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
-        },
-        "venue": ""
       }
     ]
   },
@@ -1679,13 +1635,13 @@
     }
   },
   "stats": {
-    "matches_completed": 34,
-    "total_goals": 75,
-    "avg_goals_per_match": 2.21,
-    "home_wins": 16,
-    "draws": 7,
-    "away_wins": 11,
-    "home_win_pct": 47.1,
+    "matches_completed": 37,
+    "total_goals": 83,
+    "avg_goals_per_match": 2.24,
+    "home_wins": 17,
+    "draws": 8,
+    "away_wins": 12,
+    "home_win_pct": 45.9,
     "biggest_win": {
       "margin": 3,
       "match": {
@@ -2482,7 +2438,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 11,
     "matches_current_season": 38,
-    "upcoming_matches": 4
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e4f93c074ca24496af8a18a941605999",
@@ -477,7 +477,7 @@
         "match_id": "as_c96d861fc1ac45caa70d8b5cfaee0df3",
         "date": "2026-09-13",
         "time": "04:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -489,9 +489,10 @@
           "name": "梅特兰",
           "team_id": "ast_de9d806e49884ad18aeded5c924ccc2c"
         },
-        "ht_score": "-",
-        "venue": "罗克韦尔自动化公园",
-        "status_label": "未开赛"
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_bace8991fdc84efdadd7bb4015fb2f0a",
@@ -511,7 +512,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "流浪者椭圆球场",
         "status_label": "完场"
       },
       {
@@ -3484,7 +3485,7 @@
         "match_id": "as_c96d861fc1ac45caa70d8b5cfaee0df3",
         "date": "2026-09-13",
         "time": "04:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "澳大利亚北部新南威尔士联赛",
         "league_id": "asl_e4f93c074ca24496af8a18a941605999",
         "season": "2026",
@@ -3496,9 +3497,10 @@
           "name": "梅特兰",
           "team_id": "ast_de9d806e49884ad18aeded5c924ccc2c"
         },
-        "ht_score": "-",
-        "venue": "罗克韦尔自动化公园",
-        "status_label": "未开赛"
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -4740,13 +4742,13 @@
     }
   },
   "stats": {
-    "matches_completed": 142,
-    "total_goals": 506,
-    "avg_goals_per_match": 3.56,
-    "home_wins": 58,
+    "matches_completed": 143,
+    "total_goals": 508,
+    "avg_goals_per_match": 3.55,
+    "home_wins": 59,
     "draws": 30,
     "away_wins": 54,
-    "home_win_pct": 40.8,
+    "home_win_pct": 41.3,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -5509,5 +5511,5 @@
     "matches_current_season": 143,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/09/08"
+  "updated_at": "2026/09/13"
 }

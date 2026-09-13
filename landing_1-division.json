@@ -8571,7 +8571,7 @@
         "match_id": "as_f99474a717c345e48b4e91fab1cad700",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "塞浦路斯甲级联赛",
         "league_id": "asl_1ae83974056646b0b09a946c19c52d4d",
         "season": "2026/2027",
@@ -8583,13 +8583,15 @@
           "name": "阿诺索西斯",
           "team_id": "ast_ae30d5ceeb4946fd8f0baf459be404e1"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Ammochostos Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_8710e1291d7440d4a89d601d73d599d2",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "塞浦路斯甲级联赛",
         "league_id": "asl_1ae83974056646b0b09a946c19c52d4d",
         "season": "2026/2027",
@@ -8601,13 +8603,15 @@
           "name": "阿波埃尔",
           "team_id": "ast_d0487d985cd4424589a65632dfbf2c43"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "阿尔法梅加体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_39035587ca244aa3ad519d3919d59966",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "塞浦路斯甲级联赛",
         "league_id": "asl_1ae83974056646b0b09a946c19c52d4d",
         "season": "2026/2027",
@@ -8619,13 +8623,15 @@
           "name": "利马索尔AEL",
           "team_id": "ast_0bf515eeb3fe4d439556bc4216e3e041"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Stelios Kyriakides Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0c3babcc4b2f4d13a048c8f4873750ba",
         "date": "2026-09-18",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "塞浦路斯甲级联赛",
         "league_id": "asl_1ae83974056646b0b09a946c19c52d4d",
         "season": "2026/2027",
@@ -8637,7 +8643,9 @@
           "name": "拉纳卡AEK",
           "team_id": "ast_b5f2cabdb83f4f4c807c0bb61213c5c9"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Katokopia Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c4730c82996c48aa943c454950140403",
@@ -8690,60 +8698,6 @@
         "away": {
           "name": "帕福斯",
           "team_id": "ast_069da109244c40a2bfca06bb841285b3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1a6f9eb7217e4978bf78d3e5aad00c72",
-        "date": "2026-09-12",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "塞浦路斯甲级联赛",
-        "league_id": "asl_1ae83974056646b0b09a946c19c52d4d",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥莫尼亚",
-          "team_id": "ast_800980e8a86f4c2396cf647b085ecbe7"
-        },
-        "away": {
-          "name": "阿波罗",
-          "team_id": "ast_a519dc673fa84ca69a9afc99cf942fdf"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6694944225c441889a63ac936c40eaf9",
-        "date": "2026-09-12",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "塞浦路斯甲级联赛",
-        "league_id": "asl_1ae83974056646b0b09a946c19c52d4d",
-        "season": "2026/2027",
-        "home": {
-          "name": "卡尔米奥蒂萨",
-          "team_id": "ast_9e52b3dd3fdc4a70b55d390df10c3327"
-        },
-        "away": {
-          "name": "奥莫尼亚阿拉迪波",
-          "team_id": "ast_11141088df2a4b5598460998272ec75c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f38e366fae7547a8852262f5caf2d98a",
-        "date": "2026-09-12",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "塞浦路斯甲级联赛",
-        "league_id": "asl_1ae83974056646b0b09a946c19c52d4d",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿诺索西斯",
-          "team_id": "ast_ae30d5ceeb4946fd8f0baf459be404e1"
-        },
-        "away": {
-          "name": "阿波埃尔",
-          "team_id": "ast_d0487d985cd4424589a65632dfbf2c43"
         },
         "venue": ""
       }
@@ -14141,7 +14095,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 14,
     "matches_current_season": 240,
-    "upcoming_matches": 34
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

@@ -232,6 +232,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_1b581060a59f4b23a243bf8bc7a60c56",
+        "team": "Aarau",
+        "played": 8,
+        "wins": 3,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 13,
+        "goals_against": 14,
+        "goal_difference": -1,
+        "points": 12,
+        "form": "DWDWL"
+      },
+      {
+        "position": 5,
         "team_id": "ast_fca8ce4dd0dc46c3b0618e71e296b2b9",
         "team": "Xamax",
         "played": 8,
@@ -245,32 +259,18 @@
         "form": "WLLLL"
       },
       {
-        "position": 5,
-        "team_id": "ast_1b581060a59f4b23a243bf8bc7a60c56",
-        "team": "Aarau",
-        "played": 7,
-        "wins": 3,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 11,
-        "goals_against": 12,
-        "goal_difference": -1,
-        "points": 11,
-        "form": "WDWLW"
-      },
-      {
         "position": 6,
         "team_id": "ast_4b41e604443646059bca14daa382d07b",
         "team": "Kriens",
-        "played": 7,
+        "played": 8,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "losses": 3,
-        "goals_for": 10,
-        "goals_against": 8,
+        "goals_for": 12,
+        "goals_against": 10,
         "goal_difference": 2,
-        "points": 10,
-        "form": "LDWWL"
+        "points": 11,
+        "form": "DLDWW"
       },
       {
         "position": 7,
@@ -377,6 +377,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_1b581060a59f4b23a243bf8bc7a60c56",
+        "team": "阿劳",
+        "played": 8,
+        "wins": 3,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 13,
+        "goals_against": 14,
+        "goal_difference": -1,
+        "points": 12,
+        "form": "DWDWL",
+        "form_label": "平胜平胜负"
+      },
+      {
+        "position": 5,
         "team_id": "ast_fca8ce4dd0dc46c3b0618e71e296b2b9",
         "team": "夏马克",
         "played": 8,
@@ -391,34 +406,19 @@
         "form_label": "胜负负负负"
       },
       {
-        "position": 5,
-        "team_id": "ast_1b581060a59f4b23a243bf8bc7a60c56",
-        "team": "阿劳",
-        "played": 7,
-        "wins": 3,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 11,
-        "goals_against": 12,
-        "goal_difference": -1,
-        "points": 11,
-        "form": "WDWLW",
-        "form_label": "胜平胜负胜"
-      },
-      {
         "position": 6,
         "team_id": "ast_4b41e604443646059bca14daa382d07b",
         "team": "克里恩斯",
-        "played": 7,
+        "played": 8,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "losses": 3,
-        "goals_for": 10,
-        "goals_against": 8,
+        "goals_for": 12,
+        "goals_against": 10,
         "goal_difference": 2,
-        "points": 10,
-        "form": "LDWWL",
-        "form_label": "负平胜胜负"
+        "points": 11,
+        "form": "DLDWW",
+        "form_label": "平负平胜胜"
       },
       {
         "position": 7,
@@ -1403,7 +1403,7 @@
         "match_id": "as_0d6a20ec5c334395adc240e2294bcc81",
         "date": "2026-09-20",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1415,9 +1415,7 @@
           "name": "洛桑乌希",
           "team_id": "ast_24e827df9bce47bf83e8dba007db0d4f"
         },
-        "ht_score": "-",
-        "venue": "市政体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c24d8e45625f4c93805699ee36957dc6",
@@ -1495,7 +1493,7 @@
         "match_id": "as_943726ce52a940ea8f6f6755dbf78688",
         "date": "2026-09-12",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1507,7 +1505,10 @@
           "name": "克里恩斯",
           "team_id": "ast_4b41e604443646059bca14daa382d07b"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c7ed14625c2b4382aae74d46b68bd2ab",
@@ -2534,7 +2535,7 @@
         "match_id": "as_0d6a20ec5c334395adc240e2294bcc81",
         "date": "2026-09-20",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -2546,9 +2547,7 @@
           "name": "洛桑乌希",
           "team_id": "ast_24e827df9bce47bf83e8dba007db0d4f"
         },
-        "ht_score": "-",
-        "venue": "市政体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e998e97adfc64265b9cb20510ec4e723",
@@ -2619,24 +2618,6 @@
         "away": {
           "name": "卡鲁日星星",
           "team_id": "ast_0f35821bd22940cc93bd9ffd9fec449e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_943726ce52a940ea8f6f6755dbf78688",
-        "date": "2026-09-12",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "瑞士挑战联赛",
-        "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿劳",
-          "team_id": "ast_1b581060a59f4b23a243bf8bc7a60c56"
-        },
-        "away": {
-          "name": "克里恩斯",
-          "team_id": "ast_4b41e604443646059bca14daa382d07b"
         },
         "venue": ""
       }
@@ -5997,13 +5978,13 @@
     }
   },
   "stats": {
-    "matches_completed": 39,
-    "total_goals": 116,
-    "avg_goals_per_match": 2.97,
+    "matches_completed": 40,
+    "total_goals": 120,
+    "avg_goals_per_match": 3.0,
     "home_wins": 17,
-    "draws": 10,
+    "draws": 11,
     "away_wins": 12,
-    "home_win_pct": 43.6,
+    "home_win_pct": 42.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6801,7 +6782,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

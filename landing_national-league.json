@@ -3515,6 +3515,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_e0133a220e70472eb01c631ab531f3a9",
+        "date": "2026-10-28",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "直布罗陀国家联赛",
+        "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
+        "season": "2026/2027",
+        "home": {
+          "name": "1975学院FC",
+          "team_id": "ast_7936288182724e17a8a5a6eb019975d8"
+        },
+        "away": {
+          "name": "格拉西斯联",
+          "team_id": "ast_86000bddb79845c88441cb6ad82a2bc2"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_8b5c39aaea564e47860d6d20fbc4188b",
         "date": "2026-10-27",
         "time": "20:00",
@@ -3798,7 +3818,7 @@
         "match_id": "as_76c02d76d1d34465ad10fc3baa48c7d1",
         "date": "2026-09-20",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "直布罗陀国家联赛",
         "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
         "season": "2026/2027",
@@ -3810,15 +3830,13 @@
           "name": "格拉西斯联",
           "team_id": "ast_86000bddb79845c88441cb6ad82a2bc2"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3d8ad6d4e0e9402185cf28a217aae58e",
         "date": "2026-09-20",
         "time": "14:30",
-        "status": "Not Started",
+        "status": "14:30",
         "league": "直布罗陀国家联赛",
         "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
         "season": "2026/2027",
@@ -3830,9 +3848,7 @@
           "name": "蒙斯卡尔佩",
           "team_id": "ast_8f4cf5f361874d52ad04cc36613c13bb"
         },
-        "ht_score": "-",
-        "venue": "维多利亚体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fe7e062872ee40fc925a34a9048c8271",
@@ -3939,42 +3955,6 @@
         "away": {
           "name": "林克斯",
           "team_id": "ast_474e8b648b9d4b91841ff600b9225198"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_95b752c1ee954a5fbb7b5f3dd72c8aa4",
-        "date": "2026-09-12",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "直布罗陀国家联赛",
-        "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
-        "season": "2026/2027",
-        "home": {
-          "name": "欧洲角",
-          "team_id": "ast_3995b6558efe4d9aa2294cea6d82869e"
-        },
-        "away": {
-          "name": "直布罗陀狮子队",
-          "team_id": "ast_a77676df8f6d482aa7238d069b37f7b8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1cb89a22119c4ae7b184fb4afacac5a0",
-        "date": "2026-09-12",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "直布罗陀国家联赛",
-        "league_id": "asl_e9d145f102f84909b28adf7e1dcdb78d",
-        "season": "2026/2027",
-        "home": {
-          "name": "圣约瑟夫",
-          "team_id": "ast_c78411cdea58425282ae22917af70cd9"
-        },
-        "away": {
-          "name": "欧洲 FC",
-          "team_id": "ast_3c6d945b8a974dcc8ebd372a94d8ec0c"
         },
         "venue": ""
       }
@@ -5038,7 +5018,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 12,
     "matches_current_season": 147,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

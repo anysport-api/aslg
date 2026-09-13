@@ -284,18 +284,32 @@
         "position": 5,
         "team_id": "ast_200cc0a3e4e2441291c3d9b9ff3e8d8b",
         "team": "AIK",
-        "played": 19,
+        "played": 20,
         "wins": 9,
         "draws": 5,
-        "losses": 5,
-        "goals_for": 28,
-        "goals_against": 27,
-        "goal_difference": 1,
+        "losses": 6,
+        "goals_for": 29,
+        "goals_against": 31,
+        "goal_difference": -2,
         "points": 32,
-        "form": "DWWWL"
+        "form": "LDWWW"
       },
       {
         "position": 6,
+        "team_id": "ast_67452dfd35464e5985830367ec307050",
+        "team": "Vasteras SK",
+        "played": 21,
+        "wins": 9,
+        "draws": 5,
+        "losses": 7,
+        "goals_for": 32,
+        "goals_against": 35,
+        "goal_difference": -3,
+        "points": 32,
+        "form": "WLWDL"
+      },
+      {
+        "position": 7,
         "team_id": "ast_623782c11918437d9604257ecfbd727f",
         "team": "Elfsborg",
         "played": 20,
@@ -309,7 +323,7 @@
         "form": "LWDWW"
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "ast_59bd5ddcdb514a76b706510016b2d72a",
         "team": "Malmo FF",
         "played": 20,
@@ -323,21 +337,21 @@
         "form": "DWLWL"
       },
       {
-        "position": 8,
-        "team_id": "ast_67452dfd35464e5985830367ec307050",
-        "team": "Vasteras SK",
-        "played": 20,
+        "position": 9,
+        "team_id": "ast_49810ca0136b4443bf6319749db37d63",
+        "team": "Goteborg",
+        "played": 21,
         "wins": 8,
         "draws": 5,
-        "losses": 7,
-        "goals_for": 28,
-        "goals_against": 34,
-        "goal_difference": -6,
+        "losses": 8,
+        "goals_for": 30,
+        "goals_against": 41,
+        "goal_difference": -11,
         "points": 29,
-        "form": "LWDLW"
+        "form": "WWWDL"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_e9214d6c5dcf48f7902a42e2f418b2fd",
         "team": "GAIS",
         "played": 20,
@@ -351,7 +365,7 @@
         "form": "DWLLW"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_faaaf5df613a4092a0a54d13d089bab7",
         "team": "Brommapojkarna",
         "played": 20,
@@ -363,20 +377,6 @@
         "goal_difference": -3,
         "points": 27,
         "form": "WLWWD"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_49810ca0136b4443bf6319749db37d63",
-        "team": "Goteborg",
-        "played": 20,
-        "wins": 7,
-        "draws": 5,
-        "losses": 8,
-        "goals_for": 28,
-        "goals_against": 40,
-        "goal_difference": -12,
-        "points": 26,
-        "form": "WWDLW"
       },
       {
         "position": 12,
@@ -438,15 +438,15 @@
         "position": 16,
         "team_id": "ast_62a5b95a9fa54f36a786574013ec70b0",
         "team": "Halmstad",
-        "played": 20,
+        "played": 21,
         "wins": 2,
         "draws": 5,
-        "losses": 13,
-        "goals_for": 13,
-        "goals_against": 37,
-        "goal_difference": -24,
+        "losses": 14,
+        "goals_for": 14,
+        "goals_against": 39,
+        "goal_difference": -25,
         "points": 11,
-        "form": "LWDLL"
+        "form": "LLWDL"
       }
     ],
     "zh": [
@@ -514,19 +514,34 @@
         "position": 5,
         "team_id": "ast_200cc0a3e4e2441291c3d9b9ff3e8d8b",
         "team": "AIK",
-        "played": 19,
+        "played": 20,
         "wins": 9,
         "draws": 5,
-        "losses": 5,
-        "goals_for": 28,
-        "goals_against": 27,
-        "goal_difference": 1,
+        "losses": 6,
+        "goals_for": 29,
+        "goals_against": 31,
+        "goal_difference": -2,
         "points": 32,
-        "form": "DWWWL",
-        "form_label": "平胜胜胜负"
+        "form": "LDWWW",
+        "form_label": "负平胜胜胜"
       },
       {
         "position": 6,
+        "team_id": "ast_67452dfd35464e5985830367ec307050",
+        "team": "瓦斯特拉斯 SK",
+        "played": 21,
+        "wins": 9,
+        "draws": 5,
+        "losses": 7,
+        "goals_for": 32,
+        "goals_against": 35,
+        "goal_difference": -3,
+        "points": 32,
+        "form": "WLWDL",
+        "form_label": "胜负胜平负"
+      },
+      {
+        "position": 7,
         "team_id": "ast_623782c11918437d9604257ecfbd727f",
         "team": "埃尔夫斯堡",
         "played": 20,
@@ -541,7 +556,7 @@
         "form_label": "负胜平胜胜"
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "ast_59bd5ddcdb514a76b706510016b2d72a",
         "team": "马尔默FF",
         "played": 20,
@@ -556,22 +571,22 @@
         "form_label": "平胜负胜负"
       },
       {
-        "position": 8,
-        "team_id": "ast_67452dfd35464e5985830367ec307050",
-        "team": "瓦斯特拉斯 SK",
-        "played": 20,
+        "position": 9,
+        "team_id": "ast_49810ca0136b4443bf6319749db37d63",
+        "team": "哥德堡",
+        "played": 21,
         "wins": 8,
         "draws": 5,
-        "losses": 7,
-        "goals_for": 28,
-        "goals_against": 34,
-        "goal_difference": -6,
+        "losses": 8,
+        "goals_for": 30,
+        "goals_against": 41,
+        "goal_difference": -11,
         "points": 29,
-        "form": "LWDLW",
-        "form_label": "负胜平负胜"
+        "form": "WWWDL",
+        "form_label": "胜胜胜平负"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_e9214d6c5dcf48f7902a42e2f418b2fd",
         "team": "GAIS",
         "played": 20,
@@ -586,7 +601,7 @@
         "form_label": "平胜负负胜"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_faaaf5df613a4092a0a54d13d089bab7",
         "team": "布罗姆波卡尔纳",
         "played": 20,
@@ -599,21 +614,6 @@
         "points": 27,
         "form": "WLWWD",
         "form_label": "胜负胜胜平"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_49810ca0136b4443bf6319749db37d63",
-        "team": "哥德堡",
-        "played": 20,
-        "wins": 7,
-        "draws": 5,
-        "losses": 8,
-        "goals_for": 28,
-        "goals_against": 40,
-        "goal_difference": -12,
-        "points": 26,
-        "form": "WWDLW",
-        "form_label": "胜胜平负胜"
       },
       {
         "position": 12,
@@ -679,16 +679,16 @@
         "position": 16,
         "team_id": "ast_62a5b95a9fa54f36a786574013ec70b0",
         "team": "哈尔姆斯塔德",
-        "played": 20,
+        "played": 21,
         "wins": 2,
         "draws": 5,
-        "losses": 13,
-        "goals_for": 13,
-        "goals_against": 37,
-        "goal_difference": -24,
+        "losses": 14,
+        "goals_for": 14,
+        "goals_against": 39,
+        "goal_difference": -25,
         "points": 11,
-        "form": "LWDLL",
-        "form_label": "负胜平负负"
+        "form": "LLWDL",
+        "form_label": "负负胜平负"
       }
     ]
   },
@@ -3758,7 +3758,7 @@
       {
         "match_id": "as_3d9c47d29d6c4999811111d693b925d6",
         "date": "2026-10-29",
-        "time": "18:00",
+        "time": "17:30",
         "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
@@ -4499,7 +4499,7 @@
         "match_id": "as_62d78c0a020b4c45b81a3755f6a60b68",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4511,13 +4511,15 @@
           "name": "哥德堡",
           "team_id": "ast_49810ca0136b4443bf6319749db37d63"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "格里姆斯塔IP球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b1ce65dcd20845edbdefb86af64b12a8",
         "date": "2026-09-19",
         "time": "15:30",
-        "status": "15:30",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4529,13 +4531,15 @@
           "name": "西里乌斯",
           "team_id": "ast_24137814e1ad4ecbbe1ea4908d883c7c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "老乌利维球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_aafd2154008d48e797badee9e24ec42b",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4547,13 +4551,15 @@
           "name": "马尔默FF",
           "team_id": "ast_59bd5ddcdb514a76b706510016b2d72a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "日立能源球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b42907bb2a494789a64ef03efe6b219c",
         "date": "2026-09-16",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4565,7 +4571,9 @@
           "name": "米亚尔比",
           "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "草莓竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d00d3d4046c040a19404eb29b8c43ab7",
@@ -4661,7 +4669,7 @@
         "match_id": "as_4ada5bed79a24834a6fd09c319a99040",
         "date": "2026-09-12",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4673,13 +4681,16 @@
           "name": "瓦斯特拉斯 SK",
           "team_id": "ast_67452dfd35464e5985830367ec307050"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f2a90e56d8f54fc588c8c651e5a3de10",
         "date": "2026-09-12",
         "time": "15:30",
-        "status": "15:30",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -4691,7 +4702,10 @@
           "name": "哈尔姆斯塔德",
           "team_id": "ast_62a5b95a9fa54f36a786574013ec70b0"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5c1555aad30544f19c953e8705cd5752",
@@ -4711,7 +4725,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Nordic Wellness Arena",
         "status_label": "完场"
       },
       {
@@ -8056,6 +8070,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_16eb49a5d0054e468c34e63271788a54",
+        "date": "2026-10-28",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
+        "season": "2026",
+        "home": {
+          "name": "哈尔姆斯塔德",
+          "team_id": "ast_62a5b95a9fa54f36a786574013ec70b0"
+        },
+        "away": {
+          "name": "马尔默FF",
+          "team_id": "ast_59bd5ddcdb514a76b706510016b2d72a"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6181afa676ec48e6acc8864c68ef1fa6",
+        "date": "2026-10-28",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
+        "season": "2026",
+        "home": {
+          "name": "哥德堡",
+          "team_id": "ast_49810ca0136b4443bf6319749db37d63"
+        },
+        "away": {
+          "name": "迪尤尔加登",
+          "team_id": "ast_1dbfd90519a24aa0bb5b0480565e0b96"
+        },
+        "ht_score": "-",
+        "venue": "老乌利维球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d09a32f035734d6c912b275090ef59b6",
+        "date": "2026-10-28",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
+        "season": "2026",
+        "home": {
+          "name": "德格尔福斯",
+          "team_id": "ast_4df406303be34a4988a0c841cddd5e5c"
+        },
+        "away": {
+          "name": "瓦斯特拉斯 SK",
+          "team_id": "ast_67452dfd35464e5985830367ec307050"
+        },
+        "ht_score": "-",
+        "venue": "大瓦拉球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_859ffedadac54bcd8e38e8157e7ca17b",
+        "date": "2026-10-28",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
+        "season": "2026",
+        "home": {
+          "name": "布罗姆波卡尔纳",
+          "team_id": "ast_faaaf5df613a4092a0a54d13d089bab7"
+        },
+        "away": {
+          "name": "哈肯",
+          "team_id": "ast_1885e9ee5fcb490d8047676689f8f6d7"
+        },
+        "ht_score": "-",
+        "venue": "格里姆斯塔IP球场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_d246699b4a294a2bb2da15cda7d0e6bb",
         "date": "2026-10-27",
         "time": "18:00",
@@ -8659,7 +8753,7 @@
         "match_id": "as_aafd2154008d48e797badee9e24ec42b",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -8671,13 +8765,15 @@
           "name": "马尔默FF",
           "team_id": "ast_59bd5ddcdb514a76b706510016b2d72a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "日立能源球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b1ce65dcd20845edbdefb86af64b12a8",
         "date": "2026-09-19",
         "time": "15:30",
-        "status": "15:30",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -8689,13 +8785,15 @@
           "name": "西里乌斯",
           "team_id": "ast_24137814e1ad4ecbbe1ea4908d883c7c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "老乌利维球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_62d78c0a020b4c45b81a3755f6a60b68",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -8707,13 +8805,15 @@
           "name": "哥德堡",
           "team_id": "ast_49810ca0136b4443bf6319749db37d63"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "格里姆斯塔IP球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b42907bb2a494789a64ef03efe6b219c",
         "date": "2026-09-16",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
         "season": "2026",
@@ -8725,7 +8825,9 @@
           "name": "米亚尔比",
           "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "草莓竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_a00df33cb5034c62bdf845a7c16562e9",
@@ -8814,42 +8916,6 @@
         "away": {
           "name": "卡尔马尔",
           "team_id": "ast_c724cad547bc4d428a42b81085684d6b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f2a90e56d8f54fc588c8c651e5a3de10",
-        "date": "2026-09-12",
-        "time": "15:30",
-        "status": "15:30",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
-        "season": "2026",
-        "home": {
-          "name": "哥德堡",
-          "team_id": "ast_49810ca0136b4443bf6319749db37d63"
-        },
-        "away": {
-          "name": "哈尔姆斯塔德",
-          "team_id": "ast_62a5b95a9fa54f36a786574013ec70b0"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4ada5bed79a24834a6fd09c319a99040",
-        "date": "2026-09-12",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_f29a9d3e0c044e43a71d902c15896260",
-        "season": "2026",
-        "home": {
-          "name": "AIK",
-          "team_id": "ast_200cc0a3e4e2441291c3d9b9ff3e8d8b"
-        },
-        "away": {
-          "name": "瓦斯特拉斯 SK",
-          "team_id": "ast_67452dfd35464e5985830367ec307050"
         },
         "venue": ""
       }
@@ -14327,13 +14393,13 @@
     }
   },
   "stats": {
-    "matches_completed": 160,
-    "total_goals": 472,
-    "avg_goals_per_match": 2.95,
-    "home_wins": 65,
+    "matches_completed": 162,
+    "total_goals": 480,
+    "avg_goals_per_match": 2.96,
+    "home_wins": 66,
     "draws": 40,
-    "away_wins": 55,
-    "home_win_pct": 40.6,
+    "away_wins": 56,
+    "home_win_pct": 40.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -15138,7 +15204,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 41
+    "upcoming_matches": 43
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

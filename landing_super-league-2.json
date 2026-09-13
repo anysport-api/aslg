@@ -8541,7 +8541,7 @@
         "match_id": "as_aa90bf9529e1447bac49485a9bf94ef6",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "希腊超级联赛",
         "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
         "season": "2026/2027",
@@ -8553,13 +8553,15 @@
           "name": "基菲西亚",
           "team_id": "ast_573c150b45d14954ac8133e36340f43c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Peristeri Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_225dcc59df254d1fa2a00f9fac5017eb",
         "date": "2026-09-19",
         "time": "16:30",
-        "status": "16:30",
+        "status": "Not Started",
         "league": "希腊超级联赛",
         "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
         "season": "2026/2027",
@@ -8571,7 +8573,9 @@
           "name": "伊拉克利斯1908",
           "team_id": "ast_59e70d3d81f64a6ca2ae399c587aa4fd"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Kleanthis Vikelidis Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e29b9ed31ad3455da1284a5eb96179cb",
@@ -8660,42 +8664,6 @@
         "away": {
           "name": "雅典AEK",
           "team_id": "ast_69433bd028da476db53f6f9fd24b5068"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d81ae4a5e0004cc68ff86fb4598c38e7",
-        "date": "2026-09-12",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "希腊超级联赛",
-        "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥林匹亚科斯",
-          "team_id": "ast_d9e0cc574de342978bd0c97db079f9d7"
-        },
-        "away": {
-          "name": "克里特岛OFI",
-          "team_id": "ast_1d314a014b75409e9bad0ca79a119fa9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_82e69dca237f445ca780e02efca4da38",
-        "date": "2026-09-12",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "希腊超级联赛",
-        "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
-        "season": "2026/2027",
-        "home": {
-          "name": "伊拉克利斯1908",
-          "team_id": "ast_59e70d3d81f64a6ca2ae399c587aa4fd"
-        },
-        "away": {
-          "name": "阿特罗米托斯",
-          "team_id": "ast_d2e304374948430fb73e1d225eb17432"
         },
         "venue": ""
       }
@@ -15116,7 +15084,7 @@
     "teams_all_time": 38,
     "standings_rows_current": 14,
     "matches_current_season": 236,
-    "upcoming_matches": 35
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

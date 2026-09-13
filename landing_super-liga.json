@@ -174,15 +174,15 @@
         "position": 1,
         "team_id": "ast_72e86adf61e0402d9d9824523f638c19",
         "team": "FC Copenhagen",
-        "played": 7,
-        "wins": 6,
+        "played": 8,
+        "wins": 7,
         "draws": 0,
         "losses": 1,
-        "goals_for": 20,
+        "goals_for": 22,
         "goals_against": 8,
-        "goal_difference": 12,
-        "points": 18,
-        "form": "WWWLW"
+        "goal_difference": 14,
+        "points": 21,
+        "form": "WWWWL"
       },
       {
         "position": 2,
@@ -242,20 +242,6 @@
       },
       {
         "position": 6,
-        "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
-        "team": "Horsens",
-        "played": 7,
-        "wins": 3,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 13,
-        "goals_against": 12,
-        "goal_difference": 1,
-        "points": 10,
-        "form": "WLWWL"
-      },
-      {
-        "position": 7,
         "team_id": "ast_1fa24b5f10404c2a9e302a7f58f8cf57",
         "team": "Randers FC",
         "played": 7,
@@ -267,6 +253,20 @@
         "goal_difference": 0,
         "points": 10,
         "form": "WWLLW"
+      },
+      {
+        "position": 7,
+        "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
+        "team": "Horsens",
+        "played": 8,
+        "wins": 3,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 13,
+        "goals_against": 14,
+        "goal_difference": -1,
+        "points": 10,
+        "form": "LWLWW"
       },
       {
         "position": 8,
@@ -344,16 +344,16 @@
         "position": 1,
         "team_id": "ast_72e86adf61e0402d9d9824523f638c19",
         "team": "哥本哈根",
-        "played": 7,
-        "wins": 6,
+        "played": 8,
+        "wins": 7,
         "draws": 0,
         "losses": 1,
-        "goals_for": 20,
+        "goals_for": 22,
         "goals_against": 8,
-        "goal_difference": 12,
-        "points": 18,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
+        "goal_difference": 14,
+        "points": 21,
+        "form": "WWWWL",
+        "form_label": "胜胜胜胜负"
       },
       {
         "position": 2,
@@ -417,21 +417,6 @@
       },
       {
         "position": 6,
-        "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
-        "team": "霍尔森斯",
-        "played": 7,
-        "wins": 3,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 13,
-        "goals_against": 12,
-        "goal_difference": 1,
-        "points": 10,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
-      },
-      {
-        "position": 7,
         "team_id": "ast_1fa24b5f10404c2a9e302a7f58f8cf57",
         "team": "兰德斯FC",
         "played": 7,
@@ -444,6 +429,21 @@
         "points": 10,
         "form": "WWLLW",
         "form_label": "胜胜负负胜"
+      },
+      {
+        "position": 7,
+        "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf",
+        "team": "霍尔森斯",
+        "played": 8,
+        "wins": 3,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 13,
+        "goals_against": 14,
+        "goal_difference": -1,
+        "points": 10,
+        "form": "LWLWW",
+        "form_label": "负胜负胜胜"
       },
       {
         "position": 8,
@@ -4589,7 +4589,7 @@
         "match_id": "as_af5b1140758f4b79a5b641a4e3a92b8a",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4601,13 +4601,15 @@
           "name": "米德尤兰",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "自然能源公园",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_550894ff47c14ddd89100cfb562faae1",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4619,7 +4621,9 @@
           "name": "西尔克堡",
           "team_id": "ast_1eaa756eca4c46e4a60dd4f5240acd0d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "灵比体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d39917906a634836a53a84cd8fe8066c",
@@ -4729,7 +4733,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "Parken Stadium",
         "status_label": "完场"
       },
       {
@@ -6060,7 +6064,7 @@
         "match_id": "as_af5b1140758f4b79a5b641a4e3a92b8a",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -6072,13 +6076,15 @@
           "name": "米德尤兰",
           "team_id": "ast_51e4180562a94deca15d1a4151a56896"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "自然能源公园",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_550894ff47c14ddd89100cfb562faae1",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -6090,7 +6096,9 @@
           "name": "西尔克堡",
           "team_id": "ast_1eaa756eca4c46e4a60dd4f5240acd0d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "灵比体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d39917906a634836a53a84cd8fe8066c",
@@ -8069,8 +8077,8 @@
     },
     "leader": {
       "team": "FC Copenhagen",
-      "points": 18,
-      "played": 7
+      "points": 21,
+      "played": 8
     }
   },
   "coverage": {
@@ -8167,15 +8175,15 @@
             "position": 1,
             "team_id": "ast_72e86adf61e0402d9d9824523f638c19",
             "team": "FC Copenhagen",
-            "played": 7,
-            "wins": 6,
+            "played": 8,
+            "wins": 7,
             "draws": 0,
             "losses": 1,
-            "goals_for": 20,
+            "goals_for": 22,
             "goals_against": 8,
-            "goal_difference": 12,
-            "points": 18,
-            "form": "WWWLW"
+            "goal_difference": 14,
+            "points": 21,
+            "form": "WWWWL"
           },
           {
             "position": 2,
@@ -8849,5 +8857,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 29
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

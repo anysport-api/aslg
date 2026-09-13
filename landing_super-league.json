@@ -1281,7 +1281,7 @@
         "match_id": "as_20f663e94c1a4eb2b5bf999d8891c3d1",
         "date": "2026-09-18",
         "time": "11:35",
-        "status": "11:35",
+        "status": "Not Started",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1293,13 +1293,15 @@
           "name": "武汉三镇",
           "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Huizhou Olympic Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2a31dc9ee212490db245ac79bcadf4b3",
         "date": "2026-09-12",
         "time": "11:35",
-        "status": "11:35",
+        "status": "FT",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1311,13 +1313,16 @@
           "name": "河南嵩山龙门",
           "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f13d9231aef9492791232c1ed9902ee6",
         "date": "2026-09-12",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1329,7 +1334,10 @@
           "name": "辽宁铁人",
           "team_id": "ast_55b18ec126fa4d94956780abe6943f26"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3c3950bbf1b34fc98e6dc52a48613fe9",
@@ -6122,7 +6130,7 @@
         "match_id": "as_20f663e94c1a4eb2b5bf999d8891c3d1",
         "date": "2026-09-18",
         "time": "11:35",
-        "status": "11:35",
+        "status": "Not Started",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -6134,43 +6142,9 @@
           "name": "武汉三镇",
           "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f13d9231aef9492791232c1ed9902ee6",
-        "date": "2026-09-12",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "中国超级联赛",
-        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
-        "season": "2026",
-        "home": {
-          "name": "天津津门虎",
-          "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97"
-        },
-        "away": {
-          "name": "辽宁铁人",
-          "team_id": "ast_55b18ec126fa4d94956780abe6943f26"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2a31dc9ee212490db245ac79bcadf4b3",
-        "date": "2026-09-12",
-        "time": "11:35",
-        "status": "11:35",
-        "league": "中国超级联赛",
-        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
-        "season": "2026",
-        "home": {
-          "name": "武汉三镇",
-          "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38"
-        },
-        "away": {
-          "name": "河南嵩山龙门",
-          "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785"
-        },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Huizhou Olympic Stadium",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -8287,11 +8261,11 @@
     }
   },
   "stats": {
-    "matches_completed": 205,
-    "total_goals": 635,
-    "avg_goals_per_match": 3.1,
-    "home_wins": 93,
-    "draws": 55,
+    "matches_completed": 207,
+    "total_goals": 638,
+    "avg_goals_per_match": 3.08,
+    "home_wins": 94,
+    "draws": 56,
     "away_wins": 57,
     "home_win_pct": 45.4,
     "biggest_win": {
@@ -9097,7 +9071,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 27
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

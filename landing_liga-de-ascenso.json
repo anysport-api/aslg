@@ -6802,7 +6802,7 @@
         "match_id": "as_4ec60def1f5f45a8a6dfced82e8ec158",
         "date": "2026-09-15",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "哥斯达黎加升班联赛",
         "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
         "season": "2026/2027",
@@ -6814,7 +6814,9 @@
           "name": "德桑帕拉多斯顾问",
           "team_id": "ast_6e552773d4314b279a29556847df673d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_1126364dc85b4be79f2f4efee6dde37c",
@@ -6856,7 +6858,7 @@
         "match_id": "as_a5de1a3f7f6d4a42b5ca3ede465ff52b",
         "date": "2026-09-13",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加升班联赛",
         "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
         "season": "2026/2027",
@@ -6868,7 +6870,10 @@
           "name": "希卡拉尔",
           "team_id": "ast_32a5a419301a415a948fdf4d13ef8d9e"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_743aac4360e74c5a8af124e6c0fa39b2",
@@ -6885,42 +6890,6 @@
         "away": {
           "name": "卡梅利塔",
           "team_id": "ast_2404e91f7da14ae38e2ef6a76927c940"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b2f2a5b376b84c52aaafab0648e243e0",
-        "date": "2026-09-12",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "哥斯达黎加升班联赛",
-        "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌拉圭CS",
-          "team_id": "ast_5a0e3c298bf04713b258956bf1207b77"
-        },
-        "away": {
-          "name": "罗萨里奥",
-          "team_id": "ast_65502b8bd6f044258fcfa42d1e509e0c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_251319c9fbf34712ad1f8820aa65e748",
-        "date": "2026-09-12",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "哥斯达黎加升班联赛",
-        "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
-        "season": "2026/2027",
-        "home": {
-          "name": "罗萨里奥",
-          "team_id": "ast_65502b8bd6f044258fcfa42d1e509e0c"
-        },
-        "away": {
-          "name": "科夫塔帕",
-          "team_id": "ast_6cd113ce526e45c2ae5979934fccc85f"
         },
         "venue": ""
       }
@@ -10109,7 +10078,7 @@
     "teams_all_time": 36,
     "standings_rows_current": 18,
     "matches_current_season": 251,
-    "upcoming_matches": 49
+    "upcoming_matches": 47
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

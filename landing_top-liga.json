@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
@@ -587,7 +587,7 @@
         "match_id": "as_bcd972ad867449ecb69e14a68810c529",
         "date": "2026-09-12",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -599,7 +599,10 @@
           "name": "亚洲塔拉斯",
           "team_id": "ast_9721448996654ba2bfee8122aee8fef3"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_15feecb1eb6944f3ab6dcdcca71b511f",
@@ -4403,26 +4406,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_bcd972ad867449ecb69e14a68810c529",
-        "date": "2026-09-12",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "吉尔吉斯阿尔廷",
-          "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0"
-        },
-        "away": {
-          "name": "亚洲塔拉斯",
-          "team_id": "ast_9721448996654ba2bfee8122aee8fef3"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -5874,13 +5858,13 @@
     }
   },
   "stats": {
-    "matches_completed": 181,
-    "total_goals": 547,
-    "avg_goals_per_match": 3.02,
+    "matches_completed": 182,
+    "total_goals": 551,
+    "avg_goals_per_match": 3.03,
     "home_wins": 68,
     "draws": 49,
-    "away_wins": 64,
-    "home_win_pct": 37.6,
+    "away_wins": 65,
+    "home_win_pct": 37.4,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6644,7 +6628,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 16,
     "matches_current_season": 182,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

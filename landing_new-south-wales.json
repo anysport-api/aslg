@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
@@ -599,7 +599,7 @@
         "match_id": "as_d771fb28b9494df588a5dfe05dd78c34",
         "date": "2026-09-13",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "澳大利亚新南威尔士联赛",
         "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
         "season": "2026",
@@ -611,13 +611,16 @@
           "name": "悉尼联",
           "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2d756eb90c0e48c4af0775d6cf3e94a1",
         "date": "2026-09-12",
         "time": "08:30",
-        "status": "08:30",
+        "status": "FT",
         "league": "澳大利亚新南威尔士联赛",
         "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
         "season": "2026",
@@ -629,7 +632,10 @@
           "name": "北方老虎",
           "team_id": "ast_a3e30c5def12458eb1dcd295cefdbc07"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d33365a3c085440f9f6876c00d7a3b0b",
@@ -5784,7 +5790,7 @@
         "match_id": "as_d771fb28b9494df588a5dfe05dd78c34",
         "date": "2026-09-13",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "澳大利亚新南威尔士联赛",
         "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
         "season": "2026",
@@ -5796,25 +5802,10 @@
           "name": "悉尼联",
           "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2d756eb90c0e48c4af0775d6cf3e94a1",
-        "date": "2026-09-12",
-        "time": "08:30",
-        "status": "08:30",
-        "league": "澳大利亚新南威尔士联赛",
-        "league_id": "asl_4e502c45fe4a4341b7401adac17c65c3",
-        "season": "2026",
-        "home": {
-          "name": "圣乔治圣徒",
-          "team_id": "ast_be259899b0fe4aca954298ef5465d69d"
-        },
-        "away": {
-          "name": "北方老虎",
-          "team_id": "ast_a3e30c5def12458eb1dcd295cefdbc07"
-        },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -8677,12 +8668,12 @@
     }
   },
   "stats": {
-    "matches_completed": 245,
-    "total_goals": 687,
-    "avg_goals_per_match": 2.8,
-    "home_wins": 111,
+    "matches_completed": 247,
+    "total_goals": 695,
+    "avg_goals_per_match": 2.81,
+    "home_wins": 112,
     "draws": 45,
-    "away_wins": 89,
+    "away_wins": 90,
     "home_win_pct": 45.3,
     "biggest_win": {
       "margin": 6,
@@ -9481,7 +9472,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }

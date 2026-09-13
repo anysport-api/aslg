@@ -7058,6 +7058,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_436d90cadbfd423e83f0053f01d03e63",
+        "date": "2026-10-28",
+        "time": "18:30",
+        "status": "Not Started",
+        "league": "瑞士甲级联赛晋级",
+        "league_id": "asl_82aec99ac1ae4053bd286065367211e0",
+        "season": "2026/2027",
+        "home": {
+          "name": "尚",
+          "team_id": "ast_621df71a093049069e19a6485f7b4e2c"
+        },
+        "away": {
+          "name": "卢塞恩二队",
+          "team_id": "ast_5c523b305cc7493097c7cb97e4b8da1f"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_884a4fc1203744d2a99c82ec9d4c9b95",
         "date": "2026-10-25",
         "time": "15:00",
@@ -7921,7 +7941,7 @@
         "match_id": "as_c82c4cb905414eb78622e48d8ff51d61",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞士甲级联赛晋级",
         "league_id": "asl_82aec99ac1ae4053bd286065367211e0",
         "season": "2026/2027",
@@ -7933,15 +7953,13 @@
           "name": "卢塞恩二队",
           "team_id": "ast_5c523b305cc7493097c7cb97e4b8da1f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3490de5a6aed4a97905d53cee6481b2f",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞士甲级联赛晋级",
         "league_id": "asl_82aec99ac1ae4053bd286065367211e0",
         "season": "2026/2027",
@@ -7953,9 +7971,7 @@
           "name": "苏黎世II",
           "team_id": "ast_2a11063ed0ae4ea68d770cf904ee62cd"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_cb25611640cb4a90b2474d786531848f",
@@ -8026,24 +8042,6 @@
         "away": {
           "name": "贝林佐纳",
           "team_id": "ast_62aa6537a5084a4a851eb7a6c91ea8fa"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d83a75f3df994d7184f9193736bc21d3",
-        "date": "2026-09-19",
-        "time": "13:30",
-        "status": "13:30",
-        "league": "瑞士甲级联赛晋级",
-        "league_id": "asl_82aec99ac1ae4053bd286065367211e0",
-        "season": "2026/2027",
-        "home": {
-          "name": "布雷滕雷恩",
-          "team_id": "ast_bdf9e688011d4485b863d092484dab50"
-        },
-        "away": {
-          "name": "比尔",
-          "team_id": "ast_5a1bd6044f8047a3a1c7af93c12c6bba"
         },
         "venue": ""
       }
@@ -11080,5 +11078,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/09/13"
 }
