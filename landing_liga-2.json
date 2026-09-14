@@ -234,15 +234,15 @@
         "position": 4,
         "team_id": "ast_7ae081c13b8e48239bea06ec1745ebce",
         "team": "Slavia Prague B",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 4,
-        "losses": 0,
+        "losses": 1,
         "goals_for": 17,
-        "goals_against": 11,
-        "goal_difference": 6,
+        "goals_against": 12,
+        "goal_difference": 5,
         "points": 13,
-        "form": "DDWWW"
+        "form": "LDDWW"
       },
       {
         "position": 5,
@@ -386,6 +386,20 @@
       },
       {
         "position": 15,
+        "team_id": "ast_a06f15635d9a434da8cc63ccde956f4f",
+        "team": "Zizkov",
+        "played": 8,
+        "wins": 2,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 16,
+        "goal_difference": -11,
+        "points": 7,
+        "form": "WDLLL"
+      },
+      {
+        "position": 16,
         "team_id": "ast_703778ab450247b6979dc54ceeabbe4a",
         "team": "Kromeriz",
         "played": 8,
@@ -397,20 +411,6 @@
         "goal_difference": -10,
         "points": 6,
         "form": "DDWLL"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_a06f15635d9a434da8cc63ccde956f4f",
-        "team": "Zizkov",
-        "played": 7,
-        "wins": 1,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 16,
-        "goal_difference": -12,
-        "points": 4,
-        "form": "DLLLL"
       }
     ],
     "zh": [
@@ -463,16 +463,16 @@
         "position": 4,
         "team_id": "ast_7ae081c13b8e48239bea06ec1745ebce",
         "team": "布拉格斯拉维亚B队",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 4,
-        "losses": 0,
+        "losses": 1,
         "goals_for": 17,
-        "goals_against": 11,
-        "goal_difference": 6,
+        "goals_against": 12,
+        "goal_difference": 5,
         "points": 13,
-        "form": "DDWWW",
-        "form_label": "平平胜胜胜"
+        "form": "LDDWW",
+        "form_label": "负平平胜胜"
       },
       {
         "position": 5,
@@ -626,6 +626,21 @@
       },
       {
         "position": 15,
+        "team_id": "ast_a06f15635d9a434da8cc63ccde956f4f",
+        "team": "日兹科夫",
+        "played": 8,
+        "wins": 2,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 16,
+        "goal_difference": -11,
+        "points": 7,
+        "form": "WDLLL",
+        "form_label": "胜平负负负"
+      },
+      {
+        "position": 16,
         "team_id": "ast_703778ab450247b6979dc54ceeabbe4a",
         "team": "克罗梅日",
         "played": 8,
@@ -638,21 +653,6 @@
         "points": 6,
         "form": "DDWLL",
         "form_label": "平平胜负负"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_a06f15635d9a434da8cc63ccde956f4f",
-        "team": "日兹科夫",
-        "played": 7,
-        "wins": 1,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 16,
-        "goal_difference": -12,
-        "points": 4,
-        "form": "DLLLL",
-        "form_label": "平负负负负"
       }
     ]
   },
@@ -4197,7 +4197,7 @@
         "match_id": "as_ade180021043431c8ac6dd8ea9eb09af",
         "date": "2026-09-13",
         "time": "08:15",
-        "status": "08:15",
+        "status": "FT",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -4209,7 +4209,10 @@
           "name": "日兹科夫",
           "team_id": "ast_a06f15635d9a434da8cc63ccde956f4f"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5db5d4e23b2d4712b5e941f936f8b4ce",
@@ -6322,24 +6325,6 @@
         "ht_score": "-",
         "venue": "Stadion v Jiraskove ulici",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ade180021043431c8ac6dd8ea9eb09af",
-        "date": "2026-09-13",
-        "time": "08:15",
-        "status": "08:15",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "布拉格斯拉维亚B队",
-          "team_id": "ast_7ae081c13b8e48239bea06ec1745ebce"
-        },
-        "away": {
-          "name": "日兹科夫",
-          "team_id": "ast_a06f15635d9a434da8cc63ccde956f4f"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10942,13 +10927,13 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
-    "total_goals": 186,
-    "avg_goals_per_match": 2.95,
+    "matches_completed": 64,
+    "total_goals": 187,
+    "avg_goals_per_match": 2.92,
     "home_wins": 26,
     "draws": 22,
-    "away_wins": 15,
-    "home_win_pct": 41.3,
+    "away_wins": 16,
+    "home_win_pct": 40.6,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11753,7 +11738,7 @@
     "teams_all_time": 44,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 33
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

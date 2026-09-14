@@ -180,15 +180,15 @@
         "position": 1,
         "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb",
         "team": "RFS",
-        "played": 28,
-        "wins": 22,
+        "played": 29,
+        "wins": 23,
         "draws": 4,
         "losses": 2,
-        "goals_for": 68,
-        "goals_against": 20,
-        "goal_difference": 48,
-        "points": 70,
-        "form": "DWDWW"
+        "goals_for": 70,
+        "goals_against": 21,
+        "goal_difference": 49,
+        "points": 73,
+        "form": "WDWDW"
       },
       {
         "position": 2,
@@ -236,15 +236,15 @@
         "position": 5,
         "team_id": "ast_9055dec34a934c0782c14f9067d8be6c",
         "team": "BFC Daugavpils",
-        "played": 29,
+        "played": 30,
         "wins": 10,
         "draws": 8,
-        "losses": 11,
-        "goals_for": 34,
-        "goals_against": 33,
-        "goal_difference": 1,
+        "losses": 12,
+        "goals_for": 35,
+        "goals_against": 35,
+        "goal_difference": 0,
         "points": 38,
-        "form": "DLDWW"
+        "form": "LDLDW"
       },
       {
         "position": 6,
@@ -322,16 +322,16 @@
         "position": 1,
         "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb",
         "team": "RFS",
-        "played": 28,
-        "wins": 22,
+        "played": 29,
+        "wins": 23,
         "draws": 4,
         "losses": 2,
-        "goals_for": 68,
-        "goals_against": 20,
-        "goal_difference": 48,
-        "points": 70,
-        "form": "DWDWW",
-        "form_label": "平胜平胜胜"
+        "goals_for": 70,
+        "goals_against": 21,
+        "goal_difference": 49,
+        "points": 73,
+        "form": "WDWDW",
+        "form_label": "胜平胜平胜"
       },
       {
         "position": 2,
@@ -382,16 +382,16 @@
         "position": 5,
         "team_id": "ast_9055dec34a934c0782c14f9067d8be6c",
         "team": "道加瓦皮尔斯BFC",
-        "played": 29,
+        "played": 30,
         "wins": 10,
         "draws": 8,
-        "losses": 11,
-        "goals_for": 34,
-        "goals_against": 33,
-        "goal_difference": 1,
+        "losses": 12,
+        "goals_for": 35,
+        "goals_against": 35,
+        "goal_difference": 0,
         "points": 38,
-        "form": "DLDWW",
-        "form_label": "平负平胜胜"
+        "form": "LDLDW",
+        "form_label": "负平负平胜"
       },
       {
         "position": 6,
@@ -1131,7 +1131,7 @@
         "match_id": "as_c792e09eb17f4b1385e5a98996dbb16c",
         "date": "2026-09-15",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1143,15 +1143,13 @@
           "name": "里加FC",
           "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
         },
-        "ht_score": "-",
-        "venue": "Jana Skredela stadions",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0b7946388abe43f8a09f1cc49b844c26",
         "date": "2026-09-13",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1163,7 +1161,10 @@
           "name": "RFS",
           "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_bc81062d35d046c4b5fa03afa63f96dc",
@@ -4677,7 +4678,7 @@
         "match_id": "as_c792e09eb17f4b1385e5a98996dbb16c",
         "date": "2026-09-15",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4688,26 +4689,6 @@
         "away": {
           "name": "里加FC",
           "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
-        },
-        "ht_score": "-",
-        "venue": "Jana Skredela stadions",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_0b7946388abe43f8a09f1cc49b844c26",
-        "date": "2026-09-13",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "道加瓦皮尔斯BFC",
-          "team_id": "ast_9055dec34a934c0782c14f9067d8be6c"
-        },
-        "away": {
-          "name": "RFS",
-          "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb"
         },
         "venue": ""
       }
@@ -8138,13 +8119,13 @@
     }
   },
   "stats": {
-    "matches_completed": 146,
-    "total_goals": 427,
-    "avg_goals_per_match": 2.92,
+    "matches_completed": 147,
+    "total_goals": 430,
+    "avg_goals_per_match": 2.93,
     "home_wins": 62,
     "draws": 34,
-    "away_wins": 50,
-    "home_win_pct": 42.5,
+    "away_wins": 51,
+    "home_win_pct": 42.2,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8171,8 +8152,8 @@
     },
     "leader": {
       "team": "RFS",
-      "points": 70,
-      "played": 28
+      "points": 73,
+      "played": 29
     }
   },
   "coverage": {
@@ -8269,15 +8250,15 @@
             "position": 1,
             "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb",
             "team": "RFS",
-            "played": 28,
-            "wins": 22,
+            "played": 29,
+            "wins": 23,
             "draws": 4,
             "losses": 2,
-            "goals_for": 68,
-            "goals_against": 20,
-            "goal_difference": 48,
-            "points": 70,
-            "form": "DWDWW"
+            "goals_for": 70,
+            "goals_against": 21,
+            "goal_difference": 49,
+            "points": 73,
+            "form": "WDWDW"
           },
           {
             "position": 2,
@@ -8942,7 +8923,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

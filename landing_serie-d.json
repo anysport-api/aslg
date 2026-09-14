@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_be960d57a55c4972887e42f439e4a13e",
@@ -128,6 +128,20 @@
   "standings": {
     "season": "2026",
     "en": [
+      {
+        "position": 1,
+        "team_id": "ast_522605d075e947158f9dff2b52ea9ab0",
+        "team": "Blumenau",
+        "played": 10,
+        "wins": 6,
+        "draws": 1,
+        "losses": 3,
+        "goals_for": 14,
+        "goals_against": 8,
+        "goal_difference": 6,
+        "points": 19,
+        "form": "LWWLD"
+      },
       {
         "position": 1,
         "team_id": "ast_fb281f1d0a5049ae9d112dddd11a7f98",
@@ -339,18 +353,18 @@
         "form": "WWWWL"
       },
       {
-        "position": 1,
-        "team_id": "ast_522605d075e947158f9dff2b52ea9ab0",
-        "team": "Blumenau",
+        "position": 2,
+        "team_id": "ast_19ab738835784098b0006a0aceb15cbb",
+        "team": "Marcilio Dias",
         "played": 10,
-        "wins": 6,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 8,
-        "goal_difference": 6,
-        "points": 19,
-        "form": "LWWLD"
+        "wins": 4,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 9,
+        "goals_against": 5,
+        "goal_difference": 4,
+        "points": 16,
+        "form": "DLDWW"
       },
       {
         "position": 2,
@@ -563,18 +577,18 @@
         "form": "WLDWL"
       },
       {
-        "position": 2,
-        "team_id": "ast_19ab738835784098b0006a0aceb15cbb",
-        "team": "Marcilio Dias",
+        "position": 3,
+        "team_id": "ast_ad5cfd7335314e898b6663df4303e446",
+        "team": "Sao Joseense",
         "played": 10,
-        "wins": 4,
+        "wins": 3,
         "draws": 4,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 5,
-        "goal_difference": 4,
-        "points": 16,
-        "form": "DLDWW"
+        "losses": 3,
+        "goals_for": 3,
+        "goals_against": 4,
+        "goal_difference": -1,
+        "points": 13,
+        "form": "DLDLD"
       },
       {
         "position": 3,
@@ -787,18 +801,18 @@
         "form": "LDWLW"
       },
       {
-        "position": 3,
-        "team_id": "ast_ad5cfd7335314e898b6663df4303e446",
-        "team": "Sao Joseense",
+        "position": 4,
+        "team_id": "ast_d6f0a68d9fd4467cb96d9c58ff63125e",
+        "team": "EC Sao Jose",
         "played": 10,
         "wins": 3,
         "draws": 4,
         "losses": 3,
-        "goals_for": 3,
-        "goals_against": 4,
-        "goal_difference": -1,
+        "goals_for": 6,
+        "goals_against": 8,
+        "goal_difference": -2,
         "points": 13,
-        "form": "DLDLD"
+        "form": "WWDDW"
       },
       {
         "position": 4,
@@ -1011,18 +1025,18 @@
         "form": "WDLWW"
       },
       {
-        "position": 4,
-        "team_id": "ast_d6f0a68d9fd4467cb96d9c58ff63125e",
-        "team": "EC Sao Jose",
+        "position": 5,
+        "team_id": "ast_8590ce2290b5468ba66020a1cbd8a38b",
+        "team": "Brasil de Pelotas",
         "played": 10,
-        "wins": 3,
+        "wins": 2,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 8,
-        "goal_difference": -2,
-        "points": 13,
-        "form": "WWDDW"
+        "losses": 4,
+        "goals_for": 9,
+        "goals_against": 12,
+        "goal_difference": -3,
+        "points": 10,
+        "form": "DLDDL"
       },
       {
         "position": 5,
@@ -1235,18 +1249,18 @@
         "form": "LWDLL"
       },
       {
-        "position": 5,
-        "team_id": "ast_8590ce2290b5468ba66020a1cbd8a38b",
-        "team": "Brasil de Pelotas",
+        "position": 6,
+        "team_id": "ast_53d9dd972b2a4a28bd7bba8d2ae1fbe3",
+        "team": "Azuriz",
         "played": 10,
         "wins": 2,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 9,
-        "goals_against": 12,
-        "goal_difference": -3,
-        "points": 10,
-        "form": "DLDDL"
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 7,
+        "goals_against": 11,
+        "goal_difference": -4,
+        "points": 9,
+        "form": "DWLWL"
       },
       {
         "position": 6,
@@ -1457,23 +1471,24 @@
         "goal_difference": -16,
         "points": 4,
         "form": "LLLLW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_53d9dd972b2a4a28bd7bba8d2ae1fbe3",
-        "team": "Azuriz",
-        "played": 10,
-        "wins": 2,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 7,
-        "goals_against": 11,
-        "goal_difference": -4,
-        "points": 9,
-        "form": "DWLWL"
       }
     ],
     "zh": [
+      {
+        "position": 1,
+        "team_id": "ast_522605d075e947158f9dff2b52ea9ab0",
+        "team": "布卢门瑙",
+        "played": 10,
+        "wins": 6,
+        "draws": 1,
+        "losses": 3,
+        "goals_for": 14,
+        "goals_against": 8,
+        "goal_difference": 6,
+        "points": 19,
+        "form": "LWWLD",
+        "form_label": "负胜胜负平"
+      },
       {
         "position": 1,
         "team_id": "ast_fb281f1d0a5049ae9d112dddd11a7f98",
@@ -1700,19 +1715,19 @@
         "form_label": "胜胜胜胜负"
       },
       {
-        "position": 1,
-        "team_id": "ast_522605d075e947158f9dff2b52ea9ab0",
-        "team": "布卢门瑙",
+        "position": 2,
+        "team_id": "ast_19ab738835784098b0006a0aceb15cbb",
+        "team": "马尔西里奥·迪亚斯",
         "played": 10,
-        "wins": 6,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 8,
-        "goal_difference": 6,
-        "points": 19,
-        "form": "LWWLD",
-        "form_label": "负胜胜负平"
+        "wins": 4,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 9,
+        "goals_against": 5,
+        "goal_difference": 4,
+        "points": 16,
+        "form": "DLDWW",
+        "form_label": "平负平胜胜"
       },
       {
         "position": 2,
@@ -1940,19 +1955,19 @@
         "form_label": "胜负平胜负"
       },
       {
-        "position": 2,
-        "team_id": "ast_19ab738835784098b0006a0aceb15cbb",
-        "team": "马尔西里奥·迪亚斯",
+        "position": 3,
+        "team_id": "ast_ad5cfd7335314e898b6663df4303e446",
+        "team": "圣若泽恩塞",
         "played": 10,
-        "wins": 4,
+        "wins": 3,
         "draws": 4,
-        "losses": 2,
-        "goals_for": 9,
-        "goals_against": 5,
-        "goal_difference": 4,
-        "points": 16,
-        "form": "DLDWW",
-        "form_label": "平负平胜胜"
+        "losses": 3,
+        "goals_for": 3,
+        "goals_against": 4,
+        "goal_difference": -1,
+        "points": 13,
+        "form": "DLDLD",
+        "form_label": "平负平负平"
       },
       {
         "position": 3,
@@ -2180,19 +2195,19 @@
         "form_label": "负平胜负胜"
       },
       {
-        "position": 3,
-        "team_id": "ast_ad5cfd7335314e898b6663df4303e446",
-        "team": "圣若泽恩塞",
+        "position": 4,
+        "team_id": "ast_d6f0a68d9fd4467cb96d9c58ff63125e",
+        "team": "EC圣若泽",
         "played": 10,
         "wins": 3,
         "draws": 4,
         "losses": 3,
-        "goals_for": 3,
-        "goals_against": 4,
-        "goal_difference": -1,
+        "goals_for": 6,
+        "goals_against": 8,
+        "goal_difference": -2,
         "points": 13,
-        "form": "DLDLD",
-        "form_label": "平负平负平"
+        "form": "WWDDW",
+        "form_label": "胜胜平平胜"
       },
       {
         "position": 4,
@@ -2420,19 +2435,19 @@
         "form_label": "胜平负胜胜"
       },
       {
-        "position": 4,
-        "team_id": "ast_d6f0a68d9fd4467cb96d9c58ff63125e",
-        "team": "EC圣若泽",
+        "position": 5,
+        "team_id": "ast_8590ce2290b5468ba66020a1cbd8a38b",
+        "team": "巴西佩洛塔斯",
         "played": 10,
-        "wins": 3,
+        "wins": 2,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 8,
-        "goal_difference": -2,
-        "points": 13,
-        "form": "WWDDW",
-        "form_label": "胜胜平平胜"
+        "losses": 4,
+        "goals_for": 9,
+        "goals_against": 12,
+        "goal_difference": -3,
+        "points": 10,
+        "form": "DLDDL",
+        "form_label": "平负平平负"
       },
       {
         "position": 5,
@@ -2660,19 +2675,19 @@
         "form_label": "负胜平负负"
       },
       {
-        "position": 5,
-        "team_id": "ast_8590ce2290b5468ba66020a1cbd8a38b",
-        "team": "巴西佩洛塔斯",
+        "position": 6,
+        "team_id": "ast_53d9dd972b2a4a28bd7bba8d2ae1fbe3",
+        "team": "阿祖里兹",
         "played": 10,
         "wins": 2,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 9,
-        "goals_against": 12,
-        "goal_difference": -3,
-        "points": 10,
-        "form": "DLDDL",
-        "form_label": "平负平平负"
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 7,
+        "goals_against": 11,
+        "goal_difference": -4,
+        "points": 9,
+        "form": "DWLWL",
+        "form_label": "平胜负胜负"
       },
       {
         "position": 6,
@@ -2898,21 +2913,6 @@
         "points": 4,
         "form": "LLLLW",
         "form_label": "负负负负胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_53d9dd972b2a4a28bd7bba8d2ae1fbe3",
-        "team": "阿祖里兹",
-        "played": 10,
-        "wins": 2,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 7,
-        "goals_against": 11,
-        "goal_difference": -4,
-        "points": 9,
-        "form": "DWLWL",
-        "form_label": "平胜负胜负"
       }
     ]
   },
@@ -2937,7 +2937,7 @@
         "match_id": "as_dbd68289272d4c3abd3fcb68aea7d232",
         "date": "2026-09-13",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "巴西丁级联赛",
         "league_id": "asl_be960d57a55c4972887e42f439e4a13e",
         "season": "2026",
@@ -2949,7 +2949,10 @@
           "name": "ASA",
           "team_id": "ast_938e45e15860491abf1853e2a1a99f90"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fcfb741addb44b2192e601990499644f",
@@ -15759,26 +15762,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_dbd68289272d4c3abd3fcb68aea7d232",
-        "date": "2026-09-13",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "巴西丁级联赛",
-        "league_id": "asl_be960d57a55c4972887e42f439e4a13e",
-        "season": "2026",
-        "home": {
-          "name": "乌贝兰迪亚",
-          "team_id": "ast_4fd2d27b6dcb4311b4e9a170e7679e7c"
-        },
-        "away": {
-          "name": "ASA",
-          "team_id": "ast_938e45e15860491abf1853e2a1a99f90"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -20525,13 +20509,13 @@
     }
   },
   "stats": {
-    "matches_completed": 609,
-    "total_goals": 1402,
+    "matches_completed": 610,
+    "total_goals": 1404,
     "avg_goals_per_match": 2.3,
     "home_wins": 265,
-    "draws": 188,
+    "draws": 189,
     "away_wins": 156,
-    "home_win_pct": 43.5,
+    "home_win_pct": 43.4,
     "biggest_win": {
       "margin": 13,
       "match": {
@@ -20557,8 +20541,8 @@
       }
     },
     "leader": {
-      "team": "Manauara",
-      "points": 22,
+      "team": "Blumenau",
+      "points": 19,
       "played": 10
     }
   },
@@ -20654,6 +20638,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_522605d075e947158f9dff2b52ea9ab0",
+            "team": "Blumenau",
+            "played": 10,
+            "wins": 6,
+            "draws": 1,
+            "losses": 3,
+            "goals_for": 14,
+            "goals_against": 8,
+            "goal_difference": 6,
+            "points": 19,
+            "form": "LWWLD"
+          },
+          {
+            "position": 1,
             "team_id": "ast_fb281f1d0a5049ae9d112dddd11a7f98",
             "team": "Manauara",
             "played": 10,
@@ -20679,20 +20677,6 @@
             "goal_difference": 10,
             "points": 22,
             "form": "DWWDW"
-          },
-          {
-            "position": 1,
-            "team_id": "ast_b4761c1121f34d7badd1c6cd94e19cb7",
-            "team": "Gama",
-            "played": 10,
-            "wins": 8,
-            "draws": 2,
-            "losses": 0,
-            "goals_for": 23,
-            "goals_against": 6,
-            "goal_difference": 17,
-            "points": 26,
-            "form": "DWWWW"
           }
         ],
         "meta": {
@@ -21312,7 +21296,7 @@
     "teams_all_time": 171,
     "standings_rows_current": 96,
     "matches_current_season": 610,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
@@ -38,6 +38,34 @@
   "standings": {
     "season": "2026",
     "en": [
+      {
+        "position": 1,
+        "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
+        "team": "City London",
+        "played": 4,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 4,
+        "goals_against": 2,
+        "goal_difference": 2,
+        "points": 6,
+        "form": "LLWW"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf",
+        "team": "Oeste Brasil",
+        "played": 4,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 5,
+        "goal_difference": 3,
+        "points": 7,
+        "form": "WDLW"
+      },
       {
         "position": 1,
         "team_id": "ast_395e91a35e8141d99d74660991cba37f",
@@ -67,32 +95,18 @@
         "form": "WWDLL"
       },
       {
-        "position": 1,
-        "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
-        "team": "City London",
-        "played": 4,
-        "wins": 2,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 4,
-        "goals_against": 2,
-        "goal_difference": 2,
-        "points": 6,
-        "form": "LLWW"
-      },
-      {
-        "position": 1,
-        "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf",
-        "team": "Oeste Brasil",
+        "position": 2,
+        "team_id": "ast_8a06944a0df04235ac6e67d5423b08e4",
+        "team": "Uniao PR",
         "played": 4,
         "wins": 2,
         "draws": 1,
         "losses": 1,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
+        "goals_for": 7,
+        "goals_against": 6,
+        "goal_difference": 1,
         "points": 7,
-        "form": "WDLW"
+        "form": "WLDW"
       },
       {
         "position": 2,
@@ -137,20 +151,6 @@
         "form": "WWDLW"
       },
       {
-        "position": 2,
-        "team_id": "ast_8a06944a0df04235ac6e67d5423b08e4",
-        "team": "Uniao PR",
-        "played": 4,
-        "wins": 2,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 7,
-        "goals_against": 6,
-        "goal_difference": 1,
-        "points": 7,
-        "form": "WLDW"
-      },
-      {
         "position": 3,
         "team_id": "ast_621addc85004490b818c06d5476f75e6",
         "team": "Campo Mourao",
@@ -166,20 +166,6 @@
       },
       {
         "position": 4,
-        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
-        "team": "Samas",
-        "played": 6,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LLWLL"
-      },
-      {
-        "position": 4,
         "team_id": "ast_b4c4311cb7a447b49035ba1c1a4c8d01",
         "team": "Londrinense",
         "played": 6,
@@ -191,9 +177,53 @@
         "goal_difference": -4,
         "points": 6,
         "form": "LLWWL"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
+        "team": "Samas",
+        "played": 6,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 4,
+        "goals_against": 10,
+        "goal_difference": -6,
+        "points": 3,
+        "form": "LLWLL"
       }
     ],
     "zh": [
+      {
+        "position": 1,
+        "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
+        "team": "伦敦城",
+        "played": 4,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 4,
+        "goals_against": 2,
+        "goal_difference": 2,
+        "points": 6,
+        "form": "LLWW",
+        "form_label": "负负胜胜"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf",
+        "team": "西部巴西",
+        "played": 4,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 5,
+        "goal_difference": 3,
+        "points": 7,
+        "form": "WDLW",
+        "form_label": "胜平负胜"
+      },
       {
         "position": 1,
         "team_id": "ast_395e91a35e8141d99d74660991cba37f",
@@ -225,34 +255,19 @@
         "form_label": "胜胜平负负"
       },
       {
-        "position": 1,
-        "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
-        "team": "伦敦城",
-        "played": 4,
-        "wins": 2,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 4,
-        "goals_against": 2,
-        "goal_difference": 2,
-        "points": 6,
-        "form": "LLWW",
-        "form_label": "负负胜胜"
-      },
-      {
-        "position": 1,
-        "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf",
-        "team": "西部巴西",
+        "position": 2,
+        "team_id": "ast_8a06944a0df04235ac6e67d5423b08e4",
+        "team": "乌尼昂PR",
         "played": 4,
         "wins": 2,
         "draws": 1,
         "losses": 1,
-        "goals_for": 8,
-        "goals_against": 5,
-        "goal_difference": 3,
+        "goals_for": 7,
+        "goals_against": 6,
+        "goal_difference": 1,
         "points": 7,
-        "form": "WDLW",
-        "form_label": "胜平负胜"
+        "form": "WLDW",
+        "form_label": "胜负平胜"
       },
       {
         "position": 2,
@@ -300,21 +315,6 @@
         "form_label": "胜胜平负胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_8a06944a0df04235ac6e67d5423b08e4",
-        "team": "乌尼昂PR",
-        "played": 4,
-        "wins": 2,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 7,
-        "goals_against": 6,
-        "goal_difference": 1,
-        "points": 7,
-        "form": "WLDW",
-        "form_label": "胜负平胜"
-      },
-      {
         "position": 3,
         "team_id": "ast_621addc85004490b818c06d5476f75e6",
         "team": "Campo Mourao",
@@ -331,21 +331,6 @@
       },
       {
         "position": 4,
-        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
-        "team": "萨马斯",
-        "played": 6,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
-      },
-      {
-        "position": 4,
         "team_id": "ast_b4c4311cb7a447b49035ba1c1a4c8d01",
         "team": "隆德里嫩塞",
         "played": 6,
@@ -358,6 +343,21 @@
         "points": 6,
         "form": "LLWWL",
         "form_label": "负负胜胜负"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
+        "team": "萨马斯",
+        "played": 6,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 4,
+        "goals_against": 10,
+        "goal_difference": -6,
+        "points": 3,
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       }
     ]
   },
@@ -382,7 +382,7 @@
         "match_id": "as_38a336b08a814603954cb22846a204d3",
         "date": "2026-09-13",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Pen.",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -394,13 +394,17 @@
           "name": "伊拉提",
           "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "et_score": "0-0",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_b4e88eb88bdc4bf090d551f88b09150d",
         "date": "2026-09-12",
         "time": "18:30",
-        "status": "FT",
+        "status": "Pen.",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -413,9 +417,9 @@
           "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
         },
         "ht_score": "1-0",
-        "reg_score": "1-0",
+        "reg_score": "1-1",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_22b7063b72fa4c8590880a70374a35c8",
@@ -434,7 +438,7 @@
           "team_id": "ast_efbb74cbad4d4d5e82f679711edbac44"
         },
         "ht_score": "1-1",
-        "reg_score": "2-2",
+        "reg_score": "2-3",
         "et_score": "0-0",
         "venue": "",
         "status_label": "点球决胜"
@@ -1175,26 +1179,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_38a336b08a814603954cb22846a204d3",
-        "date": "2026-09-13",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "AA 伊瓜苏",
-          "team_id": "ast_395e91a35e8141d99d74660991cba37f"
-        },
-        "away": {
-          "name": "伊拉提",
-          "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -1635,13 +1620,13 @@
     }
   },
   "stats": {
-    "matches_completed": 37,
-    "total_goals": 83,
+    "matches_completed": 38,
+    "total_goals": 85,
     "avg_goals_per_match": 2.24,
-    "home_wins": 17,
-    "draws": 8,
-    "away_wins": 12,
-    "home_win_pct": 45.9,
+    "home_wins": 16,
+    "draws": 9,
+    "away_wins": 13,
+    "home_win_pct": 42.1,
     "biggest_win": {
       "margin": 3,
       "match": {
@@ -1667,9 +1652,9 @@
       }
     },
     "leader": {
-      "team": "AA Iguacu",
-      "points": 13,
-      "played": 6
+      "team": "City London",
+      "points": 6,
+      "played": 4
     }
   },
   "coverage": {
@@ -1764,34 +1749,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_395e91a35e8141d99d74660991cba37f",
-            "team": "AA Iguacu",
-            "played": 6,
-            "wins": 4,
-            "draws": 1,
-            "losses": 1,
-            "goals_for": 6,
-            "goals_against": 2,
-            "goal_difference": 4,
-            "points": 13,
-            "form": "WLDWW"
-          },
-          {
-            "position": 1,
-            "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e",
-            "team": "Parana S.T.C.",
-            "played": 6,
-            "wins": 3,
-            "draws": 1,
-            "losses": 2,
-            "goals_for": 6,
-            "goals_against": 5,
-            "goal_difference": 1,
-            "points": 10,
-            "form": "WWDLL"
-          },
-          {
-            "position": 1,
             "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
             "team": "City London",
             "played": 4,
@@ -1803,6 +1760,34 @@
             "goal_difference": 2,
             "points": 6,
             "form": "LLWW"
+          },
+          {
+            "position": 1,
+            "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf",
+            "team": "Oeste Brasil",
+            "played": 4,
+            "wins": 2,
+            "draws": 1,
+            "losses": 1,
+            "goals_for": 8,
+            "goals_against": 5,
+            "goal_difference": 3,
+            "points": 7,
+            "form": "WDLW"
+          },
+          {
+            "position": 1,
+            "team_id": "ast_395e91a35e8141d99d74660991cba37f",
+            "team": "AA Iguacu",
+            "played": 6,
+            "wins": 4,
+            "draws": 1,
+            "losses": 1,
+            "goals_for": 6,
+            "goals_against": 2,
+            "goal_difference": 4,
+            "points": 13,
+            "form": "WLDWW"
           }
         ],
         "meta": {
@@ -2438,7 +2423,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 11,
     "matches_current_season": 38,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

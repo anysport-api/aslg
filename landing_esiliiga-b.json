@@ -98,29 +98,29 @@
         "position": 5,
         "team_id": "ast_87389c21e27e419ba18728b44fec3d57",
         "team": "Tartu Kalev",
-        "played": 28,
-        "wins": 14,
+        "played": 29,
+        "wins": 15,
         "draws": 2,
         "losses": 12,
-        "goals_for": 67,
+        "goals_for": 71,
         "goals_against": 52,
-        "goal_difference": 15,
-        "points": 44,
-        "form": "WLLDW"
+        "goal_difference": 19,
+        "points": 47,
+        "form": "WWLLD"
       },
       {
         "position": 6,
         "team_id": "ast_372bd1af36c741f19a8313104520fe6d",
         "team": "Parnu JK Vaprus U21",
-        "played": 28,
+        "played": 29,
         "wins": 13,
         "draws": 4,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 83,
-        "goals_against": 58,
-        "goal_difference": 25,
+        "goals_against": 62,
+        "goal_difference": 21,
         "points": 43,
-        "form": "LWWWD"
+        "form": "LLWWW"
       },
       {
         "position": 7,
@@ -244,31 +244,31 @@
         "position": 5,
         "team_id": "ast_87389c21e27e419ba18728b44fec3d57",
         "team": "塔尔图卡列夫",
-        "played": 28,
-        "wins": 14,
+        "played": 29,
+        "wins": 15,
         "draws": 2,
         "losses": 12,
-        "goals_for": 67,
+        "goals_for": 71,
         "goals_against": 52,
-        "goal_difference": 15,
-        "points": 44,
-        "form": "WLLDW",
-        "form_label": "胜负负平胜"
+        "goal_difference": 19,
+        "points": 47,
+        "form": "WWLLD",
+        "form_label": "胜胜负负平"
       },
       {
         "position": 6,
         "team_id": "ast_372bd1af36c741f19a8313104520fe6d",
         "team": "帕尔努JK瓦普鲁斯U21",
-        "played": 28,
+        "played": 29,
         "wins": 13,
         "draws": 4,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 83,
-        "goals_against": 58,
-        "goal_difference": 25,
+        "goals_against": 62,
+        "goal_difference": 21,
         "points": 43,
-        "form": "LWWWD",
-        "form_label": "负胜胜胜平"
+        "form": "LLWWW",
+        "form_label": "负负胜胜胜"
       },
       {
         "position": 7,
@@ -1013,7 +1013,7 @@
         "match_id": "as_a29dfd8dd5cd47e89bf8284de34faa05",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -1025,13 +1025,15 @@
           "name": "塔巴萨鲁",
           "team_id": "ast_16401749cac44082b6c7e88964f9ec3a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_03133d59299e41b1ba4b3be2b31f4a21",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -1043,13 +1045,15 @@
           "name": "纳尔瓦U21",
           "team_id": "ast_e217cec23931426aa39a732eb9b33509"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_80d63fa620814bbaaf390d5be9185385",
         "date": "2026-09-18",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -1061,7 +1065,9 @@
           "name": "军团",
           "team_id": "ast_aa25b3ee730c4388bb65492a1429024a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ea3362756d9341049117c32a2591f107",
@@ -1139,7 +1145,7 @@
         "match_id": "as_cd2f2532f4684de0b5936488fd6ca03e",
         "date": "2026-09-13",
         "time": "09:30",
-        "status": "09:30",
+        "status": "FT",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -1151,7 +1157,10 @@
           "name": "塔尔图卡列夫",
           "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
-        "venue": ""
+        "ht_score": "0-3",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c2eedff6d2054f2fa7be83962d496128",
@@ -4538,7 +4547,7 @@
         "match_id": "as_03133d59299e41b1ba4b3be2b31f4a21",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -4550,13 +4559,15 @@
           "name": "纳尔瓦U21",
           "team_id": "ast_e217cec23931426aa39a732eb9b33509"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_a29dfd8dd5cd47e89bf8284de34faa05",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -4568,13 +4579,15 @@
           "name": "塔巴萨鲁",
           "team_id": "ast_16401749cac44082b6c7e88964f9ec3a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_80d63fa620814bbaaf390d5be9185385",
         "date": "2026-09-18",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -4586,7 +4599,9 @@
           "name": "军团",
           "team_id": "ast_aa25b3ee730c4388bb65492a1429024a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ed6198aee4944e699fa98162e69bbc2e",
@@ -4657,24 +4672,6 @@
         "away": {
           "name": "塔林卡列夫U21",
           "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_cd2f2532f4684de0b5936488fd6ca03e",
-        "date": "2026-09-13",
-        "time": "09:30",
-        "status": "09:30",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "帕尔努JK瓦普鲁斯U21",
-          "team_id": "ast_372bd1af36c741f19a8313104520fe6d"
-        },
-        "away": {
-          "name": "塔尔图卡列夫",
-          "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
         "venue": ""
       }
@@ -5056,13 +5053,13 @@
     }
   },
   "stats": {
-    "matches_completed": 139,
-    "total_goals": 615,
+    "matches_completed": 140,
+    "total_goals": 619,
     "avg_goals_per_match": 4.42,
     "home_wins": 80,
     "draws": 16,
-    "away_wins": 43,
-    "home_win_pct": 57.6,
+    "away_wins": 44,
+    "home_win_pct": 57.1,
     "biggest_win": {
       "margin": 12,
       "match": {
@@ -5822,7 +5819,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 31
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

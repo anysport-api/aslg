@@ -170,29 +170,29 @@
         "position": 2,
         "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
         "team": "Leones Negros",
-        "played": 7,
+        "played": 8,
         "wins": 5,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 17,
-        "goals_against": 8,
+        "goals_for": 19,
+        "goals_against": 10,
         "goal_difference": 9,
-        "points": 16,
-        "form": "WDWWL"
+        "points": 17,
+        "form": "DWDWW"
       },
       {
         "position": 3,
         "team_id": "ast_5fcbf1e76c9048d2985893da336adb56",
         "team": "Atletico La Paz",
-        "played": 7,
+        "played": 8,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
-        "goals_for": 15,
-        "goals_against": 7,
+        "goals_for": 17,
+        "goals_against": 9,
         "goal_difference": 8,
-        "points": 13,
-        "form": "WWDWW"
+        "points": 14,
+        "form": "DWWDW"
       },
       {
         "position": 4,
@@ -397,31 +397,31 @@
         "position": 2,
         "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
         "team": "黑狮队UdeG",
-        "played": 7,
+        "played": 8,
         "wins": 5,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 17,
-        "goals_against": 8,
+        "goals_for": 19,
+        "goals_against": 10,
         "goal_difference": 9,
-        "points": 16,
-        "form": "WDWWL",
-        "form_label": "胜平胜胜负"
+        "points": 17,
+        "form": "DWDWW",
+        "form_label": "平胜平胜胜"
       },
       {
         "position": 3,
         "team_id": "ast_5fcbf1e76c9048d2985893da336adb56",
         "team": "拉巴斯竞技",
-        "played": 7,
+        "played": 8,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
-        "goals_for": 15,
-        "goals_against": 7,
+        "goals_for": 17,
+        "goals_against": 9,
         "goal_difference": 8,
-        "points": 13,
-        "form": "WWDWW",
-        "form_label": "胜胜平胜胜"
+        "points": 14,
+        "form": "DWWDW",
+        "form_label": "平胜胜平胜"
       },
       {
         "position": 4,
@@ -1823,7 +1823,7 @@
         "match_id": "as_4305f1bc56c84f85ae54d80f7c4efa3d",
         "date": "2026-09-13",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -1835,7 +1835,10 @@
           "name": "拉巴斯竞技",
           "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4e2f083f38964de4a752569b8b80882f",
@@ -4078,24 +4081,6 @@
         "ht_score": "-",
         "venue": "埃尔恩坎托体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4305f1bc56c84f85ae54d80f7c4efa3d",
-        "date": "2026-09-13",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "黑狮队UdeG",
-          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
-        },
-        "away": {
-          "name": "拉巴斯竞技",
-          "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6170,13 +6155,13 @@
     }
   },
   "stats": {
-    "matches_completed": 62,
-    "total_goals": 205,
-    "avg_goals_per_match": 3.31,
+    "matches_completed": 63,
+    "total_goals": 209,
+    "avg_goals_per_match": 3.32,
     "home_wins": 30,
-    "draws": 13,
+    "draws": 14,
     "away_wins": 19,
-    "home_win_pct": 48.4,
+    "home_win_pct": 47.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6315,29 +6300,29 @@
             "position": 2,
             "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
             "team": "Leones Negros",
-            "played": 7,
+            "played": 8,
             "wins": 5,
-            "draws": 1,
+            "draws": 2,
             "losses": 1,
-            "goals_for": 17,
-            "goals_against": 8,
+            "goals_for": 19,
+            "goals_against": 10,
             "goal_difference": 9,
-            "points": 16,
-            "form": "WDWWL"
+            "points": 17,
+            "form": "DWDWW"
           },
           {
             "position": 3,
             "team_id": "ast_5fcbf1e76c9048d2985893da336adb56",
             "team": "Atletico La Paz",
-            "played": 7,
+            "played": 8,
             "wins": 4,
-            "draws": 1,
+            "draws": 2,
             "losses": 2,
-            "goals_for": 15,
-            "goals_against": 7,
+            "goals_for": 17,
+            "goals_against": 9,
             "goal_difference": 8,
-            "points": 13,
-            "form": "WWDWW"
+            "points": 14,
+            "form": "DWWDW"
           }
         ],
         "meta": {
@@ -6974,7 +6959,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 120,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

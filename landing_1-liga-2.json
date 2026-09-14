@@ -178,15 +178,15 @@
         "position": 3,
         "team_id": "ast_142c0180b36c4c89834b8334a022305c",
         "team": "Leevon PPK",
-        "played": 19,
+        "played": 20,
         "wins": 14,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
-        "goals_for": 36,
-        "goals_against": 21,
+        "goals_for": 37,
+        "goals_against": 22,
         "goal_difference": 15,
-        "points": 45,
-        "form": "WWWWW"
+        "points": 46,
+        "form": "DWWWW"
       },
       {
         "position": 4,
@@ -232,6 +232,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_33e6df4443164760831cb2565cce94aa",
+        "team": "Riga FC 2",
+        "played": 20,
+        "wins": 7,
+        "draws": 4,
+        "losses": 9,
+        "goals_for": 29,
+        "goals_against": 37,
+        "goal_difference": -8,
+        "points": 25,
+        "form": "DWDLL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_fed90c3cfbb5447dbe700205b8007b0e",
         "team": "Super Nova 2",
         "played": 20,
@@ -243,20 +257,6 @@
         "goal_difference": -2,
         "points": 25,
         "form": "DLDLW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_33e6df4443164760831cb2565cce94aa",
-        "team": "Riga FC 2",
-        "played": 19,
-        "wins": 7,
-        "draws": 3,
-        "losses": 9,
-        "goals_for": 28,
-        "goals_against": 36,
-        "goal_difference": -8,
-        "points": 24,
-        "form": "WDLLD"
       },
       {
         "position": 9,
@@ -378,16 +378,16 @@
         "position": 3,
         "team_id": "ast_142c0180b36c4c89834b8334a022305c",
         "team": "李文PPK",
-        "played": 19,
+        "played": 20,
         "wins": 14,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
-        "goals_for": 36,
-        "goals_against": 21,
+        "goals_for": 37,
+        "goals_against": 22,
         "goal_difference": 15,
-        "points": 45,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "points": 46,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
       },
       {
         "position": 4,
@@ -436,6 +436,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_33e6df4443164760831cb2565cce94aa",
+        "team": "里加FC 2",
+        "played": 20,
+        "wins": 7,
+        "draws": 4,
+        "losses": 9,
+        "goals_for": 29,
+        "goals_against": 37,
+        "goal_difference": -8,
+        "points": 25,
+        "form": "DWDLL",
+        "form_label": "平胜平负负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_fed90c3cfbb5447dbe700205b8007b0e",
         "team": "超级新星2",
         "played": 20,
@@ -448,21 +463,6 @@
         "points": 25,
         "form": "DLDLW",
         "form_label": "平负平负胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_33e6df4443164760831cb2565cce94aa",
-        "team": "里加FC 2",
-        "played": 19,
-        "wins": 7,
-        "draws": 3,
-        "losses": 9,
-        "goals_for": 28,
-        "goals_against": 36,
-        "goal_difference": -8,
-        "points": 24,
-        "form": "WDLLD",
-        "form_label": "胜平负负平"
       },
       {
         "position": 9,
@@ -1455,7 +1455,7 @@
         "match_id": "as_f885905a2fc74b3ca04d9d961cff91fb",
         "date": "2026-09-13",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "拉脱维亚甲级联赛",
         "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
         "season": "2026",
@@ -1467,7 +1467,10 @@
           "name": "李文PPK",
           "team_id": "ast_142c0180b36c4c89834b8334a022305c"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f9a070a76eab4406a97ca142c1f21130",
@@ -4945,24 +4948,6 @@
           "team_id": "ast_275f47f7c9f942edb1300f445e830a70"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_f885905a2fc74b3ca04d9d961cff91fb",
-        "date": "2026-09-13",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "拉脱维亚甲级联赛",
-        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
-        "season": "2026",
-        "home": {
-          "name": "里加FC 2",
-          "team_id": "ast_33e6df4443164760831cb2565cce94aa"
-        },
-        "away": {
-          "name": "李文PPK",
-          "team_id": "ast_142c0180b36c4c89834b8334a022305c"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6685,13 +6670,13 @@
     }
   },
   "stats": {
-    "matches_completed": 137,
-    "total_goals": 510,
-    "avg_goals_per_match": 3.72,
+    "matches_completed": 138,
+    "total_goals": 512,
+    "avg_goals_per_match": 3.71,
     "home_wins": 62,
-    "draws": 25,
+    "draws": 26,
     "away_wins": 50,
-    "home_win_pct": 45.3,
+    "home_win_pct": 44.9,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -6844,15 +6829,15 @@
             "position": 3,
             "team_id": "ast_142c0180b36c4c89834b8334a022305c",
             "team": "Leevon PPK",
-            "played": 19,
+            "played": 20,
             "wins": 14,
-            "draws": 3,
+            "draws": 4,
             "losses": 2,
-            "goals_for": 36,
-            "goals_against": 21,
+            "goals_for": 37,
+            "goals_against": 22,
             "goal_difference": 15,
-            "points": 45,
-            "form": "WWWWW"
+            "points": 46,
+            "form": "DWWWW"
           }
         ],
         "meta": {
@@ -7489,7 +7474,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 31
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

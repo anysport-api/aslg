@@ -222,29 +222,29 @@
         "position": 1,
         "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c",
         "team": "Norrkoping",
-        "played": 23,
+        "played": 24,
         "wins": 16,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
         "goals_for": 45,
         "goals_against": 15,
         "goal_difference": 30,
-        "points": 51,
-        "form": "WDWWW"
+        "points": 52,
+        "form": "DWDWW"
       },
       {
         "position": 2,
         "team_id": "ast_70163a1320b44eb7939abb2615088105",
         "team": "Falkenberg",
-        "played": 23,
-        "wins": 12,
+        "played": 24,
+        "wins": 13,
         "draws": 5,
         "losses": 6,
-        "goals_for": 44,
+        "goals_for": 46,
         "goals_against": 33,
-        "goal_difference": 11,
-        "points": 41,
-        "form": "WLWLW"
+        "goal_difference": 13,
+        "points": 44,
+        "form": "WWLWL"
       },
       {
         "position": 3,
@@ -278,15 +278,15 @@
         "position": 5,
         "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885",
         "team": "Oddevold",
-        "played": 23,
+        "played": 24,
         "wins": 9,
-        "draws": 8,
+        "draws": 9,
         "losses": 6,
         "goals_for": 37,
         "goals_against": 32,
         "goal_difference": 5,
-        "points": 35,
-        "form": "WWLWD"
+        "points": 36,
+        "form": "DWWLW"
       },
       {
         "position": 6,
@@ -376,15 +376,15 @@
         "position": 12,
         "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f",
         "team": "Ljungskile",
-        "played": 23,
+        "played": 24,
         "wins": 6,
         "draws": 7,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 29,
-        "goals_against": 33,
-        "goal_difference": -4,
+        "goals_against": 35,
+        "goal_difference": -6,
         "points": 25,
-        "form": "WDLDL"
+        "form": "LWDLD"
       },
       {
         "position": 13,
@@ -448,31 +448,31 @@
         "position": 1,
         "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c",
         "team": "诺尔科平",
-        "played": 23,
+        "played": 24,
         "wins": 16,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
         "goals_for": 45,
         "goals_against": 15,
         "goal_difference": 30,
-        "points": 51,
-        "form": "WDWWW",
-        "form_label": "胜平胜胜胜"
+        "points": 52,
+        "form": "DWDWW",
+        "form_label": "平胜平胜胜"
       },
       {
         "position": 2,
         "team_id": "ast_70163a1320b44eb7939abb2615088105",
         "team": "法尔肯堡",
-        "played": 23,
-        "wins": 12,
+        "played": 24,
+        "wins": 13,
         "draws": 5,
         "losses": 6,
-        "goals_for": 44,
+        "goals_for": 46,
         "goals_against": 33,
-        "goal_difference": 11,
-        "points": 41,
-        "form": "WLWLW",
-        "form_label": "胜负胜负胜"
+        "goal_difference": 13,
+        "points": 44,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
       },
       {
         "position": 3,
@@ -508,16 +508,16 @@
         "position": 5,
         "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885",
         "team": "奥德沃尔德",
-        "played": 23,
+        "played": 24,
         "wins": 9,
-        "draws": 8,
+        "draws": 9,
         "losses": 6,
         "goals_for": 37,
         "goals_against": 32,
         "goal_difference": 5,
-        "points": 35,
-        "form": "WWLWD",
-        "form_label": "胜胜负胜平"
+        "points": 36,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 6,
@@ -613,16 +613,16 @@
         "position": 12,
         "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f",
         "team": "柳恩斯基莱",
-        "played": 23,
+        "played": 24,
         "wins": 6,
         "draws": 7,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 29,
-        "goals_against": 33,
-        "goal_difference": -4,
+        "goals_against": 35,
+        "goal_difference": -6,
         "points": 25,
-        "form": "WDLDL",
-        "form_label": "胜平负平负"
+        "form": "LWDLD",
+        "form_label": "负胜平负平"
       },
       {
         "position": 13,
@@ -3785,7 +3785,7 @@
         "match_id": "as_88a3f4af4e3b4efba36a222e71858d84",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3797,13 +3797,15 @@
           "name": "诺尔比",
           "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "奥林匹亚球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_60f82e92b7194abeaba79dba99c3e020",
         "date": "2026-09-20",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3815,13 +3817,15 @@
           "name": "柳恩斯基莱",
           "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "NP3竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2b01be53c8d1475988d09e6835af219a",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3833,13 +3837,15 @@
           "name": "兰斯克罗纳",
           "team_id": "ast_7501e1861481431f843fafbd5a364844"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Sodertalje Fotbollsarena",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6b833d7daf8d44b08e5c5364596881b9",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3851,13 +3857,15 @@
           "name": "瓦尔纳莫",
           "team_id": "ast_10a12d8b10e4408181b5ba3573fc347f"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "里姆内什瓦伦球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_bbfe72be7a9940bdbd002308e18128f0",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3869,13 +3877,15 @@
           "name": "诺尔科平",
           "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Spiris竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_f12a98aab2c4487bbb3d713ec2641f0f",
         "date": "2026-09-19",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3887,13 +3897,15 @@
           "name": "厄勒布鲁",
           "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Jernvallen",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_16816d03996743d7a8b5b1ec6a720db5",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3905,13 +3917,15 @@
           "name": "布拉热",
           "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Paskbergsvallen",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2401a69013ea4c51aee10bbf33b706f0",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3923,7 +3937,9 @@
           "name": "厄斯特松德",
           "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "猎鹰无酒精饮料竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_180a59be7ba9460aa07a9a2dc44c7dbe",
@@ -4037,7 +4053,7 @@
         "match_id": "as_7708d54826df4f68aa3de15e8e3300aa",
         "date": "2026-09-13",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -4049,13 +4065,16 @@
           "name": "法尔肯堡",
           "team_id": "ast_70163a1320b44eb7939abb2615088105"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a1d0717d54ab41c8bc8123a49950fdfa",
         "date": "2026-09-13",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -4067,7 +4086,10 @@
           "name": "奥德沃尔德",
           "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8a7a53b3687e4a6c93454908d4c12bbf",
@@ -8419,7 +8441,7 @@
         "match_id": "as_60f82e92b7194abeaba79dba99c3e020",
         "date": "2026-09-20",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8431,13 +8453,15 @@
           "name": "柳恩斯基莱",
           "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "NP3竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_88a3f4af4e3b4efba36a222e71858d84",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8449,13 +8473,15 @@
           "name": "诺尔比",
           "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "奥林匹亚球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_16816d03996743d7a8b5b1ec6a720db5",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8467,13 +8493,15 @@
           "name": "布拉热",
           "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Paskbergsvallen",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_f12a98aab2c4487bbb3d713ec2641f0f",
         "date": "2026-09-19",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8485,13 +8513,15 @@
           "name": "厄勒布鲁",
           "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Jernvallen",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_bbfe72be7a9940bdbd002308e18128f0",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8503,13 +8533,15 @@
           "name": "诺尔科平",
           "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Spiris竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6b833d7daf8d44b08e5c5364596881b9",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8521,13 +8553,15 @@
           "name": "瓦尔纳莫",
           "team_id": "ast_10a12d8b10e4408181b5ba3573fc347f"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "里姆内什瓦伦球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2b01be53c8d1475988d09e6835af219a",
         "date": "2026-09-19",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8539,13 +8573,15 @@
           "name": "兰斯克罗纳",
           "team_id": "ast_7501e1861481431f843fafbd5a364844"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Sodertalje Fotbollsarena",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2401a69013ea4c51aee10bbf33b706f0",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8557,7 +8593,9 @@
           "name": "厄斯特松德",
           "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "猎鹰无酒精饮料竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e0304efcc4774987b9630c8d3d12a3bf",
@@ -8664,42 +8702,6 @@
         "away": {
           "name": "瓦尔贝里",
           "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a1d0717d54ab41c8bc8123a49950fdfa",
-        "date": "2026-09-13",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "诺尔科平",
-          "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c"
-        },
-        "away": {
-          "name": "奥德沃尔德",
-          "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7708d54826df4f68aa3de15e8e3300aa",
-        "date": "2026-09-13",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "柳恩斯基莱",
-          "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f"
-        },
-        "away": {
-          "name": "法尔肯堡",
-          "team_id": "ast_70163a1320b44eb7939abb2615088105"
         },
         "venue": ""
       }
@@ -14395,13 +14397,13 @@
     }
   },
   "stats": {
-    "matches_completed": 184,
-    "total_goals": 534,
-    "avg_goals_per_match": 2.9,
+    "matches_completed": 186,
+    "total_goals": 536,
+    "avg_goals_per_match": 2.88,
     "home_wins": 73,
-    "draws": 49,
-    "away_wins": 62,
-    "home_win_pct": 39.7,
+    "draws": 50,
+    "away_wins": 63,
+    "home_win_pct": 39.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14428,8 +14430,8 @@
     },
     "leader": {
       "team": "Norrkoping",
-      "points": 51,
-      "played": 23
+      "points": 52,
+      "played": 24
     }
   },
   "coverage": {
@@ -14533,29 +14535,29 @@
             "position": 1,
             "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c",
             "team": "Norrkoping",
-            "played": 23,
+            "played": 24,
             "wins": 16,
-            "draws": 3,
+            "draws": 4,
             "losses": 4,
             "goals_for": 45,
             "goals_against": 15,
             "goal_difference": 30,
-            "points": 51,
-            "form": "WDWWW"
+            "points": 52,
+            "form": "DWDWW"
           },
           {
             "position": 2,
             "team_id": "ast_70163a1320b44eb7939abb2615088105",
             "team": "Falkenberg",
-            "played": 23,
-            "wins": 12,
+            "played": 24,
+            "wins": 13,
             "draws": 5,
             "losses": 6,
-            "goals_for": 44,
+            "goals_for": 46,
             "goals_against": 33,
-            "goal_difference": 11,
-            "points": 41,
-            "form": "WLWLW"
+            "goal_difference": 13,
+            "points": 44,
+            "form": "WWLWL"
           },
           {
             "position": 3,
@@ -15227,7 +15229,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 40
+    "upcoming_matches": 38
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

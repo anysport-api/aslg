@@ -272,6 +272,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
+        "team": "Sileks",
+        "played": 7,
+        "wins": 2,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 13,
+        "goals_against": 10,
+        "goal_difference": 3,
+        "points": 8,
+        "form": "DLLLW"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
         "team": "Arsimi",
         "played": 7,
@@ -285,32 +299,18 @@
         "form": "DLDWW"
       },
       {
-        "position": 7,
-        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
-        "team": "Sileks",
-        "played": 6,
-        "wins": 2,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 11,
-        "goals_against": 8,
-        "goal_difference": 3,
-        "points": 7,
-        "form": "LLLWD"
-      },
-      {
         "position": 8,
         "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2",
         "team": "Bregalnica Stip",
-        "played": 6,
+        "played": 7,
         "wins": 2,
-        "draws": 0,
+        "draws": 1,
         "losses": 4,
-        "goals_for": 8,
-        "goals_against": 11,
+        "goals_for": 10,
+        "goals_against": 13,
         "goal_difference": -3,
-        "points": 6,
-        "form": "LLWLW"
+        "points": 7,
+        "form": "DLLWL"
       },
       {
         "position": 9,
@@ -419,6 +419,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
+        "team": "西莱克斯",
+        "played": 7,
+        "wins": 2,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 13,
+        "goals_against": 10,
+        "goal_difference": 3,
+        "points": 8,
+        "form": "DLLLW",
+        "form_label": "平负负负胜"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
         "team": "阿尔西米",
         "played": 7,
@@ -433,34 +448,19 @@
         "form_label": "平负平胜胜"
       },
       {
-        "position": 7,
-        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
-        "team": "西莱克斯",
-        "played": 6,
-        "wins": 2,
-        "draws": 1,
-        "losses": 3,
-        "goals_for": 11,
-        "goals_against": 8,
-        "goal_difference": 3,
-        "points": 7,
-        "form": "LLLWD",
-        "form_label": "负负负胜平"
-      },
-      {
         "position": 8,
         "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2",
         "team": "斯蒂普布雷加尔尼察",
-        "played": 6,
+        "played": 7,
         "wins": 2,
-        "draws": 0,
+        "draws": 1,
         "losses": 4,
-        "goals_for": 8,
-        "goals_against": 11,
+        "goals_for": 10,
+        "goals_against": 13,
         "goal_difference": -3,
-        "points": 6,
-        "form": "LLWLW",
-        "form_label": "负负胜负胜"
+        "points": 7,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       },
       {
         "position": 9,
@@ -1633,7 +1633,7 @@
         "match_id": "as_920c205ec0d04c56a23df6d7920c1ba5",
         "date": "2026-09-13",
         "time": "13:45",
-        "status": "13:45",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1645,7 +1645,10 @@
           "name": "斯蒂普布雷加尔尼察",
           "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c7752dec04f344138be39ef2db4d0b5e",
@@ -2757,24 +2760,6 @@
         "away": {
           "name": "斯科普耶足球俱乐部",
           "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_920c205ec0d04c56a23df6d7920c1ba5",
-        "date": "2026-09-13",
-        "time": "13:45",
-        "status": "13:45",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "西莱克斯",
-          "team_id": "ast_2ccb80939ca744f899eab89afe738e64"
-        },
-        "away": {
-          "name": "斯蒂普布雷加尔尼察",
-          "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2"
         },
         "venue": ""
       }
@@ -6855,13 +6840,13 @@
     }
   },
   "stats": {
-    "matches_completed": 33,
-    "total_goals": 97,
-    "avg_goals_per_match": 2.94,
+    "matches_completed": 34,
+    "total_goals": 101,
+    "avg_goals_per_match": 2.97,
     "home_wins": 16,
-    "draws": 8,
+    "draws": 9,
     "away_wins": 9,
-    "home_win_pct": 48.5,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7659,7 +7644,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }

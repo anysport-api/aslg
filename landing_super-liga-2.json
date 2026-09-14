@@ -6441,7 +6441,7 @@
         "match_id": "as_aadaedf27d254f2e8913f5222a9ba1db",
         "date": "2026-09-13",
         "time": "08:30",
-        "status": "08:30",
+        "status": "FT",
         "league": "印度尼西亚超级联赛",
         "league_id": "asl_9cc3dc680dd24b129335766fc580bfea",
         "season": "2026/2027",
@@ -6453,13 +6453,16 @@
           "name": "马鲁特联",
           "team_id": "ast_6a1529ba60294f69a050a6c70af533e9"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_07b36dd6ab8c498da3203b4b04119253",
         "date": "2026-09-13",
         "time": "08:30",
-        "status": "08:30",
+        "status": "FT",
         "league": "印度尼西亚超级联赛",
         "league_id": "asl_9cc3dc680dd24b129335766fc580bfea",
         "season": "2026/2027",
@@ -6471,13 +6474,16 @@
           "name": "阿雷马",
           "team_id": "ast_7bfd4fc46f5242219e06034083e29a67"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_793187d4cae84c55a21988f08f349f6f",
         "date": "2026-09-13",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "印度尼西亚超级联赛",
         "league_id": "asl_9cc3dc680dd24b129335766fc580bfea",
         "season": "2026/2027",
@@ -6489,7 +6495,10 @@
           "name": "PSIM 日惹",
           "team_id": "ast_d642fb4de9414439a56d91330e8991e7"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_02e9f3d185d347baab087a89db7dd876",
@@ -7687,60 +7696,6 @@
         "ht_score": "-",
         "venue": "巴塔坎体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_793187d4cae84c55a21988f08f349f6f",
-        "date": "2026-09-13",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "印度尼西亚超级联赛",
-        "league_id": "asl_9cc3dc680dd24b129335766fc580bfea",
-        "season": "2026/2027",
-        "home": {
-          "name": "佩尔塞巴亚泗水",
-          "team_id": "ast_cfb8e4ac638a474bb6f5417fddf10e0b"
-        },
-        "away": {
-          "name": "PSIM 日惹",
-          "team_id": "ast_d642fb4de9414439a56d91330e8991e7"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_07b36dd6ab8c498da3203b4b04119253",
-        "date": "2026-09-13",
-        "time": "08:30",
-        "status": "08:30",
-        "league": "印度尼西亚超级联赛",
-        "league_id": "asl_9cc3dc680dd24b129335766fc580bfea",
-        "season": "2026/2027",
-        "home": {
-          "name": "PSM",
-          "team_id": "ast_1238ef882c50450685039cf8c36c2c05"
-        },
-        "away": {
-          "name": "阿雷马",
-          "team_id": "ast_7bfd4fc46f5242219e06034083e29a67"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_aadaedf27d254f2e8913f5222a9ba1db",
-        "date": "2026-09-13",
-        "time": "08:30",
-        "status": "08:30",
-        "league": "印度尼西亚超级联赛",
-        "league_id": "asl_9cc3dc680dd24b129335766fc580bfea",
-        "season": "2026/2027",
-        "home": {
-          "name": "普斯提塔",
-          "team_id": "ast_4f9e08ba72e24594a972b67cf74be397"
-        },
-        "away": {
-          "name": "马鲁特联",
-          "team_id": "ast_6a1529ba60294f69a050a6c70af533e9"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11998,13 +11953,13 @@
     }
   },
   "stats": {
-    "matches_completed": 15,
-    "total_goals": 40,
-    "avg_goals_per_match": 2.67,
-    "home_wins": 6,
-    "draws": 4,
+    "matches_completed": 18,
+    "total_goals": 52,
+    "avg_goals_per_match": 2.89,
+    "home_wins": 8,
+    "draws": 5,
     "away_wins": 5,
-    "home_win_pct": 40.0,
+    "home_win_pct": 44.4,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -12018,15 +11973,15 @@
       }
     },
     "highest_scoring_match": {
-      "goals": 5,
+      "goals": 6,
       "match": {
-        "match_id": "as_02e9f3d185d347baab087a89db7dd876",
-        "date": "2026-09-12",
-        "home_id": "ast_358df60bd5f04beb8236546b9737f7ca",
-        "home": "巴厘联队",
-        "away_id": "ast_b0ebad05bead487694fa34b1734557f3",
-        "away": "阿德亚克萨",
-        "score": "4-1"
+        "match_id": "as_07b36dd6ab8c498da3203b4b04119253",
+        "date": "2026-09-13",
+        "home_id": "ast_1238ef882c50450685039cf8c36c2c05",
+        "home": "PSM",
+        "away_id": "ast_7bfd4fc46f5242219e06034083e29a67",
+        "away": "阿雷马",
+        "score": "3-3"
       }
     },
     "leader": {
@@ -12789,7 +12744,7 @@
     "teams_all_time": 45,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 47
+    "upcoming_matches": 44
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/14"
 }
