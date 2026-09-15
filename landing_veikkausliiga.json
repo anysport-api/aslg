@@ -3497,7 +3497,7 @@
         "match_id": "as_79feda49124d4dd3a5b4cffef6953fdd",
         "date": "2026-09-14",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3509,7 +3509,10 @@
           "name": "VPS",
           "team_id": "ast_d68d155d554a4e65855d70cdec8228df"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4401fc82d5f24a09aaec5a9e8c4a8e3e",
@@ -3571,7 +3574,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "OTC Stadion",
         "status_label": "完场"
       },
       {
@@ -3592,7 +3595,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "塔梅兰体育场",
         "status_label": "完场"
       },
       {
@@ -3613,7 +3616,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Project Liv Arena",
         "status_label": "完场"
       },
       {
@@ -7055,24 +7058,6 @@
         "ht_score": "-",
         "venue": "拉赫蒂体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_79feda49124d4dd3a5b4cffef6953fdd",
-        "date": "2026-09-14",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "国际图尔库",
-          "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
-        },
-        "away": {
-          "name": "VPS",
-          "team_id": "ast_d68d155d554a4e65855d70cdec8228df"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11494,13 +11479,13 @@
     }
   },
   "stats": {
-    "matches_completed": 143,
-    "total_goals": 362,
-    "avg_goals_per_match": 2.53,
-    "home_wins": 66,
+    "matches_completed": 144,
+    "total_goals": 363,
+    "avg_goals_per_match": 2.52,
+    "home_wins": 67,
     "draws": 39,
     "away_wins": 38,
-    "home_win_pct": 46.2,
+    "home_win_pct": 46.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12305,7 +12290,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 177,
-    "upcoming_matches": 28
+    "upcoming_matches": 27
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

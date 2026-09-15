@@ -162,15 +162,15 @@
         "position": 1,
         "team_id": "ast_b040e072fb624d908848954d38c93e12",
         "team": "Tartu Welco",
-        "played": 28,
-        "wins": 17,
+        "played": 29,
+        "wins": 18,
         "draws": 5,
         "losses": 6,
-        "goals_for": 76,
+        "goals_for": 79,
         "goals_against": 39,
-        "goal_difference": 37,
-        "points": 56,
-        "form": "DDLWW"
+        "goal_difference": 40,
+        "points": 59,
+        "form": "WDDLW"
       },
       {
         "position": 2,
@@ -288,15 +288,15 @@
         "position": 10,
         "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d",
         "team": "Nomme Kalju U21",
-        "played": 28,
+        "played": 29,
         "wins": 6,
         "draws": 4,
-        "losses": 18,
+        "losses": 19,
         "goals_for": 36,
-        "goals_against": 73,
-        "goal_difference": -37,
+        "goals_against": 76,
+        "goal_difference": -40,
         "points": 22,
-        "form": "LLWLL"
+        "form": "LLLWL"
       }
     ],
     "zh": [
@@ -304,16 +304,16 @@
         "position": 1,
         "team_id": "ast_b040e072fb624d908848954d38c93e12",
         "team": "塔尔图韦尔科",
-        "played": 28,
-        "wins": 17,
+        "played": 29,
+        "wins": 18,
         "draws": 5,
         "losses": 6,
-        "goals_for": 76,
+        "goals_for": 79,
         "goals_against": 39,
-        "goal_difference": 37,
-        "points": 56,
-        "form": "DDLWW",
-        "form_label": "平平负胜胜"
+        "goal_difference": 40,
+        "points": 59,
+        "form": "WDDLW",
+        "form_label": "胜平平负胜"
       },
       {
         "position": 2,
@@ -439,16 +439,16 @@
         "position": 10,
         "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d",
         "team": "诺梅卡尔尤U21",
-        "played": 28,
+        "played": 29,
         "wins": 6,
         "draws": 4,
-        "losses": 18,
+        "losses": 19,
         "goals_for": 36,
-        "goals_against": 73,
-        "goal_difference": -37,
+        "goals_against": 76,
+        "goal_difference": -40,
         "points": 22,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       }
     ]
   },
@@ -1173,7 +1173,7 @@
         "match_id": "as_c9bbd66512044c0f97ef655226651ca5",
         "date": "2026-09-14",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -1185,7 +1185,10 @@
           "name": "诺梅卡尔尤U21",
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_79b39e06da414caab671c3e2d0deecd0",
@@ -4730,24 +4733,6 @@
         "ht_score": "-",
         "venue": "维姆西体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c9bbd66512044c0f97ef655226651ca5",
-        "date": "2026-09-14",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "塔尔图韦尔科",
-          "team_id": "ast_b040e072fb624d908848954d38c93e12"
-        },
-        "away": {
-          "name": "诺梅卡尔尤U21",
-          "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7817,13 +7802,13 @@
     }
   },
   "stats": {
-    "matches_completed": 143,
-    "total_goals": 526,
-    "avg_goals_per_match": 3.68,
-    "home_wins": 67,
+    "matches_completed": 144,
+    "total_goals": 529,
+    "avg_goals_per_match": 3.67,
+    "home_wins": 68,
     "draws": 25,
     "away_wins": 51,
-    "home_win_pct": 46.9,
+    "home_win_pct": 47.2,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7850,8 +7835,8 @@
     },
     "leader": {
       "team": "Tartu Welco",
-      "points": 56,
-      "played": 28
+      "points": 59,
+      "played": 29
     }
   },
   "coverage": {
@@ -7948,15 +7933,15 @@
             "position": 1,
             "team_id": "ast_b040e072fb624d908848954d38c93e12",
             "team": "Tartu Welco",
-            "played": 28,
-            "wins": 17,
+            "played": 29,
+            "wins": 18,
             "draws": 5,
             "losses": 6,
-            "goals_for": 76,
+            "goals_for": 79,
             "goals_against": 39,
-            "goal_difference": 37,
-            "points": 56,
-            "form": "DDLWW"
+            "goal_difference": 40,
+            "points": 59,
+            "form": "WDDLW"
           },
           {
             "position": 2,
@@ -8621,7 +8606,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 27
+    "upcoming_matches": 26
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

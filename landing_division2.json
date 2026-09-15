@@ -5435,7 +5435,7 @@
         "match_id": "as_12f60e6545284add96f148f1eaf0f6d9",
         "date": "2026-09-14",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -5447,7 +5447,10 @@
           "name": "特尔马利卡B-B.",
           "team_id": "ast_736d4fd86aee40a48085b4410641d9c9"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_292d2205d35c497bac1cce90c365a97b",
@@ -5530,7 +5533,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Stadion Chrobrego",
         "status_label": "完场"
       },
       {
@@ -5551,7 +5554,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-3",
-        "venue": "",
+        "venue": "Superauto.pl Stadion Slaski",
         "status_label": "完场"
       },
       {
@@ -7660,24 +7663,6 @@
         "ht_score": "-",
         "venue": "Boisko ul. Pilkarska 8",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_12f60e6545284add96f148f1eaf0f6d9",
-        "date": "2026-09-14",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
-        "season": "2026/2027",
-        "home": {
-          "name": "斯塔尔米耶莱茨",
-          "team_id": "ast_4da3774d80c54ea19ecf044870b6a262"
-        },
-        "away": {
-          "name": "特尔马利卡B-B.",
-          "team_id": "ast_736d4fd86aee40a48085b4410641d9c9"
-        },
-        "venue": ""
       }
     ]
   },
@@ -14369,13 +14354,13 @@
     }
   },
   "stats": {
-    "matches_completed": 70,
-    "total_goals": 189,
+    "matches_completed": 71,
+    "total_goals": 192,
     "avg_goals_per_match": 2.7,
     "home_wins": 28,
     "draws": 21,
-    "away_wins": 21,
-    "home_win_pct": 40.0,
+    "away_wins": 22,
+    "home_win_pct": 39.4,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -15173,7 +15158,7 @@
     "teams_all_time": 78,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 38
+    "upcoming_matches": 37
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

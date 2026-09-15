@@ -8525,7 +8525,7 @@
         "match_id": "as_e544a66b229b4aefba739b02a1f2f35f",
         "date": "2026-09-15",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8537,13 +8537,16 @@
           "name": "莱昂俱乐部女足",
           "team_id": "ast_0dedf385a039452e8c60faa24096e0cf"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_50a499db3e8b476b886b904b5af8ee53",
         "date": "2026-09-15",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8555,7 +8558,10 @@
           "name": "蒂华纳俱乐部女足",
           "team_id": "ast_014968bd14654d18b6b7c9b93333054f"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "6-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -9998,5 +10004,5 @@
     "matches_current_season": 334,
     "upcoming_matches": 47
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

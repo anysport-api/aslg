@@ -256,6 +256,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
+        "team": "Rustavi",
+        "played": 26,
+        "wins": 13,
+        "draws": 7,
+        "losses": 6,
+        "goals_for": 32,
+        "goals_against": 21,
+        "goal_difference": 11,
+        "points": 46,
+        "form": "WDLDW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
         "team": "Dinamo Batumi",
         "played": 26,
@@ -269,21 +283,21 @@
         "form": "DWWWW"
       },
       {
-        "position": 2,
-        "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
-        "team": "Rustavi",
+        "position": 3,
+        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
+        "team": "Dinamo Tbilisi",
         "played": 25,
-        "wins": 12,
-        "draws": 7,
-        "losses": 6,
-        "goals_for": 31,
-        "goals_against": 21,
-        "goal_difference": 10,
-        "points": 43,
-        "form": "DLDWW"
+        "wins": 11,
+        "draws": 9,
+        "losses": 5,
+        "goals_for": 40,
+        "goals_against": 27,
+        "goal_difference": 13,
+        "points": 42,
+        "form": "WDDWL"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_9079ae9734e140a289c4d85e39937659",
         "team": "Iberia 1999",
         "played": 24,
@@ -295,20 +309,6 @@
         "goal_difference": 6,
         "points": 40,
         "form": "WLWLL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
-        "team": "Dinamo Tbilisi",
-        "played": 24,
-        "wins": 10,
-        "draws": 9,
-        "losses": 5,
-        "goals_for": 36,
-        "goals_against": 27,
-        "goal_difference": 9,
-        "points": 39,
-        "form": "DDWLW"
       },
       {
         "position": 5,
@@ -328,43 +328,43 @@
         "position": 6,
         "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
         "team": "Torpedo Kutaisi",
-        "played": 25,
-        "wins": 8,
+        "played": 26,
+        "wins": 9,
         "draws": 9,
         "losses": 8,
-        "goals_for": 38,
-        "goals_against": 29,
-        "goal_difference": 9,
-        "points": 33,
-        "form": "DDLDW"
+        "goals_for": 41,
+        "goals_against": 31,
+        "goal_difference": 10,
+        "points": 36,
+        "form": "WDDLD"
       },
       {
         "position": 7,
         "team_id": "ast_593d552c5fb9404eb3a0357ed098135b",
         "team": "Samgurali",
-        "played": 25,
+        "played": 26,
         "wins": 9,
         "draws": 5,
-        "losses": 11,
-        "goals_for": 34,
-        "goals_against": 46,
-        "goal_difference": -12,
+        "losses": 12,
+        "goals_for": 36,
+        "goals_against": 49,
+        "goal_difference": -13,
         "points": 32,
-        "form": "LLDWL"
+        "form": "LLLDW"
       },
       {
         "position": 8,
         "team_id": "ast_5925a1faa533405b82ad3cbd23fe06db",
         "team": "Gagra",
-        "played": 25,
+        "played": 26,
         "wins": 6,
         "draws": 10,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 24,
-        "goals_against": 32,
-        "goal_difference": -8,
+        "goals_against": 36,
+        "goal_difference": -12,
         "points": 28,
-        "form": "DLWLD"
+        "form": "LDLWL"
       },
       {
         "position": 9,
@@ -384,20 +384,35 @@
         "position": 10,
         "team_id": "ast_63ea2688f99243658d2b5a37b0cb844e",
         "team": "Meshakhte Tkibuli",
-        "played": 25,
+        "played": 26,
         "wins": 2,
         "draws": 10,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 19,
-        "goals_against": 42,
-        "goal_difference": -23,
+        "goals_against": 43,
+        "goal_difference": -24,
         "points": 16,
-        "form": "DDWLL"
+        "form": "LDDWL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
+        "team": "鲁斯塔维",
+        "played": 26,
+        "wins": 13,
+        "draws": 7,
+        "losses": 6,
+        "goals_for": 32,
+        "goals_against": 21,
+        "goal_difference": 11,
+        "points": 46,
+        "form": "WDLDW",
+        "form_label": "胜平负平胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
         "team": "巴统迪纳摩",
         "played": 26,
@@ -412,22 +427,22 @@
         "form_label": "平胜胜胜胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
-        "team": "鲁斯塔维",
+        "position": 3,
+        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
+        "team": "第比利斯迪纳摩",
         "played": 25,
-        "wins": 12,
-        "draws": 7,
-        "losses": 6,
-        "goals_for": 31,
-        "goals_against": 21,
-        "goal_difference": 10,
-        "points": 43,
-        "form": "DLDWW",
-        "form_label": "平负平胜胜"
+        "wins": 11,
+        "draws": 9,
+        "losses": 5,
+        "goals_for": 40,
+        "goals_against": 27,
+        "goal_difference": 13,
+        "points": 42,
+        "form": "WDDWL",
+        "form_label": "胜平平胜负"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_9079ae9734e140a289c4d85e39937659",
         "team": "伊比利亚",
         "played": 24,
@@ -440,21 +455,6 @@
         "points": 40,
         "form": "WLWLL",
         "form_label": "胜负胜负负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
-        "team": "第比利斯迪纳摩",
-        "played": 24,
-        "wins": 10,
-        "draws": 9,
-        "losses": 5,
-        "goals_for": 36,
-        "goals_against": 27,
-        "goal_difference": 9,
-        "points": 39,
-        "form": "DDWLW",
-        "form_label": "平平胜负胜"
       },
       {
         "position": 5,
@@ -475,46 +475,46 @@
         "position": 6,
         "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
         "team": "库塔伊西",
-        "played": 25,
-        "wins": 8,
+        "played": 26,
+        "wins": 9,
         "draws": 9,
         "losses": 8,
-        "goals_for": 38,
-        "goals_against": 29,
-        "goal_difference": 9,
-        "points": 33,
-        "form": "DDLDW",
-        "form_label": "平平负平胜"
+        "goals_for": 41,
+        "goals_against": 31,
+        "goal_difference": 10,
+        "points": 36,
+        "form": "WDDLD",
+        "form_label": "胜平平负平"
       },
       {
         "position": 7,
         "team_id": "ast_593d552c5fb9404eb3a0357ed098135b",
         "team": "萨姆古拉利",
-        "played": 25,
+        "played": 26,
         "wins": 9,
         "draws": 5,
-        "losses": 11,
-        "goals_for": 34,
-        "goals_against": 46,
-        "goal_difference": -12,
+        "losses": 12,
+        "goals_for": 36,
+        "goals_against": 49,
+        "goal_difference": -13,
         "points": 32,
-        "form": "LLDWL",
-        "form_label": "负负平胜负"
+        "form": "LLLDW",
+        "form_label": "负负负平胜"
       },
       {
         "position": 8,
         "team_id": "ast_5925a1faa533405b82ad3cbd23fe06db",
         "team": "加格拉",
-        "played": 25,
+        "played": 26,
         "wins": 6,
         "draws": 10,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 24,
-        "goals_against": 32,
-        "goal_difference": -8,
+        "goals_against": 36,
+        "goal_difference": -12,
         "points": 28,
-        "form": "DLWLD",
-        "form_label": "平负胜负平"
+        "form": "LDLWL",
+        "form_label": "负平负胜负"
       },
       {
         "position": 9,
@@ -535,16 +535,16 @@
         "position": 10,
         "team_id": "ast_63ea2688f99243658d2b5a37b0cb844e",
         "team": "梅沙赫特特基布利",
-        "played": 25,
+        "played": 26,
         "wins": 2,
         "draws": 10,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 19,
-        "goals_against": 42,
-        "goal_difference": -23,
+        "goals_against": 43,
+        "goal_difference": -24,
         "points": 16,
-        "form": "DDWLL",
-        "form_label": "平平胜负负"
+        "form": "LDDWL",
+        "form_label": "负平平胜负"
       }
     ]
   },
@@ -1609,7 +1609,7 @@
         "match_id": "as_5cdeb2db5b054f3b8c578213d0062485",
         "date": "2026-09-14",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1621,13 +1621,16 @@
           "name": "加格拉",
           "team_id": "ast_5925a1faa533405b82ad3cbd23fe06db"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_56378e1c94f04e84b2bc9a18a5f45feb",
         "date": "2026-09-14",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1639,13 +1642,16 @@
           "name": "鲁斯塔维",
           "team_id": "ast_de139baee5cc43b7be01571d33bcc781"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_04c6ece5f04c4dfb8404b0eb04cd53b4",
         "date": "2026-09-14",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1657,7 +1663,10 @@
           "name": "萨姆古拉利",
           "team_id": "ast_593d552c5fb9404eb3a0357ed098135b"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0c42a0b371ad41438b0c1eb3de9c2858",
@@ -4725,60 +4734,6 @@
         "ht_score": "-",
         "venue": "Mikheil Meskhi Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_04c6ece5f04c4dfb8404b0eb04cd53b4",
-        "date": "2026-09-14",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "库塔伊西",
-          "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9"
-        },
-        "away": {
-          "name": "萨姆古拉利",
-          "team_id": "ast_593d552c5fb9404eb3a0357ed098135b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_56378e1c94f04e84b2bc9a18a5f45feb",
-        "date": "2026-09-14",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "梅沙赫特特基布利",
-          "team_id": "ast_63ea2688f99243658d2b5a37b0cb844e"
-        },
-        "away": {
-          "name": "鲁斯塔维",
-          "team_id": "ast_de139baee5cc43b7be01571d33bcc781"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5cdeb2db5b054f3b8c578213d0062485",
-        "date": "2026-09-14",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "第比利斯迪纳摩",
-          "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b"
-        },
-        "away": {
-          "name": "加格拉",
-          "team_id": "ast_5925a1faa533405b82ad3cbd23fe06db"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7348,13 +7303,13 @@
     }
   },
   "stats": {
-    "matches_completed": 125,
-    "total_goals": 324,
-    "avg_goals_per_match": 2.59,
-    "home_wins": 50,
+    "matches_completed": 128,
+    "total_goals": 334,
+    "avg_goals_per_match": 2.61,
+    "home_wins": 52,
     "draws": 38,
-    "away_wins": 37,
-    "home_win_pct": 40.0,
+    "away_wins": 38,
+    "home_win_pct": 40.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7380,8 +7335,8 @@
       }
     },
     "leader": {
-      "team": "Dinamo Batumi",
-      "points": 44,
+      "team": "Rustavi",
+      "points": 46,
       "played": 26
     }
   },
@@ -7477,6 +7432,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
+            "team": "Rustavi",
+            "played": 26,
+            "wins": 13,
+            "draws": 7,
+            "losses": 6,
+            "goals_for": 32,
+            "goals_against": 21,
+            "goal_difference": 11,
+            "points": 46,
+            "form": "WDLDW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
             "team": "Dinamo Batumi",
             "played": 26,
@@ -7490,32 +7459,18 @@
             "form": "DWWWW"
           },
           {
-            "position": 2,
-            "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
-            "team": "Rustavi",
-            "played": 25,
-            "wins": 12,
-            "draws": 7,
-            "losses": 6,
-            "goals_for": 31,
-            "goals_against": 21,
-            "goal_difference": 10,
-            "points": 43,
-            "form": "DLDWW"
-          },
-          {
             "position": 3,
-            "team_id": "ast_9079ae9734e140a289c4d85e39937659",
-            "team": "Iberia 1999",
-            "played": 24,
-            "wins": 12,
-            "draws": 4,
-            "losses": 8,
-            "goals_for": 33,
+            "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
+            "team": "Dinamo Tbilisi",
+            "played": 25,
+            "wins": 11,
+            "draws": 9,
+            "losses": 5,
+            "goals_for": 40,
             "goals_against": 27,
-            "goal_difference": 6,
-            "points": 40,
-            "form": "WLWLL"
+            "goal_difference": 13,
+            "points": 42,
+            "form": "WDDWL"
           }
         ],
         "meta": {
@@ -8152,7 +8107,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 25
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

@@ -1461,7 +1461,7 @@
         "match_id": "as_c930d79e4caf4462b575bbc9596e8801",
         "date": "2026-09-15",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1473,7 +1473,10 @@
           "name": "旧金山",
           "team_id": "ast_3aaea0dfe3664165b1b93b8cb75000e8"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ea24ef4c492e43a59d9911fe1a6913a8",
@@ -5351,7 +5354,7 @@
         "match_id": "as_c930d79e4caf4462b575bbc9596e8801",
         "date": "2026-09-15",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5363,7 +5366,10 @@
           "name": "旧金山",
           "team_id": "ast_3aaea0dfe3664165b1b93b8cb75000e8"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -6341,13 +6347,13 @@
     }
   },
   "stats": {
-    "matches_completed": 150,
-    "total_goals": 400,
-    "avg_goals_per_match": 2.67,
+    "matches_completed": 151,
+    "total_goals": 402,
+    "avg_goals_per_match": 2.66,
     "home_wins": 58,
     "draws": 55,
-    "away_wins": 37,
-    "home_win_pct": 38.7,
+    "away_wins": 38,
+    "home_win_pct": 38.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7147,5 +7153,5 @@
     "matches_current_season": 199,
     "upcoming_matches": 37
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

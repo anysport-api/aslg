@@ -685,7 +685,7 @@
         "match_id": "as_28773bea01174a2196ce1a639d5ef643",
         "date": "2026-09-14",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -697,7 +697,10 @@
           "name": "利物浦M队",
           "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6260d630a8ca460f991b172c966f8107",
@@ -801,7 +804,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Estadio Osvaldo Roberto",
         "status_label": "完场"
       },
       {
@@ -5403,24 +5406,6 @@
         "ht_score": "-",
         "venue": "百年纪念体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_28773bea01174a2196ce1a639d5ef643",
-        "date": "2026-09-14",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "蒙得维的亚城",
-          "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
-        },
-        "away": {
-          "name": "利物浦M队",
-          "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10767,13 +10752,13 @@
     }
   },
   "stats": {
-    "matches_completed": 223,
-    "total_goals": 524,
-    "avg_goals_per_match": 2.35,
-    "home_wins": 92,
+    "matches_completed": 224,
+    "total_goals": 528,
+    "avg_goals_per_match": 2.36,
+    "home_wins": 93,
     "draws": 59,
     "away_wins": 72,
-    "home_win_pct": 41.3,
+    "home_win_pct": 41.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11512,7 +11497,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 225,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

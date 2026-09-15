@@ -278,6 +278,20 @@
       },
       {
         "position": 9,
+        "team_id": "ast_97434f2bf5a047b7a68522567fb44485",
+        "team": "Z. Moravce-Vrable",
+        "played": 8,
+        "wins": 3,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 7,
+        "goal_difference": 3,
+        "points": 11,
+        "form": "WWLLD"
+      },
+      {
+        "position": 10,
         "team_id": "ast_30599fd4bb2d44019e959caebd0b70e8",
         "team": "Galanta",
         "played": 8,
@@ -291,7 +305,7 @@
         "form": "LWWWL"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816",
         "team": "L. Mikulas",
         "played": 8,
@@ -305,7 +319,7 @@
         "form": "LDLLD"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_caa3053fdb094da9856212e361503d25",
         "team": "Slovan Bratislava B",
         "played": 8,
@@ -317,20 +331,6 @@
         "goal_difference": -1,
         "points": 8,
         "form": "WLDDW"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_97434f2bf5a047b7a68522567fb44485",
-        "team": "Z. Moravce-Vrable",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
-        "points": 8,
-        "form": "WLLDL"
       },
       {
         "position": 13,
@@ -364,15 +364,15 @@
         "position": 15,
         "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed",
         "team": "Zvolen",
-        "played": 7,
+        "played": 8,
         "wins": 0,
         "draws": 3,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 5,
-        "goals_against": 9,
-        "goal_difference": -4,
+        "goals_against": 13,
+        "goal_difference": -8,
         "points": 3,
-        "form": "LDLDL"
+        "form": "LLDLD"
       },
       {
         "position": 16,
@@ -512,6 +512,21 @@
       },
       {
         "position": 9,
+        "team_id": "ast_97434f2bf5a047b7a68522567fb44485",
+        "team": "Z. 莫拉夫采-弗拉布尔",
+        "played": 8,
+        "wins": 3,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 7,
+        "goal_difference": 3,
+        "points": 11,
+        "form": "WWLLD",
+        "form_label": "胜胜负负平"
+      },
+      {
+        "position": 10,
         "team_id": "ast_30599fd4bb2d44019e959caebd0b70e8",
         "team": "加兰塔",
         "played": 8,
@@ -526,7 +541,7 @@
         "form_label": "负胜胜胜负"
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816",
         "team": "L. 米库拉什",
         "played": 8,
@@ -541,7 +556,7 @@
         "form_label": "负平负负平"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_caa3053fdb094da9856212e361503d25",
         "team": "布拉迪斯拉发B队",
         "played": 8,
@@ -554,21 +569,6 @@
         "points": 8,
         "form": "WLDDW",
         "form_label": "胜负平平胜"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_97434f2bf5a047b7a68522567fb44485",
-        "team": "Z. 莫拉夫采-弗拉布尔",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
-        "points": 8,
-        "form": "WLLDL",
-        "form_label": "胜负负平负"
       },
       {
         "position": 13,
@@ -604,16 +604,16 @@
         "position": 15,
         "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed",
         "team": "兹沃伦",
-        "played": 7,
+        "played": 8,
         "wins": 0,
         "draws": 3,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 5,
-        "goals_against": 9,
-        "goal_difference": -4,
+        "goals_against": 13,
+        "goal_difference": -8,
         "points": 3,
-        "form": "LDLDL",
-        "form_label": "负平负平负"
+        "form": "LLDLD",
+        "form_label": "负负平负平"
       },
       {
         "position": 16,
@@ -4173,7 +4173,7 @@
         "match_id": "as_29edcd4e157048b98635e3c733497eb0",
         "date": "2026-09-14",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -4185,7 +4185,10 @@
           "name": "兹沃伦",
           "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_88896ab482ed4a9896bd6f194f2f53c3",
@@ -5513,6 +5516,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_6720d63460c24e19be2b82496d353f93",
+        "date": "2026-10-30",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "斯洛伐克甲级联赛",
+        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
+        "season": "2026/2027",
+        "home": {
+          "name": "L. 米库拉什",
+          "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816"
+        },
+        "away": {
+          "name": "日利纳B队",
+          "team_id": "ast_03de54b888154cd9a67cfa8cbefee450"
+        },
+        "ht_score": "-",
+        "venue": "Mestsky futbalovy stadion Milana Janeka",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_63959409078f4e71af6905c8f7bd0076",
+        "date": "2026-10-30",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "斯洛伐克甲级联赛",
+        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
+        "season": "2026/2027",
+        "home": {
+          "name": "波赫罗尼",
+          "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
+        },
+        "away": {
+          "name": "布拉迪斯拉发B队",
+          "team_id": "ast_caa3053fdb094da9856212e361503d25"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_dea3afc5e9134a1abe991d25d8e2a1bd",
         "date": "2026-10-25",
         "time": "09:30",
@@ -6471,24 +6514,6 @@
         "ht_score": "-",
         "venue": "Mestsky futbalovy stadion Milana Janeka",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_29edcd4e157048b98635e3c733497eb0",
-        "date": "2026-09-14",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "Z. 莫拉夫采-弗拉布尔",
-          "team_id": "ast_97434f2bf5a047b7a68522567fb44485"
-        },
-        "away": {
-          "name": "兹沃伦",
-          "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8587,13 +8612,13 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
-    "total_goals": 174,
-    "avg_goals_per_match": 2.76,
-    "home_wins": 33,
+    "matches_completed": 64,
+    "total_goals": 178,
+    "avg_goals_per_match": 2.78,
+    "home_wins": 34,
     "draws": 11,
     "away_wins": 19,
-    "home_win_pct": 52.4,
+    "home_win_pct": 53.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9391,7 +9416,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 49
+    "upcoming_matches": 50
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

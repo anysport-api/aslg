@@ -3035,7 +3035,7 @@
         "match_id": "as_38f0a937ae02412fa5edad851524d8c7",
         "date": "2026-09-16",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3047,15 +3047,13 @@
           "name": "索非亚中央陆军",
           "team_id": "ast_df3e40b9c91d47bc9e138e020d0964b9"
         },
-        "ht_score": "-",
-        "venue": "火车头体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9941b2af4b444d4eb1e576319e7d8240",
         "date": "2026-09-14",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3067,7 +3065,10 @@
           "name": "塞普特姆夫里·索非亚",
           "team_id": "ast_c5b2c9b61a3647bea9484eeff7190b11"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_79aade22b9a5404a9ec0a0d4db0f081a",
@@ -3150,7 +3151,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Bistritsa Stadium",
         "status_label": "完场"
       },
       {
@@ -3171,7 +3172,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "4-1",
-        "venue": "",
+        "venue": "National Stadium Vasil Levski",
         "status_label": "完场"
       },
       {
@@ -4776,7 +4777,7 @@
         "match_id": "as_38f0a937ae02412fa5edad851524d8c7",
         "date": "2026-09-16",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4787,26 +4788,6 @@
         "away": {
           "name": "索非亚中央陆军",
           "team_id": "ast_df3e40b9c91d47bc9e138e020d0964b9"
-        },
-        "ht_score": "-",
-        "venue": "火车头体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_9941b2af4b444d4eb1e576319e7d8240",
-        "date": "2026-09-14",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "保加利亚甲级联赛",
-        "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
-        "season": "2026/2027",
-        "home": {
-          "name": "卢多戈雷茨",
-          "team_id": "ast_7b25ad97c5de43679bf444196dfd98ba"
-        },
-        "away": {
-          "name": "塞普特姆夫里·索非亚",
-          "team_id": "ast_c5b2c9b61a3647bea9484eeff7190b11"
         },
         "venue": ""
       }
@@ -10224,13 +10205,13 @@
     }
   },
   "stats": {
-    "matches_completed": 61,
-    "total_goals": 164,
+    "matches_completed": 62,
+    "total_goals": 167,
     "avg_goals_per_match": 2.69,
-    "home_wins": 30,
+    "home_wins": 31,
     "draws": 14,
     "away_wins": 17,
-    "home_win_pct": 49.2,
+    "home_win_pct": 50.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -11028,7 +11009,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 23
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

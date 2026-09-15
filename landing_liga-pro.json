@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
@@ -653,7 +653,7 @@
         "match_id": "as_109689f167764930a8c451b43d1a629d",
         "date": "2026-09-15",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -665,7 +665,10 @@
           "name": "奥伦塞",
           "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f2da1a2ee9714a628592ad30a376f37c",
@@ -811,7 +814,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "何塞球场",
         "status_label": "完场"
       },
       {
@@ -5692,7 +5695,7 @@
         "match_id": "as_109689f167764930a8c451b43d1a629d",
         "date": "2026-09-15",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -5704,7 +5707,10 @@
           "name": "奥伦塞",
           "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -10382,13 +10388,13 @@
     }
   },
   "stats": {
-    "matches_completed": 239,
-    "total_goals": 540,
+    "matches_completed": 240,
+    "total_goals": 543,
     "avg_goals_per_match": 2.26,
-    "home_wins": 112,
+    "home_wins": 113,
     "draws": 58,
     "away_wins": 69,
-    "home_win_pct": 46.9,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11206,5 +11212,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }

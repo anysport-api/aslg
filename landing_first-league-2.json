@@ -230,6 +230,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
+        "team": "Shkendija Haracine",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 7,
+        "goal_difference": -1,
+        "points": 13,
+        "form": "WWWLW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
         "team": "Tikves",
         "played": 7,
@@ -243,7 +257,7 @@
         "form": "DWDDL"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_8b6077284f384712b80402b56942c716",
         "team": "Vardar",
         "played": 7,
@@ -255,20 +269,6 @@
         "goal_difference": 4,
         "points": 11,
         "form": "DWDWL"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
-        "team": "Shkendija Haracine",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 5,
-        "goals_against": 7,
-        "goal_difference": -2,
-        "points": 10,
-        "form": "WWLWD"
       },
       {
         "position": 6,
@@ -330,15 +330,15 @@
         "position": 10,
         "team_id": "ast_8dfd99953954409084e10ee0a940e6f3",
         "team": "FK Skopje",
-        "played": 6,
+        "played": 7,
         "wins": 0,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 3,
-        "goals_against": 10,
-        "goal_difference": -7,
+        "goals_against": 11,
+        "goal_difference": -8,
         "points": 3,
-        "form": "LDDLD"
+        "form": "LLDDL"
       }
     ],
     "zh": [
@@ -374,6 +374,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
+        "team": "什肯迪亚哈拉奇",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 7,
+        "goal_difference": -1,
+        "points": 13,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
         "team": "蒂克维斯",
         "played": 7,
@@ -388,7 +403,7 @@
         "form_label": "平胜平平负"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_8b6077284f384712b80402b56942c716",
         "team": "瓦尔达尔",
         "played": 7,
@@ -401,21 +416,6 @@
         "points": 11,
         "form": "DWDWL",
         "form_label": "平胜平胜负"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
-        "team": "什肯迪亚哈拉奇",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 5,
-        "goals_against": 7,
-        "goal_difference": -2,
-        "points": 10,
-        "form": "WWLWD",
-        "form_label": "胜胜负胜平"
       },
       {
         "position": 6,
@@ -481,16 +481,16 @@
         "position": 10,
         "team_id": "ast_8dfd99953954409084e10ee0a940e6f3",
         "team": "斯科普耶足球俱乐部",
-        "played": 6,
+        "played": 7,
         "wins": 0,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 3,
-        "goals_against": 10,
-        "goal_difference": -7,
+        "goals_against": 11,
+        "goal_difference": -8,
         "points": 3,
-        "form": "LDDLD",
-        "form_label": "负平平负平"
+        "form": "LLDDL",
+        "form_label": "负负平平负"
       }
     ]
   },
@@ -1615,7 +1615,7 @@
         "match_id": "as_51ab57dd42534324bbdab9728407a8e3",
         "date": "2026-09-14",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1627,7 +1627,10 @@
           "name": "斯科普耶足球俱乐部",
           "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_920c205ec0d04c56a23df6d7920c1ba5",
@@ -1668,7 +1671,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "3-3",
-        "venue": "",
+        "venue": "KF Bashkimi Stadium",
         "status_label": "完场"
       },
       {
@@ -2744,24 +2747,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_51ab57dd42534324bbdab9728407a8e3",
-        "date": "2026-09-14",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "什肯迪亚哈拉奇",
-          "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de"
-        },
-        "away": {
-          "name": "斯科普耶足球俱乐部",
-          "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6840,13 +6825,13 @@
     }
   },
   "stats": {
-    "matches_completed": 34,
-    "total_goals": 101,
-    "avg_goals_per_match": 2.97,
-    "home_wins": 16,
+    "matches_completed": 35,
+    "total_goals": 102,
+    "avg_goals_per_match": 2.91,
+    "home_wins": 17,
     "draws": 9,
     "away_wins": 9,
-    "home_win_pct": 47.1,
+    "home_win_pct": 48.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6997,17 +6982,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
-            "team": "Tikves",
+            "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
+            "team": "Shkendija Haracine",
             "played": 7,
-            "wins": 3,
-            "draws": 3,
-            "losses": 1,
-            "goals_for": 17,
+            "wins": 4,
+            "draws": 1,
+            "losses": 2,
+            "goals_for": 6,
             "goals_against": 7,
-            "goal_difference": 10,
-            "points": 12,
-            "form": "DWDDL"
+            "goal_difference": -1,
+            "points": 13,
+            "form": "WWWLW"
           }
         ],
         "meta": {
@@ -7644,7 +7629,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 21
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/09/14"
+  "updated_at": "2026/09/15"
 }
