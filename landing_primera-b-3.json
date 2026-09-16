@@ -1793,7 +1793,7 @@
         "match_id": "as_878d4e36bc0f4284baece341c8917ea0",
         "date": "2026-09-15",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1805,7 +1805,10 @@
           "name": "尤姆博独立",
           "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_90d6917260f74248bdf7b8c0efb42869",
@@ -1930,7 +1933,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Francisco Rivera Escobar",
         "status_label": "完场"
       },
       {
@@ -1951,7 +1954,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Estadio Municipal de Mosquera",
         "status_label": "完场"
       },
       {
@@ -11719,13 +11722,13 @@
     }
   },
   "stats": {
-    "matches_completed": 207,
-    "total_goals": 455,
+    "matches_completed": 208,
+    "total_goals": 457,
     "avg_goals_per_match": 2.2,
     "home_wins": 78,
     "draws": 64,
-    "away_wins": 65,
-    "home_win_pct": 37.7,
+    "away_wins": 66,
+    "home_win_pct": 37.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12524,5 +12527,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }

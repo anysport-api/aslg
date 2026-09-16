@@ -104,6 +104,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_def3eed8eb6b4522934c849bef7b482b",
+        "team": "San Luis",
+        "played": 24,
+        "wins": 11,
+        "draws": 8,
+        "losses": 5,
+        "goals_for": 38,
+        "goals_against": 29,
+        "goal_difference": 9,
+        "points": 41,
+        "form": "WWWLW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "Magallanes",
         "played": 25,
@@ -117,32 +131,18 @@
         "form": "WDDLW"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_86faf5a093c04da5a07943234315037a",
         "team": "Antofagasta",
-        "played": 24,
+        "played": 25,
         "wins": 10,
         "draws": 8,
-        "losses": 6,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
+        "losses": 7,
+        "goals_for": 42,
+        "goals_against": 26,
+        "goal_difference": 16,
         "points": 38,
-        "form": "DLWWD"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_def3eed8eb6b4522934c849bef7b482b",
-        "team": "San Luis",
-        "played": 23,
-        "wins": 10,
-        "draws": 8,
-        "losses": 5,
-        "goals_for": 36,
-        "goals_against": 28,
-        "goal_difference": 8,
-        "points": 38,
-        "form": "WWLWD"
+        "form": "LDLWW"
       },
       {
         "position": 6,
@@ -332,6 +332,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_def3eed8eb6b4522934c849bef7b482b",
+        "team": "圣路易斯",
+        "played": 24,
+        "wins": 11,
+        "draws": 8,
+        "losses": 5,
+        "goals_for": 38,
+        "goals_against": 29,
+        "goal_difference": 9,
+        "points": 41,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "马加利亚尼斯",
         "played": 25,
@@ -346,34 +361,19 @@
         "form_label": "胜平平负胜"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_86faf5a093c04da5a07943234315037a",
         "team": "安托法加斯塔",
-        "played": 24,
+        "played": 25,
         "wins": 10,
         "draws": 8,
-        "losses": 6,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
+        "losses": 7,
+        "goals_for": 42,
+        "goals_against": 26,
+        "goal_difference": 16,
         "points": 38,
-        "form": "DLWWD",
-        "form_label": "平负胜胜平"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_def3eed8eb6b4522934c849bef7b482b",
-        "team": "圣路易斯",
-        "played": 23,
-        "wins": 10,
-        "draws": 8,
-        "losses": 5,
-        "goals_for": 36,
-        "goals_against": 28,
-        "goal_difference": 8,
-        "points": 38,
-        "form": "WWLWD",
-        "form_label": "胜胜负胜平"
+        "form": "LDLWW",
+        "form_label": "负平负胜胜"
       },
       {
         "position": 6,
@@ -1423,7 +1423,7 @@
         "match_id": "as_778bd4d031c2468f8b96d7bf3ac7adb8",
         "date": "2026-09-15",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1435,13 +1435,16 @@
           "name": "安托法加斯塔",
           "team_id": "ast_86faf5a093c04da5a07943234315037a"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d30f3d589cac4769a1b3b1d93d9b2d59",
         "date": "2026-09-15",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1453,7 +1456,10 @@
           "name": "特木科体育",
           "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_de1806f6e0dd42d99f6f1c6ada2d375f",
@@ -1515,7 +1521,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "Estadio Santiago Bueras",
         "status_label": "完场"
       },
       {
@@ -1536,7 +1542,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "卡洛斯·迪特博恩体育场",
         "status_label": "完场"
       },
       {
@@ -6251,42 +6257,6 @@
         "ht_score": "-",
         "venue": "沙漠之狐体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d30f3d589cac4769a1b3b1d93d9b2d59",
-        "date": "2026-09-15",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "西班牙大学",
-          "team_id": "ast_1ed14f5057d040cebce157a9b8764e7f"
-        },
-        "away": {
-          "name": "特木科体育",
-          "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_778bd4d031c2468f8b96d7bf3ac7adb8",
-        "date": "2026-09-15",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "圣路易斯",
-          "team_id": "ast_def3eed8eb6b4522934c849bef7b482b"
-        },
-        "away": {
-          "name": "安托法加斯塔",
-          "team_id": "ast_86faf5a093c04da5a07943234315037a"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8397,11 +8367,11 @@
     }
   },
   "stats": {
-    "matches_completed": 195,
-    "total_goals": 515,
+    "matches_completed": 197,
+    "total_goals": 520,
     "avg_goals_per_match": 2.64,
-    "home_wins": 84,
-    "draws": 61,
+    "home_wins": 85,
+    "draws": 62,
     "away_wins": 50,
     "home_win_pct": 43.1,
     "biggest_win": {
@@ -8554,17 +8524,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
-            "team": "Magallanes",
-            "played": 25,
+            "team_id": "ast_def3eed8eb6b4522934c849bef7b482b",
+            "team": "San Luis",
+            "played": 24,
             "wins": 11,
-            "draws": 7,
-            "losses": 7,
-            "goals_for": 41,
-            "goals_against": 38,
-            "goal_difference": 3,
-            "points": 40,
-            "form": "WDDLW"
+            "draws": 8,
+            "losses": 5,
+            "goals_for": 38,
+            "goals_against": 29,
+            "goal_difference": 9,
+            "points": 41,
+            "form": "WWWLW"
           }
         ],
         "meta": {
@@ -9201,7 +9171,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 37
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }

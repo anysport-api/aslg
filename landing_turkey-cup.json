@@ -124,20 +124,6 @@
     "en": [
       {
         "position": 1,
-        "team_id": "ast_01e4a0b2eead480092efc433f9ad5273",
-        "team": "Galatasaray",
-        "played": 4,
-        "wins": 4,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 8,
-        "goals_against": 3,
-        "goal_difference": 5,
-        "points": 12,
-        "form": "WWWW"
-      },
-      {
-        "position": 1,
         "team_id": "ast_e0484921724f4c1baf8dd2a95bafc5e9",
         "team": "Samsunspor",
         "played": 4,
@@ -177,6 +163,20 @@
         "goal_difference": 7,
         "points": 10,
         "form": "WDWW"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_01e4a0b2eead480092efc433f9ad5273",
+        "team": "Galatasaray",
+        "played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 8,
+        "goals_against": 3,
+        "goal_difference": 5,
+        "points": 12,
+        "form": "WWWW"
       },
       {
         "position": 2,
@@ -462,21 +462,6 @@
     "zh": [
       {
         "position": 1,
-        "team_id": "ast_01e4a0b2eead480092efc433f9ad5273",
-        "team": "加拉塔萨雷",
-        "played": 4,
-        "wins": 4,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 8,
-        "goals_against": 3,
-        "goal_difference": 5,
-        "points": 12,
-        "form": "WWWW",
-        "form_label": "胜胜胜胜"
-      },
-      {
-        "position": 1,
         "team_id": "ast_e0484921724f4c1baf8dd2a95bafc5e9",
         "team": "萨姆松体育",
         "played": 4,
@@ -519,6 +504,21 @@
         "points": 10,
         "form": "WDWW",
         "form_label": "胜平胜胜"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_01e4a0b2eead480092efc433f9ad5273",
+        "team": "加拉塔萨雷",
+        "played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 8,
+        "goals_against": 3,
+        "goal_difference": 5,
+        "points": 12,
+        "form": "WWWW",
+        "form_label": "胜胜胜胜"
       },
       {
         "position": 2,
@@ -4751,7 +4751,7 @@
         "match_id": "as_e663d0ed5f9e45feb95a283e755e17b8",
         "date": "2026-09-17",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "土耳其杯",
         "league_id": "asl_08dbb9396d1c475d9ab3cc15c06e82ad",
         "season": "2026/2027",
@@ -4763,15 +4763,13 @@
           "name": "Torul Belediye Genclik",
           "team_id": "ast_d7dcb553001f4d7995106182f9946cae"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6104d8806d28437bb260a98ce01aee57",
         "date": "2026-09-17",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "土耳其杯",
         "league_id": "asl_08dbb9396d1c475d9ab3cc15c06e82ad",
         "season": "2026/2027",
@@ -4783,9 +4781,7 @@
           "name": "Cankirigucu",
           "team_id": "ast_4ed67c4458554b40b49998512c3b21bc"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6ac42b5de31b4906b4bbe54ef9f1480e",
@@ -4880,8 +4876,8 @@
       {
         "match_id": "as_2564d30c21dd423cb3bce2785063e9ce",
         "date": "2026-09-16",
-        "time": "11:00",
-        "status": "11:00",
+        "time": "16:00",
+        "status": "16:00",
         "league": "土耳其杯",
         "league_id": "asl_08dbb9396d1c475d9ab3cc15c06e82ad",
         "season": "2026/2027",
@@ -5072,42 +5068,6 @@
         "away": {
           "name": "新马拉蒂亚体育俱乐部",
           "team_id": "ast_1473d0b727664fe0ad08724023bfc436"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_95122c3701a847c8b8ee0efc3a66c8da",
-        "date": "2026-09-15",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "土耳其杯",
-        "league_id": "asl_08dbb9396d1c475d9ab3cc15c06e82ad",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔泰",
-          "team_id": "ast_17e469e530f74e48b2c477b4fea6abfc"
-        },
-        "away": {
-          "name": "索克1970",
-          "team_id": "ast_5ae5b8826b1643bc9be38726e9a8118d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f86c9c5f9daf4531b4184ddb209bd986",
-        "date": "2026-09-15",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "土耳其杯",
-        "league_id": "asl_08dbb9396d1c475d9ab3cc15c06e82ad",
-        "season": "2026/2027",
-        "home": {
-          "name": "Afyonkarahisaspor",
-          "team_id": "ast_c59bbca7feab4c479a75563747002c39"
-        },
-        "away": {
-          "name": "Urgupspor",
-          "team_id": "ast_bdf8f76935d94ff4bd09ef02f90fb49c"
         },
         "venue": ""
       }
@@ -6373,7 +6333,7 @@
       }
     },
     "leader": {
-      "team": "Galatasaray",
+      "team": "Samsunspor",
       "points": 12,
       "played": 4
     }
@@ -6470,20 +6430,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_01e4a0b2eead480092efc433f9ad5273",
-            "team": "Galatasaray",
-            "played": 4,
-            "wins": 4,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 8,
-            "goals_against": 3,
-            "goal_difference": 5,
-            "points": 12,
-            "form": "WWWW"
-          },
-          {
-            "position": 1,
             "team_id": "ast_e0484921724f4c1baf8dd2a95bafc5e9",
             "team": "Samsunspor",
             "played": 4,
@@ -6507,6 +6453,20 @@
             "goals_for": 9,
             "goals_against": 5,
             "goal_difference": 4,
+            "points": 10,
+            "form": "WDWW"
+          },
+          {
+            "position": 1,
+            "team_id": "ast_1bc443a7e5f6402a985f5a363a720052",
+            "team": "Besiktas",
+            "played": 4,
+            "wins": 3,
+            "draws": 1,
+            "losses": 0,
+            "goals_for": 10,
+            "goals_against": 3,
+            "goal_difference": 7,
             "points": 10,
             "form": "WDWW"
           }
@@ -7160,7 +7120,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 24,
     "matches_current_season": 186,
-    "upcoming_matches": 20
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }

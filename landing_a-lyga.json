@@ -188,6 +188,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_87337d4088194f0598930dcfbc04d160",
+        "team": "Transinvest",
+        "played": 27,
+        "wins": 12,
+        "draws": 6,
+        "losses": 9,
+        "goals_for": 40,
+        "goals_against": 35,
+        "goal_difference": 5,
+        "points": 42,
+        "form": "WLWDL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
         "team": "Zalgiris",
         "played": 26,
@@ -199,20 +213,6 @@
         "goal_difference": 9,
         "points": 41,
         "form": "DWLWL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_87337d4088194f0598930dcfbc04d160",
-        "team": "Transinvest",
-        "played": 26,
-        "wins": 11,
-        "draws": 6,
-        "losses": 9,
-        "goals_for": 37,
-        "goals_against": 34,
-        "goal_difference": 3,
-        "points": 39,
-        "form": "LWDLW"
       },
       {
         "position": 5,
@@ -232,15 +232,15 @@
         "position": 6,
         "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb",
         "team": "Banga",
-        "played": 26,
+        "played": 27,
         "wins": 10,
         "draws": 8,
-        "losses": 8,
-        "goals_for": 29,
-        "goals_against": 25,
-        "goal_difference": 4,
+        "losses": 9,
+        "goals_for": 30,
+        "goals_against": 28,
+        "goal_difference": 2,
         "points": 38,
-        "form": "LDDWL"
+        "form": "LLDDW"
       },
       {
         "position": 7,
@@ -332,6 +332,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_87337d4088194f0598930dcfbc04d160",
+        "team": "转投资",
+        "played": 27,
+        "wins": 12,
+        "draws": 6,
+        "losses": 9,
+        "goals_for": 40,
+        "goals_against": 35,
+        "goal_difference": 5,
+        "points": 42,
+        "form": "WLWDL",
+        "form_label": "胜负胜平负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
         "team": "扎尔吉里斯",
         "played": 26,
@@ -344,21 +359,6 @@
         "points": 41,
         "form": "DWLWL",
         "form_label": "平胜负胜负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_87337d4088194f0598930dcfbc04d160",
-        "team": "转投资",
-        "played": 26,
-        "wins": 11,
-        "draws": 6,
-        "losses": 9,
-        "goals_for": 37,
-        "goals_against": 34,
-        "goal_difference": 3,
-        "points": 39,
-        "form": "LWDLW",
-        "form_label": "负胜平负胜"
       },
       {
         "position": 5,
@@ -379,16 +379,16 @@
         "position": 6,
         "team_id": "ast_6ae519c9e4d645f180afd601b9bc23fb",
         "team": "班加",
-        "played": 26,
+        "played": 27,
         "wins": 10,
         "draws": 8,
-        "losses": 8,
-        "goals_for": 29,
-        "goals_against": 25,
-        "goal_difference": 4,
+        "losses": 9,
+        "goals_for": 30,
+        "goals_against": 28,
+        "goal_difference": 2,
         "points": 38,
-        "form": "LDDWL",
-        "form_label": "负平平胜负"
+        "form": "LLDDW",
+        "form_label": "负负平平胜"
       },
       {
         "position": 7,
@@ -945,7 +945,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Aukstaitijos Stadium",
         "status_label": "完场"
       },
       {
@@ -966,7 +966,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Marijampole Football Arena",
         "status_label": "完场"
       },
       {
@@ -987,7 +987,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Siauliai central stadium",
         "status_label": "完场"
       },
       {
@@ -3827,6 +3827,66 @@
       }
     ],
     "upcoming": [
+      {
+        "match_id": "as_b4415ba2ecdf407faba255dd3eef47d0",
+        "date": "2026-10-31",
+        "time": "16:30",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "黑格尔曼",
+          "team_id": "ast_1b95a994a3144aeda795d6574b085324"
+        },
+        "away": {
+          "name": "考纳扎尔吉里斯",
+          "team_id": "ast_5dab69b273b64a1fb9c5689f7090e599"
+        },
+        "ht_score": "-",
+        "venue": "劳多恩瓦里奥体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_dda895eae06646b8919056cdffcbb770",
+        "date": "2026-10-31",
+        "time": "15:30",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "FA绍利艾",
+          "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
+        },
+        "away": {
+          "name": "齐乌戈斯特尔西亚",
+          "team_id": "ast_e21078252fb24525b3a75bd87d8e0409"
+        },
+        "ht_score": "-",
+        "venue": "Siauliai central stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cbf1d15b0b0c4cec99f12acf92b4e16b",
+        "date": "2026-10-31",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "帕尔讷维兹斯足球俱乐部",
+          "team_id": "ast_7ad81465f99a4888844e24b7f0078817"
+        },
+        "away": {
+          "name": "转投资",
+          "team_id": "ast_87337d4088194f0598930dcfbc04d160"
+        },
+        "ht_score": "-",
+        "venue": "Aukstaitijos Stadium",
+        "status_label": "未开赛"
+      },
       {
         "match_id": "as_11e7d617ee5f492e9f4c69c8078f1531",
         "date": "2026-10-26",
@@ -7689,17 +7749,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
-            "team": "Zalgiris",
-            "played": 26,
+            "team_id": "ast_87337d4088194f0598930dcfbc04d160",
+            "team": "Transinvest",
+            "played": 27,
             "wins": 12,
-            "draws": 5,
+            "draws": 6,
             "losses": 9,
-            "goals_for": 38,
-            "goals_against": 29,
-            "goal_difference": 9,
-            "points": 41,
-            "form": "DWLWL"
+            "goals_for": 40,
+            "goals_against": 35,
+            "goal_difference": 5,
+            "points": 42,
+            "form": "WLWDL"
           }
         ],
         "meta": {
@@ -8336,7 +8396,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 161,
-    "upcoming_matches": 14
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }

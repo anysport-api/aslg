@@ -194,15 +194,15 @@
         "position": 2,
         "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b",
         "team": "Riga FC",
-        "played": 29,
-        "wins": 20,
+        "played": 30,
+        "wins": 21,
         "draws": 7,
         "losses": 2,
-        "goals_for": 84,
+        "goals_for": 85,
         "goals_against": 30,
-        "goal_difference": 54,
-        "points": 67,
-        "form": "DDLDW"
+        "goal_difference": 55,
+        "points": 70,
+        "form": "WDDLD"
       },
       {
         "position": 3,
@@ -250,15 +250,15 @@
         "position": 6,
         "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e",
         "team": "Super Nova",
-        "played": 28,
+        "played": 29,
         "wins": 10,
         "draws": 5,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 29,
-        "goals_against": 38,
-        "goal_difference": -9,
+        "goals_against": 39,
+        "goal_difference": -10,
         "points": 35,
-        "form": "WWDDL"
+        "form": "LWWDD"
       },
       {
         "position": 7,
@@ -337,16 +337,16 @@
         "position": 2,
         "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b",
         "team": "里加FC",
-        "played": 29,
-        "wins": 20,
+        "played": 30,
+        "wins": 21,
         "draws": 7,
         "losses": 2,
-        "goals_for": 84,
+        "goals_for": 85,
         "goals_against": 30,
-        "goal_difference": 54,
-        "points": 67,
-        "form": "DDLDW",
-        "form_label": "平平负平胜"
+        "goal_difference": 55,
+        "points": 70,
+        "form": "WDDLD",
+        "form_label": "胜平平负平"
       },
       {
         "position": 3,
@@ -397,16 +397,16 @@
         "position": 6,
         "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e",
         "team": "超级新星",
-        "played": 28,
+        "played": 29,
         "wins": 10,
         "draws": 5,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 29,
-        "goals_against": 38,
-        "goal_difference": -9,
+        "goals_against": 39,
+        "goal_difference": -10,
         "points": 35,
-        "form": "WWDDL",
-        "form_label": "胜胜平平负"
+        "form": "LWWDD",
+        "form_label": "负胜胜平平"
       },
       {
         "position": 7,
@@ -1129,7 +1129,7 @@
         "match_id": "as_c792e09eb17f4b1385e5a98996dbb16c",
         "date": "2026-09-15",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -1141,7 +1141,10 @@
           "name": "里加FC",
           "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0b7946388abe43f8a09f1cc49b844c26",
@@ -1161,7 +1164,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "采尔特尼克斯球场",
         "status_label": "完场"
       },
       {
@@ -4669,24 +4672,6 @@
           "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_c792e09eb17f4b1385e5a98996dbb16c",
-        "date": "2026-09-15",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "超级新星",
-          "team_id": "ast_8ebe6702635d402f95ad6dd0f362b67e"
-        },
-        "away": {
-          "name": "里加FC",
-          "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8115,13 +8100,13 @@
     }
   },
   "stats": {
-    "matches_completed": 147,
-    "total_goals": 430,
-    "avg_goals_per_match": 2.93,
+    "matches_completed": 148,
+    "total_goals": 431,
+    "avg_goals_per_match": 2.91,
     "home_wins": 62,
     "draws": 34,
-    "away_wins": 51,
-    "home_win_pct": 42.2,
+    "away_wins": 52,
+    "home_win_pct": 41.9,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8260,15 +8245,15 @@
             "position": 2,
             "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b",
             "team": "Riga FC",
-            "played": 29,
-            "wins": 20,
+            "played": 30,
+            "wins": 21,
             "draws": 7,
             "losses": 2,
-            "goals_for": 84,
+            "goals_for": 85,
             "goals_against": 30,
-            "goal_difference": 54,
-            "points": 67,
-            "form": "DDLDW"
+            "goal_difference": 55,
+            "points": 70,
+            "form": "WDDLD"
           },
           {
             "position": 3,
@@ -8919,7 +8904,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 23
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }

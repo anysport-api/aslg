@@ -180,6 +180,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
+        "team": "U. Catolica",
+        "played": 30,
+        "wins": 14,
+        "draws": 9,
+        "losses": 7,
+        "goals_for": 51,
+        "goals_against": 27,
+        "goal_difference": 24,
+        "points": 51,
+        "form": "WWDDW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
         "team": "Macara",
         "played": 30,
@@ -193,7 +207,7 @@
         "form": "WLWWL"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_eca758961bcb4851aaa5539cc312d4dc",
         "team": "Aucas",
         "played": 30,
@@ -205,20 +219,6 @@
         "goal_difference": 5,
         "points": 50,
         "form": "DDDWW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
-        "team": "U. Catolica",
-        "played": 29,
-        "wins": 13,
-        "draws": 9,
-        "losses": 7,
-        "goals_for": 49,
-        "goals_against": 26,
-        "goal_difference": 23,
-        "points": 48,
-        "form": "WDDWD"
       },
       {
         "position": 5,
@@ -336,15 +336,15 @@
         "position": 13,
         "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
         "team": "Orense",
-        "played": 29,
+        "played": 30,
         "wins": 9,
         "draws": 6,
-        "losses": 14,
-        "goals_for": 35,
-        "goals_against": 45,
-        "goal_difference": -10,
+        "losses": 15,
+        "goals_for": 36,
+        "goals_against": 47,
+        "goal_difference": -11,
         "points": 33,
-        "form": "WLLLW"
+        "form": "LWLLL"
       },
       {
         "position": 14,
@@ -407,6 +407,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
+        "team": "天主教大学",
+        "played": 30,
+        "wins": 14,
+        "draws": 9,
+        "losses": 7,
+        "goals_for": 51,
+        "goals_against": 27,
+        "goal_difference": 24,
+        "points": 51,
+        "form": "WWDDW",
+        "form_label": "胜胜平平胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
         "team": "马卡拉",
         "played": 30,
@@ -421,7 +436,7 @@
         "form_label": "胜负胜胜负"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_eca758961bcb4851aaa5539cc312d4dc",
         "team": "奥卡斯",
         "played": 30,
@@ -434,21 +449,6 @@
         "points": 50,
         "form": "DDDWW",
         "form_label": "平平平胜胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
-        "team": "天主教大学",
-        "played": 29,
-        "wins": 13,
-        "draws": 9,
-        "losses": 7,
-        "goals_for": 49,
-        "goals_against": 26,
-        "goal_difference": 23,
-        "points": 48,
-        "form": "WDDWD",
-        "form_label": "胜平平胜平"
       },
       {
         "position": 5,
@@ -574,16 +574,16 @@
         "position": 13,
         "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
         "team": "奥伦塞",
-        "played": 29,
+        "played": 30,
         "wins": 9,
         "draws": 6,
-        "losses": 14,
-        "goals_for": 35,
-        "goals_against": 45,
-        "goal_difference": -10,
+        "losses": 15,
+        "goals_for": 36,
+        "goals_against": 47,
+        "goal_difference": -11,
         "points": 33,
-        "form": "WLLLW",
-        "form_label": "胜负负负胜"
+        "form": "LWLLL",
+        "form_label": "负胜负负负"
       },
       {
         "position": 14,
@@ -709,7 +709,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "罗德里戈·帕斯·德尔加多体育场",
         "status_label": "完场"
       },
       {
@@ -730,7 +730,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Estadio Olimpico de Ibarra",
         "status_label": "完场"
       },
       {
@@ -772,7 +772,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Estadio Bellavista",
         "status_label": "完场"
       },
       {
@@ -5690,29 +5690,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_109689f167764930a8c451b43d1a629d",
-        "date": "2026-09-15",
-        "time": "00:00",
-        "status": "FT",
-        "league": "厄瓜多尔职业联赛",
-        "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
-        "season": "2026",
-        "home": {
-          "name": "天主教大学",
-          "team_id": "ast_1c319b291950451a9e1336bceac0af07"
-        },
-        "away": {
-          "name": "奥伦塞",
-          "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
-        },
-        "ht_score": "2-1",
-        "reg_score": "2-1",
-        "venue": "",
-        "status_label": "完场"
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -10531,6 +10509,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_1c319b291950451a9e1336bceac0af07",
+            "team": "U. Catolica",
+            "played": 30,
+            "wins": 14,
+            "draws": 9,
+            "losses": 7,
+            "goals_for": 51,
+            "goals_against": 27,
+            "goal_difference": 24,
+            "points": 51,
+            "form": "WWDDW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
             "team": "Macara",
             "played": 30,
@@ -10542,20 +10534,6 @@
             "goal_difference": 8,
             "points": 51,
             "form": "WLWWL"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_eca758961bcb4851aaa5539cc312d4dc",
-            "team": "Aucas",
-            "played": 30,
-            "wins": 14,
-            "draws": 8,
-            "losses": 8,
-            "goals_for": 33,
-            "goals_against": 28,
-            "goal_difference": 5,
-            "points": 50,
-            "form": "DDDWW"
           }
         ],
         "meta": {
@@ -11210,7 +11188,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }

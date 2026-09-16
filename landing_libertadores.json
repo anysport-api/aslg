@@ -3517,7 +3517,7 @@
         "match_id": "as_c65aa44260914423a88226a35808d0f9",
         "date": "2026-09-18",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "00:30",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -3529,9 +3529,7 @@
           "name": "独立谷",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_87b28ed446a7416483b049724034ad40",
@@ -3573,7 +3571,7 @@
         "match_id": "as_c546eb63259a4d4183769a28488829f6",
         "date": "2026-09-15",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -3585,7 +3583,10 @@
           "name": "弗鲁米嫩塞",
           "team_id": "ast_6bc26586ace649ae9592f9a90e6eda00"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8e26588c490448df899fbc4b1f8dcb53",
@@ -6665,7 +6666,7 @@
         "match_id": "as_c65aa44260914423a88226a35808d0f9",
         "date": "2026-09-18",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "00:30",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -6677,9 +6678,7 @@
           "name": "独立谷",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_87b28ed446a7416483b049724034ad40",
@@ -6714,24 +6713,6 @@
         "away": {
           "name": "帕尔梅拉斯",
           "team_id": "ast_8eac9a6e7be047098cbca582cb2810e6"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c546eb63259a4d4183769a28488829f6",
-        "date": "2026-09-15",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "解放者杯",
-        "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
-        "season": "2026",
-        "home": {
-          "name": "普拉滕塞",
-          "team_id": "ast_38b49fa1815c455f8f3c822cf0bda286"
-        },
-        "away": {
-          "name": "弗鲁米嫩塞",
-          "team_id": "ast_6bc26586ace649ae9592f9a90e6eda00"
         },
         "venue": ""
       }
@@ -10859,13 +10840,13 @@
     }
   },
   "stats": {
-    "matches_completed": 146,
-    "total_goals": 321,
+    "matches_completed": 147,
+    "total_goals": 324,
     "avg_goals_per_match": 2.2,
-    "home_wins": 68,
+    "home_wins": 69,
     "draws": 37,
     "away_wins": 41,
-    "home_win_pct": 46.6,
+    "home_win_pct": 46.9,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11676,7 +11657,7 @@
     "teams_all_time": 93,
     "standings_rows_current": 32,
     "matches_current_season": 150,
-    "upcoming_matches": 4
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }

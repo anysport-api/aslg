@@ -226,6 +226,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
+        "team": "Sp. Carapegua",
+        "played": 24,
+        "wins": 10,
+        "draws": 4,
+        "losses": 10,
+        "goals_for": 30,
+        "goals_against": 38,
+        "goal_difference": -8,
+        "points": 34,
+        "form": "WWLWL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b",
         "team": "Paraguari AC",
         "played": 24,
@@ -239,7 +253,7 @@
         "form": "WWWWL"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
         "team": "Resistencia",
         "played": 24,
@@ -253,32 +267,18 @@
         "form": "LLWLD"
       },
       {
-        "position": 9,
-        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
-        "team": "Sp. Carapegua",
-        "played": 23,
-        "wins": 9,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 28,
-        "goals_against": 37,
-        "goal_difference": -9,
-        "points": 31,
-        "form": "WLWLL"
-      },
-      {
         "position": 10,
         "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e",
         "team": "Atl. Tembetary",
-        "played": 23,
+        "played": 24,
         "wins": 8,
         "draws": 6,
-        "losses": 9,
-        "goals_for": 32,
-        "goals_against": 35,
-        "goal_difference": -3,
+        "losses": 10,
+        "goals_for": 33,
+        "goals_against": 37,
+        "goal_difference": -4,
         "points": 30,
-        "form": "DLWWL"
+        "form": "LDLWW"
       },
       {
         "position": 11,
@@ -458,6 +458,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
+        "team": "卡拉佩瓜体育",
+        "played": 24,
+        "wins": 10,
+        "draws": 4,
+        "losses": 10,
+        "goals_for": 30,
+        "goals_against": 38,
+        "goal_difference": -8,
+        "points": 34,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b",
         "team": "帕拉瓜里AC",
         "played": 24,
@@ -472,7 +487,7 @@
         "form_label": "胜胜胜胜负"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
         "team": "雷西斯滕西亚",
         "played": 24,
@@ -487,34 +502,19 @@
         "form_label": "负负胜负平"
       },
       {
-        "position": 9,
-        "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
-        "team": "卡拉佩瓜体育",
-        "played": 23,
-        "wins": 9,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 28,
-        "goals_against": 37,
-        "goal_difference": -9,
-        "points": 31,
-        "form": "WLWLL",
-        "form_label": "胜负胜负负"
-      },
-      {
         "position": 10,
         "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e",
         "team": "坦贝塔里竞技",
-        "played": 23,
+        "played": 24,
         "wins": 8,
         "draws": 6,
-        "losses": 9,
-        "goals_for": 32,
-        "goals_against": 35,
-        "goal_difference": -3,
+        "losses": 10,
+        "goals_for": 33,
+        "goals_against": 37,
+        "goal_difference": -4,
         "points": 30,
-        "form": "DLWWL",
-        "form_label": "平负胜胜负"
+        "form": "LDLWW",
+        "form_label": "负平负胜胜"
       },
       {
         "position": 11,
@@ -789,7 +789,7 @@
         "match_id": "as_d513fd8b9f4f4cbca13840e8b57c3d80",
         "date": "2026-09-15",
         "time": "19:30",
-        "status": "19:30",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -801,13 +801,16 @@
           "name": "卡拉佩瓜体育",
           "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_dcf8224cd8b94187ae0fc09fa3b19875",
         "date": "2026-09-15",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -819,7 +822,10 @@
           "name": "12 de Junio",
           "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_20fb17674e2448d9ba87f2805aa85b68",
@@ -902,7 +908,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Estadio Luis Alfonso Giagni",
         "status_label": "完场"
       },
       {
@@ -4972,42 +4978,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_dcf8224cd8b94187ae0fc09fa3b19875",
-        "date": "2026-09-15",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "塔库阿里",
-          "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
-        },
-        "away": {
-          "name": "12 de Junio",
-          "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d513fd8b9f4f4cbca13840e8b57c3d80",
-        "date": "2026-09-15",
-        "time": "19:30",
-        "status": "19:30",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "坦贝塔里竞技",
-          "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
-        },
-        "away": {
-          "name": "卡拉佩瓜体育",
-          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9569,13 +9539,13 @@
     }
   },
   "stats": {
-    "matches_completed": 190,
-    "total_goals": 491,
-    "avg_goals_per_match": 2.58,
+    "matches_completed": 192,
+    "total_goals": 497,
+    "avg_goals_per_match": 2.59,
     "home_wins": 75,
     "draws": 55,
-    "away_wins": 60,
-    "home_win_pct": 39.5,
+    "away_wins": 62,
+    "home_win_pct": 39.1,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -10318,7 +10288,7 @@
     "teams_all_time": 52,
     "standings_rows_current": 16,
     "matches_current_season": 200,
-    "upcoming_matches": 10
+    "upcoming_matches": 8
   },
-  "updated_at": "2026/09/15"
+  "updated_at": "2026/09/16"
 }
