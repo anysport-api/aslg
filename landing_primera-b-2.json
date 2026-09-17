@@ -238,15 +238,15 @@
         "position": 5,
         "team_id": "ast_1990fa9b6b2445028f397fe6bd5d1659",
         "team": "Cuenca Juniors",
-        "played": 25,
-        "wins": 9,
+        "played": 26,
+        "wins": 10,
         "draws": 8,
         "losses": 8,
-        "goals_for": 21,
+        "goals_for": 22,
         "goals_against": 27,
-        "goal_difference": -6,
-        "points": 35,
-        "form": "LLDLW"
+        "goal_difference": -5,
+        "points": 38,
+        "form": "WLLDL"
       },
       {
         "position": 5,
@@ -266,15 +266,15 @@
         "position": 6,
         "team_id": "ast_14bb225838c9427a844776c71dcdf878",
         "team": "San Antonio",
-        "played": 25,
+        "played": 26,
         "wins": 7,
         "draws": 11,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 26,
-        "goals_against": 28,
-        "goal_difference": -2,
+        "goals_against": 29,
+        "goal_difference": -3,
         "points": 32,
-        "form": "LLDDW"
+        "form": "LLLDD"
       },
       {
         "position": 6,
@@ -416,16 +416,16 @@
         "position": 5,
         "team_id": "ast_1990fa9b6b2445028f397fe6bd5d1659",
         "team": "昆卡青年队",
-        "played": 25,
-        "wins": 9,
+        "played": 26,
+        "wins": 10,
         "draws": 8,
         "losses": 8,
-        "goals_for": 21,
+        "goals_for": 22,
         "goals_against": 27,
-        "goal_difference": -6,
-        "points": 35,
-        "form": "LLDLW",
-        "form_label": "负负平负胜"
+        "goal_difference": -5,
+        "points": 38,
+        "form": "WLLDL",
+        "form_label": "胜负负平负"
       },
       {
         "position": 5,
@@ -446,16 +446,16 @@
         "position": 6,
         "team_id": "ast_14bb225838c9427a844776c71dcdf878",
         "team": "圣安东尼奥",
-        "played": 25,
+        "played": 26,
         "wins": 7,
         "draws": 11,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 26,
-        "goals_against": 28,
-        "goal_difference": -2,
+        "goals_against": 29,
+        "goal_difference": -3,
         "points": 32,
-        "form": "LLDDW",
-        "form_label": "负负平平胜"
+        "form": "LLLDD",
+        "form_label": "负负负平平"
       },
       {
         "position": 6,
@@ -1215,7 +1215,7 @@
         "match_id": "as_a8f82eba97984e82ba75e11e88dc51bb",
         "date": "2026-09-19",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "厄瓜多尔B级联赛",
         "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
         "season": "2026",
@@ -1227,9 +1227,7 @@
           "name": "LDU 波托维耶霍",
           "team_id": "ast_3de21da89b4342b4af049f51d61ac2c4"
         },
-        "ht_score": "-",
-        "venue": "Estadio Jorge Andrade",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0d8f3d4ba8fc4a8d82c01b80d7d1fc91",
@@ -1307,7 +1305,7 @@
         "match_id": "as_ac687e95e0244382a022b8f7eecad669",
         "date": "2026-09-16",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "厄瓜多尔B级联赛",
         "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
         "season": "2026",
@@ -1319,7 +1317,10 @@
           "name": "圣安东尼奥",
           "team_id": "ast_14bb225838c9427a844776c71dcdf878"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_978bb3f8c0c849df88d2137796c4b1ea",
@@ -5197,7 +5198,7 @@
         "match_id": "as_a8f82eba97984e82ba75e11e88dc51bb",
         "date": "2026-09-19",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "厄瓜多尔B级联赛",
         "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
         "season": "2026",
@@ -5209,9 +5210,7 @@
           "name": "LDU 波托维耶霍",
           "team_id": "ast_3de21da89b4342b4af049f51d61ac2c4"
         },
-        "ht_score": "-",
-        "venue": "Estadio Jorge Andrade",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0d8f3d4ba8fc4a8d82c01b80d7d1fc91",
@@ -5282,24 +5281,6 @@
         "away": {
           "name": "竞技FC",
           "team_id": "ast_eb279f34663045e1b3b5138dd8e58b89"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ac687e95e0244382a022b8f7eecad669",
-        "date": "2026-09-16",
-        "time": "20:30",
-        "status": "20:30",
-        "league": "厄瓜多尔B级联赛",
-        "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
-        "season": "2026",
-        "home": {
-          "name": "昆卡青年队",
-          "team_id": "ast_1990fa9b6b2445028f397fe6bd5d1659"
-        },
-        "away": {
-          "name": "圣安东尼奥",
-          "team_id": "ast_14bb225838c9427a844776c71dcdf878"
         },
         "venue": ""
       }
@@ -6803,13 +6784,13 @@
     }
   },
   "stats": {
-    "matches_completed": 150,
-    "total_goals": 286,
-    "avg_goals_per_match": 1.91,
-    "home_wins": 65,
+    "matches_completed": 151,
+    "total_goals": 287,
+    "avg_goals_per_match": 1.9,
+    "home_wins": 66,
     "draws": 53,
     "away_wins": 32,
-    "home_win_pct": 43.3,
+    "home_win_pct": 43.7,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7569,7 +7550,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 12,
     "matches_current_season": 192,
-    "upcoming_matches": 42
+    "upcoming_matches": 41
   },
-  "updated_at": "2026/09/16"
+  "updated_at": "2026/09/17"
 }

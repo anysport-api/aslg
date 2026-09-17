@@ -3535,7 +3535,7 @@
         "match_id": "as_87b28ed446a7416483b049724034ad40",
         "date": "2026-09-17",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -3547,13 +3547,16 @@
           "name": "学生队",
           "team_id": "ast_c77af0ea812e43c68bb1c1a42ee5e9e0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7aa55e12413245b2adc49e9c403cc464",
         "date": "2026-09-16",
         "time": "22:00",
-        "status": "22:00",
+        "status": "Pen.",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -3565,7 +3568,12 @@
           "name": "帕尔梅拉斯",
           "team_id": "ast_8eac9a6e7be047098cbca582cb2810e6"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-2",
+        "et_score": "0-0",
+        "penalty_score": "3-4",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_c546eb63259a4d4183769a28488829f6",
@@ -6684,7 +6692,7 @@
         "match_id": "as_87b28ed446a7416483b049724034ad40",
         "date": "2026-09-17",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -6696,25 +6704,10 @@
           "name": "学生队",
           "team_id": "ast_c77af0ea812e43c68bb1c1a42ee5e9e0"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7aa55e12413245b2adc49e9c403cc464",
-        "date": "2026-09-16",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "解放者杯",
-        "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
-        "season": "2026",
-        "home": {
-          "name": "LDU 基多",
-          "team_id": "ast_5786f46e30044153862cd8eca62a0556"
-        },
-        "away": {
-          "name": "帕尔梅拉斯",
-          "team_id": "ast_8eac9a6e7be047098cbca582cb2810e6"
-        },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -10840,13 +10833,13 @@
     }
   },
   "stats": {
-    "matches_completed": 147,
-    "total_goals": 324,
-    "avg_goals_per_match": 2.2,
-    "home_wins": 69,
+    "matches_completed": 149,
+    "total_goals": 330,
+    "avg_goals_per_match": 2.21,
+    "home_wins": 70,
     "draws": 37,
-    "away_wins": 41,
-    "home_win_pct": 46.9,
+    "away_wins": 42,
+    "home_win_pct": 47.0,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11657,7 +11650,7 @@
     "teams_all_time": 93,
     "standings_rows_current": 32,
     "matches_current_season": 150,
-    "upcoming_matches": 3
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/09/16"
+  "updated_at": "2026/09/17"
 }

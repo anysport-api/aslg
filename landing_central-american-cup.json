@@ -704,7 +704,7 @@
         "match_id": "as_c48eae8ecb914e3fbdf9620fc1de8e97",
         "date": "2026-09-17",
         "time": "03:15",
-        "status": "03:15",
+        "status": "FT",
         "league": "中美洲杯",
         "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
         "season": "2026",
@@ -716,13 +716,16 @@
           "name": "莫塔瓜",
           "team_id": "ast_f1387ae103d4456f858171674d63a341"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0b19c49961e54e28b954e535155afee4",
         "date": "2026-09-17",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "中美洲杯",
         "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
         "season": "2026",
@@ -734,7 +737,10 @@
           "name": "萨普里萨",
           "team_id": "ast_656ce94db2ed466f92549fb37713fdc2"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -2244,5 +2250,5 @@
     "matches_current_season": 0,
     "upcoming_matches": 4
   },
-  "updated_at": "2026/09/13"
+  "updated_at": "2026/09/17"
 }

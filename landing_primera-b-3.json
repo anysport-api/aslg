@@ -148,6 +148,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
+        "team": "Ind. Valle del Cauca",
+        "played": 8,
+        "wins": 5,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 10,
+        "goals_against": 2,
+        "goal_difference": 8,
+        "points": 17,
+        "form": "WDWWL"
+      },
+      {
+        "position": 2,
         "team": "Patriotas",
         "played": 8,
         "wins": 5,
@@ -158,20 +172,6 @@
         "goal_difference": 5,
         "points": 17,
         "form": "WWWLW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
-        "team": "Ind. Valle del Cauca",
-        "played": 7,
-        "wins": 4,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 2,
-        "goal_difference": 6,
-        "points": 14,
-        "form": "DWWLW"
       },
       {
         "position": 3,
@@ -287,20 +287,6 @@
       },
       {
         "position": 11,
-        "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a",
-        "team": "Barranquilla",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 9,
-        "goals_against": 11,
-        "goal_difference": -2,
-        "points": 8,
-        "form": "LWWLD"
-      },
-      {
-        "position": 12,
         "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
         "team": "Orsomarso",
         "played": 7,
@@ -312,6 +298,20 @@
         "goal_difference": -2,
         "points": 8,
         "form": "LLLWD"
+      },
+      {
+        "position": 12,
+        "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a",
+        "team": "Barranquilla",
+        "played": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 8,
+        "form": "LLWWL"
       },
       {
         "position": 13,
@@ -373,6 +373,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
+        "team": "尤姆博独立",
+        "played": 8,
+        "wins": 5,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 10,
+        "goals_against": 2,
+        "goal_difference": 8,
+        "points": 17,
+        "form": "WDWWL",
+        "form_label": "胜平胜胜负"
+      },
+      {
+        "position": 2,
         "team": "阿帕雷西达",
         "played": 8,
         "wins": 5,
@@ -384,21 +399,6 @@
         "points": 17,
         "form": "WWWLW",
         "form_label": "胜胜胜负胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
-        "team": "尤姆博独立",
-        "played": 7,
-        "wins": 4,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 8,
-        "goals_against": 2,
-        "goal_difference": 6,
-        "points": 14,
-        "form": "DWWLW",
-        "form_label": "平胜胜负胜"
       },
       {
         "position": 3,
@@ -522,21 +522,6 @@
       },
       {
         "position": 11,
-        "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a",
-        "team": "巴兰基亚",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 9,
-        "goals_against": 11,
-        "goal_difference": -2,
-        "points": 8,
-        "form": "LWWLD",
-        "form_label": "负胜胜负平"
-      },
-      {
-        "position": 12,
         "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
         "team": "奥尔索马尔索",
         "played": 7,
@@ -549,6 +534,21 @@
         "points": 8,
         "form": "LLLWD",
         "form_label": "负负负胜平"
+      },
+      {
+        "position": 12,
+        "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a",
+        "team": "巴兰基亚",
+        "played": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 8,
+        "form": "LLWWL",
+        "form_label": "负负胜胜负"
       },
       {
         "position": 13,
@@ -992,7 +992,7 @@
       {
         "match_id": "as_95afd5d218374a599e7c19ac287ce656",
         "date": "2026-10-16",
-        "time": "00:30",
+        "time": "01:00",
         "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
@@ -1512,7 +1512,7 @@
       {
         "match_id": "as_18dbcc3a1de0421d9db5029f534e936c",
         "date": "2026-09-28",
-        "time": "22:00",
+        "time": "21:00",
         "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
@@ -1527,6 +1527,26 @@
         },
         "ht_score": "-",
         "venue": "Francisco Rivera Escobar",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_580d4887fca4409ca864025273d3c95c",
+        "date": "2026-09-28",
+        "time": "23:00",
+        "status": "Not Started",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "昆迪奥",
+          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
+        },
+        "away": {
+          "name": "波哥大",
+          "team_id": "ast_af402a96df804de283974c62253523d4"
+        },
+        "ht_score": "-",
+        "venue": "百年纪念体育场",
         "status_label": "未开赛"
       },
       {
@@ -1567,26 +1587,6 @@
         },
         "ht_score": "-",
         "venue": "南部多功能体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_580d4887fca4409ca864025273d3c95c",
-        "date": "2026-09-27",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "昆迪奥",
-          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
-        },
-        "away": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
-        },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
         "status_label": "未开赛"
       },
       {
@@ -1633,7 +1633,7 @@
         "match_id": "as_81284dad91d14d6480a6f905f558ab31",
         "date": "2026-09-22",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1645,15 +1645,13 @@
           "name": "老虎队",
           "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f88e851423234546b2ae608211c3ff82",
         "date": "2026-09-22",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "00:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1665,15 +1663,13 @@
           "name": "恩维加多",
           "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6a07ce87773e4b678a8bb2899f955188",
         "date": "2026-09-22",
-        "time": "22:30",
-        "status": "Not Started",
+        "time": "21:00",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1685,15 +1681,13 @@
           "name": "国际帕尔米拉",
           "team_id": "ast_8b69096d92134f75949482070152ad31"
         },
-        "ht_score": "-",
-        "venue": "Estadio Municipal Raul Miranda",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c421b3c6c7014e5584c680c77367ab66",
         "date": "2026-09-22",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1705,15 +1699,13 @@
           "name": "奥尔索马尔索",
           "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
         },
-        "ht_score": "-",
-        "venue": "Estadio Villa Concha",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bb9f0414a5aa481da2abb5a8bd202f95",
         "date": "2026-09-21",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1725,15 +1717,13 @@
           "name": "巴兰基亚",
           "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
         },
-        "ht_score": "-",
-        "venue": "特乔大都会体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ea9094b37a5c4da68763d8defaee2d2c",
         "date": "2026-09-21",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1745,15 +1735,13 @@
           "name": "昆迪奥",
           "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
         },
-        "ht_score": "-",
-        "venue": "Estadio Municipal de Mosquera",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_12139192328441f59727827a7be69795",
         "date": "2026-09-19",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1765,15 +1753,13 @@
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
-        "ht_score": "-",
-        "venue": "Estadio Metropolitano Ciudad de Itagui",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a83a3a4ce1ae4ff999263b3b67154a93",
         "date": "2026-09-18",
         "time": "23:05",
-        "status": "Not Started",
+        "status": "23:05",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1785,9 +1771,7 @@
           "name": "马格达莱纳大学",
           "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
         },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_878d4e36bc0f4284baece341c8917ea0",
@@ -1828,7 +1812,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "丹尼尔·比亚·萨帕塔体育场",
         "status_label": "完场"
       },
       {
@@ -1849,7 +1833,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "特乔大都会体育场",
         "status_label": "完场"
       },
       {
@@ -1891,7 +1875,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "百年纪念体育场",
         "status_label": "完场"
       },
       {
@@ -6502,7 +6486,7 @@
       {
         "match_id": "as_95afd5d218374a599e7c19ac287ce656",
         "date": "2026-10-16",
-        "time": "00:30",
+        "time": "01:00",
         "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
@@ -7020,9 +7004,29 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_580d4887fca4409ca864025273d3c95c",
+        "date": "2026-09-28",
+        "time": "23:00",
+        "status": "Not Started",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "昆迪奥",
+          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
+        },
+        "away": {
+          "name": "波哥大",
+          "team_id": "ast_af402a96df804de283974c62253523d4"
+        },
+        "ht_score": "-",
+        "venue": "百年纪念体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_18dbcc3a1de0421d9db5029f534e936c",
         "date": "2026-09-28",
-        "time": "22:00",
+        "time": "21:00",
         "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
@@ -7057,26 +7061,6 @@
         },
         "ht_score": "-",
         "venue": "Estadio Municipal Raul Miranda",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_580d4887fca4409ca864025273d3c95c",
-        "date": "2026-09-27",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "昆迪奥",
-          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
-        },
-        "away": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
-        },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
         "status_label": "未开赛"
       },
       {
@@ -11754,7 +11738,7 @@
       }
     },
     "leader": {
-      "team": "Patriotas",
+      "team": "Ind. Valle del Cauca",
       "points": 17,
       "played": 8
     }
@@ -11851,6 +11835,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
+            "team": "Ind. Valle del Cauca",
+            "played": 8,
+            "wins": 5,
+            "draws": 2,
+            "losses": 1,
+            "goals_for": 10,
+            "goals_against": 2,
+            "goal_difference": 8,
+            "points": 17,
+            "form": "WDWWL"
+          },
+          {
+            "position": 2,
             "team": "Patriotas",
             "played": 8,
             "wins": 5,
@@ -11861,20 +11859,6 @@
             "goal_difference": 5,
             "points": 17,
             "form": "WWWLW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
-            "team": "Ind. Valle del Cauca",
-            "played": 7,
-            "wins": 4,
-            "draws": 2,
-            "losses": 1,
-            "goals_for": 8,
-            "goals_against": 2,
-            "goal_difference": 6,
-            "points": 14,
-            "form": "DWWLW"
           },
           {
             "position": 3,
@@ -12527,5 +12511,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/16"
+  "updated_at": "2026/09/17"
 }
