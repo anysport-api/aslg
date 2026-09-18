@@ -178,15 +178,15 @@
         "position": 3,
         "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc",
         "team": "Navbahor Namangan",
-        "played": 21,
-        "wins": 12,
+        "played": 22,
+        "wins": 13,
         "draws": 5,
         "losses": 4,
-        "goals_for": 36,
-        "goals_against": 19,
-        "goal_difference": 17,
-        "points": 41,
-        "form": "WDWWW"
+        "goals_for": 39,
+        "goals_against": 21,
+        "goal_difference": 18,
+        "points": 44,
+        "form": "WWDWW"
       },
       {
         "position": 4,
@@ -262,15 +262,15 @@
         "position": 9,
         "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44",
         "team": "Din. Samarkand",
-        "played": 21,
+        "played": 22,
         "wins": 8,
         "draws": 6,
-        "losses": 7,
-        "goals_for": 31,
-        "goals_against": 31,
-        "goal_difference": 0,
+        "losses": 8,
+        "goals_for": 33,
+        "goals_against": 34,
+        "goal_difference": -1,
         "points": 30,
-        "form": "WDDWD"
+        "form": "LWDDW"
       },
       {
         "position": 10,
@@ -406,16 +406,16 @@
         "position": 3,
         "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc",
         "team": "纳夫巴霍尔·纳曼甘",
-        "played": 21,
-        "wins": 12,
+        "played": 22,
+        "wins": 13,
         "draws": 5,
         "losses": 4,
-        "goals_for": 36,
-        "goals_against": 19,
-        "goal_difference": 17,
-        "points": 41,
-        "form": "WDWWW",
-        "form_label": "胜平胜胜胜"
+        "goals_for": 39,
+        "goals_against": 21,
+        "goal_difference": 18,
+        "points": 44,
+        "form": "WWDWW",
+        "form_label": "胜胜平胜胜"
       },
       {
         "position": 4,
@@ -496,16 +496,16 @@
         "position": 9,
         "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44",
         "team": "撒马尔罕迪纳摩",
-        "played": 21,
+        "played": 22,
         "wins": 8,
         "draws": 6,
-        "losses": 7,
-        "goals_for": 31,
-        "goals_against": 31,
-        "goal_difference": 0,
+        "losses": 8,
+        "goals_for": 33,
+        "goals_against": 34,
+        "goal_difference": -1,
         "points": 30,
-        "form": "WDDWD",
-        "form_label": "胜平平胜平"
+        "form": "LWDDW",
+        "form_label": "负胜平平胜"
       },
       {
         "position": 10,
@@ -2041,7 +2041,7 @@
         "match_id": "as_6c2e9daa54634a1c83a3fab466aa9c97",
         "date": "2026-09-17",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -2053,7 +2053,10 @@
           "name": "撒马尔罕迪纳摩",
           "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
         },
-        "venue": ""
+        "ht_score": "3-2",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a3a1c8cef50543dabecdcd698ff2e4a0",
@@ -6387,41 +6390,6 @@
           "team_id": "ast_f0e12c94dee7454bab9e2b5092ef0291"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_e621afe922d5401aae41b658e4735a54",
-        "date": "2026-09-17",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "home": {
-          "name": "纳夫巴霍尔·纳曼甘",
-          "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc"
-        },
-        "away": {
-          "name": "撒马尔罕迪纳摩",
-          "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6c2e9daa54634a1c83a3fab466aa9c97",
-        "date": "2026-09-17",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "season": "2026",
-        "home": {
-          "name": "纳夫巴霍尔·纳曼甘",
-          "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc"
-        },
-        "away": {
-          "name": "撒马尔罕迪纳摩",
-          "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8305,13 +8273,13 @@
     }
   },
   "stats": {
-    "matches_completed": 168,
-    "total_goals": 445,
-    "avg_goals_per_match": 2.65,
-    "home_wins": 76,
+    "matches_completed": 169,
+    "total_goals": 450,
+    "avg_goals_per_match": 2.66,
+    "home_wins": 77,
     "draws": 36,
     "away_wins": 56,
-    "home_win_pct": 45.2,
+    "home_win_pct": 45.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8464,15 +8432,15 @@
             "position": 3,
             "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc",
             "team": "Navbahor Namangan",
-            "played": 21,
-            "wins": 12,
+            "played": 22,
+            "wins": 13,
             "draws": 5,
             "losses": 4,
-            "goals_for": 36,
-            "goals_against": 19,
-            "goal_difference": 17,
-            "points": 41,
-            "form": "WDWWW"
+            "goals_for": 39,
+            "goals_against": 21,
+            "goal_difference": 18,
+            "points": 44,
+            "form": "WWDWW"
           }
         ],
         "meta": {
@@ -9109,7 +9077,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 43
+    "upcoming_matches": 41
   },
-  "updated_at": "2026/09/17"
+  "updated_at": "2026/09/18"
 }

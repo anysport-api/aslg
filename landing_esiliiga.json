@@ -162,29 +162,29 @@
         "position": 1,
         "team_id": "ast_b040e072fb624d908848954d38c93e12",
         "team": "Tartu Welco",
-        "played": 29,
-        "wins": 18,
+        "played": 30,
+        "wins": 19,
         "draws": 5,
         "losses": 6,
-        "goals_for": 79,
+        "goals_for": 81,
         "goals_against": 39,
-        "goal_difference": 40,
-        "points": 59,
-        "form": "WDDLW"
+        "goal_difference": 42,
+        "points": 62,
+        "form": "WWDDL"
       },
       {
         "position": 2,
         "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6",
         "team": "Viimsi JK",
-        "played": 29,
+        "played": 30,
         "wins": 15,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 56,
-        "goals_against": 29,
-        "goal_difference": 27,
+        "goals_against": 31,
+        "goal_difference": 25,
         "points": 50,
-        "form": "LWLWW"
+        "form": "LLWLW"
       },
       {
         "position": 3,
@@ -304,31 +304,31 @@
         "position": 1,
         "team_id": "ast_b040e072fb624d908848954d38c93e12",
         "team": "塔尔图韦尔科",
-        "played": 29,
-        "wins": 18,
+        "played": 30,
+        "wins": 19,
         "draws": 5,
         "losses": 6,
-        "goals_for": 79,
+        "goals_for": 81,
         "goals_against": 39,
-        "goal_difference": 40,
-        "points": 59,
-        "form": "WDDLW",
-        "form_label": "胜平平负胜"
+        "goal_difference": 42,
+        "points": 62,
+        "form": "WWDDL",
+        "form_label": "胜胜平平负"
       },
       {
         "position": 2,
         "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6",
         "team": "维姆西洛维德",
-        "played": 29,
+        "played": 30,
         "wins": 15,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 56,
-        "goals_against": 29,
-        "goal_difference": 27,
+        "goals_against": 31,
+        "goal_difference": 25,
         "points": 50,
-        "form": "LWLWW",
-        "form_label": "负胜负胜胜"
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 3,
@@ -1145,7 +1145,7 @@
         "match_id": "as_108028bd4ab04d6aa5f3f9b71bf6b96c",
         "date": "2026-09-17",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -1157,7 +1157,10 @@
           "name": "塔尔图韦尔科",
           "team_id": "ast_b040e072fb624d908848954d38c93e12"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c9bbd66512044c0f97ef655226651ca5",
@@ -4775,24 +4778,6 @@
           "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_108028bd4ab04d6aa5f3f9b71bf6b96c",
-        "date": "2026-09-17",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "维姆西洛维德",
-          "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
-        },
-        "away": {
-          "name": "塔尔图韦尔科",
-          "team_id": "ast_b040e072fb624d908848954d38c93e12"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7862,13 +7847,13 @@
     }
   },
   "stats": {
-    "matches_completed": 144,
-    "total_goals": 529,
-    "avg_goals_per_match": 3.67,
+    "matches_completed": 145,
+    "total_goals": 531,
+    "avg_goals_per_match": 3.66,
     "home_wins": 68,
     "draws": 25,
-    "away_wins": 51,
-    "home_win_pct": 47.2,
+    "away_wins": 52,
+    "home_win_pct": 46.9,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7895,8 +7880,8 @@
     },
     "leader": {
       "team": "Tartu Welco",
-      "points": 59,
-      "played": 29
+      "points": 62,
+      "played": 30
     }
   },
   "coverage": {
@@ -7993,29 +7978,29 @@
             "position": 1,
             "team_id": "ast_b040e072fb624d908848954d38c93e12",
             "team": "Tartu Welco",
-            "played": 29,
-            "wins": 18,
+            "played": 30,
+            "wins": 19,
             "draws": 5,
             "losses": 6,
-            "goals_for": 79,
+            "goals_for": 81,
             "goals_against": 39,
-            "goal_difference": 40,
-            "points": 59,
-            "form": "WDDLW"
+            "goal_difference": 42,
+            "points": 62,
+            "form": "WWDDL"
           },
           {
             "position": 2,
             "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6",
             "team": "Viimsi JK",
-            "played": 29,
+            "played": 30,
             "wins": 15,
             "draws": 5,
-            "losses": 9,
+            "losses": 10,
             "goals_for": 56,
-            "goals_against": 29,
-            "goal_difference": 27,
+            "goals_against": 31,
+            "goal_difference": 25,
             "points": 50,
-            "form": "LWLWW"
+            "form": "LLWLW"
           },
           {
             "position": 3,
@@ -8666,7 +8651,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   },
-  "updated_at": "2026/09/17"
+  "updated_at": "2026/09/18"
 }

@@ -156,15 +156,15 @@
         "position": 1,
         "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
         "team": "Crvena zvezda",
-        "played": 8,
-        "wins": 7,
+        "played": 9,
+        "wins": 8,
         "draws": 1,
         "losses": 0,
-        "goals_for": 19,
-        "goals_against": 2,
-        "goal_difference": 17,
-        "points": 22,
-        "form": "WDWWW"
+        "goals_for": 21,
+        "goals_against": 3,
+        "goal_difference": 18,
+        "points": 25,
+        "form": "WWDWW"
       },
       {
         "position": 2,
@@ -254,15 +254,15 @@
         "position": 8,
         "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b",
         "team": "Zeleznicar Pancevo",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 2,
-        "losses": 2,
-        "goals_for": 11,
-        "goals_against": 7,
-        "goal_difference": 4,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 9,
+        "goal_difference": 3,
         "points": 11,
-        "form": "WLWLD"
+        "form": "LWLWL"
       },
       {
         "position": 9,
@@ -354,16 +354,16 @@
         "position": 1,
         "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
         "team": "红星",
-        "played": 8,
-        "wins": 7,
+        "played": 9,
+        "wins": 8,
         "draws": 1,
         "losses": 0,
-        "goals_for": 19,
-        "goals_against": 2,
-        "goal_difference": 17,
-        "points": 22,
-        "form": "WDWWW",
-        "form_label": "胜平胜胜胜"
+        "goals_for": 21,
+        "goals_against": 3,
+        "goal_difference": 18,
+        "points": 25,
+        "form": "WWDWW",
+        "form_label": "胜胜平胜胜"
       },
       {
         "position": 2,
@@ -459,16 +459,16 @@
         "position": 8,
         "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b",
         "team": "泽列兹尼察潘切沃",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 2,
-        "losses": 2,
-        "goals_for": 11,
-        "goals_against": 7,
-        "goal_difference": 4,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 9,
+        "goal_difference": 3,
         "points": 11,
-        "form": "WLWLD",
-        "form_label": "胜负胜负平"
+        "form": "LWLWL",
+        "form_label": "负胜负胜负"
       },
       {
         "position": 9,
@@ -5355,7 +5355,7 @@
         "match_id": "as_280c610238f144d5af647c063984b704",
         "date": "2026-09-17",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -5367,7 +5367,10 @@
           "name": "红星",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_00d4a752492a43c8ab7d1ecece19ec93",
@@ -7352,24 +7355,6 @@
         "away": {
           "name": "泽蒙",
           "team_id": "ast_686dea58c7ab427f8101f43c105e7971"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_280c610238f144d5af647c063984b704",
-        "date": "2026-09-17",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "泽列兹尼察潘切沃",
-          "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b"
-        },
-        "away": {
-          "name": "红星",
-          "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
         },
         "venue": ""
       }
@@ -12488,13 +12473,13 @@
     }
   },
   "stats": {
-    "matches_completed": 60,
-    "total_goals": 148,
-    "avg_goals_per_match": 2.47,
+    "matches_completed": 61,
+    "total_goals": 151,
+    "avg_goals_per_match": 2.48,
     "home_wins": 33,
     "draws": 15,
-    "away_wins": 12,
-    "home_win_pct": 55.0,
+    "away_wins": 13,
+    "home_win_pct": 54.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12521,8 +12506,8 @@
     },
     "leader": {
       "team": "Crvena zvezda",
-      "points": 22,
-      "played": 8
+      "points": 25,
+      "played": 9
     }
   },
   "coverage": {
@@ -12617,15 +12602,15 @@
             "position": 1,
             "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
             "team": "Crvena zvezda",
-            "played": 8,
-            "wins": 7,
+            "played": 9,
+            "wins": 8,
             "draws": 1,
             "losses": 0,
-            "goals_for": 19,
-            "goals_against": 2,
-            "goal_difference": 17,
-            "points": 22,
-            "form": "WDWWW"
+            "goals_for": 21,
+            "goals_against": 3,
+            "goal_difference": 18,
+            "points": 25,
+            "form": "WWDWW"
           },
           {
             "position": 2,
@@ -13296,7 +13281,7 @@
     "teams_all_time": 41,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/09/17"
+  "updated_at": "2026/09/18"
 }

@@ -182,27 +182,27 @@
         "position": 11,
         "team_id": "ast_25235e5f3bfb4a18b2cd23f9d4adc550",
         "team": "Respublika FA",
-        "played": 17,
-        "wins": 4,
+        "played": 18,
+        "wins": 5,
         "draws": 4,
         "losses": 9,
-        "goals_for": 20,
-        "goals_against": 28,
-        "goal_difference": -8,
-        "points": 16,
-        "form": "LWLDL"
+        "goals_for": 22,
+        "goals_against": 29,
+        "goal_difference": -7,
+        "points": 19,
+        "form": "WLWLD"
       },
       {
         "position": 12,
         "team_id": "ast_2f05421f057749debcc5e09461a0337c",
         "team": "BuxDu",
-        "played": 18,
+        "played": 19,
         "wins": 3,
         "draws": 1,
-        "losses": 14,
-        "goals_for": 14,
-        "goals_against": 43,
-        "goal_difference": -29,
+        "losses": 15,
+        "goals_for": 15,
+        "goals_against": 45,
+        "goal_difference": -30,
         "points": 10,
         "form": "LLLLL"
       },
@@ -390,28 +390,28 @@
         "position": 11,
         "team_id": "ast_25235e5f3bfb4a18b2cd23f9d4adc550",
         "team": "共和国足球协会",
-        "played": 17,
-        "wins": 4,
+        "played": 18,
+        "wins": 5,
         "draws": 4,
         "losses": 9,
-        "goals_for": 20,
-        "goals_against": 28,
-        "goal_difference": -8,
-        "points": 16,
-        "form": "LWLDL",
-        "form_label": "负胜负平负"
+        "goals_for": 22,
+        "goals_against": 29,
+        "goal_difference": -7,
+        "points": 19,
+        "form": "WLWLD",
+        "form_label": "胜负胜负平"
       },
       {
         "position": 12,
         "team_id": "ast_2f05421f057749debcc5e09461a0337c",
         "team": "布克斯杜",
-        "played": 18,
+        "played": 19,
         "wins": 3,
         "draws": 1,
-        "losses": 14,
-        "goals_for": 14,
-        "goals_against": 43,
-        "goal_difference": -29,
+        "losses": 15,
+        "goals_for": 15,
+        "goals_against": 45,
+        "goal_difference": -30,
         "points": 10,
         "form": "LLLLL",
         "form_label": "负负负负负"
@@ -1435,7 +1435,7 @@
         "match_id": "as_82853c477a1c4a78b2cbae818bc8db68",
         "date": "2026-09-17",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -1447,7 +1447,10 @@
           "name": "共和国足球协会",
           "team_id": "ast_25235e5f3bfb4a18b2cd23f9d4adc550"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0a9bd9cfc4d547e68c0302b3f7d9c9da",
@@ -5046,24 +5049,6 @@
           "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_82853c477a1c4a78b2cbae818bc8db68",
-        "date": "2026-09-17",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "乌兹别克斯坦职业联赛",
-        "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
-        "season": "2026",
-        "home": {
-          "name": "布克斯杜",
-          "team_id": "ast_2f05421f057749debcc5e09461a0337c"
-        },
-        "away": {
-          "name": "共和国足球协会",
-          "team_id": "ast_25235e5f3bfb4a18b2cd23f9d4adc550"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5450,13 +5435,13 @@
     }
   },
   "stats": {
-    "matches_completed": 131,
-    "total_goals": 364,
+    "matches_completed": 132,
+    "total_goals": 367,
     "avg_goals_per_match": 2.78,
     "home_wins": 58,
     "draws": 24,
-    "away_wins": 49,
-    "home_win_pct": 44.3,
+    "away_wins": 50,
+    "home_win_pct": 43.9,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6253,7 +6238,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 43
+    "upcoming_matches": 42
   },
-  "updated_at": "2026/09/17"
+  "updated_at": "2026/09/18"
 }

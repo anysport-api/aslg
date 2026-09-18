@@ -324,15 +324,15 @@
         "position": 10,
         "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
         "team": "Coquimbo",
-        "played": 22,
+        "played": 23,
         "wins": 8,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 31,
-        "goals_against": 31,
-        "goal_difference": 0,
+        "goals_against": 32,
+        "goal_difference": -1,
         "points": 29,
-        "form": "LLWLD"
+        "form": "LLLWL"
       },
       {
         "position": 11,
@@ -350,6 +350,20 @@
       },
       {
         "position": 12,
+        "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+        "team": "Huachipato",
+        "played": 22,
+        "wins": 8,
+        "draws": 4,
+        "losses": 10,
+        "goals_for": 30,
+        "goals_against": 39,
+        "goal_difference": -9,
+        "points": 28,
+        "form": "WDLLL"
+      },
+      {
+        "position": 13,
         "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
         "team": "O'Higgins",
         "played": 23,
@@ -361,20 +375,6 @@
         "goal_difference": -8,
         "points": 27,
         "form": "LWLLD"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-        "team": "Huachipato",
-        "played": 21,
-        "wins": 7,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 29,
-        "goals_against": 39,
-        "goal_difference": -10,
-        "points": 25,
-        "form": "DLLLL"
       },
       {
         "position": 14,
@@ -559,16 +559,16 @@
         "position": 10,
         "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
         "team": "科基姆博",
-        "played": 22,
+        "played": 23,
         "wins": 8,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 31,
-        "goals_against": 31,
-        "goal_difference": 0,
+        "goals_against": 32,
+        "goal_difference": -1,
         "points": 29,
-        "form": "LLWLD",
-        "form_label": "负负胜负平"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 11,
@@ -587,6 +587,21 @@
       },
       {
         "position": 12,
+        "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+        "team": "瓦奇帕托",
+        "played": 22,
+        "wins": 8,
+        "draws": 4,
+        "losses": 10,
+        "goals_for": 30,
+        "goals_against": 39,
+        "goal_difference": -9,
+        "points": 28,
+        "form": "WDLLL",
+        "form_label": "胜平负负负"
+      },
+      {
+        "position": 13,
         "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
         "team": "奥希金斯",
         "played": 23,
@@ -599,21 +614,6 @@
         "points": 27,
         "form": "LWLLD",
         "form_label": "负胜负负平"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-        "team": "瓦奇帕托",
-        "played": 21,
-        "wins": 7,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 29,
-        "goals_against": 39,
-        "goal_difference": -10,
-        "points": 25,
-        "form": "DLLLL",
-        "form_label": "平负负负负"
       },
       {
         "position": 14,
@@ -4226,6 +4226,27 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_814d33feb76548b78aae14ea9a61e102",
+        "date": "2026-09-16",
+        "time": "21:00",
+        "status": "FT",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "科基姆博",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1"
+        },
+        "away": {
+          "name": "瓦奇帕托",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "拉西斯terna市政体育场",
+        "status_label": "完场"
+      },
+      {
         "match_id": "as_b6bdb2c36bc94bb8aa719b58098b99a7",
         "date": "2026-09-14",
         "time": "23:30",
@@ -4264,7 +4285,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Estadio Bicentenario de La Florida",
         "status_label": "完场"
       },
       {
@@ -4602,27 +4623,6 @@
         "reg_score": "3-2",
         "venue": "Claro Arena",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_814d33feb76548b78aae14ea9a61e102",
-        "date": "2026-08-31",
-        "time": "00:00",
-        "status": "Abandoned",
-        "league": "智利甲级联赛",
-        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
-        "season": "2026",
-        "home": {
-          "name": "科基姆博",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1"
-        },
-        "away": {
-          "name": "瓦奇帕托",
-          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-1",
-        "venue": "",
-        "status_label": "中断废弃"
       },
       {
         "match_id": "as_abb9672b1fd947c8b3b4684efa6cf8b2",
@@ -8070,6 +8070,166 @@
       }
     ],
     "upcoming": [
+      {
+        "match_id": "as_ba9d568914b44cd69a9fac359d61e34d",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "天主教大学",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3"
+        },
+        "away": {
+          "name": "智利大学",
+          "team_id": "ast_c71badc0640749c381ab85a383b03d6c"
+        },
+        "ht_score": "-",
+        "venue": "Claro Arena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e16ffd77b8354efab09df8dc50cf9324",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "奥希金斯",
+          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc"
+        },
+        "away": {
+          "name": "努布伦斯",
+          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41"
+        },
+        "ht_score": "-",
+        "venue": "特尼恩特球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_40967104c4a44d379b4512a144720441",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "利马切",
+          "team_id": "ast_145d02521b5145eb83e70e1f0db28647"
+        },
+        "away": {
+          "name": "A. 意大利人",
+          "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Gustavo Ocaranza",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7baeb993f84e4c40b5c9da1fa8e76ee2",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "瓦奇帕托",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf"
+        },
+        "away": {
+          "name": "拉塞雷纳",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Huachipato-CAP Acero",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_dbe8267f17e642b3906cdcafb4e9f5ba",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "康塞普西翁体育",
+          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420"
+        },
+        "away": {
+          "name": "巴勒斯坦人",
+          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Ester Roa",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_00f9b5358c8b41cfac58334e8766929b",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "科基姆博",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1"
+        },
+        "away": {
+          "name": "拉卡莱拉联合",
+          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e4e1f54b294e44b9a0b5bf7c482b35a0",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "科洛科洛",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521"
+        },
+        "away": {
+          "name": "康塞普西翁大学",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61"
+        },
+        "ht_score": "-",
+        "venue": "大卫·阿雷利亚诺纪念体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_74efd32bf99f4876be9597104f6073f9",
+        "date": "2026-11-01",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "智利甲级联赛",
+        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
+        "season": "2026",
+        "home": {
+          "name": "科布雷萨尔",
+          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111"
+        },
+        "away": {
+          "name": "埃弗顿",
+          "team_id": "ast_167bb740c70148be9a7093267d16a92e"
+        },
+        "ht_score": "-",
+        "venue": "Estadio El Cobre de El Salvador",
+        "status_label": "未开赛"
+      },
       {
         "match_id": "as_1f0b58e344d9495e9e55b555ff138692",
         "date": "2026-10-25",
@@ -14923,7 +15083,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 17
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/09/16"
+  "updated_at": "2026/09/18"
 }

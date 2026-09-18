@@ -5618,7 +5618,25 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_babc76b941d34b609ce1f9c920849031",
+        "date": "2026-09-18",
+        "time": "15:30",
+        "status": "15:30",
+        "league": "布基纳法索甲级联赛",
+        "league_id": "asl_024acb3a4dee4437a823f23a458b728b",
+        "home": {
+          "name": "索纳贝尔瓦加杜古",
+          "team_id": "ast_d40ea2841dda47af982eb520d73cb264"
+        },
+        "away": {
+          "name": "宏伟",
+          "team_id": "ast_228a72d7401848d6b7e3a8917509a4ab"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -7419,7 +7437,7 @@
       "zh": "瀑布竞技"
     },
     "ast_9fc0ec316adf4fe389b4c4cf09bfdb17": {
-      "en": "Douanes",
+      "en": "AS Douanes",
       "zh": "海关AS"
     },
     "ast_228a72d7401848d6b7e3a8917509a4ab": {
@@ -7435,11 +7453,11 @@
       "zh": "萨利塔斯"
     },
     "ast_c584ee35d75a4a0ab8f7112753848a1c": {
-      "en": "RCK",
+      "en": "Kadiogo",
       "zh": "卡迪奥戈"
     },
     "ast_78f544c77a3d4502b02cde929a129344": {
-      "en": "ASFA-Yennenga",
+      "en": "ASFA Yennega",
       "zh": "耶内加ASFA"
     },
     "ast_f5238da93285452cac7402331ba5dd43": {
@@ -7447,15 +7465,15 @@
       "zh": "维特斯"
     },
     "ast_5911b041553845bc84586830610d3fdf": {
-      "en": "Real du Faso",
+      "en": "RDF",
       "zh": "RDF"
     },
     "ast_4af9fb5193a0486e82b046c70176e307": {
-      "en": "ASFB",
+      "en": "ASF Dioulasso",
       "zh": "迪乌拉索ASF"
     },
     "ast_d40ea2841dda47af982eb520d73cb264": {
-      "en": "SONABEL",
+      "en": "Sonabel Ouagadougou",
       "zh": "索纳贝尔瓦加杜古"
     },
     "ast_b78e2daf415d4992bcc7a09ab3425d48": {
@@ -7463,7 +7481,7 @@
       "zh": "流星星队"
     },
     "ast_06e17ca511db4902bb4eb7692b0da3c5": {
-      "en": "RC Bobo-Dioulasso",
+      "en": "Bobo-Dioulasso",
       "zh": "博博-迪乌拉索"
     },
     "ast_3106f508bbee415f9dfa287e1ccd3477": {
@@ -8272,6 +8290,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 0
-  }
+    "upcoming_matches": 1
+  },
+  "updated_at": "2026/09/18"
 }
