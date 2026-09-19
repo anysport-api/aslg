@@ -216,15 +216,15 @@
         "position": 1,
         "team_id": "ast_beb2b09557624dd092d1e5a5a8702216",
         "team": "Puskas Academy",
-        "played": 7,
-        "wins": 4,
+        "played": 8,
+        "wins": 5,
         "draws": 0,
         "losses": 3,
-        "goals_for": 10,
-        "goals_against": 9,
-        "goal_difference": 1,
-        "points": 12,
-        "form": "LLWWW"
+        "goals_for": 13,
+        "goals_against": 10,
+        "goal_difference": 3,
+        "points": 15,
+        "form": "WLLWW"
       },
       {
         "position": 2,
@@ -370,15 +370,15 @@
         "position": 12,
         "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9",
         "team": "Honved",
-        "played": 6,
+        "played": 7,
         "wins": 1,
         "draws": 3,
-        "losses": 2,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
+        "losses": 3,
+        "goals_for": 11,
+        "goals_against": 14,
+        "goal_difference": -3,
         "points": 6,
-        "form": "LWLDD"
+        "form": "LLWLD"
       }
     ],
     "zh": [
@@ -386,16 +386,16 @@
         "position": 1,
         "team_id": "ast_beb2b09557624dd092d1e5a5a8702216",
         "team": "普斯卡什学院",
-        "played": 7,
-        "wins": 4,
+        "played": 8,
+        "wins": 5,
         "draws": 0,
         "losses": 3,
-        "goals_for": 10,
-        "goals_against": 9,
-        "goal_difference": 1,
-        "points": 12,
-        "form": "LLWWW",
-        "form_label": "负负胜胜胜"
+        "goals_for": 13,
+        "goals_against": 10,
+        "goal_difference": 3,
+        "points": 15,
+        "form": "WLLWW",
+        "form_label": "胜负负胜胜"
       },
       {
         "position": 2,
@@ -551,16 +551,16 @@
         "position": 12,
         "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9",
         "team": "霍恩维德",
-        "played": 6,
+        "played": 7,
         "wins": 1,
         "draws": 3,
-        "losses": 2,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
+        "losses": 3,
+        "goals_for": 11,
+        "goals_against": 14,
+        "goal_difference": -3,
         "points": 6,
-        "form": "LWLDD",
-        "form_label": "负胜负平平"
+        "form": "LLWLD",
+        "form_label": "负负胜负平"
       }
     ]
   },
@@ -3695,7 +3695,7 @@
         "match_id": "as_504bfd7ce4d94aa3837ab8723915078d",
         "date": "2026-09-18",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "匈牙利甲级联赛",
         "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
         "season": "2026/2027",
@@ -3707,7 +3707,10 @@
           "name": "霍恩维德",
           "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_660b1ee372bb4da59603aee8ce14bcff",
@@ -5139,24 +5142,6 @@
         "away": {
           "name": "瓦萨什",
           "team_id": "ast_26649f0f41334847bfb2d4559458cc0a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_504bfd7ce4d94aa3837ab8723915078d",
-        "date": "2026-09-18",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "匈牙利甲级联赛",
-        "league_id": "asl_658d8e45c3ac485db250b9ca1214b3dd",
-        "season": "2026/2027",
-        "home": {
-          "name": "普斯卡什学院",
-          "team_id": "ast_beb2b09557624dd092d1e5a5a8702216"
-        },
-        "away": {
-          "name": "霍恩维德",
-          "team_id": "ast_486ffa5d912a4b7181320eb5ad8c29e9"
         },
         "venue": ""
       }
@@ -10252,13 +10237,13 @@
     }
   },
   "stats": {
-    "matches_completed": 41,
-    "total_goals": 134,
-    "avg_goals_per_match": 3.27,
-    "home_wins": 18,
+    "matches_completed": 42,
+    "total_goals": 138,
+    "avg_goals_per_match": 3.29,
+    "home_wins": 19,
     "draws": 12,
     "away_wins": 11,
-    "home_win_pct": 43.9,
+    "home_win_pct": 45.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10285,8 +10270,8 @@
     },
     "leader": {
       "team": "Puskas Academy",
-      "points": 12,
-      "played": 7
+      "points": 15,
+      "played": 8
     }
   },
   "coverage": {
@@ -10383,15 +10368,15 @@
             "position": 1,
             "team_id": "ast_beb2b09557624dd092d1e5a5a8702216",
             "team": "Puskas Academy",
-            "played": 7,
-            "wins": 4,
+            "played": 8,
+            "wins": 5,
             "draws": 0,
             "losses": 3,
-            "goals_for": 10,
-            "goals_against": 9,
-            "goal_difference": 1,
-            "points": 12,
-            "form": "LLWWW"
+            "goals_for": 13,
+            "goals_against": 10,
+            "goal_difference": 3,
+            "points": 15,
+            "form": "WLLWW"
           },
           {
             "position": 2,
@@ -11056,7 +11041,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 12,
     "matches_current_season": 198,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }

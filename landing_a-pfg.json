@@ -270,15 +270,15 @@
         "position": 4,
         "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92",
         "team": "CSKA 1948 Sofia",
-        "played": 9,
-        "wins": 6,
+        "played": 10,
+        "wins": 7,
         "draws": 1,
         "losses": 2,
-        "goals_for": 17,
-        "goals_against": 9,
-        "goal_difference": 8,
-        "points": 19,
-        "form": "WLWLW"
+        "goals_for": 19,
+        "goals_against": 10,
+        "goal_difference": 9,
+        "points": 22,
+        "form": "WWLWL"
       },
       {
         "position": 5,
@@ -312,15 +312,15 @@
         "position": 7,
         "team_id": "ast_941aa3f357384142a24b55e499150344",
         "team": "Slavia Sofia",
-        "played": 9,
+        "played": 10,
         "wins": 2,
         "draws": 5,
-        "losses": 2,
-        "goals_for": 8,
-        "goals_against": 6,
-        "goal_difference": 2,
+        "losses": 3,
+        "goals_for": 9,
+        "goals_against": 8,
+        "goal_difference": 1,
         "points": 11,
-        "form": "DWLDD"
+        "form": "LDWLD"
       },
       {
         "position": 8,
@@ -471,16 +471,16 @@
         "position": 4,
         "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92",
         "team": "索非亚CSKA 1948",
-        "played": 9,
-        "wins": 6,
+        "played": 10,
+        "wins": 7,
         "draws": 1,
         "losses": 2,
-        "goals_for": 17,
-        "goals_against": 9,
-        "goal_difference": 8,
-        "points": 19,
-        "form": "WLWLW",
-        "form_label": "胜负胜负胜"
+        "goals_for": 19,
+        "goals_against": 10,
+        "goal_difference": 9,
+        "points": 22,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
       },
       {
         "position": 5,
@@ -516,16 +516,16 @@
         "position": 7,
         "team_id": "ast_941aa3f357384142a24b55e499150344",
         "team": "索非亚斯拉维亚",
-        "played": 9,
+        "played": 10,
         "wins": 2,
         "draws": 5,
-        "losses": 2,
-        "goals_for": 8,
-        "goals_against": 6,
-        "goal_difference": 2,
+        "losses": 3,
+        "goals_for": 9,
+        "goals_against": 8,
+        "goal_difference": 1,
         "points": 11,
-        "form": "DWLDD",
-        "form_label": "平胜负平平"
+        "form": "LDWLD",
+        "form_label": "负平胜负平"
       },
       {
         "position": 8,
@@ -3004,7 +3004,7 @@
         "match_id": "as_73f6503915f84744923dbfc8a53ace71",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -3016,7 +3016,10 @@
           "name": "索非亚CSKA 1948",
           "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_38f0a937ae02412fa5edad851524d8c7",
@@ -3036,7 +3039,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "火车头体育场",
         "status_label": "完场"
       },
       {
@@ -4869,24 +4872,6 @@
         "away": {
           "name": "切尔诺莫雷",
           "team_id": "ast_8fd5c3a8059a4ae685c2d2d84f5d2906"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_73f6503915f84744923dbfc8a53ace71",
-        "date": "2026-09-18",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "保加利亚甲级联赛",
-        "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
-        "season": "2026/2027",
-        "home": {
-          "name": "索非亚斯拉维亚",
-          "team_id": "ast_941aa3f357384142a24b55e499150344"
-        },
-        "away": {
-          "name": "索非亚CSKA 1948",
-          "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92"
         },
         "venue": ""
       }
@@ -10304,13 +10289,13 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
-    "total_goals": 169,
-    "avg_goals_per_match": 2.68,
+    "matches_completed": 64,
+    "total_goals": 172,
+    "avg_goals_per_match": 2.69,
     "home_wins": 31,
     "draws": 14,
-    "away_wins": 18,
-    "home_win_pct": 49.2,
+    "away_wins": 19,
+    "home_win_pct": 48.4,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -11108,7 +11093,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 28
+    "upcoming_matches": 27
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }

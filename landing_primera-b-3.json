@@ -163,15 +163,15 @@
       {
         "position": 2,
         "team": "Patriotas",
-        "played": 8,
+        "played": 9,
         "wins": 5,
         "draws": 2,
-        "losses": 1,
-        "goals_for": 15,
-        "goals_against": 10,
-        "goal_difference": 5,
+        "losses": 2,
+        "goals_for": 16,
+        "goals_against": 12,
+        "goal_difference": 4,
         "points": 17,
-        "form": "WWWLW"
+        "form": "LWWWL"
       },
       {
         "position": 3,
@@ -343,6 +343,20 @@
       },
       {
         "position": 15,
+        "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
+        "team": "U. Magdalena",
+        "played": 8,
+        "wins": 2,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 9,
+        "goal_difference": -4,
+        "points": 7,
+        "form": "WLLWL"
+      },
+      {
+        "position": 16,
         "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
         "team": "Envigado",
         "played": 7,
@@ -354,20 +368,6 @@
         "goal_difference": -2,
         "points": 6,
         "form": "DDLLL"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
-        "team": "U. Magdalena",
-        "played": 7,
-        "wins": 1,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 3,
-        "goals_against": 8,
-        "goal_difference": -5,
-        "points": 4,
-        "form": "LLWLL"
       }
     ],
     "zh": [
@@ -389,16 +389,16 @@
       {
         "position": 2,
         "team": "阿帕雷西达",
-        "played": 8,
+        "played": 9,
         "wins": 5,
         "draws": 2,
-        "losses": 1,
-        "goals_for": 15,
-        "goals_against": 10,
-        "goal_difference": 5,
+        "losses": 2,
+        "goals_for": 16,
+        "goals_against": 12,
+        "goal_difference": 4,
         "points": 17,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
+        "form": "LWWWL",
+        "form_label": "负胜胜胜负"
       },
       {
         "position": 3,
@@ -582,6 +582,21 @@
       },
       {
         "position": 15,
+        "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
+        "team": "马格达莱纳大学",
+        "played": 8,
+        "wins": 2,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 9,
+        "goal_difference": -4,
+        "points": 7,
+        "form": "WLLWL",
+        "form_label": "胜负负胜负"
+      },
+      {
+        "position": 16,
         "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
         "team": "恩维加多",
         "played": 7,
@@ -594,21 +609,6 @@
         "points": 6,
         "form": "DDLLL",
         "form_label": "平平负负负"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
-        "team": "马格达莱纳大学",
-        "played": 7,
-        "wins": 1,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 3,
-        "goals_against": 8,
-        "goal_difference": -5,
-        "points": 4,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
       }
     ]
   },
@@ -1593,7 +1593,7 @@
         "match_id": "as_712b10a846fe4b4d8168d42f015c9eb3",
         "date": "2026-09-26",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1605,15 +1605,13 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_860305fb61114f5fbad9e6d740775c58",
         "date": "2026-09-26",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1625,9 +1623,7 @@
           "name": "皇家桑坦德",
           "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
         },
-        "ht_score": "-",
-        "venue": "特乔大都会体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_81284dad91d14d6480a6f905f558ab31",
@@ -1759,7 +1755,7 @@
         "match_id": "as_a83a3a4ce1ae4ff999263b3b67154a93",
         "date": "2026-09-18",
         "time": "23:05",
-        "status": "23:05",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1771,7 +1767,10 @@
           "name": "马格达莱纳大学",
           "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_878d4e36bc0f4284baece341c8917ea0",
@@ -7107,7 +7106,7 @@
         "match_id": "as_860305fb61114f5fbad9e6d740775c58",
         "date": "2026-09-26",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -7119,15 +7118,13 @@
           "name": "皇家桑坦德",
           "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
         },
-        "ht_score": "-",
-        "venue": "特乔大都会体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_712b10a846fe4b4d8168d42f015c9eb3",
         "date": "2026-09-26",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -7139,9 +7136,7 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -11706,13 +11701,13 @@
     }
   },
   "stats": {
-    "matches_completed": 208,
-    "total_goals": 457,
+    "matches_completed": 209,
+    "total_goals": 460,
     "avg_goals_per_match": 2.2,
     "home_wins": 78,
     "draws": 64,
-    "away_wins": 66,
-    "home_win_pct": 37.5,
+    "away_wins": 67,
+    "home_win_pct": 37.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11850,15 +11845,15 @@
           {
             "position": 2,
             "team": "Patriotas",
-            "played": 8,
+            "played": 9,
             "wins": 5,
             "draws": 2,
-            "losses": 1,
-            "goals_for": 15,
-            "goals_against": 10,
-            "goal_difference": 5,
+            "losses": 2,
+            "goals_for": 16,
+            "goals_against": 12,
+            "goal_difference": 4,
             "points": 17,
-            "form": "WWWLW"
+            "form": "LWWWL"
           },
           {
             "position": 3,
@@ -12511,5 +12506,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }

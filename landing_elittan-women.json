@@ -70,6 +70,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
+        "team": "Linkoping W",
+        "played": 19,
+        "wins": 13,
+        "draws": 3,
+        "losses": 3,
+        "goals_for": 38,
+        "goals_against": 24,
+        "goal_difference": 14,
+        "points": 42,
+        "form": "WLWLW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
         "team": "Goteborg W",
         "played": 18,
@@ -83,7 +97,7 @@
         "form": "DWWWW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
         "team": "Elfsborg W",
         "played": 18,
@@ -95,20 +109,6 @@
         "goal_difference": 26,
         "points": 41,
         "form": "WDWLW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
-        "team": "Linkoping W",
-        "played": 18,
-        "wins": 12,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 36,
-        "goals_against": 23,
-        "goal_difference": 13,
-        "points": 39,
-        "form": "LWLWW"
       },
       {
         "position": 4,
@@ -156,15 +156,15 @@
         "position": 7,
         "team_id": "ast_c7d24b7064854e6a9bdcd347ffd60707",
         "team": "Husqvarna W",
-        "played": 18,
+        "played": 19,
         "wins": 7,
         "draws": 4,
-        "losses": 7,
-        "goals_for": 26,
-        "goals_against": 28,
-        "goal_difference": -2,
+        "losses": 8,
+        "goals_for": 27,
+        "goals_against": 30,
+        "goal_difference": -3,
         "points": 25,
-        "form": "WLWWW"
+        "form": "LWLWW"
       },
       {
         "position": 8,
@@ -268,6 +268,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
+        "team": "林雪平女足",
+        "played": 19,
+        "wins": 13,
+        "draws": 3,
+        "losses": 3,
+        "goals_for": 38,
+        "goals_against": 24,
+        "goal_difference": 14,
+        "points": 42,
+        "form": "WLWLW",
+        "form_label": "胜负胜负胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
         "team": "哥德堡女足",
         "played": 18,
@@ -282,7 +297,7 @@
         "form_label": "平胜胜胜胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
         "team": "埃尔夫斯堡女足",
         "played": 18,
@@ -295,21 +310,6 @@
         "points": 41,
         "form": "WDWLW",
         "form_label": "胜平胜负胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
-        "team": "林雪平女足",
-        "played": 18,
-        "wins": 12,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 36,
-        "goals_against": 23,
-        "goal_difference": 13,
-        "points": 39,
-        "form": "LWLWW",
-        "form_label": "负胜负胜胜"
       },
       {
         "position": 4,
@@ -360,16 +360,16 @@
         "position": 7,
         "team_id": "ast_c7d24b7064854e6a9bdcd347ffd60707",
         "team": "胡斯克瓦尔纳女队",
-        "played": 18,
+        "played": 19,
         "wins": 7,
         "draws": 4,
-        "losses": 7,
-        "goals_for": 26,
-        "goals_against": 28,
-        "goal_difference": -2,
+        "losses": 8,
+        "goals_for": 27,
+        "goals_against": 30,
+        "goal_difference": -3,
         "points": 25,
-        "form": "WLWWW",
-        "form_label": "胜负胜胜胜"
+        "form": "LWLWW",
+        "form_label": "负胜负胜胜"
       },
       {
         "position": 8,
@@ -1339,7 +1339,7 @@
         "match_id": "as_6736452e01bd497789cffcd57e280ef5",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1351,15 +1351,13 @@
           "name": "特雷勒堡女足",
           "team_id": "ast_b440608db11f43e7ba3294248d881446"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7e40f1427db743bbbc5ce1d90c4b1709",
         "date": "2026-09-26",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1371,15 +1369,13 @@
           "name": "埃尔夫斯堡女足",
           "team_id": "ast_2114baf6efdb406eb620b7be618821e9"
         },
-        "ht_score": "-",
-        "venue": "老乌利维球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_91a7567e048247e7878483438ac142a2",
         "date": "2026-09-26",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1391,15 +1387,13 @@
           "name": "吉特克斯女队",
           "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7119837f61d3449a848b7706caee0275",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1411,15 +1405,13 @@
           "name": "古姆拉乌普萨拉女足",
           "team_id": "ast_b4b4ffb4333447caac2ed33683497d82"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d79e863179414fecb2f50d59e459020b",
         "date": "2026-09-26",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1431,15 +1423,13 @@
           "name": "乌梅亚女足",
           "team_id": "ast_deaf6372cca141d5b2cb5a904e014043"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4d25d109245649bc99652582ee3419b1",
         "date": "2026-09-26",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1451,9 +1441,7 @@
           "name": "KIF厄勒布鲁女足",
           "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2566a5ed8d0b4a79ad09fca7bbef9d5a",
@@ -1585,7 +1573,7 @@
         "match_id": "as_d4a939a242c04111a2d709d3bba84863",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1597,7 +1585,10 @@
           "name": "胡斯克瓦尔纳女队",
           "team_id": "ast_c7d24b7064854e6a9bdcd347ffd60707"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5b4ebde913094f5185d6149f7cd002de",
@@ -4811,7 +4802,7 @@
         "match_id": "as_4d25d109245649bc99652582ee3419b1",
         "date": "2026-09-26",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4823,15 +4814,13 @@
           "name": "KIF厄勒布鲁女足",
           "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d79e863179414fecb2f50d59e459020b",
         "date": "2026-09-26",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4843,15 +4832,13 @@
           "name": "乌梅亚女足",
           "team_id": "ast_deaf6372cca141d5b2cb5a904e014043"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7119837f61d3449a848b7706caee0275",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4863,15 +4850,13 @@
           "name": "古姆拉乌普萨拉女足",
           "team_id": "ast_b4b4ffb4333447caac2ed33683497d82"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_91a7567e048247e7878483438ac142a2",
         "date": "2026-09-26",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4883,15 +4868,13 @@
           "name": "吉特克斯女队",
           "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7e40f1427db743bbbc5ce1d90c4b1709",
         "date": "2026-09-26",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4903,15 +4886,13 @@
           "name": "埃尔夫斯堡女足",
           "team_id": "ast_2114baf6efdb406eb620b7be618821e9"
         },
-        "ht_score": "-",
-        "venue": "老乌利维球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6736452e01bd497789cffcd57e280ef5",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4923,9 +4904,7 @@
           "name": "特雷勒堡女足",
           "team_id": "ast_b440608db11f43e7ba3294248d881446"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2566a5ed8d0b4a79ad09fca7bbef9d5a",
@@ -5050,24 +5029,6 @@
         "away": {
           "name": "Sandviken W",
           "team_id": "ast_40919db637ac4b5b974786bd9a057a7e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d4a939a242c04111a2d709d3bba84863",
-        "date": "2026-09-18",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "林雪平女足",
-          "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed"
-        },
-        "away": {
-          "name": "胡斯克瓦尔纳女队",
-          "team_id": "ast_c7d24b7064854e6a9bdcd347ffd60707"
         },
         "venue": ""
       }
@@ -6534,13 +6495,13 @@
     }
   },
   "stats": {
-    "matches_completed": 126,
-    "total_goals": 372,
+    "matches_completed": 127,
+    "total_goals": 375,
     "avg_goals_per_match": 2.95,
-    "home_wins": 45,
+    "home_wins": 46,
     "draws": 29,
     "away_wins": 52,
-    "home_win_pct": 35.7,
+    "home_win_pct": 36.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6566,9 +6527,9 @@
       }
     },
     "leader": {
-      "team": "Goteborg W",
-      "points": 41,
-      "played": 18
+      "team": "Linkoping W",
+      "points": 42,
+      "played": 19
     }
   },
   "coverage": {
@@ -6663,6 +6624,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
+            "team": "Linkoping W",
+            "played": 19,
+            "wins": 13,
+            "draws": 3,
+            "losses": 3,
+            "goals_for": 38,
+            "goals_against": 24,
+            "goal_difference": 14,
+            "points": 42,
+            "form": "WLWLW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
             "team": "Goteborg W",
             "played": 18,
@@ -6676,7 +6651,7 @@
             "form": "DWWWW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
             "team": "Elfsborg W",
             "played": 18,
@@ -6688,20 +6663,6 @@
             "goal_difference": 26,
             "points": 41,
             "form": "WDWLW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
-            "team": "Linkoping W",
-            "played": 18,
-            "wins": 12,
-            "draws": 3,
-            "losses": 3,
-            "goals_for": 36,
-            "goals_against": 23,
-            "goal_difference": 13,
-            "points": 39,
-            "form": "LWLWW"
           }
         ],
         "meta": {
@@ -7338,7 +7299,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 42
+    "upcoming_matches": 41
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }

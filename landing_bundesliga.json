@@ -1,7 +1,7 @@
 {
   "slug": "bundesliga",
   "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-  "updated_at": "2026/09/18",
+  "updated_at": "2026/09/19",
   "meta": {
     "name": {
       "en": "Bundesliga",
@@ -251,6 +251,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_d23bd65c075e43908bc45b934484863a",
+        "team": "SK Rapid",
+        "played": 7,
+        "wins": 6,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 21,
+        "goals_against": 7,
+        "goal_difference": 14,
+        "points": 18,
+        "form": "WWLWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
         "team": "LASK",
         "played": 6,
@@ -262,20 +276,6 @@
         "goal_difference": 12,
         "points": 15,
         "form": "LWWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_d23bd65c075e43908bc45b934484863a",
-        "team": "SK Rapid",
-        "played": 6,
-        "wins": 5,
-        "draws": 0,
-        "losses": 1,
-        "goals_for": 18,
-        "goals_against": 7,
-        "goal_difference": 11,
-        "points": 15,
-        "form": "WLWWW"
       },
       {
         "position": 3,
@@ -309,15 +309,15 @@
         "position": 5,
         "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
         "team": "Tirol",
-        "played": 6,
+        "played": 7,
         "wins": 2,
         "draws": 2,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 9,
-        "goals_against": 9,
-        "goal_difference": 0,
+        "goals_against": 12,
+        "goal_difference": -3,
         "points": 8,
-        "form": "DWWLL"
+        "form": "LDWWL"
       },
       {
         "position": 6,
@@ -421,6 +421,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_d23bd65c075e43908bc45b934484863a",
+        "team": "SK快速",
+        "played": 7,
+        "wins": 6,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 21,
+        "goals_against": 7,
+        "goal_difference": 14,
+        "points": 18,
+        "form": "WWLWW",
+        "form_label": "胜胜负胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
         "team": "林茨体育",
         "played": 6,
@@ -433,21 +448,6 @@
         "points": 15,
         "form": "LWWWW",
         "form_label": "负胜胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_d23bd65c075e43908bc45b934484863a",
-        "team": "SK快速",
-        "played": 6,
-        "wins": 5,
-        "draws": 0,
-        "losses": 1,
-        "goals_for": 18,
-        "goals_against": 7,
-        "goal_difference": 11,
-        "points": 15,
-        "form": "WLWWW",
-        "form_label": "胜负胜胜胜"
       },
       {
         "position": 3,
@@ -483,16 +483,16 @@
         "position": 5,
         "team_id": "ast_ba4a753944ab49ad95fe49de014befbf",
         "team": "蒂罗尔",
-        "played": 6,
+        "played": 7,
         "wins": 2,
         "draws": 2,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 9,
-        "goals_against": 9,
-        "goal_difference": 0,
+        "goals_against": 12,
+        "goal_difference": -3,
         "points": 8,
-        "form": "DWWLL",
-        "form_label": "平胜胜负负"
+        "form": "LDWWL",
+        "form_label": "负平胜胜负"
       },
       {
         "position": 6,
@@ -4732,7 +4732,7 @@
         "match_id": "as_b2ab98d2b3884e06997dbea50ac09d72",
         "date": "2026-09-20",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4744,15 +4744,13 @@
           "name": "林茨体育",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d"
         },
-        "ht_score": "-",
-        "venue": "Stadion Hartberg",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_810b5ddca49548e1b245a43e7ee04b72",
         "date": "2026-09-20",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4764,15 +4762,13 @@
           "name": "沃尔夫斯贝格",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
         },
-        "ht_score": "-",
-        "venue": "Innviertel Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_526754eaa5124786ad86a59d38762e7f",
         "date": "2026-09-20",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4784,9 +4780,7 @@
           "name": "格拉茨风暴",
           "team_id": "ast_fe11ba7f4fdf422caeb35a56fe176e1a"
         },
-        "ht_score": "-",
-        "venue": "红牛竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_746be914cdc240f780fe20821e5e8274",
@@ -4828,7 +4822,7 @@
         "match_id": "as_f78149cc6eb34c06a48830b666bcef6d",
         "date": "2026-09-18",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -4840,7 +4834,10 @@
           "name": "蒂罗尔",
           "team_id": "ast_ba4a753944ab49ad95fe49de014befbf"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ea2f4809a0d541c0b88f0ab0a8acfbe1",
@@ -6084,7 +6081,7 @@
         "match_id": "as_526754eaa5124786ad86a59d38762e7f",
         "date": "2026-09-20",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -6096,15 +6093,13 @@
           "name": "格拉茨风暴",
           "team_id": "ast_fe11ba7f4fdf422caeb35a56fe176e1a"
         },
-        "ht_score": "-",
-        "venue": "红牛竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_810b5ddca49548e1b245a43e7ee04b72",
         "date": "2026-09-20",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -6116,15 +6111,13 @@
           "name": "沃尔夫斯贝格",
           "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
         },
-        "ht_score": "-",
-        "venue": "Innviertel Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b2ab98d2b3884e06997dbea50ac09d72",
         "date": "2026-09-20",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "奥地利超级联赛",
         "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
         "season": "2026/2027",
@@ -6136,9 +6129,7 @@
           "name": "林茨体育",
           "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d"
         },
-        "ht_score": "-",
-        "venue": "Stadion Hartberg",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_81503d8376e44ab19902a7f6ec2503a5",
@@ -6173,24 +6164,6 @@
         "away": {
           "name": "阿尔塔赫",
           "team_id": "ast_27beabc9d6c5439ab13f5871bdef7fb3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f78149cc6eb34c06a48830b666bcef6d",
-        "date": "2026-09-18",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "奥地利超级联赛",
-        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-        "season": "2026/2027",
-        "home": {
-          "name": "SK快速",
-          "team_id": "ast_d23bd65c075e43908bc45b934484863a"
-        },
-        "away": {
-          "name": "蒂罗尔",
-          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf"
         },
         "venue": ""
       }
@@ -10060,13 +10033,13 @@
     }
   },
   "stats": {
-    "matches_completed": 36,
-    "total_goals": 106,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 18,
+    "matches_completed": 37,
+    "total_goals": 109,
+    "avg_goals_per_match": 2.95,
+    "home_wins": 19,
     "draws": 7,
     "away_wins": 11,
-    "home_win_pct": 50.0,
+    "home_win_pct": 51.4,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -10092,9 +10065,9 @@
       }
     },
     "leader": {
-      "team": "LASK",
-      "points": 15,
-      "played": 6
+      "team": "SK Rapid",
+      "points": 18,
+      "played": 7
     }
   },
   "coverage": {
@@ -10196,6 +10169,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_d23bd65c075e43908bc45b934484863a",
+            "team": "SK Rapid",
+            "played": 7,
+            "wins": 6,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 21,
+            "goals_against": 7,
+            "goal_difference": 14,
+            "points": 18,
+            "form": "WWLWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d",
             "team": "LASK",
             "played": 6,
@@ -10207,20 +10194,6 @@
             "goal_difference": 12,
             "points": 15,
             "form": "LWWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_d23bd65c075e43908bc45b934484863a",
-            "team": "SK Rapid",
-            "played": 6,
-            "wins": 5,
-            "draws": 0,
-            "losses": 1,
-            "goals_for": 18,
-            "goals_against": 7,
-            "goal_difference": 11,
-            "points": 15,
-            "form": "WLWWW"
           },
           {
             "position": 3,
@@ -10807,6 +10780,6 @@
     "teams_all_time": 24,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   }
 }

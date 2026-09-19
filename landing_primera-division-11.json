@@ -200,7 +200,7 @@
       },
       {
         "position": 3,
-        "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
+        "team_id": "ast_161c07103220439cbbd04011482a2373",
         "team": "Independiente",
         "played": 16,
         "wins": 4,
@@ -375,7 +375,7 @@
       },
       {
         "position": 3,
-        "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
+        "team_id": "ast_161c07103220439cbbd04011482a2373",
         "team": "独立队",
         "played": 16,
         "wins": 4,
@@ -1301,7 +1301,7 @@
         "match_id": "as_8b759c336c9647a79e9fafcc826dc561",
         "date": "2026-09-26",
         "time": "01:30",
-        "status": "Not Started",
+        "status": "01:30",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1313,15 +1313,13 @@
           "name": "埃雷拉",
           "team_id": "ast_42c48149a1f3491591ff635d82babaad"
         },
-        "ht_score": "-",
-        "venue": "Estadio Armando Dely Valdes",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7c464e3f12fc43388800c332bdf0dee8",
         "date": "2026-09-26",
         "time": "23:15",
-        "status": "Not Started",
+        "status": "23:15",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1333,15 +1331,13 @@
           "name": "UMECIT",
           "team_id": "ast_034de0be838449348a077f5c5c1f6799"
         },
-        "ht_score": "-",
-        "venue": "Estadio Universidad Latina",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aa75f1646d2b45a290587295612cbc8d",
         "date": "2026-09-22",
-        "time": "01:30",
-        "status": "01:30",
+        "time": "01:00",
+        "status": "01:00",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1352,6 +1348,24 @@
         "away": {
           "name": "科克莱联合",
           "team_id": "ast_8f2f22a37d36431399f865006017ad71"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4cff260fc68c4728aa27b577bbb008c9",
+        "date": "2026-09-20",
+        "time": "23:15",
+        "status": "23:15",
+        "league": "巴拿马甲级联赛",
+        "league_id": "asl_318de76388e247e58be658fa4480212b",
+        "season": "2026",
+        "home": {
+          "name": "独立队",
+          "team_id": "ast_161c07103220439cbbd04011482a2373"
+        },
+        "away": {
+          "name": "圣米格尔体育",
+          "team_id": "ast_61121edf34484c4aa17ab9990913cc14"
         },
         "venue": ""
       },
@@ -1392,30 +1406,10 @@
         "venue": ""
       },
       {
-        "match_id": "as_46d9e3ef61ae454db65de5edbae3cd80",
-        "date": "2026-09-20",
-        "time": "23:15",
-        "status": "Not Started",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "阿利安萨",
-          "team_id": "ast_56b7eecdc5654764801ae9188aab3306"
-        },
-        "away": {
-          "name": "大学体育",
-          "team_id": "ast_19d719a14c75434ba970985290a4c7da"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Javier Cruz",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_9d0e04497be34143a656c3ea113cf537",
         "date": "2026-09-19",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1427,10 +1421,13 @@
           "name": "阿拉贝·乌尼多",
           "team_id": "ast_9ae3544122d9455c9898040c46405306"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
-        "match_id": "as_4cff260fc68c4728aa27b577bbb008c9",
+        "match_id": "as_46d9e3ef61ae454db65de5edbae3cd80",
         "date": "2026-09-19",
         "time": "23:15",
         "status": "23:15",
@@ -1438,12 +1435,12 @@
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
         "home": {
-          "name": "独立队",
-          "team_id": "ast_161c07103220439cbbd04011482a2373"
+          "name": "阿利安萨",
+          "team_id": "ast_56b7eecdc5654764801ae9188aab3306"
         },
         "away": {
-          "name": "圣米格尔体育",
-          "team_id": "ast_61121edf34484c4aa17ab9990913cc14"
+          "name": "大学体育",
+          "team_id": "ast_19d719a14c75434ba970985290a4c7da"
         },
         "venue": ""
       },
@@ -1465,7 +1462,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Estadio Los Andes II",
         "status_label": "完场"
       },
       {
@@ -5304,7 +5301,7 @@
         "match_id": "as_7c464e3f12fc43388800c332bdf0dee8",
         "date": "2026-09-26",
         "time": "23:15",
-        "status": "Not Started",
+        "status": "23:15",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5316,15 +5313,13 @@
           "name": "UMECIT",
           "team_id": "ast_034de0be838449348a077f5c5c1f6799"
         },
-        "ht_score": "-",
-        "venue": "Estadio Universidad Latina",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8b759c336c9647a79e9fafcc826dc561",
         "date": "2026-09-26",
         "time": "01:30",
-        "status": "Not Started",
+        "status": "01:30",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5336,15 +5331,13 @@
           "name": "埃雷拉",
           "team_id": "ast_42c48149a1f3491591ff635d82babaad"
         },
-        "ht_score": "-",
-        "venue": "Estadio Armando Dely Valdes",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aa75f1646d2b45a290587295612cbc8d",
         "date": "2026-09-22",
-        "time": "01:30",
-        "status": "01:30",
+        "time": "01:00",
+        "status": "01:00",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5357,26 +5350,6 @@
           "team_id": "ast_8f2f22a37d36431399f865006017ad71"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_46d9e3ef61ae454db65de5edbae3cd80",
-        "date": "2026-09-20",
-        "time": "23:15",
-        "status": "Not Started",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "阿利安萨",
-          "team_id": "ast_56b7eecdc5654764801ae9188aab3306"
-        },
-        "away": {
-          "name": "大学体育",
-          "team_id": "ast_19d719a14c75434ba970985290a4c7da"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Javier Cruz",
-        "status_label": "未开赛"
       },
       {
         "match_id": "as_e7e2540eaa4349a3a7ff98ba0dfe358b",
@@ -5416,7 +5389,7 @@
       },
       {
         "match_id": "as_4cff260fc68c4728aa27b577bbb008c9",
-        "date": "2026-09-19",
+        "date": "2026-09-20",
         "time": "23:15",
         "status": "23:15",
         "league": "巴拿马甲级联赛",
@@ -5433,10 +5406,28 @@
         "venue": ""
       },
       {
+        "match_id": "as_46d9e3ef61ae454db65de5edbae3cd80",
+        "date": "2026-09-19",
+        "time": "23:15",
+        "status": "23:15",
+        "league": "巴拿马甲级联赛",
+        "league_id": "asl_318de76388e247e58be658fa4480212b",
+        "season": "2026",
+        "home": {
+          "name": "阿利安萨",
+          "team_id": "ast_56b7eecdc5654764801ae9188aab3306"
+        },
+        "away": {
+          "name": "大学体育",
+          "team_id": "ast_19d719a14c75434ba970985290a4c7da"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_9d0e04497be34143a656c3ea113cf537",
         "date": "2026-09-19",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5448,7 +5439,10 @@
           "name": "阿拉贝·乌尼多",
           "team_id": "ast_9ae3544122d9455c9898040c46405306"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -6426,13 +6420,13 @@
     }
   },
   "stats": {
-    "matches_completed": 151,
-    "total_goals": 402,
+    "matches_completed": 152,
+    "total_goals": 405,
     "avg_goals_per_match": 2.66,
     "home_wins": 58,
     "draws": 55,
-    "away_wins": 38,
-    "home_win_pct": 38.4,
+    "away_wins": 39,
+    "home_win_pct": 38.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7232,5 +7226,5 @@
     "matches_current_season": 199,
     "upcoming_matches": 42
   },
-  "updated_at": "2026/09/17"
+  "updated_at": "2026/09/19"
 }

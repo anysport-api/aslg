@@ -234,6 +234,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf",
+        "team": "Comunicaciones",
+        "played": 36,
+        "wins": 14,
+        "draws": 11,
+        "losses": 11,
+        "goals_for": 38,
+        "goals_against": 33,
+        "goal_difference": 5,
+        "points": 53,
+        "form": "WDWWL"
+      },
+      {
+        "position": 9,
         "team_id": "ast_09be9f0197a645d7b589767c46229648",
         "team": "Deportivo Armenio",
         "played": 35,
@@ -245,20 +259,6 @@
         "goal_difference": -1,
         "points": 51,
         "form": "WDWLL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf",
-        "team": "Comunicaciones",
-        "played": 35,
-        "wins": 13,
-        "draws": 11,
-        "losses": 11,
-        "goals_for": 36,
-        "goals_against": 33,
-        "goal_difference": 3,
-        "points": 50,
-        "form": "DWWLW"
       },
       {
         "position": 10,
@@ -390,15 +390,15 @@
         "position": 19,
         "team_id": "ast_ce902d76cea744d78fbfac5722df860a",
         "team": "Defensores Unidos",
-        "played": 35,
+        "played": 36,
         "wins": 8,
         "draws": 13,
-        "losses": 14,
+        "losses": 15,
         "goals_for": 31,
-        "goals_against": 36,
-        "goal_difference": -5,
+        "goals_against": 38,
+        "goal_difference": -7,
         "points": 37,
-        "form": "WDDWW"
+        "form": "LWDDW"
       },
       {
         "position": 20,
@@ -551,6 +551,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf",
+        "team": "通讯队",
+        "played": 36,
+        "wins": 14,
+        "draws": 11,
+        "losses": 11,
+        "goals_for": 38,
+        "goals_against": 33,
+        "goal_difference": 5,
+        "points": 53,
+        "form": "WDWWL",
+        "form_label": "胜平胜胜负"
+      },
+      {
+        "position": 9,
         "team_id": "ast_09be9f0197a645d7b589767c46229648",
         "team": "阿尔梅尼奥体育",
         "played": 35,
@@ -563,21 +578,6 @@
         "points": 51,
         "form": "WDWLL",
         "form_label": "胜平胜负负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf",
-        "team": "通讯队",
-        "played": 35,
-        "wins": 13,
-        "draws": 11,
-        "losses": 11,
-        "goals_for": 36,
-        "goals_against": 33,
-        "goal_difference": 3,
-        "points": 50,
-        "form": "DWWLW",
-        "form_label": "平胜胜负胜"
       },
       {
         "position": 10,
@@ -718,16 +718,16 @@
         "position": 19,
         "team_id": "ast_ce902d76cea744d78fbfac5722df860a",
         "team": "团结防守者",
-        "played": 35,
+        "played": 36,
         "wins": 8,
         "draws": 13,
-        "losses": 14,
+        "losses": 15,
         "goals_for": 31,
-        "goals_against": 36,
-        "goal_difference": -5,
+        "goals_against": 38,
+        "goal_difference": -7,
         "points": 37,
-        "form": "WDDWW",
-        "form_label": "胜平平胜胜"
+        "form": "LWDDW",
+        "form_label": "负胜平平胜"
       },
       {
         "position": 20,
@@ -1897,7 +1897,7 @@
         "match_id": "as_c8258f7370bb4bdabab1151d8ebb9273",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1909,15 +1909,13 @@
           "name": "圣卡洛斯维拉",
           "team_id": "ast_a93183606b884713b54cbdf9eebadbbb"
         },
-        "ht_score": "-",
-        "venue": "胡安·卡洛斯·布列瓦体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e7e5a1c043a244339b028f100c0e8005",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1929,15 +1927,13 @@
           "name": "通讯队",
           "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf"
         },
-        "ht_score": "-",
-        "venue": "Barranca Quilmena stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_72a9ba50ddff4196b311cf94eb6c6027",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1949,15 +1945,13 @@
           "name": "林基尔斯",
           "team_id": "ast_a292e1dccb354cbfa5995f931d3e596c"
         },
-        "ht_score": "-",
-        "venue": "胡里奥·温贝托·格罗多纳体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e61e1f833cb446e2bbd70e636942e65e",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1969,15 +1963,13 @@
           "name": "卡米奥内罗斯体育",
           "team_id": "ast_3cb8199a748b435e8636ae251882e8c2"
         },
-        "ht_score": "-",
-        "venue": "洛伦索·阿兰迪亚体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1d54ce8564614d7e9ba1a9118b41cf1a",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1989,15 +1981,13 @@
           "name": "梅尔洛体育",
           "team_id": "ast_b1e4a11cc2ab4dfb8861eecfff046e5b"
         },
-        "ht_score": "-",
-        "venue": "Armenia Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3de7bbaec2f244a7b6fcf4de0781b978",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2009,15 +1999,13 @@
           "name": "皇家皮拉尔",
           "team_id": "ast_bd1f338bb61f422cb3ac28c63e738e5a"
         },
-        "ht_score": "-",
-        "venue": "Excursionistas Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9ebbe4829eac481cbc71289c7c905053",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2029,15 +2017,13 @@
           "name": "多克苏德",
           "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107"
         },
-        "ht_score": "-",
-        "venue": "卡洛斯五世体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_39e4c96fd67a440e9ea24e207fc27ceb",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2049,15 +2035,13 @@
           "name": "团结防守者",
           "team_id": "ast_ce902d76cea744d78fbfac5722df860a"
         },
-        "ht_score": "-",
-        "venue": "Estadio Carlos Sacaan",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_52409c20a40a425b92db20824177821f",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2069,15 +2053,13 @@
           "name": "意大利体育",
           "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0"
         },
-        "ht_score": "-",
-        "venue": "Ciudad de Laferrere Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7827d50a7e824cde87f404c1d2cf14a8",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2089,15 +2071,13 @@
           "name": "圣马丁布尔萨科",
           "team_id": "ast_90283483c85748248d8cba8e8809099e"
         },
-        "ht_score": "-",
-        "venue": "Estadio de Talleres de Remedios de Escalada",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_06999eb32cc340b8b628335f6e6616c4",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2109,15 +2089,13 @@
           "name": "乌尔基萨大学",
           "team_id": "ast_e9a7333b09f74ce1bf8c7a0fc72ba78c"
         },
-        "ht_score": "-",
-        "venue": "米特雷与普奇尼斗兽场体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5dd43c66868842c7bb793ea6a21f8906",
         "date": "2026-09-20",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2129,15 +2107,13 @@
           "name": "弗兰德里亚",
           "team_id": "ast_94c46f2a84b643c283490c5be671966b"
         },
-        "ht_score": "-",
-        "venue": "Jose Manuel Moreno Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a509d9d6c08e4b43b329a0e0b52b0238",
         "date": "2026-09-20",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2149,15 +2125,13 @@
           "name": "阿根廷基尔梅斯",
           "team_id": "ast_28c6a2657de84a0dbafed019634fbc73"
         },
-        "ht_score": "-",
-        "venue": "移民体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_21d88e2fc372403d95ccc79d872e7c9f",
         "date": "2026-09-20",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2169,15 +2143,13 @@
           "name": "阿根廷梅尔洛",
           "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89"
         },
-        "ht_score": "-",
-        "venue": "Juan Antonio Arias Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d8e9af471991431ebf2a6cef65a653a1",
         "date": "2026-09-20",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2189,9 +2161,7 @@
           "name": "塔列雷斯（R.E）",
           "team_id": "ast_375f3c8b330c4f4ab0bc563dd39d694d"
         },
-        "ht_score": "-",
-        "venue": "Genacio Salice Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f4118bc5314e407e9a66801eba0ce01c",
@@ -2305,7 +2275,7 @@
         "match_id": "as_3ba68d8de8cf4ece84aa4dd65b5f0c2b",
         "date": "2026-09-18",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -2317,7 +2287,10 @@
           "name": "团结防守者",
           "team_id": "ast_ce902d76cea744d78fbfac5722df860a"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2130663bc023499091bd2a9a50ae0aba",
@@ -13927,13 +13900,13 @@
     }
   },
   "stats": {
-    "matches_completed": 385,
-    "total_goals": 757,
+    "matches_completed": 386,
+    "total_goals": 759,
     "avg_goals_per_match": 1.97,
-    "home_wins": 140,
+    "home_wins": 141,
     "draws": 130,
     "away_wins": 115,
-    "home_win_pct": 36.4,
+    "home_win_pct": 36.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14733,5 +14706,5 @@
     "matches_current_season": 462,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }

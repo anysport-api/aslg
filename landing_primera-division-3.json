@@ -958,7 +958,7 @@
         "match_id": "as_6ef4298f2006417a8fe882cc93e5a0ef",
         "date": "2026-09-18",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -970,7 +970,10 @@
           "name": "SA布洛布洛",
           "team_id": "ast_65a2260f1dad4d7d9838a1ac503e43ee"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2101c19a59844bcea3951fe33cdc1fbd",
@@ -4611,45 +4614,6 @@
         "ht_score": "-",
         "venue": "卡洛斯·比列加斯博士体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6ef4298f2006417a8fe882cc93e5a0ef",
-        "date": "2026-09-18",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "玻利维亚甲级联赛",
-        "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
-        "season": "2026",
-        "home": {
-          "name": "独立队",
-          "team_id": "ast_551cf741afc24a5c8ff566b14b9b7c83"
-        },
-        "away": {
-          "name": "SA布洛布洛",
-          "team_id": "ast_65a2260f1dad4d7d9838a1ac503e43ee"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d516d231f3fe456c988dafba9bf2775a",
-        "date": "2026-09-18",
-        "time": "00:30",
-        "status": "FT",
-        "league": "玻利维亚甲级联赛",
-        "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
-        "season": "2026",
-        "home": {
-          "name": "博利瓦尔",
-          "team_id": "ast_8a1887f0ba9f4896a884e20862e8cdb0"
-        },
-        "away": {
-          "name": "GV圣荷西",
-          "team_id": "ast_64dc4d28917d4dccb3759193f1c64d03"
-        },
-        "ht_score": "3-0",
-        "reg_score": "4-2",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -6684,13 +6648,13 @@
     }
   },
   "stats": {
-    "matches_completed": 159,
-    "total_goals": 495,
-    "avg_goals_per_match": 3.11,
+    "matches_completed": 160,
+    "total_goals": 499,
+    "avg_goals_per_match": 3.12,
     "home_wins": 78,
     "draws": 39,
-    "away_wins": 42,
-    "home_win_pct": 49.1,
+    "away_wins": 43,
+    "home_win_pct": 48.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7506,7 +7470,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 176,
-    "upcoming_matches": 18
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }

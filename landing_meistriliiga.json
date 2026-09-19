@@ -232,15 +232,15 @@
         "position": 6,
         "team_id": "ast_e591bf62bb6247659ca8fa031f9f2ec7",
         "team": "Harju JK Laagri",
-        "played": 28,
+        "played": 29,
         "wins": 11,
-        "draws": 1,
+        "draws": 2,
         "losses": 16,
         "goals_for": 40,
         "goals_against": 47,
         "goal_difference": -7,
-        "points": 34,
-        "form": "WLLWW"
+        "points": 35,
+        "form": "DWLLW"
       },
       {
         "position": 7,
@@ -258,6 +258,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_da7e777c45824ec4b67653d7a3016025",
+        "team": "Kuressaare",
+        "played": 29,
+        "wins": 8,
+        "draws": 5,
+        "losses": 16,
+        "goals_for": 31,
+        "goals_against": 49,
+        "goal_difference": -18,
+        "points": 29,
+        "form": "DLLWD"
+      },
+      {
+        "position": 9,
         "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49",
         "team": "Nomme Utd",
         "played": 28,
@@ -269,20 +283,6 @@
         "goal_difference": -19,
         "points": 28,
         "form": "LWLLL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_da7e777c45824ec4b67653d7a3016025",
-        "team": "Kuressaare",
-        "played": 28,
-        "wins": 8,
-        "draws": 4,
-        "losses": 16,
-        "goals_for": 31,
-        "goals_against": 49,
-        "goal_difference": -18,
-        "points": 28,
-        "form": "LLWDL"
       },
       {
         "position": 10,
@@ -379,16 +379,16 @@
         "position": 6,
         "team_id": "ast_e591bf62bb6247659ca8fa031f9f2ec7",
         "team": "哈尔尤JK拉格里",
-        "played": 28,
+        "played": 29,
         "wins": 11,
-        "draws": 1,
+        "draws": 2,
         "losses": 16,
         "goals_for": 40,
         "goals_against": 47,
         "goal_difference": -7,
-        "points": 34,
-        "form": "WLLWW",
-        "form_label": "胜负负胜胜"
+        "points": 35,
+        "form": "DWLLW",
+        "form_label": "平胜负负胜"
       },
       {
         "position": 7,
@@ -407,6 +407,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_da7e777c45824ec4b67653d7a3016025",
+        "team": "库雷萨雷",
+        "played": 29,
+        "wins": 8,
+        "draws": 5,
+        "losses": 16,
+        "goals_for": 31,
+        "goals_against": 49,
+        "goal_difference": -18,
+        "points": 29,
+        "form": "DLLWD",
+        "form_label": "平负负胜平"
+      },
+      {
+        "position": 9,
         "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49",
         "team": "诺梅联",
         "played": 28,
@@ -419,21 +434,6 @@
         "points": 28,
         "form": "LWLLL",
         "form_label": "负胜负负负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_da7e777c45824ec4b67653d7a3016025",
-        "team": "库雷萨雷",
-        "played": 28,
-        "wins": 8,
-        "draws": 4,
-        "losses": 16,
-        "goals_for": 31,
-        "goals_against": 49,
-        "goal_difference": -18,
-        "points": 28,
-        "form": "LLWDL",
-        "form_label": "负负胜平负"
       },
       {
         "position": 10,
@@ -1245,7 +1245,7 @@
         "match_id": "as_addcd3dcfd0e42a7b71bd03e3154b958",
         "date": "2026-09-18",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1257,7 +1257,10 @@
           "name": "库雷萨雷",
           "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1c15c7a90b994f5a8814c4c347d50b81",
@@ -1298,7 +1301,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "派德城市体育场",
         "status_label": "完场"
       },
       {
@@ -4870,24 +4873,6 @@
         "away": {
           "name": "派德",
           "team_id": "ast_d290a337acd3405880f89a023c2bac1f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_addcd3dcfd0e42a7b71bd03e3154b958",
-        "date": "2026-09-18",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚超级联赛",
-        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
-        "season": "2026",
-        "home": {
-          "name": "哈尔尤JK拉格里",
-          "team_id": "ast_e591bf62bb6247659ca8fa031f9f2ec7"
-        },
-        "away": {
-          "name": "库雷萨雷",
-          "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
         },
         "venue": ""
       }
@@ -8502,13 +8487,13 @@
     }
   },
   "stats": {
-    "matches_completed": 140,
+    "matches_completed": 141,
     "total_goals": 441,
-    "avg_goals_per_match": 3.15,
+    "avg_goals_per_match": 3.13,
     "home_wins": 66,
-    "draws": 16,
+    "draws": 17,
     "away_wins": 58,
-    "home_win_pct": 47.1,
+    "home_win_pct": 46.8,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -9306,7 +9291,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 35
+    "upcoming_matches": 34
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }

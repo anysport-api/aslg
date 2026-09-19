@@ -236,29 +236,29 @@
         "position": 2,
         "team_id": "ast_70163a1320b44eb7939abb2615088105",
         "team": "Falkenberg",
-        "played": 24,
+        "played": 25,
         "wins": 13,
-        "draws": 5,
+        "draws": 6,
         "losses": 6,
         "goals_for": 46,
         "goals_against": 33,
         "goal_difference": 13,
-        "points": 44,
-        "form": "WWLWL"
+        "points": 45,
+        "form": "DWWLW"
       },
       {
         "position": 3,
         "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7",
         "team": "Ostersund",
-        "played": 24,
+        "played": 25,
         "wins": 11,
-        "draws": 9,
+        "draws": 10,
         "losses": 4,
         "goals_for": 33,
         "goals_against": 24,
         "goal_difference": 9,
-        "points": 42,
-        "form": "WDWDD"
+        "points": 43,
+        "form": "DWDWD"
       },
       {
         "position": 4,
@@ -463,31 +463,31 @@
         "position": 2,
         "team_id": "ast_70163a1320b44eb7939abb2615088105",
         "team": "法尔肯堡",
-        "played": 24,
+        "played": 25,
         "wins": 13,
-        "draws": 5,
+        "draws": 6,
         "losses": 6,
         "goals_for": 46,
         "goals_against": 33,
         "goal_difference": 13,
-        "points": 44,
-        "form": "WWLWL",
-        "form_label": "胜胜负胜负"
+        "points": 45,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 3,
         "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7",
         "team": "厄斯特松德",
-        "played": 24,
+        "played": 25,
         "wins": 11,
-        "draws": 9,
+        "draws": 10,
         "losses": 4,
         "goals_for": 33,
         "goals_against": 24,
         "goal_difference": 9,
-        "points": 42,
-        "form": "WDWDD",
-        "form_label": "胜平胜平平"
+        "points": 43,
+        "form": "DWDWD",
+        "form_label": "平胜平胜平"
       },
       {
         "position": 4,
@@ -3911,7 +3911,7 @@
         "match_id": "as_2401a69013ea4c51aee10bbf33b706f0",
         "date": "2026-09-18",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3923,7 +3923,10 @@
           "name": "厄斯特松德",
           "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_180a59be7ba9460aa07a9a2dc44c7dbe",
@@ -8722,24 +8725,6 @@
         "away": {
           "name": "兰斯克罗纳",
           "team_id": "ast_7501e1861481431f843fafbd5a364844"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2401a69013ea4c51aee10bbf33b706f0",
-        "date": "2026-09-18",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "法尔肯堡",
-          "team_id": "ast_70163a1320b44eb7939abb2615088105"
-        },
-        "away": {
-          "name": "厄斯特松德",
-          "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7"
         },
         "venue": ""
       }
@@ -14435,13 +14420,13 @@
     }
   },
   "stats": {
-    "matches_completed": 192,
+    "matches_completed": 193,
     "total_goals": 552,
-    "avg_goals_per_match": 2.88,
+    "avg_goals_per_match": 2.86,
     "home_wins": 75,
-    "draws": 52,
+    "draws": 53,
     "away_wins": 65,
-    "home_win_pct": 39.1,
+    "home_win_pct": 38.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14587,29 +14572,29 @@
             "position": 2,
             "team_id": "ast_70163a1320b44eb7939abb2615088105",
             "team": "Falkenberg",
-            "played": 24,
+            "played": 25,
             "wins": 13,
-            "draws": 5,
+            "draws": 6,
             "losses": 6,
             "goals_for": 46,
             "goals_against": 33,
             "goal_difference": 13,
-            "points": 44,
-            "form": "WWLWL"
+            "points": 45,
+            "form": "DWWLW"
           },
           {
             "position": 3,
             "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7",
             "team": "Ostersund",
-            "played": 24,
+            "played": 25,
             "wins": 11,
-            "draws": 9,
+            "draws": 10,
             "losses": 4,
             "goals_for": 33,
             "goals_against": 24,
             "goal_difference": 9,
-            "points": 42,
-            "form": "WDWDD"
+            "points": 43,
+            "form": "DWDWD"
           }
         ],
         "meta": {
@@ -15267,7 +15252,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 40
+    "upcoming_matches": 39
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/09/19"
 }
