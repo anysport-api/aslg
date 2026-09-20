@@ -438,7 +438,7 @@
         "match_id": "as_ef7792d96b0747ecba3a7a13e63de8e5",
         "date": "2026-09-19",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -450,7 +450,10 @@
           "name": "伦敦城",
           "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_38a336b08a814603954cb22846a204d3",
@@ -1309,24 +1312,6 @@
           "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_ef7792d96b0747ecba3a7a13e63de8e5",
-        "date": "2026-09-19",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "坎贝",
-          "team_id": "ast_efbb74cbad4d4d5e82f679711edbac44"
-        },
-        "away": {
-          "name": "伦敦城",
-          "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
-        },
-        "venue": ""
       }
     ]
   },
@@ -1769,23 +1754,23 @@
     }
   },
   "stats": {
-    "matches_completed": 38,
-    "total_goals": 86,
-    "avg_goals_per_match": 2.26,
+    "matches_completed": 39,
+    "total_goals": 90,
+    "avg_goals_per_match": 2.31,
     "home_wins": 17,
     "draws": 8,
-    "away_wins": 13,
-    "home_win_pct": 44.7,
+    "away_wins": 14,
+    "home_win_pct": 43.6,
     "biggest_win": {
-      "margin": 3,
+      "margin": 4,
       "match": {
-        "match_id": "as_5c1e18c7e5fc49a984b30a137b664554",
-        "date": "2026-08-30",
-        "home_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9",
-        "home": "伊拉提",
-        "away_id": "ast_76fe6827e425485ba491695e1fcd5676",
-        "away": "希望国际",
-        "score": "1-4"
+        "match_id": "as_ef7792d96b0747ecba3a7a13e63de8e5",
+        "date": "2026-09-19",
+        "home_id": "ast_efbb74cbad4d4d5e82f679711edbac44",
+        "home": "坎贝",
+        "away_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
+        "away": "伦敦城",
+        "score": "0-4"
       }
     },
     "highest_scoring_match": {
@@ -2572,7 +2557,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 11,
     "matches_current_season": 42,
-    "upcoming_matches": 4
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

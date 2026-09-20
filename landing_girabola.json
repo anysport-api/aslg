@@ -6293,7 +6293,7 @@
         "match_id": "as_9e369b1d40eb4b50803ad8cdbccfdab2",
         "date": "2026-09-23",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "安哥拉联赛",
         "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
         "season": "2026/2027",
@@ -6305,7 +6305,9 @@
           "name": "卡布斯科尔普",
           "team_id": "ast_9afcaa0bdd3b4ed2a71becc75636640b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0e9a46d7857a411e987a6da1308da831",
@@ -6347,7 +6349,7 @@
         "match_id": "as_b6b7d2fae43d452f9c1d0de86ab9f69a",
         "date": "2026-09-20",
         "time": "14:30",
-        "status": "14:30",
+        "status": "Postp.",
         "league": "安哥拉联赛",
         "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
         "season": "2026/2027",
@@ -6359,7 +6361,8 @@
           "name": "佩特罗卢安达",
           "team_id": "ast_cc59ea5c25334662a8e85195202e1bda"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_32089a50a39b4f899d0ba4dc40e65ae7",
@@ -6430,24 +6433,6 @@
         "away": {
           "name": "布拉沃斯·多·马基斯",
           "team_id": "ast_c01848344a28471a80598ea46bc8d823"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_786c25e239ca43aaa84bc284d2766c5b",
-        "date": "2026-09-19",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "安哥拉联赛",
-        "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
-        "season": "2026/2027",
-        "home": {
-          "name": "八月第一",
-          "team_id": "ast_30135e54139a476cab26d1684f268eed"
-        },
-        "away": {
-          "name": "FC Luanda",
-          "team_id": "ast_e5ee61297a4a4eb5a16ce6fec7ba8917"
         },
         "venue": ""
       }
@@ -9335,7 +9320,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 41
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

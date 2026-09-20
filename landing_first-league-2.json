@@ -230,6 +230,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_8b6077284f384712b80402b56942c716",
+        "team": "Vardar",
+        "played": 8,
+        "wins": 4,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 14,
+        "goals_against": 8,
+        "goal_difference": 6,
+        "points": 14,
+        "form": "WDWDW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
         "team": "Tikves",
         "played": 8,
@@ -243,32 +257,18 @@
         "form": "DDWDD"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
         "team": "Shkendija Haracine",
-        "played": 7,
+        "played": 8,
         "wins": 4,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
+        "goals_against": 9,
+        "goal_difference": -3,
         "points": 13,
-        "form": "WWWLW"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_8b6077284f384712b80402b56942c716",
-        "team": "Vardar",
-        "played": 7,
-        "wins": 3,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 12,
-        "goals_against": 8,
-        "goal_difference": 4,
-        "points": 11,
-        "form": "DWDWL"
+        "form": "LWWWL"
       },
       {
         "position": 6,
@@ -374,6 +374,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_8b6077284f384712b80402b56942c716",
+        "team": "瓦尔达尔",
+        "played": 8,
+        "wins": 4,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 14,
+        "goals_against": 8,
+        "goal_difference": 6,
+        "points": 14,
+        "form": "WDWDW",
+        "form_label": "胜平胜平胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
         "team": "蒂克维斯",
         "played": 8,
@@ -388,34 +403,19 @@
         "form_label": "平平胜平平"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
         "team": "什肯迪亚哈拉奇",
-        "played": 7,
+        "played": 8,
         "wins": 4,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
+        "goals_against": 9,
+        "goal_difference": -3,
         "points": 13,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_8b6077284f384712b80402b56942c716",
-        "team": "瓦尔达尔",
-        "played": 7,
-        "wins": 3,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 12,
-        "goals_against": 8,
-        "goal_difference": 4,
-        "points": 11,
-        "form": "DWDWL",
-        "form_label": "平胜平胜负"
+        "form": "LWWWL",
+        "form_label": "负胜胜胜负"
       },
       {
         "position": 6,
@@ -1515,7 +1515,7 @@
         "match_id": "as_e1d80fdbd503492aa5b7ab5c87402d05",
         "date": "2026-09-23",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1527,7 +1527,9 @@
           "name": "斯科普耶足球俱乐部",
           "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "City Stadium Shtip",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b7ca77e0c0d64e90b65acd972cade459",
@@ -1551,7 +1553,7 @@
         "match_id": "as_8d542fbffb5f4435a5162f2fb0015df4",
         "date": "2026-09-19",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1563,7 +1565,10 @@
           "name": "什肯迪亚哈拉奇",
           "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c5697717a1774f7ca17ab0a4e6add59f",
@@ -1583,7 +1588,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "4-1",
-        "venue": "",
+        "venue": "Gradski stadion Gostivar",
         "status_label": "完场"
       },
       {
@@ -1604,7 +1609,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Sileks Stadion",
         "status_label": "完场"
       },
       {
@@ -2748,7 +2753,7 @@
         "match_id": "as_e1d80fdbd503492aa5b7ab5c87402d05",
         "date": "2026-09-23",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -2760,7 +2765,9 @@
           "name": "斯科普耶足球俱乐部",
           "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "City Stadium Shtip",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b7ca77e0c0d64e90b65acd972cade459",
@@ -2777,24 +2784,6 @@
         "away": {
           "name": "阿尔西米",
           "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8d542fbffb5f4435a5162f2fb0015df4",
-        "date": "2026-09-19",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "瓦尔达尔",
-          "team_id": "ast_8b6077284f384712b80402b56942c716"
-        },
-        "away": {
-          "name": "什肯迪亚哈拉奇",
-          "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de"
         },
         "venue": ""
       }
@@ -6875,13 +6864,13 @@
     }
   },
   "stats": {
-    "matches_completed": 37,
-    "total_goals": 107,
-    "avg_goals_per_match": 2.89,
-    "home_wins": 18,
+    "matches_completed": 38,
+    "total_goals": 109,
+    "avg_goals_per_match": 2.87,
+    "home_wins": 19,
     "draws": 10,
     "away_wins": 9,
-    "home_win_pct": 48.6,
+    "home_win_pct": 50.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7032,17 +7021,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
-            "team": "Tikves",
+            "team_id": "ast_8b6077284f384712b80402b56942c716",
+            "team": "Vardar",
             "played": 8,
-            "wins": 3,
-            "draws": 4,
-            "losses": 1,
-            "goals_for": 17,
-            "goals_against": 7,
-            "goal_difference": 10,
-            "points": 13,
-            "form": "DDWDD"
+            "wins": 4,
+            "draws": 2,
+            "losses": 2,
+            "goals_for": 14,
+            "goals_against": 8,
+            "goal_difference": 6,
+            "points": 14,
+            "form": "WDWDW"
           }
         ],
         "meta": {
@@ -7679,7 +7668,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 23
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

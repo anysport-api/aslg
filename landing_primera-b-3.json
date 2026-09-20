@@ -231,6 +231,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
+        "team": "Boca Juniors",
+        "played": 8,
+        "wins": 3,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 10,
+        "goal_difference": 0,
+        "points": 11,
+        "form": "WWDLL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
         "team": "Quindio",
         "played": 8,
@@ -244,7 +258,7 @@
         "form": "LDDWW"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce",
         "team": "Real Santander",
         "played": 8,
@@ -258,32 +272,18 @@
         "form": "LDWWD"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_085a191e13db4e78b6d3336db119d5ab",
         "team": "Leones",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 3,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 13,
-        "goal_difference": -7,
+        "losses": 4,
+        "goals_for": 7,
+        "goals_against": 15,
+        "goal_difference": -8,
         "points": 9,
-        "form": "DLLLD"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
-        "team": "Boca Juniors",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 9,
-        "goal_difference": -1,
-        "points": 8,
-        "form": "WDLLL"
+        "form": "LDLLL"
       },
       {
         "position": 11,
@@ -462,6 +462,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
+        "team": "博卡青年",
+        "played": 8,
+        "wins": 3,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 10,
+        "goal_difference": 0,
+        "points": 11,
+        "form": "WWDLL",
+        "form_label": "胜胜平负负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
         "team": "昆迪奥",
         "played": 8,
@@ -476,7 +491,7 @@
         "form_label": "负平平胜胜"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce",
         "team": "皇家桑坦德",
         "played": 8,
@@ -491,34 +506,19 @@
         "form_label": "负平胜胜平"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_085a191e13db4e78b6d3336db119d5ab",
         "team": "狮子队",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 3,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 13,
-        "goal_difference": -7,
+        "losses": 4,
+        "goals_for": 7,
+        "goals_against": 15,
+        "goal_difference": -8,
         "points": 9,
-        "form": "DLLLD",
-        "form_label": "平负负负平"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
-        "team": "博卡青年",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 9,
-        "goal_difference": -1,
-        "points": 8,
-        "form": "WDLLL",
-        "form_label": "胜平负负负"
+        "form": "LDLLL",
+        "form_label": "负平负负负"
       },
       {
         "position": 11,
@@ -1737,7 +1737,7 @@
         "match_id": "as_12139192328441f59727827a7be69795",
         "date": "2026-09-19",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1749,7 +1749,10 @@
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a83a3a4ce1ae4ff999263b3b67154a93",
@@ -11701,13 +11704,13 @@
     }
   },
   "stats": {
-    "matches_completed": 209,
-    "total_goals": 460,
+    "matches_completed": 210,
+    "total_goals": 463,
     "avg_goals_per_match": 2.2,
     "home_wins": 78,
     "draws": 64,
-    "away_wins": 67,
-    "home_win_pct": 37.3,
+    "away_wins": 68,
+    "home_win_pct": 37.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12506,5 +12509,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

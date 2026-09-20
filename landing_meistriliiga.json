@@ -190,15 +190,15 @@
         "position": 3,
         "team_id": "ast_d290a337acd3405880f89a023c2bac1f",
         "team": "Paide",
-        "played": 28,
-        "wins": 14,
+        "played": 29,
+        "wins": 15,
         "draws": 6,
         "losses": 8,
-        "goals_for": 45,
-        "goals_against": 35,
-        "goal_difference": 10,
-        "points": 48,
-        "form": "WLWLW"
+        "goals_for": 48,
+        "goals_against": 36,
+        "goal_difference": 12,
+        "points": 51,
+        "form": "WWLWL"
       },
       {
         "position": 4,
@@ -274,15 +274,15 @@
         "position": 9,
         "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49",
         "team": "Nomme Utd",
-        "played": 28,
+        "played": 29,
         "wins": 9,
         "draws": 1,
-        "losses": 18,
-        "goals_for": 46,
-        "goals_against": 65,
-        "goal_difference": -19,
+        "losses": 19,
+        "goals_for": 47,
+        "goals_against": 68,
+        "goal_difference": -21,
         "points": 28,
-        "form": "LWLLL"
+        "form": "LLWLL"
       },
       {
         "position": 10,
@@ -334,16 +334,16 @@
         "position": 3,
         "team_id": "ast_d290a337acd3405880f89a023c2bac1f",
         "team": "派德",
-        "played": 28,
-        "wins": 14,
+        "played": 29,
+        "wins": 15,
         "draws": 6,
         "losses": 8,
-        "goals_for": 45,
-        "goals_against": 35,
-        "goal_difference": 10,
-        "points": 48,
-        "form": "WLWLW",
-        "form_label": "胜负胜负胜"
+        "goals_for": 48,
+        "goals_against": 36,
+        "goal_difference": 12,
+        "points": 51,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
       },
       {
         "position": 4,
@@ -424,16 +424,16 @@
         "position": 9,
         "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49",
         "team": "诺梅联",
-        "played": 28,
+        "played": 29,
         "wins": 9,
         "draws": 1,
-        "losses": 18,
-        "goals_for": 46,
-        "goals_against": 65,
-        "goal_difference": -19,
+        "losses": 19,
+        "goals_for": 47,
+        "goals_against": 68,
+        "goal_difference": -21,
         "points": 28,
-        "form": "LWLLL",
-        "form_label": "负胜负负负"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 10,
@@ -1227,7 +1227,7 @@
         "match_id": "as_ee2060a6b4aa41e6ae97d07815a9ccbf",
         "date": "2026-09-19",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -1239,7 +1239,10 @@
           "name": "派德",
           "team_id": "ast_d290a337acd3405880f89a023c2bac1f"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_addcd3dcfd0e42a7b71bd03e3154b958",
@@ -1259,7 +1262,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Laagri kunstmurustaadion",
         "status_label": "完场"
       },
       {
@@ -1280,7 +1283,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "6-0",
-        "venue": "",
+        "venue": "A. Le Coq竞技场",
         "status_label": "完场"
       },
       {
@@ -4855,24 +4858,6 @@
         "away": {
           "name": "帕尔努JK瓦普鲁斯",
           "team_id": "ast_8b05196bc5a34517888a4cc7b4fa678c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ee2060a6b4aa41e6ae97d07815a9ccbf",
-        "date": "2026-09-19",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "爱沙尼亚超级联赛",
-        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
-        "season": "2026",
-        "home": {
-          "name": "诺梅联",
-          "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49"
-        },
-        "away": {
-          "name": "派德",
-          "team_id": "ast_d290a337acd3405880f89a023c2bac1f"
         },
         "venue": ""
       }
@@ -8487,13 +8472,13 @@
     }
   },
   "stats": {
-    "matches_completed": 141,
-    "total_goals": 441,
+    "matches_completed": 142,
+    "total_goals": 445,
     "avg_goals_per_match": 3.13,
     "home_wins": 66,
     "draws": 17,
-    "away_wins": 58,
-    "home_win_pct": 46.8,
+    "away_wins": 59,
+    "home_win_pct": 46.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8646,15 +8631,15 @@
             "position": 3,
             "team_id": "ast_d290a337acd3405880f89a023c2bac1f",
             "team": "Paide",
-            "played": 28,
-            "wins": 14,
+            "played": 29,
+            "wins": 15,
             "draws": 6,
             "losses": 8,
-            "goals_for": 45,
-            "goals_against": 35,
-            "goal_difference": 10,
-            "points": 48,
-            "form": "WLWLW"
+            "goals_for": 48,
+            "goals_against": 36,
+            "goal_difference": 12,
+            "points": 51,
+            "form": "WWLWL"
           }
         ],
         "meta": {
@@ -9291,7 +9276,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 34
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

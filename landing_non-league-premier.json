@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2025-2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_d238e26bae1841df913eb53662f4a768",
@@ -853,6 +853,43 @@
   "fixtures": {
     "season": "2025-2026",
     "matches": [
+      {
+        "match_id": "as_5b7f5d64f3b347feac666ee617139101",
+        "date": "2026-09-19",
+        "time": "14:00",
+        "status": "14:00",
+        "league": "英格兰非联赛超级联赛",
+        "league_id": "asl_d238e26bae1841df913eb53662f4a768",
+        "season": "2025/2026",
+        "home": {
+          "name": "达特福德",
+          "team_id": "ast_4a1c07c80f6a4c94a7578e3cca902481"
+        },
+        "away": {
+          "name": "白鹰队",
+          "team_id": "ast_da1a09c2381842ccb3f8a4bb03fd5f00"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_f201723b346f4a58af6a88b8a8c8d7e2",
+        "date": "2026-09-19",
+        "time": "14:00",
+        "status": "Postp.",
+        "league": "英格兰非联赛超级联赛",
+        "league_id": "asl_d238e26bae1841df913eb53662f4a768",
+        "season": "2025/2026",
+        "home": {
+          "name": "斯坦威",
+          "team_id": "ast_f492cb2d465240f785320b8f10ac9eba"
+        },
+        "away": {
+          "name": "克雷流浪者",
+          "team_id": "ast_4b72070ff0bd400fb9ff5b3e97b1649e"
+        },
+        "venue": "",
+        "status_label": "延期"
+      },
       {
         "match_id": "as_c134aadc36804393823c5453732a31eb",
         "date": "2026-05-04",
@@ -57920,6 +57957,9 @@
     },
     "ast_b2b1566de320469ba814b7c1d10774ab": {
       "en": "马尔登与提普特里"
+    },
+    "ast_f492cb2d465240f785320b8f10ac9eba": {
+      "en": "斯坦威"
     }
   },
   "stats": {
@@ -58689,8 +58729,8 @@
     "distinct_title_holders": 14,
     "teams_all_time": 232,
     "standings_rows_current": 22,
-    "matches_current_season": 1818,
+    "matches_current_season": 1820,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

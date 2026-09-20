@@ -138,17 +138,17 @@
       },
       {
         "position": 1,
-        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
-        "team": "Santa Cruz",
-        "played": 2,
+        "team_id": "ast_df319754a46744b29dd51ca5fa201626",
+        "team": "Maringa FC",
+        "played": 3,
         "wins": 2,
         "draws": 0,
-        "losses": 0,
-        "goals_for": 2,
-        "goals_against": 0,
+        "losses": 1,
+        "goals_for": 3,
+        "goals_against": 1,
         "goal_difference": 2,
         "points": 6,
-        "form": "WW"
+        "form": "WLW"
       },
       {
         "position": 2,
@@ -166,17 +166,17 @@
       },
       {
         "position": 2,
-        "team_id": "ast_df319754a46744b29dd51ca5fa201626",
-        "team": "Maringa FC",
+        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
+        "team": "Santa Cruz",
         "played": 2,
-        "wins": 1,
+        "wins": 2,
         "draws": 0,
-        "losses": 1,
-        "goals_for": 1,
-        "goals_against": 1,
-        "goal_difference": 0,
-        "points": 3,
-        "form": "LW"
+        "losses": 0,
+        "goals_for": 2,
+        "goals_against": 0,
+        "goal_difference": 2,
+        "points": 6,
+        "form": "WW"
       },
       {
         "position": 3,
@@ -210,15 +210,15 @@
         "position": 4,
         "team_id": "ast_f7b6a6f2c7134fbf90ca34cf9899dda3",
         "team": "Botafogo PB",
-        "played": 2,
+        "played": 3,
         "wins": 0,
         "draws": 0,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 0,
-        "goals_against": 2,
-        "goal_difference": -2,
+        "goals_against": 4,
+        "goal_difference": -4,
         "points": 0,
-        "form": "LL"
+        "form": "LLL"
       },
       {
         "position": 4,
@@ -421,18 +421,18 @@
       },
       {
         "position": 1,
-        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
-        "team": "圣克鲁斯",
-        "played": 2,
+        "team_id": "ast_df319754a46744b29dd51ca5fa201626",
+        "team": "马林加FC",
+        "played": 3,
         "wins": 2,
         "draws": 0,
-        "losses": 0,
-        "goals_for": 2,
-        "goals_against": 0,
+        "losses": 1,
+        "goals_for": 3,
+        "goals_against": 1,
         "goal_difference": 2,
         "points": 6,
-        "form": "WW",
-        "form_label": "胜胜"
+        "form": "WLW",
+        "form_label": "胜负胜"
       },
       {
         "position": 2,
@@ -451,18 +451,18 @@
       },
       {
         "position": 2,
-        "team_id": "ast_df319754a46744b29dd51ca5fa201626",
-        "team": "马林加FC",
+        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
+        "team": "圣克鲁斯",
         "played": 2,
-        "wins": 1,
+        "wins": 2,
         "draws": 0,
-        "losses": 1,
-        "goals_for": 1,
-        "goals_against": 1,
-        "goal_difference": 0,
-        "points": 3,
-        "form": "LW",
-        "form_label": "负胜"
+        "losses": 0,
+        "goals_for": 2,
+        "goals_against": 0,
+        "goal_difference": 2,
+        "points": 6,
+        "form": "WW",
+        "form_label": "胜胜"
       },
       {
         "position": 3,
@@ -498,16 +498,16 @@
         "position": 4,
         "team_id": "ast_f7b6a6f2c7134fbf90ca34cf9899dda3",
         "team": "博塔弗戈PB",
-        "played": 2,
+        "played": 3,
         "wins": 0,
         "draws": 0,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 0,
-        "goals_against": 2,
-        "goal_difference": -2,
+        "goals_against": 4,
+        "goal_difference": -4,
         "points": 0,
-        "form": "LL",
-        "form_label": "负负"
+        "form": "LLL",
+        "form_label": "负负负"
       },
       {
         "position": 4,
@@ -907,7 +907,7 @@
         "match_id": "as_7bfc4b6c9a0046e6a4a2d763999bf7d6",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -919,13 +919,15 @@
           "name": "马林加FC",
           "team_id": "ast_df319754a46744b29dd51ca5fa201626"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3ae66e023e674c7885b3a6527cfc1854",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -937,13 +939,15 @@
           "name": "圣克鲁斯",
           "team_id": "ast_93671c69695f427aadaac5cb871477b0"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_f4b46d36f3b94a7686e4c3098502861a",
         "date": "2026-09-26",
         "time": "22:30",
-        "status": "22:30",
+        "status": "Not Started",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -955,7 +959,9 @@
           "name": "佩桑杜",
           "team_id": "ast_33a966d65b14420c99a3f62c1db9084e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_934ab1cacb204f93818543e6694135d5",
@@ -1015,7 +1021,7 @@
         "match_id": "as_9cf41cf571864c479d3f3b82498bc431",
         "date": "2026-09-19",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -1027,7 +1033,10 @@
           "name": "博塔弗戈PB",
           "team_id": "ast_f7b6a6f2c7134fbf90ca34cf9899dda3"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_090b7661df6b46128011e511c93dcb0a",
@@ -5373,7 +5382,7 @@
         "match_id": "as_f4b46d36f3b94a7686e4c3098502861a",
         "date": "2026-09-26",
         "time": "22:30",
-        "status": "22:30",
+        "status": "Not Started",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -5385,13 +5394,15 @@
           "name": "佩桑杜",
           "team_id": "ast_33a966d65b14420c99a3f62c1db9084e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3ae66e023e674c7885b3a6527cfc1854",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -5403,13 +5414,15 @@
           "name": "圣克鲁斯",
           "team_id": "ast_93671c69695f427aadaac5cb871477b0"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_7bfc4b6c9a0046e6a4a2d763999bf7d6",
         "date": "2026-09-26",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -5421,7 +5434,9 @@
           "name": "马林加FC",
           "team_id": "ast_df319754a46744b29dd51ca5fa201626"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_24312a8800ed40138586b2293c6e4fa5",
@@ -5474,24 +5489,6 @@
         "away": {
           "name": "弗洛雷斯塔EC",
           "team_id": "ast_8ac3b3a72ff84664841a52f80e1131e4"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9cf41cf571864c479d3f3b82498bc431",
-        "date": "2026-09-19",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "马林加FC",
-          "team_id": "ast_df319754a46744b29dd51ca5fa201626"
-        },
-        "away": {
-          "name": "博塔弗戈PB",
-          "team_id": "ast_f7b6a6f2c7134fbf90ca34cf9899dda3"
         },
         "venue": ""
       }
@@ -7450,13 +7447,13 @@
     }
   },
   "stats": {
-    "matches_completed": 198,
-    "total_goals": 449,
+    "matches_completed": 199,
+    "total_goals": 451,
     "avg_goals_per_match": 2.27,
-    "home_wins": 91,
+    "home_wins": 92,
     "draws": 53,
     "away_wins": 54,
-    "home_win_pct": 46.0,
+    "home_win_pct": 46.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7593,17 +7590,17 @@
           },
           {
             "position": 1,
-            "team_id": "ast_93671c69695f427aadaac5cb871477b0",
-            "team": "Santa Cruz",
-            "played": 2,
+            "team_id": "ast_df319754a46744b29dd51ca5fa201626",
+            "team": "Maringa FC",
+            "played": 3,
             "wins": 2,
             "draws": 0,
-            "losses": 0,
-            "goals_for": 2,
-            "goals_against": 0,
+            "losses": 1,
+            "goals_for": 3,
+            "goals_against": 1,
             "goal_difference": 2,
             "points": 6,
-            "form": "WW"
+            "form": "WLW"
           },
           {
             "position": 2,
@@ -8254,7 +8251,7 @@
     "teams_all_time": 49,
     "standings_rows_current": 20,
     "matches_current_season": 214,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

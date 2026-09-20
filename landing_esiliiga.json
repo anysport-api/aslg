@@ -204,15 +204,15 @@
         "position": 4,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "Elva",
-        "played": 29,
+        "played": 30,
         "wins": 14,
-        "draws": 5,
+        "draws": 6,
         "losses": 10,
-        "goals_for": 46,
-        "goals_against": 43,
+        "goals_for": 47,
+        "goals_against": 44,
         "goal_difference": 3,
-        "points": 47,
-        "form": "WLWWD"
+        "points": 48,
+        "form": "DWLWW"
       },
       {
         "position": 5,
@@ -274,15 +274,15 @@
         "position": 9,
         "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8",
         "team": "FC Tallinn",
-        "played": 28,
+        "played": 29,
         "wins": 7,
-        "draws": 7,
+        "draws": 8,
         "losses": 14,
-        "goals_for": 34,
-        "goals_against": 62,
+        "goals_for": 35,
+        "goals_against": 63,
         "goal_difference": -28,
-        "points": 28,
-        "form": "LWLL"
+        "points": 29,
+        "form": "DLWL"
       },
       {
         "position": 10,
@@ -349,16 +349,16 @@
         "position": 4,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "埃尔瓦",
-        "played": 29,
+        "played": 30,
         "wins": 14,
-        "draws": 5,
+        "draws": 6,
         "losses": 10,
-        "goals_for": 46,
-        "goals_against": 43,
+        "goals_for": 47,
+        "goals_against": 44,
         "goal_difference": 3,
-        "points": 47,
-        "form": "WLWWD",
-        "form_label": "胜负胜胜平"
+        "points": 48,
+        "form": "DWLWW",
+        "form_label": "平胜负胜胜"
       },
       {
         "position": 5,
@@ -424,16 +424,16 @@
         "position": 9,
         "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8",
         "team": "塔林足球俱乐部",
-        "played": 28,
+        "played": 29,
         "wins": 7,
-        "draws": 7,
+        "draws": 8,
         "losses": 14,
-        "goals_for": 34,
-        "goals_against": 62,
+        "goals_for": 35,
+        "goals_against": 63,
         "goal_difference": -28,
-        "points": 28,
-        "form": "LWLL",
-        "form_label": "负胜负负"
+        "points": 29,
+        "form": "DLWL",
+        "form_label": "平负胜负"
       },
       {
         "position": 10,
@@ -1091,7 +1091,7 @@
         "match_id": "as_4905e953d2bb4fe3a36269a64ed5ae82",
         "date": "2026-09-19",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -1103,13 +1103,16 @@
           "name": "塔林足球俱乐部",
           "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c7ba7128d05e498b8a1619a3855ca758",
         "date": "2026-09-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Postp.",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -1121,7 +1124,8 @@
           "name": "马尔杜",
           "team_id": "ast_730e7ee5d0a1496a8b515e69cda612cc"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_8e5c58a058634e81ae1797be51487290",
@@ -1141,7 +1145,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Kadrioru Staadion",
         "status_label": "完场"
       },
       {
@@ -1162,7 +1166,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "维姆西体育场",
         "status_label": "完场"
       },
       {
@@ -4727,42 +4731,6 @@
           "team_id": "ast_c18af10718ec4850879e99b486d17356"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_c7ba7128d05e498b8a1619a3855ca758",
-        "date": "2026-09-19",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "列瓦迪亚U21",
-          "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
-        },
-        "away": {
-          "name": "马尔杜",
-          "team_id": "ast_730e7ee5d0a1496a8b515e69cda612cc"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4905e953d2bb4fe3a36269a64ed5ae82",
-        "date": "2026-09-19",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "埃尔瓦",
-          "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc"
-        },
-        "away": {
-          "name": "塔林足球俱乐部",
-          "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7832,13 +7800,13 @@
     }
   },
   "stats": {
-    "matches_completed": 146,
-    "total_goals": 535,
-    "avg_goals_per_match": 3.66,
+    "matches_completed": 147,
+    "total_goals": 537,
+    "avg_goals_per_match": 3.65,
     "home_wins": 68,
-    "draws": 26,
+    "draws": 27,
     "away_wins": 52,
-    "home_win_pct": 46.6,
+    "home_win_pct": 46.3,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8636,7 +8604,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 28
+    "upcoming_matches": 26
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

@@ -2862,7 +2862,7 @@
       {
         "match_id": "as_b3468e2e627a41c280d0e738317e9eaa",
         "date": "2026-09-27",
-        "time": "11:00",
+        "time": "08:00",
         "status": "Not Started",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
@@ -2882,7 +2882,7 @@
       {
         "match_id": "as_66282562bd4e49e096e847a909785011",
         "date": "2026-09-27",
-        "time": "08:00",
+        "time": "05:00",
         "status": "Not Started",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
@@ -2903,7 +2903,7 @@
         "match_id": "as_086622ea1f8f4f81a0da1a9db936f7f5",
         "date": "2026-09-26",
         "time": "08:00",
-        "status": "08:00",
+        "status": "Not Started",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2915,13 +2915,15 @@
           "name": "乌兰戈姆城",
           "team_id": "ast_de0b58c874114e68b7b7a9267cceefc4"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e493a8cee0be48d5a5503c01d23283e6",
         "date": "2026-09-26",
         "time": "05:00",
-        "status": "05:00",
+        "status": "Not Started",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2933,13 +2935,15 @@
           "name": "霍夫德",
           "team_id": "ast_6d86ff16ee5a4d7f89dfed6f1873918b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9f62f977ed6f40a3a4bb96487269d0ad",
         "date": "2026-09-21",
-        "time": "11:00",
-        "status": "11:00",
+        "time": "08:00",
+        "status": "08:00",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2956,8 +2960,8 @@
       {
         "match_id": "as_b7d0c4dc17d44ca6a92782a7b0a490c8",
         "date": "2026-09-21",
-        "time": "08:00",
-        "status": "08:00",
+        "time": "05:00",
+        "status": "05:00",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2993,7 +2997,7 @@
         "match_id": "as_6e873d2569aa488ca8fbc06d6a66be61",
         "date": "2026-09-20",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -3005,7 +3009,10 @@
           "name": "乌兰巴托足球俱乐部",
           "team_id": "ast_14044191df6f4d37b013d411d0fce4d7"
         },
-        "venue": ""
+        "ht_score": "0-4",
+        "reg_score": "0-9",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -5000,5 +5007,5 @@
     "matches_current_season": 99,
     "upcoming_matches": 28
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

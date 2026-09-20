@@ -1813,7 +1813,7 @@
         "match_id": "as_8218033fe7614ce2b28e92014124d1b0",
         "date": "2026-09-19",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "荷兰女子甲级联赛",
         "league_id": "asl_555641d354974b8faee0e37f76791520",
         "season": "2026/2027",
@@ -1825,13 +1825,16 @@
           "name": "特温特",
           "team_id": "ast_750fb8b9de134b429f53785a43f6aa67"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a729e8682d6644f098d55567477fd57a",
         "date": "2026-09-19",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "荷兰女子甲级联赛",
         "league_id": "asl_555641d354974b8faee0e37f76791520",
         "season": "2026/2027",
@@ -1843,13 +1846,16 @@
           "name": "阿贾克斯",
           "team_id": "ast_5d407e54c6004ef3a8b4b09c6427fec7"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "5-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5863b40772c048139cec842c428c551a",
         "date": "2026-09-19",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "荷兰女子甲级联赛",
         "league_id": "asl_555641d354974b8faee0e37f76791520",
         "season": "2026/2027",
@@ -1861,7 +1867,10 @@
           "name": "费耶诺德",
           "team_id": "ast_7fe65a71cbfd44a28845a8a951304c0d"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a496ab2a4fbd4a2bbcc7082b4246a772",
@@ -2714,60 +2723,6 @@
           "team_id": "ast_05d3281e4d7142d181f0621c3dde81f0"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_5863b40772c048139cec842c428c551a",
-        "date": "2026-09-19",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "荷兰女子甲级联赛",
-        "league_id": "asl_555641d354974b8faee0e37f76791520",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌得勒支",
-          "team_id": "ast_37a4905e303042b19d9530c85318071b"
-        },
-        "away": {
-          "name": "费耶诺德",
-          "team_id": "ast_7fe65a71cbfd44a28845a8a951304c0d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a729e8682d6644f098d55567477fd57a",
-        "date": "2026-09-19",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "荷兰女子甲级联赛",
-        "league_id": "asl_555641d354974b8faee0e37f76791520",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿贾克斯女足",
-          "team_id": "ast_e6e099b3bc8c44949826ea690531335b"
-        },
-        "away": {
-          "name": "阿贾克斯",
-          "team_id": "ast_5d407e54c6004ef3a8b4b09c6427fec7"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8218033fe7614ce2b28e92014124d1b0",
-        "date": "2026-09-19",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "荷兰女子甲级联赛",
-        "league_id": "asl_555641d354974b8faee0e37f76791520",
-        "season": "2026/2027",
-        "home": {
-          "name": "PSV",
-          "team_id": "ast_4290632517e242a49c8de572c54de6c2"
-        },
-        "away": {
-          "name": "特温特",
-          "team_id": "ast_750fb8b9de134b429f53785a43f6aa67"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3383,13 +3338,13 @@
     }
   },
   "stats": {
-    "matches_completed": 20,
-    "total_goals": 71,
-    "avg_goals_per_match": 3.55,
-    "home_wins": 10,
+    "matches_completed": 23,
+    "total_goals": 84,
+    "avg_goals_per_match": 3.65,
+    "home_wins": 11,
     "draws": 1,
-    "away_wins": 9,
-    "home_win_pct": 50.0,
+    "away_wins": 11,
+    "home_win_pct": 47.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -4186,7 +4141,7 @@
     "teams_all_time": 13,
     "standings_rows_current": 12,
     "matches_current_season": 90,
-    "upcoming_matches": 25
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

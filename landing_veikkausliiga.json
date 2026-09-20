@@ -3377,7 +3377,7 @@
         "match_id": "as_8db915d43e8942dda7fee027afa98c1d",
         "date": "2026-09-19",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3389,13 +3389,16 @@
           "name": "伊尔维斯",
           "team_id": "ast_8193ea908c4e4978b79726b3c82b97f0"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_106941aef5744496bdf7840d651cbb52",
         "date": "2026-09-19",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3407,7 +3410,10 @@
           "name": "库普斯",
           "team_id": "ast_069c39eeb4cb428ca0602b0c4ae1c2a3"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e3500f5a952c4aa09a61772c01467d5d",
@@ -3427,7 +3433,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "拉赫蒂体育场",
         "status_label": "完场"
       },
       {
@@ -3448,7 +3454,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "OmaSp Stadion",
         "status_label": "完场"
       },
       {
@@ -3469,7 +3475,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "OTC Stadion",
         "status_label": "完场"
       },
       {
@@ -3490,7 +3496,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Markku.fi Areena",
         "status_label": "完场"
       },
       {
@@ -6998,42 +7004,6 @@
         "ht_score": "-",
         "venue": "Markku.fi Areena",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_106941aef5744496bdf7840d651cbb52",
-        "date": "2026-09-19",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "VPS",
-          "team_id": "ast_d68d155d554a4e65855d70cdec8228df"
-        },
-        "away": {
-          "name": "库普斯",
-          "team_id": "ast_069c39eeb4cb428ca0602b0c4ae1c2a3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8db915d43e8942dda7fee027afa98c1d",
-        "date": "2026-09-19",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "TPS",
-          "team_id": "ast_44f3fd86dd94460494bbaa175a9af264"
-        },
-        "away": {
-          "name": "伊尔维斯",
-          "team_id": "ast_8193ea908c4e4978b79726b3c82b97f0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11455,13 +11425,13 @@
     }
   },
   "stats": {
-    "matches_completed": 148,
-    "total_goals": 371,
+    "matches_completed": 150,
+    "total_goals": 376,
     "avg_goals_per_match": 2.51,
     "home_wins": 68,
     "draws": 41,
-    "away_wins": 39,
-    "home_win_pct": 45.9,
+    "away_wins": 41,
+    "home_win_pct": 45.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12266,7 +12236,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 177,
-    "upcoming_matches": 26
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

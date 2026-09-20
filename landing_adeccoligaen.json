@@ -216,6 +216,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_1b3bcb1575554466a0e974d2c7f002a1",
+        "team": "Bryne",
+        "played": 23,
+        "wins": 11,
+        "draws": 2,
+        "losses": 10,
+        "goals_for": 32,
+        "goals_against": 31,
+        "goal_difference": 1,
+        "points": 35,
+        "form": "WWLLW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_e7b1e3db68544cd59fcc098c8e69ea89",
         "team": "Hodd",
         "played": 22,
@@ -229,7 +243,7 @@
         "form": "LDWLW"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_168a5854109e415ebce16bbcef0dde9e",
         "team": "Odd",
         "played": 22,
@@ -241,20 +255,6 @@
         "goal_difference": 7,
         "points": 33,
         "form": "LDWLL"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_1b3bcb1575554466a0e974d2c7f002a1",
-        "team": "Bryne",
-        "played": 22,
-        "wins": 10,
-        "draws": 2,
-        "losses": 10,
-        "goals_for": 28,
-        "goals_against": 31,
-        "goal_difference": -3,
-        "points": 32,
-        "form": "WLLWW"
       },
       {
         "position": 8,
@@ -358,15 +358,15 @@
         "position": 15,
         "team_id": "ast_bda9e67dc0694a2484fdfebed6bd67e3",
         "team": "Asane",
-        "played": 22,
+        "played": 23,
         "wins": 5,
         "draws": 5,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 34,
-        "goals_against": 48,
-        "goal_difference": -14,
+        "goals_against": 52,
+        "goal_difference": -18,
         "points": 19,
-        "form": "DDDLW"
+        "form": "LDDDL"
       },
       {
         "position": 16,
@@ -446,6 +446,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_1b3bcb1575554466a0e974d2c7f002a1",
+        "team": "布赖恩",
+        "played": 23,
+        "wins": 11,
+        "draws": 2,
+        "losses": 10,
+        "goals_for": 32,
+        "goals_against": 31,
+        "goal_difference": 1,
+        "points": 35,
+        "form": "WWLLW",
+        "form_label": "胜胜负负胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_e7b1e3db68544cd59fcc098c8e69ea89",
         "team": "霍德",
         "played": 22,
@@ -460,7 +475,7 @@
         "form_label": "负平胜负胜"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_168a5854109e415ebce16bbcef0dde9e",
         "team": "奥德",
         "played": 22,
@@ -473,21 +488,6 @@
         "points": 33,
         "form": "LDWLL",
         "form_label": "负平胜负负"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_1b3bcb1575554466a0e974d2c7f002a1",
-        "team": "布赖恩",
-        "played": 22,
-        "wins": 10,
-        "draws": 2,
-        "losses": 10,
-        "goals_for": 28,
-        "goals_against": 31,
-        "goal_difference": -3,
-        "points": 32,
-        "form": "WLLWW",
-        "form_label": "胜负负胜胜"
       },
       {
         "position": 8,
@@ -598,16 +598,16 @@
         "position": 15,
         "team_id": "ast_bda9e67dc0694a2484fdfebed6bd67e3",
         "team": "阿萨内",
-        "played": 22,
+        "played": 23,
         "wins": 5,
         "draws": 5,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 34,
-        "goals_against": 48,
-        "goal_difference": -14,
+        "goals_against": 52,
+        "goal_difference": -18,
         "points": 19,
-        "form": "DDDLW",
-        "form_label": "平平平负胜"
+        "form": "LDDDL",
+        "form_label": "负平平平负"
       },
       {
         "position": 16,
@@ -1121,6 +1121,26 @@
         },
         "ht_score": "-",
         "venue": "NAMMO Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c27ce5146fbf49dda34680987d7d528e",
+        "date": "2026-10-21",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "挪威甲级联赛",
+        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
+        "season": "2026",
+        "home": {
+          "name": "索格达尔",
+          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
+        },
+        "away": {
+          "name": "劳福斯",
+          "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f"
+        },
+        "ht_score": "-",
+        "venue": "Fosshaugane训练基地",
         "status_label": "未开赛"
       },
       {
@@ -1684,26 +1704,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_c27ce5146fbf49dda34680987d7d528e",
-        "date": "2026-10-03",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "挪威甲级联赛",
-        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
-        "season": "2026",
-        "home": {
-          "name": "索格达尔",
-          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
-        },
-        "away": {
-          "name": "劳福斯",
-          "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f"
-        },
-        "ht_score": "-",
-        "venue": "Fosshaugane训练基地",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_552fd48eaed34d6f854b5780076d8e08",
         "date": "2026-10-03",
         "time": "12:30",
@@ -1893,7 +1893,7 @@
         "match_id": "as_399de4bc44654921af783dd18cbf914d",
         "date": "2026-09-19",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "挪威甲级联赛",
         "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
         "season": "2026",
@@ -1905,7 +1905,10 @@
           "name": "布赖恩",
           "team_id": "ast_1b3bcb1575554466a0e974d2c7f002a1"
         },
-        "venue": ""
+        "ht_score": "0-3",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8ac2f1c38f4e4ad6af15cc0d80e9efd8",
@@ -5926,6 +5929,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_c27ce5146fbf49dda34680987d7d528e",
+        "date": "2026-10-21",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "挪威甲级联赛",
+        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
+        "season": "2026",
+        "home": {
+          "name": "索格达尔",
+          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
+        },
+        "away": {
+          "name": "劳福斯",
+          "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f"
+        },
+        "ht_score": "-",
+        "venue": "Fosshaugane训练基地",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_52cac699518c488f8e8eef903330722e",
         "date": "2026-10-18",
         "time": "12:30",
@@ -6483,26 +6506,6 @@
         },
         "ht_score": "-",
         "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c27ce5146fbf49dda34680987d7d528e",
-        "date": "2026-10-03",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "挪威甲级联赛",
-        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
-        "season": "2026",
-        "home": {
-          "name": "索格达尔",
-          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
-        },
-        "away": {
-          "name": "劳福斯",
-          "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f"
-        },
-        "ht_score": "-",
-        "venue": "Fosshaugane训练基地",
         "status_label": "未开赛"
       },
       {
@@ -8488,13 +8491,13 @@
     }
   },
   "stats": {
-    "matches_completed": 176,
-    "total_goals": 673,
+    "matches_completed": 177,
+    "total_goals": 677,
     "avg_goals_per_match": 3.82,
     "home_wins": 87,
     "draws": 31,
-    "away_wins": 58,
-    "home_win_pct": 49.4,
+    "away_wins": 59,
+    "home_win_pct": 49.2,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -9294,5 +9297,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }

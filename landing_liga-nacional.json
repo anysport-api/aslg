@@ -4841,6 +4841,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_7fdad13189954e3890d3de2daa9d4514",
+        "date": "2026-11-04",
+        "time": "02:00",
+        "status": "Not Started",
+        "league": "危地马拉甲级联赛",
+        "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
+        "season": "2026/2027",
+        "home": {
+          "name": "谢拉胡",
+          "team_id": "ast_9269b0cc06e44d8bb990e53b32f711f5"
+        },
+        "away": {
+          "name": "Marquense",
+          "team_id": "ast_3501731a2bdc4d71828f4b7bdc29c055"
+        },
+        "ht_score": "-",
+        "venue": "马里奥·坎佩斯科体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_51328f8644034b658ab13d476ca51b29",
         "date": "2026-11-03",
         "time": "02:00",
@@ -5704,7 +5724,7 @@
         "match_id": "as_77aa3c1c2b584a52a11b6d6100b9e25e",
         "date": "2026-09-27",
         "time": "00:00",
-        "status": "00:00",
+        "status": "Not Started",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5716,7 +5736,9 @@
           "name": "马拉卡特科",
           "team_id": "ast_1da7dd7f7a734b98928c65747892748a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Estadio Marquesa de la Ensenada",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_15a9ec7e1094413b8f1fb864f7900f4f",
@@ -5762,7 +5784,7 @@
         "match_id": "as_9832cb9a4a674680b306d774079dc4af",
         "date": "2026-09-26",
         "time": "21:00",
-        "status": "21:00",
+        "status": "Not Started",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5774,13 +5796,15 @@
           "name": "Deportivo San Pedro",
           "team_id": "ast_ab573456636d475d9c0600da4136e0c9"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_52cf0a069bc1443e87946c824676b981",
         "date": "2026-09-25",
         "time": "02:00",
-        "status": "02:00",
+        "status": "Not Started",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5792,13 +5816,15 @@
           "name": "苏基特佩克斯",
           "team_id": "ast_2aa8a73f17514d05884d9ca74c452590"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Estadio Manuel Felipe Carrera",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4efb2c3c15134e1b9e72cfc055956082",
         "date": "2026-09-24",
         "time": "02:00",
-        "status": "02:00",
+        "status": "Not Started",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5810,25 +5836,9 @@
           "name": "安提瓜",
           "team_id": "ast_9960323dcf924b1892e0dceb3fca1d2a"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a6b67c12880b4277a6b555d7ca3c2127",
-        "date": "2026-09-21",
-        "time": "01:00",
-        "status": "01:00",
-        "league": "危地马拉甲级联赛",
-        "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
-        "season": "2026/2027",
-        "home": {
-          "name": "马拉卡特科",
-          "team_id": "ast_1da7dd7f7a734b98928c65747892748a"
-        },
-        "away": {
-          "name": "米克斯科体育",
-          "team_id": "ast_ce970a90023048da809b747014bafbc5"
-        },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "马里奥·坎佩斯科体育场",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -8033,5 +8043,5 @@
     "matches_current_season": 206,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/19"
+  "updated_at": "2026/09/20"
 }
