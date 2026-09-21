@@ -172,15 +172,15 @@
         "position": 3,
         "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc",
         "team": "12 de Junio",
-        "played": 24,
+        "played": 25,
         "wins": 14,
         "draws": 6,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 35,
-        "goals_against": 22,
-        "goal_difference": 13,
+        "goals_against": 26,
+        "goal_difference": 9,
         "points": 48,
-        "form": "WDDLW"
+        "form": "LWDDL"
       },
       {
         "position": 4,
@@ -212,6 +212,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_94aa5083f404475d85732d1ca1776d3b",
+        "team": "Independiente FBC",
+        "played": 25,
+        "wins": 9,
+        "draws": 10,
+        "losses": 6,
+        "goals_for": 37,
+        "goals_against": 32,
+        "goal_difference": 5,
+        "points": 37,
+        "form": "WWWDL"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b",
         "team": "Paraguari AC",
         "played": 25,
@@ -225,32 +239,18 @@
         "form": "WWWWW"
       },
       {
-        "position": 7,
-        "team_id": "ast_94aa5083f404475d85732d1ca1776d3b",
-        "team": "Independiente FBC",
-        "played": 24,
-        "wins": 8,
-        "draws": 10,
-        "losses": 6,
-        "goals_for": 33,
-        "goals_against": 32,
-        "goal_difference": 1,
-        "points": 34,
-        "form": "WWDLD"
-      },
-      {
         "position": 8,
         "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
         "team": "Sp. Carapegua",
-        "played": 24,
+        "played": 25,
         "wins": 10,
-        "draws": 4,
+        "draws": 5,
         "losses": 10,
         "goals_for": 30,
         "goals_against": 38,
         "goal_difference": -8,
-        "points": 34,
-        "form": "WWLWL"
+        "points": 35,
+        "form": "DWWLW"
       },
       {
         "position": 9,
@@ -340,15 +340,15 @@
         "position": 15,
         "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea",
         "team": "Tacuary",
-        "played": 24,
+        "played": 25,
         "wins": 3,
-        "draws": 11,
+        "draws": 12,
         "losses": 10,
         "goals_for": 26,
         "goals_against": 39,
         "goal_difference": -13,
-        "points": 20,
-        "form": "LDLDL"
+        "points": 21,
+        "form": "DLDLD"
       },
       {
         "position": 16,
@@ -400,16 +400,16 @@
         "position": 3,
         "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc",
         "team": "12 de Junio",
-        "played": 24,
+        "played": 25,
         "wins": 14,
         "draws": 6,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 35,
-        "goals_against": 22,
-        "goal_difference": 13,
+        "goals_against": 26,
+        "goal_difference": 9,
         "points": 48,
-        "form": "WDDLW",
-        "form_label": "胜平平负胜"
+        "form": "LWDDL",
+        "form_label": "负胜平平负"
       },
       {
         "position": 4,
@@ -443,6 +443,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_94aa5083f404475d85732d1ca1776d3b",
+        "team": "独立FBC",
+        "played": 25,
+        "wins": 9,
+        "draws": 10,
+        "losses": 6,
+        "goals_for": 37,
+        "goals_against": 32,
+        "goal_difference": 5,
+        "points": 37,
+        "form": "WWWDL",
+        "form_label": "胜胜胜平负"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b",
         "team": "帕拉瓜里AC",
         "played": 25,
@@ -457,34 +472,19 @@
         "form_label": "胜胜胜胜胜"
       },
       {
-        "position": 7,
-        "team_id": "ast_94aa5083f404475d85732d1ca1776d3b",
-        "team": "独立FBC",
-        "played": 24,
-        "wins": 8,
-        "draws": 10,
-        "losses": 6,
-        "goals_for": 33,
-        "goals_against": 32,
-        "goal_difference": 1,
-        "points": 34,
-        "form": "WWDLD",
-        "form_label": "胜胜平负平"
-      },
-      {
         "position": 8,
         "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
         "team": "卡拉佩瓜体育",
-        "played": 24,
+        "played": 25,
         "wins": 10,
-        "draws": 4,
+        "draws": 5,
         "losses": 10,
         "goals_for": 30,
         "goals_against": 38,
         "goal_difference": -8,
-        "points": 34,
-        "form": "WWLWL",
-        "form_label": "胜胜负胜负"
+        "points": 35,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 9,
@@ -580,16 +580,16 @@
         "position": 15,
         "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea",
         "team": "塔库阿里",
-        "played": 24,
+        "played": 25,
         "wins": 3,
-        "draws": 11,
+        "draws": 12,
         "losses": 10,
         "goals_for": 26,
         "goals_against": 39,
         "goal_difference": -13,
-        "points": 20,
-        "form": "LDLDL",
-        "form_label": "负平负平负"
+        "points": 21,
+        "form": "DLDLD",
+        "form_label": "平负平负平"
       },
       {
         "position": 16,
@@ -625,6 +625,326 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_4260c3b10fef4b459b2bbabd0ea5d69c",
+        "date": "2026-10-06",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "本杰明·阿塞瓦尔",
+          "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
+        },
+        "away": {
+          "name": "独立FBC",
+          "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
+        },
+        "ht_score": "-",
+        "venue": "阿塞尼奥·埃里科体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_357e2df7b8ab4ca1bf59188de06081a8",
+        "date": "2026-10-06",
+        "time": "22:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "圣塔尼体育",
+          "team_id": "ast_730f70bc587e493ba50dc5ed5e31ed8e"
+        },
+        "away": {
+          "name": "瓜伊雷纳",
+          "team_id": "ast_2a5f993e29bb48008a96be4ec701e415"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f42738c3f5ef4cb19b159f8a9efdbe1c",
+        "date": "2026-10-05",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "12 de Junio",
+          "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
+        },
+        "away": {
+          "name": "美洲之太阳",
+          "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_08f1cb3a6ea94dafb64636d379b465b8",
+        "date": "2026-10-05",
+        "time": "22:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "费尔南多·德·拉·莫拉",
+          "team_id": "ast_0e00bf7ccbac42a1a239bbe2b846fb10"
+        },
+        "away": {
+          "name": "卡巴列罗将军JLM",
+          "team_id": "ast_ece2040d27e748209e40b56a07b50286"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c0d4ad4c042f44e6bf6881db419879c4",
+        "date": "2026-10-03",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "坦贝塔里竞技",
+          "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
+        },
+        "away": {
+          "name": "塔库阿里",
+          "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_94862cdb6b6c446eac433f74c99298c2",
+        "date": "2026-10-03",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "帕拉瓜里AC",
+          "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b"
+        },
+        "away": {
+          "name": "11月3日",
+          "team_id": "ast_7bc158e4a5814a6095f822f2db98e120"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ba422126eb4a45a1a673781ae16e8374",
+        "date": "2026-10-02",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "恩卡纳西翁FC",
+          "team_id": "ast_ffe20830ac654f9088de1d2c4b310e6f"
+        },
+        "away": {
+          "name": "雷西斯滕西亚",
+          "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_68d246f78c2742adaf12b569c2956bc4",
+        "date": "2026-10-02",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "卡拉佩瓜体育",
+          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
+        },
+        "away": {
+          "name": "卡皮亚塔体育",
+          "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_569b773cfec34b618a3bbc99ff9d2bc7",
+        "date": "2026-09-28",
+        "time": "19:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "坦贝塔里竞技",
+          "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
+        },
+        "away": {
+          "name": "帕拉瓜里AC",
+          "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3e90b16ca3834a7691eeb9f50f95026c",
+        "date": "2026-09-28",
+        "time": "22:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "瓜伊雷纳",
+          "team_id": "ast_2a5f993e29bb48008a96be4ec701e415"
+        },
+        "away": {
+          "name": "费尔南多·德·拉·莫拉",
+          "team_id": "ast_0e00bf7ccbac42a1a239bbe2b846fb10"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_729784dbe7a24a2598601aa158997970",
+        "date": "2026-09-27",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "卡皮亚塔体育",
+          "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
+        },
+        "away": {
+          "name": "12 de Junio",
+          "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_08fea43cf2994637879250f411aae6cb",
+        "date": "2026-09-27",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "雷西斯滕西亚",
+          "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
+        },
+        "away": {
+          "name": "圣塔尼体育",
+          "team_id": "ast_730f70bc587e493ba50dc5ed5e31ed8e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c2bcc9a1c7394a5899a60a5f08d4481b",
+        "date": "2026-09-26",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "美洲之太阳",
+          "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
+        },
+        "away": {
+          "name": "恩卡纳西翁FC",
+          "team_id": "ast_ffe20830ac654f9088de1d2c4b310e6f"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Luis Alfonso Giagni",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1e9ee4013b8e41dd83eac4861f50ed87",
+        "date": "2026-09-26",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "塔库阿里",
+          "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
+        },
+        "away": {
+          "name": "本杰明·阿塞瓦尔",
+          "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Luis Alfonso Giagni",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8e7d560128244ae38752cf20d07c931c",
+        "date": "2026-09-25",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "独立FBC",
+          "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
+        },
+        "away": {
+          "name": "卡拉佩瓜体育",
+          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0d12d59737fa450c8d9788e4598be154",
+        "date": "2026-09-25",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "卡巴列罗将军JLM",
+          "team_id": "ast_ece2040d27e748209e40b56a07b50286"
+        },
+        "away": {
+          "name": "11月3日",
+          "team_id": "ast_7bc158e4a5814a6095f822f2db98e120"
+        },
+        "ht_score": "-",
+        "venue": "莱安德罗·奥韦拉尔体育场",
+        "status_label": "未开赛"
+      },
       {
         "match_id": "as_d3dd57a1c4464abcbeb0c78f75e58e2d",
         "date": "2026-09-21",
@@ -665,7 +985,7 @@
         "match_id": "as_ed5a235561af4326a4fa7df26a6d0d13",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -677,13 +997,16 @@
           "name": "独立FBC",
           "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_35d0d5d9575640cbbb07916fec769eb1",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -695,7 +1018,10 @@
           "name": "塔库阿里",
           "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c8945db22d6b44a2994dbf34fa3124f6",
@@ -4816,6 +5142,326 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_357e2df7b8ab4ca1bf59188de06081a8",
+        "date": "2026-10-06",
+        "time": "22:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "圣塔尼体育",
+          "team_id": "ast_730f70bc587e493ba50dc5ed5e31ed8e"
+        },
+        "away": {
+          "name": "瓜伊雷纳",
+          "team_id": "ast_2a5f993e29bb48008a96be4ec701e415"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_4260c3b10fef4b459b2bbabd0ea5d69c",
+        "date": "2026-10-06",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "本杰明·阿塞瓦尔",
+          "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
+        },
+        "away": {
+          "name": "独立FBC",
+          "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
+        },
+        "ht_score": "-",
+        "venue": "阿塞尼奥·埃里科体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_08f1cb3a6ea94dafb64636d379b465b8",
+        "date": "2026-10-05",
+        "time": "22:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "费尔南多·德·拉·莫拉",
+          "team_id": "ast_0e00bf7ccbac42a1a239bbe2b846fb10"
+        },
+        "away": {
+          "name": "卡巴列罗将军JLM",
+          "team_id": "ast_ece2040d27e748209e40b56a07b50286"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f42738c3f5ef4cb19b159f8a9efdbe1c",
+        "date": "2026-10-05",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "12 de Junio",
+          "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
+        },
+        "away": {
+          "name": "美洲之太阳",
+          "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_94862cdb6b6c446eac433f74c99298c2",
+        "date": "2026-10-03",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "帕拉瓜里AC",
+          "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b"
+        },
+        "away": {
+          "name": "11月3日",
+          "team_id": "ast_7bc158e4a5814a6095f822f2db98e120"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c0d4ad4c042f44e6bf6881db419879c4",
+        "date": "2026-10-03",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "坦贝塔里竞技",
+          "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
+        },
+        "away": {
+          "name": "塔库阿里",
+          "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_68d246f78c2742adaf12b569c2956bc4",
+        "date": "2026-10-02",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "卡拉佩瓜体育",
+          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
+        },
+        "away": {
+          "name": "卡皮亚塔体育",
+          "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ba422126eb4a45a1a673781ae16e8374",
+        "date": "2026-10-02",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "恩卡纳西翁FC",
+          "team_id": "ast_ffe20830ac654f9088de1d2c4b310e6f"
+        },
+        "away": {
+          "name": "雷西斯滕西亚",
+          "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3e90b16ca3834a7691eeb9f50f95026c",
+        "date": "2026-09-28",
+        "time": "22:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "瓜伊雷纳",
+          "team_id": "ast_2a5f993e29bb48008a96be4ec701e415"
+        },
+        "away": {
+          "name": "费尔南多·德·拉·莫拉",
+          "team_id": "ast_0e00bf7ccbac42a1a239bbe2b846fb10"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_569b773cfec34b618a3bbc99ff9d2bc7",
+        "date": "2026-09-28",
+        "time": "19:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "坦贝塔里竞技",
+          "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
+        },
+        "away": {
+          "name": "帕拉瓜里AC",
+          "team_id": "ast_f80b8fc7e55c408cbc786898e8f2048b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_08fea43cf2994637879250f411aae6cb",
+        "date": "2026-09-27",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "雷西斯滕西亚",
+          "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
+        },
+        "away": {
+          "name": "圣塔尼体育",
+          "team_id": "ast_730f70bc587e493ba50dc5ed5e31ed8e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_729784dbe7a24a2598601aa158997970",
+        "date": "2026-09-27",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "卡皮亚塔体育",
+          "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
+        },
+        "away": {
+          "name": "12 de Junio",
+          "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1e9ee4013b8e41dd83eac4861f50ed87",
+        "date": "2026-09-26",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "塔库阿里",
+          "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
+        },
+        "away": {
+          "name": "本杰明·阿塞瓦尔",
+          "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Luis Alfonso Giagni",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c2bcc9a1c7394a5899a60a5f08d4481b",
+        "date": "2026-09-26",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "美洲之太阳",
+          "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
+        },
+        "away": {
+          "name": "恩卡纳西翁FC",
+          "team_id": "ast_ffe20830ac654f9088de1d2c4b310e6f"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Luis Alfonso Giagni",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0d12d59737fa450c8d9788e4598be154",
+        "date": "2026-09-25",
+        "time": "21:30",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "卡巴列罗将军JLM",
+          "team_id": "ast_ece2040d27e748209e40b56a07b50286"
+        },
+        "away": {
+          "name": "11月3日",
+          "team_id": "ast_7bc158e4a5814a6095f822f2db98e120"
+        },
+        "ht_score": "-",
+        "venue": "莱安德罗·奥韦拉尔体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8e7d560128244ae38752cf20d07c931c",
+        "date": "2026-09-25",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "巴拉圭中级联赛",
+        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
+        "season": "2026",
+        "home": {
+          "name": "独立FBC",
+          "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
+        },
+        "away": {
+          "name": "卡拉佩瓜体育",
+          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_4d70ead9edb840d28ad0a0576bd53902",
         "date": "2026-09-21",
         "time": "22:00",
@@ -4848,42 +5494,6 @@
         "away": {
           "name": "坦贝塔里竞技",
           "team_id": "ast_c58e9d9818b7438c9c3c3001e403df2e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_35d0d5d9575640cbbb07916fec769eb1",
-        "date": "2026-09-20",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "卡拉佩瓜体育",
-          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
-        },
-        "away": {
-          "name": "塔库阿里",
-          "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ed5a235561af4326a4fa7df26a6d0d13",
-        "date": "2026-09-20",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "12 de Junio",
-          "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc"
-        },
-        "away": {
-          "name": "独立FBC",
-          "team_id": "ast_94aa5083f404475d85732d1ca1776d3b"
         },
         "venue": ""
       }
@@ -9447,22 +10057,22 @@
     }
   },
   "stats": {
-    "matches_completed": 196,
-    "total_goals": 510,
+    "matches_completed": 198,
+    "total_goals": 514,
     "avg_goals_per_match": 2.6,
     "home_wins": 78,
-    "draws": 56,
-    "away_wins": 62,
-    "home_win_pct": 39.8,
+    "draws": 57,
+    "away_wins": 63,
+    "home_win_pct": 39.4,
     "biggest_win": {
       "margin": 4,
       "match": {
-        "match_id": "as_0a79e348bdb34a9895bc42506b11e70e",
-        "date": "2026-07-11",
-        "home_id": "ast_7bc158e4a5814a6095f822f2db98e120",
-        "home": "11月3日",
-        "away_id": "ast_730f70bc587e493ba50dc5ed5e31ed8e",
-        "away": "圣塔尼体育",
+        "match_id": "as_ed5a235561af4326a4fa7df26a6d0d13",
+        "date": "2026-09-20",
+        "home_id": "ast_9fd49272038c4fffbe398aa91129c1fc",
+        "home": "12 de Junio",
+        "away_id": "ast_94aa5083f404475d85732d1ca1776d3b",
+        "away": "独立FBC",
         "score": "0-4"
       }
     },
@@ -9606,15 +10216,15 @@
             "position": 3,
             "team_id": "ast_9fd49272038c4fffbe398aa91129c1fc",
             "team": "12 de Junio",
-            "played": 24,
+            "played": 25,
             "wins": 14,
             "draws": 6,
-            "losses": 4,
+            "losses": 5,
             "goals_for": 35,
-            "goals_against": 22,
-            "goal_difference": 13,
+            "goals_against": 26,
+            "goal_difference": 9,
             "points": 48,
-            "form": "WDDLW"
+            "form": "LWDDL"
           }
         ],
         "meta": {
@@ -10195,8 +10805,8 @@
     "distinct_title_holders": 13,
     "teams_all_time": 52,
     "standings_rows_current": 16,
-    "matches_current_season": 200,
-    "upcoming_matches": 4
+    "matches_current_season": 216,
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

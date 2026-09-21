@@ -124,20 +124,48 @@
     "en": [
       {
         "position": 1,
-        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
-        "team": "Brusque",
-        "played": 2,
-        "wins": 1,
+        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
+        "team": "Ferroviaria",
+        "played": 3,
+        "wins": 2,
         "draws": 1,
         "losses": 0,
-        "goals_for": 4,
-        "goals_against": 3,
-        "goal_difference": 1,
-        "points": 4,
-        "form": "DW"
+        "goals_for": 7,
+        "goals_against": 5,
+        "goal_difference": 2,
+        "points": 7,
+        "form": "WWD"
       },
       {
         "position": 1,
+        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
+        "team": "Santa Cruz",
+        "played": 3,
+        "wins": 3,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 3,
+        "goals_against": 0,
+        "goal_difference": 3,
+        "points": 9,
+        "form": "WWW"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
+        "team": "Brusque",
+        "played": 3,
+        "wins": 1,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 6,
+        "goals_against": 6,
+        "goal_difference": 0,
+        "points": 4,
+        "form": "LDW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_df319754a46744b29dd51ca5fa201626",
         "team": "Maringa FC",
         "played": 3,
@@ -151,60 +179,32 @@
         "form": "WLW"
       },
       {
-        "position": 2,
-        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
-        "team": "Ferroviaria",
-        "played": 2,
-        "wins": 1,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 4,
-        "goals_against": 3,
-        "goal_difference": 1,
-        "points": 4,
-        "form": "WD"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
-        "team": "Santa Cruz",
-        "played": 2,
-        "wins": 2,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 2,
-        "goals_against": 0,
-        "goal_difference": 2,
-        "points": 6,
-        "form": "WW"
-      },
-      {
         "position": 3,
         "team_id": "ast_8ac3b3a72ff84664841a52f80e1131e4",
         "team": "Floresta EC",
-        "played": 2,
+        "played": 3,
         "wins": 1,
         "draws": 0,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 1,
-        "goals_against": 1,
-        "goal_difference": 0,
+        "goals_against": 2,
+        "goal_difference": -1,
         "points": 3,
-        "form": "WL"
+        "form": "LWL"
       },
       {
         "position": 3,
         "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed",
         "team": "Inter de Limeira",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
-        "goals_for": 5,
-        "goals_against": 5,
+        "goals_for": 7,
+        "goals_against": 7,
         "goal_difference": 0,
-        "points": 2,
-        "form": "DD"
+        "points": 3,
+        "form": "DDD"
       },
       {
         "position": 4,
@@ -224,15 +224,15 @@
         "position": 4,
         "team_id": "ast_33a966d65b14420c99a3f62c1db9084e",
         "team": "Paysandu PA",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 2,
-        "goals_for": 1,
-        "goals_against": 3,
+        "goals_for": 3,
+        "goals_against": 5,
         "goal_difference": -2,
-        "points": 0,
-        "form": "LL"
+        "points": 1,
+        "form": "DLL"
       },
       {
         "position": 9,
@@ -406,21 +406,51 @@
     "zh": [
       {
         "position": 1,
-        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
-        "team": "布鲁斯克",
-        "played": 2,
-        "wins": 1,
+        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
+        "team": "费罗维亚里亚",
+        "played": 3,
+        "wins": 2,
         "draws": 1,
         "losses": 0,
-        "goals_for": 4,
-        "goals_against": 3,
-        "goal_difference": 1,
-        "points": 4,
-        "form": "DW",
-        "form_label": "平胜"
+        "goals_for": 7,
+        "goals_against": 5,
+        "goal_difference": 2,
+        "points": 7,
+        "form": "WWD",
+        "form_label": "胜胜平"
       },
       {
         "position": 1,
+        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
+        "team": "圣克鲁斯",
+        "played": 3,
+        "wins": 3,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 3,
+        "goals_against": 0,
+        "goal_difference": 3,
+        "points": 9,
+        "form": "WWW",
+        "form_label": "胜胜胜"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
+        "team": "布鲁斯克",
+        "played": 3,
+        "wins": 1,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 6,
+        "goals_against": 6,
+        "goal_difference": 0,
+        "points": 4,
+        "form": "LDW",
+        "form_label": "负平胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_df319754a46744b29dd51ca5fa201626",
         "team": "马林加FC",
         "played": 3,
@@ -435,64 +465,34 @@
         "form_label": "胜负胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
-        "team": "费罗维亚里亚",
-        "played": 2,
-        "wins": 1,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 4,
-        "goals_against": 3,
-        "goal_difference": 1,
-        "points": 4,
-        "form": "WD",
-        "form_label": "胜平"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_93671c69695f427aadaac5cb871477b0",
-        "team": "圣克鲁斯",
-        "played": 2,
-        "wins": 2,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 2,
-        "goals_against": 0,
-        "goal_difference": 2,
-        "points": 6,
-        "form": "WW",
-        "form_label": "胜胜"
-      },
-      {
         "position": 3,
         "team_id": "ast_8ac3b3a72ff84664841a52f80e1131e4",
         "team": "弗洛雷斯塔EC",
-        "played": 2,
+        "played": 3,
         "wins": 1,
         "draws": 0,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 1,
-        "goals_against": 1,
-        "goal_difference": 0,
+        "goals_against": 2,
+        "goal_difference": -1,
         "points": 3,
-        "form": "WL",
-        "form_label": "胜负"
+        "form": "LWL",
+        "form_label": "负胜负"
       },
       {
         "position": 3,
         "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed",
         "team": "国际利梅拉",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
-        "goals_for": 5,
-        "goals_against": 5,
+        "goals_for": 7,
+        "goals_against": 7,
         "goal_difference": 0,
-        "points": 2,
-        "form": "DD",
-        "form_label": "平平"
+        "points": 3,
+        "form": "DDD",
+        "form_label": "平平平"
       },
       {
         "position": 4,
@@ -513,16 +513,16 @@
         "position": 4,
         "team_id": "ast_33a966d65b14420c99a3f62c1db9084e",
         "team": "佩桑杜",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 2,
-        "goals_for": 1,
-        "goals_against": 3,
+        "goals_for": 3,
+        "goals_against": 5,
         "goal_difference": -2,
-        "points": 0,
-        "form": "LL",
-        "form_label": "负负"
+        "points": 1,
+        "form": "DLL",
+        "form_label": "平负负"
       },
       {
         "position": 9,
@@ -967,7 +967,7 @@
         "match_id": "as_934ab1cacb204f93818543e6694135d5",
         "date": "2026-09-20",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -979,13 +979,16 @@
           "name": "弗洛雷斯塔EC",
           "team_id": "ast_8ac3b3a72ff84664841a52f80e1131e4"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b238faaf576144f6bb62247f70af0083",
         "date": "2026-09-20",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -997,13 +1000,16 @@
           "name": "布鲁斯克",
           "team_id": "ast_78b06997534745c381c37f6cf0ec31c1"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_24312a8800ed40138586b2293c6e4fa5",
         "date": "2026-09-20",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -1015,7 +1021,10 @@
           "name": "国际利梅拉",
           "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9cf41cf571864c479d3f3b82498bc431",
@@ -5437,60 +5446,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_24312a8800ed40138586b2293c6e4fa5",
-        "date": "2026-09-20",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "佩桑杜",
-          "team_id": "ast_33a966d65b14420c99a3f62c1db9084e"
-        },
-        "away": {
-          "name": "国际利梅拉",
-          "team_id": "ast_d747a9a4451f429a9ff2cb90155678ed"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b238faaf576144f6bb62247f70af0083",
-        "date": "2026-09-20",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "费罗维亚里亚",
-          "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885"
-        },
-        "away": {
-          "name": "布鲁斯克",
-          "team_id": "ast_78b06997534745c381c37f6cf0ec31c1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_934ab1cacb204f93818543e6694135d5",
-        "date": "2026-09-20",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "圣克鲁斯",
-          "team_id": "ast_93671c69695f427aadaac5cb871477b0"
-        },
-        "away": {
-          "name": "弗洛雷斯塔EC",
-          "team_id": "ast_8ac3b3a72ff84664841a52f80e1131e4"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7447,13 +7402,13 @@
     }
   },
   "stats": {
-    "matches_completed": 199,
-    "total_goals": 451,
-    "avg_goals_per_match": 2.27,
-    "home_wins": 92,
-    "draws": 53,
+    "matches_completed": 202,
+    "total_goals": 461,
+    "avg_goals_per_match": 2.28,
+    "home_wins": 94,
+    "draws": 54,
     "away_wins": 54,
-    "home_win_pct": 46.2,
+    "home_win_pct": 46.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7479,9 +7434,9 @@
       }
     },
     "leader": {
-      "team": "Brusque",
-      "points": 4,
-      "played": 2
+      "team": "Ferroviaria",
+      "points": 7,
+      "played": 3
     }
   },
   "coverage": {
@@ -7576,45 +7531,45 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
-            "team": "Brusque",
-            "played": 2,
-            "wins": 1,
+            "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
+            "team": "Ferroviaria",
+            "played": 3,
+            "wins": 2,
             "draws": 1,
             "losses": 0,
-            "goals_for": 4,
-            "goals_against": 3,
-            "goal_difference": 1,
-            "points": 4,
-            "form": "DW"
+            "goals_for": 7,
+            "goals_against": 5,
+            "goal_difference": 2,
+            "points": 7,
+            "form": "WWD"
           },
           {
             "position": 1,
-            "team_id": "ast_df319754a46744b29dd51ca5fa201626",
-            "team": "Maringa FC",
+            "team_id": "ast_93671c69695f427aadaac5cb871477b0",
+            "team": "Santa Cruz",
             "played": 3,
-            "wins": 2,
+            "wins": 3,
             "draws": 0,
-            "losses": 1,
+            "losses": 0,
             "goals_for": 3,
-            "goals_against": 1,
-            "goal_difference": 2,
-            "points": 6,
-            "form": "WLW"
+            "goals_against": 0,
+            "goal_difference": 3,
+            "points": 9,
+            "form": "WWW"
           },
           {
             "position": 2,
-            "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
-            "team": "Ferroviaria",
-            "played": 2,
+            "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
+            "team": "Brusque",
+            "played": 3,
             "wins": 1,
             "draws": 1,
-            "losses": 0,
-            "goals_for": 4,
-            "goals_against": 3,
-            "goal_difference": 1,
+            "losses": 1,
+            "goals_for": 6,
+            "goals_against": 6,
+            "goal_difference": 0,
             "points": 4,
-            "form": "WD"
+            "form": "LDW"
           }
         ],
         "meta": {
@@ -8251,7 +8206,7 @@
     "teams_all_time": 49,
     "standings_rows_current": 20,
     "matches_current_season": 214,
-    "upcoming_matches": 15
+    "upcoming_matches": 12
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

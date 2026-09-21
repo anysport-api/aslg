@@ -382,7 +382,7 @@
         "match_id": "as_181aa36bf3ac46ff91f1f6baa1d7b52a",
         "date": "2026-09-27",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -394,9 +394,7 @@
           "name": "坎贝",
           "team_id": "ast_efbb74cbad4d4d5e82f679711edbac44"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ab081c84d09c43e9b59b40f1ca66d333",
@@ -420,7 +418,7 @@
         "match_id": "as_0ccbf41862b74081a44bc889f9130b43",
         "date": "2026-09-20",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -432,7 +430,10 @@
           "name": "巴拉那S.T.C.",
           "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ef7792d96b0747ecba3a7a13e63de8e5",
@@ -1261,7 +1262,7 @@
         "match_id": "as_181aa36bf3ac46ff91f1f6baa1d7b52a",
         "date": "2026-09-27",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -1273,9 +1274,7 @@
           "name": "坎贝",
           "team_id": "ast_efbb74cbad4d4d5e82f679711edbac44"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ab081c84d09c43e9b59b40f1ca66d333",
@@ -1292,24 +1291,6 @@
         "away": {
           "name": "AA 伊瓜苏",
           "team_id": "ast_395e91a35e8141d99d74660991cba37f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0ccbf41862b74081a44bc889f9130b43",
-        "date": "2026-09-20",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "AA 伊瓜苏",
-          "team_id": "ast_395e91a35e8141d99d74660991cba37f"
-        },
-        "away": {
-          "name": "巴拉那S.T.C.",
-          "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
         },
         "venue": ""
       }
@@ -1754,13 +1735,13 @@
     }
   },
   "stats": {
-    "matches_completed": 39,
-    "total_goals": 90,
-    "avg_goals_per_match": 2.31,
+    "matches_completed": 40,
+    "total_goals": 93,
+    "avg_goals_per_match": 2.33,
     "home_wins": 17,
     "draws": 8,
-    "away_wins": 14,
-    "home_win_pct": 43.6,
+    "away_wins": 15,
+    "home_win_pct": 42.5,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -2557,7 +2538,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 11,
     "matches_current_season": 42,
-    "upcoming_matches": 3
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

@@ -192,6 +192,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_2ff689ece97249a48848308357f98ad4",
+        "team": "Gyeongju KHNP",
+        "played": 22,
+        "wins": 8,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 32,
+        "goals_against": 29,
+        "goal_difference": 3,
+        "points": 32,
+        "form": "WWWDW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_434a0a6074064c2cb20b596a0aa03ed3",
         "team": "Dangjin Citizen",
         "played": 22,
@@ -205,7 +219,7 @@
         "form": "WLLWW"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_8bdbe2445d3a4b51aef711fd9f5509e5",
         "team": "Chuncheon",
         "played": 22,
@@ -217,20 +231,6 @@
         "goal_difference": 4,
         "points": 29,
         "form": "WWWLW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_2ff689ece97249a48848308357f98ad4",
-        "team": "Gyeongju KHNP",
-        "played": 21,
-        "wins": 7,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 30,
-        "goals_against": 28,
-        "goal_difference": 2,
-        "points": 29,
-        "form": "WWDWW"
       },
       {
         "position": 8,
@@ -264,15 +264,15 @@
         "position": 10,
         "team_id": "ast_1128da027b614c98a8d767fcee5a25bf",
         "team": "Changwon",
-        "played": 21,
+        "played": 22,
         "wins": 6,
         "draws": 8,
-        "losses": 7,
-        "goals_for": 23,
-        "goals_against": 25,
-        "goal_difference": -2,
+        "losses": 8,
+        "goals_for": 24,
+        "goals_against": 27,
+        "goal_difference": -3,
         "points": 26,
-        "form": "LLLDD"
+        "form": "LLLLD"
       },
       {
         "position": 11,
@@ -394,6 +394,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_2ff689ece97249a48848308357f98ad4",
+        "team": "庆州KHNP",
+        "played": 22,
+        "wins": 8,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 32,
+        "goals_against": 29,
+        "goal_difference": 3,
+        "points": 32,
+        "form": "WWWDW",
+        "form_label": "胜胜胜平胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_434a0a6074064c2cb20b596a0aa03ed3",
         "team": "唐津市民",
         "played": 22,
@@ -408,7 +423,7 @@
         "form_label": "胜负负胜胜"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_8bdbe2445d3a4b51aef711fd9f5509e5",
         "team": "春川",
         "played": 22,
@@ -421,21 +436,6 @@
         "points": 29,
         "form": "WWWLW",
         "form_label": "胜胜胜负胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_2ff689ece97249a48848308357f98ad4",
-        "team": "庆州KHNP",
-        "played": 21,
-        "wins": 7,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 30,
-        "goals_against": 28,
-        "goal_difference": 2,
-        "points": 29,
-        "form": "WWDWW",
-        "form_label": "胜胜平胜胜"
       },
       {
         "position": 8,
@@ -471,16 +471,16 @@
         "position": 10,
         "team_id": "ast_1128da027b614c98a8d767fcee5a25bf",
         "team": "昌原",
-        "played": 21,
+        "played": 22,
         "wins": 6,
         "draws": 8,
-        "losses": 7,
-        "goals_for": 23,
-        "goals_against": 25,
-        "goal_difference": -2,
+        "losses": 8,
+        "goals_for": 24,
+        "goals_against": 27,
+        "goal_difference": -3,
         "points": 26,
-        "form": "LLLDD",
-        "form_label": "负负负平平"
+        "form": "LLLLD",
+        "form_label": "负负负负平"
       },
       {
         "position": 11,
@@ -1125,7 +1125,7 @@
         "match_id": "as_5b760d942a594f2d96bd17d95b732879",
         "date": "2026-09-20",
         "time": "08:00",
-        "status": "47",
+        "status": "FT",
         "league": "韩国丙级联赛",
         "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
         "season": "2026",
@@ -1138,8 +1138,9 @@
           "team_id": "ast_1128da027b614c98a8d767fcee5a25bf"
         },
         "ht_score": "1-1",
-        "reg_score": "1-1",
-        "venue": ""
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_12e8a06335ac491dae06e7a69d169a03",
@@ -4775,26 +4776,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5b760d942a594f2d96bd17d95b732879",
-        "date": "2026-09-20",
-        "time": "08:00",
-        "status": "47",
-        "league": "韩国丙级联赛",
-        "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
-        "season": "2026",
-        "home": {
-          "name": "庆州KHNP",
-          "team_id": "ast_2ff689ece97249a48848308357f98ad4"
-        },
-        "away": {
-          "name": "昌原",
-          "team_id": "ast_1128da027b614c98a8d767fcee5a25bf"
-        },
-        "ht_score": "1-1",
-        "reg_score": "1-1",
-        "venue": ""
       }
     ]
   },
@@ -8525,12 +8506,12 @@
   },
   "stats": {
     "matches_completed": 154,
-    "total_goals": 416,
-    "avg_goals_per_match": 2.7,
-    "home_wins": 59,
-    "draws": 45,
+    "total_goals": 417,
+    "avg_goals_per_match": 2.71,
+    "home_wins": 60,
+    "draws": 44,
     "away_wins": 50,
-    "home_win_pct": 38.3,
+    "home_win_pct": 39.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9291,7 +9272,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

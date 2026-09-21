@@ -162,6 +162,7 @@
       },
       {
         "position": 2,
+        "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6",
         "team": "Patriotas",
         "played": 9,
         "wins": 5,
@@ -388,7 +389,8 @@
       },
       {
         "position": 2,
-        "team": "阿帕雷西达",
+        "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6",
+        "team": "爱国者",
         "played": 9,
         "wins": 5,
         "draws": 2,
@@ -1593,7 +1595,7 @@
         "match_id": "as_712b10a846fe4b4d8168d42f015c9eb3",
         "date": "2026-09-26",
         "time": "21:00",
-        "status": "21:00",
+        "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1605,13 +1607,15 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_860305fb61114f5fbad9e6d740775c58",
         "date": "2026-09-26",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1623,7 +1627,9 @@
           "name": "皇家桑坦德",
           "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "特乔大都会体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_81284dad91d14d6480a6f905f558ab31",
@@ -7109,7 +7115,7 @@
         "match_id": "as_860305fb61114f5fbad9e6d740775c58",
         "date": "2026-09-26",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -7121,13 +7127,15 @@
           "name": "皇家桑坦德",
           "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "特乔大都会体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_712b10a846fe4b4d8168d42f015c9eb3",
         "date": "2026-09-26",
         "time": "21:00",
-        "status": "21:00",
+        "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -7139,7 +7147,9 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -11847,6 +11857,7 @@
           },
           {
             "position": 2,
+            "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6",
             "team": "Patriotas",
             "played": 9,
             "wins": 5,
@@ -12509,5 +12520,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

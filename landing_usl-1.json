@@ -256,43 +256,43 @@
         "position": 6,
         "team_id": "ast_7c9e4748b5f8487cb6d4d21ea96890e0",
         "team": "Sacramento Republic",
-        "played": 23,
+        "played": 24,
         "wins": 9,
-        "draws": 9,
+        "draws": 10,
         "losses": 5,
         "goals_for": 30,
         "goals_against": 20,
         "goal_difference": 10,
-        "points": 36,
-        "form": "WDDDW"
+        "points": 37,
+        "form": "DWDDD"
       },
       {
         "position": 7,
         "team_id": "ast_24fb194b106347a0826a7b66c3af6e10",
         "team": "Indy Eleven",
-        "played": 23,
+        "played": 24,
         "wins": 9,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 32,
-        "goals_against": 28,
-        "goal_difference": 4,
+        "goals_against": 29,
+        "goal_difference": 3,
         "points": 33,
-        "form": "WDDLW"
+        "form": "LWDDL"
       },
       {
         "position": 7,
         "team_id": "ast_83d16ba9230546e9a9a4331cd5e8fe53",
         "team": "San Antonio",
-        "played": 24,
+        "played": 25,
         "wins": 9,
-        "draws": 9,
+        "draws": 10,
         "losses": 6,
         "goals_for": 29,
         "goals_against": 28,
         "goal_difference": 1,
-        "points": 36,
-        "form": "LDWLL"
+        "points": 37,
+        "form": "DLDWL"
       },
       {
         "position": 8,
@@ -396,15 +396,15 @@
         "position": 11,
         "team_id": "ast_b8698faa60a44959922bcab5ff13f5cd",
         "team": "Oakland Roots",
-        "played": 24,
-        "wins": 6,
+        "played": 25,
+        "wins": 7,
         "draws": 9,
         "losses": 9,
-        "goals_for": 29,
+        "goals_for": 30,
         "goals_against": 35,
-        "goal_difference": -6,
-        "points": 27,
-        "form": "LDWDL"
+        "goal_difference": -5,
+        "points": 30,
+        "form": "WLDWD"
       },
       {
         "position": 12,
@@ -619,46 +619,46 @@
         "position": 6,
         "team_id": "ast_7c9e4748b5f8487cb6d4d21ea96890e0",
         "team": "萨克拉门托共和国",
-        "played": 23,
+        "played": 24,
         "wins": 9,
-        "draws": 9,
+        "draws": 10,
         "losses": 5,
         "goals_for": 30,
         "goals_against": 20,
         "goal_difference": 10,
-        "points": 36,
-        "form": "WDDDW",
-        "form_label": "胜平平平胜"
+        "points": 37,
+        "form": "DWDDD",
+        "form_label": "平胜平平平"
       },
       {
         "position": 7,
         "team_id": "ast_24fb194b106347a0826a7b66c3af6e10",
         "team": "印第十一",
-        "played": 23,
+        "played": 24,
         "wins": 9,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 32,
-        "goals_against": 28,
-        "goal_difference": 4,
+        "goals_against": 29,
+        "goal_difference": 3,
         "points": 33,
-        "form": "WDDLW",
-        "form_label": "胜平平负胜"
+        "form": "LWDDL",
+        "form_label": "负胜平平负"
       },
       {
         "position": 7,
         "team_id": "ast_83d16ba9230546e9a9a4331cd5e8fe53",
         "team": "圣安东尼奥",
-        "played": 24,
+        "played": 25,
         "wins": 9,
-        "draws": 9,
+        "draws": 10,
         "losses": 6,
         "goals_for": 29,
         "goals_against": 28,
         "goal_difference": 1,
-        "points": 36,
-        "form": "LDWLL",
-        "form_label": "负平胜负负"
+        "points": 37,
+        "form": "DLDWL",
+        "form_label": "平负平胜负"
       },
       {
         "position": 8,
@@ -769,16 +769,16 @@
         "position": 11,
         "team_id": "ast_b8698faa60a44959922bcab5ff13f5cd",
         "team": "奥克兰根",
-        "played": 24,
-        "wins": 6,
+        "played": 25,
+        "wins": 7,
         "draws": 9,
         "losses": 9,
-        "goals_for": 29,
+        "goals_for": 30,
         "goals_against": 35,
-        "goal_difference": -6,
-        "points": 27,
-        "form": "LDWDL",
-        "form_label": "负平胜平负"
+        "goal_difference": -5,
+        "points": 30,
+        "form": "WLDWD",
+        "form_label": "胜负平胜平"
       },
       {
         "position": 12,
@@ -2251,7 +2251,7 @@
         "match_id": "as_90dbd3891ba5490780bb6ffc1c5147ee",
         "date": "2026-09-20",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -2263,13 +2263,16 @@
           "name": "奥克兰根",
           "team_id": "ast_b8698faa60a44959922bcab5ff13f5cd"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c2dc65e5263a4b56b0ea43b7a7c3c3cc",
         "date": "2026-09-20",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -2281,7 +2284,10 @@
           "name": "圣安东尼奥",
           "team_id": "ast_83d16ba9230546e9a9a4331cd5e8fe53"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d999e204a42b4aada8dd0c4aea81e04b",
@@ -12908,13 +12914,13 @@
     }
   },
   "stats": {
-    "matches_completed": 306,
-    "total_goals": 838,
-    "avg_goals_per_match": 2.74,
+    "matches_completed": 308,
+    "total_goals": 839,
+    "avg_goals_per_match": 2.72,
     "home_wins": 135,
-    "draws": 88,
-    "away_wins": 83,
-    "home_win_pct": 44.1,
+    "draws": 89,
+    "away_wins": 84,
+    "home_win_pct": 43.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13710,5 +13716,5 @@
     "matches_current_season": 375,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

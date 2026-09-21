@@ -170,15 +170,15 @@
         "position": 2,
         "team_id": "ast_75a55856788c41c9a07da395dab5123e",
         "team": "Babrungas",
-        "played": 24,
-        "wins": 18,
+        "played": 25,
+        "wins": 19,
         "draws": 4,
         "losses": 2,
-        "goals_for": 42,
+        "goals_for": 43,
         "goals_against": 11,
-        "goal_difference": 31,
-        "points": 58,
-        "form": "WLWDW"
+        "goal_difference": 32,
+        "points": 61,
+        "form": "WWLWD"
       },
       {
         "position": 3,
@@ -226,15 +226,15 @@
         "position": 6,
         "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326",
         "team": "Zalgiris 2",
-        "played": 24,
+        "played": 25,
         "wins": 13,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 38,
-        "goals_against": 31,
-        "goal_difference": 7,
+        "goals_against": 32,
+        "goal_difference": 6,
         "points": 43,
-        "form": "WWWWW"
+        "form": "LWWWW"
       },
       {
         "position": 7,
@@ -397,16 +397,16 @@
         "position": 2,
         "team_id": "ast_75a55856788c41c9a07da395dab5123e",
         "team": "巴布伦加斯",
-        "played": 24,
-        "wins": 18,
+        "played": 25,
+        "wins": 19,
         "draws": 4,
         "losses": 2,
-        "goals_for": 42,
+        "goals_for": 43,
         "goals_against": 11,
-        "goal_difference": 31,
-        "points": 58,
-        "form": "WLWDW",
-        "form_label": "胜负胜平胜"
+        "goal_difference": 32,
+        "points": 61,
+        "form": "WWLWD",
+        "form_label": "胜胜负胜平"
       },
       {
         "position": 3,
@@ -457,16 +457,16 @@
         "position": 6,
         "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326",
         "team": "扎尔吉里斯二队",
-        "played": 24,
+        "played": 25,
         "wins": 13,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 38,
-        "goals_against": 31,
-        "goal_difference": 7,
+        "goals_against": 32,
+        "goal_difference": 6,
         "points": 43,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "form": "LWWWW",
+        "form_label": "负胜胜胜胜"
       },
       {
         "position": 7,
@@ -1501,7 +1501,7 @@
         "match_id": "as_3f0b510f9bc540b79262e6756b46e497",
         "date": "2026-09-20",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -1513,7 +1513,10 @@
           "name": "巴布伦加斯",
           "team_id": "ast_75a55856788c41c9a07da395dab5123e"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_35938e852d154c6590b79df0e31d3507",
@@ -6332,24 +6335,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_3f0b510f9bc540b79262e6756b46e497",
-        "date": "2026-09-20",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "扎尔吉里斯二队",
-          "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326"
-        },
-        "away": {
-          "name": "巴布伦加斯",
-          "team_id": "ast_75a55856788c41c9a07da395dab5123e"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10249,13 +10234,13 @@
     }
   },
   "stats": {
-    "matches_completed": 196,
-    "total_goals": 561,
-    "avg_goals_per_match": 2.86,
+    "matches_completed": 197,
+    "total_goals": 562,
+    "avg_goals_per_match": 2.85,
     "home_wins": 100,
     "draws": 28,
-    "away_wins": 68,
-    "home_win_pct": 51.0,
+    "away_wins": 69,
+    "home_win_pct": 50.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10394,15 +10379,15 @@
             "position": 2,
             "team_id": "ast_75a55856788c41c9a07da395dab5123e",
             "team": "Babrungas",
-            "played": 24,
-            "wins": 18,
+            "played": 25,
+            "wins": 19,
             "draws": 4,
             "losses": 2,
-            "goals_for": 42,
+            "goals_for": 43,
             "goals_against": 11,
-            "goal_difference": 31,
-            "points": 58,
-            "form": "WLWDW"
+            "goal_difference": 32,
+            "points": 61,
+            "form": "WWLWD"
           },
           {
             "position": 3,
@@ -11016,7 +11001,7 @@
     "teams_all_time": 60,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

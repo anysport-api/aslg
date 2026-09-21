@@ -256,6 +256,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
+        "team": "Dinamo Batumi",
+        "played": 27,
+        "wins": 13,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 46,
+        "goals_against": 36,
+        "goal_difference": 10,
+        "points": 47,
+        "form": "WDWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
         "team": "Rustavi",
         "played": 26,
@@ -269,7 +283,7 @@
         "form": "WDLDW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
         "team": "Dinamo Tbilisi",
         "played": 26,
@@ -281,20 +295,6 @@
         "goal_difference": 14,
         "points": 45,
         "form": "WWDDW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
-        "team": "Dinamo Batumi",
-        "played": 26,
-        "wins": 12,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 43,
-        "goals_against": 34,
-        "goal_difference": 9,
-        "points": 44,
-        "form": "DWWWW"
       },
       {
         "position": 4,
@@ -328,15 +328,15 @@
         "position": 6,
         "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
         "team": "Torpedo Kutaisi",
-        "played": 26,
+        "played": 27,
         "wins": 9,
         "draws": 9,
-        "losses": 8,
-        "goals_for": 41,
-        "goals_against": 31,
-        "goal_difference": 10,
+        "losses": 9,
+        "goals_for": 43,
+        "goals_against": 34,
+        "goal_difference": 9,
         "points": 36,
-        "form": "WDDLD"
+        "form": "LWDDL"
       },
       {
         "position": 7,
@@ -398,6 +398,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
+        "team": "巴统迪纳摩",
+        "played": 27,
+        "wins": 13,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 46,
+        "goals_against": 36,
+        "goal_difference": 10,
+        "points": 47,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
         "team": "鲁斯塔维",
         "played": 26,
@@ -412,7 +427,7 @@
         "form_label": "胜平负平胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
         "team": "第比利斯迪纳摩",
         "played": 26,
@@ -425,21 +440,6 @@
         "points": 45,
         "form": "WWDDW",
         "form_label": "胜胜平平胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
-        "team": "巴统迪纳摩",
-        "played": 26,
-        "wins": 12,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 43,
-        "goals_against": 34,
-        "goal_difference": 9,
-        "points": 44,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
       },
       {
         "position": 4,
@@ -475,16 +475,16 @@
         "position": 6,
         "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
         "team": "库塔伊西",
-        "played": 26,
+        "played": 27,
         "wins": 9,
         "draws": 9,
-        "losses": 8,
-        "goals_for": 41,
-        "goals_against": 31,
-        "goal_difference": 10,
+        "losses": 9,
+        "goals_for": 43,
+        "goals_against": 34,
+        "goal_difference": 9,
         "points": 36,
-        "form": "WDDLD",
-        "form_label": "胜平平负平"
+        "form": "LWDDL",
+        "form_label": "负胜平平负"
       },
       {
         "position": 7,
@@ -1525,7 +1525,7 @@
         "match_id": "as_411082a477a54595b2ddc789e44cdfd0",
         "date": "2026-09-20",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1537,7 +1537,10 @@
           "name": "库塔伊西",
           "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_88496ceca232444197d41dcee2f8e782",
@@ -1557,7 +1560,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "David Petriashvili Stadium",
         "status_label": "完场"
       },
       {
@@ -1578,7 +1581,7 @@
         },
         "ht_score": "2-2",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "26 May Stadium",
         "status_label": "完场"
       },
       {
@@ -4747,24 +4750,6 @@
           "team_id": "ast_9079ae9734e140a289c4d85e39937659"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_411082a477a54595b2ddc789e44cdfd0",
-        "date": "2026-09-20",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "巴统迪纳摩",
-          "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64"
-        },
-        "away": {
-          "name": "库塔伊西",
-          "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7334,13 +7319,13 @@
     }
   },
   "stats": {
-    "matches_completed": 131,
-    "total_goals": 344,
-    "avg_goals_per_match": 2.63,
-    "home_wins": 53,
+    "matches_completed": 132,
+    "total_goals": 349,
+    "avg_goals_per_match": 2.64,
+    "home_wins": 54,
     "draws": 39,
     "away_wins": 39,
-    "home_win_pct": 40.5,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7366,9 +7351,9 @@
       }
     },
     "leader": {
-      "team": "Rustavi",
-      "points": 46,
-      "played": 26
+      "team": "Dinamo Batumi",
+      "points": 47,
+      "played": 27
     }
   },
   "coverage": {
@@ -7463,6 +7448,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
+            "team": "Dinamo Batumi",
+            "played": 27,
+            "wins": 13,
+            "draws": 8,
+            "losses": 6,
+            "goals_for": 46,
+            "goals_against": 36,
+            "goal_difference": 10,
+            "points": 47,
+            "form": "WDWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_de139baee5cc43b7be01571d33bcc781",
             "team": "Rustavi",
             "played": 26,
@@ -7476,7 +7475,7 @@
             "form": "WDLDW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
             "team": "Dinamo Tbilisi",
             "played": 26,
@@ -7488,20 +7487,6 @@
             "goal_difference": 14,
             "points": 45,
             "form": "WWDDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
-            "team": "Dinamo Batumi",
-            "played": 26,
-            "wins": 12,
-            "draws": 8,
-            "losses": 6,
-            "goals_for": 43,
-            "goals_against": 34,
-            "goal_difference": 9,
-            "points": 44,
-            "form": "DWWWW"
           }
         ],
         "meta": {
@@ -8138,7 +8123,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

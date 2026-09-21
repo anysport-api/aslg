@@ -254,18 +254,32 @@
         "position": 8,
         "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb",
         "team": "Ferretti",
-        "played": 9,
+        "played": 10,
         "wins": 2,
         "draws": 1,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 12,
-        "goals_against": 16,
-        "goal_difference": -4,
+        "goals_against": 17,
+        "goal_difference": -5,
         "points": 7,
-        "form": "LDLLW"
+        "form": "LLDLL"
       },
       {
         "position": 9,
+        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
+        "team": "Jalapa",
+        "played": 10,
+        "wins": 2,
+        "draws": 1,
+        "losses": 7,
+        "goals_for": 5,
+        "goals_against": 14,
+        "goal_difference": -9,
+        "points": 7,
+        "form": "WLDLL"
+      },
+      {
+        "position": 10,
         "team_id": "ast_b6cc38c4080a45709e2a901334869ff7",
         "team": "Rancho Santana",
         "played": 9,
@@ -277,20 +291,6 @@
         "goal_difference": -7,
         "points": 5,
         "form": "DDWLL"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
-        "team": "Jalapa",
-        "played": 9,
-        "wins": 1,
-        "draws": 1,
-        "losses": 7,
-        "goals_for": 4,
-        "goals_against": 14,
-        "goal_difference": -10,
-        "points": 4,
-        "form": "LDLLL"
       }
     ],
     "zh": [
@@ -403,19 +403,34 @@
         "position": 8,
         "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb",
         "team": "费雷蒂",
-        "played": 9,
+        "played": 10,
         "wins": 2,
         "draws": 1,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 12,
-        "goals_against": 16,
-        "goal_difference": -4,
+        "goals_against": 17,
+        "goal_difference": -5,
         "points": 7,
-        "form": "LDLLW",
-        "form_label": "负平负负胜"
+        "form": "LLDLL",
+        "form_label": "负负平负负"
       },
       {
         "position": 9,
+        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
+        "team": "哈拉帕",
+        "played": 10,
+        "wins": 2,
+        "draws": 1,
+        "losses": 7,
+        "goals_for": 5,
+        "goals_against": 14,
+        "goal_difference": -9,
+        "points": 7,
+        "form": "WLDLL",
+        "form_label": "胜负平负负"
+      },
+      {
+        "position": 10,
         "team_id": "ast_b6cc38c4080a45709e2a901334869ff7",
         "team": "兰乔圣安塔纳",
         "played": 9,
@@ -428,21 +443,6 @@
         "points": 5,
         "form": "DDWLL",
         "form_label": "平平胜负负"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
-        "team": "哈拉帕",
-        "played": 9,
-        "wins": 1,
-        "draws": 1,
-        "losses": 7,
-        "goals_for": 4,
-        "goals_against": 14,
-        "goal_difference": -10,
-        "points": 4,
-        "form": "LDLLL",
-        "form_label": "负平负负负"
       }
     ]
   },
@@ -607,7 +607,7 @@
         "match_id": "as_1a3c0909c77b4d7eb99bf3791764f618",
         "date": "2026-09-20",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -619,7 +619,10 @@
           "name": "哈拉帕",
           "team_id": "ast_f5f350d2964747d9a882068f4310f396"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2c3cc29971754017bb82d706b8efba55",
@@ -1743,60 +1746,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_40b2af9d1cfd4b58bb183653cfd8e849",
-        "date": "2026-09-20",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "兰乔圣安塔纳",
-          "team_id": "ast_b6cc38c4080a45709e2a901334869ff7"
-        },
-        "away": {
-          "name": "马那瓜FC",
-          "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2c3cc29971754017bb82d706b8efba55",
-        "date": "2026-09-20",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "塞巴科体育",
-          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
-        },
-        "away": {
-          "name": "马塔加尔帕",
-          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1a3c0909c77b4d7eb99bf3791764f618",
-        "date": "2026-09-20",
-        "time": "00:00",
-        "status": "00:00",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "费雷蒂",
-          "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
-        },
-        "away": {
-          "name": "哈拉帕",
-          "team_id": "ast_f5f350d2964747d9a882068f4310f396"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3328,13 +3277,13 @@
     }
   },
   "stats": {
-    "matches_completed": 45,
-    "total_goals": 118,
-    "avg_goals_per_match": 2.62,
+    "matches_completed": 46,
+    "total_goals": 119,
+    "avg_goals_per_match": 2.59,
     "home_wins": 16,
     "draws": 9,
-    "away_wins": 20,
-    "home_win_pct": 35.6,
+    "away_wins": 21,
+    "home_win_pct": 34.8,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4132,7 +4081,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 10,
     "matches_current_season": 55,
-    "upcoming_matches": 10
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

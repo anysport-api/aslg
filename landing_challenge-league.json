@@ -192,15 +192,15 @@
         "position": 1,
         "team_id": "ast_24e827df9bce47bf83e8dba007db0d4f",
         "team": "Lausanne Ouchy",
-        "played": 8,
+        "played": 9,
         "wins": 6,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
         "goals_for": 17,
         "goals_against": 3,
         "goal_difference": 14,
-        "points": 20,
-        "form": "WWWDW"
+        "points": 21,
+        "form": "DWWWD"
       },
       {
         "position": 2,
@@ -220,15 +220,15 @@
         "position": 3,
         "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
         "team": "Yverdon",
-        "played": 8,
+        "played": 9,
         "wins": 4,
-        "draws": 3,
+        "draws": 4,
         "losses": 1,
         "goals_for": 14,
         "goals_against": 9,
         "goal_difference": 5,
-        "points": 15,
-        "form": "LWWDW"
+        "points": 16,
+        "form": "DLWWD"
       },
       {
         "position": 4,
@@ -334,16 +334,16 @@
         "position": 1,
         "team_id": "ast_24e827df9bce47bf83e8dba007db0d4f",
         "team": "洛桑乌希",
-        "played": 8,
+        "played": 9,
         "wins": 6,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
         "goals_for": 17,
         "goals_against": 3,
         "goal_difference": 14,
-        "points": 20,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
+        "points": 21,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
       },
       {
         "position": 2,
@@ -364,16 +364,16 @@
         "position": 3,
         "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
         "team": "伊夫尔登",
-        "played": 8,
+        "played": 9,
         "wins": 4,
-        "draws": 3,
+        "draws": 4,
         "losses": 1,
         "goals_for": 14,
         "goals_against": 9,
         "goal_difference": 5,
-        "points": 15,
-        "form": "LWWDW",
-        "form_label": "负胜胜平胜"
+        "points": 16,
+        "form": "DLWWD",
+        "form_label": "平负胜胜平"
       },
       {
         "position": 4,
@@ -1403,7 +1403,7 @@
         "match_id": "as_0d6a20ec5c334395adc240e2294bcc81",
         "date": "2026-09-20",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1415,7 +1415,10 @@
           "name": "洛桑乌希",
           "team_id": "ast_24e827df9bce47bf83e8dba007db0d4f"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c24d8e45625f4c93805699ee36957dc6",
@@ -2642,24 +2645,6 @@
         "ht_score": "-",
         "venue": "丰特内特体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_0d6a20ec5c334395adc240e2294bcc81",
-        "date": "2026-09-20",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞士挑战联赛",
-        "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
-        "season": "2026/2027",
-        "home": {
-          "name": "伊夫尔登",
-          "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea"
-        },
-        "away": {
-          "name": "洛桑乌希",
-          "team_id": "ast_24e827df9bce47bf83e8dba007db0d4f"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6018,13 +6003,13 @@
     }
   },
   "stats": {
-    "matches_completed": 44,
+    "matches_completed": 45,
     "total_goals": 136,
-    "avg_goals_per_match": 3.09,
+    "avg_goals_per_match": 3.02,
     "home_wins": 20,
-    "draws": 11,
+    "draws": 12,
     "away_wins": 13,
-    "home_win_pct": 45.5,
+    "home_win_pct": 44.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6051,8 +6036,8 @@
     },
     "leader": {
       "team": "Lausanne Ouchy",
-      "points": 20,
-      "played": 8
+      "points": 21,
+      "played": 9
     }
   },
   "coverage": {
@@ -6149,15 +6134,15 @@
             "position": 1,
             "team_id": "ast_24e827df9bce47bf83e8dba007db0d4f",
             "team": "Lausanne Ouchy",
-            "played": 8,
+            "played": 9,
             "wins": 6,
-            "draws": 2,
+            "draws": 3,
             "losses": 0,
             "goals_for": 17,
             "goals_against": 3,
             "goal_difference": 14,
-            "points": 20,
-            "form": "WWWDW"
+            "points": 21,
+            "form": "DWWWD"
           },
           {
             "position": 2,
@@ -6177,15 +6162,15 @@
             "position": 3,
             "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
             "team": "Yverdon",
-            "played": 8,
+            "played": 9,
             "wins": 4,
-            "draws": 3,
+            "draws": 4,
             "losses": 1,
             "goals_for": 14,
             "goals_against": 9,
             "goal_difference": 5,
-            "points": 15,
-            "form": "LWWDW"
+            "points": 16,
+            "form": "DLWWD"
           }
         ],
         "meta": {
@@ -6822,7 +6807,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

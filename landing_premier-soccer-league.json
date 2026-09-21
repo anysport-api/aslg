@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
@@ -164,6 +164,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
+        "team": "Dynamos",
+        "played": 29,
+        "wins": 12,
+        "draws": 14,
+        "losses": 3,
+        "goals_for": 39,
+        "goals_against": 21,
+        "goal_difference": 18,
+        "points": 50,
+        "form": "WDLDD"
+      },
+      {
+        "position": 4,
         "team_id": "ast_49146992bd134968bd38ce1b3250e794",
         "team": "Ngezi Platinum",
         "played": 29,
@@ -177,32 +191,18 @@
         "form": "DDWWL"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740",
         "team": "Herentals",
-        "played": 28,
+        "played": 29,
         "wins": 14,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 31,
-        "goals_against": 25,
-        "goal_difference": 6,
+        "goals_against": 26,
+        "goal_difference": 5,
         "points": 48,
-        "form": "WLWWW"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
-        "team": "Dynamos",
-        "played": 28,
-        "wins": 11,
-        "draws": 14,
-        "losses": 3,
-        "goals_for": 38,
-        "goals_against": 21,
-        "goal_difference": 17,
-        "points": 47,
-        "form": "DLDDW"
+        "form": "LWLWW"
       },
       {
         "position": 6,
@@ -292,15 +292,15 @@
         "position": 12,
         "team_id": "ast_516c7275729042cf9b38bdadfd9456fc",
         "team": "Bulawayo Chiefs",
-        "played": 28,
+        "played": 29,
         "wins": 7,
         "draws": 10,
-        "losses": 11,
-        "goals_for": 24,
-        "goals_against": 31,
-        "goal_difference": -7,
+        "losses": 12,
+        "goals_for": 25,
+        "goals_against": 33,
+        "goal_difference": -8,
         "points": 31,
-        "form": "LDWWL"
+        "form": "LLDWW"
       },
       {
         "position": 13,
@@ -345,6 +345,20 @@
       },
       {
         "position": 16,
+        "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175",
+        "team": "Triangle",
+        "played": 29,
+        "wins": 5,
+        "draws": 7,
+        "losses": 17,
+        "goals_for": 20,
+        "goals_against": 35,
+        "goal_difference": -15,
+        "points": 22,
+        "form": "WDWLL"
+      },
+      {
+        "position": 17,
         "team_id": "ast_488be09cf3864b5d8ed0a1bbf585bfc9",
         "team": "TelOne",
         "played": 29,
@@ -356,20 +370,6 @@
         "goal_difference": -22,
         "points": 21,
         "form": "DLLLW"
-      },
-      {
-        "position": 17,
-        "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175",
-        "team": "Triangle",
-        "played": 28,
-        "wins": 4,
-        "draws": 7,
-        "losses": 17,
-        "goals_for": 18,
-        "goals_against": 34,
-        "goal_difference": -16,
-        "points": 19,
-        "form": "DWLLD"
       },
       {
         "position": 18,
@@ -419,6 +419,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
+        "team": "迪纳摩斯",
+        "played": 29,
+        "wins": 12,
+        "draws": 14,
+        "losses": 3,
+        "goals_for": 39,
+        "goals_against": 21,
+        "goal_difference": 18,
+        "points": 50,
+        "form": "WDLDD",
+        "form_label": "胜平负平平"
+      },
+      {
+        "position": 4,
         "team_id": "ast_49146992bd134968bd38ce1b3250e794",
         "team": "恩盖兹铂金",
         "played": 29,
@@ -433,34 +448,19 @@
         "form_label": "平平胜胜负"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740",
         "team": "赫伦塔尔斯",
-        "played": 28,
+        "played": 29,
         "wins": 14,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 31,
-        "goals_against": 25,
-        "goal_difference": 6,
+        "goals_against": 26,
+        "goal_difference": 5,
         "points": 48,
-        "form": "WLWWW",
-        "form_label": "胜负胜胜胜"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
-        "team": "迪纳摩斯",
-        "played": 28,
-        "wins": 11,
-        "draws": 14,
-        "losses": 3,
-        "goals_for": 38,
-        "goals_against": 21,
-        "goal_difference": 17,
-        "points": 47,
-        "form": "DLDDW",
-        "form_label": "平负平平胜"
+        "form": "LWLWW",
+        "form_label": "负胜负胜胜"
       },
       {
         "position": 6,
@@ -556,16 +556,16 @@
         "position": 12,
         "team_id": "ast_516c7275729042cf9b38bdadfd9456fc",
         "team": "布拉瓦约首领",
-        "played": 28,
+        "played": 29,
         "wins": 7,
         "draws": 10,
-        "losses": 11,
-        "goals_for": 24,
-        "goals_against": 31,
-        "goal_difference": -7,
+        "losses": 12,
+        "goals_for": 25,
+        "goals_against": 33,
+        "goal_difference": -8,
         "points": 31,
-        "form": "LDWWL",
-        "form_label": "负平胜胜负"
+        "form": "LLDWW",
+        "form_label": "负负平胜胜"
       },
       {
         "position": 13,
@@ -613,6 +613,21 @@
       },
       {
         "position": 16,
+        "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175",
+        "team": "三角洲",
+        "played": 29,
+        "wins": 5,
+        "draws": 7,
+        "losses": 17,
+        "goals_for": 20,
+        "goals_against": 35,
+        "goal_difference": -15,
+        "points": 22,
+        "form": "WDWLL",
+        "form_label": "胜平胜负负"
+      },
+      {
+        "position": 17,
         "team_id": "ast_488be09cf3864b5d8ed0a1bbf585bfc9",
         "team": "电信一号",
         "played": 29,
@@ -625,21 +640,6 @@
         "points": 21,
         "form": "DLLLW",
         "form_label": "平负负负胜"
-      },
-      {
-        "position": 17,
-        "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175",
-        "team": "三角洲",
-        "played": 28,
-        "wins": 4,
-        "draws": 7,
-        "losses": 17,
-        "goals_for": 18,
-        "goals_against": 34,
-        "goal_difference": -16,
-        "points": 19,
-        "form": "DWLLD",
-        "form_label": "平胜负负平"
       },
       {
         "position": 18,
@@ -679,7 +679,7 @@
         "match_id": "as_af16dcf00e2a4e22b71b3a1933add5f8",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -691,13 +691,16 @@
           "name": "三角洲",
           "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d9fc2f6421de4b9fbf9eae1f441d3523",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -709,7 +712,10 @@
           "name": "赫伦塔尔斯",
           "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3062c390b6c94ffda77c97553bc4543d",
@@ -729,7 +735,7 @@
         },
         "ht_score": "-",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "巴伯菲尔兹球场",
         "status_label": "完场"
       },
       {
@@ -6151,44 +6157,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_d9fc2f6421de4b9fbf9eae1f441d3523",
-        "date": "2026-09-20",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "迪纳摩斯",
-          "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873"
-        },
-        "away": {
-          "name": "赫伦塔尔斯",
-          "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_af16dcf00e2a4e22b71b3a1933add5f8",
-        "date": "2026-09-20",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "布拉瓦约首领",
-          "team_id": "ast_516c7275729042cf9b38bdadfd9456fc"
-        },
-        "away": {
-          "name": "三角洲",
-          "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -8520,13 +8489,13 @@
     }
   },
   "stats": {
-    "matches_completed": 259,
-    "total_goals": 489,
+    "matches_completed": 261,
+    "total_goals": 493,
     "avg_goals_per_match": 1.89,
-    "home_wins": 93,
+    "home_wins": 94,
     "draws": 95,
-    "away_wins": 71,
-    "home_win_pct": 35.9,
+    "away_wins": 72,
+    "home_win_pct": 36.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8677,17 +8646,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_49146992bd134968bd38ce1b3250e794",
-            "team": "Ngezi Platinum",
+            "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
+            "team": "Dynamos",
             "played": 29,
             "wins": 12,
-            "draws": 13,
-            "losses": 4,
-            "goals_for": 35,
-            "goals_against": 25,
-            "goal_difference": 10,
-            "points": 49,
-            "form": "DDWWL"
+            "draws": 14,
+            "losses": 3,
+            "goals_for": 39,
+            "goals_against": 21,
+            "goal_difference": 18,
+            "points": 50,
+            "form": "WDLDD"
           }
         ],
         "meta": {
@@ -9249,7 +9218,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 261,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

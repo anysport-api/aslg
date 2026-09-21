@@ -136,6 +136,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_e940d01c835447718455e310d09168d0",
+        "team": "Blue Eagles",
+        "played": 15,
+        "wins": 10,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 24,
+        "goals_against": 16,
+        "goal_difference": 8,
+        "points": 31,
+        "form": "WWLWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_527b520cf7c24caf94b0a23338ddcefc",
         "team": "Big Bullets",
         "played": 15,
@@ -149,21 +163,21 @@
         "form": "WDWWL"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_108c3ee0e0e64a7bb3258d6d721045a4",
         "team": "Mighty Wanderers",
-        "played": 14,
+        "played": 15,
         "wins": 8,
         "draws": 5,
-        "losses": 1,
-        "goals_for": 26,
-        "goals_against": 9,
-        "goal_difference": 17,
+        "losses": 2,
+        "goals_for": 27,
+        "goals_against": 11,
+        "goal_difference": 16,
         "points": 29,
-        "form": "WWDDW"
+        "form": "LWWDD"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_c4f9f4ddea414a6fa3721f32197347a0",
         "team": "Silver Strikers",
         "played": 15,
@@ -175,20 +189,6 @@
         "goal_difference": 13,
         "points": 29,
         "form": "LDWWD"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_e940d01c835447718455e310d09168d0",
-        "team": "Blue Eagles",
-        "played": 14,
-        "wins": 9,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 22,
-        "goals_against": 15,
-        "goal_difference": 7,
-        "points": 28,
-        "form": "WLWWL"
       },
       {
         "position": 5,
@@ -362,6 +362,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_e940d01c835447718455e310d09168d0",
+        "team": "蓝鹰队",
+        "played": 15,
+        "wins": 10,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 24,
+        "goals_against": 16,
+        "goal_difference": 8,
+        "points": 31,
+        "form": "WWLWW",
+        "form_label": "胜胜负胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_527b520cf7c24caf94b0a23338ddcefc",
         "team": "尼亚萨大子弹",
         "played": 15,
@@ -376,22 +391,22 @@
         "form_label": "胜平胜胜负"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_108c3ee0e0e64a7bb3258d6d721045a4",
         "team": "强力流浪者",
-        "played": 14,
+        "played": 15,
         "wins": 8,
         "draws": 5,
-        "losses": 1,
-        "goals_for": 26,
-        "goals_against": 9,
-        "goal_difference": 17,
+        "losses": 2,
+        "goals_for": 27,
+        "goals_against": 11,
+        "goal_difference": 16,
         "points": 29,
-        "form": "WWDDW",
-        "form_label": "胜胜平平胜"
+        "form": "LWWDD",
+        "form_label": "负胜胜平平"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_c4f9f4ddea414a6fa3721f32197347a0",
         "team": "银色先锋",
         "played": 15,
@@ -404,21 +419,6 @@
         "points": 29,
         "form": "LDWWD",
         "form_label": "负平胜胜平"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_e940d01c835447718455e310d09168d0",
-        "team": "蓝鹰队",
-        "played": 14,
-        "wins": 9,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 22,
-        "goals_against": 15,
-        "goal_difference": 7,
-        "points": 28,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
       },
       {
         "position": 5,
@@ -9095,8 +9095,8 @@
       }
     },
     "leader": {
-      "team": "Big Bullets",
-      "points": 30,
+      "team": "Blue Eagles",
+      "points": 31,
       "played": 15
     }
   },
@@ -9192,6 +9192,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_e940d01c835447718455e310d09168d0",
+            "team": "Blue Eagles",
+            "played": 15,
+            "wins": 10,
+            "draws": 1,
+            "losses": 4,
+            "goals_for": 24,
+            "goals_against": 16,
+            "goal_difference": 8,
+            "points": 31,
+            "form": "WWLWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_527b520cf7c24caf94b0a23338ddcefc",
             "team": "Big Bullets",
             "played": 15,
@@ -9205,32 +9219,18 @@
             "form": "WDWWL"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_108c3ee0e0e64a7bb3258d6d721045a4",
             "team": "Mighty Wanderers",
-            "played": 14,
-            "wins": 8,
-            "draws": 5,
-            "losses": 1,
-            "goals_for": 26,
-            "goals_against": 9,
-            "goal_difference": 17,
-            "points": 29,
-            "form": "WWDDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_c4f9f4ddea414a6fa3721f32197347a0",
-            "team": "Silver Strikers",
             "played": 15,
             "wins": 8,
             "draws": 5,
             "losses": 2,
-            "goals_for": 23,
-            "goals_against": 10,
-            "goal_difference": 13,
+            "goals_for": 27,
+            "goals_against": 11,
+            "goal_difference": 16,
             "points": 29,
-            "form": "LDWWD"
+            "form": "LWWDD"
           }
         ],
         "meta": {
@@ -9832,5 +9832,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 32
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }

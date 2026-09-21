@@ -7035,6 +7035,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_5b019dc52b7c41bea223c631759cd6c3",
+        "date": "2026-10-23",
+        "time": "12:30",
+        "status": "Not Started",
+        "league": "英格兰职业发展联赛",
+        "league_id": "asl_25dd9819c0c54b67824785d4900bc38d",
+        "season": "2026/2027",
+        "home": {
+          "name": "查尔顿U21",
+          "team_id": "ast_fab77cf8d2e74a5bbd30fcfd9d8f3f82"
+        },
+        "away": {
+          "name": "卡迪夫U21",
+          "team_id": "ast_df9f2a8dc4604593bca3406ab5e92171"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_ee32834dfb864c1883c5a166957e8467",
         "date": "2026-10-21",
         "time": "12:00",
@@ -7129,26 +7149,6 @@
         "away": {
           "name": "巴恩斯利U21",
           "team_id": "ast_8f4e81c2ab0d46a1b6bcfc8e5719a3bb"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5b019dc52b7c41bea223c631759cd6c3",
-        "date": "2026-10-20",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "英格兰职业发展联赛",
-        "league_id": "asl_25dd9819c0c54b67824785d4900bc38d",
-        "season": "2026/2027",
-        "home": {
-          "name": "查尔顿U21",
-          "team_id": "ast_fab77cf8d2e74a5bbd30fcfd9d8f3f82"
-        },
-        "away": {
-          "name": "卡迪夫U21",
-          "team_id": "ast_df9f2a8dc4604593bca3406ab5e92171"
         },
         "ht_score": "-",
         "venue": "",
@@ -7498,7 +7498,7 @@
         "match_id": "as_e0e06eb7ff0d4eb8a1e3c6de74058f88",
         "date": "2026-09-25",
         "time": "18:30",
-        "status": "18:30",
+        "status": "Not Started",
         "league": "英格兰职业发展联赛",
         "league_id": "asl_25dd9819c0c54b67824785d4900bc38d",
         "season": "2026/2027",
@@ -7510,13 +7510,15 @@
           "name": "谢菲联U21",
           "team_id": "ast_0f28b92ea0e14c2ab28f7716c90c78a2"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_7f843de2a647467ba0c1dd944fca5a38",
         "date": "2026-09-25",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Not Started",
         "league": "英格兰职业发展联赛",
         "league_id": "asl_25dd9819c0c54b67824785d4900bc38d",
         "season": "2026/2027",
@@ -7528,7 +7530,9 @@
           "name": "谢菲联U21",
           "team_id": "ast_555ca38b1b424bb09f8ff677372eaf9d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_a5036978d5294abd8853a0736739462a",
@@ -9757,5 +9761,5 @@
     "matches_current_season": 295,
     "upcoming_matches": 38
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/09/21"
 }
