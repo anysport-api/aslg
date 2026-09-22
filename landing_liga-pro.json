@@ -336,15 +336,15 @@
         "position": 13,
         "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
         "team": "Orense",
-        "played": 30,
+        "played": 31,
         "wins": 9,
         "draws": 6,
-        "losses": 15,
-        "goals_for": 36,
-        "goals_against": 47,
-        "goal_difference": -11,
+        "losses": 16,
+        "goals_for": 37,
+        "goals_against": 49,
+        "goal_difference": -12,
         "points": 33,
-        "form": "LWLLL"
+        "form": "LLWLL"
       },
       {
         "position": 14,
@@ -378,15 +378,15 @@
         "position": 16,
         "team_id": "ast_7d7851a20cff48739670bd26567661a4",
         "team": "Manta",
-        "played": 30,
-        "wins": 5,
+        "played": 31,
+        "wins": 6,
         "draws": 6,
         "losses": 19,
-        "goals_for": 17,
-        "goals_against": 42,
-        "goal_difference": -25,
-        "points": 21,
-        "form": "DLLWL"
+        "goals_for": 19,
+        "goals_against": 43,
+        "goal_difference": -24,
+        "points": 24,
+        "form": "WDLLW"
       }
     ],
     "zh": [
@@ -574,16 +574,16 @@
         "position": 13,
         "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
         "team": "奥伦塞",
-        "played": 30,
+        "played": 31,
         "wins": 9,
         "draws": 6,
-        "losses": 15,
-        "goals_for": 36,
-        "goals_against": 47,
-        "goal_difference": -11,
+        "losses": 16,
+        "goals_for": 37,
+        "goals_against": 49,
+        "goal_difference": -12,
         "points": 33,
-        "form": "LWLLL",
-        "form_label": "负胜负负负"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 14,
@@ -619,16 +619,16 @@
         "position": 16,
         "team_id": "ast_7d7851a20cff48739670bd26567661a4",
         "team": "曼塔",
-        "played": 30,
-        "wins": 5,
+        "played": 31,
+        "wins": 6,
         "draws": 6,
         "losses": 19,
-        "goals_for": 17,
-        "goals_against": 42,
-        "goal_difference": -25,
-        "points": 21,
-        "form": "DLLWL",
-        "form_label": "平负负胜负"
+        "goals_for": 19,
+        "goals_against": 43,
+        "goal_difference": -24,
+        "points": 24,
+        "form": "WDLLW",
+        "form_label": "胜平负负胜"
       }
     ]
   },
@@ -1952,7 +1952,7 @@
         "match_id": "as_10e00457b052451d86bcffa6686f3121",
         "date": "2026-09-21",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -1964,7 +1964,10 @@
           "name": "奥伦塞",
           "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5ed904c14cfa474aa8a27ac3faa9ed99",
@@ -1984,7 +1987,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Estadio Alejandro Serrano Aguilar",
         "status_label": "完场"
       },
       {
@@ -2005,7 +2008,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Estadio George Capwell",
         "status_label": "完场"
       },
       {
@@ -2047,7 +2050,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Estadio Bellavista",
         "status_label": "完场"
       },
       {
@@ -7792,24 +7795,6 @@
         },
         "venue": "",
         "status_label": "延期"
-      },
-      {
-        "match_id": "as_10e00457b052451d86bcffa6686f3121",
-        "date": "2026-09-21",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "厄瓜多尔职业联赛",
-        "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
-        "season": "2026",
-        "home": {
-          "name": "曼塔",
-          "team_id": "ast_7d7851a20cff48739670bd26567661a4"
-        },
-        "away": {
-          "name": "奥伦塞",
-          "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
-        },
-        "venue": ""
       }
     ]
   },
@@ -12487,13 +12472,13 @@
     }
   },
   "stats": {
-    "matches_completed": 246,
-    "total_goals": 558,
+    "matches_completed": 247,
+    "total_goals": 561,
     "avg_goals_per_match": 2.27,
-    "home_wins": 114,
+    "home_wins": 115,
     "draws": 61,
     "away_wins": 71,
-    "home_win_pct": 46.3,
+    "home_win_pct": 46.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13309,7 +13294,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 16,
     "matches_current_season": 312,
-    "upcoming_matches": 34
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

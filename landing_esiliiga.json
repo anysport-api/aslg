@@ -260,15 +260,15 @@
         "position": 8,
         "team_id": "ast_c18af10718ec4850879e99b486d17356",
         "team": "Nomme Utd U21",
-        "played": 29,
-        "wins": 9,
+        "played": 30,
+        "wins": 10,
         "draws": 6,
         "losses": 14,
-        "goals_for": 47,
-        "goals_against": 60,
-        "goal_difference": -13,
-        "points": 33,
-        "form": "WWLLL"
+        "goals_for": 50,
+        "goals_against": 62,
+        "goal_difference": -12,
+        "points": 36,
+        "form": "WWWLL"
       },
       {
         "position": 9,
@@ -288,15 +288,15 @@
         "position": 10,
         "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d",
         "team": "Nomme Kalju U21",
-        "played": 29,
+        "played": 30,
         "wins": 6,
         "draws": 4,
-        "losses": 19,
-        "goals_for": 36,
-        "goals_against": 76,
-        "goal_difference": -40,
+        "losses": 20,
+        "goals_for": 38,
+        "goals_against": 79,
+        "goal_difference": -41,
         "points": 22,
-        "form": "LLLWL"
+        "form": "LLLLW"
       }
     ],
     "zh": [
@@ -409,16 +409,16 @@
         "position": 8,
         "team_id": "ast_c18af10718ec4850879e99b486d17356",
         "team": "诺梅联U21",
-        "played": 29,
-        "wins": 9,
+        "played": 30,
+        "wins": 10,
         "draws": 6,
         "losses": 14,
-        "goals_for": 47,
-        "goals_against": 60,
-        "goal_difference": -13,
-        "points": 33,
-        "form": "WWLLL",
-        "form_label": "胜胜负负负"
+        "goals_for": 50,
+        "goals_against": 62,
+        "goal_difference": -12,
+        "points": 36,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
       },
       {
         "position": 9,
@@ -439,16 +439,16 @@
         "position": 10,
         "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d",
         "team": "诺梅卡尔尤U21",
-        "played": 29,
+        "played": 30,
         "wins": 6,
         "draws": 4,
-        "losses": 19,
-        "goals_for": 36,
-        "goals_against": 76,
-        "goal_difference": -40,
+        "losses": 20,
+        "goals_for": 38,
+        "goals_against": 79,
+        "goal_difference": -41,
         "points": 22,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
+        "form": "LLLLW",
+        "form_label": "负负负负胜"
       }
     ]
   },
@@ -986,7 +986,7 @@
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "马阿尔杜市政体育场",
         "status_label": "未开赛"
       },
       {
@@ -1073,7 +1073,7 @@
         "match_id": "as_ce8236f554d449d59df5da67c34bdc14",
         "date": "2026-09-21",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -1085,7 +1085,10 @@
           "name": "诺梅联U21",
           "team_id": "ast_c18af10718ec4850879e99b486d17356"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4905e953d2bb4fe3a36269a64ed5ae82",
@@ -4631,7 +4634,7 @@
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "马阿尔杜市政体育场",
         "status_label": "未开赛"
       },
       {
@@ -4713,24 +4716,6 @@
         "ht_score": "-",
         "venue": "Holm Jalgpallipark",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ce8236f554d449d59df5da67c34bdc14",
-        "date": "2026-09-21",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "诺梅卡尔尤U21",
-          "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
-        },
-        "away": {
-          "name": "诺梅联U21",
-          "team_id": "ast_c18af10718ec4850879e99b486d17356"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7800,13 +7785,13 @@
     }
   },
   "stats": {
-    "matches_completed": 147,
-    "total_goals": 537,
-    "avg_goals_per_match": 3.65,
+    "matches_completed": 148,
+    "total_goals": 542,
+    "avg_goals_per_match": 3.66,
     "home_wins": 68,
     "draws": 27,
-    "away_wins": 52,
-    "home_win_pct": 46.3,
+    "away_wins": 53,
+    "home_win_pct": 45.9,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8604,7 +8589,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

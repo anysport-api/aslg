@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
@@ -679,7 +679,7 @@
         "match_id": "as_af16dcf00e2a4e22b71b3a1933add5f8",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -691,16 +691,15 @@
           "name": "三角洲",
           "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175"
         },
-        "ht_score": "1-1",
-        "reg_score": "1-2",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d9fc2f6421de4b9fbf9eae1f441d3523",
         "date": "2026-09-20",
         "time": "13:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -712,10 +711,9 @@
           "name": "赫伦塔尔斯",
           "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740"
         },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": "",
-        "status_label": "完场"
+        "ht_score": "-",
+        "venue": "鲁法罗体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3062c390b6c94ffda77c97553bc4543d",
@@ -8489,13 +8487,13 @@
     }
   },
   "stats": {
-    "matches_completed": 261,
-    "total_goals": 493,
+    "matches_completed": 259,
+    "total_goals": 489,
     "avg_goals_per_match": 1.89,
-    "home_wins": 94,
+    "home_wins": 93,
     "draws": 95,
-    "away_wins": 72,
-    "home_win_pct": 36.0,
+    "away_wins": 71,
+    "home_win_pct": 35.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9220,5 +9218,5 @@
     "matches_current_season": 261,
     "upcoming_matches": 0
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

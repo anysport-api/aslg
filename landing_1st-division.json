@@ -286,15 +286,15 @@
         "position": 6,
         "team_id": "ast_86d69a17c1de47ba8a800cddb1238596",
         "team": "Hobro",
-        "played": 8,
+        "played": 9,
         "wins": 4,
         "draws": 1,
-        "losses": 3,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
+        "losses": 4,
+        "goals_for": 12,
+        "goals_against": 16,
+        "goal_difference": -4,
         "points": 13,
-        "form": "DLLWW"
+        "form": "LDLLW"
       },
       {
         "position": 7,
@@ -354,6 +354,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8",
+        "team": "Koge",
+        "played": 9,
+        "wins": 1,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 11,
+        "goals_against": 17,
+        "goal_difference": -6,
+        "points": 7,
+        "form": "WDDDD"
+      },
+      {
+        "position": 12,
         "team_id": "ast_d03f823672e2460891e94f1b77e0e0d5",
         "team": "Esbjerg",
         "played": 9,
@@ -365,20 +379,6 @@
         "goal_difference": -9,
         "points": 5,
         "form": "LDLLL"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8",
-        "team": "Koge",
-        "played": 8,
-        "wins": 0,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 6,
-        "goals_against": 15,
-        "goal_difference": -9,
-        "points": 4,
-        "form": "DDDDL"
       }
     ],
     "zh": [
@@ -461,16 +461,16 @@
         "position": 6,
         "team_id": "ast_86d69a17c1de47ba8a800cddb1238596",
         "team": "霍布罗",
-        "played": 8,
+        "played": 9,
         "wins": 4,
         "draws": 1,
-        "losses": 3,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
+        "losses": 4,
+        "goals_for": 12,
+        "goals_against": 16,
+        "goal_difference": -4,
         "points": 13,
-        "form": "DLLWW",
-        "form_label": "平负负胜胜"
+        "form": "LDLLW",
+        "form_label": "负平负负胜"
       },
       {
         "position": 7,
@@ -534,6 +534,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8",
+        "team": "科格",
+        "played": 9,
+        "wins": 1,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 11,
+        "goals_against": 17,
+        "goal_difference": -6,
+        "points": 7,
+        "form": "WDDDD",
+        "form_label": "胜平平平平"
+      },
+      {
+        "position": 12,
         "team_id": "ast_d03f823672e2460891e94f1b77e0e0d5",
         "team": "埃斯比约",
         "played": 9,
@@ -546,21 +561,6 @@
         "points": 5,
         "form": "LDLLL",
         "form_label": "负平负负负"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8",
-        "team": "科格",
-        "played": 8,
-        "wins": 0,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 6,
-        "goals_against": 15,
-        "goal_difference": -9,
-        "points": 4,
-        "form": "DDDDL",
-        "form_label": "平平平平负"
       }
     ]
   },
@@ -2078,7 +2078,7 @@
           "team_id": "ast_14ef741472ad4c94bb6831320d6c3343"
         },
         "ht_score": "-",
-        "venue": "Helsingor Stadion",
+        "venue": "",
         "status_label": "未开赛"
       },
       {
@@ -2145,7 +2145,7 @@
         "match_id": "as_29b9616d5b804afebe975efcb545cd14",
         "date": "2026-09-21",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -2157,7 +2157,10 @@
           "name": "霍布罗",
           "team_id": "ast_86d69a17c1de47ba8a800cddb1238596"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "5-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0255c46193ce446b8883de5dc1fb7598",
@@ -2177,7 +2180,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "奥尔堡波特兰公园",
         "status_label": "完场"
       },
       {
@@ -2198,7 +2201,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Monjasa 公园",
         "status_label": "完场"
       },
       {
@@ -3275,6 +3278,66 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_7026d50c9f164ef18d6063c7ba953da7",
+        "date": "2026-11-06",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "丹麦甲级联赛",
+        "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
+        "season": "2026/2027",
+        "home": {
+          "name": "维耶莱",
+          "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3"
+        },
+        "away": {
+          "name": "弗雷德里西亚",
+          "team_id": "ast_14ef741472ad4c94bb6831320d6c3343"
+        },
+        "ht_score": "-",
+        "venue": "瓦埃勒体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_14967ca6e3ed49fdbe3fa4dda1726b43",
+        "date": "2026-11-06",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "丹麦甲级联赛",
+        "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
+        "season": "2026/2027",
+        "home": {
+          "name": "科格",
+          "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8"
+        },
+        "away": {
+          "name": "奥尔堡",
+          "team_id": "ast_82f893b6cb5a40d79730de5d2bc7002d"
+        },
+        "ht_score": "-",
+        "venue": "卡佩利体育体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0d4229deeef94f0595650b8ae24f20e8",
+        "date": "2026-11-06",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "丹麦甲级联赛",
+        "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
+        "season": "2026/2027",
+        "home": {
+          "name": "AB 哥本哈根",
+          "team_id": "ast_d508189b76314653afc24444430d2258"
+        },
+        "away": {
+          "name": "文德西塞尔",
+          "team_id": "ast_6b9e72cc6ec34586a3097d28474094b4"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_b31831ac3d83405c93b38dae5c9ceced",
         "date": "2026-11-01",
         "time": "13:00",
@@ -3691,7 +3754,7 @@
           "team_id": "ast_14ef741472ad4c94bb6831320d6c3343"
         },
         "ht_score": "-",
-        "venue": "Helsingor Stadion",
+        "venue": "",
         "status_label": "未开赛"
       },
       {
@@ -3753,24 +3816,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_29b9616d5b804afebe975efcb545cd14",
-        "date": "2026-09-21",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "丹麦甲级联赛",
-        "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
-        "season": "2026/2027",
-        "home": {
-          "name": "科格",
-          "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8"
-        },
-        "away": {
-          "name": "霍布罗",
-          "team_id": "ast_86d69a17c1de47ba8a800cddb1238596"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5443,23 +5488,23 @@
     }
   },
   "stats": {
-    "matches_completed": 53,
-    "total_goals": 143,
-    "avg_goals_per_match": 2.7,
-    "home_wins": 17,
+    "matches_completed": 54,
+    "total_goals": 150,
+    "avg_goals_per_match": 2.78,
+    "home_wins": 18,
     "draws": 21,
     "away_wins": 15,
-    "home_win_pct": 32.1,
+    "home_win_pct": 33.3,
     "biggest_win": {
       "margin": 3,
       "match": {
-        "match_id": "as_a99b9ccbc0ee41fa9289cbaa6467a009",
-        "date": "2026-09-19",
-        "home_id": "ast_d508189b76314653afc24444430d2258",
-        "home": "AB 哥本哈根",
-        "away_id": "ast_d03f823672e2460891e94f1b77e0e0d5",
-        "away": "埃斯比约",
-        "score": "3-0"
+        "match_id": "as_29b9616d5b804afebe975efcb545cd14",
+        "date": "2026-09-21",
+        "home_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8",
+        "home": "科格",
+        "away_id": "ast_86d69a17c1de47ba8a800cddb1238596",
+        "away": "霍布罗",
+        "score": "5-2"
       }
     },
     "highest_scoring_match": {
@@ -6260,7 +6305,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 25
+    "upcoming_matches": 27
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

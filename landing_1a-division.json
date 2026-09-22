@@ -607,7 +607,7 @@
         "match_id": "as_1a3c0909c77b4d7eb99bf3791764f618",
         "date": "2026-09-20",
         "time": "00:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -619,16 +619,15 @@
           "name": "哈拉帕",
           "team_id": "ast_f5f350d2964747d9a882068f4310f396"
         },
-        "ht_score": "0-0",
-        "reg_score": "0-1",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2c3cc29971754017bb82d706b8efba55",
         "date": "2026-09-20",
         "time": "21:00",
-        "status": "21:00",
+        "status": "Not Started",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -640,13 +639,15 @@
           "name": "马塔加尔帕",
           "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_40b2af9d1cfd4b58bb183653cfd8e849",
         "date": "2026-09-20",
         "time": "23:00",
-        "status": "23:00",
+        "status": "Not Started",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -658,7 +659,9 @@
           "name": "马那瓜FC",
           "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d1df695b91454cfda0645724d313b380",
@@ -3277,13 +3280,13 @@
     }
   },
   "stats": {
-    "matches_completed": 46,
-    "total_goals": 119,
-    "avg_goals_per_match": 2.59,
+    "matches_completed": 45,
+    "total_goals": 118,
+    "avg_goals_per_match": 2.62,
     "home_wins": 16,
     "draws": 9,
-    "away_wins": 21,
-    "home_win_pct": 34.8,
+    "away_wins": 20,
+    "home_win_pct": 35.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4083,5 +4086,5 @@
     "matches_current_season": 55,
     "upcoming_matches": 7
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

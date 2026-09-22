@@ -54,6 +54,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_fd2e4e2f929641009528033bcdd1be36",
+        "team": "Levadia U19",
+        "played": 30,
+        "wins": 18,
+        "draws": 2,
+        "losses": 10,
+        "goals_for": 75,
+        "goals_against": 52,
+        "goal_difference": 23,
+        "points": 56,
+        "form": "WLLWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_3006f456daad4efca8d9993033839230",
         "team": "Johvi Phoenix",
         "played": 30,
@@ -67,32 +81,18 @@
         "form": "WWWLW"
       },
       {
-        "position": 3,
-        "team_id": "ast_fd2e4e2f929641009528033bcdd1be36",
-        "team": "Levadia U19",
-        "played": 29,
-        "wins": 17,
-        "draws": 2,
-        "losses": 10,
-        "goals_for": 74,
-        "goals_against": 52,
-        "goal_difference": 22,
-        "points": 53,
-        "form": "LLWWW"
-      },
-      {
         "position": 4,
         "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
         "team": "Tammeka U21",
-        "played": 29,
+        "played": 30,
         "wins": 15,
         "draws": 4,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 74,
-        "goals_against": 59,
-        "goal_difference": 15,
+        "goals_against": 60,
+        "goal_difference": 14,
         "points": 49,
-        "form": "LWLLL"
+        "form": "LLWLL"
       },
       {
         "position": 5,
@@ -197,6 +197,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_fd2e4e2f929641009528033bcdd1be36",
+        "team": "列瓦迪亚U19",
+        "played": 30,
+        "wins": 18,
+        "draws": 2,
+        "losses": 10,
+        "goals_for": 75,
+        "goals_against": 52,
+        "goal_difference": 23,
+        "points": 56,
+        "form": "WLLWW",
+        "form_label": "胜负负胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_3006f456daad4efca8d9993033839230",
         "team": "乔维凤凰",
         "played": 30,
@@ -211,34 +226,19 @@
         "form_label": "胜胜胜负胜"
       },
       {
-        "position": 3,
-        "team_id": "ast_fd2e4e2f929641009528033bcdd1be36",
-        "team": "列瓦迪亚U19",
-        "played": 29,
-        "wins": 17,
-        "draws": 2,
-        "losses": 10,
-        "goals_for": 74,
-        "goals_against": 52,
-        "goal_difference": 22,
-        "points": 53,
-        "form": "LLWWW",
-        "form_label": "负负胜胜胜"
-      },
-      {
         "position": 4,
         "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
         "team": "塔梅卡U21",
-        "played": 29,
+        "played": 30,
         "wins": 15,
         "draws": 4,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 74,
-        "goals_against": 59,
-        "goal_difference": 15,
+        "goals_against": 60,
+        "goal_difference": 14,
         "points": 49,
-        "form": "LWLLL",
-        "form_label": "负胜负负负"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 5,
@@ -953,7 +953,7 @@
         "match_id": "as_1ed2f07102b1488aba2468c309ce5da8",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -965,13 +965,15 @@
           "name": "纳尔瓦U21",
           "team_id": "ast_e217cec23931426aa39a732eb9b33509"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_012ec49035b14291a31802f89c143af8",
         "date": "2026-09-26",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -983,13 +985,15 @@
           "name": "塔尔图卡列夫",
           "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c84a5960177249c7b476e7bf712837ba",
         "date": "2026-09-21",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -1001,7 +1005,10 @@
           "name": "塔梅卡U21",
           "team_id": "ast_8a57aa837eea4807a30321bea5000b14"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a29dfd8dd5cd47e89bf8284de34faa05",
@@ -4596,7 +4603,7 @@
         "match_id": "as_012ec49035b14291a31802f89c143af8",
         "date": "2026-09-26",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -4608,13 +4615,15 @@
           "name": "塔尔图卡列夫",
           "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_1ed2f07102b1488aba2468c309ce5da8",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -4626,25 +4635,9 @@
           "name": "纳尔瓦U21",
           "team_id": "ast_e217cec23931426aa39a732eb9b33509"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c84a5960177249c7b476e7bf712837ba",
-        "date": "2026-09-21",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "列瓦迪亚U19",
-          "team_id": "ast_fd2e4e2f929641009528033bcdd1be36"
-        },
-        "away": {
-          "name": "塔梅卡U21",
-          "team_id": "ast_8a57aa837eea4807a30321bea5000b14"
-        },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -5024,13 +5017,13 @@
     }
   },
   "stats": {
-    "matches_completed": 147,
-    "total_goals": 657,
-    "avg_goals_per_match": 4.47,
-    "home_wins": 84,
+    "matches_completed": 148,
+    "total_goals": 658,
+    "avg_goals_per_match": 4.45,
+    "home_wins": 85,
     "draws": 17,
     "away_wins": 46,
-    "home_win_pct": 57.1,
+    "home_win_pct": 57.4,
     "biggest_win": {
       "margin": 12,
       "match": {
@@ -5167,6 +5160,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_fd2e4e2f929641009528033bcdd1be36",
+            "team": "Levadia U19",
+            "played": 30,
+            "wins": 18,
+            "draws": 2,
+            "losses": 10,
+            "goals_for": 75,
+            "goals_against": 52,
+            "goal_difference": 23,
+            "points": 56,
+            "form": "WLLWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_3006f456daad4efca8d9993033839230",
             "team": "Johvi Phoenix",
             "played": 30,
@@ -5178,20 +5185,6 @@
             "goal_difference": 3,
             "points": 54,
             "form": "WWWLW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_fd2e4e2f929641009528033bcdd1be36",
-            "team": "Levadia U19",
-            "played": 29,
-            "wins": 17,
-            "draws": 2,
-            "losses": 10,
-            "goals_for": 74,
-            "goals_against": 52,
-            "goal_difference": 22,
-            "points": 53,
-            "form": "LLWWW"
           }
         ],
         "meta": {
@@ -5790,7 +5783,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 28
+    "upcoming_matches": 27
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

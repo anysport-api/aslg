@@ -238,7 +238,7 @@
       },
       {
         "position": 13,
-        "team_id": "ast_7efd1b6980dc4f269f51545d20ac61dd",
+        "team_id": "ast_40919db637ac4b5b974786bd9a057a7e",
         "team": "Sandviken W",
         "played": 19,
         "wins": 2,
@@ -448,8 +448,8 @@
       },
       {
         "position": 13,
-        "team_id": "ast_7efd1b6980dc4f269f51545d20ac61dd",
-        "team": "桑德维肯女足",
+        "team_id": "ast_40919db637ac4b5b974786bd9a057a7e",
+        "team": "Sandviken W",
         "played": 19,
         "wins": 2,
         "draws": 5,
@@ -1479,7 +1479,7 @@
         "match_id": "as_e14e9396fd4b4f65bb6cd4b38e78d9b6",
         "date": "2026-09-20",
         "time": "11:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1491,16 +1491,15 @@
           "name": "阿林萨斯女足",
           "team_id": "ast_6b9020405024460aa08f0bb520fe8d7c"
         },
-        "ht_score": "0-1",
-        "reg_score": "1-1",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_628b6c29f4844e1b8e3422ad76018707",
         "date": "2026-09-20",
         "time": "12:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1512,16 +1511,15 @@
           "name": "吉特克斯女队",
           "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3"
         },
-        "ht_score": "1-2",
-        "reg_score": "1-4",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c15b4e58de074c96af5df0db3e9bb5ca",
         "date": "2026-09-20",
         "time": "12:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1533,10 +1531,9 @@
           "name": "恩斯基德女足",
           "team_id": "ast_0d6d8ec4cf8e443c90796c8765eed871"
         },
-        "ht_score": "3-0",
-        "reg_score": "5-1",
-        "venue": "",
-        "status_label": "完场"
+        "ht_score": "-",
+        "venue": "Umea Energi Arena",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_25b4634ba50347319b6dbb3e0b28fc6d",
@@ -1577,7 +1574,7 @@
         },
         "ht_score": "4-1",
         "reg_score": "5-1",
-        "venue": "",
+        "venue": "贝恩竞技场",
         "status_label": "完场"
       },
       {
@@ -4271,6 +4268,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_bb1ce5c59ec44617948ac6762de703a6",
+        "date": "2026-11-06",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "瑞典女子超级联赛",
+        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
+        "season": "2026",
+        "home": {
+          "name": "KIF厄勒布鲁女足",
+          "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8"
+        },
+        "away": {
+          "name": "林雪平女足",
+          "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed"
+        },
+        "ht_score": "-",
+        "venue": "贝恩竞技场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_24951b590f1646e6b4f0bfa46fed8c17",
         "date": "2026-11-01",
         "time": "11:00",
@@ -6433,13 +6450,13 @@
     }
   },
   "stats": {
-    "matches_completed": 133,
-    "total_goals": 397,
-    "avg_goals_per_match": 2.98,
-    "home_wins": 50,
-    "draws": 30,
-    "away_wins": 53,
-    "home_win_pct": 37.6,
+    "matches_completed": 130,
+    "total_goals": 384,
+    "avg_goals_per_match": 2.95,
+    "home_wins": 49,
+    "draws": 29,
+    "away_wins": 52,
+    "home_win_pct": 37.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7237,7 +7254,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 35
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

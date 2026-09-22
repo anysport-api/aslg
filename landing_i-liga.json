@@ -166,6 +166,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_769b24c6c79942e8937db9affc308481",
+        "team": "Petrzalka",
+        "played": 9,
+        "wins": 8,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 18,
+        "goals_against": 6,
+        "goal_difference": 12,
+        "points": 24,
+        "form": "WLWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_d2779019972241acadab06e7d27d4eb5",
         "team": "Samorin",
         "played": 9,
@@ -179,32 +193,18 @@
         "form": "WWWWW"
       },
       {
-        "position": 2,
-        "team_id": "ast_769b24c6c79942e8937db9affc308481",
-        "team": "Petrzalka",
-        "played": 8,
-        "wins": 7,
-        "draws": 0,
-        "losses": 1,
-        "goals_for": 17,
-        "goals_against": 6,
-        "goal_difference": 11,
-        "points": 21,
-        "form": "LWWWW"
-      },
-      {
         "position": 3,
         "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
         "team": "Pohronie",
-        "played": 8,
+        "played": 9,
         "wins": 5,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 16,
-        "goals_against": 11,
-        "goal_difference": 5,
+        "goals_against": 12,
+        "goal_difference": 4,
         "points": 16,
-        "form": "WWWLW"
+        "form": "LWWWL"
       },
       {
         "position": 4,
@@ -392,6 +392,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_769b24c6c79942e8937db9affc308481",
+        "team": "佩特尔扎尔卡",
+        "played": 9,
+        "wins": 8,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 18,
+        "goals_against": 6,
+        "goal_difference": 12,
+        "points": 24,
+        "form": "WLWWW",
+        "form_label": "胜负胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_d2779019972241acadab06e7d27d4eb5",
         "team": "萨莫林",
         "played": 9,
@@ -406,34 +421,19 @@
         "form_label": "胜胜胜胜胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_769b24c6c79942e8937db9affc308481",
-        "team": "佩特尔扎尔卡",
-        "played": 8,
-        "wins": 7,
-        "draws": 0,
-        "losses": 1,
-        "goals_for": 17,
-        "goals_against": 6,
-        "goal_difference": 11,
-        "points": 21,
-        "form": "LWWWW",
-        "form_label": "负胜胜胜胜"
-      },
-      {
         "position": 3,
         "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
         "team": "波赫罗尼",
-        "played": 8,
+        "played": 9,
         "wins": 5,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 16,
-        "goals_against": 11,
-        "goal_difference": 5,
+        "goals_against": 12,
+        "goal_difference": 4,
         "points": 16,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
+        "form": "LWWWL",
+        "form_label": "负胜胜胜负"
       },
       {
         "position": 4,
@@ -4013,7 +4013,7 @@
         "match_id": "as_9d21b2e2ae8f49ad80ba42e3d87d150c",
         "date": "2026-09-21",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -4025,13 +4025,16 @@
           "name": "波赫罗尼",
           "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ec6236ce5b3b47dc8d16f3c091c06320",
         "date": "2026-09-20",
         "time": "13:30",
-        "status": "FT",
+        "status": "Not Started",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -4043,16 +4046,15 @@
           "name": "布拉迪斯拉发B队",
           "team_id": "ast_caa3053fdb094da9856212e361503d25"
         },
-        "ht_score": "1-0",
-        "reg_score": "2-1",
-        "venue": "",
-        "status_label": "完场"
+        "ht_score": "-",
+        "venue": "Mestsky futbalovy stadion Galanta",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_41b9ab09543a4351a7b1fd6f9dfffd46",
         "date": "2026-09-20",
         "time": "08:30",
-        "status": "FT",
+        "status": "Not Started",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -4064,10 +4066,9 @@
           "name": "波瓦兹斯卡比斯特里察",
           "team_id": "ast_e669d1d0130d4c1599f3f62877433408"
         },
-        "ht_score": "3-2",
-        "reg_score": "4-2",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_393bce5be98b4027a3bc0e5452e85921",
@@ -5521,6 +5522,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_cc226f8d074f41b5b8555d23bcea19a5",
+        "date": "2026-11-06",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "斯洛伐克甲级联赛",
+        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
+        "season": "2026/2027",
+        "home": {
+          "name": "L. 米库拉什",
+          "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816"
+        },
+        "away": {
+          "name": "MFK 比特察",
+          "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e"
+        },
+        "ht_score": "-",
+        "venue": "Mestsky futbalovy stadion Milana Janeka",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5036bf2b83d743849c0eb37037ada03e",
+        "date": "2026-11-06",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "斯洛伐克甲级联赛",
+        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
+        "season": "2026/2027",
+        "home": {
+          "name": "波赫罗尼",
+          "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
+        },
+        "away": {
+          "name": "莱霍塔",
+          "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_ecac92960f27470f903edaff3737421e",
         "date": "2026-11-01",
         "time": "09:30",
@@ -6479,24 +6520,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_9d21b2e2ae8f49ad80ba42e3d87d150c",
-        "date": "2026-09-21",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "佩特尔扎尔卡",
-          "team_id": "ast_769b24c6c79942e8937db9affc308481"
-        },
-        "away": {
-          "name": "波赫罗尼",
-          "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8595,13 +8618,13 @@
     }
   },
   "stats": {
-    "matches_completed": 71,
-    "total_goals": 196,
-    "avg_goals_per_match": 2.76,
-    "home_wins": 37,
+    "matches_completed": 70,
+    "total_goals": 188,
+    "avg_goals_per_match": 2.69,
+    "home_wins": 36,
     "draws": 13,
     "away_wins": 21,
-    "home_win_pct": 52.1,
+    "home_win_pct": 51.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8617,17 +8640,17 @@
     "highest_scoring_match": {
       "goals": 6,
       "match": {
-        "match_id": "as_41b9ab09543a4351a7b1fd6f9dfffd46",
-        "date": "2026-09-20",
-        "home_id": "ast_03de54b888154cd9a67cfa8cbefee450",
-        "home": "日利纳B队",
-        "away_id": "ast_e669d1d0130d4c1599f3f62877433408",
-        "away": "波瓦兹斯卡比斯特里察",
-        "score": "4-2"
+        "match_id": "as_4f8c19c85f214750a5b0d96fd97634f2",
+        "date": "2026-09-04",
+        "home_id": "ast_7646d94e24e7420ca5d6f7a639e4e816",
+        "home": "L. 米库拉什",
+        "away_id": "ast_5840142cc7714654ad901c71fe019139",
+        "away": "布拉迪斯拉发I队",
+        "score": "3-3"
       }
     },
     "leader": {
-      "team": "Samorin",
+      "team": "Petrzalka",
       "points": 24,
       "played": 9
     }
@@ -8724,6 +8747,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_769b24c6c79942e8937db9affc308481",
+            "team": "Petrzalka",
+            "played": 9,
+            "wins": 8,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 18,
+            "goals_against": 6,
+            "goal_difference": 12,
+            "points": 24,
+            "form": "WLWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_d2779019972241acadab06e7d27d4eb5",
             "team": "Samorin",
             "played": 9,
@@ -8737,32 +8774,18 @@
             "form": "WWWWW"
           },
           {
-            "position": 2,
-            "team_id": "ast_769b24c6c79942e8937db9affc308481",
-            "team": "Petrzalka",
-            "played": 8,
-            "wins": 7,
-            "draws": 0,
-            "losses": 1,
-            "goals_for": 17,
-            "goals_against": 6,
-            "goal_difference": 11,
-            "points": 21,
-            "form": "LWWWW"
-          },
-          {
             "position": 3,
             "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
             "team": "Pohronie",
-            "played": 8,
+            "played": 9,
             "wins": 5,
             "draws": 1,
-            "losses": 2,
+            "losses": 3,
             "goals_for": 16,
-            "goals_against": 11,
-            "goal_difference": 5,
+            "goals_against": 12,
+            "goal_difference": 4,
             "points": 16,
-            "form": "WWWLW"
+            "form": "LWWWL"
           }
         ],
         "meta": {
@@ -9399,7 +9422,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 49
+    "upcoming_matches": 50
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

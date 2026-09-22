@@ -218,15 +218,15 @@
         "position": 2,
         "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
         "team": "Struga",
-        "played": 7,
-        "wins": 4,
+        "played": 8,
+        "wins": 5,
         "draws": 2,
         "losses": 1,
-        "goals_for": 13,
+        "goals_for": 19,
         "goals_against": 5,
-        "goal_difference": 8,
-        "points": 14,
-        "form": "DWWLW"
+        "goal_difference": 14,
+        "points": 17,
+        "form": "WDWWL"
       },
       {
         "position": 3,
@@ -288,15 +288,15 @@
         "position": 7,
         "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
         "team": "Arsimi",
-        "played": 7,
+        "played": 8,
         "wins": 2,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 6,
-        "goals_against": 13,
-        "goal_difference": -7,
+        "goals_against": 19,
+        "goal_difference": -13,
         "points": 8,
-        "form": "DLDWW"
+        "form": "LDLDW"
       },
       {
         "position": 8,
@@ -361,16 +361,16 @@
         "position": 2,
         "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
         "team": "斯特鲁加",
-        "played": 7,
-        "wins": 4,
+        "played": 8,
+        "wins": 5,
         "draws": 2,
         "losses": 1,
-        "goals_for": 13,
+        "goals_for": 19,
         "goals_against": 5,
-        "goal_difference": 8,
-        "points": 14,
-        "form": "DWWLW",
-        "form_label": "平胜胜负胜"
+        "goal_difference": 14,
+        "points": 17,
+        "form": "WDWWL",
+        "form_label": "胜平胜胜负"
       },
       {
         "position": 3,
@@ -436,16 +436,16 @@
         "position": 7,
         "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
         "team": "阿尔西米",
-        "played": 7,
+        "played": 8,
         "wins": 2,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 6,
-        "goals_against": 13,
-        "goal_difference": -7,
+        "goals_against": 19,
+        "goal_difference": -13,
         "points": 8,
-        "form": "DLDWW",
-        "form_label": "平负平胜胜"
+        "form": "LDLDW",
+        "form_label": "负平负平胜"
       },
       {
         "position": 8,
@@ -1515,7 +1515,7 @@
         "match_id": "as_e1d80fdbd503492aa5b7ab5c87402d05",
         "date": "2026-09-23",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1527,15 +1527,13 @@
           "name": "斯科普耶足球俱乐部",
           "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
         },
-        "ht_score": "-",
-        "venue": "City Stadium Shtip",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b7ca77e0c0d64e90b65acd972cade459",
         "date": "2026-09-21",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1547,7 +1545,10 @@
           "name": "阿尔西米",
           "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "6-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8d542fbffb5f4435a5162f2fb0015df4",
@@ -2753,7 +2754,7 @@
         "match_id": "as_e1d80fdbd503492aa5b7ab5c87402d05",
         "date": "2026-09-23",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -2764,26 +2765,6 @@
         "away": {
           "name": "斯科普耶足球俱乐部",
           "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
-        },
-        "ht_score": "-",
-        "venue": "City Stadium Shtip",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b7ca77e0c0d64e90b65acd972cade459",
-        "date": "2026-09-21",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "斯特鲁加",
-          "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a"
-        },
-        "away": {
-          "name": "阿尔西米",
-          "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a"
         },
         "venue": ""
       }
@@ -6864,35 +6845,35 @@
     }
   },
   "stats": {
-    "matches_completed": 38,
-    "total_goals": 109,
-    "avg_goals_per_match": 2.87,
-    "home_wins": 19,
+    "matches_completed": 39,
+    "total_goals": 115,
+    "avg_goals_per_match": 2.95,
+    "home_wins": 20,
     "draws": 10,
     "away_wins": 9,
-    "home_win_pct": 50.0,
+    "home_win_pct": 51.3,
     "biggest_win": {
       "margin": 6,
       "match": {
-        "match_id": "as_e9f26c3986d44db48dd759e0ee092c1c",
-        "date": "2026-07-26",
-        "home_id": "ast_2ccb80939ca744f899eab89afe738e64",
-        "home": "西莱克斯",
-        "away_id": "ast_3956e9917d7d47f1b7340de4964b936e",
-        "away": "巴什基米",
+        "match_id": "as_b7ca77e0c0d64e90b65acd972cade459",
+        "date": "2026-09-21",
+        "home_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
+        "home": "斯特鲁加",
+        "away_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
+        "away": "阿尔西米",
         "score": "6-0"
       }
     },
     "highest_scoring_match": {
       "goals": 6,
       "match": {
-        "match_id": "as_c7752dec04f344138be39ef2db4d0b5e",
-        "date": "2026-09-12",
-        "home_id": "ast_3956e9917d7d47f1b7340de4964b936e",
-        "home": "巴什基米",
-        "away_id": "ast_8b6077284f384712b80402b56942c716",
-        "away": "瓦尔达尔",
-        "score": "3-3"
+        "match_id": "as_b7ca77e0c0d64e90b65acd972cade459",
+        "date": "2026-09-21",
+        "home_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
+        "home": "斯特鲁加",
+        "away_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
+        "away": "阿尔西米",
+        "score": "6-0"
       }
     },
     "leader": {
@@ -7009,15 +6990,15 @@
             "position": 2,
             "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
             "team": "Struga",
-            "played": 7,
-            "wins": 4,
+            "played": 8,
+            "wins": 5,
             "draws": 2,
             "losses": 1,
-            "goals_for": 13,
+            "goals_for": 19,
             "goals_against": 5,
-            "goal_difference": 8,
-            "points": 14,
-            "form": "DWWLW"
+            "goal_difference": 14,
+            "points": 17,
+            "form": "WDWWL"
           },
           {
             "position": 3,
@@ -7668,7 +7649,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }

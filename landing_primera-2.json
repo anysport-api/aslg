@@ -180,14 +180,14 @@
         "position": 1,
         "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
         "team": "Montevideo City",
-        "played": 5,
-        "wins": 5,
+        "played": 6,
+        "wins": 6,
         "draws": 0,
         "losses": 0,
-        "goals_for": 14,
-        "goals_against": 4,
-        "goal_difference": 10,
-        "points": 15,
+        "goals_for": 18,
+        "goals_against": 5,
+        "goal_difference": 13,
+        "points": 18,
         "form": "WWWWW"
       },
       {
@@ -346,20 +346,6 @@
       },
       {
         "position": 13,
-        "team_id": "ast_75ecbb49a2f0427fafe4f144580058d4",
-        "team": "Central Esp.",
-        "played": 6,
-        "wins": 1,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 3,
-        "goals_against": 7,
-        "goal_difference": -4,
-        "points": 5,
-        "form": "DDLLL"
-      },
-      {
-        "position": 14,
         "team_id": "ast_697e416d75114429bc42b5fa4a153364",
         "team": "Defensor Sp.",
         "played": 7,
@@ -371,6 +357,20 @@
         "goal_difference": -7,
         "points": 5,
         "form": "LWDLD"
+      },
+      {
+        "position": 14,
+        "team_id": "ast_75ecbb49a2f0427fafe4f144580058d4",
+        "team": "Central Esp.",
+        "played": 7,
+        "wins": 1,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 4,
+        "goals_against": 11,
+        "goal_difference": -7,
+        "points": 5,
+        "form": "LDDLL"
       },
       {
         "position": 15,
@@ -406,14 +406,14 @@
         "position": 1,
         "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
         "team": "蒙得维的亚城",
-        "played": 5,
-        "wins": 5,
+        "played": 6,
+        "wins": 6,
         "draws": 0,
         "losses": 0,
-        "goals_for": 14,
-        "goals_against": 4,
-        "goal_difference": 10,
-        "points": 15,
+        "goals_for": 18,
+        "goals_against": 5,
+        "goal_difference": 13,
+        "points": 18,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
       },
@@ -584,21 +584,6 @@
       },
       {
         "position": 13,
-        "team_id": "ast_75ecbb49a2f0427fafe4f144580058d4",
-        "team": "中央体育",
-        "played": 6,
-        "wins": 1,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 3,
-        "goals_against": 7,
-        "goal_difference": -4,
-        "points": 5,
-        "form": "DDLLL",
-        "form_label": "平平负负负"
-      },
-      {
-        "position": 14,
         "team_id": "ast_697e416d75114429bc42b5fa4a153364",
         "team": "防守者体育",
         "played": 7,
@@ -611,6 +596,21 @@
         "points": 5,
         "form": "LWDLD",
         "form_label": "负胜平负平"
+      },
+      {
+        "position": 14,
+        "team_id": "ast_75ecbb49a2f0427fafe4f144580058d4",
+        "team": "中央体育",
+        "played": 7,
+        "wins": 1,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 4,
+        "goals_against": 11,
+        "goal_difference": -7,
+        "points": 5,
+        "form": "LDDLL",
+        "form_label": "负平平负负"
       },
       {
         "position": 15,
@@ -685,7 +685,7 @@
         "match_id": "as_8252ae9101354c05835620c626e168c0",
         "date": "2026-09-21",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -697,7 +697,10 @@
           "name": "蒙得维的亚城",
           "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1fd917d7b90d41d4a07f169acfd67f22",
@@ -717,7 +720,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "1-3",
-        "venue": "",
+        "venue": "路易斯·弗兰齐尼体育场",
         "status_label": "完场"
       },
       {
@@ -759,7 +762,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Gran Parque Central",
         "status_label": "完场"
       },
       {
@@ -5571,24 +5574,6 @@
         "ht_score": "-",
         "venue": "百年纪念体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_8252ae9101354c05835620c626e168c0",
-        "date": "2026-09-21",
-        "time": "22:30",
-        "status": "22:30",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "中央体育",
-          "team_id": "ast_75ecbb49a2f0427fafe4f144580058d4"
-        },
-        "away": {
-          "name": "蒙得维的亚城",
-          "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10935,13 +10920,13 @@
     }
   },
   "stats": {
-    "matches_completed": 231,
-    "total_goals": 547,
-    "avg_goals_per_match": 2.37,
+    "matches_completed": 232,
+    "total_goals": 552,
+    "avg_goals_per_match": 2.38,
     "home_wins": 95,
     "draws": 61,
-    "away_wins": 75,
-    "home_win_pct": 41.1,
+    "away_wins": 76,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10968,8 +10953,8 @@
     },
     "leader": {
       "team": "Montevideo City",
-      "points": 15,
-      "played": 5
+      "points": 18,
+      "played": 6
     }
   },
   "coverage": {
@@ -11066,14 +11051,14 @@
             "position": 1,
             "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
             "team": "Montevideo City",
-            "played": 5,
-            "wins": 5,
+            "played": 6,
+            "wins": 6,
             "draws": 0,
             "losses": 0,
-            "goals_for": 14,
-            "goals_against": 4,
-            "goal_difference": 10,
-            "points": 15,
+            "goals_for": 18,
+            "goals_against": 5,
+            "goal_difference": 13,
+            "points": 18,
             "form": "WWWWW"
           },
           {
@@ -11680,7 +11665,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 233,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/22"
 }
