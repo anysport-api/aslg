@@ -1220,7 +1220,7 @@
       {
         "match_id": "as_06b0b4abfbb84310ac4ee29e3a2986d0",
         "date": "2026-09-29",
-        "time": "01:30",
+        "time": "01:00",
         "status": "Not Started",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
@@ -1404,7 +1404,7 @@
         "match_id": "as_e7e2540eaa4349a3a7ff98ba0dfe358b",
         "date": "2026-09-20",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1416,9 +1416,10 @@
           "name": "陶罗",
           "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
         },
-        "ht_score": "-",
+        "ht_score": "0-2",
+        "reg_score": "0-6",
         "venue": "Estadio Los Milagros",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_9d0e04497be34143a656c3ea113cf537",
@@ -5238,7 +5239,7 @@
       {
         "match_id": "as_06b0b4abfbb84310ac4ee29e3a2986d0",
         "date": "2026-09-29",
-        "time": "01:30",
+        "time": "01:00",
         "status": "Not Started",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
@@ -5354,27 +5355,6 @@
         "ht_score": "-",
         "venue": "Estadio Armando Dely Valdes",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_aa75f1646d2b45a290587295612cbc8d",
-        "date": "2026-09-22",
-        "time": "01:00",
-        "status": "FT",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "UMECIT",
-          "team_id": "ast_034de0be838449348a077f5c5c1f6799"
-        },
-        "away": {
-          "name": "科克莱联合",
-          "team_id": "ast_8f2f22a37d36431399f865006017ad71"
-        },
-        "ht_score": "0-0",
-        "reg_score": "1-0",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -6352,23 +6332,23 @@
     }
   },
   "stats": {
-    "matches_completed": 156,
-    "total_goals": 415,
-    "avg_goals_per_match": 2.66,
+    "matches_completed": 157,
+    "total_goals": 421,
+    "avg_goals_per_match": 2.68,
     "home_wins": 60,
     "draws": 57,
-    "away_wins": 39,
-    "home_win_pct": 38.5,
+    "away_wins": 40,
+    "home_win_pct": 38.2,
     "biggest_win": {
-      "margin": 5,
+      "margin": 6,
       "match": {
-        "match_id": "as_8add01bc26e949af8e83679eebb3b98b",
-        "date": "2026-02-22",
-        "home_id": "ast_d3baa4540a6f40f89e88b5a5fa6ac30c",
-        "home": "普拉萨阿莫多尔",
-        "away_id": "ast_42c48149a1f3491591ff635d82babaad",
-        "away": "埃雷拉",
-        "score": "7-2"
+        "match_id": "as_e7e2540eaa4349a3a7ff98ba0dfe358b",
+        "date": "2026-09-20",
+        "home_id": "ast_42c48149a1f3491591ff635d82babaad",
+        "home": "埃雷拉",
+        "away_id": "ast_04b17523f3874516ac7bfeacc8af12d3",
+        "away": "陶罗",
+        "score": "0-6"
       }
     },
     "highest_scoring_match": {
@@ -7156,7 +7136,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 12,
     "matches_current_season": 199,
-    "upcoming_matches": 37
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/09/22"
+  "updated_at": "2026/09/23"
 }
