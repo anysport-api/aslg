@@ -350,15 +350,15 @@
         "position": 14,
         "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1",
         "team": "Cienciano",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 1,
-        "losses": 5,
-        "goals_for": 10,
-        "goals_against": 15,
-        "goal_difference": -5,
+        "losses": 6,
+        "goals_for": 11,
+        "goals_against": 17,
+        "goal_difference": -6,
         "points": 7,
-        "form": "WLLDL"
+        "form": "LWLLD"
       },
       {
         "position": 15,
@@ -390,6 +390,20 @@
       },
       {
         "position": 17,
+        "team_id": "ast_78b4bb4175af4daa9487854c9b27f163",
+        "team": "AD Tarma",
+        "played": 10,
+        "wins": 1,
+        "draws": 2,
+        "losses": 7,
+        "goals_for": 7,
+        "goals_against": 21,
+        "goal_difference": -14,
+        "points": 5,
+        "form": "WLLLL"
+      },
+      {
+        "position": 18,
         "team_id": "ast_d2d868436b6f414a88405a8e512d85dc",
         "team": "Cajamarca",
         "played": 10,
@@ -401,20 +415,6 @@
         "goal_difference": -13,
         "points": 2,
         "form": "LLLLL"
-      },
-      {
-        "position": 18,
-        "team_id": "ast_78b4bb4175af4daa9487854c9b27f163",
-        "team": "AD Tarma",
-        "played": 9,
-        "wins": 0,
-        "draws": 2,
-        "losses": 7,
-        "goals_for": 5,
-        "goals_against": 20,
-        "goal_difference": -15,
-        "points": 2,
-        "form": "LLLLD"
       }
     ],
     "zh": [
@@ -617,16 +617,16 @@
         "position": 14,
         "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1",
         "team": "西恩西亚诺",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 1,
-        "losses": 5,
-        "goals_for": 10,
-        "goals_against": 15,
-        "goal_difference": -5,
+        "losses": 6,
+        "goals_for": 11,
+        "goals_against": 17,
+        "goal_difference": -6,
         "points": 7,
-        "form": "WLLDL",
-        "form_label": "胜负负平负"
+        "form": "LWLLD",
+        "form_label": "负胜负负平"
       },
       {
         "position": 15,
@@ -660,6 +660,21 @@
       },
       {
         "position": 17,
+        "team_id": "ast_78b4bb4175af4daa9487854c9b27f163",
+        "team": "ADT",
+        "played": 10,
+        "wins": 1,
+        "draws": 2,
+        "losses": 7,
+        "goals_for": 7,
+        "goals_against": 21,
+        "goal_difference": -14,
+        "points": 5,
+        "form": "WLLLL",
+        "form_label": "胜负负负负"
+      },
+      {
+        "position": 18,
         "team_id": "ast_d2d868436b6f414a88405a8e512d85dc",
         "team": "卡哈马卡UTC",
         "played": 10,
@@ -672,21 +687,6 @@
         "points": 2,
         "form": "LLLLL",
         "form_label": "负负负负负"
-      },
-      {
-        "position": 18,
-        "team_id": "ast_78b4bb4175af4daa9487854c9b27f163",
-        "team": "ADT",
-        "played": 9,
-        "wins": 0,
-        "draws": 2,
-        "losses": 7,
-        "goals_for": 5,
-        "goals_against": 20,
-        "goal_difference": -15,
-        "points": 2,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
       }
     ]
   },
@@ -4397,7 +4397,7 @@
         "match_id": "as_9a056f3314d442f0b338e90c5332463c",
         "date": "2026-09-23",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4409,7 +4409,10 @@
           "name": "西恩西亚诺",
           "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5b14a6b726ac4d338ff85879feb258fe",
@@ -15937,13 +15940,13 @@
     }
   },
   "stats": {
-    "matches_completed": 241,
-    "total_goals": 671,
-    "avg_goals_per_match": 2.78,
-    "home_wins": 127,
+    "matches_completed": 242,
+    "total_goals": 674,
+    "avg_goals_per_match": 2.79,
+    "home_wins": 128,
     "draws": 57,
     "away_wins": 57,
-    "home_win_pct": 52.7,
+    "home_win_pct": 52.9,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -16750,5 +16753,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/23"
+  "updated_at": "2026/09/24"
 }

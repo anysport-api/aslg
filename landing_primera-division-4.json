@@ -162,15 +162,15 @@
         "position": 1,
         "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
         "team": "America De Cali",
-        "played": 10,
-        "wins": 6,
+        "played": 11,
+        "wins": 7,
         "draws": 3,
         "losses": 1,
-        "goals_for": 21,
+        "goals_for": 22,
         "goals_against": 6,
-        "goal_difference": 15,
-        "points": 21,
-        "form": "DLWDW"
+        "goal_difference": 16,
+        "points": 24,
+        "form": "WDLWD"
       },
       {
         "position": 2,
@@ -302,15 +302,15 @@
         "position": 11,
         "team_id": "ast_73af39088e1c4b949951c57177e7ab61",
         "team": "Aguilas",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 5,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 12,
-        "goals_against": 12,
-        "goal_difference": 0,
+        "goals_against": 13,
+        "goal_difference": -1,
         "points": 11,
-        "form": "DLDDD"
+        "form": "LDLDD"
       },
       {
         "position": 12,
@@ -444,16 +444,16 @@
         "position": 1,
         "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
         "team": "美洲队（卡利）",
-        "played": 10,
-        "wins": 6,
+        "played": 11,
+        "wins": 7,
         "draws": 3,
         "losses": 1,
-        "goals_for": 21,
+        "goals_for": 22,
         "goals_against": 6,
-        "goal_difference": 15,
-        "points": 21,
-        "form": "DLWDW",
-        "form_label": "平负胜平胜"
+        "goal_difference": 16,
+        "points": 24,
+        "form": "WDLWD",
+        "form_label": "胜平负胜平"
       },
       {
         "position": 2,
@@ -594,16 +594,16 @@
         "position": 11,
         "team_id": "ast_73af39088e1c4b949951c57177e7ab61",
         "team": "阿圭拉斯",
-        "played": 8,
+        "played": 9,
         "wins": 2,
         "draws": 5,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 12,
-        "goals_against": 12,
-        "goal_difference": 0,
+        "goals_against": 13,
+        "goal_difference": -1,
         "points": 11,
-        "form": "DLDDD",
-        "form_label": "平负平平平"
+        "form": "LDLDD",
+        "form_label": "负平负平平"
       },
       {
         "position": 12,
@@ -4848,7 +4848,7 @@
       {
         "match_id": "as_95e2377ef28c4e4abb9fc823f50cea33",
         "date": "2026-09-29",
-        "time": "23:00",
+        "time": "20:30",
         "status": "Not Started",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
@@ -4988,7 +4988,7 @@
       {
         "match_id": "as_1da6d8211f9b46c584a00e94ccd5ef73",
         "date": "2026-09-26",
-        "time": "21:10",
+        "time": "21:00",
         "status": "Not Started",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
@@ -5027,7 +5027,7 @@
         "match_id": "as_6e78e115f2eb45489f6df8341ad1246f",
         "date": "2026-09-25",
         "time": "23:10",
-        "status": "Not Started",
+        "status": "23:10",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -5039,15 +5039,13 @@
           "name": "帕斯托体育",
           "team_id": "ast_8fff1fbcfbd047a98ee47d11ba3035be"
         },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_99f374d855014c38bd7984ea6fc6da80",
         "date": "2026-09-24",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -5059,7 +5057,10 @@
           "name": "阿圭拉斯",
           "team_id": "ast_73af39088e1c4b949951c57177e7ab61"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_116f094b5d03482f987aa067c96c50f6",
@@ -11343,6 +11344,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_747ffabf30d941b49730a92ec9754007",
+        "date": "2026-11-08",
+        "time": "23:10",
+        "status": "Not Started",
+        "league": "哥伦比亚甲级联赛",
+        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
+        "season": "2026",
+        "home": {
+          "name": "青年",
+          "team_id": "ast_2c299f4478224035904293082be2d2e1"
+        },
+        "away": {
+          "name": "库库塔",
+          "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b821448fbcc0448bbbb249a4089eb908",
+        "date": "2026-11-08",
+        "time": "21:05",
+        "status": "Not Started",
+        "league": "哥伦比亚甲级联赛",
+        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
+        "season": "2026",
+        "home": {
+          "name": "科尔多瓦美洲虎",
+          "team_id": "ast_7c10e80a1f5f42d0834eac923ab6e26a"
+        },
+        "away": {
+          "name": "布卡拉曼加",
+          "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Jaraguay",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d2c316b3a4b0427fa61ad813e67d023e",
+        "date": "2026-11-08",
+        "time": "19:00",
+        "status": "Not Started",
+        "league": "哥伦比亚甲级联赛",
+        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
+        "season": "2026",
+        "home": {
+          "name": "奇科",
+          "team_id": "ast_0550cfe57592457190742383da011612"
+        },
+        "away": {
+          "name": "国际波哥大",
+          "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c"
+        },
+        "ht_score": "-",
+        "venue": "Estadio La Independencia",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1c8676bc08454cd0938de7e981426ecf",
+        "date": "2026-11-08",
+        "time": "01:15",
+        "status": "Not Started",
+        "league": "哥伦比亚甲级联赛",
+        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
+        "season": "2026",
+        "home": {
+          "name": "美洲队（卡利）",
+          "team_id": "ast_829c97ff50444a71ac8269c744ec46d0"
+        },
+        "away": {
+          "name": "卡利体育",
+          "team_id": "ast_f7a9559f489d49a990829229b659d955"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_36cfcb0c4a904896b770de07a049057b",
         "date": "2026-11-07",
         "time": "19:00",
@@ -12260,86 +12341,6 @@
         },
         "ht_score": "-",
         "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5436ba9f1dcb48d8ac9ca266d9095630",
-        "date": "2026-10-14",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "青年",
-          "team_id": "ast_2c299f4478224035904293082be2d2e1"
-        },
-        "away": {
-          "name": "佩雷拉",
-          "team_id": "ast_db12bd2a254142ba8d80b3f87cf45cf5"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_34616eb9624c47d69d94b75981b9fb1f",
-        "date": "2026-10-13",
-        "time": "01:10",
-        "status": "Not Started",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "奇科",
-          "team_id": "ast_0550cfe57592457190742383da011612"
-        },
-        "away": {
-          "name": "库库塔",
-          "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35"
-        },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d6369c712e29407d8b1b126ba8a9d5d7",
-        "date": "2026-10-12",
-        "time": "01:15",
-        "status": "Not Started",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "美洲队（卡利）",
-          "team_id": "ast_829c97ff50444a71ac8269c744ec46d0"
-        },
-        "away": {
-          "name": "麦德林独立",
-          "team_id": "ast_e90f52fb079b43f9ac0c32bf7e877f7a"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_a26781ab072c40a797748e68595c1f69",
-        "date": "2026-10-11",
-        "time": "19:00",
-        "status": "Not Started",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "佩雷拉",
-          "team_id": "ast_db12bd2a254142ba8d80b3f87cf45cf5"
-        },
-        "away": {
-          "name": "卡利体育",
-          "team_id": "ast_f7a9559f489d49a990829229b659d955"
-        },
-        "ht_score": "-",
-        "venue": "Santiago de las Atalayas",
         "status_label": "未开赛"
       }
     ]
@@ -14438,13 +14439,13 @@
     }
   },
   "stats": {
-    "matches_completed": 299,
-    "total_goals": 769,
+    "matches_completed": 300,
+    "total_goals": 770,
     "avg_goals_per_match": 2.57,
-    "home_wins": 136,
+    "home_wins": 137,
     "draws": 91,
     "away_wins": 72,
-    "home_win_pct": 45.5,
+    "home_win_pct": 45.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14471,8 +14472,8 @@
     },
     "leader": {
       "team": "America De Cali",
-      "points": 21,
-      "played": 10
+      "points": 24,
+      "played": 11
     }
   },
   "coverage": {
@@ -14576,15 +14577,15 @@
             "position": 1,
             "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
             "team": "America De Cali",
-            "played": 10,
-            "wins": 6,
+            "played": 11,
+            "wins": 7,
             "draws": 3,
             "losses": 1,
-            "goals_for": 21,
+            "goals_for": 22,
             "goals_against": 6,
-            "goal_difference": 15,
-            "points": 21,
-            "form": "DLWDW"
+            "goal_difference": 16,
+            "points": 24,
+            "form": "WDLWD"
           },
           {
             "position": 2,
@@ -15248,5 +15249,5 @@
     "matches_current_season": 394,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/23"
+  "updated_at": "2026/09/24"
 }

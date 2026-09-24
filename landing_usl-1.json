@@ -354,15 +354,15 @@
         "position": 10,
         "team_id": "ast_0a70a9ab75374432a572042df22d3c1a",
         "team": "Birmingham",
-        "played": 24,
-        "wins": 3,
+        "played": 25,
+        "wins": 4,
         "draws": 11,
         "losses": 10,
-        "goals_for": 32,
+        "goals_for": 36,
         "goals_against": 42,
-        "goal_difference": -10,
-        "points": 20,
-        "form": "LDDDL"
+        "goal_difference": -6,
+        "points": 23,
+        "form": "WLDDD"
       },
       {
         "position": 10,
@@ -410,15 +410,15 @@
         "position": 12,
         "team_id": "ast_9940cbc6281a4f57b60e9b307c3c960a",
         "team": "Brooklyn",
-        "played": 24,
+        "played": 25,
         "wins": 4,
         "draws": 6,
-        "losses": 14,
+        "losses": 15,
         "goals_for": 25,
-        "goals_against": 45,
-        "goal_difference": -20,
+        "goals_against": 49,
+        "goal_difference": -24,
         "points": 18,
-        "form": "DLDLW"
+        "form": "LDLDL"
       },
       {
         "position": 12,
@@ -724,16 +724,16 @@
         "position": 10,
         "team_id": "ast_0a70a9ab75374432a572042df22d3c1a",
         "team": "伯明翰",
-        "played": 24,
-        "wins": 3,
+        "played": 25,
+        "wins": 4,
         "draws": 11,
         "losses": 10,
-        "goals_for": 32,
+        "goals_for": 36,
         "goals_against": 42,
-        "goal_difference": -10,
-        "points": 20,
-        "form": "LDDDL",
-        "form_label": "负平平平负"
+        "goal_difference": -6,
+        "points": 23,
+        "form": "WLDDD",
+        "form_label": "胜负平平平"
       },
       {
         "position": 10,
@@ -784,16 +784,16 @@
         "position": 12,
         "team_id": "ast_9940cbc6281a4f57b60e9b307c3c960a",
         "team": "布鲁克林",
-        "played": 24,
+        "played": 25,
         "wins": 4,
         "draws": 6,
-        "losses": 14,
+        "losses": 15,
         "goals_for": 25,
-        "goals_against": 45,
-        "goal_difference": -20,
+        "goals_against": 49,
+        "goal_difference": -24,
         "points": 18,
-        "form": "DLDLW",
-        "form_label": "平负平负胜"
+        "form": "LDLDL",
+        "form_label": "负平负平负"
       },
       {
         "position": 12,
@@ -2128,7 +2128,7 @@
         "match_id": "as_693055e87cd1492291b4d10594730a65",
         "date": "2026-09-25",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -2140,15 +2140,13 @@
           "name": "路易斯维尔城",
           "team_id": "ast_390b1db3056242bb9a98447f3fb9cfac"
         },
-        "ht_score": "-",
-        "venue": "Trinity健康体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5228d6c1acf446a5a5025e5e92ffb428",
         "date": "2026-09-25",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -2160,15 +2158,13 @@
           "name": "劳登",
           "team_id": "ast_9cebdbb5419c4fe6b7437eb691b45599"
         },
-        "ht_score": "-",
-        "venue": "霍奇斯体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ea9e42f99368460085c399cce297b78d",
         "date": "2026-09-23",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -2180,7 +2176,10 @@
           "name": "布鲁克林",
           "team_id": "ast_9940cbc6281a4f57b60e9b307c3c960a"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_df2f74dd87e04f0683a0aa55c70368cd",
@@ -12912,13 +12911,13 @@
     }
   },
   "stats": {
-    "matches_completed": 308,
-    "total_goals": 839,
-    "avg_goals_per_match": 2.72,
-    "home_wins": 135,
+    "matches_completed": 309,
+    "total_goals": 843,
+    "avg_goals_per_match": 2.73,
+    "home_wins": 136,
     "draws": 89,
     "away_wins": 84,
-    "home_win_pct": 43.8,
+    "home_win_pct": 44.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13714,5 +13713,5 @@
     "matches_current_season": 375,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/23"
+  "updated_at": "2026/09/24"
 }
