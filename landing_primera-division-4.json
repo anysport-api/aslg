@@ -176,18 +176,32 @@
         "position": 2,
         "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461",
         "team": "Millonarios",
-        "played": 11,
+        "played": 12,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "losses": 2,
-        "goals_for": 15,
-        "goals_against": 8,
+        "goals_for": 16,
+        "goals_against": 9,
         "goal_difference": 7,
-        "points": 19,
-        "form": "WWDDL"
+        "points": 20,
+        "form": "DWWDD"
       },
       {
         "position": 3,
+        "team_id": "ast_456335a042874375864b6bbe473786d2",
+        "team": "Atl. Nacional",
+        "played": 9,
+        "wins": 6,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 18,
+        "goals_against": 9,
+        "goal_difference": 9,
+        "points": 19,
+        "form": "DLWWW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_e90f52fb079b43f9ac0c32bf7e877f7a",
         "team": "Ind. Medellin",
         "played": 9,
@@ -199,20 +213,6 @@
         "goal_difference": 6,
         "points": 19,
         "form": "WDLWW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_456335a042874375864b6bbe473786d2",
-        "team": "Atl. Nacional",
-        "played": 8,
-        "wins": 6,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 17,
-        "goals_against": 8,
-        "goal_difference": 9,
-        "points": 18,
-        "form": "LWWWW"
       },
       {
         "position": 5,
@@ -459,19 +459,34 @@
         "position": 2,
         "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461",
         "team": "米隆纳里奥斯",
-        "played": 11,
+        "played": 12,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "losses": 2,
-        "goals_for": 15,
-        "goals_against": 8,
+        "goals_for": 16,
+        "goals_against": 9,
         "goal_difference": 7,
-        "points": 19,
-        "form": "WWDDL",
-        "form_label": "胜胜平平负"
+        "points": 20,
+        "form": "DWWDD",
+        "form_label": "平胜胜平平"
       },
       {
         "position": 3,
+        "team_id": "ast_456335a042874375864b6bbe473786d2",
+        "team": "国民竞技",
+        "played": 9,
+        "wins": 6,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 18,
+        "goals_against": 9,
+        "goal_difference": 9,
+        "points": 19,
+        "form": "DLWWW",
+        "form_label": "平负胜胜胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_e90f52fb079b43f9ac0c32bf7e877f7a",
         "team": "麦德林独立",
         "played": 9,
@@ -484,21 +499,6 @@
         "points": 19,
         "form": "WDLWW",
         "form_label": "胜平负胜胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_456335a042874375864b6bbe473786d2",
-        "team": "国民竞技",
-        "played": 8,
-        "wins": 6,
-        "draws": 0,
-        "losses": 2,
-        "goals_for": 17,
-        "goals_against": 8,
-        "goal_difference": 9,
-        "points": 18,
-        "form": "LWWWW",
-        "form_label": "负胜胜胜胜"
       },
       {
         "position": 5,
@@ -4949,7 +4949,7 @@
         "match_id": "as_eb9cb3dc05a54a5385fe14c028eacaed",
         "date": "2026-09-26",
         "time": "23:15",
-        "status": "Not Started",
+        "status": "23:15",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4961,15 +4961,13 @@
           "name": "兰内罗斯",
           "team_id": "ast_9deb16c39d3047e5ad23faf51ca6303a"
         },
-        "ht_score": "-",
-        "venue": "桑坦德将军体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c6db1eaa92bc42249073bd9ec776fc86",
         "date": "2026-09-26",
         "time": "01:15",
-        "status": "Not Started",
+        "status": "01:15",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4981,15 +4979,13 @@
           "name": "布卡拉曼加",
           "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c"
         },
-        "ht_score": "-",
-        "venue": "帕洛格兰德体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1da6d8211f9b46c584a00e94ccd5ef73",
         "date": "2026-09-26",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -5001,15 +4997,13 @@
           "name": "国际波哥大",
           "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c"
         },
-        "ht_score": "-",
-        "venue": "Santiago de las Atalayas",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2297c87ebc1d4a88af2a97526ae08529",
         "date": "2026-09-25",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -5021,7 +5015,10 @@
           "name": "米隆纳里奥斯",
           "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6e78e115f2eb45489f6df8341ad1246f",
@@ -5101,7 +5098,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "阿塔纳西奥·吉拉多特体育场",
         "status_label": "完场"
       },
       {
@@ -11344,6 +11341,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_57f9305561f44cbab44982375e0b7796",
+        "date": "2026-11-09",
+        "time": "01:15",
+        "status": "Not Started",
+        "league": "哥伦比亚甲级联赛",
+        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
+        "season": "2026",
+        "home": {
+          "name": "阿利安萨",
+          "team_id": "ast_322f705023214effa5adf4d96e5a6142"
+        },
+        "away": {
+          "name": "兰内罗斯",
+          "team_id": "ast_9deb16c39d3047e5ad23faf51ca6303a"
+        },
+        "ht_score": "-",
+        "venue": "阿曼多·马埃斯特雷·帕瓦霍体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_747ffabf30d941b49730a92ec9754007",
         "date": "2026-11-08",
         "time": "23:10",
@@ -12318,26 +12335,6 @@
         "away": {
           "name": "科尔多瓦美洲虎",
           "team_id": "ast_7c10e80a1f5f42d0834eac923ab6e26a"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_74c180c0e34b4d45b34295e6c582b234",
-        "date": "2026-10-14",
-        "time": "00:00",
-        "status": "Not Started",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "布卡拉曼加",
-          "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c"
-        },
-        "away": {
-          "name": "阿圭拉斯",
-          "team_id": "ast_73af39088e1c4b949951c57177e7ab61"
         },
         "ht_score": "-",
         "venue": "",
@@ -14439,13 +14436,13 @@
     }
   },
   "stats": {
-    "matches_completed": 300,
-    "total_goals": 770,
-    "avg_goals_per_match": 2.57,
+    "matches_completed": 301,
+    "total_goals": 772,
+    "avg_goals_per_match": 2.56,
     "home_wins": 137,
-    "draws": 91,
+    "draws": 92,
     "away_wins": 72,
-    "home_win_pct": 45.7,
+    "home_win_pct": 45.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14591,29 +14588,29 @@
             "position": 2,
             "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461",
             "team": "Millonarios",
-            "played": 11,
+            "played": 12,
             "wins": 5,
-            "draws": 4,
+            "draws": 5,
             "losses": 2,
-            "goals_for": 15,
-            "goals_against": 8,
+            "goals_for": 16,
+            "goals_against": 9,
             "goal_difference": 7,
-            "points": 19,
-            "form": "WWDDL"
+            "points": 20,
+            "form": "DWWDD"
           },
           {
             "position": 3,
-            "team_id": "ast_e90f52fb079b43f9ac0c32bf7e877f7a",
-            "team": "Ind. Medellin",
+            "team_id": "ast_456335a042874375864b6bbe473786d2",
+            "team": "Atl. Nacional",
             "played": 9,
             "wins": 6,
             "draws": 1,
             "losses": 2,
-            "goals_for": 17,
-            "goals_against": 11,
-            "goal_difference": 6,
+            "goals_for": 18,
+            "goals_against": 9,
+            "goal_difference": 9,
             "points": 19,
-            "form": "WDLWW"
+            "form": "DLWWW"
           }
         ],
         "meta": {
@@ -15249,5 +15246,5 @@
     "matches_current_season": 394,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/24"
+  "updated_at": "2026/09/25"
 }
