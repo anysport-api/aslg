@@ -5104,7 +5104,7 @@
         "match_id": "as_ae3773308b31426bbe5b9d9239a8d113",
         "date": "2026-09-27",
         "time": "20:15",
-        "status": "Not Started",
+        "status": "20:15",
         "league": "秘鲁乙级联赛",
         "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
         "season": "2026",
@@ -5116,15 +5116,13 @@
           "name": "海盗",
           "team_id": "ast_f46a6ed25ce7443c8b512aa0764976bf"
         },
-        "ht_score": "-",
-        "venue": "Estadio Municipal Carlos Vidaurre Garcia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1d6178ec5c294e0a8ef2f8c16c58feae",
         "date": "2026-09-27",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "秘鲁乙级联赛",
         "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
         "season": "2026",
@@ -5136,15 +5134,13 @@
           "name": "塔克纳 英雄城",
           "team_id": "ast_8a7b0837c77642869de40b9a42d87c2d"
         },
-        "ht_score": "-",
-        "venue": "Estadio Heraclio Tapia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4754ddf2d3134a5cb64bbcb1296993e1",
         "date": "2026-09-26",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "秘鲁乙级联赛",
         "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
         "season": "2026",
@@ -5156,7 +5152,10 @@
           "name": "圣马丁大学",
           "team_id": "ast_4cd02e94351041beb2b76c05890d3eee"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "7-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_072f80ab9c2e49699f057eb9233d88d8",
@@ -5173,60 +5172,6 @@
         "away": {
           "name": "米纳斯",
           "team_id": "ast_b53d225dd14446f2ba66c095113fd7ad"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c31a8ed57d2f4239bb62934daabb2b16",
-        "date": "2026-09-25",
-        "time": "20:15",
-        "status": "20:15",
-        "league": "秘鲁乙级联赛",
-        "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
-        "season": "2026",
-        "home": {
-          "name": "商人队",
-          "team_id": "ast_d60dbe1d2544494c96302b7fdb4bb880"
-        },
-        "away": {
-          "name": "Sport Huancayo 2",
-          "team_id": "ast_d442f434abce459cb8e146a982e460f6"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_80c1729877d24266acf838fcb4563eab",
-        "date": "2026-09-25",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "秘鲁乙级联赛",
-        "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
-        "season": "2026",
-        "home": {
-          "name": "哈恩",
-          "team_id": "ast_3e0b72a22bd0465882711c7304db3b69"
-        },
-        "away": {
-          "name": "利亚夸班巴",
-          "team_id": "ast_adb158113a1f40d18a871c1f200ade9a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5af2ec2d45b5483287a911c222ad64a5",
-        "date": "2026-09-25",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "秘鲁乙级联赛",
-        "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
-        "season": "2026",
-        "home": {
-          "name": "比纳西奥尔",
-          "team_id": "ast_f1873c1bb96d4928b4fbfb3fc3c16551"
-        },
-        "away": {
-          "name": "AD 坎托劳",
-          "team_id": "ast_d1aed3260cf3444290d075102002c76d"
         },
         "venue": ""
       }
@@ -9169,7 +9114,7 @@
     "teams_all_time": 54,
     "standings_rows_current": 4,
     "matches_current_season": 219,
-    "upcoming_matches": 22
+    "upcoming_matches": 19
   },
-  "updated_at": "2026/09/25"
+  "updated_at": "2026/09/26"
 }

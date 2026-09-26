@@ -1415,6 +1415,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_2a937722d9f14352a0f3c5898efcd1df",
+        "date": "2026-10-07",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "巴西高乔三级联赛",
+        "league_id": "asl_45b4887690ae467c8b6a82425d428fcf",
+        "season": "2026",
+        "home": {
+          "name": "EC新地平线",
+          "team_id": "ast_5118d53f1efb497c8dcd9e00cbfbc3e8"
+        },
+        "away": {
+          "name": "皇家SC",
+          "team_id": "ast_5acb9a2270754abf93b344982e044dd7"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_09a13fd7694547ff913818b350660195",
         "date": "2026-10-03",
         "time": "18:00",
@@ -1477,7 +1497,7 @@
       {
         "match_id": "as_dd76844cd99144cfa7ea4eb5268dd29d",
         "date": "2026-10-03",
-        "time": "18:00",
+        "time": "14:00",
         "status": "Not Started",
         "league": "巴西高乔三级联赛",
         "league_id": "asl_45b4887690ae467c8b6a82425d428fcf",
@@ -1517,8 +1537,8 @@
       {
         "match_id": "as_4ab820ed9f834edf93ff0c45d63b8834",
         "date": "2026-09-30",
-        "time": "18:00",
-        "status": "18:00",
+        "time": "22:00",
+        "status": "22:00",
         "league": "巴西高乔三级联赛",
         "league_id": "asl_45b4887690ae467c8b6a82425d428fcf",
         "season": "2026",
@@ -1645,24 +1665,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_2a937722d9f14352a0f3c5898efcd1df",
-        "date": "2026-09-27",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "巴西高乔三级联赛",
-        "league_id": "asl_45b4887690ae467c8b6a82425d428fcf",
-        "season": "2026",
-        "home": {
-          "name": "EC新地平线",
-          "team_id": "ast_5118d53f1efb497c8dcd9e00cbfbc3e8"
-        },
-        "away": {
-          "name": "皇家SC",
-          "team_id": "ast_5acb9a2270754abf93b344982e044dd7"
-        },
-        "venue": ""
-      },
-      {
         "match_id": "as_b18c1d25a9f34891a46d86c36f03c8a3",
         "date": "2026-09-27",
         "time": "23:30",
@@ -1684,7 +1686,7 @@
         "match_id": "as_faa5059dafd749539c15753953e06ce3",
         "date": "2026-09-26",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "巴西高乔三级联赛",
         "league_id": "asl_45b4887690ae467c8b6a82425d428fcf",
         "season": "2026",
@@ -1696,9 +1698,7 @@
           "name": "Cruz A.",
           "team_id": "ast_248259fdc55a49fc9986a1a1125a24bb"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -2673,5 +2673,5 @@
     "matches_current_season": 38,
     "upcoming_matches": 30
   },
-  "updated_at": "2026/09/24"
+  "updated_at": "2026/09/26"
 }

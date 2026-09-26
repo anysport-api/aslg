@@ -138,6 +138,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_2c586e828e9e4b0e84e23c9983669ac5",
+        "team": "Guangxi Hengchen",
+        "played": 24,
+        "wins": 13,
+        "draws": 6,
+        "losses": 5,
+        "goals_for": 40,
+        "goals_against": 26,
+        "goal_difference": 14,
+        "points": 45,
+        "form": "WWWLW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_f888cc13ee234d1685a02176ad54fde9",
         "team": "Shenzhen Juniors",
         "played": 24,
@@ -149,20 +163,6 @@
         "goal_difference": 14,
         "points": 44,
         "form": "DDWWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_2c586e828e9e4b0e84e23c9983669ac5",
-        "team": "Guangxi Hengchen",
-        "played": 23,
-        "wins": 12,
-        "draws": 6,
-        "losses": 5,
-        "goals_for": 39,
-        "goals_against": 26,
-        "goal_difference": 13,
-        "points": 42,
-        "form": "WWLWD"
       },
       {
         "position": 4,
@@ -224,15 +224,15 @@
         "position": 8,
         "team_id": "ast_5cc6d385a94d47e7b42394c5f8cc7a9e",
         "team": "Wuxi Wugou",
-        "played": 22,
+        "played": 23,
         "wins": 8,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 35,
-        "goals_against": 28,
-        "goal_difference": 7,
+        "goals_against": 29,
+        "goal_difference": 6,
         "points": 29,
-        "form": "WLWLL"
+        "form": "LWLWL"
       },
       {
         "position": 9,
@@ -365,6 +365,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_2c586e828e9e4b0e84e23c9983669ac5",
+        "team": "广西恒辰",
+        "played": 24,
+        "wins": 13,
+        "draws": 6,
+        "losses": 5,
+        "goals_for": 40,
+        "goals_against": 26,
+        "goal_difference": 14,
+        "points": 45,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_f888cc13ee234d1685a02176ad54fde9",
         "team": "深圳青年队",
         "played": 24,
@@ -377,21 +392,6 @@
         "points": 44,
         "form": "DDWWW",
         "form_label": "平平胜胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_2c586e828e9e4b0e84e23c9983669ac5",
-        "team": "广西恒辰",
-        "played": 23,
-        "wins": 12,
-        "draws": 6,
-        "losses": 5,
-        "goals_for": 39,
-        "goals_against": 26,
-        "goal_difference": 13,
-        "points": 42,
-        "form": "WWLWD",
-        "form_label": "胜胜负胜平"
       },
       {
         "position": 4,
@@ -457,16 +457,16 @@
         "position": 8,
         "team_id": "ast_5cc6d385a94d47e7b42394c5f8cc7a9e",
         "team": "无锡五沟",
-        "played": 22,
+        "played": 23,
         "wins": 8,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 35,
-        "goals_against": 28,
-        "goal_difference": 7,
+        "goals_against": 29,
+        "goal_difference": 6,
         "points": 29,
-        "form": "WLWLL",
-        "form_label": "胜负胜负负"
+        "form": "LWLWL",
+        "form_label": "负胜负胜负"
       },
       {
         "position": 9,
@@ -1571,7 +1571,7 @@
         "match_id": "as_2bb427bf9ad9451eb6e4adcaab1b87c3",
         "date": "2026-09-29",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
         "season": "2026",
@@ -1583,15 +1583,13 @@
           "name": "宁波职业",
           "team_id": "ast_e26b4d7aec704a169604ef796159f9e6"
         },
-        "ht_score": "-",
-        "venue": "Wuxi Sport Center",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_61b610de3ff143f587beb18e6b78e078",
         "date": "2026-09-27",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
         "season": "2026",
@@ -1603,9 +1601,7 @@
           "name": "大连昆城",
           "team_id": "ast_e2fee020f2794d8face70563c9568be4"
         },
-        "ht_score": "-",
-        "venue": "渭南体育中心体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_90fc411902f44109bb9d3a7d7d70fb49",
@@ -1629,7 +1625,7 @@
         "match_id": "as_c15ceaec03604c0b97b469714a013896",
         "date": "2026-09-25",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
         "season": "2026",
@@ -1641,7 +1637,10 @@
           "name": "广西恒辰",
           "team_id": "ast_2c586e828e9e4b0e84e23c9983669ac5"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_afdd7fa9deb5472f9d7abf3da30f85f4",
@@ -6557,7 +6556,7 @@
         "match_id": "as_2bb427bf9ad9451eb6e4adcaab1b87c3",
         "date": "2026-09-29",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
         "season": "2026",
@@ -6569,15 +6568,13 @@
           "name": "宁波职业",
           "team_id": "ast_e26b4d7aec704a169604ef796159f9e6"
         },
-        "ht_score": "-",
-        "venue": "Wuxi Sport Center",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_61b610de3ff143f587beb18e6b78e078",
         "date": "2026-09-27",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
         "season": "2026",
@@ -6589,9 +6586,7 @@
           "name": "大连昆城",
           "team_id": "ast_e2fee020f2794d8face70563c9568be4"
         },
-        "ht_score": "-",
-        "venue": "渭南体育中心体育场",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -8852,13 +8847,13 @@
     }
   },
   "stats": {
-    "matches_completed": 188,
-    "total_goals": 508,
-    "avg_goals_per_match": 2.7,
+    "matches_completed": 189,
+    "total_goals": 509,
+    "avg_goals_per_match": 2.69,
     "home_wins": 79,
     "draws": 53,
-    "away_wins": 56,
-    "home_win_pct": 42.0,
+    "away_wins": 57,
+    "home_win_pct": 41.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8995,6 +8990,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_2c586e828e9e4b0e84e23c9983669ac5",
+            "team": "Guangxi Hengchen",
+            "played": 24,
+            "wins": 13,
+            "draws": 6,
+            "losses": 5,
+            "goals_for": 40,
+            "goals_against": 26,
+            "goal_difference": 14,
+            "points": 45,
+            "form": "WWWLW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_f888cc13ee234d1685a02176ad54fde9",
             "team": "Shenzhen Juniors",
             "played": 24,
@@ -9006,20 +9015,6 @@
             "goal_difference": 14,
             "points": 44,
             "form": "DDWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_2c586e828e9e4b0e84e23c9983669ac5",
-            "team": "Guangxi Hengchen",
-            "played": 23,
-            "wins": 12,
-            "draws": 6,
-            "losses": 5,
-            "goals_for": 39,
-            "goals_against": 26,
-            "goal_difference": 13,
-            "points": 42,
-            "form": "WWLWD"
           }
         ],
         "meta": {
@@ -9658,5 +9653,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/25"
+  "updated_at": "2026/09/26"
 }

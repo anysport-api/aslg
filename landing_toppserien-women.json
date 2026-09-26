@@ -206,29 +206,29 @@
         "position": 11,
         "team_id": "ast_320cbdec36874ab89f2dbedc749c8305",
         "team": "Roa W",
-        "played": 16,
+        "played": 17,
         "wins": 2,
         "draws": 5,
-        "losses": 9,
-        "goals_for": 15,
-        "goals_against": 34,
-        "goal_difference": -19,
+        "losses": 10,
+        "goals_for": 16,
+        "goals_against": 36,
+        "goal_difference": -20,
         "points": 11,
-        "form": "DLLLD"
+        "form": "LDLLL"
       },
       {
         "position": 12,
         "team_id": "ast_58784c66eb264fefa2105c7b0b8e4494",
         "team": "Bodo/Glimt W",
-        "played": 16,
-        "wins": 0,
+        "played": 17,
+        "wins": 1,
         "draws": 3,
         "losses": 13,
-        "goals_for": 9,
-        "goals_against": 64,
-        "goal_difference": -55,
-        "points": 3,
-        "form": "LLDLL"
+        "goals_for": 11,
+        "goals_against": 65,
+        "goal_difference": -54,
+        "points": 6,
+        "form": "WLLDL"
       }
     ],
     "zh": [
@@ -386,31 +386,31 @@
         "position": 11,
         "team_id": "ast_320cbdec36874ab89f2dbedc749c8305",
         "team": "罗阿",
-        "played": 16,
+        "played": 17,
         "wins": 2,
         "draws": 5,
-        "losses": 9,
-        "goals_for": 15,
-        "goals_against": 34,
-        "goal_difference": -19,
+        "losses": 10,
+        "goals_for": 16,
+        "goals_against": 36,
+        "goal_difference": -20,
         "points": 11,
-        "form": "DLLLD",
-        "form_label": "平负负负平"
+        "form": "LDLLL",
+        "form_label": "负平负负负"
       },
       {
         "position": 12,
         "team_id": "ast_58784c66eb264fefa2105c7b0b8e4494",
         "team": "博多/格林特",
-        "played": 16,
-        "wins": 0,
+        "played": 17,
+        "wins": 1,
         "draws": 3,
         "losses": 13,
-        "goals_for": 9,
-        "goals_against": 64,
-        "goal_difference": -55,
-        "points": 3,
-        "form": "LLDLL",
-        "form_label": "负负平负负"
+        "goals_for": 11,
+        "goals_against": 65,
+        "goal_difference": -54,
+        "points": 6,
+        "form": "WLLDL",
+        "form_label": "胜负负平负"
       }
     ]
   },
@@ -1125,7 +1125,7 @@
         "match_id": "as_f9acf63731364102bef5bf4e6857f2bb",
         "date": "2026-09-25",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "挪威女子顶级联赛",
         "league_id": "asl_f291671fc16749498646a9b7f70a6814",
         "season": "2026",
@@ -1137,7 +1137,10 @@
           "name": "罗阿",
           "team_id": "ast_320cbdec36874ab89f2dbedc749c8305"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6be6f093e2ff41c2ba1cf6d3703b626a",
@@ -3846,24 +3849,6 @@
           "team_id": "ast_8f3a46ad574c4d8e93da41957427e236"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_f9acf63731364102bef5bf4e6857f2bb",
-        "date": "2026-09-25",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "挪威女子顶级联赛",
-        "league_id": "asl_f291671fc16749498646a9b7f70a6814",
-        "season": "2026",
-        "home": {
-          "name": "博多/格林特",
-          "team_id": "ast_58784c66eb264fefa2105c7b0b8e4494"
-        },
-        "away": {
-          "name": "罗阿",
-          "team_id": "ast_320cbdec36874ab89f2dbedc749c8305"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4606,13 +4591,13 @@
     }
   },
   "stats": {
-    "matches_completed": 96,
-    "total_goals": 328,
-    "avg_goals_per_match": 3.42,
-    "home_wins": 39,
+    "matches_completed": 97,
+    "total_goals": 331,
+    "avg_goals_per_match": 3.41,
+    "home_wins": 40,
     "draws": 17,
     "away_wins": 40,
-    "home_win_pct": 40.6,
+    "home_win_pct": 41.2,
     "biggest_win": {
       "margin": 9,
       "match": {
@@ -5410,7 +5395,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/09/25"
+  "updated_at": "2026/09/26"
 }

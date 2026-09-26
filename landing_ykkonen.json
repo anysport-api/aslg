@@ -222,15 +222,15 @@
         "position": 1,
         "team_id": "ast_a2fca06be85945338833881f35bb220d",
         "team": "Tampere Utd",
-        "played": 24,
-        "wins": 14,
+        "played": 25,
+        "wins": 15,
         "draws": 5,
         "losses": 5,
-        "goals_for": 54,
+        "goals_for": 58,
         "goals_against": 26,
-        "goal_difference": 28,
-        "points": 47,
-        "form": "LWLWD"
+        "goal_difference": 32,
+        "points": 50,
+        "form": "WLWLW"
       },
       {
         "position": 2,
@@ -292,15 +292,15 @@
         "position": 6,
         "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83",
         "team": "JJK Jyvaskyla",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 7,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 55,
-        "goals_against": 49,
-        "goal_difference": 6,
+        "goals_against": 53,
+        "goal_difference": 2,
         "points": 31,
-        "form": "LLWDD"
+        "form": "LLLWD"
       },
       {
         "position": 7,
@@ -392,16 +392,16 @@
         "position": 1,
         "team_id": "ast_a2fca06be85945338833881f35bb220d",
         "team": "坦佩雷联",
-        "played": 24,
-        "wins": 14,
+        "played": 25,
+        "wins": 15,
         "draws": 5,
         "losses": 5,
-        "goals_for": 54,
+        "goals_for": 58,
         "goals_against": 26,
-        "goal_difference": 28,
-        "points": 47,
-        "form": "LWLWD",
-        "form_label": "负胜负胜平"
+        "goal_difference": 32,
+        "points": 50,
+        "form": "WLWLW",
+        "form_label": "胜负胜负胜"
       },
       {
         "position": 2,
@@ -467,16 +467,16 @@
         "position": 6,
         "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83",
         "team": "JJK",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 7,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 55,
-        "goals_against": 49,
-        "goal_difference": 6,
+        "goals_against": 53,
+        "goal_difference": 2,
         "points": 31,
-        "form": "LLWDD",
-        "form_label": "负负胜平平"
+        "form": "LLLWD",
+        "form_label": "负负负胜平"
       },
       {
         "position": 7,
@@ -923,7 +923,7 @@
         "match_id": "as_d7199a29587647a494bd4e9121c4c3cb",
         "date": "2026-09-25",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "芬兰Ykkonen联赛",
         "league_id": "asl_8955600dc80748a4843a445302da1fff",
         "season": "2026",
@@ -935,7 +935,10 @@
           "name": "JJK",
           "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8ad45431aaa3490d836e0b7d06694d47",
@@ -4294,24 +4297,6 @@
           "team_id": "ast_a8154825a776447bbfdf2e55f59572d5"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_d7199a29587647a494bd4e9121c4c3cb",
-        "date": "2026-09-25",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "芬兰Ykkonen联赛",
-        "league_id": "asl_8955600dc80748a4843a445302da1fff",
-        "season": "2026",
-        "home": {
-          "name": "坦佩雷联",
-          "team_id": "ast_a2fca06be85945338833881f35bb220d"
-        },
-        "away": {
-          "name": "JJK",
-          "team_id": "ast_d61578c1fa2b49f194a05e8f695a9a83"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7608,13 +7593,13 @@
     }
   },
   "stats": {
-    "matches_completed": 144,
-    "total_goals": 516,
-    "avg_goals_per_match": 3.58,
-    "home_wins": 60,
+    "matches_completed": 145,
+    "total_goals": 520,
+    "avg_goals_per_match": 3.59,
+    "home_wins": 61,
     "draws": 39,
     "away_wins": 45,
-    "home_win_pct": 41.7,
+    "home_win_pct": 42.1,
     "biggest_win": {
       "margin": 10,
       "match": {
@@ -7641,8 +7626,8 @@
     },
     "leader": {
       "team": "Tampere Utd",
-      "points": 47,
-      "played": 24
+      "points": 50,
+      "played": 25
     }
   },
   "coverage": {
@@ -7739,15 +7724,15 @@
             "position": 1,
             "team_id": "ast_a2fca06be85945338833881f35bb220d",
             "team": "Tampere Utd",
-            "played": 24,
-            "wins": 14,
+            "played": 25,
+            "wins": 15,
             "draws": 5,
             "losses": 5,
-            "goals_for": 54,
+            "goals_for": 58,
             "goals_against": 26,
-            "goal_difference": 28,
-            "points": 47,
-            "form": "LWLWD"
+            "goal_difference": 32,
+            "points": 50,
+            "form": "WLWLW"
           },
           {
             "position": 2,
@@ -8412,7 +8397,7 @@
     "teams_all_time": 51,
     "standings_rows_current": 12,
     "matches_current_season": 162,
-    "upcoming_matches": 18
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/09/25"
+  "updated_at": "2026/09/26"
 }

@@ -1134,26 +1134,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_df4bb324cb224d8a8590259ef61752f8",
-        "date": "2026-10-11",
-        "time": "11:00",
-        "status": "Not Started",
-        "league": "拉脱维亚甲级联赛",
-        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
-        "season": "2026",
-        "home": {
-          "name": "瓦尔米耶拉",
-          "team_id": "ast_b00b8cd6c3bf40798707f690d0a19ab3"
-        },
-        "away": {
-          "name": "超级新星2",
-          "team_id": "ast_fed90c3cfbb5447dbe700205b8007b0e"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_30395304e21b4a79818cba607a87dd7f",
         "date": "2026-10-11",
         "time": "13:00",
@@ -1274,10 +1254,30 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_df4bb324cb224d8a8590259ef61752f8",
+        "date": "2026-10-10",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "瓦尔米耶拉",
+          "team_id": "ast_b00b8cd6c3bf40798707f690d0a19ab3"
+        },
+        "away": {
+          "name": "超级新星2",
+          "team_id": "ast_fed90c3cfbb5447dbe700205b8007b0e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_a34c2df45a9649bb8417630761ddefff",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "拉脱维亚甲级联赛",
         "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
         "season": "2026",
@@ -1289,15 +1289,13 @@
           "name": "JFK文茨皮尔斯",
           "team_id": "ast_0c5b2f3f4c0949ef87f21ad48271224a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_26ed69e586c947ed8690433a267d07c0",
         "date": "2026-09-20",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "拉脱维亚甲级联赛",
         "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
         "season": "2026",
@@ -1309,15 +1307,16 @@
           "name": "里加FC 2",
           "team_id": "ast_33e6df4443164760831cb2565cce94aa"
         },
-        "ht_score": "-",
+        "ht_score": "0-0",
+        "reg_score": "0-0",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_1a86246b1d1e4fe79f8b92875ce47ad8",
         "date": "2026-09-20",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "拉脱维亚甲级联赛",
         "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
         "season": "2026",
@@ -1329,9 +1328,10 @@
           "name": "斯坎斯特",
           "team_id": "ast_275f47f7c9f942edb1300f445e830a70"
         },
-        "ht_score": "-",
+        "ht_score": "0-0",
+        "reg_score": "1-0",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_db1c16c783964d5bbe9260f5126c9446",
@@ -4360,6 +4360,146 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_42f48e6eed714bd983e523fe1ed6a757",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "瓦尔米耶拉",
+          "team_id": "ast_b00b8cd6c3bf40798707f690d0a19ab3"
+        },
+        "away": {
+          "name": "斯坎斯特",
+          "team_id": "ast_275f47f7c9f942edb1300f445e830a70"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_72e403283a9b4ccd8a0b4797b0ed69fa",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "超级新星2",
+          "team_id": "ast_fed90c3cfbb5447dbe700205b8007b0e"
+        },
+        "away": {
+          "name": "里加FC 2",
+          "team_id": "ast_33e6df4443164760831cb2565cce94aa"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c57bf95ffe3b484bbc8f3bd5675e6fae",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "里加海员",
+          "team_id": "ast_789f38b72d5541e58f0d186db9de25fc"
+        },
+        "away": {
+          "name": "李文PPK",
+          "team_id": "ast_142c0180b36c4c89834b8334a022305c"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e34b901c2170434f9591117eb663c157",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "RFS 2",
+          "team_id": "ast_444be0e1908949ae845d8b4c53e16d96"
+        },
+        "away": {
+          "name": "图库姆斯2000 2",
+          "team_id": "ast_20e8f8347f9a486cac6812361aa5aadc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_36ad77b5da014199a6fdae615a4383a0",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "雷泽克内",
+          "team_id": "ast_83856f8f98444e0daefbb3922e73d642"
+        },
+        "away": {
+          "name": "斯米尔滕足球俱乐部",
+          "team_id": "ast_b4ead1b6b6c44a03b64ab96e468685f1"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_771c5330621a44b692423f47d053e8bf",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "梅塔",
+          "team_id": "ast_ee0e8f12718647ae8a8266624280445b"
+        },
+        "away": {
+          "name": "马鲁佩",
+          "team_id": "ast_331f17f01fd9420c9372d07a88afbe7f"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9e61ef7279af4f77986cec6de5e04d52",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚甲级联赛",
+        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
+        "season": "2026",
+        "home": {
+          "name": "阿尔伯茨JDFS",
+          "team_id": "ast_aba9d5c39242474f99cb1b8bd02c05d0"
+        },
+        "away": {
+          "name": "JFK文茨皮尔斯",
+          "team_id": "ast_0c5b2f3f4c0949ef87f21ad48271224a"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_89ce51b63a7b43788ea20c471592d22e",
         "date": "2026-10-31",
         "time": "13:00",
@@ -4821,7 +4961,7 @@
       },
       {
         "match_id": "as_df4bb324cb224d8a8590259ef61752f8",
-        "date": "2026-10-11",
+        "date": "2026-10-10",
         "time": "11:00",
         "status": "Not Started",
         "league": "拉脱维亚甲级联赛",
@@ -4923,7 +5063,7 @@
         "match_id": "as_a34c2df45a9649bb8417630761ddefff",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "拉脱维亚甲级联赛",
         "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
         "season": "2026",
@@ -4935,9 +5075,7 @@
           "name": "JFK文茨皮尔斯",
           "team_id": "ast_0c5b2f3f4c0949ef87f21ad48271224a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -6660,13 +6798,13 @@
     }
   },
   "stats": {
-    "matches_completed": 144,
-    "total_goals": 544,
-    "avg_goals_per_match": 3.78,
-    "home_wins": 64,
-    "draws": 26,
+    "matches_completed": 146,
+    "total_goals": 545,
+    "avg_goals_per_match": 3.73,
+    "home_wins": 65,
+    "draws": 27,
     "away_wins": 54,
-    "home_win_pct": 44.4,
+    "home_win_pct": 44.5,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -7464,7 +7602,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 29
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/09/22"
+  "updated_at": "2026/09/26"
 }

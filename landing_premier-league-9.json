@@ -316,29 +316,29 @@
         "position": 6,
         "team_id": "ast_b69d0e520db64f8db01ed512f67dec73",
         "team": "Shelbourne",
-        "played": 31,
+        "played": 32,
         "wins": 9,
-        "draws": 12,
+        "draws": 13,
         "losses": 10,
-        "goals_for": 41,
-        "goals_against": 44,
+        "goals_for": 42,
+        "goals_against": 45,
         "goal_difference": -3,
-        "points": 39,
-        "form": "WLLDD"
+        "points": 40,
+        "form": "DWLLD"
       },
       {
         "position": 7,
         "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
         "team": "Galway",
-        "played": 31,
+        "played": 32,
         "wins": 9,
-        "draws": 10,
+        "draws": 11,
         "losses": 12,
-        "goals_for": 41,
-        "goals_against": 47,
+        "goals_for": 42,
+        "goals_against": 48,
         "goal_difference": -6,
-        "points": 37,
-        "form": "LWLDW"
+        "points": 38,
+        "form": "DLWLD"
       },
       {
         "position": 8,
@@ -463,31 +463,31 @@
         "position": 6,
         "team_id": "ast_b69d0e520db64f8db01ed512f67dec73",
         "team": "谢尔伯恩",
-        "played": 31,
+        "played": 32,
         "wins": 9,
-        "draws": 12,
+        "draws": 13,
         "losses": 10,
-        "goals_for": 41,
-        "goals_against": 44,
+        "goals_for": 42,
+        "goals_against": 45,
         "goal_difference": -3,
-        "points": 39,
-        "form": "WLLDD",
-        "form_label": "胜负负平平"
+        "points": 40,
+        "form": "DWLLD",
+        "form_label": "平胜负负平"
       },
       {
         "position": 7,
         "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
         "team": "高威",
-        "played": 31,
+        "played": 32,
         "wins": 9,
-        "draws": 10,
+        "draws": 11,
         "losses": 12,
-        "goals_for": 41,
-        "goals_against": 47,
+        "goals_for": 42,
+        "goals_against": 48,
         "goal_difference": -6,
-        "points": 37,
-        "form": "LWLDW",
-        "form_label": "负胜负平胜"
+        "points": 38,
+        "form": "DLWLD",
+        "form_label": "平负胜负平"
       },
       {
         "position": 8,
@@ -3347,7 +3347,7 @@
         "match_id": "as_5e4aaaf5b42c402786924b19eb044623",
         "date": "2026-10-02",
         "time": "18:45",
-        "status": "Not Started",
+        "status": "18:45",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -3359,15 +3359,13 @@
           "name": "博希米亚人",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8"
         },
-        "ht_score": "-",
-        "venue": "奥里尔公园",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_df1459e3ed2d424b8ef75092097cfcb2",
         "date": "2026-09-25",
         "time": "18:45",
-        "status": "18:45",
+        "status": "FT",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -3379,7 +3377,10 @@
           "name": "谢尔伯恩",
           "team_id": "ast_b69d0e520db64f8db01ed512f67dec73"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e4e4649913fd4c9c852c6f051a48957b",
@@ -7105,7 +7106,7 @@
         "match_id": "as_5e4aaaf5b42c402786924b19eb044623",
         "date": "2026-10-02",
         "time": "18:45",
-        "status": "Not Started",
+        "status": "18:45",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -7116,26 +7117,6 @@
         "away": {
           "name": "博希米亚人",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8"
-        },
-        "ht_score": "-",
-        "venue": "奥里尔公园",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_df1459e3ed2d424b8ef75092097cfcb2",
-        "date": "2026-09-25",
-        "time": "18:45",
-        "status": "18:45",
-        "league": "爱尔兰超级联赛",
-        "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
-        "season": "2026",
-        "home": {
-          "name": "高威",
-          "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1"
-        },
-        "away": {
-          "name": "谢尔伯恩",
-          "team_id": "ast_b69d0e520db64f8db01ed512f67dec73"
         },
         "venue": ""
       }
@@ -11032,13 +11013,13 @@
     }
   },
   "stats": {
-    "matches_completed": 158,
-    "total_goals": 438,
+    "matches_completed": 159,
+    "total_goals": 440,
     "avg_goals_per_match": 2.77,
     "home_wins": 60,
-    "draws": 51,
+    "draws": 52,
     "away_wins": 47,
-    "home_win_pct": 38.0,
+    "home_win_pct": 37.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11843,7 +11824,7 @@
     "teams_all_time": 20,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/09/25"
+  "updated_at": "2026/09/26"
 }

@@ -596,20 +596,6 @@
       },
       {
         "position": 5,
-        "team_id": "ast_af8130b05086417da11d64a71ce1c9f8",
-        "team": "Sandhausen U19",
-        "played": 14,
-        "wins": 5,
-        "draws": 1,
-        "losses": 8,
-        "goals_for": 23,
-        "goals_against": 27,
-        "goal_difference": -4,
-        "points": 16,
-        "form": "LWWLW"
-      },
-      {
-        "position": 5,
         "team_id": "ast_b33be4f43c3245a791420e67233b41f1",
         "team": "Reutlingen U19",
         "played": 12,
@@ -747,6 +733,20 @@
         "goal_difference": 3,
         "points": 19,
         "form": "LWLDW"
+      },
+      {
+        "position": 5,
+        "team_id": "ast_af8130b05086417da11d64a71ce1c9f8",
+        "team": "Sandhausen U19",
+        "played": 14,
+        "wins": 5,
+        "draws": 1,
+        "losses": 8,
+        "goals_for": 23,
+        "goals_against": 27,
+        "goal_difference": -4,
+        "points": 16,
+        "form": "LWWLW"
       },
       {
         "position": 6,
@@ -1683,21 +1683,6 @@
       },
       {
         "position": 5,
-        "team_id": "ast_af8130b05086417da11d64a71ce1c9f8",
-        "team": "桑德豪森U19",
-        "played": 14,
-        "wins": 5,
-        "draws": 1,
-        "losses": 8,
-        "goals_for": 23,
-        "goals_against": 27,
-        "goal_difference": -4,
-        "points": 16,
-        "form": "LWWLW",
-        "form_label": "负胜胜负胜"
-      },
-      {
-        "position": 5,
         "team_id": "ast_b33be4f43c3245a791420e67233b41f1",
         "team": "罗伊特林根U19",
         "played": 12,
@@ -1845,6 +1830,21 @@
         "points": 19,
         "form": "LWLDW",
         "form_label": "负胜负平胜"
+      },
+      {
+        "position": 5,
+        "team_id": "ast_af8130b05086417da11d64a71ce1c9f8",
+        "team": "桑德豪森U19",
+        "played": 14,
+        "wins": 5,
+        "draws": 1,
+        "losses": 8,
+        "goals_for": 23,
+        "goals_against": 27,
+        "goal_difference": -4,
+        "points": 16,
+        "form": "LWWLW",
+        "form_label": "负胜胜负胜"
       },
       {
         "position": 6,
@@ -21305,6 +21305,586 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_e6fce6482eb64c5eb114fae37987e318",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "沃尔夫斯堡U19",
+          "team_id": "ast_1827017c94834d84b26055fa5797c281"
+        },
+        "away": {
+          "name": "汉诺威U19",
+          "team_id": "ast_dffcbdd48ccb43cfb41e1b0ad013f38e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e04a4802286444faaeae22b5f8947b78",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "不来梅U19",
+          "team_id": "ast_ce154f1f2ae34f77b92bfdabbf9d0a9a"
+        },
+        "away": {
+          "name": "马格德堡U19",
+          "team_id": "ast_f7861403bbcf47a4b1d0465bb07382aa"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0c209e4f14b740828ebc0e8d6a6a3905",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "维亨U19",
+          "team_id": "ast_90e7f8f027be4d788dcf1fa33a57ab6c"
+        },
+        "away": {
+          "name": "美因茨U19",
+          "team_id": "ast_be7095c8dff54029b3e12e4c8cd300ec"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_67826e2a4b914b49a87ba52bc9a9da57",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "TSV 哈维尔塞 U19",
+          "team_id": "ast_c7afbe2d159c4788828356189f67fadf"
+        },
+        "away": {
+          "name": "梅彭U19",
+          "team_id": "ast_ce589a54f8894cbe9982d3796404ba55"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c83e77ea33dd447882191e6ae049f5dc",
+        "date": "2026-11-07",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "斯图加特U19",
+          "team_id": "ast_5e8b5003e43e42ceb4d2655b3d490c83"
+        },
+        "away": {
+          "name": "乌特哈兴U19",
+          "team_id": "ast_84de1685216441678e48531482e57387"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_122bd997ad1e42a5a93cd75dad3e2301",
+        "date": "2026-11-07",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "圣保利U19",
+          "team_id": "ast_c4df8b26b49a4029b1920e28450125b8"
+        },
+        "away": {
+          "name": "柏林AK 07 U19",
+          "team_id": "ast_db61d4e5407b41418d294ddcafd136d5"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cf26e71522ca46bc8a2807891c3f4838",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "萨尔布吕肯U19",
+          "team_id": "ast_37c0cb03237c4159b34c719998b2d152"
+        },
+        "away": {
+          "name": "勒沃库森U19",
+          "team_id": "ast_df15aa041525419e8b1a7cdc47ef8377"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_721b3d0a772343c2970f9e4f8fed7524",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "雷根斯堡U19",
+          "team_id": "ast_8f0d0c10799d4e78a3efd27f981dbd2f"
+        },
+        "away": {
+          "name": "弗赖贝格U19",
+          "team_id": "ast_74e870559d4b4054b1912b9902523199"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7eb29c0de40d47bd8b18507c81013d0c",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "奥伯豪森U19",
+          "team_id": "ast_fe9c82f5d8474f93ac9d9944cb89de55"
+        },
+        "away": {
+          "name": "杜塞尔多夫U19",
+          "team_id": "ast_d7496e01c21e4d2ca3aeffac106bc86c"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_745aed00c55e4ff6918aa83318157785",
+        "date": "2026-11-07",
+        "time": "09:30",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "卡尔斯鲁厄U19",
+          "team_id": "ast_871e48a9d68d43218bdbd06a703e18a8"
+        },
+        "away": {
+          "name": "霍芬海姆U19",
+          "team_id": "ast_fa2e2fa2f448420984e6ccf3c9459187"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7f9dcd81961d474089ab608f15ec180a",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "耶拿U19",
+          "team_id": "ast_bacece9634de4677826fa9e0a4884482"
+        },
+        "away": {
+          "name": "科特布斯U19",
+          "team_id": "ast_a51a80c2917e4e18ad9b1c346edec25a"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d9c900cb4bb442f3bfedc5f18fa35012",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "因戈尔施塔特U19",
+          "team_id": "ast_ea0ea21784734e3b938bc39d9857a46c"
+        },
+        "away": {
+          "name": "拜仁U19",
+          "team_id": "ast_544f521a5fcb4032b1b7a14a6ac5c93b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_55af880a330a444fa575b2dd72de1aa0",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "霍尔斯坦基尔U19",
+          "team_id": "ast_d1db962c03174f74b966b64d9ddd8e4b"
+        },
+        "away": {
+          "name": "汉莎罗斯托克U19",
+          "team_id": "ast_19287017437144f9b3bfee443883fc1c"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8961b8178dca4e66b5c28616377ab62f",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "柏林赫塔U19",
+          "team_id": "ast_dbfb3cb3f8964179ae39dff142185dcb"
+        },
+        "away": {
+          "name": "凯门尼茨U19",
+          "team_id": "ast_690b00ea14654079ae2b42a7f82aa512"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0df2880b32ba4fc792bb8ea674eb243e",
+        "date": "2026-11-07",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "海登海姆U19",
+          "team_id": "ast_473186ace17940c4850d4ab5489c45d1"
+        },
+        "away": {
+          "name": "桑德豪森U19",
+          "team_id": "ast_af8130b05086417da11d64a71ce1c9f8"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d726fa46a6854feebbaaa23f26debd1d",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "哈雷舍U19",
+          "team_id": "ast_d9f8ae5e779c4189a580936dfdac1fc0"
+        },
+        "away": {
+          "name": "柏林联合U19",
+          "team_id": "ast_145eb717908d4d06a8917b1fcba043e3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_a7e2cca3924d4e9b947196fe667d5e97",
+        "date": "2026-11-07",
+        "time": "12:30",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "富尔特U19",
+          "team_id": "ast_e123e278a5374495bbcef7fc9a398e77"
+        },
+        "away": {
+          "name": "法兰克福U19",
+          "team_id": "ast_12ac61cc271e4531aa39131e9655676d"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_43da50d64c7644aa87f3fa637f5c16e3",
+        "date": "2026-11-07",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "法兰克福U19",
+          "team_id": "ast_5f327b77d1164c1d85c39346f60822d4"
+        },
+        "away": {
+          "name": "科隆U19",
+          "team_id": "ast_200be3bb2e004453893643a900dcd1b8"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_451164ff03e5460695081f7f9f670456",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "弗赖堡U19",
+          "team_id": "ast_9275334e6dd94268b9e2f508e17a7301"
+        },
+        "away": {
+          "name": "乌尔姆U19",
+          "team_id": "ast_d4709892498749278a64a178930ee9e8"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f3f3b366cb0b4f2ca0a54421820cee38",
+        "date": "2026-11-07",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "福图纳科隆U19",
+          "team_id": "ast_28cc468973ce49da855c3d80aa597ce9"
+        },
+        "away": {
+          "name": "凯泽斯劳滕U19",
+          "team_id": "ast_f9056ee5577f4bb9aea49f6a299b52ba"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_076b9d1c19ff4fe58be394838a43831d",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "埃尔费斯贝格U19",
+          "team_id": "ast_6b8d48daa6f6475b9b63c579d07d723f"
+        },
+        "away": {
+          "name": "波鸿U19",
+          "team_id": "ast_d6cbf87f2f744d5f9b4e6630212bd621"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_147500c3f1944fadaa2776b0adc30472",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "杜伊斯堡U19",
+          "team_id": "ast_8ded7c01c2b5467ea3f3f0cec0d652f3"
+        },
+        "away": {
+          "name": "RW 埃森 U19",
+          "team_id": "ast_43106669f2654838886b9312da518da3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1e9f995694334c92984373be3771d0d9",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "德累斯顿U19",
+          "team_id": "ast_444874e547b44d8293cba6915502a9b1"
+        },
+        "away": {
+          "name": "纽伦堡U19",
+          "team_id": "ast_78ff7fee80b44621b2fadb0b35ae3229"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2a5765c40d08432c872798f37e6f12e3",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "多特蒙德U19",
+          "team_id": "ast_22692cebdb30434c9a148353fe26a44d"
+        },
+        "away": {
+          "name": "奥斯纳布吕克U19",
+          "team_id": "ast_3b4f199f9e98434aa0238110f571cefb"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3bfa64d866744af9963782d3ee0562c7",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "布伦瑞克U19",
+          "team_id": "ast_1d1c9777d6cc47728421814142d7180e"
+        },
+        "away": {
+          "name": "巴贝尔斯贝格U19",
+          "team_id": "ast_5355a59168134b79ac10d2bd9915e1c4"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_a5c58f6dbfb14931983ded59d8a1b6be",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "B. 门兴格拉德巴赫U19",
+          "team_id": "ast_d17644d636ae4e5b9b0b49eadc05a274"
+        },
+        "away": {
+          "name": "亚琛阿莱曼尼亚U19",
+          "team_id": "ast_d14e72d57965427aac64dc74042e5c85"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3b439f35e12f40d485358a5fbdc2c989",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "奥格斯堡U19",
+          "team_id": "ast_c78237d0b21f4845bf206138a7a43a34"
+        },
+        "away": {
+          "name": "斯图加特踢球者U19",
+          "team_id": "ast_9e4c84e129c2431a911261b83121d038"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9daa64cf85cb4171993f4a08ae3dfc2e",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "奥伊U19",
+          "team_id": "ast_f67842c7d9194bd8a4ee102820885afa"
+        },
+        "away": {
+          "name": "RB 莱比锡U19",
+          "team_id": "ast_f427a1a6b59045aa9dfc4e7286902eda"
+        },
+        "ht_score": "-",
+        "venue": "Erzgebirgsstadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_af4aa9ce93574463a12a8542744bddb4",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "德国U19 Bundesliga",
+        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿敏尼亚比勒费尔德U19",
+          "team_id": "ast_add3ec516dbc42c898a8208ce6a5c261"
+        },
+        "away": {
+          "name": "普鲁森明斯特U19",
+          "team_id": "ast_96a273403bdd4a11a52b89db41d71d48"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_5b730d772e7e40aa8b0d5e4694cea80d",
         "date": "2026-11-01",
         "time": "12:00",
@@ -21399,26 +21979,6 @@
         "away": {
           "name": "雷根斯堡U19",
           "team_id": "ast_8f0d0c10799d4e78a3efd27f981dbd2f"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f6e3e709c7d14611bb9a38df11e8444c",
-        "date": "2026-10-31",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "柏林联合U19",
-          "team_id": "ast_145eb717908d4d06a8917b1fcba043e3"
-        },
-        "away": {
-          "name": "巴贝尔斯贝格U19",
-          "team_id": "ast_5355a59168134b79ac10d2bd9915e1c4"
         },
         "ht_score": "-",
         "venue": "",
@@ -21739,566 +22299,6 @@
         "away": {
           "name": "卡尔斯鲁厄U19",
           "team_id": "ast_871e48a9d68d43218bdbd06a703e18a8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_54ed30c206164b7bb521be796f3181fe",
-        "date": "2026-10-31",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "弗赖贝格U19",
-          "team_id": "ast_74e870559d4b4054b1912b9902523199"
-        },
-        "away": {
-          "name": "慕尼黑1860青年队",
-          "team_id": "ast_e7eba10d0c42427394d99bfd34f856ca"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_109179e7bcb24cd2a8a2b9ec7382a7bb",
-        "date": "2026-10-31",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "多特蒙德U19",
-          "team_id": "ast_22692cebdb30434c9a148353fe26a44d"
-        },
-        "away": {
-          "name": "杜伊斯堡U19",
-          "team_id": "ast_8ded7c01c2b5467ea3f3f0cec0d652f3"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_10c09b68cd5843489ea55e465d5d579d",
-        "date": "2026-10-31",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "达姆施塔特U19",
-          "team_id": "ast_06903e872805468aa4ca7172204bfcda"
-        },
-        "away": {
-          "name": "法兰克福U19",
-          "team_id": "ast_5f327b77d1164c1d85c39346f60822d4"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ee2002cd9bed4232ad3edc5f23f48e6b",
-        "date": "2026-10-31",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "科特布斯U19",
-          "team_id": "ast_a51a80c2917e4e18ad9b1c346edec25a"
-        },
-        "away": {
-          "name": "哈雷舍U19",
-          "team_id": "ast_d9f8ae5e779c4189a580936dfdac1fc0"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4b6fe89fbcb743d5ba0b63c49ec870a7",
-        "date": "2026-10-31",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "凯门尼茨U19",
-          "team_id": "ast_690b00ea14654079ae2b42a7f82aa512"
-        },
-        "away": {
-          "name": "布伦瑞克U19",
-          "team_id": "ast_1d1c9777d6cc47728421814142d7180e"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_0f7012d1f0844343aa2247d8e2fa6842",
-        "date": "2026-10-31",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "亚琛阿莱曼尼亚U19",
-          "team_id": "ast_d14e72d57965427aac64dc74042e5c85"
-        },
-        "away": {
-          "name": "埃尔费斯贝格U19",
-          "team_id": "ast_6b8d48daa6f6475b9b63c579d07d723f"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_0e906c536f7d4503903ec98d7ecc3626",
-        "date": "2026-10-25",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "不来梅U19",
-          "team_id": "ast_ce154f1f2ae34f77b92bfdabbf9d0a9a"
-        },
-        "away": {
-          "name": "汉堡SV U19",
-          "team_id": "ast_018a272868504605ba839ecbfc68f22b"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4a52c5f4e4994f8188f95df671687351",
-        "date": "2026-10-25",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "维亨U19",
-          "team_id": "ast_90e7f8f027be4d788dcf1fa33a57ab6c"
-        },
-        "away": {
-          "name": "科隆U19",
-          "team_id": "ast_200be3bb2e004453893643a900dcd1b8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_a878b186ddbe421d949b2bce43bcf0d3",
-        "date": "2026-10-25",
-        "time": "11:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "柏林联合U19",
-          "team_id": "ast_145eb717908d4d06a8917b1fcba043e3"
-        },
-        "away": {
-          "name": "科特布斯U19",
-          "team_id": "ast_a51a80c2917e4e18ad9b1c346edec25a"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b2d273218f4c446db6461ca0354bcee0",
-        "date": "2026-10-25",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "沙尔克U19",
-          "team_id": "ast_f97a49b0648b40fbb26b13ca75fa7165"
-        },
-        "away": {
-          "name": "多特蒙德U19",
-          "team_id": "ast_22692cebdb30434c9a148353fe26a44d"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_71ac1d7773544fb480bf1ffb8be05a36",
-        "date": "2026-10-25",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥伯豪森U19",
-          "team_id": "ast_fe9c82f5d8474f93ac9d9944cb89de55"
-        },
-        "away": {
-          "name": "RW 埃森 U19",
-          "team_id": "ast_43106669f2654838886b9312da518da3"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_dc06470b98554d7393eb3997d070145f",
-        "date": "2026-10-25",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "美因茨U19",
-          "team_id": "ast_be7095c8dff54029b3e12e4c8cd300ec"
-        },
-        "away": {
-          "name": "凯泽斯劳滕U19",
-          "team_id": "ast_f9056ee5577f4bb9aea49f6a299b52ba"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b338137d5a5245a3926319cb40d8b8b8",
-        "date": "2026-10-25",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "哈雷舍U19",
-          "team_id": "ast_d9f8ae5e779c4189a580936dfdac1fc0"
-        },
-        "away": {
-          "name": "柏林赫塔U19",
-          "team_id": "ast_dbfb3cb3f8964179ae39dff142185dcb"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_bf26ae0332dd45f7b979e0088565807d",
-        "date": "2026-10-25",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "富尔特U19",
-          "team_id": "ast_e123e278a5374495bbcef7fc9a398e77"
-        },
-        "away": {
-          "name": "奥伊U19",
-          "team_id": "ast_f67842c7d9194bd8a4ee102820885afa"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2de0987ead8f45f7a2de54a85e10557d",
-        "date": "2026-10-25",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "福图纳科隆U19",
-          "team_id": "ast_28cc468973ce49da855c3d80aa597ce9"
-        },
-        "away": {
-          "name": "达姆施塔特U19",
-          "team_id": "ast_06903e872805468aa4ca7172204bfcda"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_82646d2676cc4d15af1a5478764bd552",
-        "date": "2026-10-25",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "杜塞尔多夫U19",
-          "team_id": "ast_d7496e01c21e4d2ca3aeffac106bc86c"
-        },
-        "away": {
-          "name": "奥斯纳布吕克U19",
-          "team_id": "ast_3b4f199f9e98434aa0238110f571cefb"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c961d26b96bc4bf4ac7ced9e13a71b11",
-        "date": "2026-10-25",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "布伦瑞克U19",
-          "team_id": "ast_1d1c9777d6cc47728421814142d7180e"
-        },
-        "away": {
-          "name": "耶拿U19",
-          "team_id": "ast_bacece9634de4677826fa9e0a4884482"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2a7e29c15b2f4924b9165e5b67abcc02",
-        "date": "2026-10-25",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "B. 门兴格拉德巴赫U19",
-          "team_id": "ast_d17644d636ae4e5b9b0b49eadc05a274"
-        },
-        "away": {
-          "name": "维克托利亚·科隆U19",
-          "team_id": "ast_bbda3a35f9c8435dbd201a8597c6be8e"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fe5398072f80418b8526a695fe3f356a",
-        "date": "2026-10-25",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "拜仁U19",
-          "team_id": "ast_544f521a5fcb4032b1b7a14a6ac5c93b"
-        },
-        "away": {
-          "name": "弗赖贝格U19",
-          "team_id": "ast_74e870559d4b4054b1912b9902523199"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fc55bd59418240129bbc00ab59340d06",
-        "date": "2026-10-25",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥格斯堡U19",
-          "team_id": "ast_c78237d0b21f4845bf206138a7a43a34"
-        },
-        "away": {
-          "name": "卡尔斯鲁厄U19",
-          "team_id": "ast_871e48a9d68d43218bdbd06a703e18a8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_9fe881acc4ff4bd280c0fa22956057fc",
-        "date": "2026-10-25",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "亚琛阿莱曼尼亚U19",
-          "team_id": "ast_d14e72d57965427aac64dc74042e5c85"
-        },
-        "away": {
-          "name": "波鸿U19",
-          "team_id": "ast_d6cbf87f2f744d5f9b4e6630212bd621"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_eeed32fcdd254bfd9f8361881dc757a2",
-        "date": "2026-10-24",
-        "time": "11:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "桑德豪森U19",
-          "team_id": "ast_af8130b05086417da11d64a71ce1c9f8"
-        },
-        "away": {
-          "name": "弗赖堡U19",
-          "team_id": "ast_9275334e6dd94268b9e2f508e17a7301"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_05ac601f4b704ea38c290374cb6b20e5",
-        "date": "2026-10-24",
-        "time": "09:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "帕德博恩U19",
-          "team_id": "ast_fd84405b81294b128982e26678900371"
-        },
-        "away": {
-          "name": "沃尔夫斯堡U19",
-          "team_id": "ast_1827017c94834d84b26055fa5797c281"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_95d07a3181124b81948985c08a487f1a",
-        "date": "2026-10-24",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "慕尼黑1860青年队",
-          "team_id": "ast_e7eba10d0c42427394d99bfd34f856ca"
-        },
-        "away": {
-          "name": "乌特哈兴U19",
-          "team_id": "ast_84de1685216441678e48531482e57387"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_97e53db2209c459cbf13c43b679b1133",
-        "date": "2026-10-24",
-        "time": "09:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "因戈尔施塔特U19",
-          "team_id": "ast_ea0ea21784734e3b938bc39d9857a46c"
-        },
-        "away": {
-          "name": "斯图加特U19",
-          "team_id": "ast_5e8b5003e43e42ceb4d2655b3d490c83"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_15407b05f9594cfb8f16f78279b643a6",
-        "date": "2026-10-24",
-        "time": "11:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "霍芬海姆U19",
-          "team_id": "ast_fa2e2fa2f448420984e6ccf3c9459187"
-        },
-        "away": {
-          "name": "斯图加特踢球者U19",
-          "team_id": "ast_9e4c84e129c2431a911261b83121d038"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2d81e5c9b67d4357984997236db2f934",
-        "date": "2026-10-24",
-        "time": "09:30",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "海登海姆U19",
-          "team_id": "ast_473186ace17940c4850d4ab5489c45d1"
-        },
-        "away": {
-          "name": "乌尔姆U19",
-          "team_id": "ast_d4709892498749278a64a178930ee9e8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_796b2dff926f4217a39cee82078190a8",
-        "date": "2026-10-24",
-        "time": "09:00",
-        "status": "Not Started",
-        "league": "德国U19 Bundesliga",
-        "league_id": "asl_d409551fd34a44e7a21dd8a82e2a241f",
-        "season": "2026/2027",
-        "home": {
-          "name": "埃尔福特U19",
-          "team_id": "ast_bb40678e9a104e8d9256f0feb56c84de"
-        },
-        "away": {
-          "name": "法兰克福U19",
-          "team_id": "ast_12ac61cc271e4531aa39131e9655676d"
         },
         "ht_score": "-",
         "venue": "",
@@ -28672,5 +28672,5 @@
     "matches_current_season": 905,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/21"
+  "updated_at": "2026/09/26"
 }

@@ -312,15 +312,15 @@
         "position": 10,
         "team_id": "ast_66a8a53250194ec894fd2dceb30591f7",
         "team": "Monterrey",
-        "played": 8,
+        "played": 9,
         "wins": 4,
         "draws": 1,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 10,
-        "goal_difference": 4,
+        "losses": 4,
+        "goals_for": 16,
+        "goals_against": 14,
+        "goal_difference": 2,
         "points": 13,
-        "form": "WDLLW"
+        "form": "LWDLL"
       },
       {
         "position": 11,
@@ -352,6 +352,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_69cf9a98fe0e4473a232a49cfd2dc87d",
+        "team": "Atlante",
+        "played": 10,
+        "wins": 2,
+        "draws": 5,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 15,
+        "goal_difference": -3,
+        "points": 11,
+        "form": "WDLDD"
+      },
+      {
+        "position": 14,
         "team_id": "ast_e8fa3c2d6b974de89d5462d5b3e1d701",
         "team": "Atl. San Luis",
         "played": 9,
@@ -363,20 +377,6 @@
         "goal_difference": -5,
         "points": 9,
         "form": "WLLWD"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_69cf9a98fe0e4473a232a49cfd2dc87d",
-        "team": "Atlante",
-        "played": 9,
-        "wins": 1,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 13,
-        "goal_difference": -5,
-        "points": 8,
-        "form": "DLDDL"
       },
       {
         "position": 15,
@@ -575,16 +575,16 @@
         "position": 10,
         "team_id": "ast_66a8a53250194ec894fd2dceb30591f7",
         "team": "蒙特雷",
-        "played": 8,
+        "played": 9,
         "wins": 4,
         "draws": 1,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 10,
-        "goal_difference": 4,
+        "losses": 4,
+        "goals_for": 16,
+        "goals_against": 14,
+        "goal_difference": 2,
         "points": 13,
-        "form": "WDLLW",
-        "form_label": "胜平负负胜"
+        "form": "LWDLL",
+        "form_label": "负胜平负负"
       },
       {
         "position": 11,
@@ -618,6 +618,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_69cf9a98fe0e4473a232a49cfd2dc87d",
+        "team": "阿特兰特",
+        "played": 10,
+        "wins": 2,
+        "draws": 5,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 15,
+        "goal_difference": -3,
+        "points": 11,
+        "form": "WDLDD",
+        "form_label": "胜平负平平"
+      },
+      {
+        "position": 14,
         "team_id": "ast_e8fa3c2d6b974de89d5462d5b3e1d701",
         "team": "圣路易斯竞技",
         "played": 9,
@@ -630,21 +645,6 @@
         "points": 9,
         "form": "WLLWD",
         "form_label": "胜负负胜平"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_69cf9a98fe0e4473a232a49cfd2dc87d",
-        "team": "阿特兰特",
-        "played": 9,
-        "wins": 1,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 13,
-        "goal_difference": -5,
-        "points": 8,
-        "form": "DLDDL",
-        "form_label": "平负平平负"
       },
       {
         "position": 15,
@@ -4435,7 +4435,7 @@
         "match_id": "as_37d5aed019d14bdc989eb87765a844a9",
         "date": "2026-09-28",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4447,15 +4447,13 @@
           "name": "华雷斯",
           "team_id": "ast_eec1e1b73a694aa08666534b092febe2"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1901b0da6f55491797fc0f5cdd093b01",
         "date": "2026-09-28",
         "time": "03:10",
-        "status": "Not Started",
+        "status": "03:10",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4467,15 +4465,13 @@
           "name": "美洲俱乐部",
           "team_id": "ast_5a5e495f2f6945bc93d4018c66aaee32"
         },
-        "ht_score": "-",
-        "venue": "维多利亚体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_98257a1768764ed2b0ef5dec878b9d99",
         "date": "2026-09-27",
         "time": "03:05",
-        "status": "Not Started",
+        "status": "03:05",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4487,15 +4483,13 @@
           "name": "帕丘卡",
           "team_id": "ast_5e9e2fa08ef14df8a2477b7dcb8429fb"
         },
-        "ht_score": "-",
-        "venue": "科罗纳体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_693cf4ed1c17449b893e8e0e290e6690",
         "date": "2026-09-27",
         "time": "03:10",
-        "status": "Not Started",
+        "status": "03:10",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4507,15 +4501,13 @@
           "name": "普埃布拉",
           "team_id": "ast_504ee0b8d5cf449eb58bf7de852c75a3"
         },
-        "ht_score": "-",
-        "venue": "大学城体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c0d927d01d0b4fd0b0bf65f48898a9f4",
         "date": "2026-09-27",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4527,15 +4519,13 @@
           "name": "圣路易斯竞技",
           "team_id": "ast_e8fa3c2d6b974de89d5462d5b3e1d701"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_dc94cd86a4114e0bb0d322e2f0d6dc2c",
         "date": "2026-09-26",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4547,15 +4537,16 @@
           "name": "蒙特雷",
           "team_id": "ast_66a8a53250194ec894fd2dceb30591f7"
         },
-        "ht_score": "-",
-        "venue": "巴诺尔特体育场",
-        "status_label": "未开赛"
+        "ht_score": "1-1",
+        "reg_score": "4-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_72116806d95e46ef941ad106e4fca9c8",
         "date": "2026-09-26",
         "time": "03:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4567,15 +4558,16 @@
           "name": "阿特拉斯",
           "team_id": "ast_37921852aa874df3856479bd9cdf14d7"
         },
-        "ht_score": "-",
-        "venue": "卡连特体育场",
-        "status_label": "未开赛"
+        "ht_score": "2-1",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_606dde2ad2904043b3bf10a5fd004f7a",
         "date": "2026-09-26",
         "time": "23:07",
-        "status": "Not Started",
+        "status": "23:07",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4587,15 +4579,13 @@
           "name": "克雷塔罗",
           "team_id": "ast_5961a149f1bc493a8fd6ee470d2a6b6c"
         },
-        "ht_score": "-",
-        "venue": "Estadio Akron",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b23c00c4cee14d52a5ecd10485e873b5",
         "date": "2026-09-26",
         "time": "22:50",
-        "status": "Not Started",
+        "status": "22:50",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
         "season": "2026/2027",
@@ -4607,9 +4597,7 @@
           "name": "托卢卡",
           "team_id": "ast_664ab8199795407a92faf8f1332eb563"
         },
-        "ht_score": "-",
-        "venue": "巴诺尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_495dfd6fb7ed4b609797d74b228abcdc",
@@ -6273,6 +6261,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_e2449aa420f240d49ea4f6064e81ed9c",
+        "date": "2026-11-09",
+        "time": "02:00",
+        "status": "Not Started",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
+        "season": "2026/2027",
+        "home": {
+          "name": "莱昂俱乐部",
+          "team_id": "ast_cb68b47acba043489ad8e27f4b4f21f0"
+        },
+        "away": {
+          "name": "瓜达拉哈拉",
+          "team_id": "ast_30c4136539654f479d8c59c41cb96c17"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e3d28086012d4449aa78fefd3f86b8e2",
+        "date": "2026-11-09",
+        "time": "00:00",
+        "status": "Not Started",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
+        "season": "2026/2027",
+        "home": {
+          "name": "克雷塔罗",
+          "team_id": "ast_5961a149f1bc493a8fd6ee470d2a6b6c"
+        },
+        "away": {
+          "name": "普埃布拉",
+          "team_id": "ast_504ee0b8d5cf449eb58bf7de852c75a3"
+        },
+        "ht_score": "-",
+        "venue": "Estadio La Corregidora",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_30bb077dbfbb4067a441430f7fa16bc2",
+        "date": "2026-11-08",
+        "time": "03:00",
+        "status": "Not Started",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
+        "season": "2026/2027",
+        "home": {
+          "name": "普马斯·UNAM",
+          "team_id": "ast_9b4bb23bc876400a88cf0e08c9b03fa8"
+        },
+        "away": {
+          "name": "美洲俱乐部",
+          "team_id": "ast_5a5e495f2f6945bc93d4018c66aaee32"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_707980c53c1746bc8848092b5a4cb385",
+        "date": "2026-11-08",
+        "time": "01:00",
+        "status": "Not Started",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
+        "season": "2026/2027",
+        "home": {
+          "name": "托卢卡",
+          "team_id": "ast_664ab8199795407a92faf8f1332eb563"
+        },
+        "away": {
+          "name": "蒙特雷",
+          "team_id": "ast_66a8a53250194ec894fd2dceb30591f7"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_4bde3f1bddbc4b649e279c5d8ffa694f",
         "date": "2026-11-07",
         "time": "23:00",
@@ -7190,86 +7258,6 @@
         },
         "ht_score": "-",
         "venue": "巴诺尔特体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_947540ff1b6d45e6ae77773f935dc348",
-        "date": "2026-10-11",
-        "time": "01:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿特拉斯",
-          "team_id": "ast_37921852aa874df3856479bd9cdf14d7"
-        },
-        "away": {
-          "name": "瓜达拉哈拉",
-          "team_id": "ast_30c4136539654f479d8c59c41cb96c17"
-        },
-        "ht_score": "-",
-        "venue": "哈利斯科体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_392cfb139bc9433985d7b0ca3424f0fb",
-        "date": "2026-10-10",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
-        "season": "2026/2027",
-        "home": {
-          "name": "华雷斯",
-          "team_id": "ast_eec1e1b73a694aa08666534b092febe2"
-        },
-        "away": {
-          "name": "蒂华纳",
-          "team_id": "ast_33d5517a36b54a1cbb5490c9f2f62d94"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6805cec10c8647fc9af46f9a94484223",
-        "date": "2026-10-10",
-        "time": "03:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
-        "season": "2026/2027",
-        "home": {
-          "name": "老虎队UANL",
-          "team_id": "ast_5b31c3f03e2845138ac7948d1fb14565"
-        },
-        "away": {
-          "name": "托卢卡",
-          "team_id": "ast_664ab8199795407a92faf8f1332eb563"
-        },
-        "ht_score": "-",
-        "venue": "大学城体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d36dd04e46104dabac02be04034388fb",
-        "date": "2026-10-10",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_7a42ea7a17204a4da5388813f33aaee0",
-        "season": "2026/2027",
-        "home": {
-          "name": "克雷塔罗",
-          "team_id": "ast_5961a149f1bc493a8fd6ee470d2a6b6c"
-        },
-        "away": {
-          "name": "阿特兰特",
-          "team_id": "ast_69cf9a98fe0e4473a232a49cfd2dc87d"
-        },
-        "ht_score": "-",
-        "venue": "Estadio La Corregidora",
         "status_label": "未开赛"
       }
     ]
@@ -13445,13 +13433,13 @@
     }
   },
   "stats": {
-    "matches_completed": 79,
-    "total_goals": 223,
-    "avg_goals_per_match": 2.82,
-    "home_wins": 32,
+    "matches_completed": 81,
+    "total_goals": 234,
+    "avg_goals_per_match": 2.89,
+    "home_wins": 33,
     "draws": 19,
-    "away_wins": 28,
-    "home_win_pct": 40.5,
+    "away_wins": 29,
+    "home_win_pct": 40.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14270,5 +14258,5 @@
     "matches_current_season": 153,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/23"
+  "updated_at": "2026/09/26"
 }
