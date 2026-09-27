@@ -274,6 +274,20 @@
       },
       {
         "position": 10,
+        "team_id": "ast_20e8f8347f9a486cac6812361aa5aadc",
+        "team": "Tukums 2000 2",
+        "played": 21,
+        "wins": 5,
+        "draws": 3,
+        "losses": 13,
+        "goals_for": 27,
+        "goals_against": 60,
+        "goal_difference": -33,
+        "points": 18,
+        "form": "WWLLL"
+      },
+      {
+        "position": 11,
         "team_id": "ast_b4ead1b6b6c44a03b64ab96e468685f1",
         "team": "FK Smiltene",
         "played": 21,
@@ -285,20 +299,6 @@
         "goal_difference": -28,
         "points": 16,
         "form": "WWLLL"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_20e8f8347f9a486cac6812361aa5aadc",
-        "team": "Tukums 2000 2",
-        "played": 20,
-        "wins": 4,
-        "draws": 3,
-        "losses": 13,
-        "goals_for": 26,
-        "goals_against": 60,
-        "goal_difference": -34,
-        "points": 15,
-        "form": "WLLLL"
       },
       {
         "position": 12,
@@ -318,15 +318,15 @@
         "position": 13,
         "team_id": "ast_0c5b2f3f4c0949ef87f21ad48271224a",
         "team": "JFK Ventspils",
-        "played": 20,
+        "played": 21,
         "wins": 3,
         "draws": 6,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 21,
-        "goals_against": 40,
-        "goal_difference": -19,
+        "goals_against": 41,
+        "goal_difference": -20,
         "points": 15,
-        "form": "WLLDL"
+        "form": "LWLLD"
       },
       {
         "position": 14,
@@ -481,6 +481,21 @@
       },
       {
         "position": 10,
+        "team_id": "ast_20e8f8347f9a486cac6812361aa5aadc",
+        "team": "图库姆斯2000 2",
+        "played": 21,
+        "wins": 5,
+        "draws": 3,
+        "losses": 13,
+        "goals_for": 27,
+        "goals_against": 60,
+        "goal_difference": -33,
+        "points": 18,
+        "form": "WWLLL",
+        "form_label": "胜胜负负负"
+      },
+      {
+        "position": 11,
         "team_id": "ast_b4ead1b6b6c44a03b64ab96e468685f1",
         "team": "斯米尔滕足球俱乐部",
         "played": 21,
@@ -493,21 +508,6 @@
         "points": 16,
         "form": "WWLLL",
         "form_label": "胜胜负负负"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_20e8f8347f9a486cac6812361aa5aadc",
-        "team": "图库姆斯2000 2",
-        "played": 20,
-        "wins": 4,
-        "draws": 3,
-        "losses": 13,
-        "goals_for": 26,
-        "goals_against": 60,
-        "goal_difference": -34,
-        "points": 15,
-        "form": "WLLLL",
-        "form_label": "胜负负负负"
       },
       {
         "position": 12,
@@ -528,16 +528,16 @@
         "position": 13,
         "team_id": "ast_0c5b2f3f4c0949ef87f21ad48271224a",
         "team": "JFK文茨皮尔斯",
-        "played": 20,
+        "played": 21,
         "wins": 3,
         "draws": 6,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 21,
-        "goals_against": 40,
-        "goal_difference": -19,
+        "goals_against": 41,
+        "goal_difference": -20,
         "points": 15,
-        "form": "WLLDL",
-        "form_label": "胜负负平负"
+        "form": "LWLLD",
+        "form_label": "负胜负负平"
       },
       {
         "position": 14,
@@ -1277,7 +1277,7 @@
         "match_id": "as_a34c2df45a9649bb8417630761ddefff",
         "date": "2026-09-26",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "拉脱维亚甲级联赛",
         "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
         "season": "2026",
@@ -1289,7 +1289,10 @@
           "name": "JFK文茨皮尔斯",
           "team_id": "ast_0c5b2f3f4c0949ef87f21ad48271224a"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_26ed69e586c947ed8690433a267d07c0",
@@ -5058,24 +5061,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_a34c2df45a9649bb8417630761ddefff",
-        "date": "2026-09-26",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "拉脱维亚甲级联赛",
-        "league_id": "asl_2e7c4f1f963b4cdfadc2af5116a08d25",
-        "season": "2026",
-        "home": {
-          "name": "图库姆斯2000 2",
-          "team_id": "ast_20e8f8347f9a486cac6812361aa5aadc"
-        },
-        "away": {
-          "name": "JFK文茨皮尔斯",
-          "team_id": "ast_0c5b2f3f4c0949ef87f21ad48271224a"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6798,13 +6783,13 @@
     }
   },
   "stats": {
-    "matches_completed": 146,
-    "total_goals": 545,
-    "avg_goals_per_match": 3.73,
-    "home_wins": 65,
+    "matches_completed": 147,
+    "total_goals": 546,
+    "avg_goals_per_match": 3.71,
+    "home_wins": 66,
     "draws": 27,
     "away_wins": 54,
-    "home_win_pct": 44.5,
+    "home_win_pct": 44.9,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -7602,7 +7587,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/09/26"
+  "updated_at": "2026/09/27"
 }

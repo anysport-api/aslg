@@ -140,6 +140,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
+        "team": "Thimphu FC",
+        "played": 17,
+        "wins": 10,
+        "draws": 1,
+        "losses": 6,
+        "goals_for": 26,
+        "goals_against": 21,
+        "goal_difference": 5,
+        "points": 31,
+        "form": "WWWWW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_86aa04e45fd74264978047b0132a98fa",
         "team": "Transport United",
         "played": 17,
@@ -151,20 +165,6 @@
         "goal_difference": 4,
         "points": 29,
         "form": "LDLWL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
-        "team": "Thimphu FC",
-        "played": 16,
-        "wins": 9,
-        "draws": 1,
-        "losses": 6,
-        "goals_for": 22,
-        "goals_against": 20,
-        "goal_difference": 2,
-        "points": 28,
-        "form": "WWWWW"
       },
       {
         "position": 5,
@@ -226,15 +226,15 @@
         "position": 9,
         "team_id": "ast_9a579e849c254849a3f09eb681ddd49b",
         "team": "Tensung",
-        "played": 16,
+        "played": 17,
         "wins": 2,
         "draws": 2,
-        "losses": 12,
-        "goals_for": 12,
-        "goals_against": 44,
-        "goal_difference": -32,
+        "losses": 13,
+        "goals_for": 13,
+        "goals_against": 48,
+        "goal_difference": -35,
         "points": 8,
-        "form": "LLLWL"
+        "form": "LLLLW"
       },
       {
         "position": 10,
@@ -284,6 +284,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
+        "team": "廷布足球俱乐部",
+        "played": 17,
+        "wins": 10,
+        "draws": 1,
+        "losses": 6,
+        "goals_for": 26,
+        "goals_against": 21,
+        "goal_difference": 5,
+        "points": 31,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_86aa04e45fd74264978047b0132a98fa",
         "team": "交通联",
         "played": 17,
@@ -296,21 +311,6 @@
         "points": 29,
         "form": "LDLWL",
         "form_label": "负平负胜负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
-        "team": "廷布足球俱乐部",
-        "played": 16,
-        "wins": 9,
-        "draws": 1,
-        "losses": 6,
-        "goals_for": 22,
-        "goals_against": 20,
-        "goal_difference": 2,
-        "points": 28,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
       },
       {
         "position": 5,
@@ -376,16 +376,16 @@
         "position": 9,
         "team_id": "ast_9a579e849c254849a3f09eb681ddd49b",
         "team": "腾松",
-        "played": 16,
+        "played": 17,
         "wins": 2,
         "draws": 2,
-        "losses": 12,
-        "goals_for": 12,
-        "goals_against": 44,
-        "goal_difference": -32,
+        "losses": 13,
+        "goals_for": 13,
+        "goals_against": 48,
+        "goal_difference": -35,
         "points": 8,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
+        "form": "LLLLW",
+        "form_label": "负负负负胜"
       },
       {
         "position": 10,
@@ -545,7 +545,7 @@
         "match_id": "as_7e483dfcbec642aabb3ea6f77db53a1e",
         "date": "2026-09-25",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "不丹甲级联赛",
         "league_id": "asl_9288d76794134f2f923fda6717934dc2",
         "season": "2026",
@@ -557,9 +557,10 @@
           "name": "腾松",
           "team_id": "ast_9a579e849c254849a3f09eb681ddd49b"
         },
-        "ht_score": "-",
+        "ht_score": "1-0",
+        "reg_score": "4-1",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_72545cf06277498492f0856dfb9c0a26",
@@ -2794,13 +2795,13 @@
     }
   },
   "stats": {
-    "matches_completed": 83,
-    "total_goals": 300,
-    "avg_goals_per_match": 3.61,
-    "home_wins": 29,
+    "matches_completed": 84,
+    "total_goals": 305,
+    "avg_goals_per_match": 3.63,
+    "home_wins": 30,
     "draws": 14,
     "away_wins": 40,
-    "home_win_pct": 34.9,
+    "home_win_pct": 35.7,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -2951,17 +2952,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_86aa04e45fd74264978047b0132a98fa",
-            "team": "Transport United",
+            "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
+            "team": "Thimphu FC",
             "played": 17,
-            "wins": 9,
-            "draws": 2,
+            "wins": 10,
+            "draws": 1,
             "losses": 6,
-            "goals_for": 27,
-            "goals_against": 23,
-            "goal_difference": 4,
-            "points": 29,
-            "form": "LDLWL"
+            "goals_for": 26,
+            "goals_against": 21,
+            "goal_difference": 5,
+            "points": 31,
+            "form": "WWWWW"
           }
         ],
         "meta": {
@@ -3562,5 +3563,5 @@
     "matches_current_season": 90,
     "upcoming_matches": 6
   },
-  "updated_at": "2026/09/26"
+  "updated_at": "2026/09/27"
 }

@@ -168,15 +168,15 @@
         "position": 4,
         "team_id": "ast_147b55bab69a4d1fbdc28169bc497d2b",
         "team": "Nantong Zhiyun",
-        "played": 23,
-        "wins": 10,
+        "played": 24,
+        "wins": 11,
         "draws": 9,
         "losses": 4,
-        "goals_for": 31,
+        "goals_for": 33,
         "goals_against": 20,
-        "goal_difference": 11,
-        "points": 39,
-        "form": "LWDLW"
+        "goal_difference": 13,
+        "points": 42,
+        "form": "WLWDL"
       },
       {
         "position": 5,
@@ -236,20 +236,6 @@
       },
       {
         "position": 9,
-        "team_id": "ast_3a666f3d56cd4adb9e720a0ad8f92623",
-        "team": "Changchun Yatai",
-        "played": 23,
-        "wins": 10,
-        "draws": 3,
-        "losses": 10,
-        "goals_for": 37,
-        "goals_against": 38,
-        "goal_difference": -1,
-        "points": 29,
-        "form": "DWWLW"
-      },
-      {
-        "position": 10,
         "team_id": "ast_e26b4d7aec704a169604ef796159f9e6",
         "team": "Ningbo Professional",
         "played": 23,
@@ -261,6 +247,20 @@
         "goal_difference": -2,
         "points": 29,
         "form": "LWLDL"
+      },
+      {
+        "position": 10,
+        "team_id": "ast_3a666f3d56cd4adb9e720a0ad8f92623",
+        "team": "Changchun Yatai",
+        "played": 24,
+        "wins": 10,
+        "draws": 3,
+        "losses": 11,
+        "goals_for": 37,
+        "goals_against": 40,
+        "goal_difference": -3,
+        "points": 29,
+        "form": "LDWWL"
       },
       {
         "position": 11,
@@ -397,16 +397,16 @@
         "position": 4,
         "team_id": "ast_147b55bab69a4d1fbdc28169bc497d2b",
         "team": "南通支云",
-        "played": 23,
-        "wins": 10,
+        "played": 24,
+        "wins": 11,
         "draws": 9,
         "losses": 4,
-        "goals_for": 31,
+        "goals_for": 33,
         "goals_against": 20,
-        "goal_difference": 11,
-        "points": 39,
-        "form": "LWDLW",
-        "form_label": "负胜平负胜"
+        "goal_difference": 13,
+        "points": 42,
+        "form": "WLWDL",
+        "form_label": "胜负胜平负"
       },
       {
         "position": 5,
@@ -470,21 +470,6 @@
       },
       {
         "position": 9,
-        "team_id": "ast_3a666f3d56cd4adb9e720a0ad8f92623",
-        "team": "长春亚泰",
-        "played": 23,
-        "wins": 10,
-        "draws": 3,
-        "losses": 10,
-        "goals_for": 37,
-        "goals_against": 38,
-        "goal_difference": -1,
-        "points": 29,
-        "form": "DWWLW",
-        "form_label": "平胜胜负胜"
-      },
-      {
-        "position": 10,
         "team_id": "ast_e26b4d7aec704a169604ef796159f9e6",
         "team": "宁波职业",
         "played": 23,
@@ -497,6 +482,21 @@
         "points": 29,
         "form": "LWLDL",
         "form_label": "负胜负平负"
+      },
+      {
+        "position": 10,
+        "team_id": "ast_3a666f3d56cd4adb9e720a0ad8f92623",
+        "team": "长春亚泰",
+        "played": 24,
+        "wins": 10,
+        "draws": 3,
+        "losses": 11,
+        "goals_for": 37,
+        "goals_against": 40,
+        "goal_difference": -3,
+        "points": 29,
+        "form": "LDWWL",
+        "form_label": "负平胜胜负"
       },
       {
         "position": 11,
@@ -1090,7 +1090,7 @@
       {
         "match_id": "as_90a2cbbb990a40c887a64076392227b0",
         "date": "2026-10-18",
-        "time": "11:00",
+        "time": "08:00",
         "status": "Not Started",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
@@ -1290,7 +1290,7 @@
       {
         "match_id": "as_b856d418d0864b6ba10d4eac4c3dc899",
         "date": "2026-10-11",
-        "time": "11:00",
+        "time": "07:30",
         "status": "Not Started",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
@@ -1607,7 +1607,7 @@
         "match_id": "as_90fc411902f44109bb9d3a7d7d70fb49",
         "date": "2026-09-26",
         "time": "11:30",
-        "status": "11:30",
+        "status": "FT",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
         "season": "2026",
@@ -1619,7 +1619,10 @@
           "name": "长春亚泰",
           "team_id": "ast_3a666f3d56cd4adb9e720a0ad8f92623"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c15ceaec03604c0b97b469714a013896",
@@ -6115,7 +6118,7 @@
       {
         "match_id": "as_90a2cbbb990a40c887a64076392227b0",
         "date": "2026-10-18",
-        "time": "11:00",
+        "time": "08:00",
         "status": "Not Started",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
@@ -6275,7 +6278,7 @@
       {
         "match_id": "as_b856d418d0864b6ba10d4eac4c3dc899",
         "date": "2026-10-11",
-        "time": "11:00",
+        "time": "07:30",
         "status": "Not Started",
         "league": "中国甲级联赛",
         "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
@@ -8847,13 +8850,13 @@
     }
   },
   "stats": {
-    "matches_completed": 189,
-    "total_goals": 509,
+    "matches_completed": 190,
+    "total_goals": 511,
     "avg_goals_per_match": 2.69,
-    "home_wins": 79,
+    "home_wins": 80,
     "draws": 53,
     "away_wins": 57,
-    "home_win_pct": 41.8,
+    "home_win_pct": 42.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9653,5 +9656,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/26"
+  "updated_at": "2026/09/27"
 }

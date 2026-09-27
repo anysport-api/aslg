@@ -1719,7 +1719,7 @@
         "match_id": "as_0ce6890e5d774ab88cfbcfc0eb18967c",
         "date": "2026-09-26",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "荷兰女子甲级联赛",
         "league_id": "asl_555641d354974b8faee0e37f76791520",
         "season": "2026/2027",
@@ -1731,13 +1731,16 @@
           "name": "De Graafschap W",
           "team_id": "ast_05d3281e4d7142d181f0621c3dde81f0"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f65afe3a7b014ec2be252ff13f7615cf",
         "date": "2026-09-26",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "荷兰女子甲级联赛",
         "league_id": "asl_555641d354974b8faee0e37f76791520",
         "season": "2026/2027",
@@ -1749,13 +1752,16 @@
           "name": "海牙女足",
           "team_id": "ast_48eeb4c93a5d45e7b5e1423390e13948"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "7-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_74353854503d4ec29b1c879a3863e22f",
         "date": "2026-09-26",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "荷兰女子甲级联赛",
         "league_id": "asl_555641d354974b8faee0e37f76791520",
         "season": "2026/2027",
@@ -1767,7 +1773,10 @@
           "name": "PEC兹沃勒女足",
           "team_id": "ast_21bdb6718dea451094497e9cdd251ec1"
         },
-        "venue": ""
+        "ht_score": "2-2",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ac3b43a8c59c46f6a2cb880d117f8997",
@@ -2631,60 +2640,6 @@
           "team_id": "ast_750fb8b9de134b429f53785a43f6aa67"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_74353854503d4ec29b1c879a3863e22f",
-        "date": "2026-09-26",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "荷兰女子甲级联赛",
-        "league_id": "asl_555641d354974b8faee0e37f76791520",
-        "season": "2026/2027",
-        "home": {
-          "name": "费耶诺德",
-          "team_id": "ast_7fe65a71cbfd44a28845a8a951304c0d"
-        },
-        "away": {
-          "name": "PEC兹沃勒女足",
-          "team_id": "ast_21bdb6718dea451094497e9cdd251ec1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f65afe3a7b014ec2be252ff13f7615cf",
-        "date": "2026-09-26",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "荷兰女子甲级联赛",
-        "league_id": "asl_555641d354974b8faee0e37f76791520",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿贾克斯女足",
-          "team_id": "ast_e6e099b3bc8c44949826ea690531335b"
-        },
-        "away": {
-          "name": "海牙女足",
-          "team_id": "ast_48eeb4c93a5d45e7b5e1423390e13948"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0ce6890e5d774ab88cfbcfc0eb18967c",
-        "date": "2026-09-26",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "荷兰女子甲级联赛",
-        "league_id": "asl_555641d354974b8faee0e37f76791520",
-        "season": "2026/2027",
-        "home": {
-          "name": "PSV",
-          "team_id": "ast_4290632517e242a49c8de572c54de6c2"
-        },
-        "away": {
-          "name": "De Graafschap W",
-          "team_id": "ast_05d3281e4d7142d181f0621c3dde81f0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3300,35 +3255,35 @@
     }
   },
   "stats": {
-    "matches_completed": 25,
-    "total_goals": 93,
-    "avg_goals_per_match": 3.72,
-    "home_wins": 11,
+    "matches_completed": 28,
+    "total_goals": 110,
+    "avg_goals_per_match": 3.93,
+    "home_wins": 13,
     "draws": 2,
-    "away_wins": 12,
-    "home_win_pct": 44.0,
+    "away_wins": 13,
+    "home_win_pct": 46.4,
     "biggest_win": {
       "margin": 6,
       "match": {
-        "match_id": "as_7597d1336a634279b5cb9784120724a6",
-        "date": "2026-09-06",
-        "home_id": "ast_7fe65a71cbfd44a28845a8a951304c0d",
-        "home": "费耶诺德",
-        "away_id": "ast_4290632517e242a49c8de572c54de6c2",
-        "away": "PSV",
-        "score": "0-6"
+        "match_id": "as_f65afe3a7b014ec2be252ff13f7615cf",
+        "date": "2026-09-26",
+        "home_id": "ast_e6e099b3bc8c44949826ea690531335b",
+        "home": "阿贾克斯女足",
+        "away_id": "ast_48eeb4c93a5d45e7b5e1423390e13948",
+        "away": "海牙女足",
+        "score": "7-1"
       }
     },
     "highest_scoring_match": {
       "goals": 8,
       "match": {
-        "match_id": "as_23702f869b62433baa5112a434d04c6c",
-        "date": "2026-08-23",
-        "home_id": "ast_48eeb4c93a5d45e7b5e1423390e13948",
-        "home": "海牙女足",
-        "away_id": "ast_750fb8b9de134b429f53785a43f6aa67",
-        "away": "特温特",
-        "score": "1-7"
+        "match_id": "as_f65afe3a7b014ec2be252ff13f7615cf",
+        "date": "2026-09-26",
+        "home_id": "ast_e6e099b3bc8c44949826ea690531335b",
+        "home": "阿贾克斯女足",
+        "away_id": "ast_48eeb4c93a5d45e7b5e1423390e13948",
+        "away": "海牙女足",
+        "score": "7-1"
       }
     },
     "leader": {
@@ -4103,7 +4058,7 @@
     "teams_all_time": 13,
     "standings_rows_current": 12,
     "matches_current_season": 90,
-    "upcoming_matches": 20
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/09/26"
+  "updated_at": "2026/09/27"
 }
