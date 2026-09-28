@@ -180,15 +180,15 @@
         "position": 4,
         "team_id": "ast_3a901c42a3274d84af5707db36fb551a",
         "team": "Villa Dalmine",
-        "played": 36,
+        "played": 37,
         "wins": 17,
-        "draws": 12,
+        "draws": 13,
         "losses": 7,
         "goals_for": 38,
         "goals_against": 21,
         "goal_difference": 17,
-        "points": 63,
-        "form": "WLLDD"
+        "points": 64,
+        "form": "DWLLD"
       },
       {
         "position": 5,
@@ -250,15 +250,15 @@
         "position": 9,
         "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf",
         "team": "Comunicaciones",
-        "played": 36,
+        "played": 37,
         "wins": 14,
-        "draws": 11,
+        "draws": 12,
         "losses": 11,
         "goals_for": 38,
         "goals_against": 33,
         "goal_difference": 5,
-        "points": 53,
-        "form": "WDWWL"
+        "points": 54,
+        "form": "DWDWW"
       },
       {
         "position": 10,
@@ -348,15 +348,15 @@
         "position": 16,
         "team_id": "ast_28c6a2657de84a0dbafed019634fbc73",
         "team": "Argentino de Quilmes",
-        "played": 36,
+        "played": 37,
         "wins": 9,
-        "draws": 14,
+        "draws": 15,
         "losses": 13,
         "goals_for": 29,
         "goals_against": 36,
         "goal_difference": -7,
-        "points": 41,
-        "form": "DWLLL"
+        "points": 42,
+        "form": "DDWLL"
       },
       {
         "position": 17,
@@ -418,15 +418,15 @@
         "position": 21,
         "team_id": "ast_e9a7333b09f74ce1bf8c7a0fc72ba78c",
         "team": "UAI Urquiza",
-        "played": 36,
+        "played": 37,
         "wins": 4,
-        "draws": 19,
+        "draws": 20,
         "losses": 13,
         "goals_for": 18,
         "goals_against": 33,
         "goal_difference": -15,
-        "points": 31,
-        "form": "LLWLL"
+        "points": 32,
+        "form": "DLLWL"
       },
       {
         "position": 22,
@@ -493,16 +493,16 @@
         "position": 4,
         "team_id": "ast_3a901c42a3274d84af5707db36fb551a",
         "team": "维拉·达尔米内",
-        "played": 36,
+        "played": 37,
         "wins": 17,
-        "draws": 12,
+        "draws": 13,
         "losses": 7,
         "goals_for": 38,
         "goals_against": 21,
         "goal_difference": 17,
-        "points": 63,
-        "form": "WLLDD",
-        "form_label": "胜负负平平"
+        "points": 64,
+        "form": "DWLLD",
+        "form_label": "平胜负负平"
       },
       {
         "position": 5,
@@ -568,16 +568,16 @@
         "position": 9,
         "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf",
         "team": "通讯队",
-        "played": 36,
+        "played": 37,
         "wins": 14,
-        "draws": 11,
+        "draws": 12,
         "losses": 11,
         "goals_for": 38,
         "goals_against": 33,
         "goal_difference": 5,
-        "points": 53,
-        "form": "WDWWL",
-        "form_label": "胜平胜胜负"
+        "points": 54,
+        "form": "DWDWW",
+        "form_label": "平胜平胜胜"
       },
       {
         "position": 10,
@@ -673,16 +673,16 @@
         "position": 16,
         "team_id": "ast_28c6a2657de84a0dbafed019634fbc73",
         "team": "阿根廷基尔梅斯",
-        "played": 36,
+        "played": 37,
         "wins": 9,
-        "draws": 14,
+        "draws": 15,
         "losses": 13,
         "goals_for": 29,
         "goals_against": 36,
         "goal_difference": -7,
-        "points": 41,
-        "form": "DWLLL",
-        "form_label": "平胜负负负"
+        "points": 42,
+        "form": "DDWLL",
+        "form_label": "平平胜负负"
       },
       {
         "position": 17,
@@ -748,16 +748,16 @@
         "position": 21,
         "team_id": "ast_e9a7333b09f74ce1bf8c7a0fc72ba78c",
         "team": "乌尔基萨大学",
-        "played": 36,
+        "played": 37,
         "wins": 4,
-        "draws": 19,
+        "draws": 20,
         "losses": 13,
         "goals_for": 18,
         "goals_against": 33,
         "goal_difference": -15,
-        "points": 31,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "points": 32,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       },
       {
         "position": 22,
@@ -1893,7 +1893,7 @@
         "match_id": "as_e7e5a1c043a244339b028f100c0e8005",
         "date": "2026-09-27",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1905,13 +1905,16 @@
           "name": "通讯队",
           "team_id": "ast_4143d52a308e4e7692fdb2c9fbf0dfdf"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_06999eb32cc340b8b628335f6e6616c4",
         "date": "2026-09-27",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1923,7 +1926,10 @@
           "name": "乌尔基萨大学",
           "team_id": "ast_e9a7333b09f74ce1bf8c7a0fc72ba78c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c8258f7370bb4bdabab1151d8ebb9273",
@@ -2090,7 +2096,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Estadio Carlos Sacaan",
         "status_label": "完场"
       },
       {
@@ -13920,13 +13926,13 @@
     }
   },
   "stats": {
-    "matches_completed": 404,
+    "matches_completed": 406,
     "total_goals": 800,
-    "avg_goals_per_match": 1.98,
+    "avg_goals_per_match": 1.97,
     "home_wins": 150,
-    "draws": 133,
+    "draws": 135,
     "away_wins": 121,
-    "home_win_pct": 37.1,
+    "home_win_pct": 36.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14726,5 +14732,5 @@
     "matches_current_season": 462,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/27"
+  "updated_at": "2026/09/28"
 }

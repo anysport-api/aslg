@@ -254,15 +254,15 @@
         "position": 8,
         "team_id": "ast_0bae38765c434b249d781546b75ec3cd",
         "team": "BumProm Gomel",
-        "played": 25,
+        "played": 26,
         "wins": 11,
-        "draws": 4,
+        "draws": 5,
         "losses": 10,
-        "goals_for": 47,
-        "goals_against": 37,
+        "goals_for": 50,
+        "goals_against": 40,
         "goal_difference": 10,
-        "points": 37,
-        "form": "WLLLW"
+        "points": 38,
+        "form": "DWLLL"
       },
       {
         "position": 9,
@@ -394,15 +394,15 @@
         "position": 18,
         "team_id": "ast_b0246912581140f28adb8531b36d087c",
         "team": "Osipovichi",
-        "played": 25,
+        "played": 26,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 17,
-        "goals_for": 26,
-        "goals_against": 62,
+        "goals_for": 29,
+        "goals_against": 65,
         "goal_difference": -36,
-        "points": 18,
-        "form": "DLLLW"
+        "points": 19,
+        "form": "DDLLL"
       }
     ],
     "zh": [
@@ -515,16 +515,16 @@
         "position": 8,
         "team_id": "ast_0bae38765c434b249d781546b75ec3cd",
         "team": "布姆普罗姆戈梅尔",
-        "played": 25,
+        "played": 26,
         "wins": 11,
-        "draws": 4,
+        "draws": 5,
         "losses": 10,
-        "goals_for": 47,
-        "goals_against": 37,
+        "goals_for": 50,
+        "goals_against": 40,
         "goal_difference": 10,
-        "points": 37,
-        "form": "WLLLW",
-        "form_label": "胜负负负胜"
+        "points": 38,
+        "form": "DWLLL",
+        "form_label": "平胜负负负"
       },
       {
         "position": 9,
@@ -665,16 +665,16 @@
         "position": 18,
         "team_id": "ast_b0246912581140f28adb8531b36d087c",
         "team": "奥西波维奇",
-        "played": 25,
+        "played": 26,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 17,
-        "goals_for": 26,
-        "goals_against": 62,
+        "goals_for": 29,
+        "goals_against": 65,
         "goal_difference": -36,
-        "points": 18,
-        "form": "DLLLW",
-        "form_label": "平负负负胜"
+        "points": 19,
+        "form": "DDLLL",
+        "form_label": "平平负负负"
       }
     ]
   },
@@ -2121,7 +2121,7 @@
         "match_id": "as_539eff5549584e6bbf3253fe119ba02c",
         "date": "2026-09-27",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Postp.",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2133,13 +2133,14 @@
           "name": "莫洛德赫诺",
           "team_id": "ast_52ad7436d837435dabc0c998ae2746f9"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_71eefd7225634ba1bc3cf64c30fe4f01",
         "date": "2026-09-27",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2151,7 +2152,10 @@
           "name": "布姆普罗姆戈梅尔",
           "team_id": "ast_0bae38765c434b249d781546b75ec3cd"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4d2a956c031940b0bd2f379e6ff5f656",
@@ -2276,7 +2280,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Yunost Stadium",
         "status_label": "完场"
       },
       {
@@ -2297,7 +2301,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Yunost Stadium",
         "status_label": "完场"
       },
       {
@@ -13409,13 +13413,13 @@
     }
   },
   "stats": {
-    "matches_completed": 232,
-    "total_goals": 746,
-    "avg_goals_per_match": 3.22,
+    "matches_completed": 233,
+    "total_goals": 752,
+    "avg_goals_per_match": 3.23,
     "home_wins": 99,
-    "draws": 45,
+    "draws": 46,
     "away_wins": 88,
-    "home_win_pct": 42.7,
+    "home_win_pct": 42.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14215,5 +14219,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/27"
+  "updated_at": "2026/09/28"
 }

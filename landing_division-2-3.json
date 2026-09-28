@@ -142,20 +142,6 @@
     "en": [
       {
         "position": 1,
-        "team_id": "ast_6ad9ba7b399f4d9399c8e79dd42a83e0",
-        "team": "Sotra",
-        "played": 8,
-        "wins": 4,
-        "draws": 3,
-        "losses": 1,
-        "goals_for": 18,
-        "goals_against": 7,
-        "goal_difference": 11,
-        "points": 15,
-        "form": "WDWDL"
-      },
-      {
-        "position": 1,
         "team_id": "ast_2fd19f93518249aa85c83b70d9932c4b",
         "team": "Tromsdalen",
         "played": 8,
@@ -167,6 +153,20 @@
         "goal_difference": 7,
         "points": 19,
         "form": "WWLWW"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_6ad9ba7b399f4d9399c8e79dd42a83e0",
+        "team": "Sotra",
+        "played": 8,
+        "wins": 4,
+        "draws": 3,
+        "losses": 1,
+        "goals_for": 18,
+        "goals_against": 7,
+        "goal_difference": 11,
+        "points": 15,
+        "form": "WDWDL"
       },
       {
         "position": 2,
@@ -536,21 +536,6 @@
     "zh": [
       {
         "position": 1,
-        "team_id": "ast_6ad9ba7b399f4d9399c8e79dd42a83e0",
-        "team": "索特拉",
-        "played": 8,
-        "wins": 4,
-        "draws": 3,
-        "losses": 1,
-        "goals_for": 18,
-        "goals_against": 7,
-        "goal_difference": 11,
-        "points": 15,
-        "form": "WDWDL",
-        "form_label": "胜平胜平负"
-      },
-      {
-        "position": 1,
         "team_id": "ast_2fd19f93518249aa85c83b70d9932c4b",
         "team": "特罗姆斯达伦",
         "played": 8,
@@ -563,6 +548,21 @@
         "points": 19,
         "form": "WWLWW",
         "form_label": "胜胜负胜胜"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_6ad9ba7b399f4d9399c8e79dd42a83e0",
+        "team": "索特拉",
+        "played": 8,
+        "wins": 4,
+        "draws": 3,
+        "losses": 1,
+        "goals_for": 18,
+        "goals_against": 7,
+        "goal_difference": 11,
+        "points": 15,
+        "form": "WDWDL",
+        "form_label": "胜平胜平负"
       },
       {
         "position": 2,
@@ -9336,7 +9336,7 @@
           "team_id": "ast_de78a69d8dce454ca3944285944a27e3"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Rolvsrud stadion",
         "status_label": "未开赛"
       },
       {
@@ -12402,8 +12402,8 @@
       }
     },
     "leader": {
-      "team": "Sotra",
-      "points": 15,
+      "team": "Tromsdalen",
+      "points": 19,
       "played": 8
     }
   },
@@ -12499,20 +12499,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_6ad9ba7b399f4d9399c8e79dd42a83e0",
-            "team": "Sotra",
-            "played": 8,
-            "wins": 4,
-            "draws": 3,
-            "losses": 1,
-            "goals_for": 18,
-            "goals_against": 7,
-            "goal_difference": 11,
-            "points": 15,
-            "form": "WDWDL"
-          },
-          {
-            "position": 1,
             "team_id": "ast_2fd19f93518249aa85c83b70d9932c4b",
             "team": "Tromsdalen",
             "played": 8,
@@ -12524,6 +12510,20 @@
             "goal_difference": 7,
             "points": 19,
             "form": "WWLWW"
+          },
+          {
+            "position": 1,
+            "team_id": "ast_6ad9ba7b399f4d9399c8e79dd42a83e0",
+            "team": "Sotra",
+            "played": 8,
+            "wins": 4,
+            "draws": 3,
+            "losses": 1,
+            "goals_for": 18,
+            "goals_against": 7,
+            "goal_difference": 11,
+            "points": 15,
+            "form": "WDWDL"
           },
           {
             "position": 2,
@@ -13179,5 +13179,5 @@
     "matches_current_season": 364,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/27"
+  "updated_at": "2026/09/28"
 }

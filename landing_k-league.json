@@ -188,15 +188,15 @@
         "position": 5,
         "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c",
         "team": "Gangwon",
-        "played": 29,
+        "played": 30,
         "wins": 10,
-        "draws": 12,
+        "draws": 13,
         "losses": 7,
         "goals_for": 36,
         "goals_against": 28,
         "goal_difference": 8,
-        "points": 42,
-        "form": "LDDWD"
+        "points": 43,
+        "form": "DLDDW"
       },
       {
         "position": 6,
@@ -228,6 +228,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_09f51549917a4128b1e352c19e44c0c6",
+        "team": "Incheon",
+        "played": 30,
+        "wins": 10,
+        "draws": 9,
+        "losses": 11,
+        "goals_for": 36,
+        "goals_against": 33,
+        "goal_difference": 3,
+        "points": 39,
+        "form": "DDLWL"
+      },
+      {
+        "position": 9,
         "team_id": "ast_95f5848754104b95b58715240233b19c",
         "team": "Anyang",
         "played": 30,
@@ -239,20 +253,6 @@
         "goal_difference": -9,
         "points": 38,
         "form": "WDLLD"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_09f51549917a4128b1e352c19e44c0c6",
-        "team": "Incheon",
-        "played": 29,
-        "wins": 10,
-        "draws": 8,
-        "losses": 11,
-        "goals_for": 36,
-        "goals_against": 33,
-        "goal_difference": 3,
-        "points": 38,
-        "form": "DLWLD"
       },
       {
         "position": 10,
@@ -362,16 +362,16 @@
         "position": 5,
         "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c",
         "team": "江原",
-        "played": 29,
+        "played": 30,
         "wins": 10,
-        "draws": 12,
+        "draws": 13,
         "losses": 7,
         "goals_for": 36,
         "goals_against": 28,
         "goal_difference": 8,
-        "points": 42,
-        "form": "LDDWD",
-        "form_label": "负平平胜平"
+        "points": 43,
+        "form": "DLDDW",
+        "form_label": "平负平平胜"
       },
       {
         "position": 6,
@@ -405,6 +405,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_09f51549917a4128b1e352c19e44c0c6",
+        "team": "仁川",
+        "played": 30,
+        "wins": 10,
+        "draws": 9,
+        "losses": 11,
+        "goals_for": 36,
+        "goals_against": 33,
+        "goal_difference": 3,
+        "points": 39,
+        "form": "DDLWL",
+        "form_label": "平平负胜负"
+      },
+      {
+        "position": 9,
         "team_id": "ast_95f5848754104b95b58715240233b19c",
         "team": "安阳",
         "played": 30,
@@ -417,21 +432,6 @@
         "points": 38,
         "form": "WDLLD",
         "form_label": "胜平负负平"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_09f51549917a4128b1e352c19e44c0c6",
-        "team": "仁川",
-        "played": 29,
-        "wins": 10,
-        "draws": 8,
-        "losses": 11,
-        "goals_for": 36,
-        "goals_against": 33,
-        "goal_difference": 3,
-        "points": 38,
-        "form": "DLWLD",
-        "form_label": "平负胜负平"
       },
       {
         "position": 10,
@@ -861,7 +861,7 @@
         "match_id": "as_892778dd1f58409cb4a5c9983f43a3fb",
         "date": "2026-09-27",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "韩国职业联赛",
         "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
         "season": "2026",
@@ -873,7 +873,10 @@
           "name": "仁川",
           "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_205c1d8b0ea3412495e9c0ecad1025ee",
@@ -4995,24 +4998,6 @@
         "ht_score": "-",
         "venue": "大田世界杯体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_892778dd1f58409cb4a5c9983f43a3fb",
-        "date": "2026-09-27",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "韩国职业联赛",
-        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
-        "season": "2026",
-        "home": {
-          "name": "江原",
-          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
-        },
-        "away": {
-          "name": "仁川",
-          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7660,13 +7645,13 @@
     }
   },
   "stats": {
-    "matches_completed": 179,
+    "matches_completed": 180,
     "total_goals": 440,
-    "avg_goals_per_match": 2.46,
+    "avg_goals_per_match": 2.44,
     "home_wins": 54,
-    "draws": 60,
+    "draws": 61,
     "away_wins": 65,
-    "home_win_pct": 30.2,
+    "home_win_pct": 30.0,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8476,7 +8461,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 12,
     "matches_current_season": 198,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/09/27"
+  "updated_at": "2026/09/28"
 }

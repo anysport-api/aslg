@@ -126,15 +126,15 @@
         "position": 1,
         "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
         "team": "Ferroviaria",
-        "played": 3,
+        "played": 4,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "losses": 0,
-        "goals_for": 7,
-        "goals_against": 5,
+        "goals_for": 8,
+        "goals_against": 6,
         "goal_difference": 2,
-        "points": 7,
-        "form": "WWD"
+        "points": 8,
+        "form": "DWWD"
       },
       {
         "position": 1,
@@ -182,15 +182,15 @@
         "position": 3,
         "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
         "team": "Brusque",
-        "played": 3,
+        "played": 4,
         "wins": 1,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 6,
-        "goals_against": 6,
+        "goals_for": 7,
+        "goals_against": 7,
         "goal_difference": 0,
-        "points": 4,
-        "form": "LDW"
+        "points": 5,
+        "form": "DLDW"
       },
       {
         "position": 3,
@@ -408,16 +408,16 @@
         "position": 1,
         "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
         "team": "费罗维亚里亚",
-        "played": 3,
+        "played": 4,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "losses": 0,
-        "goals_for": 7,
-        "goals_against": 5,
+        "goals_for": 8,
+        "goals_against": 6,
         "goal_difference": 2,
-        "points": 7,
-        "form": "WWD",
-        "form_label": "胜胜平"
+        "points": 8,
+        "form": "DWWD",
+        "form_label": "平胜胜平"
       },
       {
         "position": 1,
@@ -468,16 +468,16 @@
         "position": 3,
         "team_id": "ast_78b06997534745c381c37f6cf0ec31c1",
         "team": "布鲁斯克",
-        "played": 3,
+        "played": 4,
         "wins": 1,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 6,
-        "goals_against": 6,
+        "goals_for": 7,
+        "goals_against": 7,
         "goal_difference": 0,
-        "points": 4,
-        "form": "LDW",
-        "form_label": "负平胜"
+        "points": 5,
+        "form": "DLDW",
+        "form_label": "平负平胜"
       },
       {
         "position": 3,
@@ -879,7 +879,7 @@
         "match_id": "as_04656d02a0844410aa68ae7f672346e3",
         "date": "2026-09-27",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -891,7 +891,10 @@
           "name": "费罗维亚里亚",
           "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7bfc4b6c9a0046e6a4a2d763999bf7d6",
@@ -5351,24 +5354,6 @@
           "team_id": "ast_f7b6a6f2c7134fbf90ca34cf9899dda3"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_04656d02a0844410aa68ae7f672346e3",
-        "date": "2026-09-27",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "布鲁斯克",
-          "team_id": "ast_78b06997534745c381c37f6cf0ec31c1"
-        },
-        "away": {
-          "name": "费罗维亚里亚",
-          "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7325,13 +7310,13 @@
     }
   },
   "stats": {
-    "matches_completed": 205,
-    "total_goals": 465,
+    "matches_completed": 206,
+    "total_goals": 467,
     "avg_goals_per_match": 2.27,
     "home_wins": 95,
-    "draws": 56,
+    "draws": 57,
     "away_wins": 54,
-    "home_win_pct": 46.3,
+    "home_win_pct": 46.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7358,8 +7343,8 @@
     },
     "leader": {
       "team": "Ferroviaria",
-      "points": 7,
-      "played": 3
+      "points": 8,
+      "played": 4
     }
   },
   "coverage": {
@@ -7456,15 +7441,15 @@
             "position": 1,
             "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885",
             "team": "Ferroviaria",
-            "played": 3,
+            "played": 4,
             "wins": 2,
-            "draws": 1,
+            "draws": 2,
             "losses": 0,
-            "goals_for": 7,
-            "goals_against": 5,
+            "goals_for": 8,
+            "goals_against": 6,
             "goal_difference": 2,
-            "points": 7,
-            "form": "WWD"
+            "points": 8,
+            "form": "DWWD"
           },
           {
             "position": 1,
@@ -8129,7 +8114,7 @@
     "teams_all_time": 49,
     "standings_rows_current": 20,
     "matches_current_season": 214,
-    "upcoming_matches": 9
+    "upcoming_matches": 8
   },
-  "updated_at": "2026/09/27"
+  "updated_at": "2026/09/28"
 }
