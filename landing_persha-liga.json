@@ -292,6 +292,20 @@
       },
       {
         "position": 10,
+        "team_id": "ast_02c2906fb3d44ea28647a866d9323ead",
+        "team": "Kolos Kovalivka 2",
+        "played": 9,
+        "wins": 4,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 11,
+        "goals_against": 15,
+        "goal_difference": -4,
+        "points": 12,
+        "form": "WWLWL"
+      },
+      {
+        "position": 11,
         "team_id": "ast_027a6d3e34e94621be7cf6e56f525e0c",
         "team": "Lokomotyv Kyiv",
         "played": 9,
@@ -305,7 +319,7 @@
         "form": "WWWLL"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_dcf38a9aa8ec4d808521702edf4e920b",
         "team": "UCSA",
         "played": 9,
@@ -319,7 +333,7 @@
         "form": "DLWLL"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_850ad0b585934038bb65b9a8a9136660",
         "team": "Nyva Ternopil",
         "played": 9,
@@ -331,20 +345,6 @@
         "goal_difference": 0,
         "points": 10,
         "form": "DWLLD"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_02c2906fb3d44ea28647a866d9323ead",
-        "team": "Kolos Kovalivka 2",
-        "played": 8,
-        "wins": 3,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 8,
-        "goals_against": 15,
-        "goal_difference": -7,
-        "points": 9,
-        "form": "WLWLL"
       },
       {
         "position": 14,
@@ -364,15 +364,15 @@
         "position": 15,
         "team_id": "ast_557919d442cc44aeada729042883a610",
         "team": "Zhytomyr 2",
-        "played": 8,
+        "played": 9,
         "wins": 1,
         "draws": 3,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 11,
-        "goals_against": 14,
-        "goal_difference": -3,
+        "goals_against": 17,
+        "goal_difference": -6,
         "points": 6,
-        "form": "LWDLD"
+        "form": "LLWDL"
       },
       {
         "position": 16,
@@ -527,6 +527,21 @@
       },
       {
         "position": 10,
+        "team_id": "ast_02c2906fb3d44ea28647a866d9323ead",
+        "team": "科洛斯科瓦利夫卡2",
+        "played": 9,
+        "wins": 4,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 11,
+        "goals_against": 15,
+        "goal_difference": -4,
+        "points": 12,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
+      },
+      {
+        "position": 11,
         "team_id": "ast_027a6d3e34e94621be7cf6e56f525e0c",
         "team": "基辅火车头",
         "played": 9,
@@ -541,7 +556,7 @@
         "form_label": "胜胜胜负负"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_dcf38a9aa8ec4d808521702edf4e920b",
         "team": "UCSA",
         "played": 9,
@@ -556,7 +571,7 @@
         "form_label": "平负胜负负"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_850ad0b585934038bb65b9a8a9136660",
         "team": "尼瓦特尔诺皮尔",
         "played": 9,
@@ -569,21 +584,6 @@
         "points": 10,
         "form": "DWLLD",
         "form_label": "平胜负负平"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_02c2906fb3d44ea28647a866d9323ead",
-        "team": "科洛斯科瓦利夫卡2",
-        "played": 8,
-        "wins": 3,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 8,
-        "goals_against": 15,
-        "goal_difference": -7,
-        "points": 9,
-        "form": "WLWLL",
-        "form_label": "胜负胜负负"
       },
       {
         "position": 14,
@@ -604,16 +604,16 @@
         "position": 15,
         "team_id": "ast_557919d442cc44aeada729042883a610",
         "team": "日托米尔二队",
-        "played": 8,
+        "played": 9,
         "wins": 1,
         "draws": 3,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 11,
-        "goals_against": 14,
-        "goal_difference": -3,
+        "goals_against": 17,
+        "goal_difference": -6,
         "points": 6,
-        "form": "LWDLD",
-        "form_label": "负胜平负平"
+        "form": "LLWDL",
+        "form_label": "负负胜平负"
       },
       {
         "position": 16,
@@ -4017,7 +4017,7 @@
         "match_id": "as_bb12a380679944268636ecf26c6902b4",
         "date": "2026-09-28",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -4029,7 +4029,10 @@
           "name": "科洛斯科瓦利夫卡2",
           "team_id": "ast_02c2906fb3d44ea28647a866d9323ead"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a7158dd504264014b39808c5657bcd45",
@@ -6464,24 +6467,6 @@
         "away": {
           "name": "切尔尼戈夫",
           "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_bb12a380679944268636ecf26c6902b4",
-        "date": "2026-09-28",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "乌克兰甲级联赛",
-        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
-        "season": "2026/2027",
-        "home": {
-          "name": "日托米尔二队",
-          "team_id": "ast_557919d442cc44aeada729042883a610"
-        },
-        "away": {
-          "name": "科洛斯科瓦利夫卡2",
-          "team_id": "ast_02c2906fb3d44ea28647a866d9323ead"
         },
         "venue": ""
       }
@@ -9027,13 +9012,13 @@
     }
   },
   "stats": {
-    "matches_completed": 70,
-    "total_goals": 178,
-    "avg_goals_per_match": 2.54,
+    "matches_completed": 71,
+    "total_goals": 181,
+    "avg_goals_per_match": 2.55,
     "home_wins": 33,
     "draws": 20,
-    "away_wins": 17,
-    "home_win_pct": 47.1,
+    "away_wins": 18,
+    "home_win_pct": 46.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9852,7 +9837,7 @@
     "teams_all_time": 54,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/09/28"
+  "updated_at": "2026/09/29"
 }

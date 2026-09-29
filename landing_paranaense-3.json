@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
@@ -403,7 +403,7 @@
         "match_id": "as_ab081c84d09c43e9b59b40f1ca66d333",
         "date": "2026-09-26",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -415,7 +415,10 @@
           "name": "AA 伊瓜苏",
           "team_id": "ast_395e91a35e8141d99d74660991cba37f"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0ccbf41862b74081a44bc889f9130b43",
@@ -1701,13 +1704,13 @@
     }
   },
   "stats": {
-    "matches_completed": 41,
+    "matches_completed": 42,
     "total_goals": 96,
-    "avg_goals_per_match": 2.34,
+    "avg_goals_per_match": 2.29,
     "home_wins": 18,
-    "draws": 8,
+    "draws": 9,
     "away_wins": 15,
-    "home_win_pct": 43.9,
+    "home_win_pct": 42.9,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -2506,5 +2509,5 @@
     "matches_current_season": 42,
     "upcoming_matches": 0
   },
-  "updated_at": "2026/09/28"
+  "updated_at": "2026/09/29"
 }

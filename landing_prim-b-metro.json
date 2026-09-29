@@ -276,6 +276,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107",
+        "team": "Dock Sud",
+        "played": 37,
+        "wins": 11,
+        "draws": 14,
+        "losses": 12,
+        "goals_for": 40,
+        "goals_against": 39,
+        "goal_difference": 1,
+        "points": 47,
+        "form": "WDLLW"
+      },
+      {
+        "position": 12,
         "team_id": "ast_90283483c85748248d8cba8e8809099e",
         "team": "San Martin Burzaco",
         "played": 37,
@@ -287,20 +301,6 @@
         "goal_difference": -3,
         "points": 47,
         "form": "LWWDL"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107",
-        "team": "Dock Sud",
-        "played": 36,
-        "wins": 10,
-        "draws": 14,
-        "losses": 12,
-        "goals_for": 38,
-        "goals_against": 38,
-        "goal_difference": 0,
-        "points": 44,
-        "form": "DLLWW"
       },
       {
         "position": 13,
@@ -388,20 +388,6 @@
       },
       {
         "position": 19,
-        "team_id": "ast_94c46f2a84b643c283490c5be671966b",
-        "team": "Flandria",
-        "played": 36,
-        "wins": 10,
-        "draws": 8,
-        "losses": 18,
-        "goals_for": 32,
-        "goals_against": 45,
-        "goal_difference": -13,
-        "points": 38,
-        "form": "LWLWL"
-      },
-      {
-        "position": 20,
         "team_id": "ast_92fd0554e8604546830841a957cdb2a6",
         "team": "Brown Adrogue",
         "played": 37,
@@ -413,6 +399,20 @@
         "goal_difference": -13,
         "points": 38,
         "form": "WDLDD"
+      },
+      {
+        "position": 20,
+        "team_id": "ast_94c46f2a84b643c283490c5be671966b",
+        "team": "Flandria",
+        "played": 37,
+        "wins": 10,
+        "draws": 8,
+        "losses": 19,
+        "goals_for": 33,
+        "goals_against": 47,
+        "goal_difference": -14,
+        "points": 38,
+        "form": "LLWLW"
       },
       {
         "position": 21,
@@ -596,6 +596,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107",
+        "team": "多克苏德",
+        "played": 37,
+        "wins": 11,
+        "draws": 14,
+        "losses": 12,
+        "goals_for": 40,
+        "goals_against": 39,
+        "goal_difference": 1,
+        "points": 47,
+        "form": "WDLLW",
+        "form_label": "胜平负负胜"
+      },
+      {
+        "position": 12,
         "team_id": "ast_90283483c85748248d8cba8e8809099e",
         "team": "圣马丁布尔萨科",
         "played": 37,
@@ -608,21 +623,6 @@
         "points": 47,
         "form": "LWWDL",
         "form_label": "负胜胜平负"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107",
-        "team": "多克苏德",
-        "played": 36,
-        "wins": 10,
-        "draws": 14,
-        "losses": 12,
-        "goals_for": 38,
-        "goals_against": 38,
-        "goal_difference": 0,
-        "points": 44,
-        "form": "DLLWW",
-        "form_label": "平负负胜胜"
       },
       {
         "position": 13,
@@ -716,21 +716,6 @@
       },
       {
         "position": 19,
-        "team_id": "ast_94c46f2a84b643c283490c5be671966b",
-        "team": "弗兰德里亚",
-        "played": 36,
-        "wins": 10,
-        "draws": 8,
-        "losses": 18,
-        "goals_for": 32,
-        "goals_against": 45,
-        "goal_difference": -13,
-        "points": 38,
-        "form": "LWLWL",
-        "form_label": "负胜负胜负"
-      },
-      {
-        "position": 20,
         "team_id": "ast_92fd0554e8604546830841a957cdb2a6",
         "team": "布朗阿德罗格",
         "played": 37,
@@ -743,6 +728,21 @@
         "points": 38,
         "form": "WDLDD",
         "form_label": "胜平负平平"
+      },
+      {
+        "position": 20,
+        "team_id": "ast_94c46f2a84b643c283490c5be671966b",
+        "team": "弗兰德里亚",
+        "played": 37,
+        "wins": 10,
+        "draws": 8,
+        "losses": 19,
+        "goals_for": 33,
+        "goals_against": 47,
+        "goal_difference": -14,
+        "points": 38,
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 21,
@@ -1677,7 +1677,7 @@
         "match_id": "as_9d4d361f9c194336b62dd11e072431a6",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1689,13 +1689,15 @@
           "name": "弗兰德里亚",
           "team_id": "ast_94c46f2a84b643c283490c5be671966b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Alfredo Ramos stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6fe52af83da54b69b032308a28ba5489",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1713,7 +1715,7 @@
         "match_id": "as_afbf931b1f3f48bf8d9e6878901dc63f",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1725,13 +1727,15 @@
           "name": "布朗阿德罗格",
           "team_id": "ast_92fd0554e8604546830841a957cdb2a6"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Jose Manuel Moreno Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2591f9a880ec46759b7f32dfd33ba991",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1749,7 +1753,7 @@
         "match_id": "as_5b3b39d492a84151b8eefaa1fe50f1a6",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1761,13 +1765,15 @@
           "name": "阿尔梅尼奥体育",
           "team_id": "ast_09be9f0197a645d7b589767c46229648"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "移民体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c77d34a1f11e492fbe19f56d30d594d0",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1785,7 +1791,7 @@
         "match_id": "as_b55485dad6164fd687aee721fc5e9199",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1797,13 +1803,15 @@
           "name": "维拉·达尔米内",
           "team_id": "ast_3a901c42a3274d84af5707db36fb551a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Municipal de Pilar-Carlos Barraza",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b9331a70f6d64feaa30a2d970239a3e9",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1821,7 +1829,7 @@
         "match_id": "as_91519e1928644ca184a2931abcd95109",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1833,13 +1841,15 @@
           "name": "塔列雷斯（R.E）",
           "team_id": "ast_375f3c8b330c4f4ab0bc563dd39d694d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Republica de Italia Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_adda665aad61453ebbe62a729eb8f0db",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1851,13 +1861,15 @@
           "name": "伊图萨因戈",
           "team_id": "ast_19fe9e3461234602a926b4da9e44508a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Monumental de Villa Lynch",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_60ccbcb3720c470fade7c1980ca21286",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1875,7 +1887,7 @@
         "match_id": "as_9ebbe4829eac481cbc71289c7c905053",
         "date": "2026-09-28",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1887,7 +1899,10 @@
           "name": "多克苏德",
           "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e7e5a1c043a244339b028f100c0e8005",
@@ -1949,7 +1964,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "胡安·卡洛斯·布列瓦体育场",
         "status_label": "完场"
       },
       {
@@ -1970,7 +1985,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "胡里奥·温贝托·格罗多纳体育场",
         "status_label": "完场"
       },
       {
@@ -1991,7 +2006,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "洛伦索·阿兰迪亚体育场",
         "status_label": "完场"
       },
       {
@@ -2012,7 +2027,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Armenia Stadium",
         "status_label": "完场"
       },
       {
@@ -2033,7 +2048,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Ciudad de Laferrere Stadium",
         "status_label": "完场"
       },
       {
@@ -2054,7 +2069,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Estadio de Talleres de Remedios de Escalada",
         "status_label": "完场"
       },
       {
@@ -2075,7 +2090,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "Excursionistas Stadium",
         "status_label": "完场"
       },
       {
@@ -11300,8 +11315,8 @@
       {
         "match_id": "as_60ccbcb3720c470fade7c1980ca21286",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -11319,7 +11334,7 @@
         "match_id": "as_adda665aad61453ebbe62a729eb8f0db",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -11331,13 +11346,15 @@
           "name": "伊图萨因戈",
           "team_id": "ast_19fe9e3461234602a926b4da9e44508a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Monumental de Villa Lynch",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_91519e1928644ca184a2931abcd95109",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -11349,13 +11366,15 @@
           "name": "塔列雷斯（R.E）",
           "team_id": "ast_375f3c8b330c4f4ab0bc563dd39d694d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Republica de Italia Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b9331a70f6d64feaa30a2d970239a3e9",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -11373,7 +11392,7 @@
         "match_id": "as_b55485dad6164fd687aee721fc5e9199",
         "date": "2026-10-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -11385,13 +11404,15 @@
           "name": "维拉·达尔米内",
           "team_id": "ast_3a901c42a3274d84af5707db36fb551a"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Municipal de Pilar-Carlos Barraza",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c77d34a1f11e492fbe19f56d30d594d0",
         "date": "2026-10-03",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "18:00",
+        "status": "18:00",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -13926,12 +13947,12 @@
     }
   },
   "stats": {
-    "matches_completed": 406,
-    "total_goals": 800,
+    "matches_completed": 407,
+    "total_goals": 803,
     "avg_goals_per_match": 1.97,
     "home_wins": 150,
     "draws": 135,
-    "away_wins": 121,
+    "away_wins": 122,
     "home_win_pct": 36.9,
     "biggest_win": {
       "margin": 5,
@@ -14732,5 +14753,5 @@
     "matches_current_season": 462,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/28"
+  "updated_at": "2026/09/29"
 }

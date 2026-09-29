@@ -254,15 +254,15 @@
         "position": 8,
         "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01",
         "team": "Tacuarembo",
-        "played": 57,
+        "played": 58,
         "wins": 19,
-        "draws": 20,
+        "draws": 21,
         "losses": 18,
-        "goals_for": 54,
-        "goals_against": 57,
+        "goals_for": 56,
+        "goals_against": 59,
         "goal_difference": -3,
-        "points": 77,
-        "form": "DDLLL"
+        "points": 78,
+        "form": "DDDLL"
       },
       {
         "position": 9,
@@ -282,15 +282,15 @@
         "position": 10,
         "team_id": "ast_994afc4ff5174e1ba7c3946065465206",
         "team": "Paysandu FC",
-        "played": 25,
+        "played": 26,
         "wins": 8,
-        "draws": 4,
+        "draws": 5,
         "losses": 13,
-        "goals_for": 28,
-        "goals_against": 32,
+        "goals_for": 30,
+        "goals_against": 34,
         "goal_difference": -4,
-        "points": 28,
-        "form": "DLWWD"
+        "points": 29,
+        "form": "DDLWW"
       },
       {
         "position": 11,
@@ -458,16 +458,16 @@
         "position": 8,
         "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01",
         "team": "塔库阿伦博",
-        "played": 57,
+        "played": 58,
         "wins": 19,
-        "draws": 20,
+        "draws": 21,
         "losses": 18,
-        "goals_for": 54,
-        "goals_against": 57,
+        "goals_for": 56,
+        "goals_against": 59,
         "goal_difference": -3,
-        "points": 77,
-        "form": "DDLLL",
-        "form_label": "平平负负负"
+        "points": 78,
+        "form": "DDDLL",
+        "form_label": "平平平负负"
       },
       {
         "position": 9,
@@ -488,16 +488,16 @@
         "position": 10,
         "team_id": "ast_994afc4ff5174e1ba7c3946065465206",
         "team": "佩桑杜FC",
-        "played": 25,
+        "played": 26,
         "wins": 8,
-        "draws": 4,
+        "draws": 5,
         "losses": 13,
-        "goals_for": 28,
-        "goals_against": 32,
+        "goals_for": 30,
+        "goals_against": 34,
         "goal_difference": -4,
-        "points": 28,
-        "form": "DLWWD",
-        "form_label": "平负胜胜平"
+        "points": 29,
+        "form": "DDLWW",
+        "form_label": "平平负胜胜"
       },
       {
         "position": 11,
@@ -707,7 +707,7 @@
         "match_id": "as_2516059c477d495d97c3d5e241d6a67d",
         "date": "2026-09-28",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -719,7 +719,10 @@
           "name": "塔库阿伦博",
           "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c84e3ec401fe437c80c6171249d84e5f",
@@ -4670,24 +4673,6 @@
           "team_id": "ast_994afc4ff5174e1ba7c3946065465206"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_2516059c477d495d97c3d5e241d6a67d",
-        "date": "2026-09-28",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "乌拉圭乙级联赛",
-        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
-        "season": "2026",
-        "home": {
-          "name": "佩桑杜FC",
-          "team_id": "ast_994afc4ff5174e1ba7c3946065465206"
-        },
-        "away": {
-          "name": "塔库阿伦博",
-          "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8243,13 +8228,13 @@
     }
   },
   "stats": {
-    "matches_completed": 182,
-    "total_goals": 418,
-    "avg_goals_per_match": 2.3,
+    "matches_completed": 183,
+    "total_goals": 422,
+    "avg_goals_per_match": 2.31,
     "home_wins": 72,
-    "draws": 57,
+    "draws": 58,
     "away_wins": 53,
-    "home_win_pct": 39.6,
+    "home_win_pct": 39.3,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -9013,7 +8998,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 14,
     "matches_current_season": 190,
-    "upcoming_matches": 8
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/09/28"
+  "updated_at": "2026/09/29"
 }

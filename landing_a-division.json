@@ -170,15 +170,15 @@
         "position": 5,
         "team_id": "ast_5a5f960e819740d28effea618fd633d5",
         "team": "RTC",
-        "played": 17,
-        "wins": 7,
+        "played": 18,
+        "wins": 8,
         "draws": 4,
         "losses": 6,
-        "goals_for": 24,
-        "goals_against": 19,
-        "goal_difference": 5,
-        "points": 25,
-        "form": "WDWLL"
+        "goals_for": 29,
+        "goals_against": 20,
+        "goal_difference": 9,
+        "points": 28,
+        "form": "WWDWL"
       },
       {
         "position": 6,
@@ -226,15 +226,15 @@
         "position": 9,
         "team_id": "ast_9a579e849c254849a3f09eb681ddd49b",
         "team": "Tensung",
-        "played": 17,
+        "played": 18,
         "wins": 2,
         "draws": 2,
-        "losses": 13,
-        "goals_for": 13,
-        "goals_against": 48,
-        "goal_difference": -35,
+        "losses": 14,
+        "goals_for": 14,
+        "goals_against": 53,
+        "goal_difference": -39,
         "points": 8,
-        "form": "LLLLW"
+        "form": "LLLLL"
       },
       {
         "position": 10,
@@ -316,16 +316,16 @@
         "position": 5,
         "team_id": "ast_5a5f960e819740d28effea618fd633d5",
         "team": "RTC",
-        "played": 17,
-        "wins": 7,
+        "played": 18,
+        "wins": 8,
         "draws": 4,
         "losses": 6,
-        "goals_for": 24,
-        "goals_against": 19,
-        "goal_difference": 5,
-        "points": 25,
-        "form": "WDWLL",
-        "form_label": "胜平胜负负"
+        "goals_for": 29,
+        "goals_against": 20,
+        "goal_difference": 9,
+        "points": 28,
+        "form": "WWDWL",
+        "form_label": "胜胜平胜负"
       },
       {
         "position": 6,
@@ -376,16 +376,16 @@
         "position": 9,
         "team_id": "ast_9a579e849c254849a3f09eb681ddd49b",
         "team": "腾松",
-        "played": 17,
+        "played": 18,
         "wins": 2,
         "draws": 2,
-        "losses": 13,
-        "goals_for": 13,
-        "goals_against": 48,
-        "goal_difference": -35,
+        "losses": 14,
+        "goals_for": 14,
+        "goals_against": 53,
+        "goal_difference": -39,
         "points": 8,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 10,
@@ -525,7 +525,7 @@
         "match_id": "as_adda19a311154192a8a4456ba72b5756",
         "date": "2026-09-27",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "不丹甲级联赛",
         "league_id": "asl_9288d76794134f2f923fda6717934dc2",
         "season": "2026",
@@ -537,9 +537,10 @@
           "name": "乌金学院",
           "team_id": "ast_9b3a1d0c15f14a1dbddf20f689424837"
         },
-        "ht_score": "-",
+        "ht_score": "1-2",
+        "reg_score": "1-4",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_7e483dfcbec642aabb3ea6f77db53a1e",
@@ -2386,26 +2387,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f4f0d0c0375a46079023d38e4598abf9",
-        "date": "2026-09-28",
-        "time": "09:00",
-        "status": "Not Started",
-        "league": "不丹甲级联赛",
-        "league_id": "asl_9288d76794134f2f923fda6717934dc2",
-        "season": "2026",
-        "home": {
-          "name": "腾松",
-          "team_id": "ast_9a579e849c254849a3f09eb681ddd49b"
-        },
-        "away": {
-          "name": "RTC",
-          "team_id": "ast_5a5f960e819740d28effea618fd633d5"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
       }
     ]
   },
@@ -2775,13 +2756,13 @@
     }
   },
   "stats": {
-    "matches_completed": 84,
-    "total_goals": 305,
-    "avg_goals_per_match": 3.63,
+    "matches_completed": 85,
+    "total_goals": 310,
+    "avg_goals_per_match": 3.65,
     "home_wins": 30,
     "draws": 14,
-    "away_wins": 40,
-    "home_win_pct": 35.7,
+    "away_wins": 41,
+    "home_win_pct": 35.3,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -3541,7 +3522,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 5
+    "upcoming_matches": 4
   },
-  "updated_at": "2026/09/28"
+  "updated_at": "2026/09/29"
 }
