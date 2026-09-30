@@ -398,15 +398,15 @@
         "position": 10,
         "team_id": "ast_64f2a6bc2d35417c9629b859d251e63f",
         "team": "El Porvenir",
-        "played": 29,
+        "played": 30,
         "wins": 7,
         "draws": 15,
-        "losses": 7,
-        "goals_for": 23,
-        "goals_against": 27,
-        "goal_difference": -4,
+        "losses": 8,
+        "goals_for": 25,
+        "goals_against": 30,
+        "goal_difference": -5,
         "points": 36,
-        "form": "LWLWD"
+        "form": "LLWLW"
       },
       {
         "position": 11,
@@ -510,15 +510,15 @@
         "position": 14,
         "team_id": "ast_ce0f5dea6e3f444ebf3f2fb2d7a89943",
         "team": "Deportivo Muniz",
-        "played": 29,
-        "wins": 4,
+        "played": 30,
+        "wins": 5,
         "draws": 11,
         "losses": 14,
-        "goals_for": 17,
-        "goals_against": 33,
-        "goal_difference": -16,
-        "points": 23,
-        "form": "LDLLL"
+        "goals_for": 20,
+        "goals_against": 35,
+        "goal_difference": -15,
+        "points": 26,
+        "form": "WLDLL"
       }
     ],
     "zh": [
@@ -811,16 +811,16 @@
         "position": 10,
         "team_id": "ast_64f2a6bc2d35417c9629b859d251e63f",
         "team": "埃尔波尔维尼尔",
-        "played": 29,
+        "played": 30,
         "wins": 7,
         "draws": 15,
-        "losses": 7,
-        "goals_for": 23,
-        "goals_against": 27,
-        "goal_difference": -4,
+        "losses": 8,
+        "goals_for": 25,
+        "goals_against": 30,
+        "goal_difference": -5,
         "points": 36,
-        "form": "LWLWD",
-        "form_label": "负胜负胜平"
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 11,
@@ -931,16 +931,16 @@
         "position": 14,
         "team_id": "ast_ce0f5dea6e3f444ebf3f2fb2d7a89943",
         "team": "穆尼斯",
-        "played": 29,
-        "wins": 4,
+        "played": 30,
+        "wins": 5,
         "draws": 11,
         "losses": 14,
-        "goals_for": 17,
-        "goals_against": 33,
-        "goal_difference": -16,
-        "points": 23,
-        "form": "LDLLL",
-        "form_label": "负平负负负"
+        "goals_for": 20,
+        "goals_against": 35,
+        "goal_difference": -15,
+        "points": 26,
+        "form": "WLDLL",
+        "form_label": "胜负平负负"
       }
     ]
   },
@@ -1335,7 +1335,7 @@
         "match_id": "as_e96e0fa73d50452da7366fd82ba29a46",
         "date": "2026-10-04",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Not Started",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -1347,7 +1347,9 @@
           "name": "西班牙体育",
           "team_id": "ast_523dfb99c65645ef8c092cb9fc4f9a24"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_fc46c72eeb234f2ab6f3a08a3d4e9d53",
@@ -1497,7 +1499,7 @@
         "match_id": "as_3378f4f7b865478d9345112da574a72f",
         "date": "2026-09-29",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -1509,7 +1511,10 @@
           "name": "埃尔波尔维尼尔",
           "team_id": "ast_64f2a6bc2d35417c9629b859d251e63f"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7340e5e4c8114ae491fbf9bd64344990",
@@ -10704,7 +10709,7 @@
         "match_id": "as_e96e0fa73d50452da7366fd82ba29a46",
         "date": "2026-10-04",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Not Started",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -10716,7 +10721,9 @@
           "name": "西班牙体育",
           "team_id": "ast_523dfb99c65645ef8c092cb9fc4f9a24"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d2d296d4cc63446f8e23116304fc3cda",
@@ -10841,24 +10848,6 @@
         "away": {
           "name": "穆尼斯",
           "team_id": "ast_ce0f5dea6e3f444ebf3f2fb2d7a89943"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3378f4f7b865478d9345112da574a72f",
-        "date": "2026-09-29",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷C级联赛",
-        "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
-        "season": "2026",
-        "home": {
-          "name": "穆尼斯",
-          "team_id": "ast_ce0f5dea6e3f444ebf3f2fb2d7a89943"
-        },
-        "away": {
-          "name": "埃尔波尔维尼尔",
-          "team_id": "ast_64f2a6bc2d35417c9629b859d251e63f"
         },
         "venue": ""
       }
@@ -13714,13 +13703,13 @@
     }
   },
   "stats": {
-    "matches_completed": 419,
-    "total_goals": 789,
-    "avg_goals_per_match": 1.88,
-    "home_wins": 151,
+    "matches_completed": 420,
+    "total_goals": 794,
+    "avg_goals_per_match": 1.89,
+    "home_wins": 152,
     "draws": 149,
     "away_wins": 119,
-    "home_win_pct": 36.0,
+    "home_win_pct": 36.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14481,7 +14470,7 @@
     "teams_all_time": 46,
     "standings_rows_current": 28,
     "matches_current_season": 448,
-    "upcoming_matches": 29
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/09/29"
+  "updated_at": "2026/09/30"
 }

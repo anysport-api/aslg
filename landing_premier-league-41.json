@@ -2811,7 +2811,7 @@
         "match_id": "as_08a3aba40fda4fce9d8302344c24fe1a",
         "date": "2026-09-30",
         "time": "08:00",
-        "status": "08:00",
+        "status": "44",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2823,13 +2823,15 @@
           "name": "乌兰巴托足球俱乐部",
           "team_id": "ast_14044191df6f4d37b013d411d0fce4d7"
         },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
         "venue": ""
       },
       {
         "match_id": "as_edc5f5e2bbcc4d9197da18412f77e774",
         "date": "2026-09-30",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2841,7 +2843,10 @@
           "name": "猎人队",
           "team_id": "ast_396032a2439d443eaa1d5d288fe1fe67"
         },
-        "venue": ""
+        "ht_score": "0-3",
+        "reg_score": "2-4",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -4836,5 +4841,5 @@
     "matches_current_season": 99,
     "upcoming_matches": 20
   },
-  "updated_at": "2026/09/29"
+  "updated_at": "2026/09/30"
 }
