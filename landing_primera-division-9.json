@@ -350,18 +350,32 @@
         "position": 14,
         "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1",
         "team": "Cienciano",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 11,
-        "goals_against": 17,
+        "goals_for": 12,
+        "goals_against": 18,
         "goal_difference": -6,
-        "points": 7,
-        "form": "LWLLD"
+        "points": 8,
+        "form": "DLWLL"
       },
       {
         "position": 15,
+        "team_id": "ast_899b8096caa34d31b48adbd2313905d1",
+        "team": "Los Chankas",
+        "played": 10,
+        "wins": 2,
+        "draws": 2,
+        "losses": 6,
+        "goals_for": 11,
+        "goals_against": 24,
+        "goal_difference": -13,
+        "points": 8,
+        "form": "DLLLL"
+      },
+      {
+        "position": 16,
         "team_id": "ast_4e70c98b04ad4c61901f55e3249b90b7",
         "team": "Moquegua",
         "played": 10,
@@ -373,20 +387,6 @@
         "goal_difference": -10,
         "points": 7,
         "form": "LLLLW"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_899b8096caa34d31b48adbd2313905d1",
-        "team": "Los Chankas",
-        "played": 9,
-        "wins": 2,
-        "draws": 1,
-        "losses": 6,
-        "goals_for": 10,
-        "goals_against": 23,
-        "goal_difference": -13,
-        "points": 7,
-        "form": "LLLLL"
       },
       {
         "position": 17,
@@ -617,19 +617,34 @@
         "position": 14,
         "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1",
         "team": "西恩西亚诺",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 11,
-        "goals_against": 17,
+        "goals_for": 12,
+        "goals_against": 18,
         "goal_difference": -6,
-        "points": 7,
-        "form": "LWLLD",
-        "form_label": "负胜负负平"
+        "points": 8,
+        "form": "DLWLL",
+        "form_label": "平负胜负负"
       },
       {
         "position": 15,
+        "team_id": "ast_899b8096caa34d31b48adbd2313905d1",
+        "team": "昌卡斯",
+        "played": 10,
+        "wins": 2,
+        "draws": 2,
+        "losses": 6,
+        "goals_for": 11,
+        "goals_against": 24,
+        "goal_difference": -13,
+        "points": 8,
+        "form": "DLLLL",
+        "form_label": "平负负负负"
+      },
+      {
+        "position": 16,
         "team_id": "ast_4e70c98b04ad4c61901f55e3249b90b7",
         "team": "莫克圭",
         "played": 10,
@@ -642,21 +657,6 @@
         "points": 7,
         "form": "LLLLW",
         "form_label": "负负负负胜"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_899b8096caa34d31b48adbd2313905d1",
-        "team": "昌卡斯",
-        "played": 9,
-        "wins": 2,
-        "draws": 1,
-        "losses": 6,
-        "goals_for": 10,
-        "goals_against": 23,
-        "goal_difference": -13,
-        "points": 7,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
       },
       {
         "position": 17,
@@ -4337,7 +4337,7 @@
         "match_id": "as_b54debd731bc4bf8bea9e02ee091b099",
         "date": "2026-10-08",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4349,15 +4349,13 @@
           "name": "昌卡斯",
           "team_id": "ast_899b8096caa34d31b48adbd2313905d1"
         },
-        "ht_score": "-",
-        "venue": "Ambrosio Maco Arroyo",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2994b52c8bff44be856cddcad21251cf",
         "date": "2026-10-08",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4369,15 +4367,13 @@
           "name": "西恩西亚诺",
           "team_id": "ast_e7883f6034bb40afaf9766e897ffa1a1"
         },
-        "ht_score": "-",
-        "venue": "十一月二十五日体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ed3cd44147c04bc79120d9c03af26e8b",
         "date": "2026-09-30",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -4389,7 +4385,10 @@
           "name": "昌卡斯",
           "team_id": "ast_899b8096caa34d31b48adbd2313905d1"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9a056f3314d442f0b338e90c5332463c",
@@ -15938,13 +15937,13 @@
     }
   },
   "stats": {
-    "matches_completed": 242,
-    "total_goals": 674,
-    "avg_goals_per_match": 2.79,
+    "matches_completed": 243,
+    "total_goals": 676,
+    "avg_goals_per_match": 2.78,
     "home_wins": 128,
-    "draws": 57,
+    "draws": 58,
     "away_wins": 57,
-    "home_win_pct": 52.9,
+    "home_win_pct": 52.7,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -16751,5 +16750,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/09/30"
+  "updated_at": "2026/10/01"
 }

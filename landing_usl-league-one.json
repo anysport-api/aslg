@@ -120,6 +120,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
+        "team": "Spokane Velocity",
+        "played": 26,
+        "wins": 14,
+        "draws": 4,
+        "losses": 8,
+        "goals_for": 38,
+        "goals_against": 33,
+        "goal_difference": 5,
+        "points": 46,
+        "form": "WWDLD"
+      },
+      {
+        "position": 6,
         "team_id": "ast_87dc1679b3c94e458d1b280f97103850",
         "team": "Boise",
         "played": 28,
@@ -133,32 +147,18 @@
         "form": "LDDWW"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0",
         "team": "Chattanooga Red Wolves",
-        "played": 27,
+        "played": 28,
         "wins": 13,
         "draws": 4,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 47,
-        "goals_against": 39,
-        "goal_difference": 8,
+        "goals_against": 40,
+        "goal_difference": 7,
         "points": 43,
-        "form": "LDWDW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
-        "team": "Spokane Velocity",
-        "played": 25,
-        "wins": 13,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 37,
-        "goals_against": 33,
-        "goal_difference": 4,
-        "points": 43,
-        "form": "WDLDW"
+        "form": "LLDWD"
       },
       {
         "position": 8,
@@ -364,6 +364,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
+        "team": "斯波坎速度",
+        "played": 26,
+        "wins": 14,
+        "draws": 4,
+        "losses": 8,
+        "goals_for": 38,
+        "goals_against": 33,
+        "goal_difference": 5,
+        "points": 46,
+        "form": "WWDLD",
+        "form_label": "胜胜平负平"
+      },
+      {
+        "position": 6,
         "team_id": "ast_87dc1679b3c94e458d1b280f97103850",
         "team": "博伊西",
         "played": 28,
@@ -378,34 +393,19 @@
         "form_label": "负平平胜胜"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0",
         "team": "查塔努加红狼",
-        "played": 27,
+        "played": 28,
         "wins": 13,
         "draws": 4,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 47,
-        "goals_against": 39,
-        "goal_difference": 8,
+        "goals_against": 40,
+        "goal_difference": 7,
         "points": 43,
-        "form": "LDWDW",
-        "form_label": "负平胜平胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
-        "team": "斯波坎速度",
-        "played": 25,
-        "wins": 13,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 37,
-        "goals_against": 33,
-        "goal_difference": 4,
-        "points": 43,
-        "form": "WDLDW",
-        "form_label": "胜平负平胜"
+        "form": "LLDWD",
+        "form_label": "负负平胜平"
       },
       {
         "position": 8,
@@ -6946,26 +6946,6 @@
           "team_id": "ast_12d04645977a4126acb9fe34cddd5c66"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_e60fd4060dfc42dda8b44a5a3f4233e0",
-        "date": "2026-09-30",
-        "time": "23:00",
-        "status": "Int.",
-        "league": "美国USL联赛一",
-        "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
-        "home": {
-          "name": "查塔努加红狼",
-          "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0"
-        },
-        "away": {
-          "name": "斯波坎速度",
-          "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": "",
-        "status_label": "中断"
       }
     ]
   },
@@ -8716,7 +8696,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 17,
     "matches_current_season": 271,
-    "upcoming_matches": 39
+    "upcoming_matches": 38
   },
-  "updated_at": "2026/09/30"
+  "updated_at": "2026/10/01"
 }

@@ -72,15 +72,15 @@
         "position": 1,
         "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
         "team": "Cavalry",
-        "played": 23,
+        "played": 24,
         "wins": 16,
         "draws": 5,
-        "losses": 2,
-        "goals_for": 48,
-        "goals_against": 13,
-        "goal_difference": 35,
+        "losses": 3,
+        "goals_for": 50,
+        "goals_against": 16,
+        "goal_difference": 34,
         "points": 53,
-        "form": "WDWWW"
+        "form": "LWDWW"
       },
       {
         "position": 2,
@@ -100,15 +100,15 @@
         "position": 3,
         "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
         "team": "Atl. Ottawa",
-        "played": 24,
-        "wins": 11,
+        "played": 25,
+        "wins": 12,
         "draws": 4,
         "losses": 9,
-        "goals_for": 35,
-        "goals_against": 39,
-        "goal_difference": -4,
-        "points": 37,
-        "form": "WLLDW"
+        "goals_for": 38,
+        "goals_against": 41,
+        "goal_difference": -3,
+        "points": 40,
+        "form": "WWLLD"
       },
       {
         "position": 4,
@@ -186,16 +186,16 @@
         "position": 1,
         "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
         "team": "骑兵",
-        "played": 23,
+        "played": 24,
         "wins": 16,
         "draws": 5,
-        "losses": 2,
-        "goals_for": 48,
-        "goals_against": 13,
-        "goal_difference": 35,
+        "losses": 3,
+        "goals_for": 50,
+        "goals_against": 16,
+        "goal_difference": 34,
         "points": 53,
-        "form": "WDWWW",
-        "form_label": "胜平胜胜胜"
+        "form": "LWDWW",
+        "form_label": "负胜平胜胜"
       },
       {
         "position": 2,
@@ -216,16 +216,16 @@
         "position": 3,
         "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
         "team": "渥太华竞技",
-        "played": 24,
-        "wins": 11,
+        "played": 25,
+        "wins": 12,
         "draws": 4,
         "losses": 9,
-        "goals_for": 35,
-        "goals_against": 39,
-        "goal_difference": -4,
-        "points": 37,
-        "form": "WLLDW",
-        "form_label": "胜负负平胜"
+        "goals_for": 38,
+        "goals_against": 41,
+        "goal_difference": -3,
+        "points": 40,
+        "form": "WWLLD",
+        "form_label": "胜胜负负平"
       },
       {
         "position": 4,
@@ -655,7 +655,7 @@
         "match_id": "as_51b23b2e7c704ee69578542d5daef821",
         "date": "2026-09-30",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -667,7 +667,10 @@
           "name": "骑兵",
           "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1549ea54aaac4297959676de0be8d595",
@@ -2974,24 +2977,6 @@
           "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_51b23b2e7c704ee69578542d5daef821",
-        "date": "2026-09-30",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "渥太华竞技",
-          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
-        },
-        "away": {
-          "name": "骑兵",
-          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3972,13 +3957,13 @@
     }
   },
   "stats": {
-    "matches_completed": 94,
-    "total_goals": 285,
-    "avg_goals_per_match": 3.03,
-    "home_wins": 42,
+    "matches_completed": 95,
+    "total_goals": 290,
+    "avg_goals_per_match": 3.05,
+    "home_wins": 43,
     "draws": 23,
     "away_wins": 29,
-    "home_win_pct": 44.7,
+    "home_win_pct": 45.3,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -4006,7 +3991,7 @@
     "leader": {
       "team": "Cavalry",
       "points": 53,
-      "played": 23
+      "played": 24
     }
   },
   "coverage": {
@@ -4103,15 +4088,15 @@
             "position": 1,
             "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33",
             "team": "Cavalry",
-            "played": 23,
+            "played": 24,
             "wins": 16,
             "draws": 5,
-            "losses": 2,
-            "goals_for": 48,
-            "goals_against": 13,
-            "goal_difference": 35,
+            "losses": 3,
+            "goals_for": 50,
+            "goals_against": 16,
+            "goal_difference": 34,
             "points": 53,
-            "form": "WDWWW"
+            "form": "LWDWW"
           },
           {
             "position": 2,
@@ -4131,15 +4116,15 @@
             "position": 3,
             "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
             "team": "Atl. Ottawa",
-            "played": 24,
-            "wins": 11,
+            "played": 25,
+            "wins": 12,
             "draws": 4,
             "losses": 9,
-            "goals_for": 35,
-            "goals_against": 39,
-            "goal_difference": -4,
-            "points": 37,
-            "form": "WLLDW"
+            "goals_for": 38,
+            "goals_against": 41,
+            "goal_difference": -3,
+            "points": 40,
+            "form": "WWLLD"
           }
         ],
         "meta": {
@@ -4788,7 +4773,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 112,
-    "upcoming_matches": 18
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/09/30"
+  "updated_at": "2026/10/01"
 }

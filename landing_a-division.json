@@ -142,15 +142,15 @@
         "position": 3,
         "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
         "team": "Thimphu FC",
-        "played": 17,
+        "played": 18,
         "wins": 10,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 26,
-        "goals_against": 21,
+        "goals_for": 27,
+        "goals_against": 22,
         "goal_difference": 5,
-        "points": 31,
-        "form": "WWWWW"
+        "points": 32,
+        "form": "DWWWW"
       },
       {
         "position": 4,
@@ -198,15 +198,15 @@
         "position": 7,
         "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5",
         "team": "BFF Academy U19",
-        "played": 16,
+        "played": 17,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "losses": 7,
-        "goals_for": 28,
-        "goals_against": 38,
+        "goals_for": 29,
+        "goals_against": 39,
         "goal_difference": -10,
-        "points": 19,
-        "form": "LWLDW"
+        "points": 20,
+        "form": "DLWLD"
       },
       {
         "position": 8,
@@ -286,16 +286,16 @@
         "position": 3,
         "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
         "team": "廷布足球俱乐部",
-        "played": 17,
+        "played": 18,
         "wins": 10,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 26,
-        "goals_against": 21,
+        "goals_for": 27,
+        "goals_against": 22,
         "goal_difference": 5,
-        "points": 31,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "points": 32,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
       },
       {
         "position": 4,
@@ -346,16 +346,16 @@
         "position": 7,
         "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5",
         "team": "BFF学院U19",
-        "played": 16,
+        "played": 17,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "losses": 7,
-        "goals_for": 28,
-        "goals_against": 38,
+        "goals_for": 29,
+        "goals_against": 39,
         "goal_difference": -10,
-        "points": 19,
-        "form": "LWLDW",
-        "form_label": "负胜负平胜"
+        "points": 20,
+        "form": "DLWLD",
+        "form_label": "平负胜负平"
       },
       {
         "position": 8,
@@ -465,7 +465,7 @@
         "match_id": "as_ebf2a5b9c77641ee89d68f5264356fa1",
         "date": "2026-09-30",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "不丹甲级联赛",
         "league_id": "asl_9288d76794134f2f923fda6717934dc2",
         "season": "2026",
@@ -477,15 +477,16 @@
           "name": "廷布足球俱乐部",
           "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2"
         },
-        "ht_score": "-",
+        "ht_score": "0-0",
+        "reg_score": "1-1",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_04acd34b9f734a3eb7ddc18a866cf781",
         "date": "2026-09-29",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "不丹甲级联赛",
         "league_id": "asl_9288d76794134f2f923fda6717934dc2",
         "season": "2026",
@@ -497,9 +498,10 @@
           "name": "交通联",
           "team_id": "ast_86aa04e45fd74264978047b0132a98fa"
         },
-        "ht_score": "-",
+        "ht_score": "1-0",
+        "reg_score": "1-1",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_f4f0d0c0375a46079023d38e4598abf9",
@@ -2348,26 +2350,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ebf2a5b9c77641ee89d68f5264356fa1",
-        "date": "2026-09-30",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "不丹甲级联赛",
-        "league_id": "asl_9288d76794134f2f923fda6717934dc2",
-        "season": "2026",
-        "home": {
-          "name": "BFF学院U19",
-          "team_id": "ast_5db4d2cbaf384ec49e549e732fc36ef5"
-        },
-        "away": {
-          "name": "廷布足球俱乐部",
-          "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
       }
     ]
   },
@@ -2737,13 +2719,13 @@
     }
   },
   "stats": {
-    "matches_completed": 86,
-    "total_goals": 316,
-    "avg_goals_per_match": 3.67,
+    "matches_completed": 88,
+    "total_goals": 320,
+    "avg_goals_per_match": 3.64,
     "home_wins": 30,
-    "draws": 14,
+    "draws": 16,
     "away_wins": 42,
-    "home_win_pct": 34.9,
+    "home_win_pct": 34.1,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -2896,15 +2878,15 @@
             "position": 3,
             "team_id": "ast_64c473aedcdf43cba6da610d1310d5c2",
             "team": "Thimphu FC",
-            "played": 17,
+            "played": 18,
             "wins": 10,
-            "draws": 1,
+            "draws": 2,
             "losses": 6,
-            "goals_for": 26,
-            "goals_against": 21,
+            "goals_for": 27,
+            "goals_against": 22,
             "goal_difference": 5,
-            "points": 31,
-            "form": "WWWWW"
+            "points": 32,
+            "form": "DWWWW"
           }
         ],
         "meta": {
@@ -3503,7 +3485,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 3
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/09/30"
+  "updated_at": "2026/10/01"
 }
