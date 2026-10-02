@@ -6521,8 +6521,8 @@
       {
         "match_id": "as_a67048f9dfb04bf6bc7ed7baf56b0830",
         "date": "2026-10-04",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "17:00",
+        "status": "17:00",
         "league": "哥斯达黎加升班联赛",
         "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
         "season": "2026/2027",
@@ -6539,8 +6539,8 @@
       {
         "match_id": "as_0318cca3409f474e94d71f8cc855e827",
         "date": "2026-10-04",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "01:30",
+        "status": "01:30",
         "league": "哥斯达黎加升班联赛",
         "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
         "season": "2026/2027",
@@ -6555,28 +6555,10 @@
         "venue": ""
       },
       {
-        "match_id": "as_3489ad3583434fb0bdf2318488abc47d",
-        "date": "2026-10-04",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "哥斯达黎加升班联赛",
-        "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
-        "season": "2026/2027",
-        "home": {
-          "name": "德桑帕拉多斯顾问",
-          "team_id": "ast_6e552773d4314b279a29556847df673d"
-        },
-        "away": {
-          "name": "卡梅利塔",
-          "team_id": "ast_2404e91f7da14ae38e2ef6a76927c940"
-        },
-        "venue": ""
-      },
-      {
         "match_id": "as_31b60636b1a34673af84a37305bdacbc",
         "date": "2026-10-04",
         "time": "20:00",
-        "status": "20:00",
+        "status": "Not Started",
         "league": "哥斯达黎加升班联赛",
         "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
         "season": "2026/2027",
@@ -6588,13 +6570,15 @@
           "name": "凯波斯坎布特",
           "team_id": "ast_96fd94787c834016a0e7c7570a397497"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9a6841d9c3c546e88714164b784f5613",
         "date": "2026-10-04",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "17:00",
+        "status": "17:00",
         "league": "哥斯达黎加升班联赛",
         "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
         "season": "2026/2027",
@@ -6645,10 +6629,28 @@
         "venue": ""
       },
       {
+        "match_id": "as_3489ad3583434fb0bdf2318488abc47d",
+        "date": "2026-10-02",
+        "time": "20:00",
+        "status": "20:00",
+        "league": "哥斯达黎加升班联赛",
+        "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
+        "season": "2026/2027",
+        "home": {
+          "name": "德桑帕拉多斯顾问",
+          "team_id": "ast_6e552773d4314b279a29556847df673d"
+        },
+        "away": {
+          "name": "卡梅利塔",
+          "team_id": "ast_2404e91f7da14ae38e2ef6a76927c940"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_db0822822b624d07a28e4b4f3ed03f08",
-        "date": "2026-10-01",
-        "time": "19:00",
-        "status": "19:00",
+        "date": "2026-10-02",
+        "time": "01:00",
+        "status": "FT",
         "league": "哥斯达黎加升班联赛",
         "league_id": "asl_a401c703b7db444fa8ef215f190c30d3",
         "season": "2026/2027",
@@ -6660,7 +6662,10 @@
           "name": "圣安娜",
           "team_id": "ast_e1b98c42b252471ea8eca0332b26531c"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -9849,5 +9854,5 @@
     "matches_current_season": 251,
     "upcoming_matches": 36
   },
-  "updated_at": "2026/10/01"
+  "updated_at": "2026/10/02"
 }

@@ -188,9 +188,9 @@
         "wins": 16,
         "draws": 2,
         "losses": 6,
-        "goals_for": 43,
-        "goals_against": 25,
-        "goal_difference": 18,
+        "goals_for": 44,
+        "goals_against": 24,
+        "goal_difference": 20,
         "points": 50,
         "form": "WWWWW"
       },
@@ -294,17 +294,17 @@
       },
       {
         "position": 11,
-        "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a",
-        "team": "Hegelmann Litauen 2",
-        "played": 25,
+        "team_id": "ast_fafe3def811d43398c9253272e2cd4a2",
+        "team": "Garliava",
+        "played": 24,
         "wins": 7,
-        "draws": 1,
-        "losses": 17,
-        "goals_for": 30,
-        "goals_against": 56,
-        "goal_difference": -26,
-        "points": 22,
-        "form": "LLWLW"
+        "draws": 4,
+        "losses": 13,
+        "goals_for": 29,
+        "goals_against": 27,
+        "goal_difference": 2,
+        "points": 25,
+        "form": "LLLLL"
       },
       {
         "position": 12,
@@ -322,20 +322,6 @@
       },
       {
         "position": 13,
-        "team_id": "ast_fafe3def811d43398c9253272e2cd4a2",
-        "team": "Garliava",
-        "played": 24,
-        "wins": 6,
-        "draws": 4,
-        "losses": 14,
-        "goals_for": 27,
-        "goals_against": 30,
-        "goal_difference": -3,
-        "points": 22,
-        "form": "LLLLL"
-      },
-      {
-        "position": 14,
         "team_id": "ast_365789666536459587900ef670c6d2de",
         "team": "Transinvest 2",
         "played": 25,
@@ -347,6 +333,20 @@
         "goal_difference": -29,
         "points": 21,
         "form": "LWLLL"
+      },
+      {
+        "position": 14,
+        "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a",
+        "team": "Hegelmann Litauen 2",
+        "played": 25,
+        "wins": 6,
+        "draws": 1,
+        "losses": 18,
+        "goals_for": 26,
+        "goals_against": 59,
+        "goal_difference": -33,
+        "points": 19,
+        "form": "LLWLW"
       },
       {
         "position": 15,
@@ -416,9 +416,9 @@
         "wins": 16,
         "draws": 2,
         "losses": 6,
-        "goals_for": 43,
-        "goals_against": 25,
-        "goal_difference": 18,
+        "goals_for": 44,
+        "goals_against": 24,
+        "goal_difference": 20,
         "points": 50,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
@@ -530,18 +530,18 @@
       },
       {
         "position": 11,
-        "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a",
-        "team": "黑格尔曼立陶宛二队",
-        "played": 25,
+        "team_id": "ast_fafe3def811d43398c9253272e2cd4a2",
+        "team": "加尔利亚瓦",
+        "played": 24,
         "wins": 7,
-        "draws": 1,
-        "losses": 17,
-        "goals_for": 30,
-        "goals_against": 56,
-        "goal_difference": -26,
-        "points": 22,
-        "form": "LLWLW",
-        "form_label": "负负胜负胜"
+        "draws": 4,
+        "losses": 13,
+        "goals_for": 29,
+        "goals_against": 27,
+        "goal_difference": 2,
+        "points": 25,
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 12,
@@ -560,21 +560,6 @@
       },
       {
         "position": 13,
-        "team_id": "ast_fafe3def811d43398c9253272e2cd4a2",
-        "team": "加尔利亚瓦",
-        "played": 24,
-        "wins": 6,
-        "draws": 4,
-        "losses": 14,
-        "goals_for": 27,
-        "goals_against": 30,
-        "goal_difference": -3,
-        "points": 22,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
-      },
-      {
-        "position": 14,
         "team_id": "ast_365789666536459587900ef670c6d2de",
         "team": "转投资二队",
         "played": 25,
@@ -587,6 +572,21 @@
         "points": 21,
         "form": "LWLLL",
         "form_label": "负胜负负负"
+      },
+      {
+        "position": 14,
+        "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a",
+        "team": "黑格尔曼立陶宛二队",
+        "played": 25,
+        "wins": 6,
+        "draws": 1,
+        "losses": 18,
+        "goals_for": 26,
+        "goals_against": 59,
+        "goal_difference": -33,
+        "points": 19,
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 15,
@@ -1318,26 +1318,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_e0d5575400ed4c72adc73ccf20ad8f7a",
-        "date": "2026-10-11",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "绍乌利艾2",
-          "team_id": "ast_ce84688365954203860db764afd42af0"
-        },
-        "away": {
-          "name": "考纳扎尔吉里斯2",
-          "team_id": "ast_d798d59bb422480cb2c9b7232a7f9757"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_35b9d18322594cde92cfa200796f5112",
         "date": "2026-10-10",
         "time": "11:00",
@@ -1440,8 +1420,8 @@
       {
         "match_id": "as_227c394a96a840ab87d3f97e121fd784",
         "date": "2026-10-09",
-        "time": "15:30",
-        "status": "Not Started",
+        "time": "14:30",
+        "status": "14:30",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -1453,15 +1433,31 @@
           "name": "阿利图斯达伊纳瓦",
           "team_id": "ast_f613edee684d4d63b5d67b9fde81f625"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_e0d5575400ed4c72adc73ccf20ad8f7a",
+        "date": "2026-10-09",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "绍乌利艾2",
+          "team_id": "ast_ce84688365954203860db764afd42af0"
+        },
+        "away": {
+          "name": "考纳扎尔吉里斯2",
+          "team_id": "ast_d798d59bb422480cb2c9b7232a7f9757"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_7354620b318c4b918380fd2603e9d963",
         "date": "2026-10-02",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -1473,15 +1469,13 @@
           "name": "考纳扎尔吉里斯2",
           "team_id": "ast_d798d59bb422480cb2c9b7232a7f9757"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_83104f6fca50429db44d8c2305b8b73c",
         "date": "2026-10-02",
         "time": "16:30",
-        "status": "Not Started",
+        "status": "16:30",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -1493,9 +1487,7 @@
           "name": "阿利图斯达伊纳瓦",
           "team_id": "ast_f613edee684d4d63b5d67b9fde81f625"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3f0b510f9bc540b79262e6756b46e497",
@@ -5637,6 +5629,166 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_0100bf18271146658a1bedc4fe9a9631",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "扎尔吉里斯二队",
+          "team_id": "ast_dd87c790f4e74b058ff57aa938cd2326"
+        },
+        "away": {
+          "name": "BE1 NFA",
+          "team_id": "ast_17a76d93f8554dabb8d43e4e208f1610"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f12d9a8768a442ef9a6e64978fc4dcff",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "陶拉斯陶拉盖",
+          "team_id": "ast_bd0da098d8434191a233e96f992b4a7f"
+        },
+        "away": {
+          "name": "转投资二队",
+          "team_id": "ast_365789666536459587900ef670c6d2de"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d5c40f885e1c4f1a92b260536c9eeefc",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "内普图纳斯",
+          "team_id": "ast_e24ba1e6b2434937854c5e6966e3451c"
+        },
+        "away": {
+          "name": "阿利图斯达伊纳瓦",
+          "team_id": "ast_f613edee684d4d63b5d67b9fde81f625"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b6344a6289a04994a7084bab2e0d553f",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "约纳瓦",
+          "team_id": "ast_8ffdb94150da475ab42898b28e216669"
+        },
+        "away": {
+          "name": "黑格尔曼立陶宛二队",
+          "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9779d5a85cb64557ac9b069e1b2bdb79",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "米尼亚足球俱乐部",
+          "team_id": "ast_5419c7290c3540429d88c60449f8f538"
+        },
+        "away": {
+          "name": "加尔利亚瓦",
+          "team_id": "ast_fafe3def811d43398c9253272e2cd4a2"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_779339becb004cfa867d463abeb705d6",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "维尔纽斯BFA",
+          "team_id": "ast_8d12c8f384b14888b20a2a980b89057b"
+        },
+        "away": {
+          "name": "考纳扎尔吉里斯2",
+          "team_id": "ast_d798d59bb422480cb2c9b7232a7f9757"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2250d1b55c0741e5b2a0a35eee55ecc7",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "巴布伦加斯",
+          "team_id": "ast_75a55856788c41c9a07da395dab5123e"
+        },
+        "away": {
+          "name": "绍乌利艾2",
+          "team_id": "ast_ce84688365954203860db764afd42af0"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_06ec1a8244e443ebacd13f0afb484d6f",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "气氛",
+          "team_id": "ast_4d4222397dd540f28323c292020cfa78"
+        },
+        "away": {
+          "name": "埃克拉纳斯",
+          "team_id": "ast_87d376950874468688a6a6fa0b6fa424"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_f726b051d9f64c4d8267b15481bee400",
         "date": "2026-11-04",
         "time": "17:00",
@@ -6157,26 +6309,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_e0d5575400ed4c72adc73ccf20ad8f7a",
-        "date": "2026-10-11",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "绍乌利艾2",
-          "team_id": "ast_ce84688365954203860db764afd42af0"
-        },
-        "away": {
-          "name": "考纳扎尔吉里斯2",
-          "team_id": "ast_d798d59bb422480cb2c9b7232a7f9757"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_324218faaf264c2795000f7d76a6a1dc",
         "date": "2026-10-10",
         "time": "12:00",
@@ -6277,10 +6409,28 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_e0d5575400ed4c72adc73ccf20ad8f7a",
+        "date": "2026-10-09",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "绍乌利艾2",
+          "team_id": "ast_ce84688365954203860db764afd42af0"
+        },
+        "away": {
+          "name": "考纳扎尔吉里斯2",
+          "team_id": "ast_d798d59bb422480cb2c9b7232a7f9757"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_227c394a96a840ab87d3f97e121fd784",
         "date": "2026-10-09",
-        "time": "15:30",
-        "status": "Not Started",
+        "time": "14:30",
+        "status": "14:30",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -6292,15 +6442,13 @@
           "name": "阿利图斯达伊纳瓦",
           "team_id": "ast_f613edee684d4d63b5d67b9fde81f625"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_83104f6fca50429db44d8c2305b8b73c",
         "date": "2026-10-02",
         "time": "16:30",
-        "status": "Not Started",
+        "status": "16:30",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -6312,15 +6460,13 @@
           "name": "阿利图斯达伊纳瓦",
           "team_id": "ast_f613edee684d4d63b5d67b9fde81f625"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7354620b318c4b918380fd2603e9d963",
         "date": "2026-10-02",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -6332,9 +6478,7 @@
           "name": "考纳扎尔吉里斯2",
           "team_id": "ast_d798d59bb422480cb2c9b7232a7f9757"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -10397,9 +10541,9 @@
             "wins": 16,
             "draws": 2,
             "losses": 6,
-            "goals_for": 43,
-            "goals_against": 25,
-            "goal_difference": 18,
+            "goals_for": 44,
+            "goals_against": 24,
+            "goal_difference": 20,
             "points": 50,
             "form": "WWWWW"
           }
@@ -11001,7 +11145,7 @@
     "teams_all_time": 60,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 35
+    "upcoming_matches": 43
   },
-  "updated_at": "2026/09/22"
+  "updated_at": "2026/10/02"
 }

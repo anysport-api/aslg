@@ -178,6 +178,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
+        "team": "Luis Angel Firpo",
+        "played": 12,
+        "wins": 7,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 21,
+        "goals_against": 7,
+        "goal_difference": 14,
+        "points": 24,
+        "form": "WWDWL"
+      },
+      {
+        "position": 2,
         "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
         "team": "FAS",
         "played": 11,
@@ -191,7 +205,7 @@
         "form": "WWDWW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_632effbea9504a4895b736e294fbff3b",
         "team": "Metapan",
         "played": 12,
@@ -203,20 +217,6 @@
         "goal_difference": 7,
         "points": 23,
         "form": "WDWWL"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
-        "team": "Luis Angel Firpo",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 18,
-        "goals_against": 7,
-        "goal_difference": 11,
-        "points": 21,
-        "form": "WDWLW"
       },
       {
         "position": 4,
@@ -248,20 +248,6 @@
       },
       {
         "position": 6,
-        "team_id": "ast_46a6ff979b504d4bb9fef17561832858",
-        "team": "Municipal Limeno",
-        "played": 12,
-        "wins": 5,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 17,
-        "goals_against": 15,
-        "goal_difference": 2,
-        "points": 17,
-        "form": "LLWDW"
-      },
-      {
-        "position": 7,
         "team_id": "ast_53d4aef7488a461fb245ae55d1178d72",
         "team": "Aguila",
         "played": 13,
@@ -275,7 +261,35 @@
         "form": "WLWWD"
       },
       {
+        "position": 7,
+        "team_id": "ast_46a6ff979b504d4bb9fef17561832858",
+        "team": "Municipal Limeno",
+        "played": 13,
+        "wins": 5,
+        "draws": 2,
+        "losses": 6,
+        "goals_for": 18,
+        "goals_against": 17,
+        "goal_difference": 1,
+        "points": 17,
+        "form": "LLLWD"
+      },
+      {
         "position": 8,
+        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
+        "team": "Inca Aruba",
+        "played": 13,
+        "wins": 4,
+        "draws": 3,
+        "losses": 6,
+        "goals_for": 11,
+        "goals_against": 22,
+        "goal_difference": -11,
+        "points": 15,
+        "form": "WDWLW"
+      },
+      {
+        "position": 9,
         "team_id": "ast_1c88b3d537fc417f920ed25d00041d3c",
         "team": "Platense Municipal",
         "played": 13,
@@ -289,7 +303,7 @@
         "form": "LDLLL"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_a6e58fc50dbd424bb8da9bbef2b8c648",
         "team": "Atletico Balboa",
         "played": 13,
@@ -301,20 +315,6 @@
         "goal_difference": -6,
         "points": 13,
         "form": "LDLWL"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
-        "team": "Inca Aruba",
-        "played": 12,
-        "wins": 3,
-        "draws": 3,
-        "losses": 6,
-        "goals_for": 9,
-        "goals_against": 21,
-        "goal_difference": -12,
-        "points": 12,
-        "form": "DWLWW"
       },
       {
         "position": 11,
@@ -334,20 +334,35 @@
         "position": 12,
         "team_id": "ast_a22f732498a3448d8fa302992408de2c",
         "team": "Fuerte San Francisco",
-        "played": 12,
+        "played": 13,
         "wins": 1,
         "draws": 5,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 8,
-        "goals_against": 19,
-        "goal_difference": -11,
+        "goals_against": 22,
+        "goal_difference": -14,
         "points": 8,
-        "form": "DDLLL"
+        "form": "LDDLL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
+        "team": "路易斯·安赫尔·菲尔波",
+        "played": 12,
+        "wins": 7,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 21,
+        "goals_against": 7,
+        "goal_difference": 14,
+        "points": 24,
+        "form": "WWDWL",
+        "form_label": "胜胜平胜负"
+      },
+      {
+        "position": 2,
         "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
         "team": "FAS",
         "played": 11,
@@ -362,7 +377,7 @@
         "form_label": "胜胜平胜胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_632effbea9504a4895b736e294fbff3b",
         "team": "梅塔潘",
         "played": 12,
@@ -375,21 +390,6 @@
         "points": 23,
         "form": "WDWWL",
         "form_label": "胜平胜胜负"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
-        "team": "路易斯·安赫尔·菲尔波",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 18,
-        "goals_against": 7,
-        "goal_difference": 11,
-        "points": 21,
-        "form": "WDWLW",
-        "form_label": "胜平胜负胜"
       },
       {
         "position": 4,
@@ -423,21 +423,6 @@
       },
       {
         "position": 6,
-        "team_id": "ast_46a6ff979b504d4bb9fef17561832858",
-        "team": "利梅诺市立队",
-        "played": 12,
-        "wins": 5,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 17,
-        "goals_against": 15,
-        "goal_difference": 2,
-        "points": 17,
-        "form": "LLWDW",
-        "form_label": "负负胜平胜"
-      },
-      {
-        "position": 7,
         "team_id": "ast_53d4aef7488a461fb245ae55d1178d72",
         "team": "鹰队",
         "played": 13,
@@ -452,7 +437,37 @@
         "form_label": "胜负胜胜平"
       },
       {
+        "position": 7,
+        "team_id": "ast_46a6ff979b504d4bb9fef17561832858",
+        "team": "利梅诺市立队",
+        "played": 13,
+        "wins": 5,
+        "draws": 2,
+        "losses": 6,
+        "goals_for": 18,
+        "goals_against": 17,
+        "goal_difference": 1,
+        "points": 17,
+        "form": "LLLWD",
+        "form_label": "负负负胜平"
+      },
+      {
         "position": 8,
+        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
+        "team": "Inca Aruba",
+        "played": 13,
+        "wins": 4,
+        "draws": 3,
+        "losses": 6,
+        "goals_for": 11,
+        "goals_against": 22,
+        "goal_difference": -11,
+        "points": 15,
+        "form": "WDWLW",
+        "form_label": "胜平胜负胜"
+      },
+      {
+        "position": 9,
         "team_id": "ast_1c88b3d537fc417f920ed25d00041d3c",
         "team": "普拉滕塞市",
         "played": 13,
@@ -467,7 +482,7 @@
         "form_label": "负平负负负"
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "ast_a6e58fc50dbd424bb8da9bbef2b8c648",
         "team": "Atletico Balboa",
         "played": 13,
@@ -480,21 +495,6 @@
         "points": 13,
         "form": "LDLWL",
         "form_label": "负平负胜负"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
-        "team": "Inca Aruba",
-        "played": 12,
-        "wins": 3,
-        "draws": 3,
-        "losses": 6,
-        "goals_for": 9,
-        "goals_against": 21,
-        "goal_difference": -12,
-        "points": 12,
-        "form": "DWLWW",
-        "form_label": "平胜负胜胜"
       },
       {
         "position": 11,
@@ -515,16 +515,16 @@
         "position": 12,
         "team_id": "ast_a22f732498a3448d8fa302992408de2c",
         "team": "富尔特圣弗朗西斯科",
-        "played": 12,
+        "played": 13,
         "wins": 1,
         "draws": 5,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 8,
-        "goals_against": 19,
-        "goal_difference": -11,
+        "goals_against": 22,
+        "goal_difference": -14,
         "points": 8,
-        "form": "DDLLL",
-        "form_label": "平平负负负"
+        "form": "LDDLL",
+        "form_label": "负平平负负"
       }
     ]
   },
@@ -1469,7 +1469,7 @@
         "match_id": "as_8363ea8327924a58a3531b0214c7c3ca",
         "date": "2026-10-10",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1481,9 +1481,7 @@
           "name": "普拉滕塞市",
           "team_id": "ast_1c88b3d537fc417f920ed25d00041d3c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a7431aa723ba4330bbcf2b06e3cdb837",
@@ -1617,7 +1615,7 @@
         "match_id": "as_9c689573507f40019af746adf2c8b758",
         "date": "2026-10-02",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1629,7 +1627,10 @@
           "name": "利梅诺市立队",
           "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_53733e4c45ac4001b3e383ffba5dc82d",
@@ -1675,7 +1676,7 @@
         "match_id": "as_028883f1db934378ac996feb61e826ea",
         "date": "2026-10-01",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1687,7 +1688,10 @@
           "name": "路易斯·安赫尔·菲尔波",
           "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a0401dcc34954b34b07f947ed5c1a14f",
@@ -3242,6 +3246,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_c83dc5a2c2c84591874627c76267eb4b",
+        "date": "2026-11-16",
+        "time": "01:00",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "利梅诺市立队",
+          "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
+        },
+        "away": {
+          "name": "富尔特圣弗朗西斯科",
+          "team_id": "ast_a22f732498a3448d8fa302992408de2c"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_101df883c860430c954246058e00c2fd",
         "date": "2026-11-15",
         "time": "23:00",
@@ -4045,7 +4069,7 @@
         "match_id": "as_8363ea8327924a58a3531b0214c7c3ca",
         "date": "2026-10-10",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -4057,9 +4081,7 @@
           "name": "普拉滕塞市",
           "team_id": "ast_1c88b3d537fc417f920ed25d00041d3c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_62207ee896f44be8b369dfcd2f76af35",
@@ -4173,7 +4195,7 @@
         "match_id": "as_9c689573507f40019af746adf2c8b758",
         "date": "2026-10-02",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -4185,44 +4207,10 @@
           "name": "利梅诺市立队",
           "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_028883f1db934378ac996feb61e826ea",
-        "date": "2026-10-01",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "富尔特圣弗朗西斯科",
-          "team_id": "ast_a22f732498a3448d8fa302992408de2c"
-        },
-        "away": {
-          "name": "路易斯·安赫尔·菲尔波",
-          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a5b8d896779d414582d82e237a39b69c",
-        "date": "2026-10-01",
-        "time": "02:00",
-        "status": "Postp.",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "FAS",
-          "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac"
-        },
-        "away": {
-          "name": "梅塔潘",
-          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
-        },
+        "ht_score": "2-1",
+        "reg_score": "2-1",
         "venue": "",
-        "status_label": "延期"
+        "status_label": "完场"
       }
     ]
   },
@@ -8038,13 +8026,13 @@
     }
   },
   "stats": {
-    "matches_completed": 73,
-    "total_goals": 182,
-    "avg_goals_per_match": 2.49,
-    "home_wins": 31,
+    "matches_completed": 75,
+    "total_goals": 188,
+    "avg_goals_per_match": 2.51,
+    "home_wins": 32,
     "draws": 23,
-    "away_wins": 19,
-    "home_win_pct": 42.5,
+    "away_wins": 20,
+    "home_win_pct": 42.7,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -8070,9 +8058,9 @@
       }
     },
     "leader": {
-      "team": "FAS",
-      "points": 23,
-      "played": 11
+      "team": "Luis Angel Firpo",
+      "points": 24,
+      "played": 12
     }
   },
   "coverage": {
@@ -8167,6 +8155,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
+            "team": "Luis Angel Firpo",
+            "played": 12,
+            "wins": 7,
+            "draws": 3,
+            "losses": 2,
+            "goals_for": 21,
+            "goals_against": 7,
+            "goal_difference": 14,
+            "points": 24,
+            "form": "WWDWL"
+          },
+          {
+            "position": 2,
             "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
             "team": "FAS",
             "played": 11,
@@ -8180,7 +8182,7 @@
             "form": "WWDWW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_632effbea9504a4895b736e294fbff3b",
             "team": "Metapan",
             "played": 12,
@@ -8192,20 +8194,6 @@
             "goal_difference": 7,
             "points": 23,
             "form": "WDWWL"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
-            "team": "Luis Angel Firpo",
-            "played": 11,
-            "wins": 6,
-            "draws": 3,
-            "losses": 2,
-            "goals_for": 18,
-            "goals_against": 7,
-            "goal_difference": 11,
-            "points": 21,
-            "form": "WDWLW"
           }
         ],
         "meta": {
@@ -8833,7 +8821,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/10/01"
+  "updated_at": "2026/10/02"
 }
