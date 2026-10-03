@@ -200,7 +200,7 @@
       },
       {
         "position": 3,
-        "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
+        "team_id": "ast_161c07103220439cbbd04011482a2373",
         "team": "Independiente",
         "played": 16,
         "wins": 4,
@@ -375,7 +375,7 @@
       },
       {
         "position": 3,
-        "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
+        "team_id": "ast_161c07103220439cbbd04011482a2373",
         "team": "独立队",
         "played": 16,
         "wins": 4,
@@ -1061,7 +1061,7 @@
         "match_id": "as_d72454943fa34acd9ad32a0c0af1e22c",
         "date": "2026-10-10",
         "time": "01:30",
-        "status": "Not Started",
+        "status": "01:30",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1073,15 +1073,13 @@
           "name": "大学体育",
           "team_id": "ast_19d719a14c75434ba970985290a4c7da"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3ee3a56a43234a91b673c506dca8a728",
         "date": "2026-10-10",
         "time": "23:15",
-        "status": "Not Started",
+        "status": "23:15",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1093,9 +1091,7 @@
           "name": "维拉瓜斯",
           "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_662b910dce0b46928210bd6ce29ac405",
@@ -1112,6 +1108,24 @@
         "away": {
           "name": "科克莱联合",
           "team_id": "ast_8f2f22a37d36431399f865006017ad71"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_afab29dc5f584f74a6197b3326ffceca",
+        "date": "2026-10-04",
+        "time": "23:15",
+        "status": "23:15",
+        "league": "巴拿马甲级联赛",
+        "league_id": "asl_318de76388e247e58be658fa4480212b",
+        "season": "2026",
+        "home": {
+          "name": "独立队",
+          "team_id": "ast_161c07103220439cbbd04011482a2373"
+        },
+        "away": {
+          "name": "阿拉贝·乌尼多",
+          "team_id": "ast_9ae3544122d9455c9898040c46405306"
         },
         "venue": ""
       },
@@ -1152,8 +1166,29 @@
         "venue": ""
       },
       {
+        "match_id": "as_d43b5836212844ef89174a535e6b26d9",
+        "date": "2026-10-03",
+        "time": "01:30",
+        "status": "FT",
+        "league": "巴拿马甲级联赛",
+        "league_id": "asl_318de76388e247e58be658fa4480212b",
+        "season": "2026",
+        "home": {
+          "name": "旧金山",
+          "team_id": "ast_3aaea0dfe3664165b1b93b8cb75000e8"
+        },
+        "away": {
+          "name": "UMECIT",
+          "team_id": "ast_034de0be838449348a077f5c5c1f6799"
+        },
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
+      },
+      {
         "match_id": "as_bfef6908d95b4b558f747071d18c5944",
-        "date": "2026-10-04",
+        "date": "2026-10-03",
         "time": "23:15",
         "status": "23:15",
         "league": "巴拿马甲级联赛",
@@ -1166,42 +1201,6 @@
         "away": {
           "name": "陶罗",
           "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d43b5836212844ef89174a535e6b26d9",
-        "date": "2026-10-03",
-        "time": "01:30",
-        "status": "01:30",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "旧金山",
-          "team_id": "ast_3aaea0dfe3664165b1b93b8cb75000e8"
-        },
-        "away": {
-          "name": "UMECIT",
-          "team_id": "ast_034de0be838449348a077f5c5c1f6799"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_afab29dc5f584f74a6197b3326ffceca",
-        "date": "2026-10-03",
-        "time": "23:15",
-        "status": "23:15",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "独立队",
-          "team_id": "ast_161c07103220439cbbd04011482a2373"
-        },
-        "away": {
-          "name": "阿拉贝·乌尼多",
-          "team_id": "ast_9ae3544122d9455c9898040c46405306"
         },
         "venue": ""
       },
@@ -1223,7 +1222,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "Estadio Rommel Fernandez",
         "status_label": "完场"
       },
       {
@@ -5194,7 +5193,7 @@
         "match_id": "as_3ee3a56a43234a91b673c506dca8a728",
         "date": "2026-10-10",
         "time": "23:15",
-        "status": "Not Started",
+        "status": "23:15",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5206,15 +5205,13 @@
           "name": "维拉瓜斯",
           "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d72454943fa34acd9ad32a0c0af1e22c",
         "date": "2026-10-10",
         "time": "01:30",
-        "status": "Not Started",
+        "status": "01:30",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5226,9 +5223,7 @@
           "name": "大学体育",
           "team_id": "ast_19d719a14c75434ba970985290a4c7da"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_662b910dce0b46928210bd6ce29ac405",
@@ -5245,24 +5240,6 @@
         "away": {
           "name": "科克莱联合",
           "team_id": "ast_8f2f22a37d36431399f865006017ad71"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_bfef6908d95b4b558f747071d18c5944",
-        "date": "2026-10-04",
-        "time": "23:15",
-        "status": "23:15",
-        "league": "巴拿马甲级联赛",
-        "league_id": "asl_318de76388e247e58be658fa4480212b",
-        "season": "2026",
-        "home": {
-          "name": "维拉瓜斯",
-          "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
-        },
-        "away": {
-          "name": "陶罗",
-          "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
         },
         "venue": ""
       },
@@ -5304,7 +5281,7 @@
       },
       {
         "match_id": "as_afab29dc5f584f74a6197b3326ffceca",
-        "date": "2026-10-03",
+        "date": "2026-10-04",
         "time": "23:15",
         "status": "23:15",
         "league": "巴拿马甲级联赛",
@@ -5321,10 +5298,28 @@
         "venue": ""
       },
       {
+        "match_id": "as_bfef6908d95b4b558f747071d18c5944",
+        "date": "2026-10-03",
+        "time": "23:15",
+        "status": "23:15",
+        "league": "巴拿马甲级联赛",
+        "league_id": "asl_318de76388e247e58be658fa4480212b",
+        "season": "2026",
+        "home": {
+          "name": "维拉瓜斯",
+          "team_id": "ast_82fdf1d8bd9341838fcd1941c01a798f"
+        },
+        "away": {
+          "name": "陶罗",
+          "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_d43b5836212844ef89174a535e6b26d9",
         "date": "2026-10-03",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5336,7 +5331,10 @@
           "name": "UMECIT",
           "team_id": "ast_034de0be838449348a077f5c5c1f6799"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -6314,13 +6312,13 @@
     }
   },
   "stats": {
-    "matches_completed": 163,
-    "total_goals": 438,
-    "avg_goals_per_match": 2.69,
+    "matches_completed": 164,
+    "total_goals": 439,
+    "avg_goals_per_match": 2.68,
     "home_wins": 63,
     "draws": 58,
-    "away_wins": 42,
-    "home_win_pct": 38.7,
+    "away_wins": 43,
+    "home_win_pct": 38.4,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7120,5 +7118,5 @@
     "matches_current_season": 199,
     "upcoming_matches": 36
   },
-  "updated_at": "2026/10/01"
+  "updated_at": "2026/10/03"
 }

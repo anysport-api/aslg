@@ -114,15 +114,15 @@
         "position": 4,
         "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
         "team": "Linkoping W",
-        "played": 20,
+        "played": 21,
         "wins": 13,
         "draws": 3,
-        "losses": 4,
-        "goals_for": 38,
-        "goals_against": 26,
-        "goal_difference": 12,
+        "losses": 5,
+        "goals_for": 39,
+        "goals_against": 28,
+        "goal_difference": 11,
         "points": 42,
-        "form": "LWLWL"
+        "form": "LLWLW"
       },
       {
         "position": 5,
@@ -170,15 +170,15 @@
         "position": 8,
         "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3",
         "team": "Jitex W",
-        "played": 20,
-        "wins": 6,
+        "played": 21,
+        "wins": 7,
         "draws": 6,
         "losses": 8,
-        "goals_for": 26,
-        "goals_against": 29,
-        "goal_difference": -3,
-        "points": 24,
-        "form": "DWDLD"
+        "goals_for": 28,
+        "goals_against": 30,
+        "goal_difference": -2,
+        "points": 27,
+        "form": "WDWDL"
       },
       {
         "position": 9,
@@ -315,16 +315,16 @@
         "position": 4,
         "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
         "team": "林雪平女足",
-        "played": 20,
+        "played": 21,
         "wins": 13,
         "draws": 3,
-        "losses": 4,
-        "goals_for": 38,
-        "goals_against": 26,
-        "goal_difference": 12,
+        "losses": 5,
+        "goals_for": 39,
+        "goals_against": 28,
+        "goal_difference": 11,
         "points": 42,
-        "form": "LWLWL",
-        "form_label": "负胜负胜负"
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 5,
@@ -375,16 +375,16 @@
         "position": 8,
         "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3",
         "team": "吉特克斯女队",
-        "played": 20,
-        "wins": 6,
+        "played": 21,
+        "wins": 7,
         "draws": 6,
         "losses": 8,
-        "goals_for": 26,
-        "goals_against": 29,
-        "goal_difference": -3,
-        "points": 24,
-        "form": "DWDLD",
-        "form_label": "平胜平负平"
+        "goals_for": 28,
+        "goals_against": 30,
+        "goal_difference": -2,
+        "points": 27,
+        "form": "WDWDL",
+        "form_label": "胜平胜平负"
       },
       {
         "position": 9,
@@ -1307,7 +1307,7 @@
         "match_id": "as_bfa1b7908941481386f2b3792f15dc8f",
         "date": "2026-10-02",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -1319,7 +1319,10 @@
           "name": "林雪平女足",
           "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6736452e01bd497789cffcd57e280ef5",
@@ -5070,24 +5073,6 @@
           "team_id": "ast_8542813752c74bbaa789a73d7a8288f3"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_bfa1b7908941481386f2b3792f15dc8f",
-        "date": "2026-10-02",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "吉特克斯女队",
-          "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3"
-        },
-        "away": {
-          "name": "林雪平女足",
-          "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6552,13 +6537,13 @@
     }
   },
   "stats": {
-    "matches_completed": 140,
-    "total_goals": 413,
+    "matches_completed": 141,
+    "total_goals": 416,
     "avg_goals_per_match": 2.95,
-    "home_wins": 52,
+    "home_wins": 53,
     "draws": 32,
     "away_wins": 56,
-    "home_win_pct": 37.1,
+    "home_win_pct": 37.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7356,7 +7341,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 42
+    "upcoming_matches": 41
   },
-  "updated_at": "2026/10/02"
+  "updated_at": "2026/10/03"
 }

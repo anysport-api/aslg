@@ -150,14 +150,14 @@
         "position": 1,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "Real Cundinamarca",
-        "played": 10,
-        "wins": 6,
+        "played": 11,
+        "wins": 7,
         "draws": 2,
         "losses": 2,
-        "goals_for": 17,
-        "goals_against": 9,
-        "goal_difference": 8,
-        "points": 20,
+        "goals_for": 19,
+        "goals_against": 10,
+        "goal_difference": 9,
+        "points": 23,
         "form": "WWWWW"
       },
       {
@@ -231,20 +231,6 @@
       },
       {
         "position": 7,
-        "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8",
-        "team": "Atletico F.C.",
-        "played": 10,
-        "wins": 4,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 12,
-        "goals_against": 15,
-        "goal_difference": -3,
-        "points": 14,
-        "form": "LLWWW"
-      },
-      {
-        "position": 8,
         "team_id": "ast_8b69096d92134f75949482070152ad31",
         "team": "Inter Palmira",
         "played": 10,
@@ -256,6 +242,20 @@
         "goal_difference": -3,
         "points": 14,
         "form": "WWWLL"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8",
+        "team": "Atletico F.C.",
+        "played": 11,
+        "wins": 4,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 13,
+        "goals_against": 17,
+        "goal_difference": -4,
+        "points": 14,
+        "form": "LLLWW"
       },
       {
         "position": 9,
@@ -375,14 +375,14 @@
         "position": 1,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "皇家昆迪纳马卡",
-        "played": 10,
-        "wins": 6,
+        "played": 11,
+        "wins": 7,
         "draws": 2,
         "losses": 2,
-        "goals_for": 17,
-        "goals_against": 9,
-        "goal_difference": 8,
-        "points": 20,
+        "goals_for": 19,
+        "goals_against": 10,
+        "goal_difference": 9,
+        "points": 23,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
       },
@@ -462,21 +462,6 @@
       },
       {
         "position": 7,
-        "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8",
-        "team": "竞技F.C.",
-        "played": 10,
-        "wins": 4,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 12,
-        "goals_against": 15,
-        "goal_difference": -3,
-        "points": 14,
-        "form": "LLWWW",
-        "form_label": "负负胜胜胜"
-      },
-      {
-        "position": 8,
         "team_id": "ast_8b69096d92134f75949482070152ad31",
         "team": "国际帕尔米拉",
         "played": 10,
@@ -489,6 +474,21 @@
         "points": 14,
         "form": "WWWLL",
         "form_label": "胜胜胜负负"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8",
+        "team": "竞技F.C.",
+        "played": 11,
+        "wins": 4,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 13,
+        "goals_against": 17,
+        "goal_difference": -4,
+        "points": 14,
+        "form": "LLLWW",
+        "form_label": "负负负胜胜"
       },
       {
         "position": 9,
@@ -1409,7 +1409,7 @@
         "match_id": "as_de54067afcea412d8ea72fd55cf7e5c4",
         "date": "2026-10-02",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1421,7 +1421,10 @@
           "name": "皇家昆迪纳马卡",
           "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fdcaa74cc64c4c6294f9189ab043bae2",
@@ -1441,7 +1444,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "南部多功能体育场",
         "status_label": "完场"
       },
       {
@@ -6925,24 +6928,6 @@
           "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_de54067afcea412d8ea72fd55cf7e5c4",
-        "date": "2026-10-02",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "竞技F.C.",
-          "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
-        },
-        "away": {
-          "name": "皇家昆迪纳马卡",
-          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11507,13 +11492,13 @@
     }
   },
   "stats": {
-    "matches_completed": 225,
-    "total_goals": 496,
-    "avg_goals_per_match": 2.2,
+    "matches_completed": 226,
+    "total_goals": 499,
+    "avg_goals_per_match": 2.21,
     "home_wins": 85,
     "draws": 69,
-    "away_wins": 71,
-    "home_win_pct": 37.8,
+    "away_wins": 72,
+    "home_win_pct": 37.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11540,8 +11525,8 @@
     },
     "leader": {
       "team": "Real Cundinamarca",
-      "points": 20,
-      "played": 10
+      "points": 23,
+      "played": 11
     }
   },
   "coverage": {
@@ -11638,14 +11623,14 @@
             "position": 1,
             "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
             "team": "Real Cundinamarca",
-            "played": 10,
-            "wins": 6,
+            "played": 11,
+            "wins": 7,
             "draws": 2,
             "losses": 2,
-            "goals_for": 17,
-            "goals_against": 9,
-            "goal_difference": 8,
-            "points": 20,
+            "goals_for": 19,
+            "goals_against": 10,
+            "goal_difference": 9,
+            "points": 23,
             "form": "WWWWW"
           },
           {
@@ -12311,7 +12296,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 266,
-    "upcoming_matches": 41
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/10/02"
+  "updated_at": "2026/10/03"
 }

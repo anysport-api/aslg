@@ -166,6 +166,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
+        "team": "SC Poltava",
+        "played": 10,
+        "wins": 5,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 16,
+        "goals_against": 7,
+        "goal_difference": 9,
+        "points": 18,
+        "form": "WLWLD"
+      },
+      {
+        "position": 2,
         "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
         "team": "Viktoria",
         "played": 9,
@@ -179,7 +193,7 @@
         "form": "DLLDW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_0d939af663944f7892eb58c02a84d5d0",
         "team": "Kulikiv",
         "played": 9,
@@ -193,7 +207,7 @@
         "form": "WLWDW"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_e0f0f2d02a9447aeadc9d5d0142cac94",
         "team": "Oleksandriya",
         "played": 9,
@@ -205,20 +219,6 @@
         "goal_difference": 6,
         "points": 16,
         "form": "DLWDW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
-        "team": "SC Poltava",
-        "played": 9,
-        "wins": 4,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 13,
-        "goals_against": 5,
-        "goal_difference": 8,
-        "points": 15,
-        "form": "LWLDW"
       },
       {
         "position": 5,
@@ -350,15 +350,15 @@
         "position": 14,
         "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f",
         "team": "FC Chernihiv",
-        "played": 8,
+        "played": 9,
         "wins": 1,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 11,
-        "goal_difference": -3,
+        "losses": 4,
+        "goals_for": 10,
+        "goals_against": 14,
+        "goal_difference": -4,
         "points": 7,
-        "form": "LLWLD"
+        "form": "LLLWL"
       },
       {
         "position": 15,
@@ -392,6 +392,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
+        "team": "波尔塔瓦",
+        "played": 10,
+        "wins": 5,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 16,
+        "goals_against": 7,
+        "goal_difference": 9,
+        "points": 18,
+        "form": "WLWLD",
+        "form_label": "胜负胜负平"
+      },
+      {
+        "position": 2,
         "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
         "team": "维克托利亚",
         "played": 9,
@@ -406,7 +421,7 @@
         "form_label": "平负负平胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_0d939af663944f7892eb58c02a84d5d0",
         "team": "库利基夫",
         "played": 9,
@@ -421,7 +436,7 @@
         "form_label": "胜负胜平胜"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_e0f0f2d02a9447aeadc9d5d0142cac94",
         "team": "奥列克桑德里亚",
         "played": 9,
@@ -434,21 +449,6 @@
         "points": 16,
         "form": "DLWDW",
         "form_label": "平负胜平胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
-        "team": "波尔塔瓦",
-        "played": 9,
-        "wins": 4,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 13,
-        "goals_against": 5,
-        "goal_difference": 8,
-        "points": 15,
-        "form": "LWLDW",
-        "form_label": "负胜负平胜"
       },
       {
         "position": 5,
@@ -589,16 +589,16 @@
         "position": 14,
         "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f",
         "team": "切尔尼戈夫",
-        "played": 8,
+        "played": 9,
         "wins": 1,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 11,
-        "goal_difference": -3,
+        "losses": 4,
+        "goals_for": 10,
+        "goals_against": 14,
+        "goal_difference": -4,
         "points": 7,
-        "form": "LLWLD",
-        "form_label": "负负胜负平"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 15,
@@ -3813,7 +3813,7 @@
         "match_id": "as_02c5fcfa64b6486b935fb58afca9e886",
         "date": "2026-10-10",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3825,15 +3825,13 @@
           "name": "阿赫罗比兹涅斯沃洛奇斯克",
           "team_id": "ast_edaca8e52e8d4243871a93a209e69834"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_63e4151eb4ee4b00ad72ba9a784c7661",
         "date": "2026-10-10",
         "time": "10:30",
-        "status": "Not Started",
+        "status": "10:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3845,9 +3843,7 @@
           "name": "波尔塔瓦",
           "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_37b4d05ce378467cb6eca37f562946d9",
@@ -3979,7 +3975,7 @@
         "match_id": "as_cc4f44a80c1547d19453e0bb8b8366f1",
         "date": "2026-10-03",
         "time": "08:00",
-        "status": "08:00",
+        "status": "Delayed",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3991,13 +3987,14 @@
           "name": "因胡列茨",
           "team_id": "ast_13de837e325f45418b99e2a24bd815a2"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "推迟"
       },
       {
         "match_id": "as_b20b984408364e5bb5a02a1c7b83532b",
         "date": "2026-10-02",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -4009,7 +4006,10 @@
           "name": "切尔尼戈夫",
           "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_bb12a380679944268636ecf26c6902b4",
@@ -6428,7 +6428,7 @@
         "match_id": "as_63e4151eb4ee4b00ad72ba9a784c7661",
         "date": "2026-10-10",
         "time": "10:30",
-        "status": "Not Started",
+        "status": "10:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6440,15 +6440,13 @@
           "name": "波尔塔瓦",
           "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_02c5fcfa64b6486b935fb58afca9e886",
         "date": "2026-10-10",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6460,9 +6458,7 @@
           "name": "阿赫罗比兹涅斯沃洛奇斯克",
           "team_id": "ast_edaca8e52e8d4243871a93a209e69834"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_37b4d05ce378467cb6eca37f562946d9",
@@ -9042,13 +9038,13 @@
     }
   },
   "stats": {
-    "matches_completed": 71,
-    "total_goals": 181,
-    "avg_goals_per_match": 2.55,
-    "home_wins": 33,
+    "matches_completed": 72,
+    "total_goals": 186,
+    "avg_goals_per_match": 2.58,
+    "home_wins": 34,
     "draws": 20,
     "away_wins": 18,
-    "home_win_pct": 46.5,
+    "home_win_pct": 47.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9074,9 +9070,9 @@
       }
     },
     "leader": {
-      "team": "Viktoria",
-      "points": 17,
-      "played": 9
+      "team": "SC Poltava",
+      "points": 18,
+      "played": 10
     }
   },
   "coverage": {
@@ -9171,6 +9167,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
+            "team": "SC Poltava",
+            "played": 10,
+            "wins": 5,
+            "draws": 3,
+            "losses": 2,
+            "goals_for": 16,
+            "goals_against": 7,
+            "goal_difference": 9,
+            "points": 18,
+            "form": "WLWLD"
+          },
+          {
+            "position": 2,
             "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
             "team": "Viktoria",
             "played": 9,
@@ -9184,7 +9194,7 @@
             "form": "DLLDW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_0d939af663944f7892eb58c02a84d5d0",
             "team": "Kulikiv",
             "played": 9,
@@ -9196,20 +9206,6 @@
             "goal_difference": 10,
             "points": 17,
             "form": "WLWDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_e0f0f2d02a9447aeadc9d5d0142cac94",
-            "team": "Oleksandriya",
-            "played": 9,
-            "wins": 4,
-            "draws": 4,
-            "losses": 1,
-            "goals_for": 13,
-            "goals_against": 7,
-            "goal_difference": 6,
-            "points": 16,
-            "form": "DLWDW"
           }
         ],
         "meta": {
@@ -9869,5 +9865,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/02"
+  "updated_at": "2026/10/03"
 }

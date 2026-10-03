@@ -258,31 +258,31 @@
       },
       {
         "position": 8,
-        "team_id": "ast_5c995ec2350948f08732d55b65c93847",
-        "team": "Egersund",
-        "played": 23,
-        "wins": 8,
-        "draws": 5,
-        "losses": 10,
-        "goals_for": 36,
-        "goals_against": 44,
-        "goal_difference": -8,
-        "points": 29,
-        "form": "LDDDL"
+        "team_id": "ast_d7210c7381b8462c9d531a6ac47225eb",
+        "team": "Ranheim",
+        "played": 24,
+        "wins": 9,
+        "draws": 4,
+        "losses": 11,
+        "goals_for": 61,
+        "goals_against": 58,
+        "goal_difference": 3,
+        "points": 31,
+        "form": "WWDDL"
       },
       {
         "position": 9,
-        "team_id": "ast_d7210c7381b8462c9d531a6ac47225eb",
-        "team": "Ranheim",
-        "played": 23,
+        "team_id": "ast_5c995ec2350948f08732d55b65c93847",
+        "team": "Egersund",
+        "played": 24,
         "wins": 8,
-        "draws": 4,
+        "draws": 5,
         "losses": 11,
-        "goals_for": 56,
-        "goals_against": 58,
-        "goal_difference": -2,
-        "points": 28,
-        "form": "WDDLL"
+        "goals_for": 36,
+        "goals_against": 49,
+        "goal_difference": -13,
+        "points": 29,
+        "form": "LLDDD"
       },
       {
         "position": 10,
@@ -491,33 +491,33 @@
       },
       {
         "position": 8,
-        "team_id": "ast_5c995ec2350948f08732d55b65c93847",
-        "team": "埃格尔松德",
-        "played": 23,
-        "wins": 8,
-        "draws": 5,
-        "losses": 10,
-        "goals_for": 36,
-        "goals_against": 44,
-        "goal_difference": -8,
-        "points": 29,
-        "form": "LDDDL",
-        "form_label": "负平平平负"
+        "team_id": "ast_d7210c7381b8462c9d531a6ac47225eb",
+        "team": "兰海姆",
+        "played": 24,
+        "wins": 9,
+        "draws": 4,
+        "losses": 11,
+        "goals_for": 61,
+        "goals_against": 58,
+        "goal_difference": 3,
+        "points": 31,
+        "form": "WWDDL",
+        "form_label": "胜胜平平负"
       },
       {
         "position": 9,
-        "team_id": "ast_d7210c7381b8462c9d531a6ac47225eb",
-        "team": "兰海姆",
-        "played": 23,
+        "team_id": "ast_5c995ec2350948f08732d55b65c93847",
+        "team": "埃格尔松德",
+        "played": 24,
         "wins": 8,
-        "draws": 4,
+        "draws": 5,
         "losses": 11,
-        "goals_for": 56,
-        "goals_against": 58,
-        "goal_difference": -2,
-        "points": 28,
-        "form": "WDDLL",
-        "form_label": "胜平平负负"
+        "goals_for": 36,
+        "goals_against": 49,
+        "goal_difference": -13,
+        "points": 29,
+        "form": "LLDDD",
+        "form_label": "负负平平平"
       },
       {
         "position": 10,
@@ -1735,7 +1735,7 @@
         "match_id": "as_db3c599ae69043e0bf9ff65e44781a01",
         "date": "2026-10-02",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "挪威甲级联赛",
         "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
         "season": "2026",
@@ -1747,7 +1747,10 @@
           "name": "埃格尔松德",
           "team_id": "ast_5c995ec2350948f08732d55b65c93847"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "5-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d3d1b785cc074f9ba9f8bd113ae2c064",
@@ -8500,13 +8503,13 @@
     }
   },
   "stats": {
-    "matches_completed": 184,
-    "total_goals": 708,
+    "matches_completed": 185,
+    "total_goals": 713,
     "avg_goals_per_match": 3.85,
-    "home_wins": 91,
+    "home_wins": 92,
     "draws": 31,
     "away_wins": 62,
-    "home_win_pct": 49.5,
+    "home_win_pct": 49.7,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -9306,5 +9309,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/02"
+  "updated_at": "2026/10/03"
 }

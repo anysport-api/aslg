@@ -174,6 +174,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_f7a9559f489d49a990829229b659d955",
+        "team": "Dep. Cali",
+        "played": 12,
+        "wins": 7,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 20,
+        "goals_against": 9,
+        "goal_difference": 11,
+        "points": 24,
+        "form": "WWWWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_456335a042874375864b6bbe473786d2",
         "team": "Atl. Nacional",
         "played": 10,
@@ -185,20 +199,6 @@
         "goal_difference": 11,
         "points": 22,
         "form": "WDLWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_f7a9559f489d49a990829229b659d955",
-        "team": "Dep. Cali",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 17,
-        "goals_against": 8,
-        "goal_difference": 9,
-        "points": 21,
-        "form": "WWWWD"
       },
       {
         "position": 4,
@@ -358,15 +358,15 @@
         "position": 15,
         "team_id": "ast_322f705023214effa5adf4d96e5a6142",
         "team": "Alianza",
-        "played": 11,
+        "played": 12,
         "wins": 3,
         "draws": 2,
-        "losses": 6,
-        "goals_for": 11,
-        "goals_against": 21,
-        "goal_difference": -10,
+        "losses": 7,
+        "goals_for": 12,
+        "goals_against": 24,
+        "goal_difference": -12,
         "points": 11,
-        "form": "WLWWL"
+        "form": "LWLWW"
       },
       {
         "position": 16,
@@ -457,6 +457,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_f7a9559f489d49a990829229b659d955",
+        "team": "卡利体育",
+        "played": 12,
+        "wins": 7,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 20,
+        "goals_against": 9,
+        "goal_difference": 11,
+        "points": 24,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_456335a042874375864b6bbe473786d2",
         "team": "国民竞技",
         "played": 10,
@@ -469,21 +484,6 @@
         "points": 22,
         "form": "WDLWW",
         "form_label": "胜平负胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_f7a9559f489d49a990829229b659d955",
-        "team": "卡利体育",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 17,
-        "goals_against": 8,
-        "goal_difference": 9,
-        "points": 21,
-        "form": "WWWWD",
-        "form_label": "胜胜胜胜平"
       },
       {
         "position": 4,
@@ -654,16 +654,16 @@
         "position": 15,
         "team_id": "ast_322f705023214effa5adf4d96e5a6142",
         "team": "阿利安萨",
-        "played": 11,
+        "played": 12,
         "wins": 3,
         "draws": 2,
-        "losses": 6,
-        "goals_for": 11,
-        "goals_against": 21,
-        "goal_difference": -10,
+        "losses": 7,
+        "goals_for": 12,
+        "goals_against": 24,
+        "goal_difference": -12,
         "points": 11,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
+        "form": "LWLWW",
+        "form_label": "负胜负胜胜"
       },
       {
         "position": 16,
@@ -4529,7 +4529,7 @@
         "match_id": "as_61091672d1424f0c84de51f048c65c2c",
         "date": "2026-10-10",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Not Started",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4541,13 +4541,15 @@
           "name": "阿圭拉斯",
           "team_id": "ast_73af39088e1c4b949951c57177e7ab61"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "阿曼多·马埃斯特雷·帕瓦霍体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_42a625a0600243d09415e3fd6b41de93",
         "date": "2026-10-10",
         "time": "23:10",
-        "status": "Not Started",
+        "status": "23:10",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4559,15 +4561,13 @@
           "name": "国际波哥大",
           "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_02706093a8ae42fe9a3a142a4628b582",
         "date": "2026-10-10",
-        "time": "21:00",
-        "status": "Not Started",
+        "time": "01:10",
+        "status": "01:10",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4579,9 +4579,7 @@
           "name": "兰内罗斯",
           "team_id": "ast_9deb16c39d3047e5ad23faf51ca6303a"
         },
-        "ht_score": "-",
-        "venue": "帕洛格兰德体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8a5e787bec584a9eadf9995b5d31f699",
@@ -4731,7 +4729,7 @@
         "match_id": "as_1475856507ca4095b00a3e7dec324543",
         "date": "2026-10-03",
         "time": "00:45",
-        "status": "00:45",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4743,7 +4741,10 @@
           "name": "阿利安萨",
           "team_id": "ast_322f705023214effa5adf4d96e5a6142"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6fe794f0d3394e5d84c63d87bc286500",
@@ -4821,7 +4822,7 @@
         },
         "ht_score": "1-2",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "阿塔纳西奥·吉拉多特体育场",
         "status_label": "完场"
       },
       {
@@ -14432,13 +14433,13 @@
     }
   },
   "stats": {
-    "matches_completed": 312,
-    "total_goals": 804,
+    "matches_completed": 313,
+    "total_goals": 808,
     "avg_goals_per_match": 2.58,
-    "home_wins": 142,
+    "home_wins": 143,
     "draws": 95,
     "away_wins": 75,
-    "home_win_pct": 45.5,
+    "home_win_pct": 45.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14582,6 +14583,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_f7a9559f489d49a990829229b659d955",
+            "team": "Dep. Cali",
+            "played": 12,
+            "wins": 7,
+            "draws": 3,
+            "losses": 2,
+            "goals_for": 20,
+            "goals_against": 9,
+            "goal_difference": 11,
+            "points": 24,
+            "form": "WWWWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_456335a042874375864b6bbe473786d2",
             "team": "Atl. Nacional",
             "played": 10,
@@ -14593,20 +14608,6 @@
             "goal_difference": 11,
             "points": 22,
             "form": "WDLWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_f7a9559f489d49a990829229b659d955",
-            "team": "Dep. Cali",
-            "played": 11,
-            "wins": 6,
-            "draws": 3,
-            "losses": 2,
-            "goals_for": 17,
-            "goals_against": 8,
-            "goal_difference": 9,
-            "points": 21,
-            "form": "WWWWD"
           }
         ],
         "meta": {
@@ -15242,5 +15243,5 @@
     "matches_current_season": 394,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/02"
+  "updated_at": "2026/10/03"
 }

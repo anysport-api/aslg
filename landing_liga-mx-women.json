@@ -8455,7 +8455,7 @@
         "match_id": "as_e8adf66228bc4b5aab6aa3a1ded17795",
         "date": "2026-10-03",
         "time": "03:00",
-        "status": "03:00",
+        "status": "FT",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8467,13 +8467,16 @@
           "name": "美洲俱乐部女足",
           "team_id": "ast_d461e699f9c44085b35bee7659c87e04"
         },
-        "venue": ""
+        "ht_score": "1-3",
+        "reg_score": "4-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_297acdff7e894707acd7a1388893d2b7",
         "date": "2026-10-03",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥女子甲级联赛",
         "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
         "season": "2026/2027",
@@ -8485,25 +8488,10 @@
           "name": "老虎队UANL女足",
           "team_id": "ast_e6ebd9b6e7fa47188efe63f35778990d"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a2b2981abe264460b88ecac3894699fa",
-        "date": "2026-10-02",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "墨西哥女子甲级联赛",
-        "league_id": "asl_294314c6e2ae485eae2dd4760a529639",
-        "season": "2026/2027",
-        "home": {
-          "name": "桑托斯拉古纳女足",
-          "team_id": "ast_a5e272bfb35e48b0a3dda5cee69afa95"
-        },
-        "away": {
-          "name": "普埃布拉女足",
-          "team_id": "ast_1160569773f04eacb53ca8b810d79c63"
-        },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -9944,7 +9932,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 18,
     "matches_current_season": 334,
-    "upcoming_matches": 45
+    "upcoming_matches": 44
   },
-  "updated_at": "2026/10/02"
+  "updated_at": "2026/10/03"
 }
