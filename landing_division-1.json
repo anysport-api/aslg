@@ -154,6 +154,34 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b",
+        "team": "Slutsk",
+        "played": 27,
+        "wins": 17,
+        "draws": 6,
+        "losses": 4,
+        "goals_for": 56,
+        "goals_against": 28,
+        "goal_difference": 28,
+        "points": 57,
+        "form": "WWWWD"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60",
+        "team": "Niva Dolbizno",
+        "played": 27,
+        "wins": 17,
+        "draws": 4,
+        "losses": 6,
+        "goals_for": 67,
+        "goals_against": 31,
+        "goal_difference": 36,
+        "points": 55,
+        "form": "DWLWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_d3d1272e87ea45948d5a88a6315556b9",
         "team": "Lida",
         "played": 27,
@@ -167,88 +195,60 @@
         "form": "WWLWW"
       },
       {
-        "position": 2,
-        "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b",
-        "team": "Slutsk",
-        "played": 26,
-        "wins": 16,
-        "draws": 6,
-        "losses": 4,
-        "goals_for": 52,
-        "goals_against": 27,
-        "goal_difference": 25,
-        "points": 54,
-        "form": "WWWDW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60",
-        "team": "Niva Dolbizno",
-        "played": 26,
-        "wins": 17,
-        "draws": 3,
-        "losses": 6,
-        "goals_for": 67,
-        "goals_against": 31,
-        "goal_difference": 36,
-        "points": 54,
-        "form": "WLWWW"
-      },
-      {
         "position": 4,
         "team_id": "ast_74cb1364e9284437839dcb944b1bdc68",
         "team": "SKA-1938",
-        "played": 26,
-        "wins": 15,
+        "played": 27,
+        "wins": 16,
         "draws": 5,
         "losses": 6,
-        "goals_for": 53,
+        "goals_for": 56,
         "goals_against": 31,
-        "goal_difference": 22,
-        "points": 50,
-        "form": "WWLWW"
+        "goal_difference": 25,
+        "points": 53,
+        "form": "WWWLW"
       },
       {
         "position": 5,
         "team_id": "ast_af20ab1d27eb45d6b2f5cf1dbb5b8821",
         "team": "FC Slonim",
-        "played": 26,
+        "played": 27,
         "wins": 14,
-        "draws": 4,
+        "draws": 5,
         "losses": 8,
-        "goals_for": 48,
-        "goals_against": 31,
+        "goals_for": 49,
+        "goals_against": 32,
         "goal_difference": 17,
-        "points": 46,
-        "form": "WWDWL"
+        "points": 47,
+        "form": "DWWDW"
       },
       {
         "position": 6,
         "team_id": "ast_52ad7436d837435dabc0c998ae2746f9",
         "team": "Molodechno",
-        "played": 25,
+        "played": 26,
         "wins": 14,
         "draws": 3,
-        "losses": 8,
-        "goals_for": 44,
-        "goals_against": 36,
-        "goal_difference": 8,
+        "losses": 9,
+        "goals_for": 45,
+        "goals_against": 40,
+        "goal_difference": 5,
         "points": 45,
-        "form": "WDWWW"
+        "form": "LWDWW"
       },
       {
         "position": 7,
         "team_id": "ast_edd9b3a10f724d1fb4ef451f980f06ac",
         "team": "Soligorsk",
-        "played": 26,
+        "played": 27,
         "wins": 11,
-        "draws": 6,
+        "draws": 7,
         "losses": 9,
-        "goals_for": 51,
-        "goals_against": 43,
+        "goals_for": 52,
+        "goals_against": 44,
         "goal_difference": 8,
-        "points": 39,
-        "form": "WWWDL"
+        "points": 40,
+        "form": "DWWWD"
       },
       {
         "position": 8,
@@ -310,15 +310,15 @@
         "position": 12,
         "team_id": "ast_4a578ee0188f4247994c2426ca80561b",
         "team": "Smorgon",
-        "played": 26,
-        "wins": 8,
+        "played": 27,
+        "wins": 9,
         "draws": 6,
         "losses": 12,
-        "goals_for": 31,
+        "goals_for": 33,
         "goals_against": 36,
-        "goal_difference": -5,
-        "points": 30,
-        "form": "LWWDL"
+        "goal_difference": -3,
+        "points": 33,
+        "form": "WLWWD"
       },
       {
         "position": 13,
@@ -336,6 +336,20 @@
       },
       {
         "position": 14,
+        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
+        "team": "Orsha",
+        "played": 27,
+        "wins": 7,
+        "draws": 6,
+        "losses": 14,
+        "goals_for": 28,
+        "goals_against": 51,
+        "goal_difference": -23,
+        "points": 27,
+        "form": "DLLDL"
+      },
+      {
+        "position": 15,
         "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
         "team": "Uni X Labs",
         "played": 26,
@@ -347,20 +361,6 @@
         "goal_difference": -10,
         "points": 26,
         "form": "DLLDL"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
-        "team": "Orsha",
-        "played": 26,
-        "wins": 7,
-        "draws": 5,
-        "losses": 14,
-        "goals_for": 28,
-        "goals_against": 51,
-        "goal_difference": -23,
-        "points": 26,
-        "form": "LLDLW"
       },
       {
         "position": 16,
@@ -380,34 +380,64 @@
         "position": 17,
         "team_id": "ast_f06f77d13cf74fa9ba23c0f3e77a5449",
         "team": "FC Gomel 2",
-        "played": 26,
+        "played": 27,
         "wins": 5,
         "draws": 6,
-        "losses": 15,
+        "losses": 16,
         "goals_for": 36,
-        "goals_against": 52,
-        "goal_difference": -16,
+        "goals_against": 55,
+        "goal_difference": -19,
         "points": 21,
-        "form": "LLLLD"
+        "form": "LLLLL"
       },
       {
         "position": 18,
         "team_id": "ast_b0246912581140f28adb8531b36d087c",
         "team": "Osipovichi",
-        "played": 26,
+        "played": 27,
         "wins": 5,
         "draws": 4,
-        "losses": 17,
+        "losses": 18,
         "goals_for": 29,
-        "goals_against": 65,
-        "goal_difference": -36,
+        "goals_against": 67,
+        "goal_difference": -38,
         "points": 19,
-        "form": "DDLLL"
+        "form": "LDDLL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b",
+        "team": "斯卢茨克",
+        "played": 27,
+        "wins": 17,
+        "draws": 6,
+        "losses": 4,
+        "goals_for": 56,
+        "goals_against": 28,
+        "goal_difference": 28,
+        "points": 57,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60",
+        "team": "尼瓦多尔比兹诺",
+        "played": 27,
+        "wins": 17,
+        "draws": 4,
+        "losses": 6,
+        "goals_for": 67,
+        "goals_against": 31,
+        "goal_difference": 36,
+        "points": 55,
+        "form": "DWLWW",
+        "form_label": "平胜负胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_d3d1272e87ea45948d5a88a6315556b9",
         "team": "利达",
         "played": 27,
@@ -422,94 +452,64 @@
         "form_label": "胜胜负胜胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b",
-        "team": "斯卢茨克",
-        "played": 26,
-        "wins": 16,
-        "draws": 6,
-        "losses": 4,
-        "goals_for": 52,
-        "goals_against": 27,
-        "goal_difference": 25,
-        "points": 54,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60",
-        "team": "尼瓦多尔比兹诺",
-        "played": 26,
-        "wins": 17,
-        "draws": 3,
-        "losses": 6,
-        "goals_for": 67,
-        "goals_against": 31,
-        "goal_difference": 36,
-        "points": 54,
-        "form": "WLWWW",
-        "form_label": "胜负胜胜胜"
-      },
-      {
         "position": 4,
         "team_id": "ast_74cb1364e9284437839dcb944b1bdc68",
         "team": "SKA-1938",
-        "played": 26,
-        "wins": 15,
+        "played": 27,
+        "wins": 16,
         "draws": 5,
         "losses": 6,
-        "goals_for": 53,
+        "goals_for": 56,
         "goals_against": 31,
-        "goal_difference": 22,
-        "points": 50,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "goal_difference": 25,
+        "points": 53,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
       },
       {
         "position": 5,
         "team_id": "ast_af20ab1d27eb45d6b2f5cf1dbb5b8821",
         "team": "斯洛尼姆足球俱乐部",
-        "played": 26,
+        "played": 27,
         "wins": 14,
-        "draws": 4,
+        "draws": 5,
         "losses": 8,
-        "goals_for": 48,
-        "goals_against": 31,
+        "goals_for": 49,
+        "goals_against": 32,
         "goal_difference": 17,
-        "points": 46,
-        "form": "WWDWL",
-        "form_label": "胜胜平胜负"
+        "points": 47,
+        "form": "DWWDW",
+        "form_label": "平胜胜平胜"
       },
       {
         "position": 6,
         "team_id": "ast_52ad7436d837435dabc0c998ae2746f9",
         "team": "莫洛德赫诺",
-        "played": 25,
+        "played": 26,
         "wins": 14,
         "draws": 3,
-        "losses": 8,
-        "goals_for": 44,
-        "goals_against": 36,
-        "goal_difference": 8,
+        "losses": 9,
+        "goals_for": 45,
+        "goals_against": 40,
+        "goal_difference": 5,
         "points": 45,
-        "form": "WDWWW",
-        "form_label": "胜平胜胜胜"
+        "form": "LWDWW",
+        "form_label": "负胜平胜胜"
       },
       {
         "position": 7,
         "team_id": "ast_edd9b3a10f724d1fb4ef451f980f06ac",
         "team": "索利戈尔斯克",
-        "played": 26,
+        "played": 27,
         "wins": 11,
-        "draws": 6,
+        "draws": 7,
         "losses": 9,
-        "goals_for": 51,
-        "goals_against": 43,
+        "goals_for": 52,
+        "goals_against": 44,
         "goal_difference": 8,
-        "points": 39,
-        "form": "WWWDL",
-        "form_label": "胜胜胜平负"
+        "points": 40,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
       },
       {
         "position": 8,
@@ -575,16 +575,16 @@
         "position": 12,
         "team_id": "ast_4a578ee0188f4247994c2426ca80561b",
         "team": "斯莫尔贡",
-        "played": 26,
-        "wins": 8,
+        "played": 27,
+        "wins": 9,
         "draws": 6,
         "losses": 12,
-        "goals_for": 31,
+        "goals_for": 33,
         "goals_against": 36,
-        "goal_difference": -5,
-        "points": 30,
-        "form": "LWWDL",
-        "form_label": "负胜胜平负"
+        "goal_difference": -3,
+        "points": 33,
+        "form": "WLWWD",
+        "form_label": "胜负胜胜平"
       },
       {
         "position": 13,
@@ -603,6 +603,21 @@
       },
       {
         "position": 14,
+        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
+        "team": "奥尔沙",
+        "played": 27,
+        "wins": 7,
+        "draws": 6,
+        "losses": 14,
+        "goals_for": 28,
+        "goals_against": 51,
+        "goal_difference": -23,
+        "points": 27,
+        "form": "DLLDL",
+        "form_label": "平负负平负"
+      },
+      {
+        "position": 15,
         "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
         "team": "X实验室",
         "played": 26,
@@ -615,21 +630,6 @@
         "points": 26,
         "form": "DLLDL",
         "form_label": "平负负平负"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
-        "team": "奥尔沙",
-        "played": 26,
-        "wins": 7,
-        "draws": 5,
-        "losses": 14,
-        "goals_for": 28,
-        "goals_against": 51,
-        "goal_difference": -23,
-        "points": 26,
-        "form": "LLDLW",
-        "form_label": "负负平负胜"
       },
       {
         "position": 16,
@@ -650,31 +650,31 @@
         "position": 17,
         "team_id": "ast_f06f77d13cf74fa9ba23c0f3e77a5449",
         "team": "戈梅尔二队",
-        "played": 26,
+        "played": 27,
         "wins": 5,
         "draws": 6,
-        "losses": 15,
+        "losses": 16,
         "goals_for": 36,
-        "goals_against": 52,
-        "goal_difference": -16,
+        "goals_against": 55,
+        "goal_difference": -19,
         "points": 21,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 18,
         "team_id": "ast_b0246912581140f28adb8531b36d087c",
         "team": "奥西波维奇",
-        "played": 26,
+        "played": 27,
         "wins": 5,
         "draws": 4,
-        "losses": 17,
+        "losses": 18,
         "goals_for": 29,
-        "goals_against": 65,
-        "goal_difference": -36,
+        "goals_against": 67,
+        "goal_difference": -38,
         "points": 19,
-        "form": "DDLLL",
-        "form_label": "平平负负负"
+        "form": "LDDLL",
+        "form_label": "负平平负负"
       }
     ]
   },
@@ -1779,7 +1779,7 @@
         "match_id": "as_9c47994857fc4b12816706668c577102",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -1791,15 +1791,13 @@
           "name": "奥尔沙",
           "team_id": "ast_8b56fac9ec2446beae2d371cccb19115"
         },
-        "ht_score": "-",
-        "venue": "Yunost Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aa8f1e5433214e3391d1ba92a5fccce2",
         "date": "2026-10-11",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -1811,9 +1809,7 @@
           "name": "斯莫尔贡",
           "team_id": "ast_4a578ee0188f4247994c2426ca80561b"
         },
-        "ht_score": "-",
-        "venue": "Stadium FC Minsk",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1fb7d034b5084afab84944fcc1c5613b",
@@ -1963,7 +1959,7 @@
         "match_id": "as_13d89a0802bb494e9728681801e9a975",
         "date": "2026-10-03",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -1975,13 +1971,16 @@
           "name": "SKA-1938",
           "team_id": "ast_74cb1364e9284437839dcb944b1bdc68"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3ac481a65f964c12944b70d45f3fbc78",
         "date": "2026-10-03",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -1993,13 +1992,16 @@
           "name": "索利戈尔斯克",
           "team_id": "ast_edd9b3a10f724d1fb4ef451f980f06ac"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_14583ff6e62a4a3f83f1fe69f4de106a",
         "date": "2026-10-03",
         "time": "12:30",
-        "status": "12:30",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2011,13 +2013,16 @@
           "name": "斯卢茨克",
           "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e8d6b132b6d2489da667b96cffc21a63",
         "date": "2026-10-03",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2029,13 +2034,16 @@
           "name": "尼瓦多尔比兹诺",
           "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e7fe99ba180b42dabdc3e0ad7adbc5bc",
         "date": "2026-10-03",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -2047,7 +2055,10 @@
           "name": "奥西波维奇",
           "team_id": "ast_b0246912581140f28adb8531b36d087c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9b77d47349c7440fad83ec76f4c50036",
@@ -7928,7 +7939,7 @@
         "match_id": "as_aa8f1e5433214e3391d1ba92a5fccce2",
         "date": "2026-10-11",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -7940,15 +7951,13 @@
           "name": "斯莫尔贡",
           "team_id": "ast_4a578ee0188f4247994c2426ca80561b"
         },
-        "ht_score": "-",
-        "venue": "Stadium FC Minsk",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9c47994857fc4b12816706668c577102",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -7960,9 +7969,7 @@
           "name": "奥尔沙",
           "team_id": "ast_8b56fac9ec2446beae2d371cccb19115"
         },
-        "ht_score": "-",
-        "venue": "Yunost Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aa2376267e89427cb1aaa71c31247207",
@@ -13410,13 +13417,13 @@
     }
   },
   "stats": {
-    "matches_completed": 235,
-    "total_goals": 756,
-    "avg_goals_per_match": 3.22,
-    "home_wins": 99,
-    "draws": 47,
-    "away_wins": 89,
-    "home_win_pct": 42.1,
+    "matches_completed": 240,
+    "total_goals": 768,
+    "avg_goals_per_match": 3.2,
+    "home_wins": 100,
+    "draws": 49,
+    "away_wins": 91,
+    "home_win_pct": 41.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13442,8 +13449,8 @@
       }
     },
     "leader": {
-      "team": "Lida",
-      "points": 54,
+      "team": "Slutsk",
+      "points": 57,
       "played": 27
     }
   },
@@ -13539,6 +13546,34 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b",
+            "team": "Slutsk",
+            "played": 27,
+            "wins": 17,
+            "draws": 6,
+            "losses": 4,
+            "goals_for": 56,
+            "goals_against": 28,
+            "goal_difference": 28,
+            "points": 57,
+            "form": "WWWWD"
+          },
+          {
+            "position": 2,
+            "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60",
+            "team": "Niva Dolbizno",
+            "played": 27,
+            "wins": 17,
+            "draws": 4,
+            "losses": 6,
+            "goals_for": 67,
+            "goals_against": 31,
+            "goal_difference": 36,
+            "points": 55,
+            "form": "DWLWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_d3d1272e87ea45948d5a88a6315556b9",
             "team": "Lida",
             "played": 27,
@@ -13550,34 +13585,6 @@
             "goal_difference": 8,
             "points": 54,
             "form": "WWLWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_b424c60a729a4828887aa86adcf0ff5b",
-            "team": "Slutsk",
-            "played": 26,
-            "wins": 16,
-            "draws": 6,
-            "losses": 4,
-            "goals_for": 52,
-            "goals_against": 27,
-            "goal_difference": 25,
-            "points": 54,
-            "form": "WWWDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_ec5f624e51b548f39f7b90dcc628df60",
-            "team": "Niva Dolbizno",
-            "played": 26,
-            "wins": 17,
-            "draws": 3,
-            "losses": 6,
-            "goals_for": 67,
-            "goals_against": 31,
-            "goal_difference": 36,
-            "points": 54,
-            "form": "WLWWW"
           }
         ],
         "meta": {
@@ -14216,5 +14223,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/03"
+  "updated_at": "2026/10/04"
 }

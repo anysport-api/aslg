@@ -382,7 +382,7 @@
         "match_id": "as_8e127f737d1f4017a242bc59b3ef2db2",
         "date": "2026-10-11",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -394,15 +394,13 @@
           "name": "伦敦城",
           "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aa4308f331e24a8a866b1b44b1003458",
         "date": "2026-10-03",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -414,7 +412,10 @@
           "name": "巴拉那S.T.C.",
           "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_181aa36bf3ac46ff91f1f6baa1d7b52a",
@@ -1306,7 +1307,7 @@
         "match_id": "as_8e127f737d1f4017a242bc59b3ef2db2",
         "date": "2026-10-11",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -1317,26 +1318,6 @@
         "away": {
           "name": "伦敦城",
           "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_aa4308f331e24a8a866b1b44b1003458",
-        "date": "2026-10-03",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "伦敦城",
-          "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
-        },
-        "away": {
-          "name": "巴拉那S.T.C.",
-          "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
         },
         "venue": ""
       }
@@ -1781,13 +1762,13 @@
     }
   },
   "stats": {
-    "matches_completed": 42,
-    "total_goals": 96,
-    "avg_goals_per_match": 2.29,
-    "home_wins": 18,
+    "matches_completed": 43,
+    "total_goals": 97,
+    "avg_goals_per_match": 2.26,
+    "home_wins": 19,
     "draws": 9,
     "away_wins": 15,
-    "home_win_pct": 42.9,
+    "home_win_pct": 44.2,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -2584,7 +2565,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 11,
     "matches_current_season": 44,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/10/03"
+  "updated_at": "2026/10/04"
 }

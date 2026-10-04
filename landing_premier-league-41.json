@@ -2623,7 +2623,7 @@
         "match_id": "as_51b3e676e4d947d9af8a84e477db5f52",
         "date": "2026-10-11",
         "time": "08:00",
-        "status": "Not Started",
+        "status": "08:00",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2635,15 +2635,13 @@
           "name": "德伦",
           "team_id": "ast_60fe280b9f0249d6b472b59082e2fec4"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_164c889ac413446d8d3273dde8c0f6ae",
         "date": "2026-10-11",
         "time": "05:00",
-        "status": "Not Started",
+        "status": "05:00",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2655,9 +2653,7 @@
           "name": "乌兰巴托足球俱乐部",
           "team_id": "ast_14044191df6f4d37b013d411d0fce4d7"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ee4df287bd38468ab0b3732b6d0572e5",
@@ -2735,7 +2731,7 @@
         "match_id": "as_5bd9de563f8d41dcaa0361388d64559a",
         "date": "2026-10-04",
         "time": "08:00",
-        "status": "08:00",
+        "status": "45",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2747,13 +2743,15 @@
           "name": "霍夫德",
           "team_id": "ast_6d86ff16ee5a4d7f89dfed6f1873918b"
         },
+        "ht_score": "1-1",
+        "reg_score": "1-1",
         "venue": ""
       },
       {
         "match_id": "as_8378ed975fc647fcaf99f24b67317d3f",
         "date": "2026-10-04",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2765,7 +2763,10 @@
           "name": "霍夫德西部",
           "team_id": "ast_c743941a85d549ea931fd1ad6cc71e53"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "8-4",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -4760,5 +4761,5 @@
     "matches_current_season": 99,
     "upcoming_matches": 16
   },
-  "updated_at": "2026/10/03"
+  "updated_at": "2026/10/04"
 }
