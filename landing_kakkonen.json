@@ -605,7 +605,7 @@
         "match_id": "as_50e9b93b79924825a9aaf9b98f7dfa87",
         "date": "2026-10-04",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "芬兰甲级联赛",
         "league_id": "asl_3b3f4df0056142f6a7c9cae912ddaded",
         "season": "2026",
@@ -617,7 +617,10 @@
           "name": "瓦亚卡斯基",
           "team_id": "ast_50500e1f8f8f48b5987abc4097f4a740"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "5-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7dc741106e7e4214bc901dce3e3a3239",
@@ -7952,24 +7955,6 @@
           "team_id": "ast_2e8a271a71364ee487838ba546db0496"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_50e9b93b79924825a9aaf9b98f7dfa87",
-        "date": "2026-10-04",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "芬兰甲级联赛",
-        "league_id": "asl_3b3f4df0056142f6a7c9cae912ddaded",
-        "season": "2026",
-        "home": {
-          "name": "TP-47",
-          "team_id": "ast_d907c0ab02944a468e3c8a08cad54c9d"
-        },
-        "away": {
-          "name": "瓦亚卡斯基",
-          "team_id": "ast_50500e1f8f8f48b5987abc4097f4a740"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11733,13 +11718,13 @@
     }
   },
   "stats": {
-    "matches_completed": 344,
-    "total_goals": 1331,
+    "matches_completed": 345,
+    "total_goals": 1336,
     "avg_goals_per_match": 3.87,
-    "home_wins": 170,
+    "home_wins": 171,
     "draws": 64,
     "away_wins": 110,
-    "home_win_pct": 49.4,
+    "home_win_pct": 49.6,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -12537,7 +12522,7 @@
     "teams_all_time": 76,
     "standings_rows_current": 10,
     "matches_current_season": 351,
-    "upcoming_matches": 7
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/10/04"
+  "updated_at": "2026/10/05"
 }

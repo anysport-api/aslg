@@ -134,6 +134,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
+        "team": "Spokane Velocity",
+        "played": 27,
+        "wins": 14,
+        "draws": 5,
+        "losses": 8,
+        "goals_for": 41,
+        "goals_against": 36,
+        "goal_difference": 5,
+        "points": 47,
+        "form": "DWWDL"
+      },
+      {
+        "position": 7,
         "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0",
         "team": "Chattanooga Red Wolves",
         "played": 29,
@@ -145,20 +159,6 @@
         "goal_difference": 10,
         "points": 46,
         "form": "WLLDW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
-        "team": "Spokane Velocity",
-        "played": 26,
-        "wins": 14,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 38,
-        "goals_against": 33,
-        "goal_difference": 5,
-        "points": 46,
-        "form": "WWDLD"
       },
       {
         "position": 8,
@@ -248,15 +248,15 @@
         "position": 14,
         "team_id": "ast_8f1871a2a2a5424aa4ec77aa40dc86f7",
         "team": "Portland Hearts of Pine",
-        "played": 28,
+        "played": 29,
         "wins": 7,
-        "draws": 9,
+        "draws": 10,
         "losses": 12,
-        "goals_for": 40,
-        "goals_against": 50,
+        "goals_for": 43,
+        "goals_against": 53,
         "goal_difference": -10,
-        "points": 30,
-        "form": "LDWWL"
+        "points": 31,
+        "form": "DLDWW"
       },
       {
         "position": 15,
@@ -379,6 +379,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
+        "team": "斯波坎速度",
+        "played": 27,
+        "wins": 14,
+        "draws": 5,
+        "losses": 8,
+        "goals_for": 41,
+        "goals_against": 36,
+        "goal_difference": 5,
+        "points": 47,
+        "form": "DWWDL",
+        "form_label": "平胜胜平负"
+      },
+      {
+        "position": 7,
         "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0",
         "team": "查塔努加红狼",
         "played": 29,
@@ -391,21 +406,6 @@
         "points": 46,
         "form": "WLLDW",
         "form_label": "胜负负平胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
-        "team": "斯波坎速度",
-        "played": 26,
-        "wins": 14,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 38,
-        "goals_against": 33,
-        "goal_difference": 5,
-        "points": 46,
-        "form": "WWDLD",
-        "form_label": "胜胜平负平"
       },
       {
         "position": 8,
@@ -501,16 +501,16 @@
         "position": 14,
         "team_id": "ast_8f1871a2a2a5424aa4ec77aa40dc86f7",
         "team": "波特兰松树之心",
-        "played": 28,
+        "played": 29,
         "wins": 7,
-        "draws": 9,
+        "draws": 10,
         "losses": 12,
-        "goals_for": 40,
-        "goals_against": 50,
+        "goals_for": 43,
+        "goals_against": 53,
         "goal_difference": -10,
-        "points": 30,
-        "form": "LDWWL",
-        "form_label": "负平胜胜负"
+        "points": 31,
+        "form": "DLDWW",
+        "form_label": "平负平胜胜"
       },
       {
         "position": 15,
@@ -1214,7 +1214,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "CHI纪念体育场",
         "status_label": "完场"
       },
       {
@@ -1277,7 +1277,7 @@
         },
         "ht_score": "2-2",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "城市体育场",
         "status_label": "完场"
       },
       {
@@ -6815,27 +6815,6 @@
           "team_id": "ast_6c6793a8b1c642ef914cb544d978ca39"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_6d0d87c4af0d4642a782344943a00664",
-        "date": "2026-10-04",
-        "time": "01:00",
-        "status": "FT",
-        "league": "美国USL联赛一",
-        "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
-        "season": "2026",
-        "home": {
-          "name": "斯波坎速度",
-          "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
-        },
-        "away": {
-          "name": "波特兰松树之心",
-          "team_id": "ast_8f1871a2a2a5424aa4ec77aa40dc86f7"
-        },
-        "ht_score": "3-0",
-        "reg_score": "3-3",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -8586,7 +8565,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 17,
     "matches_current_season": 272,
-    "upcoming_matches": 31
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/10/04"
+  "updated_at": "2026/10/05"
 }

@@ -238,6 +238,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_0bae38765c434b249d781546b75ec3cd",
+        "team": "BumProm Gomel",
+        "played": 27,
+        "wins": 12,
+        "draws": 5,
+        "losses": 10,
+        "goals_for": 52,
+        "goals_against": 41,
+        "goal_difference": 11,
+        "points": 41,
+        "form": "WDWLL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_edd9b3a10f724d1fb4ef451f980f06ac",
         "team": "Soligorsk",
         "played": 27,
@@ -249,20 +263,6 @@
         "goal_difference": 8,
         "points": 40,
         "form": "DWWWD"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_0bae38765c434b249d781546b75ec3cd",
-        "team": "BumProm Gomel",
-        "played": 26,
-        "wins": 11,
-        "draws": 5,
-        "losses": 10,
-        "goals_for": 50,
-        "goals_against": 40,
-        "goal_difference": 10,
-        "points": 38,
-        "form": "DWLLL"
       },
       {
         "position": 9,
@@ -324,15 +324,15 @@
         "position": 13,
         "team_id": "ast_5697bb7134af403189154ef417ce041a",
         "team": "Minsk 2",
-        "played": 26,
+        "played": 27,
         "wins": 9,
         "draws": 3,
-        "losses": 14,
-        "goals_for": 36,
-        "goals_against": 48,
-        "goal_difference": -12,
+        "losses": 15,
+        "goals_for": 37,
+        "goals_against": 50,
+        "goal_difference": -13,
         "points": 30,
-        "form": "LDLLL"
+        "form": "LLDLL"
       },
       {
         "position": 14,
@@ -498,6 +498,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_0bae38765c434b249d781546b75ec3cd",
+        "team": "布姆普罗姆戈梅尔",
+        "played": 27,
+        "wins": 12,
+        "draws": 5,
+        "losses": 10,
+        "goals_for": 52,
+        "goals_against": 41,
+        "goal_difference": 11,
+        "points": 41,
+        "form": "WDWLL",
+        "form_label": "胜平胜负负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_edd9b3a10f724d1fb4ef451f980f06ac",
         "team": "索利戈尔斯克",
         "played": 27,
@@ -510,21 +525,6 @@
         "points": 40,
         "form": "DWWWD",
         "form_label": "平胜胜胜平"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_0bae38765c434b249d781546b75ec3cd",
-        "team": "布姆普罗姆戈梅尔",
-        "played": 26,
-        "wins": 11,
-        "draws": 5,
-        "losses": 10,
-        "goals_for": 50,
-        "goals_against": 40,
-        "goal_difference": 10,
-        "points": 38,
-        "form": "DWLLL",
-        "form_label": "平胜负负负"
       },
       {
         "position": 9,
@@ -590,16 +590,16 @@
         "position": 13,
         "team_id": "ast_5697bb7134af403189154ef417ce041a",
         "team": "明斯克2",
-        "played": 26,
+        "played": 27,
         "wins": 9,
         "draws": 3,
-        "losses": 14,
-        "goals_for": 36,
-        "goals_against": 48,
-        "goal_difference": -12,
+        "losses": 15,
+        "goals_for": 37,
+        "goals_against": 50,
+        "goal_difference": -13,
         "points": 30,
-        "form": "LDLLL",
-        "form_label": "负平负负负"
+        "form": "LLDLL",
+        "form_label": "负负平负负"
       },
       {
         "position": 14,
@@ -1941,7 +1941,7 @@
         "match_id": "as_942445d7bfd7478da9d28a2a3e2e1658",
         "date": "2026-10-04",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -1953,7 +1953,10 @@
           "name": "明斯克2",
           "team_id": "ast_5697bb7134af403189154ef417ce041a"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_13d89a0802bb494e9728681801e9a975",
@@ -2097,7 +2100,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Haradski Stadium",
         "status_label": "完场"
       },
       {
@@ -2118,7 +2121,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Volna Stadium",
         "status_label": "完场"
       },
       {
@@ -13417,13 +13420,13 @@
     }
   },
   "stats": {
-    "matches_completed": 240,
-    "total_goals": 768,
+    "matches_completed": 241,
+    "total_goals": 771,
     "avg_goals_per_match": 3.2,
-    "home_wins": 100,
+    "home_wins": 101,
     "draws": 49,
     "away_wins": 91,
-    "home_win_pct": 41.7,
+    "home_win_pct": 41.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14223,5 +14226,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/04"
+  "updated_at": "2026/10/05"
 }

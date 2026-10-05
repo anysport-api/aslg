@@ -280,6 +280,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_6034686b882844f494c4ecf824610276",
+        "team": "Atletico-MG",
+        "played": 28,
+        "wins": 12,
+        "draws": 7,
+        "losses": 9,
+        "goals_for": 37,
+        "goals_against": 32,
+        "goal_difference": 5,
+        "points": 43,
+        "form": "WDWLW"
+      },
+      {
+        "position": 8,
         "team_id": "ast_4809da9c07114bbea2c255a5e7d875a5",
         "team": "Santos",
         "played": 28,
@@ -291,20 +305,6 @@
         "goal_difference": 2,
         "points": 41,
         "form": "WWWWW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_6034686b882844f494c4ecf824610276",
-        "team": "Atletico-MG",
-        "played": 27,
-        "wins": 11,
-        "draws": 7,
-        "losses": 9,
-        "goals_for": 36,
-        "goals_against": 32,
-        "goal_difference": 4,
-        "points": 40,
-        "form": "DWLWD"
       },
       {
         "position": 9,
@@ -322,20 +322,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_53295b83ccc549b6988fb06dce0c457e",
-        "team": "Bragantino",
-        "played": 27,
-        "wins": 10,
-        "draws": 6,
-        "losses": 11,
-        "goals_for": 33,
-        "goals_against": 31,
-        "goal_difference": 2,
-        "points": 36,
-        "form": "LDLLW"
-      },
-      {
-        "position": 11,
         "team_id": "ast_9efeea2a5a56487ab8247b31e266a170",
         "team": "Sao Paulo",
         "played": 28,
@@ -347,6 +333,20 @@
         "goal_difference": 1,
         "points": 36,
         "form": "LWLWW"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_53295b83ccc549b6988fb06dce0c457e",
+        "team": "Bragantino",
+        "played": 28,
+        "wins": 10,
+        "draws": 6,
+        "losses": 12,
+        "goals_for": 33,
+        "goals_against": 32,
+        "goal_difference": 1,
+        "points": 36,
+        "form": "LLDLL"
       },
       {
         "position": 12,
@@ -568,6 +568,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_6034686b882844f494c4ecf824610276",
+        "team": "米内罗竞技",
+        "played": 28,
+        "wins": 12,
+        "draws": 7,
+        "losses": 9,
+        "goals_for": 37,
+        "goals_against": 32,
+        "goal_difference": 5,
+        "points": 43,
+        "form": "WDWLW",
+        "form_label": "胜平胜负胜"
+      },
+      {
+        "position": 8,
         "team_id": "ast_4809da9c07114bbea2c255a5e7d875a5",
         "team": "桑托斯",
         "played": 28,
@@ -580,21 +595,6 @@
         "points": 41,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_6034686b882844f494c4ecf824610276",
-        "team": "米内罗竞技",
-        "played": 27,
-        "wins": 11,
-        "draws": 7,
-        "losses": 9,
-        "goals_for": 36,
-        "goals_against": 32,
-        "goal_difference": 4,
-        "points": 40,
-        "form": "DWLWD",
-        "form_label": "平胜负胜平"
       },
       {
         "position": 9,
@@ -613,21 +613,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_53295b83ccc549b6988fb06dce0c457e",
-        "team": "布拉甘蒂诺",
-        "played": 27,
-        "wins": 10,
-        "draws": 6,
-        "losses": 11,
-        "goals_for": 33,
-        "goals_against": 31,
-        "goal_difference": 2,
-        "points": 36,
-        "form": "LDLLW",
-        "form_label": "负平负负胜"
-      },
-      {
-        "position": 11,
         "team_id": "ast_9efeea2a5a56487ab8247b31e266a170",
         "team": "圣保罗",
         "played": 28,
@@ -640,6 +625,21 @@
         "points": 36,
         "form": "LWLWW",
         "form_label": "负胜负胜胜"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_53295b83ccc549b6988fb06dce0c457e",
+        "team": "布拉甘蒂诺",
+        "played": 28,
+        "wins": 10,
+        "draws": 6,
+        "losses": 12,
+        "goals_for": 33,
+        "goals_against": 32,
+        "goal_difference": 1,
+        "points": 36,
+        "form": "LLDLL",
+        "form_label": "负负平负负"
       },
       {
         "position": 12,
@@ -4538,7 +4538,7 @@
           "team_id": "ast_53295b83ccc549b6988fb06dce0c457e"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "巴鲁埃里竞技场",
         "status_label": "未开赛"
       },
       {
@@ -4805,7 +4805,7 @@
         "match_id": "as_382d5cb0c45e4f629360e9cfc430cdc5",
         "date": "2026-10-13",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4817,15 +4817,13 @@
           "name": "克鲁塞罗",
           "team_id": "ast_e36624731cd6472b8bbea63053a7b4ba"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5ef7576fbd2641c4b8b0e9f8a9cf28f4",
         "date": "2026-10-12",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4837,15 +4835,13 @@
           "name": "巴西竞技",
           "team_id": "ast_917d5ddf701c4639a360ac147d36794b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_667bc16cefb041c6a0698f28b7303a3d",
         "date": "2026-10-12",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4857,9 +4853,7 @@
           "name": "博塔弗戈",
           "team_id": "ast_b98a4d6df45c4c17bf49ed99403d38f2"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ff61f60767d040c59784b96caf108393",
@@ -11764,7 +11758,7 @@
           "team_id": "ast_53295b83ccc549b6988fb06dce0c457e"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "巴鲁埃里竞技场",
         "status_label": "未开赛"
       },
       {
@@ -19698,5 +19692,5 @@
     "matches_current_season": 380,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/04"
+  "updated_at": "2026/10/05"
 }

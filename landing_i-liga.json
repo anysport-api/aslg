@@ -168,15 +168,15 @@
         "position": 1,
         "team_id": "ast_769b24c6c79942e8937db9affc308481",
         "team": "Petrzalka",
-        "played": 10,
+        "played": 11,
         "wins": 9,
-        "draws": 0,
+        "draws": 1,
         "losses": 1,
-        "goals_for": 20,
-        "goals_against": 6,
+        "goals_for": 21,
+        "goals_against": 7,
         "goal_difference": 14,
-        "points": 27,
-        "form": "WWLWW"
+        "points": 28,
+        "form": "DWWLW"
       },
       {
         "position": 2,
@@ -336,15 +336,15 @@
         "position": 13,
         "team_id": "ast_a7741b78a1cd43579d6cf72fc6f90b36",
         "team": "Malzenice",
-        "played": 10,
+        "played": 11,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 13,
-        "goals_against": 15,
+        "goals_for": 14,
+        "goals_against": 16,
         "goal_difference": -2,
-        "points": 10,
-        "form": "LWLLW"
+        "points": 11,
+        "form": "DLWLL"
       },
       {
         "position": 14,
@@ -394,16 +394,16 @@
         "position": 1,
         "team_id": "ast_769b24c6c79942e8937db9affc308481",
         "team": "佩特尔扎尔卡",
-        "played": 10,
+        "played": 11,
         "wins": 9,
-        "draws": 0,
+        "draws": 1,
         "losses": 1,
-        "goals_for": 20,
-        "goals_against": 6,
+        "goals_for": 21,
+        "goals_against": 7,
         "goal_difference": 14,
-        "points": 27,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "points": 28,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 2,
@@ -574,16 +574,16 @@
         "position": 13,
         "team_id": "ast_a7741b78a1cd43579d6cf72fc6f90b36",
         "team": "马尔泽尼采",
-        "played": 10,
+        "played": 11,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 13,
-        "goals_against": 15,
+        "goals_for": 14,
+        "goals_against": 16,
         "goal_difference": -2,
-        "points": 10,
-        "form": "LWLLW",
-        "form_label": "负胜负负胜"
+        "points": 11,
+        "form": "DLWLL",
+        "form_label": "平负胜负负"
       },
       {
         "position": 14,
@@ -3533,7 +3533,7 @@
         "match_id": "as_722c80c26cee41bd97a950b6c66d6804",
         "date": "2026-10-12",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3545,9 +3545,7 @@
           "name": "波赫罗尼",
           "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1514557145094e5ca70dc1842b92d8bf",
@@ -3697,7 +3695,7 @@
         "match_id": "as_85775dd8b4224a6391a222b747136de9",
         "date": "2026-10-04",
         "time": "08:30",
-        "status": "42",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3710,8 +3708,9 @@
           "team_id": "ast_a7741b78a1cd43579d6cf72fc6f90b36"
         },
         "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": ""
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_791db67ab33c484e9fce72e228815806",
@@ -6325,7 +6324,7 @@
         "match_id": "as_722c80c26cee41bd97a950b6c66d6804",
         "date": "2026-10-12",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6337,9 +6336,7 @@
           "name": "波赫罗尼",
           "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a3da025bb97b425a85d5ddfe073baff1",
@@ -6483,26 +6480,6 @@
           "name": "萨莫林",
           "team_id": "ast_d2779019972241acadab06e7d27d4eb5"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_85775dd8b4224a6391a222b747136de9",
-        "date": "2026-10-04",
-        "time": "08:30",
-        "status": "42",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "佩特尔扎尔卡",
-          "team_id": "ast_769b24c6c79942e8937db9affc308481"
-        },
-        "away": {
-          "name": "马尔泽尼采",
-          "team_id": "ast_a7741b78a1cd43579d6cf72fc6f90b36"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
         "venue": ""
       }
     ]
@@ -8603,12 +8580,12 @@
   },
   "stats": {
     "matches_completed": 87,
-    "total_goals": 245,
-    "avg_goals_per_match": 2.82,
-    "home_wins": 42,
-    "draws": 16,
+    "total_goals": 246,
+    "avg_goals_per_match": 2.83,
+    "home_wins": 41,
+    "draws": 17,
     "away_wins": 29,
-    "home_win_pct": 48.3,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8635,8 +8612,8 @@
     },
     "leader": {
       "team": "Petrzalka",
-      "points": 27,
-      "played": 10
+      "points": 28,
+      "played": 11
     }
   },
   "coverage": {
@@ -8733,15 +8710,15 @@
             "position": 1,
             "team_id": "ast_769b24c6c79942e8937db9affc308481",
             "team": "Petrzalka",
-            "played": 10,
+            "played": 11,
             "wins": 9,
-            "draws": 0,
+            "draws": 1,
             "losses": 1,
-            "goals_for": 20,
-            "goals_against": 6,
+            "goals_for": 21,
+            "goals_against": 7,
             "goal_difference": 14,
-            "points": 27,
-            "form": "WWLWW"
+            "points": 28,
+            "form": "DWWLW"
           },
           {
             "position": 2,
@@ -9406,7 +9383,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/10/04"
+  "updated_at": "2026/10/05"
 }

@@ -256,6 +256,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
+        "team": "Dinamo Tbilisi",
+        "played": 27,
+        "wins": 13,
+        "draws": 9,
+        "losses": 5,
+        "goals_for": 45,
+        "goals_against": 30,
+        "goal_difference": 15,
+        "points": 48,
+        "form": "WWWDD"
+      },
+      {
+        "position": 2,
         "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
         "team": "Dinamo Batumi",
         "played": 27,
@@ -267,20 +281,6 @@
         "goal_difference": 10,
         "points": 47,
         "form": "WDWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_9079ae9734e140a289c4d85e39937659",
-        "team": "Iberia 1999",
-        "played": 26,
-        "wins": 14,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 37,
-        "goals_against": 28,
-        "goal_difference": 9,
-        "points": 46,
-        "form": "WWWLW"
       },
       {
         "position": 3,
@@ -298,17 +298,17 @@
       },
       {
         "position": 4,
-        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
-        "team": "Dinamo Tbilisi",
-        "played": 26,
-        "wins": 12,
-        "draws": 9,
-        "losses": 5,
-        "goals_for": 43,
-        "goals_against": 29,
-        "goal_difference": 14,
-        "points": 45,
-        "form": "WWDDW"
+        "team_id": "ast_9079ae9734e140a289c4d85e39937659",
+        "team": "Iberia 1999",
+        "played": 27,
+        "wins": 14,
+        "draws": 4,
+        "losses": 9,
+        "goals_for": 38,
+        "goals_against": 30,
+        "goal_difference": 8,
+        "points": 46,
+        "form": "LWWWL"
       },
       {
         "position": 5,
@@ -398,6 +398,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
+        "team": "第比利斯迪纳摩",
+        "played": 27,
+        "wins": 13,
+        "draws": 9,
+        "losses": 5,
+        "goals_for": 45,
+        "goals_against": 30,
+        "goal_difference": 15,
+        "points": 48,
+        "form": "WWWDD",
+        "form_label": "胜胜胜平平"
+      },
+      {
+        "position": 2,
         "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
         "team": "巴统迪纳摩",
         "played": 27,
@@ -410,21 +425,6 @@
         "points": 47,
         "form": "WDWWW",
         "form_label": "胜平胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_9079ae9734e140a289c4d85e39937659",
-        "team": "伊比利亚",
-        "played": 26,
-        "wins": 14,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 37,
-        "goals_against": 28,
-        "goal_difference": 9,
-        "points": 46,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
       },
       {
         "position": 3,
@@ -443,18 +443,18 @@
       },
       {
         "position": 4,
-        "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
-        "team": "第比利斯迪纳摩",
-        "played": 26,
-        "wins": 12,
-        "draws": 9,
-        "losses": 5,
-        "goals_for": 43,
-        "goals_against": 29,
-        "goal_difference": 14,
-        "points": 45,
-        "form": "WWDDW",
-        "form_label": "胜胜平平胜"
+        "team_id": "ast_9079ae9734e140a289c4d85e39937659",
+        "team": "伊比利亚",
+        "played": 27,
+        "wins": 14,
+        "draws": 4,
+        "losses": 9,
+        "goals_for": 38,
+        "goals_against": 30,
+        "goal_difference": 8,
+        "points": 46,
+        "form": "LWWWL",
+        "form_label": "负胜胜胜负"
       },
       {
         "position": 5,
@@ -1459,7 +1459,7 @@
         "match_id": "as_97f634820503472eb05419df68f70a53",
         "date": "2026-10-04",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1471,7 +1471,10 @@
           "name": "第比利斯迪纳摩",
           "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8b6d59087c3d460fb19dee3cb4e29524",
@@ -4798,24 +4801,6 @@
           "team_id": "ast_9079ae9734e140a289c4d85e39937659"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_97f634820503472eb05419df68f70a53",
-        "date": "2026-10-04",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "伊比利亚",
-          "team_id": "ast_9079ae9734e140a289c4d85e39937659"
-        },
-        "away": {
-          "name": "第比利斯迪纳摩",
-          "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7385,13 +7370,13 @@
     }
   },
   "stats": {
-    "matches_completed": 134,
-    "total_goals": 356,
+    "matches_completed": 135,
+    "total_goals": 359,
     "avg_goals_per_match": 2.66,
     "home_wins": 54,
     "draws": 39,
-    "away_wins": 41,
-    "home_win_pct": 40.3,
+    "away_wins": 42,
+    "home_win_pct": 40.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7417,8 +7402,8 @@
       }
     },
     "leader": {
-      "team": "Dinamo Batumi",
-      "points": 47,
+      "team": "Dinamo Tbilisi",
+      "points": 48,
       "played": 27
     }
   },
@@ -7514,6 +7499,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
+            "team": "Dinamo Tbilisi",
+            "played": 27,
+            "wins": 13,
+            "draws": 9,
+            "losses": 5,
+            "goals_for": 45,
+            "goals_against": 30,
+            "goal_difference": 15,
+            "points": 48,
+            "form": "WWWDD"
+          },
+          {
+            "position": 2,
             "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
             "team": "Dinamo Batumi",
             "played": 27,
@@ -7525,20 +7524,6 @@
             "goal_difference": 10,
             "points": 47,
             "form": "WDWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_9079ae9734e140a289c4d85e39937659",
-            "team": "Iberia 1999",
-            "played": 26,
-            "wins": 14,
-            "draws": 4,
-            "losses": 8,
-            "goals_for": 37,
-            "goals_against": 28,
-            "goal_difference": 9,
-            "points": 46,
-            "form": "WWWLW"
           },
           {
             "position": 3,
@@ -8189,7 +8174,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 27
+    "upcoming_matches": 26
   },
-  "updated_at": "2026/10/04"
+  "updated_at": "2026/10/05"
 }

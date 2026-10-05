@@ -5684,7 +5684,7 @@
         "match_id": "as_d47cf853bd264e4787eec73e5928e436",
         "date": "2026-10-12",
         "time": "01:10",
-        "status": "Not Started",
+        "status": "01:10",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5696,9 +5696,7 @@
           "name": "Coban Imperial",
           "team_id": "ast_1776301b6a084f8da95c163ae93c4b11"
         },
-        "ht_score": "-",
-        "venue": "彭萨蒂沃体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c97d060d7d4f4c6e8fc085ddb17c8e2b",
@@ -5812,7 +5810,7 @@
         "match_id": "as_3990dfb85f4f49c09d792effd2ef5467",
         "date": "2026-10-05",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5824,7 +5822,10 @@
           "name": "苏基特佩克斯",
           "team_id": "ast_2aa8a73f17514d05884d9ca74c452590"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -8029,5 +8030,5 @@
     "matches_current_season": 206,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/04"
+  "updated_at": "2026/10/05"
 }
