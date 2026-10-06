@@ -14,7 +14,7 @@
     "is_cup": true
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
@@ -1084,6 +1084,24 @@
     "season": "2026-2027",
     "matches": [
       {
+        "match_id": "as_f9546c0f1c044f708e3ea99cb42f3c36",
+        "date": "2026-10-06",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "瑞典杯",
+        "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
+        "season": "2026/2027",
+        "home": {
+          "name": "特罗尔哈坦",
+          "team_id": "ast_8a8994d7b9d244f9a442018933c66382"
+        },
+        "away": {
+          "name": "米亚尔比",
+          "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_25b66ce8336d41b3b62d42fe2a4c8be9",
         "date": "2026-09-10",
         "time": "17:00",
@@ -1442,25 +1460,6 @@
         "reg_score": "1-2",
         "venue": "",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_f9546c0f1c044f708e3ea99cb42f3c36",
-        "date": "2026-08-19",
-        "time": "17:00",
-        "status": "Postp.",
-        "league": "瑞典杯",
-        "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
-        "season": "2026/2027",
-        "home": {
-          "name": "特罗尔哈坦",
-          "team_id": "ast_8a8994d7b9d244f9a442018933c66382"
-        },
-        "away": {
-          "name": "米亚尔比",
-          "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_4acf4e8cad004c679a95cb8970ace80d",
@@ -2433,7 +2432,26 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_f9546c0f1c044f708e3ea99cb42f3c36",
+        "date": "2026-10-06",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "瑞典杯",
+        "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
+        "season": "2026/2027",
+        "home": {
+          "name": "特罗尔哈坦",
+          "team_id": "ast_8a8994d7b9d244f9a442018933c66382"
+        },
+        "away": {
+          "name": "米亚尔比",
+          "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -6981,7 +6999,7 @@
     "teams_all_time": 56,
     "standings_rows_current": 32,
     "matches_current_season": 64,
-    "upcoming_matches": 0
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/09/12"
+  "updated_at": "2026/10/06"
 }

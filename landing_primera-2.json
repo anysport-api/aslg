@@ -809,7 +809,7 @@
         "match_id": "as_bafd16e7356b414ab1e2c7848667c1aa",
         "date": "2026-10-05",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -821,7 +821,10 @@
           "name": "蒙得维的亚城",
           "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_aacd141cbe844369ac24e6c6040f55d3",
@@ -925,7 +928,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "贝尔维代雷体育场",
         "status_label": "完场"
       },
       {
@@ -946,7 +949,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "路易斯·弗兰齐尼体育场",
         "status_label": "完场"
       },
       {
@@ -6174,24 +6177,6 @@
         "away": {
           "name": "利物浦M队",
           "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_bafd16e7356b414ab1e2c7848667c1aa",
-        "date": "2026-10-05",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "国家队",
-          "team_id": "ast_b7a8cab8fa1a4f00bbef19bfc4cb96be"
-        },
-        "away": {
-          "name": "蒙得维的亚城",
-          "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
         },
         "venue": ""
       }
@@ -11540,13 +11525,13 @@
     }
   },
   "stats": {
-    "matches_completed": 248,
-    "total_goals": 590,
+    "matches_completed": 249,
+    "total_goals": 592,
     "avg_goals_per_match": 2.38,
-    "home_wins": 103,
+    "home_wins": 104,
     "draws": 64,
     "away_wins": 81,
-    "home_win_pct": 41.5,
+    "home_win_pct": 41.8,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12285,7 +12270,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 257,
-    "upcoming_matches": 9
+    "upcoming_matches": 8
   },
-  "updated_at": "2026/10/05"
+  "updated_at": "2026/10/06"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2025-2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_d238e26bae1841df913eb53662f4a768",
@@ -857,7 +857,7 @@
         "match_id": "as_5b017fe974404a32b722533633a33b49",
         "date": "2026-10-03",
         "time": "14:00",
-        "status": "Postp.",
+        "status": "Not Started",
         "league": "英格兰非联赛超级联赛",
         "league_id": "asl_d238e26bae1841df913eb53662f4a768",
         "season": "2025/2026",
@@ -869,8 +869,9 @@
           "name": "查塔姆",
           "team_id": "ast_33e200e2cb1f43599c370589d423a606"
         },
+        "ht_score": "-",
         "venue": "",
-        "status_label": "延期"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c134aadc36804393823c5453732a31eb",
@@ -58714,5 +58715,5 @@
     "matches_current_season": 1819,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/05"
+  "updated_at": "2026/10/06"
 }

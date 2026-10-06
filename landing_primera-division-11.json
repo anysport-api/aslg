@@ -981,7 +981,7 @@
         "match_id": "as_2b66757c7dcd4d8fa37d307420c3d0d1",
         "date": "2026-10-13",
         "time": "01:30",
-        "status": "Not Started",
+        "status": "01:30",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -993,9 +993,7 @@
           "name": "陶罗",
           "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
         },
-        "ht_score": "-",
-        "venue": "Estadio Los Andes II",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0d34ca2aa28e4aceb0544739a9019d4f",
@@ -1091,7 +1089,7 @@
         "match_id": "as_662b910dce0b46928210bd6ce29ac405",
         "date": "2026-10-06",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -1103,7 +1101,10 @@
           "name": "科克莱联合",
           "team_id": "ast_8f2f22a37d36431399f865006017ad71"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_afab29dc5f584f74a6197b3326ffceca",
@@ -5119,7 +5120,7 @@
         "match_id": "as_2b66757c7dcd4d8fa37d307420c3d0d1",
         "date": "2026-10-13",
         "time": "01:30",
-        "status": "Not Started",
+        "status": "01:30",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5131,9 +5132,7 @@
           "name": "陶罗",
           "team_id": "ast_04b17523f3874516ac7bfeacc8af12d3"
         },
-        "ht_score": "-",
-        "venue": "Estadio Los Andes II",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ccc02031a9b64f17b8c045a7f2e6dec8",
@@ -5229,7 +5228,7 @@
         "match_id": "as_662b910dce0b46928210bd6ce29ac405",
         "date": "2026-10-06",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "巴拿马甲级联赛",
         "league_id": "asl_318de76388e247e58be658fa4480212b",
         "season": "2026",
@@ -5241,7 +5240,10 @@
           "name": "科克莱联合",
           "team_id": "ast_8f2f22a37d36431399f865006017ad71"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -6219,13 +6221,13 @@
     }
   },
   "stats": {
-    "matches_completed": 168,
-    "total_goals": 448,
+    "matches_completed": 169,
+    "total_goals": 452,
     "avg_goals_per_match": 2.67,
-    "home_wins": 66,
+    "home_wins": 67,
     "draws": 59,
     "away_wins": 43,
-    "home_win_pct": 39.3,
+    "home_win_pct": 39.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7025,5 +7027,5 @@
     "matches_current_season": 199,
     "upcoming_matches": 31
   },
-  "updated_at": "2026/10/05"
+  "updated_at": "2026/10/06"
 }

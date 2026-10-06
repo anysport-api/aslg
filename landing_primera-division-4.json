@@ -4409,7 +4409,7 @@
         "match_id": "as_74c180c0e34b4d45b34295e6c582b234",
         "date": "2026-10-13",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4421,15 +4421,13 @@
           "name": "阿圭拉斯",
           "team_id": "ast_73af39088e1c4b949951c57177e7ab61"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_34616eb9624c47d69d94b75981b9fb1f",
         "date": "2026-10-13",
         "time": "01:10",
-        "status": "Not Started",
+        "status": "01:10",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4441,9 +4439,7 @@
           "name": "库库塔",
           "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35"
         },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d6369c712e29407d8b1b126ba8a9d5d7",
@@ -4503,7 +4499,7 @@
         "match_id": "as_a26781ab072c40a797748e68595c1f69",
         "date": "2026-10-11",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Not Started",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4515,7 +4511,9 @@
           "name": "卡利体育",
           "team_id": "ast_f7a9559f489d49a990829229b659d955"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Santiago de las Atalayas",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_42a625a0600243d09415e3fd6b41de93",
@@ -4592,8 +4590,8 @@
       {
         "match_id": "as_e423ddf4ce1b4dcba63c9fc4e30fb6e5",
         "date": "2026-10-08",
-        "time": "01:20",
-        "status": "01:20",
+        "time": "23:05",
+        "status": "23:05",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4611,7 +4609,7 @@
         "match_id": "as_f0618745fd0443d9a2ee88a804bd72eb",
         "date": "2026-10-06",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4623,7 +4621,10 @@
           "name": "圣菲",
           "team_id": "ast_344e8de6baa8495a803963313b5b7d0c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_603fde24a0174930aa70f0b51fbb2f25",
@@ -4748,7 +4749,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "Estadio Cincuentenario",
         "status_label": "完场"
       },
       {
@@ -4769,7 +4770,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "卡利体育体育场",
         "status_label": "完场"
       },
       {
@@ -4790,7 +4791,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "曼努埃尔·穆里略·托罗体育场",
         "status_label": "完场"
       },
       {
@@ -14443,13 +14444,13 @@
     }
   },
   "stats": {
-    "matches_completed": 320,
-    "total_goals": 823,
+    "matches_completed": 321,
+    "total_goals": 824,
     "avg_goals_per_match": 2.57,
     "home_wins": 146,
     "draws": 98,
-    "away_wins": 76,
-    "home_win_pct": 45.6,
+    "away_wins": 77,
+    "home_win_pct": 45.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -15253,5 +15254,5 @@
     "matches_current_season": 394,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/05"
+  "updated_at": "2026/10/06"
 }

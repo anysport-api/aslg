@@ -273,6 +273,34 @@
       },
       {
         "position": 10,
+        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
+        "team": "Envigado",
+        "played": 11,
+        "wins": 2,
+        "draws": 6,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 11,
+        "goal_difference": 1,
+        "points": 12,
+        "form": "DDWDD"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_af402a96df804de283974c62253523d4",
+        "team": "Bogota",
+        "played": 11,
+        "wins": 3,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 12,
+        "form": "DLWDL"
+      },
+      {
+        "position": 12,
         "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce",
         "team": "Real Santander",
         "played": 11,
@@ -286,21 +314,7 @@
         "form": "LDDLD"
       },
       {
-        "position": 11,
-        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
-        "team": "Envigado",
-        "played": 10,
-        "wins": 2,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 9,
-        "goals_against": 8,
-        "goal_difference": 1,
-        "points": 11,
-        "form": "DWDDD"
-      },
-      {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "U. Magdalena",
         "played": 10,
@@ -312,20 +326,6 @@
         "goal_difference": -2,
         "points": 11,
         "form": "WDWLL"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_af402a96df804de283974c62253523d4",
-        "team": "Bogota",
-        "played": 10,
-        "wins": 3,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 6,
-        "goals_against": 10,
-        "goal_difference": -4,
-        "points": 11,
-        "form": "LWDLL"
       },
       {
         "position": 14,
@@ -507,6 +507,36 @@
       },
       {
         "position": 10,
+        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
+        "team": "恩维加多",
+        "played": 11,
+        "wins": 2,
+        "draws": 6,
+        "losses": 3,
+        "goals_for": 12,
+        "goals_against": 11,
+        "goal_difference": 1,
+        "points": 12,
+        "form": "DDWDD",
+        "form_label": "平平胜平平"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_af402a96df804de283974c62253523d4",
+        "team": "波哥大",
+        "played": 11,
+        "wins": 3,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 12,
+        "form": "DLWDL",
+        "form_label": "平负胜平负"
+      },
+      {
+        "position": 12,
         "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce",
         "team": "皇家桑坦德",
         "played": 11,
@@ -521,22 +551,7 @@
         "form_label": "负平平负平"
       },
       {
-        "position": 11,
-        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
-        "team": "恩维加多",
-        "played": 10,
-        "wins": 2,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 9,
-        "goals_against": 8,
-        "goal_difference": 1,
-        "points": 11,
-        "form": "DWDDD",
-        "form_label": "平胜平平平"
-      },
-      {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "马格达莱纳大学",
         "played": 10,
@@ -549,21 +564,6 @@
         "points": 11,
         "form": "WDWLL",
         "form_label": "胜平胜负负"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_af402a96df804de283974c62253523d4",
-        "team": "波哥大",
-        "played": 10,
-        "wins": 3,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 6,
-        "goals_against": 10,
-        "goal_difference": -4,
-        "points": 11,
-        "form": "LWDLL",
-        "form_label": "负胜平负负"
       },
       {
         "position": 14,
@@ -1185,7 +1185,7 @@
         "match_id": "as_9bc68db3f0be459db4a5c6b4304d7fd7",
         "date": "2026-10-09",
         "time": "22:15",
-        "status": "22:15",
+        "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1197,7 +1197,9 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "特乔大都会体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_149067a2d3b14716b10166096e9f6366",
@@ -1293,7 +1295,7 @@
         "match_id": "as_3a2733c971964baabff08f35caa07c23",
         "date": "2026-10-06",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1305,13 +1307,16 @@
           "name": "昆迪奥",
           "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_62544851942745648d149ab29d309dc1",
         "date": "2026-10-05",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1323,7 +1328,10 @@
           "name": "恩维加多",
           "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_416b7f26aeb74a8d9a6e06d85847ed21",
@@ -1364,7 +1372,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "特乔大都会体育场",
         "status_label": "完场"
       },
       {
@@ -6731,7 +6739,7 @@
         "match_id": "as_9bc68db3f0be459db4a5c6b4304d7fd7",
         "date": "2026-10-09",
         "time": "22:15",
-        "status": "22:15",
+        "status": "Not Started",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6743,7 +6751,9 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "特乔大都会体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_101c642475f0459e8551d2ceba294c01",
@@ -6821,7 +6831,7 @@
         "match_id": "as_3a2733c971964baabff08f35caa07c23",
         "date": "2026-10-06",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6833,25 +6843,10 @@
           "name": "昆迪奥",
           "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_62544851942745648d149ab29d309dc1",
-        "date": "2026-10-05",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
-        },
-        "away": {
-          "name": "恩维加多",
-          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
-        },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -11416,13 +11411,13 @@
     }
   },
   "stats": {
-    "matches_completed": 230,
-    "total_goals": 510,
-    "avg_goals_per_match": 2.22,
+    "matches_completed": 232,
+    "total_goals": 517,
+    "avg_goals_per_match": 2.23,
     "home_wins": 86,
-    "draws": 69,
-    "away_wins": 75,
-    "home_win_pct": 37.4,
+    "draws": 70,
+    "away_wins": 76,
+    "home_win_pct": 37.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12220,7 +12215,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 266,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/10/05"
+  "updated_at": "2026/10/06"
 }
