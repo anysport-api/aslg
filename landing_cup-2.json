@@ -14,7 +14,7 @@
     "is_cup": true
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
@@ -1087,7 +1087,7 @@
         "match_id": "as_f9546c0f1c044f708e3ea99cb42f3c36",
         "date": "2026-10-06",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "瑞典杯",
         "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
         "season": "2026/2027",
@@ -1099,7 +1099,10 @@
           "name": "米亚尔比",
           "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_25b66ce8336d41b3b62d42fe2a4c8be9",
@@ -2432,26 +2435,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_f9546c0f1c044f708e3ea99cb42f3c36",
-        "date": "2026-10-06",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "瑞典杯",
-        "league_id": "asl_a2904c13c4094067b1ba3bab8acc09f9",
-        "season": "2026/2027",
-        "home": {
-          "name": "特罗尔哈坦",
-          "team_id": "ast_8a8994d7b9d244f9a442018933c66382"
-        },
-        "away": {
-          "name": "米亚尔比",
-          "team_id": "ast_073d345d38fe43aca1b243b93e7dfe51"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -6195,13 +6179,13 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
-    "total_goals": 229,
-    "avg_goals_per_match": 3.63,
-    "home_wins": 12,
+    "matches_completed": 64,
+    "total_goals": 230,
+    "avg_goals_per_match": 3.59,
+    "home_wins": 13,
     "draws": 5,
     "away_wins": 46,
-    "home_win_pct": 19.0,
+    "home_win_pct": 20.3,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6999,7 +6983,7 @@
     "teams_all_time": 56,
     "standings_rows_current": 32,
     "matches_current_season": 64,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/06"
+  "updated_at": "2026/10/07"
 }

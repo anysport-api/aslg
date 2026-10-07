@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2025-2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_d3132e766b2548acb6c14cb64400f1de",
@@ -669,7 +669,7 @@
         "match_id": "as_c9667a676e7941c281dadbfd019a72e2",
         "date": "2026-10-06",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Aban.",
         "league": "肯尼亚超级联赛",
         "league_id": "asl_d3132e766b2548acb6c14cb64400f1de",
         "season": "2025/2026",
@@ -681,7 +681,8 @@
           "name": "蒙巴萨联队",
           "team_id": "ast_0fc22251c8474caaaa1838952355a3ab"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "中断废弃"
       },
       {
         "match_id": "as_8046cc30d4474373abc90fd35e558467",
@@ -7293,24 +7294,6 @@
         },
         "venue": "",
         "status_label": "延期"
-      },
-      {
-        "match_id": "as_c9667a676e7941c281dadbfd019a72e2",
-        "date": "2026-10-06",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "肯尼亚超级联赛",
-        "league_id": "asl_d3132e766b2548acb6c14cb64400f1de",
-        "season": "2025/2026",
-        "home": {
-          "name": "卡里奥班吉鲨鱼",
-          "team_id": "ast_1baeaa844d834c4cb1d22e551725d2ab"
-        },
-        "away": {
-          "name": "蒙巴萨联队",
-          "team_id": "ast_0fc22251c8474caaaa1838952355a3ab"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10405,7 +10388,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 18,
     "matches_current_season": 308,
-    "upcoming_matches": 10
+    "upcoming_matches": 9
   },
-  "updated_at": "2026/10/06"
+  "updated_at": "2026/10/07"
 }

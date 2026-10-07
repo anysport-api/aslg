@@ -170,15 +170,15 @@
         "position": 2,
         "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
         "team": "Diriangen",
-        "played": 9,
-        "wins": 7,
+        "played": 10,
+        "wins": 8,
         "draws": 2,
         "losses": 0,
-        "goals_for": 20,
-        "goals_against": 6,
-        "goal_difference": 14,
-        "points": 23,
-        "form": "WWDWW"
+        "goals_for": 22,
+        "goals_against": 7,
+        "goal_difference": 15,
+        "points": 26,
+        "form": "WWWDW"
       },
       {
         "position": 3,
@@ -226,15 +226,15 @@
         "position": 6,
         "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
         "team": "San Marcos",
-        "played": 9,
+        "played": 10,
         "wins": 3,
         "draws": 1,
-        "losses": 5,
-        "goals_for": 8,
-        "goals_against": 14,
-        "goal_difference": -6,
+        "losses": 6,
+        "goals_for": 9,
+        "goals_against": 16,
+        "goal_difference": -7,
         "points": 10,
-        "form": "WLWWL"
+        "form": "LWLWW"
       },
       {
         "position": 7,
@@ -313,16 +313,16 @@
         "position": 2,
         "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
         "team": "迪里安根",
-        "played": 9,
-        "wins": 7,
+        "played": 10,
+        "wins": 8,
         "draws": 2,
         "losses": 0,
-        "goals_for": 20,
-        "goals_against": 6,
-        "goal_difference": 14,
-        "points": 23,
-        "form": "WWDWW",
-        "form_label": "胜胜平胜胜"
+        "goals_for": 22,
+        "goals_against": 7,
+        "goal_difference": 15,
+        "points": 26,
+        "form": "WWWDW",
+        "form_label": "胜胜胜平胜"
       },
       {
         "position": 3,
@@ -373,16 +373,16 @@
         "position": 6,
         "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
         "team": "圣马尔科斯",
-        "played": 9,
+        "played": 10,
         "wins": 3,
         "draws": 1,
-        "losses": 5,
-        "goals_for": 8,
-        "goals_against": 14,
-        "goal_difference": -6,
+        "losses": 6,
+        "goals_for": 9,
+        "goals_against": 16,
+        "goal_difference": -7,
         "points": 10,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
+        "form": "LWLWW",
+        "form_label": "负胜负胜胜"
       },
       {
         "position": 7,
@@ -695,7 +695,7 @@
         "match_id": "as_c33c8477e1524d74845cc63dbd87c8e2",
         "date": "2026-10-07",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -707,7 +707,10 @@
           "name": "迪里安根",
           "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1a3c0909c77b4d7eb99bf3791764f618",
@@ -1930,7 +1933,7 @@
         "match_id": "as_c33c8477e1524d74845cc63dbd87c8e2",
         "date": "2026-10-07",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -1942,7 +1945,10 @@
           "name": "迪里安根",
           "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -3474,13 +3480,13 @@
     }
   },
   "stats": {
-    "matches_completed": 47,
-    "total_goals": 129,
-    "avg_goals_per_match": 2.74,
+    "matches_completed": 48,
+    "total_goals": 132,
+    "avg_goals_per_match": 2.75,
     "home_wins": 16,
     "draws": 10,
-    "away_wins": 21,
-    "home_win_pct": 34.0,
+    "away_wins": 22,
+    "home_win_pct": 33.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -3619,15 +3625,15 @@
             "position": 2,
             "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
             "team": "Diriangen",
-            "played": 9,
-            "wins": 7,
+            "played": 10,
+            "wins": 8,
             "draws": 2,
             "losses": 0,
-            "goals_for": 20,
-            "goals_against": 6,
-            "goal_difference": 14,
-            "points": 23,
-            "form": "WWDWW"
+            "goals_for": 22,
+            "goals_against": 7,
+            "goal_difference": 15,
+            "points": 26,
+            "form": "WWWDW"
           },
           {
             "position": 3,
@@ -4280,5 +4286,5 @@
     "matches_current_season": 60,
     "upcoming_matches": 13
   },
-  "updated_at": "2026/10/06"
+  "updated_at": "2026/10/07"
 }
