@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2025-2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
@@ -88,15 +88,15 @@
         "position": 1,
         "team_id": "ast_2968442234214bc1a6111998fc55383e",
         "team": "Al Riyadi Abbasiyah",
-        "played": 3,
-        "wins": 2,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 6,
-        "goals_against": 1,
-        "goal_difference": 5,
-        "points": 7,
-        "form": "WDW"
+        "played": 25,
+        "wins": 8,
+        "draws": 6,
+        "losses": 11,
+        "goals_for": 24,
+        "goals_against": 32,
+        "goal_difference": -8,
+        "points": 20,
+        "form": "WWDWW"
       },
       {
         "position": 2,
@@ -130,15 +130,15 @@
         "position": 2,
         "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299",
         "team": "Tadamon",
-        "played": 3,
-        "wins": 2,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 4,
-        "goals_against": 1,
-        "goal_difference": 3,
-        "points": 7,
-        "form": "WDW"
+        "played": 25,
+        "wins": 5,
+        "draws": 9,
+        "losses": 11,
+        "goals_for": 17,
+        "goals_against": 29,
+        "goal_difference": -12,
+        "points": 16,
+        "form": "LWDWL"
       },
       {
         "position": 3,
@@ -172,15 +172,15 @@
         "position": 3,
         "team_id": "ast_0625c57caf654ede80b87e6fcc4246c9",
         "team": "Racing",
-        "played": 4,
+        "played": 25,
         "wins": 0,
-        "draws": 0,
-        "losses": 4,
-        "goals_for": 2,
-        "goals_against": 10,
-        "goal_difference": -8,
-        "points": 0,
-        "form": "LLLL"
+        "draws": 1,
+        "losses": 24,
+        "goals_for": 6,
+        "goals_against": 71,
+        "goal_difference": -65,
+        "points": 1,
+        "form": "LLLLL"
       },
       {
         "position": 7,
@@ -260,16 +260,16 @@
         "position": 1,
         "team_id": "ast_2968442234214bc1a6111998fc55383e",
         "team": "阿尔里亚迪阿巴斯",
-        "played": 3,
-        "wins": 2,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 6,
-        "goals_against": 1,
-        "goal_difference": 5,
-        "points": 7,
-        "form": "WDW",
-        "form_label": "胜平胜"
+        "played": 25,
+        "wins": 8,
+        "draws": 6,
+        "losses": 11,
+        "goals_for": 24,
+        "goals_against": 32,
+        "goal_difference": -8,
+        "points": 20,
+        "form": "WWDWW",
+        "form_label": "胜胜平胜胜"
       },
       {
         "position": 2,
@@ -305,16 +305,16 @@
         "position": 2,
         "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299",
         "team": "塔达蒙",
-        "played": 3,
-        "wins": 2,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 4,
-        "goals_against": 1,
-        "goal_difference": 3,
-        "points": 7,
-        "form": "WDW",
-        "form_label": "胜平胜"
+        "played": 25,
+        "wins": 5,
+        "draws": 9,
+        "losses": 11,
+        "goals_for": 17,
+        "goals_against": 29,
+        "goal_difference": -12,
+        "points": 16,
+        "form": "LWDWL",
+        "form_label": "负胜平胜负"
       },
       {
         "position": 3,
@@ -350,16 +350,16 @@
         "position": 3,
         "team_id": "ast_0625c57caf654ede80b87e6fcc4246c9",
         "team": "竞技",
-        "played": 4,
+        "played": 25,
         "wins": 0,
-        "draws": 0,
-        "losses": 4,
-        "goals_for": 2,
-        "goals_against": 10,
-        "goal_difference": -8,
-        "points": 0,
-        "form": "LLLL",
-        "form_label": "负负负负"
+        "draws": 1,
+        "losses": 24,
+        "goals_for": 6,
+        "goals_against": 71,
+        "goal_difference": -65,
+        "points": 1,
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 7,
@@ -426,30 +426,10 @@
     "season": "2025-2026",
     "matches": [
       {
-        "match_id": "as_3cf2cf604dc24396946b847e9655627c",
-        "date": "2026-08-01",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "黎巴嫩超级联赛",
-        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
-        "season": "2025/2026",
-        "home": {
-          "name": "阿尔阿赫德",
-          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
-        },
-        "away": {
-          "name": "朱瓦亚",
-          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
-        },
-        "ht_score": "-",
-        "venue": "贝鲁特市政体育场",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_84eb430269a24146ac14b64053efdc60",
-        "date": "2026-08-01",
-        "time": "18:30",
-        "status": "Not Started",
+        "date": "2026-08-02",
+        "time": "17:45",
+        "status": "FT",
         "league": "黎巴嫩超级联赛",
         "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
         "season": "2025/2026",
@@ -461,15 +441,37 @@
           "name": "阿尔安萨尔",
           "team_id": "ast_5a16d973f398455bb83350bf56a313c9"
         },
-        "ht_score": "-",
+        "ht_score": "1-1",
+        "reg_score": "1-2",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
+      },
+      {
+        "match_id": "as_3cf2cf604dc24396946b847e9655627c",
+        "date": "2026-08-01",
+        "time": "14:30",
+        "status": "FT",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2025/2026",
+        "home": {
+          "name": "阿尔阿赫德",
+          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
+        },
+        "away": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "ht_score": "2-0",
+        "reg_score": "2-2",
+        "venue": "贝鲁特市政体育场",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e6998cd1884a4f70a5c39b02d6c5c0d7",
         "date": "2026-07-29",
         "time": "13:40",
-        "status": "HT",
+        "status": "FT",
         "league": "黎巴嫩超级联赛",
         "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
         "season": "2025/2026",
@@ -482,9 +484,9 @@
           "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
         },
         "ht_score": "1-1",
-        "reg_score": "1-1",
+        "reg_score": "2-1",
         "venue": "",
-        "status_label": "中场"
+        "status_label": "完场"
       },
       {
         "match_id": "as_2548dfec494a40aea989218139475fff",
@@ -3492,16 +3494,76 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_84eb430269a24146ac14b64053efdc60",
-        "date": "2026-08-01",
-        "time": "18:30",
+        "match_id": "as_741cb88cfaed47eb8857afc3a5f1052f",
+        "date": "2026-11-22",
+        "time": "11:15",
         "status": "Not Started",
         "league": "黎巴嫩超级联赛",
         "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
-        "season": "2025/2026",
+        "season": "2026/2027",
         "home": {
-          "name": "内杰梅SC",
-          "team_id": "ast_8c129fd3f84440778b39109bc64a4200"
+          "name": "塔达蒙",
+          "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
+        },
+        "away": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2f9e057a04974fde8ea2916724a7b48f",
+        "date": "2026-11-21",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "的黎波里SC",
+          "team_id": "ast_3ae6be48a3bb4d6bae1650b8ea51d8a3"
+        },
+        "away": {
+          "name": "阿尔里亚迪阿巴斯",
+          "team_id": "ast_2968442234214bc1a6111998fc55383e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ee39e6f388b9407aa44717bae9061130",
+        "date": "2026-11-21",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "Al Akhaa Al Ahli",
+          "team_id": "ast_023ec88abc504f718c380461d4308913"
+        },
+        "away": {
+          "name": "阿尔阿赫德",
+          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9a3dcb013ff24bba8be7f545e47aa587",
+        "date": "2026-11-20",
+        "time": "18:45",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "萨法",
+          "team_id": "ast_68096dc2a019482884eb8e7b0048a00b"
         },
         "away": {
           "name": "阿尔安萨尔",
@@ -3512,45 +3574,680 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_3cf2cf604dc24396946b847e9655627c",
-        "date": "2026-08-01",
-        "time": "14:30",
+        "match_id": "as_0a4703aea74f4faf9c09635c64894b2b",
+        "date": "2026-11-20",
+        "time": "11:15",
         "status": "Not Started",
         "league": "黎巴嫩超级联赛",
         "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
-        "season": "2025/2026",
+        "season": "2026/2027",
+        "home": {
+          "name": "内杰梅SC",
+          "team_id": "ast_8c129fd3f84440778b39109bc64a4200"
+        },
+        "away": {
+          "name": "阿尔马巴拉",
+          "team_id": "ast_b27280653ffb4ac8bebf59ce3baaa6e3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_bba5059f823a490084415cde5015e3bf",
+        "date": "2026-11-19",
+        "time": "18:30",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔希克马",
+          "team_id": "ast_b438ee7164954ca1823555b40727e680"
+        },
+        "away": {
+          "name": "阿尔萨赫尔",
+          "team_id": "ast_053d4447fdbc4fffb696cd88c867b830"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_508d9f2509ec470ebf20339bec0008ed",
+        "date": "2026-11-08",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
         "home": {
           "name": "阿尔阿赫德",
           "team_id": "ast_48a6169b9ae545b3880675763356be3b"
         },
         "away": {
-          "name": "朱瓦亚",
-          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+          "name": "内杰梅SC",
+          "team_id": "ast_8c129fd3f84440778b39109bc64a4200"
         },
         "ht_score": "-",
         "venue": "贝鲁特市政体育场",
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_e6998cd1884a4f70a5c39b02d6c5c0d7",
-        "date": "2026-07-29",
-        "time": "13:40",
-        "status": "HT",
+        "match_id": "as_9c01ace1f4124767bf6f5bd1bfc3506c",
+        "date": "2026-11-08",
+        "time": "11:15",
+        "status": "Not Started",
         "league": "黎巴嫩超级联赛",
         "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
-        "season": "2025/2026",
+        "season": "2026/2027",
+        "home": {
+          "name": "塔达蒙",
+          "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
+        },
+        "away": {
+          "name": "阿尔安萨尔",
+          "team_id": "ast_5a16d973f398455bb83350bf56a313c9"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3c7194533f6a4f9ab657fabfce30ebba",
+        "date": "2026-11-07",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔马巴拉",
+          "team_id": "ast_b27280653ffb4ac8bebf59ce3baaa6e3"
+        },
+        "away": {
+          "name": "阿尔萨赫尔",
+          "team_id": "ast_053d4447fdbc4fffb696cd88c867b830"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9d339a5335d746b7b4ad425e92813f3d",
+        "date": "2026-11-07",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "Al Akhaa Al Ahli",
+          "team_id": "ast_023ec88abc504f718c380461d4308913"
+        },
+        "away": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_18df5f1adab04f05bf9096abb8ca385a",
+        "date": "2026-11-06",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "萨法",
+          "team_id": "ast_68096dc2a019482884eb8e7b0048a00b"
+        },
+        "away": {
+          "name": "的黎波里SC",
+          "team_id": "ast_3ae6be48a3bb4d6bae1650b8ea51d8a3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_efad915b003b44ca9135fb363417c49b",
+        "date": "2026-11-06",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
         "home": {
           "name": "阿尔里亚迪阿巴斯",
           "team_id": "ast_2968442234214bc1a6111998fc55383e"
         },
         "away": {
+          "name": "阿尔希克马",
+          "team_id": "ast_b438ee7164954ca1823555b40727e680"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3822fa84410a4503a5dd639b4e2806fc",
+        "date": "2026-11-01",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "away": {
+          "name": "内杰梅SC",
+          "team_id": "ast_8c129fd3f84440778b39109bc64a4200"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_39e8e8efbe4a4b1684caa9362b9b2f85",
+        "date": "2026-11-01",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔马巴拉",
+          "team_id": "ast_b27280653ffb4ac8bebf59ce3baaa6e3"
+        },
+        "away": {
+          "name": "阿尔里亚迪阿巴斯",
+          "team_id": "ast_2968442234214bc1a6111998fc55383e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_734e6cf89a3a4f58a236d45499f3a067",
+        "date": "2026-10-31",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔希克马",
+          "team_id": "ast_b438ee7164954ca1823555b40727e680"
+        },
+        "away": {
+          "name": "的黎波里SC",
+          "team_id": "ast_3ae6be48a3bb4d6bae1650b8ea51d8a3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1a33267c50df4a2380ab432c8f05447c",
+        "date": "2026-10-31",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "Al Akhaa Al Ahli",
+          "team_id": "ast_023ec88abc504f718c380461d4308913"
+        },
+        "away": {
+          "name": "阿尔安萨尔",
+          "team_id": "ast_5a16d973f398455bb83350bf56a313c9"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_06d95d2961354e7dbee4a1190736b1df",
+        "date": "2026-10-30",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
           "name": "塔达蒙",
           "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
         },
-        "ht_score": "1-1",
-        "reg_score": "1-1",
+        "away": {
+          "name": "萨法",
+          "team_id": "ast_68096dc2a019482884eb8e7b0048a00b"
+        },
+        "ht_score": "-",
         "venue": "",
-        "status_label": "中场"
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_565af343b10a4a2aaed4ed088835a0d5",
+        "date": "2026-10-30",
+        "time": "11:15",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔萨赫尔",
+          "team_id": "ast_053d4447fdbc4fffb696cd88c867b830"
+        },
+        "away": {
+          "name": "阿尔阿赫德",
+          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e4f0f2b9f8ea41598b7826b55dc89af0",
+        "date": "2026-10-25",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "away": {
+          "name": "阿尔萨赫尔",
+          "team_id": "ast_053d4447fdbc4fffb696cd88c867b830"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_fac054acf6a34d39ba16cbe074c14cb8",
+        "date": "2026-10-24",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔希克马",
+          "team_id": "ast_b438ee7164954ca1823555b40727e680"
+        },
+        "away": {
+          "name": "阿尔马巴拉",
+          "team_id": "ast_b27280653ffb4ac8bebf59ce3baaa6e3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c21b92aaaa0e4528b36f791c332439b4",
+        "date": "2026-10-24",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "Al Akhaa Al Ahli",
+          "team_id": "ast_023ec88abc504f718c380461d4308913"
+        },
+        "away": {
+          "name": "萨法",
+          "team_id": "ast_68096dc2a019482884eb8e7b0048a00b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_fe66bb2ae7d140f685c6c1e12a822ae2",
+        "date": "2026-10-23",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "的黎波里SC",
+          "team_id": "ast_3ae6be48a3bb4d6bae1650b8ea51d8a3"
+        },
+        "away": {
+          "name": "塔达蒙",
+          "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d5cdd960c1304458ba46bb0d606f5168",
+        "date": "2026-10-23",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔阿赫德",
+          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
+        },
+        "away": {
+          "name": "阿尔里亚迪阿巴斯",
+          "team_id": "ast_2968442234214bc1a6111998fc55383e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_97beeb000b4348b880ef854687e79c20",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔里亚迪阿巴斯",
+          "team_id": "ast_2968442234214bc1a6111998fc55383e"
+        },
+        "away": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_983260b635054c6b97825ab8c7a50dae",
+        "date": "2026-10-18",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔马巴拉",
+          "team_id": "ast_b27280653ffb4ac8bebf59ce3baaa6e3"
+        },
+        "away": {
+          "name": "的黎波里SC",
+          "team_id": "ast_3ae6be48a3bb4d6bae1650b8ea51d8a3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f990bf798c5d4ad38878561c25ad01d9",
+        "date": "2026-10-17",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔希克马",
+          "team_id": "ast_b438ee7164954ca1823555b40727e680"
+        },
+        "away": {
+          "name": "阿尔阿赫德",
+          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_97a940438f054b6fa80d1eef27542152",
+        "date": "2026-10-17",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "塔达蒙",
+          "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
+        },
+        "away": {
+          "name": "Al Akhaa Al Ahli",
+          "team_id": "ast_023ec88abc504f718c380461d4308913"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_afd56f3c937c4ef1ba6ed402f284d54f",
+        "date": "2026-10-13",
+        "time": "18:00",
+        "status": "18:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔阿赫德",
+          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
+        },
+        "away": {
+          "name": "阿尔马巴拉",
+          "team_id": "ast_b27280653ffb4ac8bebf59ce3baaa6e3"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_812d0a67ea8b43299fb8549d3e2c61de",
+        "date": "2026-10-13",
+        "time": "13:30",
+        "status": "13:30",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "away": {
+          "name": "阿尔希克马",
+          "team_id": "ast_b438ee7164954ca1823555b40727e680"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_3fbe864ad6fd4ea18ca7e125f26ec274",
+        "date": "2026-10-13",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔萨赫尔",
+          "team_id": "ast_053d4447fdbc4fffb696cd88c867b830"
+        },
+        "away": {
+          "name": "萨法",
+          "team_id": "ast_68096dc2a019482884eb8e7b0048a00b"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_a5bf246011c147da8a6d713211128caf",
+        "date": "2026-10-12",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "的黎波里SC",
+          "team_id": "ast_3ae6be48a3bb4d6bae1650b8ea51d8a3"
+        },
+        "away": {
+          "name": "Al Akhaa Al Ahli",
+          "team_id": "ast_023ec88abc504f718c380461d4308913"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_1376eae790604b94bd1c16b5b6b43a47",
+        "date": "2026-10-12",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "内杰梅SC",
+          "team_id": "ast_8c129fd3f84440778b39109bc64a4200"
+        },
+        "away": {
+          "name": "塔达蒙",
+          "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_676db59c4a0a45f38f969c44e0a8c21d",
+        "date": "2026-10-12",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔里亚迪阿巴斯",
+          "team_id": "ast_2968442234214bc1a6111998fc55383e"
+        },
+        "away": {
+          "name": "阿尔安萨尔",
+          "team_id": "ast_5a16d973f398455bb83350bf56a313c9"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_c681ddd14ba64834ac5a38f80906c2a8",
+        "date": "2026-10-09",
+        "time": "13:30",
+        "status": "13:30",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "朱瓦亚",
+          "team_id": "ast_907285c7255c426688f0ea7ecab25a20"
+        },
+        "away": {
+          "name": "阿尔马巴拉",
+          "team_id": "ast_b27280653ffb4ac8bebf59ce3baaa6e3"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_c4291156abf243bbb9cb2da7dc02daf6",
+        "date": "2026-10-09",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "的黎波里SC",
+          "team_id": "ast_3ae6be48a3bb4d6bae1650b8ea51d8a3"
+        },
+        "away": {
+          "name": "阿尔阿赫德",
+          "team_id": "ast_48a6169b9ae545b3880675763356be3b"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_fdf249186e90414c8d5d91cc5ac28fd9",
+        "date": "2026-10-08",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔安萨尔",
+          "team_id": "ast_5a16d973f398455bb83350bf56a313c9"
+        },
+        "away": {
+          "name": "阿尔希克马",
+          "team_id": "ast_b438ee7164954ca1823555b40727e680"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_7b75505ea7c04cf083390b5a6f62e82a",
+        "date": "2026-10-08",
+        "time": "18:45",
+        "status": "18:45",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "萨法",
+          "team_id": "ast_68096dc2a019482884eb8e7b0048a00b"
+        },
+        "away": {
+          "name": "阿尔里亚迪阿巴斯",
+          "team_id": "ast_2968442234214bc1a6111998fc55383e"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_e92e587ee1f5460da0cdc18057e4ee05",
+        "date": "2026-10-08",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔萨赫尔",
+          "team_id": "ast_053d4447fdbc4fffb696cd88c867b830"
+        },
+        "away": {
+          "name": "塔达蒙",
+          "team_id": "ast_e7c98cab473b42d1994b5c77e5d4b299"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d700d6c407394f6080234c7f652d20f7",
+        "date": "2026-10-08",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "黎巴嫩超级联赛",
+        "league_id": "asl_1ea6e2b76b584a6787307609f3211ec8",
+        "season": "2026/2027",
+        "home": {
+          "name": "Al Akhaa Al Ahli",
+          "team_id": "ast_023ec88abc504f718c380461d4308913"
+        },
+        "away": {
+          "name": "内杰梅SC",
+          "team_id": "ast_8c129fd3f84440778b39109bc64a4200"
+        },
+        "venue": ""
       }
     ]
   },
@@ -3779,13 +4476,13 @@
     }
   },
   "stats": {
-    "matches_completed": 144,
-    "total_goals": 354,
-    "avg_goals_per_match": 2.46,
-    "home_wins": 66,
+    "matches_completed": 146,
+    "total_goals": 362,
+    "avg_goals_per_match": 2.48,
+    "home_wins": 67,
     "draws": 30,
-    "away_wins": 48,
-    "home_win_pct": 45.8,
+    "away_wins": 49,
+    "home_win_pct": 45.9,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -3923,15 +4620,15 @@
             "position": 1,
             "team_id": "ast_2968442234214bc1a6111998fc55383e",
             "team": "Al Riyadi Abbasiyah",
-            "played": 3,
-            "wins": 2,
-            "draws": 1,
-            "losses": 0,
-            "goals_for": 6,
-            "goals_against": 1,
-            "goal_difference": 5,
-            "points": 7,
-            "form": "WDW"
+            "played": 25,
+            "wins": 8,
+            "draws": 6,
+            "losses": 11,
+            "goals_for": 24,
+            "goals_against": 32,
+            "goal_difference": -8,
+            "points": 20,
+            "form": "WWDWW"
           }
         ],
         "meta": {
@@ -4571,6 +5268,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 12,
     "matches_current_season": 146,
-    "upcoming_matches": 3
-  }
+    "upcoming_matches": 39
+  },
+  "updated_at": "2026/10/08"
 }

@@ -348,15 +348,15 @@
         "position": 10,
         "team_id": "ast_ddf9b702c63642f580b5ac66b2426291",
         "team": "Inter Turku 2",
-        "played": 24,
-        "wins": 6,
+        "played": 25,
+        "wins": 7,
         "draws": 5,
         "losses": 13,
-        "goals_for": 36,
+        "goals_for": 39,
         "goals_against": 53,
-        "goal_difference": -17,
-        "points": 23,
-        "form": "WLLLL"
+        "goal_difference": -14,
+        "points": 26,
+        "form": "WWLLL"
       },
       {
         "position": 11,
@@ -376,15 +376,15 @@
         "position": 12,
         "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776",
         "team": "KuPS Akatemia",
-        "played": 24,
+        "played": 25,
         "wins": 3,
         "draws": 6,
-        "losses": 15,
+        "losses": 16,
         "goals_for": 41,
-        "goals_against": 58,
-        "goal_difference": -17,
+        "goals_against": 61,
+        "goal_difference": -20,
         "points": 15,
-        "form": "LLLWD"
+        "form": "LLLLW"
       }
     ],
     "zh": [
@@ -527,16 +527,16 @@
         "position": 10,
         "team_id": "ast_ddf9b702c63642f580b5ac66b2426291",
         "team": "国际图尔库二队",
-        "played": 24,
-        "wins": 6,
+        "played": 25,
+        "wins": 7,
         "draws": 5,
         "losses": 13,
-        "goals_for": 36,
+        "goals_for": 39,
         "goals_against": 53,
-        "goal_difference": -17,
-        "points": 23,
-        "form": "WLLLL",
-        "form_label": "胜负负负负"
+        "goal_difference": -14,
+        "points": 26,
+        "form": "WWLLL",
+        "form_label": "胜胜负负负"
       },
       {
         "position": 11,
@@ -557,16 +557,16 @@
         "position": 12,
         "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776",
         "team": "库普斯学院",
-        "played": 24,
+        "played": 25,
         "wins": 3,
         "draws": 6,
-        "losses": 15,
+        "losses": 16,
         "goals_for": 41,
-        "goals_against": 58,
-        "goal_difference": -17,
+        "goals_against": 61,
+        "goal_difference": -20,
         "points": 15,
-        "form": "LLLWD",
-        "form_label": "负负负胜平"
+        "form": "LLLLW",
+        "form_label": "负负负负胜"
       }
     ]
   },
@@ -819,7 +819,7 @@
         "match_id": "as_6d7ca3b54ce24fd1b6332f0a7a462fbd",
         "date": "2026-10-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "芬兰Ykkonen联赛",
         "league_id": "asl_8955600dc80748a4843a445302da1fff",
         "season": "2026",
@@ -831,7 +831,10 @@
           "name": "国际图尔库二队",
           "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ff4d9bf1bac74520949a4a0fd478ca19",
@@ -4191,24 +4194,6 @@
           "team_id": "ast_2e16cfb818ac4afe977f209bfdc17c4f"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_6d7ca3b54ce24fd1b6332f0a7a462fbd",
-        "date": "2026-10-07",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "芬兰Ykkonen联赛",
-        "league_id": "asl_8955600dc80748a4843a445302da1fff",
-        "season": "2026",
-        "home": {
-          "name": "库普斯学院",
-          "team_id": "ast_a2476d3d9fa547048bc804a52dfcd776"
-        },
-        "away": {
-          "name": "国际图尔库二队",
-          "team_id": "ast_ddf9b702c63642f580b5ac66b2426291"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7505,13 +7490,13 @@
     }
   },
   "stats": {
-    "matches_completed": 149,
-    "total_goals": 533,
-    "avg_goals_per_match": 3.58,
+    "matches_completed": 150,
+    "total_goals": 536,
+    "avg_goals_per_match": 3.57,
     "home_wins": 64,
     "draws": 39,
-    "away_wins": 46,
-    "home_win_pct": 43.0,
+    "away_wins": 47,
+    "home_win_pct": 42.7,
     "biggest_win": {
       "margin": 10,
       "match": {
@@ -8309,7 +8294,7 @@
     "teams_all_time": 51,
     "standings_rows_current": 12,
     "matches_current_season": 162,
-    "upcoming_matches": 13
+    "upcoming_matches": 12
   },
-  "updated_at": "2026/10/07"
+  "updated_at": "2026/10/08"
 }

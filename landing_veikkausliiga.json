@@ -3341,7 +3341,7 @@
         "match_id": "as_9d59c57c96e34535b65baf5e8a7a2dad",
         "date": "2026-10-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3353,7 +3353,10 @@
           "name": "国际图尔库",
           "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8db915d43e8942dda7fee027afa98c1d",
@@ -7008,24 +7011,6 @@
         "away": {
           "name": "VPS",
           "team_id": "ast_d68d155d554a4e65855d70cdec8228df"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9d59c57c96e34535b65baf5e8a7a2dad",
-        "date": "2026-10-07",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "格尼斯坦",
-          "team_id": "ast_b0e7c67a14bc4f378f17593befac751c"
-        },
-        "away": {
-          "name": "国际图尔库",
-          "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
         },
         "venue": ""
       }
@@ -11449,13 +11434,13 @@
     }
   },
   "stats": {
-    "matches_completed": 150,
+    "matches_completed": 151,
     "total_goals": 376,
-    "avg_goals_per_match": 2.51,
+    "avg_goals_per_match": 2.49,
     "home_wins": 68,
-    "draws": 41,
+    "draws": 42,
     "away_wins": 41,
-    "home_win_pct": 45.3,
+    "home_win_pct": 45.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12260,7 +12245,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 177,
-    "upcoming_matches": 27
+    "upcoming_matches": 26
   },
-  "updated_at": "2026/10/07"
+  "updated_at": "2026/10/08"
 }

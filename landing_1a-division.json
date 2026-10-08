@@ -677,7 +677,7 @@
         "match_id": "as_91b15d57ba31402fa02df35b5e3e5589",
         "date": "2026-10-08",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -689,7 +689,10 @@
           "name": "皇家埃斯特利",
           "team_id": "ast_954430cf29394cc9b9f7e28f39156229"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c33c8477e1524d74845cc63dbd87c8e2",
@@ -1915,7 +1918,7 @@
         "match_id": "as_91b15d57ba31402fa02df35b5e3e5589",
         "date": "2026-10-08",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -1927,26 +1930,8 @@
           "name": "皇家埃斯特利",
           "team_id": "ast_954430cf29394cc9b9f7e28f39156229"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c33c8477e1524d74845cc63dbd87c8e2",
-        "date": "2026-10-07",
-        "time": "00:00",
-        "status": "FT",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "圣马尔科斯",
-          "team_id": "ast_657001f610c14f49b5af5e28679a27cc"
-        },
-        "away": {
-          "name": "迪里安根",
-          "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
-        },
-        "ht_score": "0-0",
-        "reg_score": "1-2",
+        "ht_score": "1-0",
+        "reg_score": "1-0",
         "venue": "",
         "status_label": "完场"
       }
@@ -3480,13 +3465,13 @@
     }
   },
   "stats": {
-    "matches_completed": 48,
-    "total_goals": 132,
-    "avg_goals_per_match": 2.75,
-    "home_wins": 16,
+    "matches_completed": 49,
+    "total_goals": 133,
+    "avg_goals_per_match": 2.71,
+    "home_wins": 17,
     "draws": 10,
     "away_wins": 22,
-    "home_win_pct": 33.3,
+    "home_win_pct": 34.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4284,7 +4269,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 10,
     "matches_current_season": 60,
-    "upcoming_matches": 13
+    "upcoming_matches": 12
   },
-  "updated_at": "2026/10/07"
+  "updated_at": "2026/10/08"
 }

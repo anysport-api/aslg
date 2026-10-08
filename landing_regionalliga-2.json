@@ -1334,20 +1334,6 @@
       },
       {
         "position": 17,
-        "team_id": "ast_d22f2893abe5400480d53c72681db73a",
-        "team": "Wiedenbruck",
-        "played": 11,
-        "wins": 2,
-        "draws": 2,
-        "losses": 7,
-        "goals_for": 14,
-        "goals_against": 26,
-        "goal_difference": -12,
-        "points": 8,
-        "form": "LLLWW"
-      },
-      {
-        "position": 17,
         "team_id": "ast_f4dbd4e64f78436982d6fe754ce35ba1",
         "team": "Jeddeloh",
         "played": 12,
@@ -1403,18 +1389,18 @@
         "form": "LWWDW"
       },
       {
-        "position": 18,
-        "team_id": "ast_f70017cb392548e0ac75e27bc4b3d7ce",
-        "team": "Lotte",
+        "position": 17,
+        "team_id": "ast_d22f2893abe5400480d53c72681db73a",
+        "team": "Wiedenbruck",
         "played": 11,
-        "wins": 0,
-        "draws": 3,
-        "losses": 8,
-        "goals_for": 7,
-        "goals_against": 22,
-        "goal_difference": -15,
-        "points": 3,
-        "form": "LLLLL"
+        "wins": 2,
+        "draws": 2,
+        "losses": 7,
+        "goals_for": 14,
+        "goals_against": 26,
+        "goal_difference": -12,
+        "points": 8,
+        "form": "LLLWW"
       },
       {
         "position": 18,
@@ -1470,6 +1456,20 @@
         "goals_against": 20,
         "goal_difference": -6,
         "points": 8,
+        "form": "LLLLL"
+      },
+      {
+        "position": 18,
+        "team_id": "ast_f70017cb392548e0ac75e27bc4b3d7ce",
+        "team": "Lotte",
+        "played": 11,
+        "wins": 0,
+        "draws": 3,
+        "losses": 8,
+        "goals_for": 7,
+        "goals_against": 22,
+        "goal_difference": -15,
+        "points": 3,
         "form": "LLLLL"
       },
       {
@@ -2690,21 +2690,6 @@
       },
       {
         "position": 17,
-        "team_id": "ast_d22f2893abe5400480d53c72681db73a",
-        "team": "维登布鲁克",
-        "played": 11,
-        "wins": 2,
-        "draws": 2,
-        "losses": 7,
-        "goals_for": 14,
-        "goals_against": 26,
-        "goal_difference": -12,
-        "points": 8,
-        "form": "LLLWW",
-        "form_label": "负负负胜胜"
-      },
-      {
-        "position": 17,
         "team_id": "ast_f4dbd4e64f78436982d6fe754ce35ba1",
         "team": "杰德洛赫",
         "played": 12,
@@ -2764,19 +2749,19 @@
         "form_label": "负胜胜平胜"
       },
       {
-        "position": 18,
-        "team_id": "ast_f70017cb392548e0ac75e27bc4b3d7ce",
-        "team": "洛特",
+        "position": 17,
+        "team_id": "ast_d22f2893abe5400480d53c72681db73a",
+        "team": "维登布鲁克",
         "played": 11,
-        "wins": 0,
-        "draws": 3,
-        "losses": 8,
-        "goals_for": 7,
-        "goals_against": 22,
-        "goal_difference": -15,
-        "points": 3,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
+        "wins": 2,
+        "draws": 2,
+        "losses": 7,
+        "goals_for": 14,
+        "goals_against": 26,
+        "goal_difference": -12,
+        "points": 8,
+        "form": "LLLWW",
+        "form_label": "负负负胜胜"
       },
       {
         "position": 18,
@@ -2835,6 +2820,21 @@
         "goals_against": 20,
         "goal_difference": -6,
         "points": 8,
+        "form": "LLLLL",
+        "form_label": "负负负负负"
+      },
+      {
+        "position": 18,
+        "team_id": "ast_f70017cb392548e0ac75e27bc4b3d7ce",
+        "team": "洛特",
+        "played": 11,
+        "wins": 0,
+        "draws": 3,
+        "losses": 8,
+        "goals_for": 7,
+        "goals_against": 22,
+        "goal_difference": -15,
+        "points": 3,
         "form": "LLLLL",
         "form_label": "负负负负负"
       },
@@ -19433,6 +19433,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_e8df8e81f560441a8ef40bec77608917",
+        "date": "2026-11-12",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国地区联赛",
+        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
+        "season": "2026/2027",
+        "home": {
+          "name": "帕德博恩二队",
+          "team_id": "ast_622126e00e4342d08422e10172c7ef26"
+        },
+        "away": {
+          "name": "波鸿二队",
+          "team_id": "ast_704257944c224c56be73497781f689a5"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_eb15f8b2c18f4d719c051f3356130f5c",
         "date": "2026-11-08",
         "time": "13:00",
@@ -19747,26 +19767,6 @@
         "away": {
           "name": "迪纳摩BFC",
           "team_id": "ast_58d9c60392d6439bbb52e7b4013734be"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_413762a003f14d678520db9fb37a8f28",
-        "date": "2026-11-07",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "德国地区联赛",
-        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
-        "season": "2026/2027",
-        "home": {
-          "name": "化学莱比锡",
-          "team_id": "ast_8db49a62f0774e30adf64f1e8d651be5"
-        },
-        "away": {
-          "name": "埃尔福特",
-          "team_id": "ast_63bbd9ae79eb47caaa167ac81ae83a32"
         },
         "ht_score": "-",
         "venue": "",
@@ -20227,6 +20227,26 @@
         "away": {
           "name": "塔斯马尼亚柏林",
           "team_id": "ast_80032b2ba9d44d66afe515773b1345a1"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_413762a003f14d678520db9fb37a8f28",
+        "date": "2026-11-06",
+        "time": "18:00",
+        "status": "Not Started",
+        "league": "德国地区联赛",
+        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
+        "season": "2026/2027",
+        "home": {
+          "name": "化学莱比锡",
+          "team_id": "ast_8db49a62f0774e30adf64f1e8d651be5"
+        },
+        "away": {
+          "name": "埃尔福特",
+          "team_id": "ast_63bbd9ae79eb47caaa167ac81ae83a32"
         },
         "ht_score": "-",
         "venue": "",
@@ -22850,26 +22870,6 @@
         },
         "ht_score": "-",
         "venue": "北体育公园",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e8df8e81f560441a8ef40bec77608917",
-        "date": "2026-10-17",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "德国地区联赛",
-        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
-        "season": "2026/2027",
-        "home": {
-          "name": "帕德博恩二队",
-          "team_id": "ast_622126e00e4342d08422e10172c7ef26"
-        },
-        "away": {
-          "name": "波鸿二队",
-          "team_id": "ast_704257944c224c56be73497781f689a5"
-        },
-        "ht_score": "-",
-        "venue": "",
         "status_label": "未开赛"
       },
       {
@@ -60370,6 +60370,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_fd02b22996404080a99e0f10730f6b6f",
+        "date": "2026-11-22",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "德国地区联赛",
+        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
+        "season": "2026/2027",
+        "home": {
+          "name": "古特斯洛",
+          "team_id": "ast_dd31e2b4bf7e43559ea5fa172f46607e"
+        },
+        "away": {
+          "name": "奥伯豪森",
+          "team_id": "ast_488c6996a89b432db0c6cf764277ab72"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_01ff69d13b80489ba83fc4b35da2244f",
+        "date": "2026-11-22",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国地区联赛",
+        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
+        "season": "2026/2027",
+        "home": {
+          "name": "桑德豪森",
+          "team_id": "ast_a760fe726b114cb0b7073a43948d9b98"
+        },
+        "away": {
+          "name": "斯图加特踢球者",
+          "team_id": "ast_e7a9d3834f9a4c9d91bd5542258c8dec"
+        },
+        "ht_score": "-",
+        "venue": "Hardtwaldstadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0922008d7106429da9259e625b49b06f",
+        "date": "2026-11-22",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国地区联赛",
+        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
+        "season": "2026/2027",
+        "home": {
+          "name": "纽伦堡II",
+          "team_id": "ast_c0309a4785534f0ea9742e01451d3a70"
+        },
+        "away": {
+          "name": "维尔青",
+          "team_id": "ast_8bd0b5a330e540fa8f9b1012c5b8eed7"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_bfac63a7e00e4a6bac4c47910b052744",
+        "date": "2026-11-22",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "德国地区联赛",
+        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
+        "season": "2026/2027",
+        "home": {
+          "name": "普鲁森BFC",
+          "team_id": "ast_d41377c1596c463dbb27061803a57ab2"
+        },
+        "away": {
+          "name": "化学莱比锡",
+          "team_id": "ast_8db49a62f0774e30adf64f1e8d651be5"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_3f60f6225b434526a249f740af5469bb",
         "date": "2026-11-21",
         "time": "13:00",
@@ -61284,86 +61364,6 @@
         "away": {
           "name": "阿伦",
           "team_id": "ast_1e3f5143531445a1ae54ce2d8cf41c89"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_44251ec25da74116a42790cecd990fe0",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国地区联赛",
-        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
-        "season": "2026/2027",
-        "home": {
-          "name": "富尔达-莱赫内茨",
-          "team_id": "ast_c828b93d77634ef1bbc22bd702017332"
-        },
-        "away": {
-          "name": "奥芬巴赫",
-          "team_id": "ast_7ff0f97c5fbf4e498122fc6aa4c6ffc5"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_70de219f1f504ae7a5a2322c96949a64",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国地区联赛",
-        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
-        "season": "2026/2027",
-        "home": {
-          "name": "弗赖堡II",
-          "team_id": "ast_4e7728e6f616442bba891a6c65cb9f88"
-        },
-        "away": {
-          "name": "瓦尔多夫",
-          "team_id": "ast_913aab90b0294702a10ab08f2378d8b2"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2118cbbf1d6a432f99bc542e063cbc7d",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国地区联赛",
-        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
-        "season": "2026/2027",
-        "home": {
-          "name": "弗赖贝格",
-          "team_id": "ast_1cb284d54ea446f6a38871347ab50066"
-        },
-        "away": {
-          "name": "爱因海特·特里尔",
-          "team_id": "ast_d914bbe9546244da98f88743e4ddd895"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ddd5854c5b0e4c5385a525d011d70d67",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "Not Started",
-        "league": "德国地区联赛",
-        "league_id": "asl_b874f79ebeab4186b0bc03707aaf68ef",
-        "season": "2026/2027",
-        "home": {
-          "name": "法兰克福二队",
-          "team_id": "ast_65d7b104027d415c832a76ad30fcdd61"
-        },
-        "away": {
-          "name": "美因茨二队",
-          "team_id": "ast_29951813bc0c4d8e80f4d715bb355962"
         },
         "ht_score": "-",
         "venue": "",
@@ -73208,5 +73208,5 @@
     "matches_current_season": 2794,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/07"
+  "updated_at": "2026/10/08"
 }

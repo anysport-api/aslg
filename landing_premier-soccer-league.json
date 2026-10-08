@@ -166,15 +166,15 @@
         "position": 3,
         "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
         "team": "Dynamos",
-        "played": 29,
+        "played": 30,
         "wins": 12,
-        "draws": 14,
+        "draws": 15,
         "losses": 3,
-        "goals_for": 39,
-        "goals_against": 21,
+        "goals_for": 40,
+        "goals_against": 22,
         "goal_difference": 18,
-        "points": 50,
-        "form": "WDLDD"
+        "points": 51,
+        "form": "DWDLD"
       },
       {
         "position": 4,
@@ -304,7 +304,6 @@
       },
       {
         "position": 13,
-        "team_id": "ast_396032a2439d443eaa1d5d288fe1fe67",
         "team": "Hunters",
         "played": 29,
         "wins": 6,
@@ -348,15 +347,15 @@
         "position": 16,
         "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175",
         "team": "Triangle",
-        "played": 29,
+        "played": 30,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 17,
-        "goals_for": 20,
-        "goals_against": 35,
+        "goals_for": 21,
+        "goals_against": 36,
         "goal_difference": -15,
-        "points": 22,
-        "form": "WDWLL"
+        "points": 23,
+        "form": "DWDWL"
       },
       {
         "position": 17,
@@ -422,16 +421,16 @@
         "position": 3,
         "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
         "team": "迪纳摩斯",
-        "played": 29,
+        "played": 30,
         "wins": 12,
-        "draws": 14,
+        "draws": 15,
         "losses": 3,
-        "goals_for": 39,
-        "goals_against": 21,
+        "goals_for": 40,
+        "goals_against": 22,
         "goal_difference": 18,
-        "points": 50,
-        "form": "WDLDD",
-        "form_label": "胜平负平平"
+        "points": 51,
+        "form": "DWDLD",
+        "form_label": "平胜平负平"
       },
       {
         "position": 4,
@@ -570,8 +569,7 @@
       },
       {
         "position": 13,
-        "team_id": "ast_396032a2439d443eaa1d5d288fe1fe67",
-        "team": "猎人队",
+        "team": "阿帕雷西达",
         "played": 29,
         "wins": 6,
         "draws": 13,
@@ -617,16 +615,16 @@
         "position": 16,
         "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175",
         "team": "三角洲",
-        "played": 29,
+        "played": 30,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 17,
-        "goals_for": 20,
-        "goals_against": 35,
+        "goals_for": 21,
+        "goals_against": 36,
         "goal_difference": -15,
-        "points": 22,
-        "form": "WDWLL",
-        "form_label": "胜平胜负负"
+        "points": 23,
+        "form": "DWDWL",
+        "form_label": "平胜平胜负"
       },
       {
         "position": 17,
@@ -1005,7 +1003,7 @@
         "match_id": "as_666bb1abc9a0496bafa7c2d7622b9772",
         "date": "2026-10-07",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -1017,7 +1015,10 @@
           "name": "迪纳摩斯",
           "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_af16dcf00e2a4e22b71b3a1933add5f8",
@@ -6825,24 +6826,6 @@
           "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_666bb1abc9a0496bafa7c2d7622b9772",
-        "date": "2026-10-07",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "三角洲",
-          "team_id": "ast_a2b14b72f29f4b6c8c0e54a4ad1d0175"
-        },
-        "away": {
-          "name": "迪纳摩斯",
-          "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9176,13 +9159,13 @@
     }
   },
   "stats": {
-    "matches_completed": 261,
-    "total_goals": 493,
+    "matches_completed": 262,
+    "total_goals": 495,
     "avg_goals_per_match": 1.89,
     "home_wins": 94,
-    "draws": 95,
+    "draws": 96,
     "away_wins": 72,
-    "home_win_pct": 36.0,
+    "home_win_pct": 35.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9335,15 +9318,15 @@
             "position": 3,
             "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
             "team": "Dynamos",
-            "played": 29,
+            "played": 30,
             "wins": 12,
-            "draws": 14,
+            "draws": 15,
             "losses": 3,
-            "goals_for": 39,
-            "goals_against": 21,
+            "goals_for": 40,
+            "goals_against": 22,
             "goal_difference": 18,
-            "points": 50,
-            "form": "WDLDD"
+            "points": 51,
+            "form": "DWDLD"
           }
         ],
         "meta": {
@@ -9905,7 +9888,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 279,
-    "upcoming_matches": 18
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/10/07"
+  "updated_at": "2026/10/08"
 }
