@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2025-2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_d238e26bae1841df913eb53662f4a768",
@@ -853,26 +853,6 @@
   "fixtures": {
     "season": "2025-2026",
     "matches": [
-      {
-        "match_id": "as_5b017fe974404a32b722533633a33b49",
-        "date": "2026-10-03",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "英格兰非联赛超级联赛",
-        "league_id": "asl_d238e26bae1841df913eb53662f4a768",
-        "season": "2025/2026",
-        "home": {
-          "name": "恩菲尔德城",
-          "team_id": "ast_66a823e22e844880b3b63de201789eab"
-        },
-        "away": {
-          "name": "查塔姆",
-          "team_id": "ast_33e200e2cb1f43599c370589d423a606"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
       {
         "match_id": "as_c134aadc36804393823c5453732a31eb",
         "date": "2026-05-04",
@@ -39054,6 +39034,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_b77b9d297567474e9735664d263eddc1",
+        "date": "2026-11-23",
+        "time": "19:45",
+        "status": "Not Started",
+        "league": "英格兰非联赛超级联赛",
+        "league_id": "asl_d238e26bae1841df913eb53662f4a768",
+        "season": "2026/2027",
+        "home": {
+          "name": "卡尔肖尔顿",
+          "team_id": "ast_5ab475a26f854f8a8f8bee4277f2ef86"
+        },
+        "away": {
+          "name": "怀特利夫",
+          "team_id": "ast_d9a3d6475e9940b0acdff4bb16851978"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_c6983d7d03f4406e8825bbc4611aecdc",
         "date": "2026-11-21",
         "time": "15:00",
@@ -40028,26 +40028,6 @@
         "away": {
           "name": "三桥",
           "team_id": "ast_c5a2b6daf46d4514a7d6bf09d27a2529"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_238faa84edf344d3a1cfbf503a2d25a4",
-        "date": "2026-11-17",
-        "time": "19:45",
-        "status": "Not Started",
-        "league": "英格兰非联赛超级联赛",
-        "league_id": "asl_d238e26bae1841df913eb53662f4a768",
-        "season": "2026/2027",
-        "home": {
-          "name": "伯吉斯希尔",
-          "team_id": "ast_ded3256b7e264e1abda07b170fe83855"
-        },
-        "away": {
-          "name": "布伦特伍德",
-          "team_id": "ast_420364abe5944479914318678979bcc9"
         },
         "ht_score": "-",
         "venue": "",
@@ -58712,8 +58692,8 @@
     "distinct_title_holders": 14,
     "teams_all_time": 232,
     "standings_rows_current": 22,
-    "matches_current_season": 1819,
+    "matches_current_season": 1818,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/08"
+  "updated_at": "2026/10/09"
 }

@@ -164,6 +164,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_49146992bd134968bd38ce1b3250e794",
+        "team": "Ngezi Platinum",
+        "played": 30,
+        "wins": 13,
+        "draws": 13,
+        "losses": 4,
+        "goals_for": 36,
+        "goals_against": 25,
+        "goal_difference": 11,
+        "points": 52,
+        "form": "WDDWW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
         "team": "Dynamos",
         "played": 30,
@@ -175,20 +189,6 @@
         "goal_difference": 18,
         "points": 51,
         "form": "DWDLD"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_49146992bd134968bd38ce1b3250e794",
-        "team": "Ngezi Platinum",
-        "played": 29,
-        "wins": 12,
-        "draws": 13,
-        "losses": 4,
-        "goals_for": 35,
-        "goals_against": 25,
-        "goal_difference": 10,
-        "points": 49,
-        "form": "DDWWL"
       },
       {
         "position": 5,
@@ -222,15 +222,15 @@
         "position": 7,
         "team_id": "ast_e260138477464ca9bd4d505d46f508d3",
         "team": "Highlanders",
-        "played": 29,
+        "played": 30,
         "wins": 9,
         "draws": 15,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 26,
-        "goals_against": 21,
-        "goal_difference": 5,
+        "goals_against": 22,
+        "goal_difference": 4,
         "points": 42,
-        "form": "LDWDL"
+        "form": "LLDWD"
       },
       {
         "position": 8,
@@ -419,6 +419,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_49146992bd134968bd38ce1b3250e794",
+        "team": "恩盖兹铂金",
+        "played": 30,
+        "wins": 13,
+        "draws": 13,
+        "losses": 4,
+        "goals_for": 36,
+        "goals_against": 25,
+        "goal_difference": 11,
+        "points": 52,
+        "form": "WDDWW",
+        "form_label": "胜平平胜胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
         "team": "迪纳摩斯",
         "played": 30,
@@ -431,21 +446,6 @@
         "points": 51,
         "form": "DWDLD",
         "form_label": "平胜平负平"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_49146992bd134968bd38ce1b3250e794",
-        "team": "恩盖兹铂金",
-        "played": 29,
-        "wins": 12,
-        "draws": 13,
-        "losses": 4,
-        "goals_for": 35,
-        "goals_against": 25,
-        "goal_difference": 10,
-        "points": 49,
-        "form": "DDWWL",
-        "form_label": "平平胜胜负"
       },
       {
         "position": 5,
@@ -481,16 +481,16 @@
         "position": 7,
         "team_id": "ast_e260138477464ca9bd4d505d46f508d3",
         "team": "高地人",
-        "played": 29,
+        "played": 30,
         "wins": 9,
         "draws": 15,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 26,
-        "goals_against": 21,
-        "goal_difference": 5,
+        "goals_against": 22,
+        "goal_difference": 4,
         "points": 42,
-        "form": "LDWDL",
-        "form_label": "负平胜平负"
+        "form": "LLDWD",
+        "form_label": "负负平胜平"
       },
       {
         "position": 8,
@@ -859,7 +859,7 @@
         "match_id": "as_a6d685d5a92c4cb2aa8eb8727ae9d193",
         "date": "2026-10-11",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -871,7 +871,9 @@
           "name": "辛巴·博拉",
           "team_id": "ast_a2c1061af5c54957a6e8fa6a20343452"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9fe2ee66975b400caedc1730de0867f2",
@@ -985,7 +987,7 @@
         "match_id": "as_3b7a5ed332b3440b846279d388df7e82",
         "date": "2026-10-08",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -997,7 +999,10 @@
           "name": "高地人",
           "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_666bb1abc9a0496bafa7c2d7622b9772",
@@ -6687,7 +6692,7 @@
         "match_id": "as_a6d685d5a92c4cb2aa8eb8727ae9d193",
         "date": "2026-10-11",
         "time": "13:00",
-        "status": "13:00",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -6699,7 +6704,9 @@
           "name": "辛巴·博拉",
           "team_id": "ast_a2c1061af5c54957a6e8fa6a20343452"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_658c406f2f6f47f4be507188068cc5a7",
@@ -6806,24 +6813,6 @@
         "away": {
           "name": "猎人队",
           "team_id": "ast_396032a2439d443eaa1d5d288fe1fe67"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3b7a5ed332b3440b846279d388df7e82",
-        "date": "2026-10-08",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "恩盖兹铂金",
-          "team_id": "ast_49146992bd134968bd38ce1b3250e794"
-        },
-        "away": {
-          "name": "高地人",
-          "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
         },
         "venue": ""
       }
@@ -9159,13 +9148,13 @@
     }
   },
   "stats": {
-    "matches_completed": 262,
-    "total_goals": 495,
+    "matches_completed": 263,
+    "total_goals": 496,
     "avg_goals_per_match": 1.89,
-    "home_wins": 94,
+    "home_wins": 95,
     "draws": 96,
     "away_wins": 72,
-    "home_win_pct": 35.9,
+    "home_win_pct": 36.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9316,17 +9305,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
-            "team": "Dynamos",
+            "team_id": "ast_49146992bd134968bd38ce1b3250e794",
+            "team": "Ngezi Platinum",
             "played": 30,
-            "wins": 12,
-            "draws": 15,
-            "losses": 3,
-            "goals_for": 40,
-            "goals_against": 22,
-            "goal_difference": 18,
-            "points": 51,
-            "form": "DWDLD"
+            "wins": 13,
+            "draws": 13,
+            "losses": 4,
+            "goals_for": 36,
+            "goals_against": 25,
+            "goal_difference": 11,
+            "points": 52,
+            "form": "WDDWW"
           }
         ],
         "meta": {
@@ -9888,7 +9877,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 279,
-    "upcoming_matches": 17
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/10/08"
+  "updated_at": "2026/10/09"
 }

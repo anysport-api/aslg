@@ -244,6 +244,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
+        "team": "Shamrock Rovers",
+        "played": 32,
+        "wins": 18,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 52,
+        "goals_against": 32,
+        "goal_difference": 20,
+        "points": 62,
+        "form": "WWLDD"
+      },
+      {
+        "position": 2,
         "team_id": "ast_8dfd962880ce4b68a3424f53418782c1",
         "team": "St. Patricks",
         "played": 32,
@@ -257,7 +271,7 @@
         "form": "WWWLW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
         "team": "Bohemians",
         "played": 32,
@@ -269,20 +283,6 @@
         "goal_difference": 19,
         "points": 59,
         "form": "WWWWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
-        "team": "Shamrock Rovers",
-        "played": 31,
-        "wins": 17,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 49,
-        "goals_against": 31,
-        "goal_difference": 18,
-        "points": 59,
-        "form": "WLDDW"
       },
       {
         "position": 4,
@@ -358,15 +358,15 @@
         "position": 9,
         "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
         "team": "Drogheda",
-        "played": 32,
+        "played": 33,
         "wins": 8,
         "draws": 10,
-        "losses": 14,
-        "goals_for": 38,
-        "goals_against": 51,
-        "goal_difference": -13,
+        "losses": 15,
+        "goals_for": 39,
+        "goals_against": 54,
+        "goal_difference": -15,
         "points": 34,
-        "form": "LWWLL"
+        "form": "LLWWL"
       },
       {
         "position": 10,
@@ -386,6 +386,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
+        "team": "香农流浪者",
+        "played": 32,
+        "wins": 18,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 52,
+        "goals_against": 32,
+        "goal_difference": 20,
+        "points": 62,
+        "form": "WWLDD",
+        "form_label": "胜胜负平平"
+      },
+      {
+        "position": 2,
         "team_id": "ast_8dfd962880ce4b68a3424f53418782c1",
         "team": "圣帕特里克斯",
         "played": 32,
@@ -400,7 +415,7 @@
         "form_label": "胜胜胜负胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
         "team": "博希米亚人",
         "played": 32,
@@ -413,21 +428,6 @@
         "points": 59,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
-        "team": "香农流浪者",
-        "played": 31,
-        "wins": 17,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 49,
-        "goals_against": 31,
-        "goal_difference": 18,
-        "points": 59,
-        "form": "WLDDW",
-        "form_label": "胜负平平胜"
       },
       {
         "position": 4,
@@ -508,16 +508,16 @@
         "position": 9,
         "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
         "team": "德罗赫达",
-        "played": 32,
+        "played": 33,
         "wins": 8,
         "draws": 10,
-        "losses": 14,
-        "goals_for": 38,
-        "goals_against": 51,
-        "goal_difference": -13,
+        "losses": 15,
+        "goals_for": 39,
+        "goals_against": 54,
+        "goal_difference": -15,
         "points": 34,
-        "form": "LWWLL",
-        "form_label": "负胜胜负负"
+        "form": "LLWWL",
+        "form_label": "负负胜胜负"
       },
       {
         "position": 10,
@@ -585,7 +585,7 @@
           "player_name": "G. Burke",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
           "team_name": "Shamrock Rovers",
-          "value": 6
+          "value": 7
         },
         {
           "rank": 7,
@@ -773,6 +773,14 @@
         },
         {
           "rank": 30,
+          "player_id": "asp_8d53d95e143345e7bd16f28034e4e4a5",
+          "player_name": "McGovern John",
+          "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
+          "team_name": "Shamrock Rovers",
+          "value": 3
+        },
+        {
+          "rank": 31,
           "player_id": "asp_daf9841e8d4848e4acdd9dbccc2c13f0",
           "player_name": "Henry Rylah",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -780,7 +788,7 @@
           "value": 2
         },
         {
-          "rank": 31,
+          "rank": 32,
           "player_id": "asp_28785abeff7148eca8ce7a93d6700b6a",
           "player_name": "Pico",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
@@ -788,7 +796,7 @@
           "value": 2
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_4b5f26d10e6945b984970a3fc40b36cc",
           "player_name": "E. Agbaje",
           "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
@@ -796,7 +804,7 @@
           "value": 2
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_cf62d6c1593d468aaeacc274dda1fec2",
           "player_name": "Strods Markuss",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
@@ -804,7 +812,7 @@
           "value": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_b255f9b201984daaa15e82041d173662",
           "player_name": "D. James-Taylor",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
@@ -812,7 +820,7 @@
           "value": 2
         },
         {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_0ed2c0c3fbc547e48a4acbcc9c061d33",
           "player_name": "D. Rooney",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
@@ -820,7 +828,7 @@
           "value": 2
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_01203e8fd60b40fdb8688df2c41b3591",
           "player_name": "J. Byrne",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
@@ -828,7 +836,7 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_6e246471369f4625b87d68216b9f97fe",
           "player_name": "D. Akinyemi",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -836,7 +844,7 @@
           "value": 2
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_ed29f3c96e6145f79aeb7cc4ed4b0caa",
           "player_name": "E. Chapman",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -844,7 +852,7 @@
           "value": 2
         },
         {
-          "rank": 39,
+          "rank": 40,
           "player_id": "asp_1ef4c8c63c73443d8231e035ead2b898",
           "player_name": "Godden Jago",
           "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
@@ -852,7 +860,7 @@
           "value": 2
         },
         {
-          "rank": 40,
+          "rank": 41,
           "player_id": "asp_1de4f20e25e94a6097ab08f459f2a91f",
           "player_name": "L. Turner",
           "team_id": "ast_8dfd962880ce4b68a3424f53418782c1",
@@ -860,7 +868,7 @@
           "value": 2
         },
         {
-          "rank": 41,
+          "rank": 42,
           "player_id": "asp_dbfbf7796b23409088c0d7c345535522",
           "player_name": "M. Wolfe",
           "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
@@ -868,7 +876,7 @@
           "value": 2
         },
         {
-          "rank": 42,
+          "rank": 43,
           "player_id": "asp_be6c28a1455e44c48e8a7da09313caa3",
           "player_name": "Ronan Teahan",
           "team_id": "ast_0968fd09be0040159cced386a82a59d3",
@@ -876,7 +884,7 @@
           "value": 2
         },
         {
-          "rank": 43,
+          "rank": 44,
           "player_id": "asp_f2028a50b2734c81b1c62175f84848c9",
           "player_name": "Santos Kévin",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -884,7 +892,7 @@
           "value": 2
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_5775ba22b003423f9611313e45fcc72e",
           "player_name": "J. Mahon",
           "team_id": "ast_b60432624e684a239e74de3f7c5acb2d",
@@ -892,7 +900,7 @@
           "value": 2
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_03ae60b5decf458585b21848e75f0267",
           "player_name": "Gbemi Arubi",
           "team_id": "ast_0968fd09be0040159cced386a82a59d3",
@@ -900,7 +908,15 @@
           "value": 2
         },
         {
-          "rank": 46,
+          "rank": 47,
+          "player_id": "asp_85482062a0ad4cb3b7d490fde77b4852",
+          "player_name": "B. Kavanagh",
+          "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
+          "team_name": "Drogheda United",
+          "value": 2
+        },
+        {
+          "rank": 48,
           "player_id": "asp_ffc83650de1d4a6a9856de3448afb7bc",
           "player_name": "Henry-Francis Jack",
           "team_id": "ast_b69d0e520db64f8db01ed512f67dec73",
@@ -908,7 +924,7 @@
           "value": 2
         },
         {
-          "rank": 47,
+          "rank": 49,
           "player_id": "asp_f7c1c0bec6834637a0d350d20009e8f2",
           "player_name": "D. Grant",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
@@ -916,27 +932,11 @@
           "value": 2
         },
         {
-          "rank": 48,
+          "rank": 50,
           "player_id": "asp_b2f7624adfa94d4b81660ea666a927b9",
           "player_name": "A. Bolger",
           "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
           "team_name": "Galway",
-          "value": 2
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_61fce372c2b44e0bb2f932b2a81736ff",
-          "player_name": "J. Keohane",
-          "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
-          "team_name": "Galway",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_86df155f900d4369bed82c65c8d113ab",
-          "player_name": "Harry Vaughan",
-          "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
-          "team_name": "Bohemians",
           "value": 2
         }
       ],
@@ -987,7 +987,7 @@
           "player_name": "格雷厄姆·伯克",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
           "team_name": "香农流浪者",
-          "value": 6
+          "value": 7
         },
         {
           "rank": 7,
@@ -1175,6 +1175,14 @@
         },
         {
           "rank": 30,
+          "player_id": "asp_8d53d95e143345e7bd16f28034e4e4a5",
+          "player_name": "约翰·麦戈文",
+          "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
+          "team_name": "香农流浪者",
+          "value": 3
+        },
+        {
+          "rank": 31,
           "player_id": "asp_daf9841e8d4848e4acdd9dbccc2c13f0",
           "player_name": "亨利·赖拉",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -1182,7 +1190,7 @@
           "value": 2
         },
         {
-          "rank": 31,
+          "rank": 32,
           "player_id": "asp_28785abeff7148eca8ce7a93d6700b6a",
           "player_name": "罗伯托·洛佩斯",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
@@ -1190,7 +1198,7 @@
           "value": 2
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_4b5f26d10e6945b984970a3fc40b36cc",
           "player_name": "埃德温·阿格巴杰",
           "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
@@ -1198,7 +1206,7 @@
           "value": 2
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_cf62d6c1593d468aaeacc274dda1fec2",
           "player_name": "M. 斯特罗兹",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
@@ -1206,7 +1214,7 @@
           "value": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_b255f9b201984daaa15e82041d173662",
           "player_name": "道格拉斯·詹姆斯-泰勒",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
@@ -1214,7 +1222,7 @@
           "value": 2
         },
         {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_0ed2c0c3fbc547e48a4acbcc9c061d33",
           "player_name": "戴尔·鲁尼",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
@@ -1222,7 +1230,7 @@
           "value": 2
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_01203e8fd60b40fdb8688df2c41b3591",
           "player_name": "杰克·伯恩",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
@@ -1230,7 +1238,7 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_6e246471369f4625b87d68216b9f97fe",
           "player_name": "迪波·阿基涅米",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -1238,7 +1246,7 @@
           "value": 2
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_ed29f3c96e6145f79aeb7cc4ed4b0caa",
           "player_name": "埃利斯·查普曼",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -1246,7 +1254,7 @@
           "value": 2
         },
         {
-          "rank": 39,
+          "rank": 40,
           "player_id": "asp_1ef4c8c63c73443d8231e035ead2b898",
           "player_name": "贾戈·戈登",
           "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
@@ -1254,7 +1262,7 @@
           "value": 2
         },
         {
-          "rank": 40,
+          "rank": 41,
           "player_id": "asp_1de4f20e25e94a6097ab08f459f2a91f",
           "player_name": "卢克·特纳",
           "team_id": "ast_8dfd962880ce4b68a3424f53418782c1",
@@ -1262,7 +1270,7 @@
           "value": 2
         },
         {
-          "rank": 41,
+          "rank": 42,
           "player_id": "asp_dbfbf7796b23409088c0d7c345535522",
           "player_name": "马蒂·沃尔夫",
           "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
@@ -1270,7 +1278,7 @@
           "value": 2
         },
         {
-          "rank": 42,
+          "rank": 43,
           "player_id": "asp_be6c28a1455e44c48e8a7da09313caa3",
           "player_name": "罗南·提汉",
           "team_id": "ast_0968fd09be0040159cced386a82a59d3",
@@ -1278,7 +1286,7 @@
           "value": 2
         },
         {
-          "rank": 43,
+          "rank": 44,
           "player_id": "asp_f2028a50b2734c81b1c62175f84848c9",
           "player_name": "凯文·桑托斯",
           "team_id": "ast_bdc7828d1f544a32be9f0e30e40eaf47",
@@ -1286,7 +1294,7 @@
           "value": 2
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_5775ba22b003423f9611313e45fcc72e",
           "player_name": "约翰·马洪",
           "team_id": "ast_b60432624e684a239e74de3f7c5acb2d",
@@ -1294,7 +1302,7 @@
           "value": 2
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_03ae60b5decf458585b21848e75f0267",
           "player_name": "格贝米·阿鲁比",
           "team_id": "ast_0968fd09be0040159cced386a82a59d3",
@@ -1302,7 +1310,15 @@
           "value": 2
         },
         {
-          "rank": 46,
+          "rank": 47,
+          "player_id": "asp_85482062a0ad4cb3b7d490fde77b4852",
+          "player_name": "布兰登·卡瓦纳赫",
+          "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d",
+          "team_name": "德罗赫达",
+          "value": 2
+        },
+        {
+          "rank": 48,
           "player_id": "asp_ffc83650de1d4a6a9856de3448afb7bc",
           "player_name": "杰克·亨利-弗朗西斯",
           "team_id": "ast_b69d0e520db64f8db01ed512f67dec73",
@@ -1310,7 +1326,7 @@
           "value": 2
         },
         {
-          "rank": 47,
+          "rank": 49,
           "player_id": "asp_f7c1c0bec6834637a0d350d20009e8f2",
           "player_name": "丹尼·格兰特",
           "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
@@ -1318,27 +1334,11 @@
           "value": 2
         },
         {
-          "rank": 48,
+          "rank": 50,
           "player_id": "asp_b2f7624adfa94d4b81660ea666a927b9",
           "player_name": "亚伦·博尔杰",
           "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
           "team_name": "高威",
-          "value": 2
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_61fce372c2b44e0bb2f932b2a81736ff",
-          "player_name": "吉米·凯奥汉",
-          "team_id": "ast_f4d52fdcc56648c790eb54ed4f3b7fe1",
-          "team_name": "高威",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_86df155f900d4369bed82c65c8d113ab",
-          "player_name": "H. 沃恩",
-          "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
-          "team_name": "博希米亚人",
           "value": 2
         }
       ]
@@ -3287,7 +3287,7 @@
         "match_id": "as_be478075488c417b924b4c5658ea9a0b",
         "date": "2026-10-12",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Not Started",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -3299,7 +3299,9 @@
           "name": "博希米亚人",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "塔拉赫特体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_acb4b7d1109b41acb6bf1c3e05f5700d",
@@ -3323,7 +3325,7 @@
         "match_id": "as_95cd7fbdc7a14caab784f35312be1fb9",
         "date": "2026-10-08",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -3335,7 +3337,10 @@
           "name": "德罗赫达",
           "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5e4aaaf5b42c402786924b19eb044623",
@@ -7043,7 +7048,7 @@
         "match_id": "as_be478075488c417b924b4c5658ea9a0b",
         "date": "2026-10-12",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Not Started",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -7055,7 +7060,9 @@
           "name": "博希米亚人",
           "team_id": "ast_51a07efee77e4bd8872615019dfe32c8"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "塔拉赫特体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_acb4b7d1109b41acb6bf1c3e05f5700d",
@@ -7072,24 +7079,6 @@
         "away": {
           "name": "斯莱戈流浪者",
           "team_id": "ast_865ab32b235c447780514c3226cdad35"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_95cd7fbdc7a14caab784f35312be1fb9",
-        "date": "2026-10-08",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "爱尔兰超级联赛",
-        "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
-        "season": "2026",
-        "home": {
-          "name": "香农流浪者",
-          "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc"
-        },
-        "away": {
-          "name": "德罗赫达",
-          "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d"
         },
         "venue": ""
       }
@@ -10986,13 +10975,13 @@
     }
   },
   "stats": {
-    "matches_completed": 160,
-    "total_goals": 443,
-    "avg_goals_per_match": 2.77,
-    "home_wins": 60,
+    "matches_completed": 161,
+    "total_goals": 447,
+    "avg_goals_per_match": 2.78,
+    "home_wins": 61,
     "draws": 52,
     "away_wins": 48,
-    "home_win_pct": 37.5,
+    "home_win_pct": 37.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11018,8 +11007,8 @@
       }
     },
     "leader": {
-      "team": "St. Patricks",
-      "points": 59,
+      "team": "Shamrock Rovers",
+      "points": 62,
       "played": 32
     }
   },
@@ -11122,6 +11111,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
+            "team": "Shamrock Rovers",
+            "played": 32,
+            "wins": 18,
+            "draws": 8,
+            "losses": 6,
+            "goals_for": 52,
+            "goals_against": 32,
+            "goal_difference": 20,
+            "points": 62,
+            "form": "WWLDD"
+          },
+          {
+            "position": 2,
             "team_id": "ast_8dfd962880ce4b68a3424f53418782c1",
             "team": "St. Patricks",
             "played": 32,
@@ -11135,7 +11138,7 @@
             "form": "WWWLW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_51a07efee77e4bd8872615019dfe32c8",
             "team": "Bohemians",
             "played": 32,
@@ -11147,20 +11150,6 @@
             "goal_difference": 19,
             "points": 59,
             "form": "WWWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_0b4d48ec306547a79fe66d4ab1d9cbbc",
-            "team": "Shamrock Rovers",
-            "played": 31,
-            "wins": 17,
-            "draws": 8,
-            "losses": 6,
-            "goals_for": 49,
-            "goals_against": 31,
-            "goal_difference": 18,
-            "points": 59,
-            "form": "WLDDW"
           }
         ],
         "meta": {
@@ -11797,7 +11786,7 @@
     "teams_all_time": 20,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 20
+    "upcoming_matches": 19
   },
-  "updated_at": "2026/10/08"
+  "updated_at": "2026/10/09"
 }

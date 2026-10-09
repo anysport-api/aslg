@@ -266,6 +266,20 @@
       },
       {
         "position": 9,
+        "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
+        "team": "Zhejiang Professional",
+        "played": 26,
+        "wins": 10,
+        "draws": 6,
+        "losses": 10,
+        "goals_for": 45,
+        "goals_against": 43,
+        "goal_difference": 2,
+        "points": 31,
+        "form": "WLWDL"
+      },
+      {
+        "position": 10,
         "team_id": "ast_a654ee74035e4fc7a813413bbe01a733",
         "team": "Chongqing Tonglianglong",
         "played": 26,
@@ -277,20 +291,6 @@
         "goal_difference": -5,
         "points": 31,
         "form": "LDLDL"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
-        "team": "Zhejiang Professional",
-        "played": 25,
-        "wins": 9,
-        "draws": 6,
-        "losses": 10,
-        "goals_for": 41,
-        "goals_against": 42,
-        "goal_difference": -1,
-        "points": 28,
-        "form": "LWDLL"
       },
       {
         "position": 11,
@@ -352,15 +352,15 @@
         "position": 15,
         "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38",
         "team": "Wuhan Three Towns",
-        "played": 25,
+        "played": 26,
         "wins": 5,
         "draws": 11,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 42,
-        "goal_difference": -4,
+        "losses": 10,
+        "goals_for": 39,
+        "goals_against": 46,
+        "goal_difference": -7,
         "points": 21,
-        "form": "DDWDL"
+        "form": "LDDWD"
       },
       {
         "position": 16,
@@ -500,6 +500,21 @@
       },
       {
         "position": 9,
+        "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
+        "team": "浙江职业",
+        "played": 26,
+        "wins": 10,
+        "draws": 6,
+        "losses": 10,
+        "goals_for": 45,
+        "goals_against": 43,
+        "goal_difference": 2,
+        "points": 31,
+        "form": "WLWDL",
+        "form_label": "胜负胜平负"
+      },
+      {
+        "position": 10,
         "team_id": "ast_a654ee74035e4fc7a813413bbe01a733",
         "team": "重庆铜梁龙",
         "played": 26,
@@ -512,21 +527,6 @@
         "points": 31,
         "form": "LDLDL",
         "form_label": "负平负平负"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
-        "team": "浙江职业",
-        "played": 25,
-        "wins": 9,
-        "draws": 6,
-        "losses": 10,
-        "goals_for": 41,
-        "goals_against": 42,
-        "goal_difference": -1,
-        "points": 28,
-        "form": "LWDLL",
-        "form_label": "负胜平负负"
       },
       {
         "position": 11,
@@ -592,16 +592,16 @@
         "position": 15,
         "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38",
         "team": "武汉三镇",
-        "played": 25,
+        "played": 26,
         "wins": 5,
         "draws": 11,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 42,
-        "goal_difference": -4,
+        "losses": 10,
+        "goals_for": 39,
+        "goals_against": 46,
+        "goal_difference": -7,
         "points": 21,
-        "form": "DDWDL",
-        "form_label": "平平胜平负"
+        "form": "LDDWD",
+        "form_label": "负平平胜平"
       },
       {
         "position": 16,
@@ -1154,7 +1154,7 @@
           "team_id": "ast_188ed1571a4d4c5fb88fca00f3785b5d"
         },
         "ht_score": "-",
-        "venue": "铜梁龙体育场",
+        "venue": "Longxing Football Stadium",
         "status_label": "未开赛"
       },
       {
@@ -1181,7 +1181,7 @@
         "match_id": "as_9b75eb967a3f4d87983caeac66dc57c1",
         "date": "2026-10-10",
         "time": "11:35",
-        "status": "Not Started",
+        "status": "11:35",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1193,15 +1193,13 @@
           "name": "天津津门虎",
           "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97"
         },
-        "ht_score": "-",
-        "venue": "Chengdu Phoenix Hill Sports Park",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fcabf2bf31bb4d5699cce4172ae1f2b5",
         "date": "2026-10-10",
         "time": "11:35",
-        "status": "Not Started",
+        "status": "11:35",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1213,35 +1211,13 @@
           "name": "云南宇坤",
           "team_id": "ast_23c495a8792c42f9b9724f80e5884282"
         },
-        "ht_score": "-",
-        "venue": "上海体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_75f6822c90994a68a38fe953def72bdc",
-        "date": "2026-10-10",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "中国超级联赛",
-        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
-        "season": "2026",
-        "home": {
-          "name": "青岛海牛",
-          "team_id": "ast_b6bbe68190a94309a99a38234e364e04"
-        },
-        "away": {
-          "name": "北京国安",
-          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
-        },
-        "ht_score": "-",
-        "venue": "青岛青年足球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_12a93ea1dd5843b890255a125062a4d8",
         "date": "2026-10-09",
         "time": "11:35",
-        "status": "Not Started",
+        "status": "11:35",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1253,15 +1229,13 @@
           "name": "河南嵩山龙门",
           "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_73c7d954bbb8455f9b0776ba95459869",
         "date": "2026-10-09",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1273,9 +1247,25 @@
           "name": "上海港",
           "team_id": "ast_bc38bd08249048729912cddb016e9d2b"
         },
-        "ht_score": "-",
-        "venue": "Huizhou Olympic Stadium",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_75f6822c90994a68a38fe953def72bdc",
+        "date": "2026-10-09",
+        "time": "11:35",
+        "status": "11:35",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "青岛海牛",
+          "team_id": "ast_b6bbe68190a94309a99a38234e364e04"
+        },
+        "away": {
+          "name": "北京国安",
+          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_20f663e94c1a4eb2b5bf999d8891c3d1",
@@ -1295,7 +1285,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "4-1",
-        "venue": "",
+        "venue": "Huizhou Olympic Stadium",
         "status_label": "完场"
       },
       {
@@ -5648,6 +5638,166 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_f33ba2c8a3c74e59a23f774e30f11e6d",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "浙江职业",
+          "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9"
+        },
+        "away": {
+          "name": "河南嵩山龙门",
+          "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785"
+        },
+        "ht_score": "-",
+        "venue": "Huizhou Olympic Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6e0329f3f1c64c63a22f8c74ec146f9b",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "云南宇坤",
+          "team_id": "ast_23c495a8792c42f9b9724f80e5884282"
+        },
+        "away": {
+          "name": "武汉三镇",
+          "team_id": "ast_4e5c1c89a90b40efab876a800ce47f38"
+        },
+        "ht_score": "-",
+        "venue": "玉溪高原体育中心体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_42fd704a757746c29438d2cd47e19601",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "上海申花",
+          "team_id": "ast_7fa690cc42734fc79b8d97b5bc3a60f5"
+        },
+        "away": {
+          "name": "青岛西海岸",
+          "team_id": "ast_3c946fbe24d4449e981419b9b552ce89"
+        },
+        "ht_score": "-",
+        "venue": "上海体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2520eef95991407685d9756dc92903ee",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "上海港",
+          "team_id": "ast_bc38bd08249048729912cddb016e9d2b"
+        },
+        "away": {
+          "name": "辽宁铁人",
+          "team_id": "ast_55b18ec126fa4d94956780abe6943f26"
+        },
+        "ht_score": "-",
+        "venue": "Pudong Football Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_018013d120384168a3ec345976d6832b",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "山东泰山",
+          "team_id": "ast_188ed1571a4d4c5fb88fca00f3785b5d"
+        },
+        "away": {
+          "name": "成都荣城",
+          "team_id": "ast_aa5acad4250c41ab927aea12c7305fb9"
+        },
+        "ht_score": "-",
+        "venue": "Jinan Olympic Sports Center Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2e693c8be94e418e9ae92c9f06ae4819",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "青岛海牛",
+          "team_id": "ast_b6bbe68190a94309a99a38234e364e04"
+        },
+        "away": {
+          "name": "深圳新鹏城",
+          "team_id": "ast_0053c4bf96cc47b3aa04187d9921f616"
+        },
+        "ht_score": "-",
+        "venue": "青岛青年足球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8229e6e07ba346b9ba231dfe8d8736d7",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "大连英博",
+          "team_id": "ast_093268ad0f2b430482a3318f7eb6faa8"
+        },
+        "away": {
+          "name": "天津津门虎",
+          "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97"
+        },
+        "ht_score": "-",
+        "venue": "大连梭鱼湾足球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_51a73e34de0844ce84cf9928ae3f6f31",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "北京国安",
+          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
+        },
+        "away": {
+          "name": "重庆铜梁龙",
+          "team_id": "ast_a654ee74035e4fc7a813413bbe01a733"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_a17fc6e77b56436a9104002c8066a6d3",
         "date": "2026-10-24",
         "time": "07:30",
@@ -6004,7 +6154,7 @@
           "team_id": "ast_188ed1571a4d4c5fb88fca00f3785b5d"
         },
         "ht_score": "-",
-        "venue": "铜梁龙体育场",
+        "venue": "Longxing Football Stadium",
         "status_label": "未开赛"
       },
       {
@@ -6028,30 +6178,10 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_75f6822c90994a68a38fe953def72bdc",
-        "date": "2026-10-10",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "中国超级联赛",
-        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
-        "season": "2026",
-        "home": {
-          "name": "青岛海牛",
-          "team_id": "ast_b6bbe68190a94309a99a38234e364e04"
-        },
-        "away": {
-          "name": "北京国安",
-          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
-        },
-        "ht_score": "-",
-        "venue": "青岛青年足球场",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_fcabf2bf31bb4d5699cce4172ae1f2b5",
         "date": "2026-10-10",
         "time": "11:35",
-        "status": "Not Started",
+        "status": "11:35",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -6063,15 +6193,13 @@
           "name": "云南宇坤",
           "team_id": "ast_23c495a8792c42f9b9724f80e5884282"
         },
-        "ht_score": "-",
-        "venue": "上海体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9b75eb967a3f4d87983caeac66dc57c1",
         "date": "2026-10-10",
         "time": "11:35",
-        "status": "Not Started",
+        "status": "11:35",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -6083,15 +6211,31 @@
           "name": "天津津门虎",
           "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97"
         },
-        "ht_score": "-",
-        "venue": "Chengdu Phoenix Hill Sports Park",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_75f6822c90994a68a38fe953def72bdc",
+        "date": "2026-10-09",
+        "time": "11:35",
+        "status": "11:35",
+        "league": "中国超级联赛",
+        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
+        "season": "2026",
+        "home": {
+          "name": "青岛海牛",
+          "team_id": "ast_b6bbe68190a94309a99a38234e364e04"
+        },
+        "away": {
+          "name": "北京国安",
+          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_73c7d954bbb8455f9b0776ba95459869",
         "date": "2026-10-09",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -6103,15 +6247,13 @@
           "name": "上海港",
           "team_id": "ast_bc38bd08249048729912cddb016e9d2b"
         },
-        "ht_score": "-",
-        "venue": "Huizhou Olympic Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_12a93ea1dd5843b890255a125062a4d8",
         "date": "2026-10-09",
         "time": "11:35",
-        "status": "Not Started",
+        "status": "11:35",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -6123,9 +6265,7 @@
           "name": "河南嵩山龙门",
           "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -9052,7 +9192,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 24
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/09/20"
+  "updated_at": "2026/10/09"
 }

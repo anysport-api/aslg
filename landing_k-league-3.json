@@ -845,7 +845,7 @@
         "match_id": "as_5695592e395d404695a1124da24f4234",
         "date": "2026-10-11",
         "time": "05:00",
-        "status": "05:00",
+        "status": "Not Started",
         "league": "韩国丙级联赛",
         "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
         "season": "2026",
@@ -857,13 +857,15 @@
           "name": "始兴市民",
           "team_id": "ast_cdc161a4a87d4c40a9346dd9afc1f91d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2e8f164a0b4346668994a00bb982c021",
         "date": "2026-10-11",
         "time": "05:00",
-        "status": "05:00",
+        "status": "Not Started",
         "league": "韩国丙级联赛",
         "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
         "season": "2026",
@@ -875,7 +877,9 @@
           "name": "木浦",
           "team_id": "ast_794c9552d86e4199a7b2104d07d46695"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Gyeongju Civic Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_8aeeca6becbc46babc5ea658f71e5d4d",
@@ -953,7 +957,7 @@
         "match_id": "as_c95bfb31549e4e4fb4d0594d032ab05c",
         "date": "2026-10-09",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "韩国丙级联赛",
         "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
         "season": "2026",
@@ -965,7 +969,10 @@
           "name": "蔚山市民",
           "team_id": "ast_5d1f17df9df74823956dbfbc64d192a0"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7db1073f4dbc4f7db8bca87176764105",
@@ -4634,7 +4641,7 @@
         "match_id": "as_2e8f164a0b4346668994a00bb982c021",
         "date": "2026-10-11",
         "time": "05:00",
-        "status": "05:00",
+        "status": "Not Started",
         "league": "韩国丙级联赛",
         "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
         "season": "2026",
@@ -4646,13 +4653,15 @@
           "name": "木浦",
           "team_id": "ast_794c9552d86e4199a7b2104d07d46695"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Gyeongju Civic Stadium",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_5695592e395d404695a1124da24f4234",
         "date": "2026-10-11",
         "time": "05:00",
-        "status": "05:00",
+        "status": "Not Started",
         "league": "韩国丙级联赛",
         "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
         "season": "2026",
@@ -4664,7 +4673,9 @@
           "name": "始兴市民",
           "team_id": "ast_cdc161a4a87d4c40a9346dd9afc1f91d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_f809867cb22844df92dd8e057a13839b",
@@ -4742,7 +4753,7 @@
         "match_id": "as_c95bfb31549e4e4fb4d0594d032ab05c",
         "date": "2026-10-09",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "韩国丙级联赛",
         "league_id": "asl_bae9347a374345dfb24d1c6002649f86",
         "season": "2026",
@@ -4754,7 +4765,10 @@
           "name": "蔚山市民",
           "team_id": "ast_5d1f17df9df74823956dbfbc64d192a0"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -8484,13 +8498,13 @@
     }
   },
   "stats": {
-    "matches_completed": 161,
-    "total_goals": 438,
+    "matches_completed": 162,
+    "total_goals": 441,
     "avg_goals_per_match": 2.72,
-    "home_wins": 64,
+    "home_wins": 65,
     "draws": 45,
     "away_wins": 52,
-    "home_win_pct": 39.8,
+    "home_win_pct": 40.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9253,5 +9267,5 @@
     "matches_current_season": 182,
     "upcoming_matches": 21
   },
-  "updated_at": "2026/10/06"
+  "updated_at": "2026/10/09"
 }

@@ -152,6 +152,7 @@
       },
       {
         "position": 3,
+        "team_id": "ast_841faf8c0f1e48779907aa7b186cbe2f",
         "team": "Al Wahda",
         "played": 30,
         "wins": 19,
@@ -379,7 +380,8 @@
       },
       {
         "position": 3,
-        "team": "阿帕雷西达",
+        "team_id": "ast_841faf8c0f1e48779907aa7b186cbe2f",
+        "team": "阿尔瓦赫达",
         "played": 30,
         "wins": 19,
         "draws": 5,
@@ -5646,7 +5648,76 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_bb697de4375145728629465227adc5c8",
+        "date": "2026-10-09",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "叙利亚甲级联赛",
+        "league_id": "asl_6f6a046206c84267aac24dc48c4015cb",
+        "home": {
+          "name": "Qamishli",
+          "team_id": "ast_7bc0d482ac3a4d8f84549b6503b1e8a3"
+        },
+        "away": {
+          "name": "阿尔瓦赫达",
+          "team_id": "ast_841faf8c0f1e48779907aa7b186cbe2f"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_21087ea4beb34ed093cb293cd62c745d",
+        "date": "2026-10-09",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "叙利亚甲级联赛",
+        "league_id": "asl_6f6a046206c84267aac24dc48c4015cb",
+        "home": {
+          "name": "霍姆斯·阿尔·菲达",
+          "team_id": "ast_aaadf7c2c974457d95b0e4b218737013"
+        },
+        "away": {
+          "name": "霍廷",
+          "team_id": "ast_849dafb2a17945e89152e07d04e1aea9"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d085e9ada5534a00ae582b08a42ea97e",
+        "date": "2026-10-09",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "叙利亚甲级联赛",
+        "league_id": "asl_6f6a046206c84267aac24dc48c4015cb",
+        "home": {
+          "name": "大马士革阿赫利",
+          "team_id": "ast_87ccd4d8212d4ef989308c633fcae6c2"
+        },
+        "away": {
+          "name": "福图阿",
+          "team_id": "ast_1ae0c6a5039a4c6499af8caf259b382b"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_9134bacfd56e41239429afedb0deb083",
+        "date": "2026-10-09",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "叙利亚甲级联赛",
+        "league_id": "asl_6f6a046206c84267aac24dc48c4015cb",
+        "home": {
+          "name": "Al Nawaeir",
+          "team_id": "ast_44caccb0e6584b8e935273c9de75bc34"
+        },
+        "away": {
+          "name": "阿尔贾伊什",
+          "team_id": "ast_d674ae08a8ac4a19bd8d3512ddc82681"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -7369,7 +7440,7 @@
   },
   "team_name_map": {
     "ast_839bc1559c6f497aa9f53e3083d53eed": {
-      "en": "Al Ittihad",
+      "en": "Al-Ittihad Aleppo",
       "zh": "阿勒颇伊蒂哈德"
     },
     "ast_aaadf7c2c974457d95b0e4b218737013": {
@@ -7377,7 +7448,7 @@
       "zh": "霍姆斯·阿尔·菲达"
     },
     "ast_eb91ef44ad444fde81be0f5bd019a498": {
-      "en": "Al Karama",
+      "en": "Al Karamah",
       "zh": "阿尔卡拉马"
     },
     "ast_9948346cfcdb4d9aa8e660a2259ff63e": {
@@ -7421,18 +7492,19 @@
       "zh": "汗谢赫"
     },
     "ast_e477d38ed0164f048f24a73851d07696": {
-      "en": "Jabala",
+      "en": "Jableh",
       "zh": "贾布莱赫"
     },
     "ast_eded29ee14a0455d8d8b6db6fdd70868": {
-      "en": "Al Shouleh",
+      "en": "Al-Shouleh",
       "zh": "阿尔舒莱赫"
     },
     "ast_2939bd5826484ef3adf6b196f9e6ba66": {
       "en": "Wathba"
     },
     "ast_841faf8c0f1e48779907aa7b186cbe2f": {
-      "en": "Al Wahda"
+      "en": "Al Wahda",
+      "zh": "阿尔瓦赫达"
     },
     "ast_8ac901a71b104875b1ee39c5e05f50aa": {
       "en": "Al Sahel"
@@ -7620,6 +7692,7 @@
           },
           {
             "position": 3,
+            "team_id": "ast_841faf8c0f1e48779907aa7b186cbe2f",
             "team": "Al Wahda",
             "played": 30,
             "wins": 19,
@@ -8232,6 +8305,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 0
-  }
+    "upcoming_matches": 4
+  },
+  "updated_at": "2026/10/09"
 }
