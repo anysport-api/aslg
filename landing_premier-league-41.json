@@ -2583,7 +2583,7 @@
         "match_id": "as_0fe100690d814bb9bf4f1a10fef0df1f",
         "date": "2026-10-14",
         "time": "08:00",
-        "status": "08:00",
+        "status": "Not Started",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2595,13 +2595,15 @@
           "name": "霍夫德西部",
           "team_id": "ast_c743941a85d549ea931fd1ad6cc71e53"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9863bc2bbbf34b8687afd1aacbcb069f",
         "date": "2026-10-14",
         "time": "05:00",
-        "status": "05:00",
+        "status": "Not Started",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2613,7 +2615,9 @@
           "name": "Khaan Khuns-Erchim",
           "team_id": "ast_462c11efe87447bfafe22ea7e14ec2d4"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_51b3e676e4d947d9af8a84e477db5f52",
@@ -2655,7 +2659,7 @@
         "match_id": "as_ee4df287bd38468ab0b3732b6d0572e5",
         "date": "2026-10-10",
         "time": "08:00",
-        "status": "08:00",
+        "status": "70",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2667,13 +2671,15 @@
           "name": "猎人队",
           "team_id": "ast_396032a2439d443eaa1d5d288fe1fe67"
         },
+        "ht_score": "1-1",
+        "reg_score": "2-1",
         "venue": ""
       },
       {
         "match_id": "as_55264e7949dc4a63926af836e0ee15fc",
         "date": "2026-10-10",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2685,7 +2691,10 @@
           "name": "Amtat",
           "team_id": "ast_91177e9e10bf41549f43098c75376ef3"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "8-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -4680,5 +4689,5 @@
     "matches_current_season": 99,
     "upcoming_matches": 12
   },
-  "updated_at": "2026/10/07"
+  "updated_at": "2026/10/10"
 }

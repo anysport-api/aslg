@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_9288d76794134f2f923fda6717934dc2",
@@ -425,7 +425,7 @@
         "match_id": "as_49a3a010f67d4d389bec738aba8e8b55",
         "date": "2026-10-08",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "不丹甲级联赛",
         "league_id": "asl_9288d76794134f2f923fda6717934dc2",
         "season": "2026",
@@ -437,9 +437,10 @@
           "name": "帕罗",
           "team_id": "ast_19863d834132427ba600e9a648c67ccd"
         },
-        "ht_score": "-",
+        "ht_score": "0-1",
+        "reg_score": "0-2",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_32ec1c7dee8c4e38b8baad79eeb43db1",
@@ -2679,13 +2680,13 @@
     }
   },
   "stats": {
-    "matches_completed": 89,
-    "total_goals": 326,
-    "avg_goals_per_match": 3.66,
+    "matches_completed": 90,
+    "total_goals": 328,
+    "avg_goals_per_match": 3.64,
     "home_wins": 31,
     "draws": 16,
-    "away_wins": 42,
-    "home_win_pct": 34.8,
+    "away_wins": 43,
+    "home_win_pct": 34.4,
     "biggest_win": {
       "margin": 11,
       "match": {
@@ -3447,5 +3448,5 @@
     "matches_current_season": 90,
     "upcoming_matches": 0
   },
-  "updated_at": "2026/10/09"
+  "updated_at": "2026/10/10"
 }

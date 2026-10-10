@@ -168,15 +168,15 @@
         "position": 1,
         "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
         "team": "Viktoria",
-        "played": 10,
+        "played": 11,
         "wins": 6,
-        "draws": 2,
+        "draws": 3,
         "losses": 2,
-        "goals_for": 12,
-        "goals_against": 6,
+        "goals_for": 14,
+        "goals_against": 8,
         "goal_difference": 6,
-        "points": 20,
-        "form": "WDLLD"
+        "points": 21,
+        "form": "DWDLL"
       },
       {
         "position": 2,
@@ -250,6 +250,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_2b62e8fb423a46f6bfe5f7bbc01298f5",
+        "team": "Metalist Kharkiv",
+        "played": 11,
+        "wins": 4,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 13,
+        "goals_against": 13,
+        "goal_difference": 0,
+        "points": 15,
+        "form": "DDWLL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
         "team": "Fenix Mariupol",
         "played": 10,
@@ -263,7 +277,7 @@
         "form": "DDWWD"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_13de837e325f45418b99e2a24bd815a2",
         "team": "Inhulets",
         "played": 9,
@@ -275,20 +289,6 @@
         "goal_difference": -1,
         "points": 14,
         "form": "LWWDW"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_2b62e8fb423a46f6bfe5f7bbc01298f5",
-        "team": "Metalist Kharkiv",
-        "played": 10,
-        "wins": 4,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 11,
-        "goals_against": 11,
-        "goal_difference": 0,
-        "points": 14,
-        "form": "DWLLW"
       },
       {
         "position": 10,
@@ -394,16 +394,16 @@
         "position": 1,
         "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
         "team": "维克托利亚",
-        "played": 10,
+        "played": 11,
         "wins": 6,
-        "draws": 2,
+        "draws": 3,
         "losses": 2,
-        "goals_for": 12,
-        "goals_against": 6,
+        "goals_for": 14,
+        "goals_against": 8,
         "goal_difference": 6,
-        "points": 20,
-        "form": "WDLLD",
-        "form_label": "胜平负负平"
+        "points": 21,
+        "form": "DWDLL",
+        "form_label": "平胜平负负"
       },
       {
         "position": 2,
@@ -482,6 +482,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_2b62e8fb423a46f6bfe5f7bbc01298f5",
+        "team": "梅塔利斯特哈尔科夫",
+        "played": 11,
+        "wins": 4,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 13,
+        "goals_against": 13,
+        "goal_difference": 0,
+        "points": 15,
+        "form": "DDWLL",
+        "form_label": "平平胜负负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
         "team": "马里乌波尔费尼克斯",
         "played": 10,
@@ -496,7 +511,7 @@
         "form_label": "平平胜胜平"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_13de837e325f45418b99e2a24bd815a2",
         "team": "因胡列茨",
         "played": 9,
@@ -509,21 +524,6 @@
         "points": 14,
         "form": "LWWDW",
         "form_label": "负胜胜平胜"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_2b62e8fb423a46f6bfe5f7bbc01298f5",
-        "team": "梅塔利斯特哈尔科夫",
-        "played": 10,
-        "wins": 4,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 11,
-        "goals_against": 11,
-        "goal_difference": 0,
-        "points": 14,
-        "form": "DWLLW",
-        "form_label": "平胜负负胜"
       },
       {
         "position": 10,
@@ -3733,7 +3733,7 @@
         "match_id": "as_c8ec9746488e442595081b457b4108ab",
         "date": "2026-10-11",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3745,15 +3745,13 @@
           "name": "切尔尼戈夫",
           "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f"
         },
-        "ht_score": "-",
-        "venue": "MCS Rukh",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0864649b311e4c2bb43144d83d68d9fb",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3765,15 +3763,13 @@
           "name": "科洛斯科瓦利夫卡2",
           "team_id": "ast_02c2906fb3d44ea28647a866d9323ead"
         },
-        "ht_score": "-",
-        "venue": "Ternopilsky Misky Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c17837f41c93497cb68c5432fd93b735",
         "date": "2026-10-11",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3785,15 +3781,13 @@
           "name": "基辅火车头",
           "team_id": "ast_027a6d3e34e94621be7cf6e56f525e0c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6b0382dcd2e04828ab92cca3a8ab8f3a",
         "date": "2026-10-11",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "09:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3805,9 +3799,7 @@
           "name": "马里乌波尔费尼克斯",
           "team_id": "ast_d49d6520ebde4bc0862273a4c6634364"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_02c5fcfa64b6486b935fb58afca9e886",
@@ -3849,7 +3841,7 @@
         "match_id": "as_37b4d05ce378467cb6eca37f562946d9",
         "date": "2026-10-09",
         "time": "09:00",
-        "status": "43",
+        "status": "FT",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3862,8 +3854,9 @@
           "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d"
         },
         "ht_score": "1-1",
-        "reg_score": "1-1",
-        "venue": ""
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e94f8acdcdb74badb1a0f0d8c266a2de",
@@ -9069,8 +9062,8 @@
   },
   "stats": {
     "matches_completed": 80,
-    "total_goals": 205,
-    "avg_goals_per_match": 2.56,
+    "total_goals": 207,
+    "avg_goals_per_match": 2.59,
     "home_wins": 36,
     "draws": 24,
     "away_wins": 20,
@@ -9101,8 +9094,8 @@
     },
     "leader": {
       "team": "Viktoria",
-      "points": 20,
-      "played": 10
+      "points": 21,
+      "played": 11
     }
   },
   "coverage": {
@@ -9199,15 +9192,15 @@
             "position": 1,
             "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
             "team": "Viktoria",
-            "played": 10,
+            "played": 11,
             "wins": 6,
-            "draws": 2,
+            "draws": 3,
             "losses": 2,
-            "goals_for": 12,
-            "goals_against": 6,
+            "goals_for": 14,
+            "goals_against": 8,
             "goal_difference": 6,
-            "points": 20,
-            "form": "WDLLD"
+            "points": 21,
+            "form": "DWDLL"
           },
           {
             "position": 2,
@@ -9895,5 +9888,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/09"
+  "updated_at": "2026/10/10"
 }

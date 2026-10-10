@@ -200,6 +200,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
+        "team": "Nordsjaelland",
+        "played": 10,
+        "wins": 5,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 14,
+        "goals_against": 10,
+        "goal_difference": 4,
+        "points": 18,
+        "form": "DLWDL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_386eb736e6b646ce946186c138330579",
         "team": "Viborg",
         "played": 9,
@@ -211,20 +225,6 @@
         "goal_difference": 7,
         "points": 17,
         "form": "WDLWW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
-        "team": "Nordsjaelland",
-        "played": 9,
-        "wins": 5,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 14,
-        "goals_against": 10,
-        "goal_difference": 4,
-        "points": 17,
-        "form": "LWDLW"
       },
       {
         "position": 5,
@@ -286,15 +286,15 @@
         "position": 9,
         "team_id": "ast_63d0c4d43a6e40bc8c642fe44301eb2a",
         "team": "Odense",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
         "goals_for": 8,
         "goals_against": 14,
         "goal_difference": -6,
-        "points": 9,
-        "form": "DWLDD"
+        "points": 10,
+        "form": "DDWLD"
       },
       {
         "position": 10,
@@ -372,6 +372,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
+        "team": "诺德斯亚兰",
+        "played": 10,
+        "wins": 5,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 14,
+        "goals_against": 10,
+        "goal_difference": 4,
+        "points": 18,
+        "form": "DLWDL",
+        "form_label": "平负胜平负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_386eb736e6b646ce946186c138330579",
         "team": "维堡",
         "played": 9,
@@ -384,21 +399,6 @@
         "points": 17,
         "form": "WDLWW",
         "form_label": "胜平负胜胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
-        "team": "诺德斯亚兰",
-        "played": 9,
-        "wins": 5,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 14,
-        "goals_against": 10,
-        "goal_difference": 4,
-        "points": 17,
-        "form": "LWDLW",
-        "form_label": "负胜平负胜"
       },
       {
         "position": 5,
@@ -464,16 +464,16 @@
         "position": 9,
         "team_id": "ast_63d0c4d43a6e40bc8c642fe44301eb2a",
         "team": "奥登塞",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
         "goals_for": 8,
         "goals_against": 14,
         "goal_difference": -6,
-        "points": 9,
-        "form": "DWLDD",
-        "form_label": "平胜负平平"
+        "points": 10,
+        "form": "DDWLD",
+        "form_label": "平平胜负平"
       },
       {
         "position": 10,
@@ -4377,7 +4377,7 @@
         "match_id": "as_d3e490efa019483e97fa5387d2b8bfb8",
         "date": "2026-10-11",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4389,15 +4389,13 @@
           "name": "林比",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_153cf724ee89415a955bcdb2630f8ede",
         "date": "2026-10-11",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4409,15 +4407,13 @@
           "name": "哥本哈根",
           "team_id": "ast_72e86adf61e0402d9d9824523f638c19"
         },
-        "ht_score": "-",
-        "venue": "MCH 竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b7798b2828a640d799629af08ef10605",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4429,15 +4425,13 @@
           "name": "维堡",
           "team_id": "ast_386eb736e6b646ce946186c138330579"
         },
-        "ht_score": "-",
-        "venue": "Cepheus Park",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_de865f6332b046989941883a0146b436",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4449,15 +4443,13 @@
           "name": "霍尔森斯",
           "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf"
         },
-        "ht_score": "-",
-        "venue": "Jysk Park",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4b913f2474db432eae871b5851121c9a",
         "date": "2026-10-09",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -4469,7 +4461,10 @@
           "name": "奥登塞",
           "team_id": "ast_63d0c4d43a6e40bc8c642fe44301eb2a"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f51396764ffb488fa0881f4cdcd96a69",
@@ -6231,7 +6226,7 @@
         "match_id": "as_de865f6332b046989941883a0146b436",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -6243,15 +6238,13 @@
           "name": "霍尔森斯",
           "team_id": "ast_0e866f6a6abd44c69c1dc2912595cdaf"
         },
-        "ht_score": "-",
-        "venue": "Jysk Park",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b7798b2828a640d799629af08ef10605",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -6263,15 +6256,13 @@
           "name": "维堡",
           "team_id": "ast_386eb736e6b646ce946186c138330579"
         },
-        "ht_score": "-",
-        "venue": "Cepheus Park",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_153cf724ee89415a955bcdb2630f8ede",
         "date": "2026-10-11",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -6283,15 +6274,13 @@
           "name": "哥本哈根",
           "team_id": "ast_72e86adf61e0402d9d9824523f638c19"
         },
-        "ht_score": "-",
-        "venue": "MCH 竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d3e490efa019483e97fa5387d2b8bfb8",
         "date": "2026-10-11",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "丹麦超级联赛",
         "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
         "season": "2026/2027",
@@ -6302,26 +6291,6 @@
         "away": {
           "name": "林比",
           "team_id": "ast_e9c99541fafb4b60a90fe6b255c953de"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4b913f2474db432eae871b5851121c9a",
-        "date": "2026-10-09",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "丹麦超级联赛",
-        "league_id": "asl_f7d37e0e17f144ee9c497adfccdbedd4",
-        "season": "2026/2027",
-        "home": {
-          "name": "诺德斯亚兰",
-          "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed"
-        },
-        "away": {
-          "name": "奥登塞",
-          "team_id": "ast_63d0c4d43a6e40bc8c642fe44301eb2a"
         },
         "venue": ""
       }
@@ -8179,13 +8148,13 @@
     }
   },
   "stats": {
-    "matches_completed": 54,
+    "matches_completed": 55,
     "total_goals": 160,
-    "avg_goals_per_match": 2.96,
+    "avg_goals_per_match": 2.91,
     "home_wins": 24,
-    "draws": 15,
+    "draws": 16,
     "away_wins": 15,
-    "home_win_pct": 44.4,
+    "home_win_pct": 43.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8336,17 +8305,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_386eb736e6b646ce946186c138330579",
-            "team": "Viborg",
-            "played": 9,
+            "team_id": "ast_169cb838c6e04af3a6ba9847cca259ed",
+            "team": "Nordsjaelland",
+            "played": 10,
             "wins": 5,
-            "draws": 2,
+            "draws": 3,
             "losses": 2,
-            "goals_for": 15,
-            "goals_against": 8,
-            "goal_difference": 7,
-            "points": 17,
-            "form": "WDLWW"
+            "goals_for": 14,
+            "goals_against": 10,
+            "goal_difference": 4,
+            "points": 18,
+            "form": "DLWDL"
           }
         ],
         "meta": {
@@ -8990,7 +8959,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/10/09"
+  "updated_at": "2026/10/10"
 }
