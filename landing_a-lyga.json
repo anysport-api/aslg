@@ -176,18 +176,32 @@
         "position": 2,
         "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045",
         "team": "Suduva",
-        "played": 28,
+        "played": 29,
         "wins": 13,
         "draws": 11,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 39,
-        "goals_against": 25,
-        "goal_difference": 14,
+        "goals_against": 29,
+        "goal_difference": 10,
         "points": 50,
-        "form": "DDLWW"
+        "form": "LDDLW"
       },
       {
         "position": 3,
+        "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
+        "team": "Zalgiris",
+        "played": 29,
+        "wins": 14,
+        "draws": 5,
+        "losses": 10,
+        "goals_for": 45,
+        "goals_against": 34,
+        "goal_difference": 11,
+        "points": 47,
+        "form": "WLWDW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_87337d4088194f0598930dcfbc04d160",
         "team": "Transinvest",
         "played": 28,
@@ -199,20 +213,6 @@
         "goal_difference": 8,
         "points": 45,
         "form": "WWLWD"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
-        "team": "Zalgiris",
-        "played": 28,
-        "wins": 13,
-        "draws": 5,
-        "losses": 10,
-        "goals_for": 41,
-        "goals_against": 34,
-        "goal_difference": 7,
-        "points": 44,
-        "form": "LWDWL"
       },
       {
         "position": 5,
@@ -319,19 +319,34 @@
         "position": 2,
         "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045",
         "team": "苏杜瓦",
-        "played": 28,
+        "played": 29,
         "wins": 13,
         "draws": 11,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 39,
-        "goals_against": 25,
-        "goal_difference": 14,
+        "goals_against": 29,
+        "goal_difference": 10,
         "points": 50,
-        "form": "DDLWW",
-        "form_label": "平平负胜胜"
+        "form": "LDDLW",
+        "form_label": "负平平负胜"
       },
       {
         "position": 3,
+        "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
+        "team": "扎尔吉里斯",
+        "played": 29,
+        "wins": 14,
+        "draws": 5,
+        "losses": 10,
+        "goals_for": 45,
+        "goals_against": 34,
+        "goal_difference": 11,
+        "points": 47,
+        "form": "WLWDW",
+        "form_label": "胜负胜平胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_87337d4088194f0598930dcfbc04d160",
         "team": "转投资",
         "played": 28,
@@ -344,21 +359,6 @@
         "points": 45,
         "form": "WWLWD",
         "form_label": "胜胜负胜平"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
-        "team": "扎尔吉里斯",
-        "played": 28,
-        "wins": 13,
-        "draws": 5,
-        "losses": 10,
-        "goals_for": 41,
-        "goals_against": 34,
-        "goal_difference": 7,
-        "points": 44,
-        "form": "LWDWL",
-        "form_label": "负胜平胜负"
       },
       {
         "position": 5,
@@ -792,7 +792,7 @@
         "match_id": "as_2d6f475eccd343c791cf36505bc8c0b3",
         "date": "2026-10-10",
         "time": "11:15",
-        "status": "11:15",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -804,7 +804,10 @@
           "name": "苏杜瓦",
           "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1c6241a7654f41bab1bf11d3ebe2825c",
@@ -4151,24 +4154,6 @@
         "ht_score": "-",
         "venue": "Aukstaitijos Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2d6f475eccd343c791cf36505bc8c0b3",
-        "date": "2026-10-10",
-        "time": "11:15",
-        "status": "11:15",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
-        "season": "2026",
-        "home": {
-          "name": "扎尔吉里斯",
-          "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568"
-        },
-        "away": {
-          "name": "苏杜瓦",
-          "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7597,13 +7582,13 @@
     }
   },
   "stats": {
-    "matches_completed": 144,
-    "total_goals": 381,
-    "avg_goals_per_match": 2.65,
-    "home_wins": 57,
+    "matches_completed": 145,
+    "total_goals": 385,
+    "avg_goals_per_match": 2.66,
+    "home_wins": 58,
     "draws": 40,
     "away_wins": 47,
-    "home_win_pct": 39.6,
+    "home_win_pct": 40.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7742,29 +7727,29 @@
             "position": 2,
             "team_id": "ast_2c2a8a5a65b14112ba76ea9268b06045",
             "team": "Suduva",
-            "played": 28,
+            "played": 29,
             "wins": 13,
             "draws": 11,
-            "losses": 4,
+            "losses": 5,
             "goals_for": 39,
-            "goals_against": 25,
-            "goal_difference": 14,
+            "goals_against": 29,
+            "goal_difference": 10,
             "points": 50,
-            "form": "DDLWW"
+            "form": "LDDLW"
           },
           {
             "position": 3,
-            "team_id": "ast_87337d4088194f0598930dcfbc04d160",
-            "team": "Transinvest",
-            "played": 28,
-            "wins": 13,
-            "draws": 6,
-            "losses": 9,
-            "goals_for": 43,
-            "goals_against": 35,
-            "goal_difference": 8,
-            "points": 45,
-            "form": "WWLWD"
+            "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568",
+            "team": "Zalgiris",
+            "played": 29,
+            "wins": 14,
+            "draws": 5,
+            "losses": 10,
+            "goals_for": 45,
+            "goals_against": 34,
+            "goal_difference": 11,
+            "points": 47,
+            "form": "WLWDW"
           }
         ],
         "meta": {
@@ -8401,7 +8386,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 161,
-    "upcoming_matches": 17
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/10/10"
+  "updated_at": "2026/10/11"
 }

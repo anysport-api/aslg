@@ -205,15 +205,15 @@
       {
         "position": 5,
         "team": "Patriotas",
-        "played": 11,
+        "played": 12,
         "wins": 5,
-        "draws": 2,
+        "draws": 3,
         "losses": 4,
         "goals_for": 17,
         "goals_against": 17,
         "goal_difference": 0,
-        "points": 17,
-        "form": "LLLWW"
+        "points": 18,
+        "form": "DLLLW"
       },
       {
         "position": 6,
@@ -287,6 +287,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_af402a96df804de283974c62253523d4",
+        "team": "Bogota",
+        "played": 12,
+        "wins": 3,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 13,
+        "form": "DDLWD"
+      },
+      {
+        "position": 12,
         "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
         "team": "Envigado",
         "played": 11,
@@ -300,7 +314,7 @@
         "form": "DDWDD"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "U. Magdalena",
         "played": 11,
@@ -312,20 +326,6 @@
         "goal_difference": -2,
         "points": 12,
         "form": "DWDWL"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_af402a96df804de283974c62253523d4",
-        "team": "Bogota",
-        "played": 11,
-        "wins": 3,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 9,
-        "goals_against": 13,
-        "goal_difference": -4,
-        "points": 12,
-        "form": "DLWDL"
       },
       {
         "position": 14,
@@ -434,16 +434,16 @@
       {
         "position": 5,
         "team": "阿帕雷西达",
-        "played": 11,
+        "played": 12,
         "wins": 5,
-        "draws": 2,
+        "draws": 3,
         "losses": 4,
         "goals_for": 17,
         "goals_against": 17,
         "goal_difference": 0,
-        "points": 17,
-        "form": "LLLWW",
-        "form_label": "负负负胜胜"
+        "points": 18,
+        "form": "DLLLW",
+        "form_label": "平负负负胜"
       },
       {
         "position": 6,
@@ -522,6 +522,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_af402a96df804de283974c62253523d4",
+        "team": "波哥大",
+        "played": 12,
+        "wins": 3,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 13,
+        "form": "DDLWD",
+        "form_label": "平平负胜平"
+      },
+      {
+        "position": 12,
         "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
         "team": "恩维加多",
         "played": 11,
@@ -536,7 +551,7 @@
         "form_label": "平平胜平平"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "马格达莱纳大学",
         "played": 11,
@@ -549,21 +564,6 @@
         "points": 12,
         "form": "DWDWL",
         "form_label": "平胜平胜负"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_af402a96df804de283974c62253523d4",
-        "team": "波哥大",
-        "played": 11,
-        "wins": 3,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 9,
-        "goals_against": 13,
-        "goal_difference": -4,
-        "points": 12,
-        "form": "DLWDL",
-        "form_label": "平负胜平负"
       },
       {
         "position": 14,
@@ -1113,7 +1113,7 @@
         "match_id": "as_02c35c08762a4d37a24b945e197ea553",
         "date": "2026-10-12",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1125,9 +1125,7 @@
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
-        "ht_score": "-",
-        "venue": "丹尼尔·比亚·萨帕塔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a91ad0fe4116432ab2db80d4f5a4b55f",
@@ -1151,7 +1149,7 @@
         "match_id": "as_9bc68db3f0be459db4a5c6b4304d7fd7",
         "date": "2026-10-11",
         "time": "01:15",
-        "status": "01:15",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1163,7 +1161,10 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f5734741a7d548288ec7500591a6f548",
@@ -1219,7 +1220,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Estadio Municipal de Mosquera",
         "status_label": "完场"
       },
       {
@@ -6664,7 +6665,7 @@
         "match_id": "as_02c35c08762a4d37a24b945e197ea553",
         "date": "2026-10-12",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6676,9 +6677,7 @@
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
-        "ht_score": "-",
-        "venue": "丹尼尔·比亚·萨帕塔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a3579e0257454dce97ae77b5a96ae8b6",
@@ -6720,7 +6719,7 @@
         "match_id": "as_9bc68db3f0be459db4a5c6b4304d7fd7",
         "date": "2026-10-11",
         "time": "01:15",
-        "status": "01:15",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6732,7 +6731,10 @@
           "name": "爱国者",
           "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a91ad0fe4116432ab2db80d4f5a4b55f",
@@ -11315,13 +11317,13 @@
     }
   },
   "stats": {
-    "matches_completed": 237,
+    "matches_completed": 238,
     "total_goals": 528,
-    "avg_goals_per_match": 2.23,
+    "avg_goals_per_match": 2.22,
     "home_wins": 86,
-    "draws": 74,
+    "draws": 75,
     "away_wins": 77,
-    "home_win_pct": 36.3,
+    "home_win_pct": 36.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12121,5 +12123,5 @@
     "matches_current_season": 266,
     "upcoming_matches": 29
   },
-  "updated_at": "2026/10/10"
+  "updated_at": "2026/10/11"
 }

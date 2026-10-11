@@ -8698,10 +8698,28 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_e961c54915bf4b1c91666775fb79b034",
+        "date": "2026-10-17",
+        "time": "16:30",
+        "status": "Postp.",
+        "league": "希腊超级联赛",
+        "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
+        "home": {
+          "name": "阿特罗米托斯",
+          "team_id": "ast_d2e304374948430fb73e1d225eb17432"
+        },
+        "away": {
+          "name": "雅典AEK",
+          "team_id": "ast_69433bd028da476db53f6f9fd24b5068"
+        },
+        "venue": "",
+        "status_label": "延期"
+      },
+      {
         "match_id": "as_35244e921cd242f7a307e47996de7a20",
         "date": "2026-10-12",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "希腊超级联赛",
         "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
         "season": "2026/2027",
@@ -8713,9 +8731,7 @@
           "name": "卡拉马塔",
           "team_id": "ast_c64a487d6d7c4c168bdcee42472173a3"
         },
-        "ht_score": "-",
-        "venue": "Toumba Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_798c0864ec2f47168b3fc7bf67feec90",
@@ -8786,42 +8802,6 @@
         "away": {
           "name": "沃洛斯",
           "team_id": "ast_5551e37f94b64797ba907f43403c54a0"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7e7e4e8e1053409d9332484d6ee08f11",
-        "date": "2026-10-10",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "希腊超级联赛",
-        "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿斯特拉斯特里波利斯",
-          "team_id": "ast_1809b94e9c6247b9bf034cb0eac58995"
-        },
-        "away": {
-          "name": "阿特罗米托斯",
-          "team_id": "ast_d2e304374948430fb73e1d225eb17432"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_58bf3ba4de1d4b2bb0cb03fd1fcc4ac4",
-        "date": "2026-10-10",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "希腊超级联赛",
-        "league_id": "asl_2793c2d73f844b9b953e8b155e5e9486",
-        "season": "2026/2027",
-        "home": {
-          "name": "雅典AEK",
-          "team_id": "ast_69433bd028da476db53f6f9fd24b5068"
-        },
-        "away": {
-          "name": "克里特岛OFI",
-          "team_id": "ast_1d314a014b75409e9bad0ca79a119fa9"
         },
         "venue": ""
       }
@@ -15242,7 +15222,7 @@
     "teams_all_time": 38,
     "standings_rows_current": 14,
     "matches_current_season": 236,
-    "upcoming_matches": 41
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/10/10"
+  "updated_at": "2026/10/11"
 }

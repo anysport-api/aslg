@@ -228,6 +228,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_95f5848754104b95b58715240233b19c",
+        "team": "Anyang",
+        "played": 31,
+        "wins": 10,
+        "draws": 11,
+        "losses": 10,
+        "goals_for": 39,
+        "goals_against": 47,
+        "goal_difference": -8,
+        "points": 41,
+        "form": "WWDLL"
+      },
+      {
+        "position": 9,
         "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371",
         "team": "Pohang",
         "played": 31,
@@ -241,32 +255,18 @@
         "form": "LWDDL"
       },
       {
-        "position": 9,
-        "team_id": "ast_95f5848754104b95b58715240233b19c",
-        "team": "Anyang",
-        "played": 30,
-        "wins": 9,
-        "draws": 11,
-        "losses": 10,
-        "goals_for": 38,
-        "goals_against": 47,
-        "goal_difference": -9,
-        "points": 38,
-        "form": "WDLLD"
-      },
-      {
         "position": 10,
         "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9",
         "team": "Gimcheon Sangmu",
-        "played": 30,
+        "played": 31,
         "wins": 5,
         "draws": 18,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 30,
-        "goals_against": 36,
-        "goal_difference": -6,
+        "goals_against": 37,
+        "goal_difference": -7,
         "points": 33,
-        "form": "WDDDL"
+        "form": "LWDDD"
       },
       {
         "position": 11,
@@ -405,6 +405,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_95f5848754104b95b58715240233b19c",
+        "team": "安阳",
+        "played": 31,
+        "wins": 10,
+        "draws": 11,
+        "losses": 10,
+        "goals_for": 39,
+        "goals_against": 47,
+        "goal_difference": -8,
+        "points": 41,
+        "form": "WWDLL",
+        "form_label": "胜胜平负负"
+      },
+      {
+        "position": 9,
         "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371",
         "team": "浦项",
         "played": 31,
@@ -419,34 +434,19 @@
         "form_label": "负胜平平负"
       },
       {
-        "position": 9,
-        "team_id": "ast_95f5848754104b95b58715240233b19c",
-        "team": "安阳",
-        "played": 30,
-        "wins": 9,
-        "draws": 11,
-        "losses": 10,
-        "goals_for": 38,
-        "goals_against": 47,
-        "goal_difference": -9,
-        "points": 38,
-        "form": "WDLLD",
-        "form_label": "胜平负负平"
-      },
-      {
         "position": 10,
         "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9",
         "team": "金泉尚武",
-        "played": 30,
+        "played": 31,
         "wins": 5,
         "draws": 18,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 30,
-        "goals_against": 36,
-        "goal_difference": -6,
+        "goals_against": 37,
+        "goal_difference": -7,
         "points": 33,
-        "form": "WDDDL",
-        "form_label": "胜平平平负"
+        "form": "LWDDD",
+        "form_label": "负胜平平平"
       },
       {
         "position": 11,
@@ -741,7 +741,7 @@
         "match_id": "as_0a7b0757af1a4bd9a0f43401a4c1d95d",
         "date": "2026-10-11",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "韩国职业联赛",
         "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
         "season": "2026",
@@ -753,7 +753,10 @@
           "name": "蔚山",
           "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
         },
-        "venue": ""
+        "ht_score": "2-2",
+        "reg_score": "4-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_eb0b0d722c624cf4ad0bddc40b7be300",
@@ -780,7 +783,7 @@
         "match_id": "as_0ba7dc85bb75446385bec3c09bb18ba4",
         "date": "2026-10-10",
         "time": "07:30",
-        "status": "91",
+        "status": "FT",
         "league": "韩国职业联赛",
         "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
         "season": "2026",
@@ -794,7 +797,8 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": ""
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_906800961a764c30858932d314e6ce98",
@@ -814,7 +818,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "大田世界杯体育场",
         "status_label": "完场"
       },
       {
@@ -835,7 +839,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "春川松岩体育场",
         "status_label": "完场"
       },
       {
@@ -856,7 +860,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "顺希竞技场公园",
         "status_label": "完场"
       },
       {
@@ -4885,7 +4889,7 @@
         "match_id": "as_0a7b0757af1a4bd9a0f43401a4c1d95d",
         "date": "2026-10-11",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "韩国职业联赛",
         "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
         "season": "2026",
@@ -4897,46 +4901,8 @@
           "name": "蔚山",
           "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0ba7dc85bb75446385bec3c09bb18ba4",
-        "date": "2026-10-10",
-        "time": "07:30",
-        "status": "91",
-        "league": "韩国职业联赛",
-        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
-        "season": "2026",
-        "home": {
-          "name": "金泉尚武",
-          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
-        },
-        "away": {
-          "name": "安阳",
-          "team_id": "ast_95f5848754104b95b58715240233b19c"
-        },
-        "ht_score": "0-1",
-        "reg_score": "0-1",
-        "venue": ""
-      },
-      {
-        "match_id": "as_eb0b0d722c624cf4ad0bddc40b7be300",
-        "date": "2026-10-10",
-        "time": "05:00",
-        "status": "FT",
-        "league": "韩国职业联赛",
-        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
-        "season": "2026",
-        "home": {
-          "name": "首尔",
-          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
-        },
-        "away": {
-          "name": "济州联",
-          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
-        },
-        "ht_score": "0-0",
-        "reg_score": "2-1",
+        "ht_score": "2-2",
+        "reg_score": "4-3",
         "venue": "",
         "status_label": "完场"
       }
@@ -7586,13 +7552,13 @@
     }
   },
   "stats": {
-    "matches_completed": 185,
-    "total_goals": 452,
-    "avg_goals_per_match": 2.44,
-    "home_wins": 58,
+    "matches_completed": 186,
+    "total_goals": 459,
+    "avg_goals_per_match": 2.47,
+    "home_wins": 59,
     "draws": 61,
     "away_wins": 66,
-    "home_win_pct": 31.4,
+    "home_win_pct": 31.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7608,13 +7574,13 @@
     "highest_scoring_match": {
       "goals": 7,
       "match": {
-        "match_id": "as_d9e4c0c613ff485696f33ba82463b345",
-        "date": "2026-08-30",
+        "match_id": "as_0a7b0757af1a4bd9a0f43401a4c1d95d",
+        "date": "2026-10-11",
         "home_id": "ast_ad7deed94ee8405fba5a25898e084553",
         "home": "光州FC",
-        "away_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b",
-        "away": "首尔",
-        "score": "2-5"
+        "away_id": "ast_4bc751d5ccad4c1687220f08613d6f6f",
+        "away": "蔚山",
+        "score": "4-3"
       }
     },
     "leader": {
@@ -8402,7 +8368,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 12,
     "matches_current_season": 198,
-    "upcoming_matches": 15
+    "upcoming_matches": 13
   },
-  "updated_at": "2026/10/10"
+  "updated_at": "2026/10/11"
 }

@@ -276,15 +276,15 @@
         "position": 10,
         "team_id": "ast_b87e15a2d67a4e0485a87e04d995af66",
         "team": "Qizilqum",
-        "played": 22,
+        "played": 23,
         "wins": 9,
-        "draws": 2,
+        "draws": 3,
         "losses": 11,
         "goals_for": 23,
         "goals_against": 30,
         "goal_difference": -7,
-        "points": 29,
-        "form": "WLWWL"
+        "points": 30,
+        "form": "DWLWW"
       },
       {
         "position": 11,
@@ -304,15 +304,15 @@
         "position": 12,
         "team_id": "ast_455f1d8b06e5453e8121baf47d8afc7c",
         "team": "Termez Surkhon",
-        "played": 22,
+        "played": 23,
         "wins": 7,
-        "draws": 5,
+        "draws": 6,
         "losses": 10,
         "goals_for": 19,
         "goals_against": 28,
         "goal_difference": -9,
-        "points": 26,
-        "form": "WLWDD"
+        "points": 27,
+        "form": "DWLWD"
       },
       {
         "position": 13,
@@ -511,16 +511,16 @@
         "position": 10,
         "team_id": "ast_b87e15a2d67a4e0485a87e04d995af66",
         "team": "基齐尔库姆",
-        "played": 22,
+        "played": 23,
         "wins": 9,
-        "draws": 2,
+        "draws": 3,
         "losses": 11,
         "goals_for": 23,
         "goals_against": 30,
         "goal_difference": -7,
-        "points": 29,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
+        "points": 30,
+        "form": "DWLWW",
+        "form_label": "平胜负胜胜"
       },
       {
         "position": 11,
@@ -541,16 +541,16 @@
         "position": 12,
         "team_id": "ast_455f1d8b06e5453e8121baf47d8afc7c",
         "team": "特尔梅兹苏尔洪",
-        "played": 22,
+        "played": 23,
         "wins": 7,
-        "draws": 5,
+        "draws": 6,
         "losses": 10,
         "goals_for": 19,
         "goals_against": 28,
         "goal_difference": -9,
-        "points": 26,
-        "form": "WLWDD",
-        "form_label": "胜负胜平平"
+        "points": 27,
+        "form": "DWLWD",
+        "form_label": "平胜负胜平"
       },
       {
         "position": 13,
@@ -1388,7 +1388,7 @@
           "team_id": "ast_921950f68f7246ec9d6fb925189723b8"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Xorazm Stadium",
         "status_label": "未开赛"
       },
       {
@@ -1791,7 +1791,7 @@
         "match_id": "as_4902557ca87d4e2a9bf07d2279e30a07",
         "date": "2026-10-10",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1803,7 +1803,10 @@
           "name": "特尔梅兹苏尔洪",
           "team_id": "ast_455f1d8b06e5453e8121baf47d8afc7c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f5af5821d2064bf4a2786d912fb57c30",
@@ -1823,7 +1826,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Pakhtakor Central Stadium",
         "status_label": "完场"
       },
       {
@@ -1844,7 +1847,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Buxoro FA Stadioni",
         "status_label": "完场"
       },
       {
@@ -1886,7 +1889,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Markaziy Stadium",
         "status_label": "完场"
       },
       {
@@ -6005,7 +6008,7 @@
           "team_id": "ast_921950f68f7246ec9d6fb925189723b8"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Xorazm Stadium",
         "status_label": "未开赛"
       },
       {
@@ -6441,24 +6444,6 @@
         "away": {
           "name": "纳夫巴霍尔·纳曼甘",
           "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4902557ca87d4e2a9bf07d2279e30a07",
-        "date": "2026-10-10",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "season": "2026",
-        "home": {
-          "name": "基齐尔库姆",
-          "team_id": "ast_b87e15a2d67a4e0485a87e04d995af66"
-        },
-        "away": {
-          "name": "特尔梅兹苏尔洪",
-          "team_id": "ast_455f1d8b06e5453e8121baf47d8afc7c"
         },
         "venue": ""
       }
@@ -8344,13 +8329,13 @@
     }
   },
   "stats": {
-    "matches_completed": 181,
+    "matches_completed": 182,
     "total_goals": 489,
-    "avg_goals_per_match": 2.7,
+    "avg_goals_per_match": 2.69,
     "home_wins": 83,
-    "draws": 37,
+    "draws": 38,
     "away_wins": 61,
-    "home_win_pct": 45.9,
+    "home_win_pct": 45.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9148,7 +9133,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 43
+    "upcoming_matches": 42
   },
-  "updated_at": "2026/10/10"
+  "updated_at": "2026/10/11"
 }
