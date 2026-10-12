@@ -154,15 +154,15 @@
         "position": 3,
         "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
         "team": "Khosilot Parkhar",
-        "played": 17,
+        "played": 18,
         "wins": 10,
-        "draws": 4,
+        "draws": 5,
         "losses": 3,
-        "goals_for": 34,
-        "goals_against": 17,
+        "goals_for": 35,
+        "goals_against": 18,
         "goal_difference": 17,
-        "points": 34,
-        "form": "WLWDW"
+        "points": 35,
+        "form": "DWLWD"
       },
       {
         "position": 4,
@@ -210,15 +210,15 @@
         "position": 7,
         "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512",
         "team": "Ravshan",
-        "played": 17,
+        "played": 18,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 7,
-        "goals_for": 23,
-        "goals_against": 19,
+        "goals_for": 24,
+        "goals_against": 20,
         "goal_difference": 4,
-        "points": 22,
-        "form": "WLDLD"
+        "points": 23,
+        "form": "DWLDL"
       },
       {
         "position": 8,
@@ -326,16 +326,16 @@
         "position": 3,
         "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
         "team": "霍西洛特·帕尔哈尔",
-        "played": 17,
+        "played": 18,
         "wins": 10,
-        "draws": 4,
+        "draws": 5,
         "losses": 3,
-        "goals_for": 34,
-        "goals_against": 17,
+        "goals_for": 35,
+        "goals_against": 18,
         "goal_difference": 17,
-        "points": 34,
-        "form": "WLWDW",
-        "form_label": "胜负胜平胜"
+        "points": 35,
+        "form": "DWLWD",
+        "form_label": "平胜负胜平"
       },
       {
         "position": 4,
@@ -386,16 +386,16 @@
         "position": 7,
         "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512",
         "team": "拉夫尚",
-        "played": 17,
+        "played": 18,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 7,
-        "goals_for": 23,
-        "goals_against": 19,
+        "goals_for": 24,
+        "goals_against": 20,
         "goal_difference": 4,
-        "points": 22,
-        "form": "WLDLD",
-        "form_label": "胜负平负平"
+        "points": 23,
+        "form": "DWLDL",
+        "form_label": "平胜负平负"
       },
       {
         "position": 8,
@@ -993,7 +993,7 @@
         "match_id": "as_fe28a3c1e3a24fe18f0e48e1bd925a08",
         "date": "2026-10-11",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -1005,7 +1005,10 @@
           "name": "霍西洛特·帕尔哈尔",
           "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cdb24cda7f1b4b1e87a2ca6b670045c5",
@@ -3726,24 +3729,6 @@
           "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_fe28a3c1e3a24fe18f0e48e1bd925a08",
-        "date": "2026-10-11",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "拉夫尚",
-          "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512"
-        },
-        "away": {
-          "name": "霍西洛特·帕尔哈尔",
-          "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5146,13 +5131,13 @@
     }
   },
   "stats": {
-    "matches_completed": 103,
-    "total_goals": 263,
+    "matches_completed": 104,
+    "total_goals": 265,
     "avg_goals_per_match": 2.55,
     "home_wins": 41,
-    "draws": 27,
+    "draws": 28,
     "away_wins": 35,
-    "home_win_pct": 39.8,
+    "home_win_pct": 39.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -5305,15 +5290,15 @@
             "position": 3,
             "team_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
             "team": "Khosilot Parkhar",
-            "played": 17,
+            "played": 18,
             "wins": 10,
-            "draws": 4,
+            "draws": 5,
             "losses": 3,
-            "goals_for": 34,
-            "goals_against": 17,
+            "goals_for": 35,
+            "goals_against": 18,
             "goal_difference": 17,
-            "points": 34,
-            "form": "WLWDW"
+            "points": 35,
+            "form": "DWLWD"
           }
         ],
         "meta": {
@@ -5913,7 +5898,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/10/11"
+  "updated_at": "2026/10/12"
 }

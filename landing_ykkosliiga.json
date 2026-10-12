@@ -42,15 +42,15 @@
         "position": 1,
         "team_id": "ast_71dc3df39ffd45708c71638970264071",
         "team": "KTP",
-        "played": 25,
+        "played": 26,
         "wins": 18,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 45,
-        "goals_against": 22,
-        "goal_difference": 23,
+        "losses": 4,
+        "goals_for": 48,
+        "goals_against": 26,
+        "goal_difference": 22,
         "points": 58,
-        "form": "DWWWW"
+        "form": "LDWWW"
       },
       {
         "position": 2,
@@ -168,15 +168,15 @@
         "position": 10,
         "team_id": "ast_8130cb8853464bd688bc80640b9d1e71",
         "team": "SJK Akatemia",
-        "played": 25,
-        "wins": 2,
+        "played": 26,
+        "wins": 3,
         "draws": 8,
         "losses": 15,
-        "goals_for": 17,
-        "goals_against": 41,
-        "goal_difference": -24,
-        "points": 14,
-        "form": "DLDLL"
+        "goals_for": 21,
+        "goals_against": 44,
+        "goal_difference": -23,
+        "points": 17,
+        "form": "WDLDL"
       }
     ],
     "zh": [
@@ -184,16 +184,16 @@
         "position": 1,
         "team_id": "ast_71dc3df39ffd45708c71638970264071",
         "team": "KTP",
-        "played": 25,
+        "played": 26,
         "wins": 18,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 45,
-        "goals_against": 22,
-        "goal_difference": 23,
+        "losses": 4,
+        "goals_for": 48,
+        "goals_against": 26,
+        "goal_difference": 22,
         "points": 58,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
+        "form": "LDWWW",
+        "form_label": "负平胜胜胜"
       },
       {
         "position": 2,
@@ -319,16 +319,16 @@
         "position": 10,
         "team_id": "ast_8130cb8853464bd688bc80640b9d1e71",
         "team": "SJK学术队",
-        "played": 25,
-        "wins": 2,
+        "played": 26,
+        "wins": 3,
         "draws": 8,
         "losses": 15,
-        "goals_for": 17,
-        "goals_against": 41,
-        "goal_difference": -24,
-        "points": 14,
-        "form": "DLDLL",
-        "form_label": "平负平负负"
+        "goals_for": 21,
+        "goals_against": 44,
+        "goal_difference": -23,
+        "points": 17,
+        "form": "WDLDL",
+        "form_label": "胜平负平负"
       }
     ]
   },
@@ -453,7 +453,7 @@
         "match_id": "as_750e2d080c09411eaa09ebd541dcbaca",
         "date": "2026-10-11",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "芬兰Ykkosliiga联赛",
         "league_id": "asl_5201d28389174ce38a373739cde2a252",
         "season": "2026",
@@ -465,7 +465,10 @@
           "name": "KTP",
           "team_id": "ast_71dc3df39ffd45708c71638970264071"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "4-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c16ff70f14e24a50a40340c097d0545d",
@@ -3277,24 +3280,6 @@
         "ht_score": "-",
         "venue": "Ekenas Sparbank Arena TN",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_750e2d080c09411eaa09ebd541dcbaca",
-        "date": "2026-10-11",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "芬兰Ykkosliiga联赛",
-        "league_id": "asl_5201d28389174ce38a373739cde2a252",
-        "season": "2026",
-        "home": {
-          "name": "SJK学术队",
-          "team_id": "ast_8130cb8853464bd688bc80640b9d1e71"
-        },
-        "away": {
-          "name": "KTP",
-          "team_id": "ast_71dc3df39ffd45708c71638970264071"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3840,13 +3825,13 @@
     }
   },
   "stats": {
-    "matches_completed": 129,
-    "total_goals": 337,
-    "avg_goals_per_match": 2.61,
-    "home_wins": 54,
+    "matches_completed": 130,
+    "total_goals": 344,
+    "avg_goals_per_match": 2.65,
+    "home_wins": 55,
     "draws": 30,
     "away_wins": 45,
-    "home_win_pct": 41.9,
+    "home_win_pct": 42.3,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -3874,7 +3859,7 @@
     "leader": {
       "team": "KTP",
       "points": 58,
-      "played": 25
+      "played": 26
     }
   },
   "coverage": {
@@ -3971,15 +3956,15 @@
             "position": 1,
             "team_id": "ast_71dc3df39ffd45708c71638970264071",
             "team": "KTP",
-            "played": 25,
+            "played": 26,
             "wins": 18,
             "draws": 4,
-            "losses": 3,
-            "goals_for": 45,
-            "goals_against": 22,
-            "goal_difference": 23,
+            "losses": 4,
+            "goals_for": 48,
+            "goals_against": 26,
+            "goal_difference": 22,
             "points": 58,
-            "form": "DWWWW"
+            "form": "LDWWW"
           },
           {
             "position": 2,
@@ -4644,7 +4629,7 @@
     "teams_all_time": 14,
     "standings_rows_current": 10,
     "matches_current_season": 135,
-    "upcoming_matches": 6
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/10/11"
+  "updated_at": "2026/10/12"
 }

@@ -192,6 +192,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
+        "team": "CAPS Utd",
+        "played": 30,
+        "wins": 12,
+        "draws": 12,
+        "losses": 6,
+        "goals_for": 34,
+        "goals_against": 25,
+        "goal_difference": 9,
+        "points": 48,
+        "form": "DWDDW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740",
         "team": "Herentals",
         "played": 30,
@@ -203,20 +217,6 @@
         "goal_difference": 3,
         "points": 48,
         "form": "LLWLW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
-        "team": "CAPS Utd",
-        "played": 29,
-        "wins": 12,
-        "draws": 11,
-        "losses": 6,
-        "goals_for": 34,
-        "goals_against": 25,
-        "goal_difference": 9,
-        "points": 47,
-        "form": "WDDWL"
       },
       {
         "position": 7,
@@ -278,15 +278,15 @@
         "position": 11,
         "team_id": "ast_a2c1061af5c54957a6e8fa6a20343452",
         "team": "Simba Bhora",
-        "played": 29,
+        "played": 30,
         "wins": 8,
-        "draws": 11,
+        "draws": 12,
         "losses": 10,
         "goals_for": 29,
         "goals_against": 30,
         "goal_difference": -1,
-        "points": 35,
-        "form": "LDLDL"
+        "points": 36,
+        "form": "DLDLD"
       },
       {
         "position": 12,
@@ -449,6 +449,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
+        "team": "CAPS联队",
+        "played": 30,
+        "wins": 12,
+        "draws": 12,
+        "losses": 6,
+        "goals_for": 34,
+        "goals_against": 25,
+        "goal_difference": 9,
+        "points": 48,
+        "form": "DWDDW",
+        "form_label": "平胜平平胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740",
         "team": "赫伦塔尔斯",
         "played": 30,
@@ -461,21 +476,6 @@
         "points": 48,
         "form": "LLWLW",
         "form_label": "负负胜负胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
-        "team": "CAPS联队",
-        "played": 29,
-        "wins": 12,
-        "draws": 11,
-        "losses": 6,
-        "goals_for": 34,
-        "goals_against": 25,
-        "goal_difference": 9,
-        "points": 47,
-        "form": "WDDWL",
-        "form_label": "胜平平胜负"
       },
       {
         "position": 7,
@@ -541,16 +541,16 @@
         "position": 11,
         "team_id": "ast_a2c1061af5c54957a6e8fa6a20343452",
         "team": "辛巴·博拉",
-        "played": 29,
+        "played": 30,
         "wins": 8,
-        "draws": 11,
+        "draws": 12,
         "losses": 10,
         "goals_for": 29,
         "goals_against": 30,
         "goal_difference": -1,
-        "points": 35,
-        "form": "LDLDL",
-        "form_label": "负平负平负"
+        "points": 36,
+        "form": "DLDLD",
+        "form_label": "平负平负平"
       },
       {
         "position": 12,
@@ -859,7 +859,7 @@
         "match_id": "as_a6d685d5a92c4cb2aa8eb8727ae9d193",
         "date": "2026-10-11",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -871,7 +871,10 @@
           "name": "辛巴·博拉",
           "team_id": "ast_a2c1061af5c54957a6e8fa6a20343452"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9fe2ee66975b400caedc1730de0867f2",
@@ -6703,24 +6706,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_a6d685d5a92c4cb2aa8eb8727ae9d193",
-        "date": "2026-10-11",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "CAPS联队",
-          "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43"
-        },
-        "away": {
-          "name": "辛巴·博拉",
-          "team_id": "ast_a2c1061af5c54957a6e8fa6a20343452"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9054,13 +9039,13 @@
     }
   },
   "stats": {
-    "matches_completed": 269,
+    "matches_completed": 270,
     "total_goals": 504,
     "avg_goals_per_match": 1.87,
     "home_wins": 97,
-    "draws": 98,
+    "draws": 99,
     "away_wins": 74,
-    "home_win_pct": 36.1,
+    "home_win_pct": 35.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9783,7 +9768,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 279,
-    "upcoming_matches": 10
+    "upcoming_matches": 9
   },
-  "updated_at": "2026/10/11"
+  "updated_at": "2026/10/12"
 }

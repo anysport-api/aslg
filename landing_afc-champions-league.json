@@ -148,20 +148,6 @@
     "en": [
       {
         "position": 1,
-        "team_id": "ast_930a9cca90bd4f738d0273ad908a9679",
-        "team": "Machida",
-        "played": 8,
-        "wins": 5,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 15,
-        "goals_against": 7,
-        "goal_difference": 8,
-        "points": 17,
-        "form": "WWWWL"
-      },
-      {
-        "position": 1,
         "team_id": "ast_ad0a9ed0d7894d3ab5a632482475812a",
         "team": "Al Hilal",
         "played": 8,
@@ -175,18 +161,18 @@
         "form": "WDWWW"
       },
       {
-        "position": 2,
-        "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
-        "team": "Vissel Kobe",
+        "position": 1,
+        "team_id": "ast_930a9cca90bd4f738d0273ad908a9679",
+        "team": "Machida",
         "played": 8,
         "wins": 5,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 14,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 15,
         "goals_against": 7,
-        "goal_difference": 7,
-        "points": 16,
-        "form": "LWDWW"
+        "goal_difference": 8,
+        "points": 17,
+        "form": "WWWWL"
       },
       {
         "position": 2,
@@ -201,6 +187,20 @@
         "goal_difference": 12,
         "points": 17,
         "form": "WDWLW"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
+        "team": "Vissel Kobe",
+        "played": 8,
+        "wins": 5,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 14,
+        "goals_against": 7,
+        "goal_difference": 7,
+        "points": 16,
+        "form": "LWDWW"
       },
       {
         "position": 3,
@@ -486,21 +486,6 @@
     "zh": [
       {
         "position": 1,
-        "team_id": "ast_930a9cca90bd4f738d0273ad908a9679",
-        "team": "町田",
-        "played": 8,
-        "wins": 5,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 15,
-        "goals_against": 7,
-        "goal_difference": 8,
-        "points": 17,
-        "form": "WWWWL",
-        "form_label": "胜胜胜胜负"
-      },
-      {
-        "position": 1,
         "team_id": "ast_ad0a9ed0d7894d3ab5a632482475812a",
         "team": "阿尔希拉尔",
         "played": 8,
@@ -515,19 +500,19 @@
         "form_label": "胜平胜胜胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
-        "team": "神户胜利船",
+        "position": 1,
+        "team_id": "ast_930a9cca90bd4f738d0273ad908a9679",
+        "team": "町田",
         "played": 8,
         "wins": 5,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 14,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 15,
         "goals_against": 7,
-        "goal_difference": 7,
-        "points": 16,
-        "form": "LWDWW",
-        "form_label": "负胜平胜胜"
+        "goal_difference": 8,
+        "points": 17,
+        "form": "WWWWL",
+        "form_label": "胜胜胜胜负"
       },
       {
         "position": 2,
@@ -543,6 +528,21 @@
         "points": 17,
         "form": "WDWLW",
         "form_label": "胜平胜负胜"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
+        "team": "神户胜利船",
+        "played": 8,
+        "wins": 5,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 14,
+        "goals_against": 7,
+        "goal_difference": 7,
+        "points": 16,
+        "form": "LWDWW",
+        "form_label": "负胜平胜胜"
       },
       {
         "position": 3,
@@ -5729,6 +5729,526 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_5e7e44de1b2141d1b02104fd68b882e9",
+        "date": "2026-11-25",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "鹿岛鹿角",
+          "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482"
+        },
+        "away": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "ht_score": "-",
+        "venue": "Mercari Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_36141c04c9814019a69252b4e86d096b",
+        "date": "2026-11-25",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "冈巴大阪",
+          "team_id": "ast_03e716361bc6439d85fa35b906ed7431"
+        },
+        "away": {
+          "name": "MTI港FC",
+          "team_id": "ast_0631cc6eaf934ab4b66eda8c6c44a37d"
+        },
+        "ht_score": "-",
+        "venue": "吹田松下体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_a77d973c0e94405d82027c3572f6dc66",
+        "date": "2026-11-24",
+        "time": "18:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔纳斯尔",
+          "team_id": "ast_c1abecbb29ab40b084d14a802852c4e5"
+        },
+        "away": {
+          "name": "阿尔萨德",
+          "team_id": "ast_108592a5f4b9445a9269030d96036836"
+        },
+        "ht_score": "-",
+        "venue": "King Saud University Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2148c4484e0e47128960826b6a683855",
+        "date": "2026-11-24",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔阿赫利迪拜",
+          "team_id": "ast_5931857e9bd040359b3a1ecac9993a1c"
+        },
+        "away": {
+          "name": "阿尔卡德西亚",
+          "team_id": "ast_486e381b7f824e4284500a70033a5824"
+        },
+        "ht_score": "-",
+        "venue": "Al Rashid Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b32e926b78de407cb2620cfd7e5ce64a",
+        "date": "2026-11-24",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "上海港",
+          "team_id": "ast_bc38bd08249048729912cddb016e9d2b"
+        },
+        "away": {
+          "name": "武里南",
+          "team_id": "ast_b43b9f685cb74c4b8ed24f6973d78624"
+        },
+        "ht_score": "-",
+        "venue": "Pudong Football Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5ce78d738dd2488ebc8cbb4aeb3dbf4c",
+        "date": "2026-11-24",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "拉查布里",
+          "team_id": "ast_a58a25cf1a354855a5306fa3801c86d3"
+        },
+        "away": {
+          "name": "柔佛DT",
+          "team_id": "ast_ab58b80c20f64db3b2d674496fe83614"
+        },
+        "ht_score": "-",
+        "venue": "Dragon Solar Park",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c6e44227f991452c84c47c04bdfdf653",
+        "date": "2026-11-24",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "河内公安",
+          "team_id": "ast_7594950dfc8147ab959647c0dba3e80a"
+        },
+        "away": {
+          "name": "神户胜利船",
+          "team_id": "ast_266e68d783ff41409cf5e69ea093926f"
+        },
+        "ht_score": "-",
+        "venue": "Hang Day Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9230d2020f6645ad84432fbb0013b3f3",
+        "date": "2026-11-24",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "京都",
+          "team_id": "ast_ec52389f4b26424cb157b1ef8120070d"
+        },
+        "away": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "ht_score": "-",
+        "venue": "Sanga体育场（京瓷冠名）",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_609f7cb8d79f42888d6ef4ce2f3707b5",
+        "date": "2026-11-24",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "away": {
+          "name": "北京国安",
+          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
+        },
+        "ht_score": "-",
+        "venue": "大田世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c3c009a7614a44da970d64a6651d905c",
+        "date": "2026-11-24",
+        "time": "07:45",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "纽卡斯尔喷气机",
+          "team_id": "ast_4e2538f57a28402d9daeb722d4d9de83"
+        },
+        "away": {
+          "name": "柏太阳神",
+          "team_id": "ast_44ec70f0210847d78a8e44720f8b1f2e"
+        },
+        "ht_score": "-",
+        "venue": "麦当劳·琼斯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b2bcb2ecaa13438cba77e17c9051a219",
+        "date": "2026-11-23",
+        "time": "18:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔库瓦阿尔贾维亚",
+          "team_id": "ast_13687830eb9c45a68f3cd1e9db99e5ce"
+        },
+        "away": {
+          "name": "阿尔加拉法",
+          "team_id": "ast_41e8ede94769455bba317692b234ac8f"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_a200a8b9d04c45fdb98ba3abe79aa295",
+        "date": "2026-11-23",
+        "time": "18:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔伊蒂哈德",
+          "team_id": "ast_5c07efa1e812482886062faca722f289"
+        },
+        "away": {
+          "name": "帕赫塔科尔",
+          "team_id": "ast_921950f68f7246ec9d6fb925189723b8"
+        },
+        "ht_score": "-",
+        "venue": "King Abdullah Sports City",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3cffecc586cb4cdfaecda1933ce5c48a",
+        "date": "2026-11-23",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "拖拉机俱乐部",
+          "team_id": "ast_088550081853454680b73ea8074db845"
+        },
+        "away": {
+          "name": "阿尔瓦斯尔",
+          "team_id": "ast_bf362a07f7434f76ac149baac05a0ef5"
+        },
+        "ht_score": "-",
+        "venue": "Yadegar-e-Emam Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1de4eb73249549b0a328e3d74afe27c0",
+        "date": "2026-11-23",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "沙马尔",
+          "team_id": "ast_0768939c16214b58be66e61df93ed715"
+        },
+        "away": {
+          "name": "阿尔阿赫利体育俱乐部",
+          "team_id": "ast_789293172c9e485eb8adb76723f25f98"
+        },
+        "ht_score": "-",
+        "venue": "拜特体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_081fe412cc6143b5b279dc8a08ab3d8c",
+        "date": "2026-11-23",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔艾因",
+          "team_id": "ast_9469cf27b4134c63bed20d32315b481d"
+        },
+        "away": {
+          "name": "独立者",
+          "team_id": "ast_fec5740efd9347f1ad61776751f6a669"
+        },
+        "ht_score": "-",
+        "venue": "塔赫农·本·穆罕默德体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_36f3c964950a4488947e964aafd12b47",
+        "date": "2026-11-23",
+        "time": "13:45",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "尼夫奇法尔戈纳",
+          "team_id": "ast_23304dd4b8a54025b647ae709e267b56"
+        },
+        "away": {
+          "name": "阿尔希拉尔",
+          "team_id": "ast_ad0a9ed0d7894d3ab5a632482475812a"
+        },
+        "ht_score": "-",
+        "venue": "Istiqlol Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e9d7d4e12e9b48fabceea518ef29e2a8",
+        "date": "2026-11-04",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "武里南",
+          "team_id": "ast_b43b9f685cb74c4b8ed24f6973d78624"
+        },
+        "away": {
+          "name": "鹿岛鹿角",
+          "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482"
+        },
+        "ht_score": "-",
+        "venue": "象牌竞技场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_dc852adeadc84e4cb083760d3a9d0242",
+        "date": "2026-11-04",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "away": {
+          "name": "冈巴大阪",
+          "team_id": "ast_03e716361bc6439d85fa35b906ed7431"
+        },
+        "ht_score": "-",
+        "venue": "Pohang Steel Yard",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d9a051ff7c154086859eaac0d4e05423",
+        "date": "2026-11-03",
+        "time": "18:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿尔希拉尔",
+          "team_id": "ast_ad0a9ed0d7894d3ab5a632482475812a"
+        },
+        "away": {
+          "name": "阿尔阿赫利迪拜",
+          "team_id": "ast_5931857e9bd040359b3a1ecac9993a1c"
+        },
+        "ht_score": "-",
+        "venue": "王国竞技场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8a386c69b84e4b28a218bbbff8bddcff",
+        "date": "2026-11-03",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "独立者",
+          "team_id": "ast_fec5740efd9347f1ad61776751f6a669"
+        },
+        "away": {
+          "name": "沙马尔",
+          "team_id": "ast_0768939c16214b58be66e61df93ed715"
+        },
+        "ht_score": "-",
+        "venue": "阿扎迪体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_57239c100589419088e3706636af426c",
+        "date": "2026-11-03",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "MTI港FC",
+          "team_id": "ast_0631cc6eaf934ab4b66eda8c6c44a37d"
+        },
+        "away": {
+          "name": "北京国安",
+          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
+        },
+        "ht_score": "-",
+        "venue": "PAT 体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_a33e2d63160c4ff79dd663ca40d1008f",
+        "date": "2026-11-03",
+        "time": "12:15",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "河内公安",
+          "team_id": "ast_7594950dfc8147ab959647c0dba3e80a"
+        },
+        "away": {
+          "name": "京都",
+          "team_id": "ast_ec52389f4b26424cb157b1ef8120070d"
+        },
+        "ht_score": "-",
+        "venue": "Hang Day Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8508045333fe4ec3a87af7f7322a161e",
+        "date": "2026-11-03",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "神户胜利船",
+          "team_id": "ast_266e68d783ff41409cf5e69ea093926f"
+        },
+        "away": {
+          "name": "拉查布里",
+          "team_id": "ast_a58a25cf1a354855a5306fa3801c86d3"
+        },
+        "ht_score": "-",
+        "venue": "Noevir Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_88a4917c831a4492b1c840338a57d76a",
+        "date": "2026-11-03",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "柏太阳神",
+          "team_id": "ast_44ec70f0210847d78a8e44720f8b1f2e"
+        },
+        "away": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "ht_score": "-",
+        "venue": "Sankyo Frontier Kashiwa Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_48ca53f19e1a41a79a3a968c0e2142ee",
+        "date": "2026-11-03",
+        "time": "10:00",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "away": {
+          "name": "柔佛DT",
+          "team_id": "ast_ab58b80c20f64db3b2d674496fe83614"
+        },
+        "ht_score": "-",
+        "venue": "全州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6ef9e0a37d8f4bf1b4705a02c5ea1545",
+        "date": "2026-11-03",
+        "time": "07:45",
+        "status": "Not Started",
+        "league": "亚洲冠军联赛",
+        "league_id": "asl_4c89588da29845499cff5db746db1a57",
+        "season": "2026/2027",
+        "home": {
+          "name": "纽卡斯尔喷气机",
+          "team_id": "ast_4e2538f57a28402d9daeb722d4d9de83"
+        },
+        "away": {
+          "name": "上海港",
+          "team_id": "ast_bc38bd08249048729912cddb016e9d2b"
+        },
+        "ht_score": "-",
+        "venue": "麦当劳·琼斯体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_89626dc2030448ebb9e5a13d1a68ad73",
         "date": "2026-11-02",
         "time": "18:15",
@@ -6206,286 +6726,6 @@
         },
         "ht_score": "-",
         "venue": "Sankyo Frontier Kashiwa Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_bc230dec66b34687bf0def8205baa3a7",
-        "date": "2026-10-13",
-        "time": "18:15",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔伊蒂哈德",
-          "team_id": "ast_5c07efa1e812482886062faca722f289"
-        },
-        "away": {
-          "name": "阿尔阿赫利迪拜",
-          "team_id": "ast_5931857e9bd040359b3a1ecac9993a1c"
-        },
-        "ht_score": "-",
-        "venue": "King Abdullah Sports City",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_05cd38edb6cb45b5ac4e8e1a7d5014a6",
-        "date": "2026-10-13",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔萨德",
-          "team_id": "ast_108592a5f4b9445a9269030d96036836"
-        },
-        "away": {
-          "name": "阿尔希拉尔",
-          "team_id": "ast_ad0a9ed0d7894d3ab5a632482475812a"
-        },
-        "ht_score": "-",
-        "venue": "Jassim Bin Hamad Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_32397efb0da34076a50ae6c6d377bf7a",
-        "date": "2026-10-13",
-        "time": "12:15",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "河内公安",
-          "team_id": "ast_7594950dfc8147ab959647c0dba3e80a"
-        },
-        "away": {
-          "name": "鹿岛鹿角",
-          "team_id": "ast_83b59c05cb8e4cbc88f3e0b1b6344482"
-        },
-        "ht_score": "-",
-        "venue": "Hang Day Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e96deca0e3484565b40b4d2a6adba998",
-        "date": "2026-10-13",
-        "time": "12:15",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "武里南",
-          "team_id": "ast_b43b9f685cb74c4b8ed24f6973d78624"
-        },
-        "away": {
-          "name": "北京国安",
-          "team_id": "ast_2273f3517a95410a9c76ba73e59ece34"
-        },
-        "ht_score": "-",
-        "venue": "象牌竞技场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ac9f9c5dca634784b4855bd49807e34a",
-        "date": "2026-10-13",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "上海港",
-          "team_id": "ast_bc38bd08249048729912cddb016e9d2b"
-        },
-        "away": {
-          "name": "大田",
-          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
-        },
-        "ht_score": "-",
-        "venue": "Pudong Football Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_16110ea2052e494bb12548d12aa73a11",
-        "date": "2026-10-13",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "浦项",
-          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
-        },
-        "away": {
-          "name": "柔佛DT",
-          "team_id": "ast_ab58b80c20f64db3b2d674496fe83614"
-        },
-        "ht_score": "-",
-        "venue": "Pohang Steel Yard",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6457dac6c8584945bac48191eb08ca08",
-        "date": "2026-10-13",
-        "time": "10:00",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "京都",
-          "team_id": "ast_ec52389f4b26424cb157b1ef8120070d"
-        },
-        "away": {
-          "name": "拉查布里",
-          "team_id": "ast_a58a25cf1a354855a5306fa3801c86d3"
-        },
-        "ht_score": "-",
-        "venue": "Sanga体育场（京瓷冠名）",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_aab87bd98849475faf8f405dd90dcd62",
-        "date": "2026-10-13",
-        "time": "07:45",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "纽卡斯尔喷气机",
-          "team_id": "ast_4e2538f57a28402d9daeb722d4d9de83"
-        },
-        "away": {
-          "name": "冈巴大阪",
-          "team_id": "ast_03e716361bc6439d85fa35b906ed7431"
-        },
-        "ht_score": "-",
-        "venue": "麦当劳·琼斯体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e2e01644a9414267998a7ec201f36791",
-        "date": "2026-10-12",
-        "time": "18:15",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔库瓦阿尔贾维亚",
-          "team_id": "ast_13687830eb9c45a68f3cd1e9db99e5ce"
-        },
-        "away": {
-          "name": "阿尔艾因",
-          "team_id": "ast_9469cf27b4134c63bed20d32315b481d"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_0b727541edb24492bfeb6336d7418646",
-        "date": "2026-10-12",
-        "time": "18:15",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔纳斯尔",
-          "team_id": "ast_c1abecbb29ab40b084d14a802852c4e5"
-        },
-        "away": {
-          "name": "尼夫奇法尔戈纳",
-          "team_id": "ast_23304dd4b8a54025b647ae709e267b56"
-        },
-        "ht_score": "-",
-        "venue": "King Saud University Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_aff7fb16c03e4b2eab7df3d42bd39d3c",
-        "date": "2026-10-12",
-        "time": "18:15",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔加拉法",
-          "team_id": "ast_41e8ede94769455bba317692b234ac8f"
-        },
-        "away": {
-          "name": "独立者",
-          "team_id": "ast_fec5740efd9347f1ad61776751f6a669"
-        },
-        "ht_score": "-",
-        "venue": "Thani bin Jassim Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_35d58ffda7f34ec9a4a54c1556c2e5fa",
-        "date": "2026-10-12",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "拖拉机俱乐部",
-          "team_id": "ast_088550081853454680b73ea8074db845"
-        },
-        "away": {
-          "name": "沙马尔",
-          "team_id": "ast_0768939c16214b58be66e61df93ed715"
-        },
-        "ht_score": "-",
-        "venue": "Yadegar-e-Emam Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c7b4baf524ca4daea0780af86544e674",
-        "date": "2026-10-12",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔瓦斯尔",
-          "team_id": "ast_bf362a07f7434f76ac149baac05a0ef5"
-        },
-        "away": {
-          "name": "阿尔阿赫利体育俱乐部",
-          "team_id": "ast_789293172c9e485eb8adb76723f25f98"
-        },
-        "ht_score": "-",
-        "venue": "扎比尔体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_7f53c4553fb040a78f7d34622e1f4734",
-        "date": "2026-10-12",
-        "time": "13:45",
-        "status": "Not Started",
-        "league": "亚洲冠军联赛",
-        "league_id": "asl_4c89588da29845499cff5db746db1a57",
-        "season": "2026/2027",
-        "home": {
-          "name": "帕赫塔科尔",
-          "team_id": "ast_921950f68f7246ec9d6fb925189723b8"
-        },
-        "away": {
-          "name": "阿尔卡德西亚",
-          "team_id": "ast_486e381b7f824e4284500a70033a5824"
-        },
-        "ht_score": "-",
-        "venue": "Pakhtakor Central Stadium",
         "status_label": "未开赛"
       }
     ]
@@ -9796,8 +10036,8 @@
       }
     },
     "leader": {
-      "team": "Machida",
-      "points": 17,
+      "team": "Al Hilal",
+      "points": 22,
       "played": 8
     }
   },
@@ -9900,20 +10140,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_930a9cca90bd4f738d0273ad908a9679",
-            "team": "Machida",
-            "played": 8,
-            "wins": 5,
-            "draws": 2,
-            "losses": 1,
-            "goals_for": 15,
-            "goals_against": 7,
-            "goal_difference": 8,
-            "points": 17,
-            "form": "WWWWL"
-          },
-          {
-            "position": 1,
             "team_id": "ast_ad0a9ed0d7894d3ab5a632482475812a",
             "team": "Al Hilal",
             "played": 8,
@@ -9927,18 +10153,32 @@
             "form": "WDWWW"
           },
           {
-            "position": 2,
-            "team_id": "ast_266e68d783ff41409cf5e69ea093926f",
-            "team": "Vissel Kobe",
+            "position": 1,
+            "team_id": "ast_930a9cca90bd4f738d0273ad908a9679",
+            "team": "Machida",
             "played": 8,
             "wins": 5,
-            "draws": 1,
-            "losses": 2,
-            "goals_for": 14,
+            "draws": 2,
+            "losses": 1,
+            "goals_for": 15,
             "goals_against": 7,
-            "goal_difference": 7,
-            "points": 16,
-            "form": "LWDWW"
+            "goal_difference": 8,
+            "points": 17,
+            "form": "WWWWL"
+          },
+          {
+            "position": 2,
+            "team_id": "ast_789293172c9e485eb8adb76723f25f98",
+            "team": "Al Ahli SC",
+            "played": 8,
+            "wins": 5,
+            "draws": 2,
+            "losses": 1,
+            "goals_for": 21,
+            "goals_against": 9,
+            "goal_difference": 12,
+            "points": 17,
+            "form": "WDWLW"
           }
         ],
         "meta": {
@@ -10582,7 +10822,7 @@
     "teams_all_time": 86,
     "standings_rows_current": 24,
     "matches_current_season": 117,
-    "upcoming_matches": 38
+    "upcoming_matches": 50
   },
-  "updated_at": "2026/09/18"
+  "updated_at": "2026/10/12"
 }

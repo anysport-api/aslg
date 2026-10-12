@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
@@ -38,34 +38,6 @@
   "standings": {
     "season": "2026",
     "en": [
-      {
-        "position": 1,
-        "team_id": "ast_395e91a35e8141d99d74660991cba37f",
-        "team": "AA Iguacu",
-        "played": 6,
-        "wins": 4,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 6,
-        "goals_against": 2,
-        "goal_difference": 4,
-        "points": 13,
-        "form": "WLDWW"
-      },
-      {
-        "position": 1,
-        "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e",
-        "team": "Parana S.T.C.",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 5,
-        "goal_difference": 1,
-        "points": 10,
-        "form": "WWDLL"
-      },
       {
         "position": 1,
         "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
@@ -95,32 +67,32 @@
         "form": "WDLW"
       },
       {
-        "position": 2,
-        "team_id": "ast_76fe6827e425485ba491695e1fcd5676",
-        "team": "Hope Internacional",
+        "position": 1,
+        "team_id": "ast_395e91a35e8141d99d74660991cba37f",
+        "team": "AA Iguacu",
         "played": 6,
-        "wins": 3,
-        "draws": 2,
+        "wins": 4,
+        "draws": 1,
         "losses": 1,
-        "goals_for": 8,
-        "goals_against": 4,
+        "goals_for": 6,
+        "goals_against": 2,
         "goal_difference": 4,
-        "points": 11,
-        "form": "WWDWL"
+        "points": 13,
+        "form": "WLDWW"
       },
       {
-        "position": 2,
-        "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9",
-        "team": "Iraty",
-        "played": 4,
-        "wins": 1,
+        "position": 1,
+        "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e",
+        "team": "Parana S.T.C.",
+        "played": 6,
+        "wins": 3,
         "draws": 1,
         "losses": 2,
-        "goals_for": 4,
-        "goals_against": 6,
-        "goal_difference": -2,
-        "points": 4,
-        "form": "LWLD"
+        "goals_for": 6,
+        "goals_against": 5,
+        "goal_difference": 1,
+        "points": 10,
+        "form": "WWDLL"
       },
       {
         "position": 2,
@@ -151,6 +123,34 @@
         "form": "WLDW"
       },
       {
+        "position": 2,
+        "team_id": "ast_76fe6827e425485ba491695e1fcd5676",
+        "team": "Hope Internacional",
+        "played": 6,
+        "wins": 3,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 4,
+        "goal_difference": 4,
+        "points": 11,
+        "form": "WWDWL"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9",
+        "team": "Iraty",
+        "played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 4,
+        "goals_against": 6,
+        "goal_difference": -2,
+        "points": 4,
+        "form": "LWLD"
+      },
+      {
         "position": 3,
         "team_id": "ast_621addc85004490b818c06d5476f75e6",
         "team": "Campo Mourao",
@@ -166,20 +166,6 @@
       },
       {
         "position": 4,
-        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
-        "team": "Samas",
-        "played": 6,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LLWLL"
-      },
-      {
-        "position": 4,
         "team_id": "ast_b4c4311cb7a447b49035ba1c1a4c8d01",
         "team": "Londrinense",
         "played": 6,
@@ -191,39 +177,23 @@
         "goal_difference": -4,
         "points": 6,
         "form": "LLWWL"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
+        "team": "Samas",
+        "played": 6,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 4,
+        "goals_against": 10,
+        "goal_difference": -6,
+        "points": 3,
+        "form": "LLWLL"
       }
     ],
     "zh": [
-      {
-        "position": 1,
-        "team_id": "ast_395e91a35e8141d99d74660991cba37f",
-        "team": "AA 伊瓜苏",
-        "played": 6,
-        "wins": 4,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 6,
-        "goals_against": 2,
-        "goal_difference": 4,
-        "points": 13,
-        "form": "WLDWW",
-        "form_label": "胜负平胜胜"
-      },
-      {
-        "position": 1,
-        "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e",
-        "team": "巴拉那S.T.C.",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 6,
-        "goals_against": 5,
-        "goal_difference": 1,
-        "points": 10,
-        "form": "WWDLL",
-        "form_label": "胜胜平负负"
-      },
       {
         "position": 1,
         "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
@@ -255,34 +225,34 @@
         "form_label": "胜平负胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_76fe6827e425485ba491695e1fcd5676",
-        "team": "希望国际",
+        "position": 1,
+        "team_id": "ast_395e91a35e8141d99d74660991cba37f",
+        "team": "AA 伊瓜苏",
         "played": 6,
-        "wins": 3,
-        "draws": 2,
+        "wins": 4,
+        "draws": 1,
         "losses": 1,
-        "goals_for": 8,
-        "goals_against": 4,
+        "goals_for": 6,
+        "goals_against": 2,
         "goal_difference": 4,
-        "points": 11,
-        "form": "WWDWL",
-        "form_label": "胜胜平胜负"
+        "points": 13,
+        "form": "WLDWW",
+        "form_label": "胜负平胜胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9",
-        "team": "伊拉提",
-        "played": 4,
-        "wins": 1,
+        "position": 1,
+        "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e",
+        "team": "巴拉那S.T.C.",
+        "played": 6,
+        "wins": 3,
         "draws": 1,
         "losses": 2,
-        "goals_for": 4,
-        "goals_against": 6,
-        "goal_difference": -2,
-        "points": 4,
-        "form": "LWLD",
-        "form_label": "负胜负平"
+        "goals_for": 6,
+        "goals_against": 5,
+        "goal_difference": 1,
+        "points": 10,
+        "form": "WWDLL",
+        "form_label": "胜胜平负负"
       },
       {
         "position": 2,
@@ -315,6 +285,36 @@
         "form_label": "胜负平胜"
       },
       {
+        "position": 2,
+        "team_id": "ast_76fe6827e425485ba491695e1fcd5676",
+        "team": "希望国际",
+        "played": 6,
+        "wins": 3,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 4,
+        "goal_difference": 4,
+        "points": 11,
+        "form": "WWDWL",
+        "form_label": "胜胜平胜负"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_4edd9f13bdca43e3b90b624840e7d2c9",
+        "team": "伊拉提",
+        "played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 4,
+        "goals_against": 6,
+        "goal_difference": -2,
+        "points": 4,
+        "form": "LWLD",
+        "form_label": "负胜负平"
+      },
+      {
         "position": 3,
         "team_id": "ast_621addc85004490b818c06d5476f75e6",
         "team": "Campo Mourao",
@@ -331,21 +331,6 @@
       },
       {
         "position": 4,
-        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
-        "team": "萨马斯",
-        "played": 6,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goals_for": 4,
-        "goals_against": 10,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
-      },
-      {
-        "position": 4,
         "team_id": "ast_b4c4311cb7a447b49035ba1c1a4c8d01",
         "team": "隆德里嫩塞",
         "played": 6,
@@ -358,6 +343,21 @@
         "points": 6,
         "form": "LLWWL",
         "form_label": "负负胜胜负"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_5cbe586b40f74ec39d78d913a02f98e8",
+        "team": "萨马斯",
+        "played": 6,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goals_for": 4,
+        "goals_against": 10,
+        "goal_difference": -6,
+        "points": 3,
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       }
     ]
   },
@@ -382,7 +382,7 @@
         "match_id": "as_8e127f737d1f4017a242bc59b3ef2db2",
         "date": "2026-10-11",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "巴西帕拉那州联赛3",
         "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
         "season": "2026",
@@ -394,7 +394,10 @@
           "name": "伦敦城",
           "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_aa4308f331e24a8a866b1b44b1003458",
@@ -1302,26 +1305,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_8e127f737d1f4017a242bc59b3ef2db2",
-        "date": "2026-10-11",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "巴西帕拉那州联赛3",
-        "league_id": "asl_2fe0da01785c4d5494e9e495d5017f98",
-        "season": "2026",
-        "home": {
-          "name": "巴拉那S.T.C.",
-          "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e"
-        },
-        "away": {
-          "name": "伦敦城",
-          "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -1762,13 +1746,13 @@
     }
   },
   "stats": {
-    "matches_completed": 43,
-    "total_goals": 97,
-    "avg_goals_per_match": 2.26,
-    "home_wins": 19,
+    "matches_completed": 44,
+    "total_goals": 100,
+    "avg_goals_per_match": 2.27,
+    "home_wins": 20,
     "draws": 9,
     "away_wins": 15,
-    "home_win_pct": 44.2,
+    "home_win_pct": 45.5,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -1794,9 +1778,9 @@
       }
     },
     "leader": {
-      "team": "AA Iguacu",
-      "points": 13,
-      "played": 6
+      "team": "City London",
+      "points": 6,
+      "played": 4
     }
   },
   "coverage": {
@@ -1891,34 +1875,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_395e91a35e8141d99d74660991cba37f",
-            "team": "AA Iguacu",
-            "played": 6,
-            "wins": 4,
-            "draws": 1,
-            "losses": 1,
-            "goals_for": 6,
-            "goals_against": 2,
-            "goal_difference": 4,
-            "points": 13,
-            "form": "WLDWW"
-          },
-          {
-            "position": 1,
-            "team_id": "ast_d2ddc6f495ca41179c6aa0ab30317e7e",
-            "team": "Parana S.T.C.",
-            "played": 6,
-            "wins": 3,
-            "draws": 1,
-            "losses": 2,
-            "goals_for": 6,
-            "goals_against": 5,
-            "goal_difference": 1,
-            "points": 10,
-            "form": "WWDLL"
-          },
-          {
-            "position": 1,
             "team_id": "ast_b0d0ad430c12462cbbbe6409c4ee0640",
             "team": "City London",
             "played": 4,
@@ -1930,6 +1886,34 @@
             "goal_difference": 2,
             "points": 6,
             "form": "LLWW"
+          },
+          {
+            "position": 1,
+            "team_id": "ast_a1dfa2b81f0c4da29a566517cdc5f5bf",
+            "team": "Oeste Brasil",
+            "played": 4,
+            "wins": 2,
+            "draws": 1,
+            "losses": 1,
+            "goals_for": 8,
+            "goals_against": 5,
+            "goal_difference": 3,
+            "points": 7,
+            "form": "WDLW"
+          },
+          {
+            "position": 1,
+            "team_id": "ast_395e91a35e8141d99d74660991cba37f",
+            "team": "AA Iguacu",
+            "played": 6,
+            "wins": 4,
+            "draws": 1,
+            "losses": 1,
+            "goals_for": 6,
+            "goals_against": 2,
+            "goal_difference": 4,
+            "points": 13,
+            "form": "WLDWW"
           }
         ],
         "meta": {
@@ -2565,7 +2549,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 11,
     "matches_current_season": 44,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/11"
+  "updated_at": "2026/10/12"
 }

@@ -100,15 +100,15 @@
         "position": 3,
         "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
         "team": "Atl. Ottawa",
-        "played": 25,
-        "wins": 12,
+        "played": 26,
+        "wins": 13,
         "draws": 4,
         "losses": 9,
-        "goals_for": 38,
+        "goals_for": 40,
         "goals_against": 41,
-        "goal_difference": -3,
-        "points": 40,
-        "form": "WWLLD"
+        "goal_difference": -1,
+        "points": 43,
+        "form": "WWWLL"
       },
       {
         "position": 4,
@@ -170,15 +170,15 @@
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "Pacific FC",
-        "played": 25,
+        "played": 26,
         "wins": 2,
         "draws": 8,
-        "losses": 15,
+        "losses": 16,
         "goals_for": 30,
-        "goals_against": 55,
-        "goal_difference": -25,
+        "goals_against": 57,
+        "goal_difference": -27,
         "points": 14,
-        "form": "LLWDL"
+        "form": "LLLWD"
       }
     ],
     "zh": [
@@ -216,16 +216,16 @@
         "position": 3,
         "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
         "team": "渥太华竞技",
-        "played": 25,
-        "wins": 12,
+        "played": 26,
+        "wins": 13,
         "draws": 4,
         "losses": 9,
-        "goals_for": 38,
+        "goals_for": 40,
         "goals_against": 41,
-        "goal_difference": -3,
-        "points": 40,
-        "form": "WWLLD",
-        "form_label": "胜胜负负平"
+        "goal_difference": -1,
+        "points": 43,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
       },
       {
         "position": 4,
@@ -291,16 +291,16 @@
         "position": 8,
         "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3",
         "team": "太平洋FC",
-        "played": 25,
+        "played": 26,
         "wins": 2,
         "draws": 8,
-        "losses": 15,
+        "losses": 16,
         "goals_for": 30,
-        "goals_against": 55,
-        "goal_difference": -25,
+        "goals_against": 57,
+        "goal_difference": -27,
         "points": 14,
-        "form": "LLWDL",
-        "form_label": "负负胜平负"
+        "form": "LLLWD",
+        "form_label": "负负负胜平"
       }
     ]
   },
@@ -521,7 +521,7 @@
         "match_id": "as_6c15ca749f274bfda83156946558700e",
         "date": "2026-10-11",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -533,7 +533,10 @@
           "name": "渥太华竞技",
           "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fd58944eabb34c0f8ce730065d844bff",
@@ -553,7 +556,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "CEPSUM Stadium",
         "status_label": "完场"
       },
       {
@@ -2853,24 +2856,6 @@
           "team_id": "ast_20fff879f08b4b37a23305bd3b31ae92"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_6c15ca749f274bfda83156946558700e",
-        "date": "2026-10-11",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "太平洋FC",
-          "team_id": "ast_fc6a433f786e49baaa96f0ccb02a86e3"
-        },
-        "away": {
-          "name": "渥太华竞技",
-          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3851,13 +3836,13 @@
     }
   },
   "stats": {
-    "matches_completed": 101,
-    "total_goals": 315,
-    "avg_goals_per_match": 3.12,
+    "matches_completed": 102,
+    "total_goals": 317,
+    "avg_goals_per_match": 3.11,
     "home_wins": 46,
     "draws": 25,
-    "away_wins": 30,
-    "home_win_pct": 45.5,
+    "away_wins": 31,
+    "home_win_pct": 45.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -4010,15 +3995,15 @@
             "position": 3,
             "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d",
             "team": "Atl. Ottawa",
-            "played": 25,
-            "wins": 12,
+            "played": 26,
+            "wins": 13,
             "draws": 4,
             "losses": 9,
-            "goals_for": 38,
+            "goals_for": 40,
             "goals_against": 41,
-            "goal_difference": -3,
-            "points": 40,
-            "form": "WWLLD"
+            "goal_difference": -1,
+            "points": 43,
+            "form": "WWWLL"
           }
         ],
         "meta": {
@@ -4667,7 +4652,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 112,
-    "upcoming_matches": 11
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/10/11"
+  "updated_at": "2026/10/12"
 }

@@ -164,6 +164,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0",
+        "team": "Sportivo Italiano",
+        "played": 39,
+        "wins": 19,
+        "draws": 11,
+        "losses": 9,
+        "goals_for": 47,
+        "goals_against": 29,
+        "goal_difference": 18,
+        "points": 68,
+        "form": "WWWDL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_375f3c8b330c4f4ab0bc563dd39d694d",
         "team": "Talleres (R.E)",
         "played": 39,
@@ -175,20 +189,6 @@
         "goal_difference": 17,
         "points": 68,
         "form": "DLWDL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0",
-        "team": "Sportivo Italiano",
-        "played": 38,
-        "wins": 18,
-        "draws": 11,
-        "losses": 9,
-        "goals_for": 45,
-        "goals_against": 28,
-        "goal_difference": 17,
-        "points": 65,
-        "form": "WWDLW"
       },
       {
         "position": 5,
@@ -334,15 +334,15 @@
         "position": 15,
         "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89",
         "team": "Argentino de Merlo",
-        "played": 38,
+        "played": 39,
         "wins": 11,
         "draws": 11,
-        "losses": 16,
-        "goals_for": 33,
-        "goals_against": 39,
-        "goal_difference": -6,
+        "losses": 17,
+        "goals_for": 34,
+        "goals_against": 41,
+        "goal_difference": -7,
         "points": 44,
-        "form": "LLWLL"
+        "form": "LLLWL"
       },
       {
         "position": 16,
@@ -476,6 +476,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0",
+        "team": "意大利体育",
+        "played": 39,
+        "wins": 19,
+        "draws": 11,
+        "losses": 9,
+        "goals_for": 47,
+        "goals_against": 29,
+        "goal_difference": 18,
+        "points": 68,
+        "form": "WWWDL",
+        "form_label": "胜胜胜平负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_375f3c8b330c4f4ab0bc563dd39d694d",
         "team": "塔列雷斯（R.E）",
         "played": 39,
@@ -488,21 +503,6 @@
         "points": 68,
         "form": "DLWDL",
         "form_label": "平负胜平负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0",
-        "team": "意大利体育",
-        "played": 38,
-        "wins": 18,
-        "draws": 11,
-        "losses": 9,
-        "goals_for": 45,
-        "goals_against": 28,
-        "goal_difference": 17,
-        "points": 65,
-        "form": "WWDLW",
-        "form_label": "胜胜平负胜"
       },
       {
         "position": 5,
@@ -658,16 +658,16 @@
         "position": 15,
         "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89",
         "team": "阿根廷梅尔洛",
-        "played": 38,
+        "played": 39,
         "wins": 11,
         "draws": 11,
-        "losses": 16,
-        "goals_for": 33,
-        "goals_against": 39,
-        "goal_difference": -6,
+        "losses": 17,
+        "goals_for": 34,
+        "goals_against": 41,
+        "goal_difference": -7,
         "points": 44,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 16,
@@ -1493,7 +1493,7 @@
         "match_id": "as_cf767fe12ba74c38a1669e4be49b4f13",
         "date": "2026-10-11",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -1505,7 +1505,10 @@
           "name": "意大利体育",
           "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2757be74178b4930bd9f68a859e2e684",
@@ -1525,7 +1528,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "胡里奥·温贝托·格罗多纳体育场",
         "status_label": "完场"
       },
       {
@@ -1546,7 +1549,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Armenia Stadium",
         "status_label": "完场"
       },
       {
@@ -1567,7 +1570,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "卡洛斯五世体育场",
         "status_label": "完场"
       },
       {
@@ -1588,7 +1591,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Estadio Carlos Sacaan",
         "status_label": "完场"
       },
       {
@@ -1609,7 +1612,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Ciudad de Laferrere Stadium",
         "status_label": "完场"
       },
       {
@@ -1630,7 +1633,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "米特雷与普奇尼斗兽场体育场",
         "status_label": "完场"
       },
       {
@@ -1651,7 +1654,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "4-0",
-        "venue": "",
+        "venue": "Excursionistas Stadium",
         "status_label": "完场"
       },
       {
@@ -1672,7 +1675,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Estadio de Talleres de Remedios de Escalada",
         "status_label": "完场"
       },
       {
@@ -11150,24 +11153,6 @@
           "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_cf767fe12ba74c38a1669e4be49b4f13",
-        "date": "2026-10-11",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷B级联赛",
-        "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
-        "season": "2026",
-        "home": {
-          "name": "阿根廷梅尔洛",
-          "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89"
-        },
-        "away": {
-          "name": "意大利体育",
-          "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -13690,13 +13675,13 @@
     }
   },
   "stats": {
-    "matches_completed": 426,
-    "total_goals": 846,
+    "matches_completed": 427,
+    "total_goals": 849,
     "avg_goals_per_match": 1.99,
     "home_wins": 159,
     "draws": 143,
-    "away_wins": 124,
-    "home_win_pct": 37.3,
+    "away_wins": 125,
+    "home_win_pct": 37.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13847,17 +13832,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_375f3c8b330c4f4ab0bc563dd39d694d",
-            "team": "Talleres (R.E)",
+            "team_id": "ast_af279fe0847d4fc4b07c3ba78dce6aa0",
+            "team": "Sportivo Italiano",
             "played": 39,
             "wins": 19,
             "draws": 11,
             "losses": 9,
-            "goals_for": 41,
-            "goals_against": 24,
-            "goal_difference": 17,
+            "goals_for": 47,
+            "goals_against": 29,
+            "goal_difference": 18,
             "points": 68,
-            "form": "DLWDL"
+            "form": "WWWDL"
           }
         ],
         "meta": {
@@ -14494,7 +14479,7 @@
     "teams_all_time": 40,
     "standings_rows_current": 22,
     "matches_current_season": 462,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/10/11"
+  "updated_at": "2026/10/12"
 }

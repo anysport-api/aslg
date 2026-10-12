@@ -166,15 +166,15 @@
         "position": 2,
         "team_id": "ast_5106ec3699054bceb41e7b1264b34fab",
         "team": "St. Louis City",
-        "played": 27,
-        "wins": 13,
+        "played": 28,
+        "wins": 14,
         "draws": 8,
         "losses": 6,
-        "goals_for": 48,
-        "goals_against": 36,
-        "goal_difference": 12,
-        "points": 47,
-        "form": "WWWDW"
+        "goals_for": 54,
+        "goals_against": 38,
+        "goal_difference": 16,
+        "points": 50,
+        "form": "WWWWD"
       },
       {
         "position": 2,
@@ -362,15 +362,15 @@
         "position": 9,
         "team_id": "ast_a89535db6eec450496e7a5089c2b812c",
         "team": "Los Angeles Galaxy",
-        "played": 28,
+        "played": 29,
         "wins": 9,
         "draws": 9,
-        "losses": 10,
-        "goals_for": 37,
-        "goals_against": 44,
-        "goal_difference": -7,
+        "losses": 11,
+        "goals_for": 39,
+        "goals_against": 50,
+        "goal_difference": -11,
         "points": 36,
-        "form": "WWDLW"
+        "form": "LWWDL"
       },
       {
         "position": 9,
@@ -590,16 +590,16 @@
         "position": 2,
         "team_id": "ast_5106ec3699054bceb41e7b1264b34fab",
         "team": "圣路易斯城",
-        "played": 27,
-        "wins": 13,
+        "played": 28,
+        "wins": 14,
         "draws": 8,
         "losses": 6,
-        "goals_for": 48,
-        "goals_against": 36,
-        "goal_difference": 12,
-        "points": 47,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
+        "goals_for": 54,
+        "goals_against": 38,
+        "goal_difference": 16,
+        "points": 50,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
       },
       {
         "position": 2,
@@ -800,16 +800,16 @@
         "position": 9,
         "team_id": "ast_a89535db6eec450496e7a5089c2b812c",
         "team": "洛杉矶银河",
-        "played": 28,
+        "played": 29,
         "wins": 9,
         "draws": 9,
-        "losses": 10,
-        "goals_for": 37,
-        "goals_against": 44,
-        "goal_difference": -7,
+        "losses": 11,
+        "goals_for": 39,
+        "goals_against": 50,
+        "goal_difference": -11,
         "points": 36,
-        "form": "WWDLW",
-        "form_label": "胜胜平负胜"
+        "form": "LWWDL",
+        "form_label": "负胜胜平负"
       },
       {
         "position": 9,
@@ -5340,7 +5340,7 @@
         "match_id": "as_0ba030dbbd17496ead81496de45c509a",
         "date": "2026-10-11",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "美国职业大联盟",
         "league_id": "asl_2ff06aca11d042e09f218ce6e487f358",
         "season": "2026",
@@ -5352,7 +5352,10 @@
           "name": "洛杉矶银河",
           "team_id": "ast_a89535db6eec450496e7a5089c2b812c"
         },
-        "venue": ""
+        "ht_score": "5-1",
+        "reg_score": "6-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a63c22c52a6443988a872feced86447a",
@@ -5372,7 +5375,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "士兵球场",
         "status_label": "完场"
       },
       {
@@ -5393,7 +5396,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "BMO球场",
         "status_label": "完场"
       },
       {
@@ -18161,13 +18164,13 @@
     }
   },
   "stats": {
-    "matches_completed": 420,
-    "total_goals": 1367,
-    "avg_goals_per_match": 3.25,
-    "home_wins": 195,
+    "matches_completed": 421,
+    "total_goals": 1375,
+    "avg_goals_per_match": 3.27,
+    "home_wins": 196,
     "draws": 107,
     "away_wins": 118,
-    "home_win_pct": 46.4,
+    "home_win_pct": 46.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -18327,15 +18330,15 @@
             "position": 2,
             "team_id": "ast_5106ec3699054bceb41e7b1264b34fab",
             "team": "St. Louis City",
-            "played": 27,
-            "wins": 13,
+            "played": 28,
+            "wins": 14,
             "draws": 8,
             "losses": 6,
-            "goals_for": 48,
-            "goals_against": 36,
-            "goal_difference": 12,
-            "points": 47,
-            "form": "WWWDW"
+            "goals_for": 54,
+            "goals_against": 38,
+            "goal_difference": 16,
+            "points": 50,
+            "form": "WWWWD"
           }
         ],
         "meta": {
@@ -18986,5 +18989,5 @@
     "matches_current_season": 511,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/11"
+  "updated_at": "2026/10/12"
 }
