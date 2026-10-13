@@ -208,6 +208,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
+        "team": "Pohronie",
+        "played": 12,
+        "wins": 7,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 21,
+        "goals_against": 16,
+        "goal_difference": 5,
+        "points": 22,
+        "form": "WWLLW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
         "team": "Zilina B",
         "played": 12,
@@ -221,7 +235,7 @@
         "form": "LWDWL"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_5840142cc7714654ad901c71fe019139",
         "team": "I. Bratislava",
         "played": 12,
@@ -233,20 +247,6 @@
         "goal_difference": 12,
         "points": 19,
         "form": "WDWDW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
-        "team": "Pohronie",
-        "played": 11,
-        "wins": 6,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 18,
-        "goals_against": 15,
-        "goal_difference": 3,
-        "points": 19,
-        "form": "WLLWW"
       },
       {
         "position": 7,
@@ -322,15 +322,15 @@
         "position": 12,
         "team_id": "ast_97434f2bf5a047b7a68522567fb44485",
         "team": "Z. Moravce-Vrable",
-        "played": 11,
+        "played": 12,
         "wins": 3,
         "draws": 4,
-        "losses": 4,
-        "goals_for": 12,
-        "goals_against": 11,
-        "goal_difference": 1,
+        "losses": 5,
+        "goals_for": 13,
+        "goals_against": 14,
+        "goal_difference": -1,
         "points": 13,
-        "form": "DLDWW"
+        "form": "LDLDW"
       },
       {
         "position": 13,
@@ -437,6 +437,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
+        "team": "波赫罗尼",
+        "played": 12,
+        "wins": 7,
+        "draws": 1,
+        "losses": 4,
+        "goals_for": 21,
+        "goals_against": 16,
+        "goal_difference": 5,
+        "points": 22,
+        "form": "WWLLW",
+        "form_label": "胜胜负负胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
         "team": "日利纳B队",
         "played": 12,
@@ -451,7 +466,7 @@
         "form_label": "负胜平胜负"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_5840142cc7714654ad901c71fe019139",
         "team": "布拉迪斯拉发I队",
         "played": 12,
@@ -464,21 +479,6 @@
         "points": 19,
         "form": "WDWDW",
         "form_label": "胜平胜平胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
-        "team": "波赫罗尼",
-        "played": 11,
-        "wins": 6,
-        "draws": 1,
-        "losses": 4,
-        "goals_for": 18,
-        "goals_against": 15,
-        "goal_difference": 3,
-        "points": 19,
-        "form": "WLLWW",
-        "form_label": "胜负负胜胜"
       },
       {
         "position": 7,
@@ -559,16 +559,16 @@
         "position": 12,
         "team_id": "ast_97434f2bf5a047b7a68522567fb44485",
         "team": "Z. 莫拉夫采-弗拉布尔",
-        "played": 11,
+        "played": 12,
         "wins": 3,
         "draws": 4,
-        "losses": 4,
-        "goals_for": 12,
-        "goals_against": 11,
-        "goal_difference": 1,
+        "losses": 5,
+        "goals_for": 13,
+        "goals_against": 14,
+        "goal_difference": -1,
         "points": 13,
-        "form": "DLDWW",
-        "form_label": "平负平胜胜"
+        "form": "LDLDW",
+        "form_label": "负平负平胜"
       },
       {
         "position": 13,
@@ -3373,7 +3373,7 @@
         "match_id": "as_fe27a7c88de44d71a3f48357e08e3139",
         "date": "2026-10-19",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3385,15 +3385,13 @@
           "name": "日利纳B队",
           "team_id": "ast_03de54b888154cd9a67cfa8cbefee450"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8a268b7a677e445594a64101f45cbc9a",
         "date": "2026-10-18",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3405,15 +3403,13 @@
           "name": "布拉迪斯拉发B队",
           "team_id": "ast_caa3053fdb094da9856212e361503d25"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fa4adf7dec14436baf264fe5aa90acde",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3425,15 +3421,13 @@
           "name": "Z. 莫拉夫采-弗拉布尔",
           "team_id": "ast_97434f2bf5a047b7a68522567fb44485"
         },
-        "ht_score": "-",
-        "venue": "Humenne Football Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_47c1188f7e03412ba83ed6af23c60b5d",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3445,15 +3439,13 @@
           "name": "MFK 比特察",
           "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e"
         },
-        "ht_score": "-",
-        "venue": "Mestsky futbalovy stadion Galanta",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bb350f6afc624c64bdce5d1df6b83650",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3465,15 +3457,13 @@
           "name": "萨莫林",
           "team_id": "ast_d2779019972241acadab06e7d27d4eb5"
         },
-        "ht_score": "-",
-        "venue": "Pasienky",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8352a860997240e3a206249093cc6263",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3485,15 +3475,13 @@
           "name": "波瓦兹斯卡比斯特里察",
           "team_id": "ast_e669d1d0130d4c1599f3f62877433408"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_871941458bdb4dfda8bdd9b8eba0f778",
         "date": "2026-10-16",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3505,15 +3493,13 @@
           "name": "马尔泽尼采",
           "team_id": "ast_a7741b78a1cd43579d6cf72fc6f90b36"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_21fea6f4268e4cf7912a0927d6c16a2f",
         "date": "2026-10-16",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3525,15 +3511,13 @@
           "name": "莱霍塔",
           "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55"
         },
-        "ht_score": "-",
-        "venue": "Mestsky futbalovy stadion Milana Janeka",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_722c80c26cee41bd97a950b6c66d6804",
         "date": "2026-10-12",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3545,7 +3529,10 @@
           "name": "波赫罗尼",
           "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1514557145094e5ca70dc1842b92d8bf",
@@ -6188,7 +6175,7 @@
         "match_id": "as_fe27a7c88de44d71a3f48357e08e3139",
         "date": "2026-10-19",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6200,15 +6187,13 @@
           "name": "日利纳B队",
           "team_id": "ast_03de54b888154cd9a67cfa8cbefee450"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8a268b7a677e445594a64101f45cbc9a",
         "date": "2026-10-18",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6220,15 +6205,13 @@
           "name": "布拉迪斯拉发B队",
           "team_id": "ast_caa3053fdb094da9856212e361503d25"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8352a860997240e3a206249093cc6263",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6240,15 +6223,13 @@
           "name": "波瓦兹斯卡比斯特里察",
           "team_id": "ast_e669d1d0130d4c1599f3f62877433408"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bb350f6afc624c64bdce5d1df6b83650",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6260,15 +6241,13 @@
           "name": "萨莫林",
           "team_id": "ast_d2779019972241acadab06e7d27d4eb5"
         },
-        "ht_score": "-",
-        "venue": "Pasienky",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_47c1188f7e03412ba83ed6af23c60b5d",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6280,15 +6259,13 @@
           "name": "MFK 比特察",
           "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e"
         },
-        "ht_score": "-",
-        "venue": "Mestsky futbalovy stadion Galanta",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fa4adf7dec14436baf264fe5aa90acde",
         "date": "2026-10-17",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6300,15 +6277,13 @@
           "name": "Z. 莫拉夫采-弗拉布尔",
           "team_id": "ast_97434f2bf5a047b7a68522567fb44485"
         },
-        "ht_score": "-",
-        "venue": "Humenne Football Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_21fea6f4268e4cf7912a0927d6c16a2f",
         "date": "2026-10-16",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6320,15 +6295,13 @@
           "name": "莱霍塔",
           "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55"
         },
-        "ht_score": "-",
-        "venue": "Mestsky futbalovy stadion Milana Janeka",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_871941458bdb4dfda8bdd9b8eba0f778",
         "date": "2026-10-16",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -6339,26 +6312,6 @@
         "away": {
           "name": "马尔泽尼采",
           "team_id": "ast_a7741b78a1cd43579d6cf72fc6f90b36"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_722c80c26cee41bd97a950b6c66d6804",
-        "date": "2026-10-12",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "Z. 莫拉夫采-弗拉布尔",
-          "team_id": "ast_97434f2bf5a047b7a68522567fb44485"
-        },
-        "away": {
-          "name": "波赫罗尼",
-          "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
         },
         "venue": ""
       }
@@ -8459,13 +8412,13 @@
     }
   },
   "stats": {
-    "matches_completed": 95,
-    "total_goals": 274,
-    "avg_goals_per_match": 2.88,
+    "matches_completed": 96,
+    "total_goals": 278,
+    "avg_goals_per_match": 2.9,
     "home_wins": 45,
     "draws": 19,
-    "away_wins": 31,
-    "home_win_pct": 47.4,
+    "away_wins": 32,
+    "home_win_pct": 46.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9263,7 +9216,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 41
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

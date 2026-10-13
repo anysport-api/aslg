@@ -210,6 +210,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+        "team": "U. De Chile",
+        "played": 24,
+        "wins": 13,
+        "draws": 6,
+        "losses": 5,
+        "goals_for": 41,
+        "goals_against": 19,
+        "goal_difference": 22,
+        "points": 45,
+        "form": "WWWLL"
+      },
+      {
+        "position": 3,
         "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
         "team": "U. Catolica",
         "played": 23,
@@ -221,20 +235,6 @@
         "goal_difference": 17,
         "points": 42,
         "form": "WWWWL"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-        "team": "U. De Chile",
-        "played": 23,
-        "wins": 12,
-        "draws": 6,
-        "losses": 5,
-        "goals_for": 35,
-        "goals_against": 19,
-        "goal_difference": 16,
-        "points": 42,
-        "form": "WWLLW"
       },
       {
         "position": 4,
@@ -324,15 +324,15 @@
         "position": 10,
         "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
         "team": "Nublense",
-        "played": 23,
+        "played": 24,
         "wins": 8,
         "draws": 8,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 28,
-        "goals_against": 31,
-        "goal_difference": -3,
+        "goals_against": 37,
+        "goal_difference": -9,
         "points": 32,
-        "form": "LLLLW"
+        "form": "LLLLL"
       },
       {
         "position": 11,
@@ -437,6 +437,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+        "team": "智利大学",
+        "played": 24,
+        "wins": 13,
+        "draws": 6,
+        "losses": 5,
+        "goals_for": 41,
+        "goals_against": 19,
+        "goal_difference": 22,
+        "points": 45,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
+      },
+      {
+        "position": 3,
         "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
         "team": "天主教大学",
         "played": 23,
@@ -449,21 +464,6 @@
         "points": 42,
         "form": "WWWWL",
         "form_label": "胜胜胜胜负"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-        "team": "智利大学",
-        "played": 23,
-        "wins": 12,
-        "draws": 6,
-        "losses": 5,
-        "goals_for": 35,
-        "goals_against": 19,
-        "goal_difference": 16,
-        "points": 42,
-        "form": "WWLLW",
-        "form_label": "胜胜负负胜"
       },
       {
         "position": 4,
@@ -559,16 +559,16 @@
         "position": 10,
         "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
         "team": "努布伦斯",
-        "played": 23,
+        "played": 24,
         "wins": 8,
         "draws": 8,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 28,
-        "goals_against": 31,
-        "goal_difference": -3,
+        "goals_against": 37,
+        "goal_difference": -9,
         "points": 32,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 11,
@@ -675,18 +675,18 @@
         },
         {
           "rank": 2,
-          "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
-          "player_name": "D. Castro",
-          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
-          "team_name": "Deportes Limache",
-          "value": 12
-        },
-        {
-          "rank": 3,
           "player_id": "asp_f78fec47d6304059bd4af9ec08ca5efa",
           "player_name": "J. Correa",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
           "team_name": "Colo-Colo",
+          "value": 13
+        },
+        {
+          "rank": 3,
+          "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
+          "player_name": "D. Castro",
+          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
+          "team_name": "Deportes Limache",
           "value": 12
         },
         {
@@ -699,22 +699,14 @@
         },
         {
           "rank": 5,
-          "player_id": "asp_45fc704e3cf740da893fcc39f82bd9e7",
-          "player_name": "E. Vargas",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "Universidad Chile",
-          "value": 7
-        },
-        {
-          "rank": 6,
           "player_id": "asp_beab17e7f5b3490185d8481f8c47e406",
           "player_name": "Medina Alan",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
           "team_name": "Everton CD",
-          "value": 7
+          "value": 8
         },
         {
-          "rank": 7,
+          "rank": 6,
           "player_id": "asp_589a28312e9c4d87929f3927404c6f1e",
           "player_name": "Altamirano Lionel",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -722,7 +714,7 @@
           "value": 7
         },
         {
-          "rank": 8,
+          "rank": 7,
           "player_id": "asp_b43a2f031c58473cbee898e8d6bc7cf6",
           "player_name": "Da Nelson",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -730,7 +722,31 @@
           "value": 7
         },
         {
+          "rank": 8,
+          "player_id": "asp_45fc704e3cf740da893fcc39f82bd9e7",
+          "player_name": "E. Vargas",
+          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+          "team_name": "Universidad Chile",
+          "value": 7
+        },
+        {
           "rank": 9,
+          "player_id": "asp_d4ecbbd995944bb3b690d0bac8c488d8",
+          "player_name": "F. Chamorro",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "La Serena",
+          "value": 6
+        },
+        {
+          "rank": 10,
+          "player_id": "asp_1f13429e53c64f4c8d296ed3c70e12f7",
+          "player_name": "G. Sosa",
+          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
+          "team_name": "Deportes Limache",
+          "value": 6
+        },
+        {
+          "rank": 11,
           "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
           "player_name": "Giani Justo",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
@@ -738,7 +754,7 @@
           "value": 6
         },
         {
-          "rank": 10,
+          "rank": 12,
           "player_id": "asp_b466f26ecd9148668ce6ed3a3a4a2ecd",
           "player_name": "Pino Stefan",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -746,7 +762,7 @@
           "value": 6
         },
         {
-          "rank": 11,
+          "rank": 13,
           "player_id": "asp_ae19fd2bf4084114920d8a8dce150d0d",
           "player_name": "Hernández Leandro",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -754,7 +770,7 @@
           "value": 5
         },
         {
-          "rank": 12,
+          "rank": 14,
           "player_id": "asp_e29165dd64a14a28b58da44e3f6d2983",
           "player_name": "David Jean",
           "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
@@ -762,7 +778,7 @@
           "value": 5
         },
         {
-          "rank": 13,
+          "rank": 15,
           "player_id": "asp_144274ca49244e4182b604b7c361063e",
           "player_name": "Montiel Nicolas",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -770,7 +786,7 @@
           "value": 5
         },
         {
-          "rank": 14,
+          "rank": 16,
           "player_id": "asp_66f8af1e5d6b4ec5b8072bf32cf4cf71",
           "player_name": "Samuel Maximiliano",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -778,7 +794,7 @@
           "value": 5
         },
         {
-          "rank": 15,
+          "rank": 17,
           "player_id": "asp_d413cdbbe26f4213bea1ed6c415f0b8c",
           "player_name": "Agustin Arce",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -786,7 +802,7 @@
           "value": 5
         },
         {
-          "rank": 16,
+          "rank": 18,
           "player_id": "asp_f84e2d17b61e44e2aaee702fe034d0f3",
           "player_name": "Tapia Gonzalo",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -794,7 +810,7 @@
           "value": 5
         },
         {
-          "rank": 17,
+          "rank": 19,
           "player_id": "asp_854c18284d444b4988bc8b40ed5bcfe8",
           "player_name": "C. Waterman",
           "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
@@ -802,7 +818,7 @@
           "value": 5
         },
         {
-          "rank": 18,
+          "rank": 20,
           "player_id": "asp_e730b8e069264f6bb8ca38ef821d016a",
           "player_name": "A. Castillo",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -810,27 +826,11 @@
           "value": 5
         },
         {
-          "rank": 19,
-          "player_id": "asp_d4ecbbd995944bb3b690d0bac8c488d8",
-          "player_name": "F. Chamorro",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "La Serena",
-          "value": 5
-        },
-        {
-          "rank": 20,
+          "rank": 21,
           "player_id": "asp_c12e421c1304463c98a0837c0361ff53",
           "player_name": "K. Méndez",
           "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
           "team_name": "Union La Calera",
-          "value": 4
-        },
-        {
-          "rank": 21,
-          "player_id": "asp_1f13429e53c64f4c8d296ed3c70e12f7",
-          "player_name": "G. Sosa",
-          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
-          "team_name": "Deportes Limache",
           "value": 4
         },
         {
@@ -851,6 +851,38 @@
         },
         {
           "rank": 24,
+          "player_id": "asp_d8e2a906f1f546e19d0c2d3d02919fe5",
+          "player_name": "M. Marín",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "La Serena",
+          "value": 4
+        },
+        {
+          "rank": 25,
+          "player_id": "asp_e8c4e0d2027a456fb427c11cbb43a400",
+          "player_name": "L. Rojas",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "Univ. Conce",
+          "value": 4
+        },
+        {
+          "rank": 26,
+          "player_id": "asp_6bb23a15af0c4552a5213213f64a1a33",
+          "player_name": "G. Vadalá",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "Coquimbo Unido",
+          "value": 4
+        },
+        {
+          "rank": 27,
+          "player_id": "asp_c4bc4b985a46428ab79792e01ee4ebd6",
+          "player_name": "N. Johansen",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "Coquimbo Unido",
+          "value": 4
+        },
+        {
+          "rank": 28,
           "player_id": "asp_86d7bbe8e77c48ba86c24d4c1bac45e2",
           "player_name": "Chiaverano Giovani",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -858,7 +890,7 @@
           "value": 4
         },
         {
-          "rank": 25,
+          "rank": 29,
           "player_id": "asp_18e0bb8d41dd44409cdb2b02ea7c241c",
           "player_name": "J. Vargas",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
@@ -866,7 +898,7 @@
           "value": 4
         },
         {
-          "rank": 26,
+          "rank": 30,
           "player_id": "asp_dc2827eeceba403e92b6beba0d0fc265",
           "player_name": "Troyansky Franco",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -874,7 +906,7 @@
           "value": 4
         },
         {
-          "rank": 27,
+          "rank": 31,
           "player_id": "asp_aa5fbfdca1924db684dcfad8142e33fe",
           "player_name": "Gutierrez Maximiliano",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -882,7 +914,7 @@
           "value": 3
         },
         {
-          "rank": 28,
+          "rank": 32,
           "player_id": "asp_d354737b5bbe44119b539a4a8249c73a",
           "player_name": "D. Coelho",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -890,7 +922,15 @@
           "value": 3
         },
         {
-          "rank": 29,
+          "rank": 33,
+          "player_id": "asp_d8bd3349c67049e3ac00977d7c706a99",
+          "player_name": "David Lucas",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "Coquimbo Unido",
+          "value": 3
+        },
+        {
+          "rank": 34,
           "player_id": "asp_27f6fb6a14294cbca338faf905dd5caa",
           "player_name": "Á. Madrid",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -898,7 +938,7 @@
           "value": 3
         },
         {
-          "rank": 30,
+          "rank": 35,
           "player_id": "asp_1412d2e4fbac45eba9823a7e40f99e70",
           "player_name": "Camargo Alejandro",
           "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
@@ -906,7 +946,7 @@
           "value": 3
         },
         {
-          "rank": 31,
+          "rank": 36,
           "player_id": "asp_326c4b48dda74c798e83b449c2c16339",
           "player_name": "S. Valencia",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
@@ -914,7 +954,7 @@
           "value": 3
         },
         {
-          "rank": 32,
+          "rank": 37,
           "player_id": "asp_ebf015afcf8143e2a1dd8ae1f5e86567",
           "player_name": "Juan Lucero",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -922,23 +962,7 @@
           "value": 3
         },
         {
-          "rank": 33,
-          "player_id": "asp_3740f30166cb42f6a11f02001c5483b5",
-          "player_name": "J. Henríquez",
-          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
-          "team_name": "Concepcion",
-          "value": 3
-        },
-        {
-          "rank": 34,
-          "player_id": "asp_e8c4e0d2027a456fb427c11cbb43a400",
-          "player_name": "L. Rojas",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "Univ. Conce",
-          "value": 3
-        },
-        {
-          "rank": 35,
+          "rank": 38,
           "player_id": "asp_a4f7d117c4304e20b6dde02482b61353",
           "player_name": "C. Munder",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -946,15 +970,7 @@
           "value": 3
         },
         {
-          "rank": 36,
-          "player_id": "asp_6bb23a15af0c4552a5213213f64a1a33",
-          "player_name": "G. Vadalá",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "Coquimbo Unido",
-          "value": 3
-        },
-        {
-          "rank": 37,
+          "rank": 39,
           "player_id": "asp_d3528201867741d5b78a65a0b276d5be",
           "player_name": "F. Montes",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -962,15 +978,23 @@
           "value": 3
         },
         {
-          "rank": 38,
-          "player_id": "asp_d8e2a906f1f546e19d0c2d3d02919fe5",
-          "player_name": "M. Marín",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "La Serena",
+          "rank": 40,
+          "player_id": "asp_f2439d79e1a6405e8b019cb20680b0b4",
+          "player_name": "Pacheco Guillermo",
+          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
+          "team_name": "Cobresal",
           "value": 3
         },
         {
-          "rank": 39,
+          "rank": 41,
+          "player_id": "asp_3740f30166cb42f6a11f02001c5483b5",
+          "player_name": "J. Henríquez",
+          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
+          "team_name": "Concepcion",
+          "value": 3
+        },
+        {
+          "rank": 42,
           "player_id": "asp_ea988b10e7a2480f8720d84078c4e55d",
           "player_name": "Palacios Cristian",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -978,7 +1002,7 @@
           "value": 3
         },
         {
-          "rank": 40,
+          "rank": 43,
           "player_id": "asp_567d7aeb555646ff81725d3e6f952de4",
           "player_name": "Vicente Alvarez",
           "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
@@ -986,7 +1010,15 @@
           "value": 3
         },
         {
-          "rank": 41,
+          "rank": 44,
+          "player_id": "asp_573749e29a524890bf8c1041c7c84743",
+          "player_name": "S. Gallegos",
+          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
+          "team_name": "Palestino",
+          "value": 3
+        },
+        {
+          "rank": 45,
           "player_id": "asp_94ed0ca4dd8448d0a04de45648f1572d",
           "player_name": "C. Martínez",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -994,7 +1026,7 @@
           "value": 3
         },
         {
-          "rank": 42,
+          "rank": 46,
           "player_id": "asp_40400a4b68c44d58beecf89e80d503ff",
           "player_name": "L. Pastrán",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1002,7 +1034,7 @@
           "value": 3
         },
         {
-          "rank": 43,
+          "rank": 47,
           "player_id": "asp_68c8eea6a21b4e2d8ad6a975159d50f5",
           "player_name": "Ezequiel Franco",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -1010,15 +1042,15 @@
           "value": 3
         },
         {
-          "rank": 44,
-          "player_id": "asp_d157a51e7b194bc39a3b2e00662eee2b",
-          "player_name": "F. Hormazábal",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "Universidad Chile",
+          "rank": 48,
+          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
+          "player_name": "Alexander Maximiliano",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+          "team_name": "Huachipato",
           "value": 3
         },
         {
-          "rank": 45,
+          "rank": 49,
           "player_id": "asp_cb409b47a5ce40ccba9548348026906e",
           "player_name": "Diego Rubio",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
@@ -1026,44 +1058,12 @@
           "value": 3
         },
         {
-          "rank": 46,
+          "rank": 50,
           "player_id": "asp_c3e45369e3ab48feb65e0221ca1b6358",
           "player_name": "R. Fernández",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
           "team_name": "Palestino",
-          "value": 2
-        },
-        {
-          "rank": 47,
-          "player_id": "asp_9dce27d394724576b35208fbc2811a2b",
-          "player_name": "A. Cáceres",
-          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
-          "team_name": "Concepcion",
-          "value": 2
-        },
-        {
-          "rank": 48,
-          "player_id": "asp_e54f782346d3491da39abe8cab46211a",
-          "player_name": "J. Altamirano",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "Universidad Chile",
-          "value": 2
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
-          "player_name": "Alexander Maximiliano",
-          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-          "team_name": "Huachipato",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_074c185de899444d98a9a7d2c617039b",
-          "player_name": "Jose Francisco",
-          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
-          "team_name": "Union La Calera",
-          "value": 2
+          "value": 3
         }
       ],
       "zh": [
@@ -1077,18 +1077,18 @@
         },
         {
           "rank": 2,
-          "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
-          "player_name": "丹尼尔·卡斯特罗",
-          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
-          "team_name": "利马切",
-          "value": 12
-        },
-        {
-          "rank": 3,
           "player_id": "asp_f78fec47d6304059bd4af9ec08ca5efa",
           "player_name": "哈维尔·科雷亚·马塞洛",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
           "team_name": "科洛科洛",
+          "value": 13
+        },
+        {
+          "rank": 3,
+          "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
+          "player_name": "丹尼尔·卡斯特罗",
+          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
+          "team_name": "利马切",
           "value": 12
         },
         {
@@ -1101,22 +1101,14 @@
         },
         {
           "rank": 5,
-          "player_id": "asp_45fc704e3cf740da893fcc39f82bd9e7",
-          "player_name": "瓦尔加斯·爱德华多",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "智利大学",
-          "value": 7
-        },
-        {
-          "rank": 6,
           "player_id": "asp_beab17e7f5b3490185d8481f8c47e406",
           "player_name": "阿兰·梅迪纳",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
           "team_name": "埃弗顿",
-          "value": 7
+          "value": 8
         },
         {
-          "rank": 7,
+          "rank": 6,
           "player_id": "asp_589a28312e9c4d87929f3927404c6f1e",
           "player_name": "利昂内尔·阿尔塔米拉诺",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -1124,7 +1116,7 @@
           "value": 7
         },
         {
-          "rank": 8,
+          "rank": 7,
           "player_id": "asp_b43a2f031c58473cbee898e8d6bc7cf6",
           "player_name": "尼尔森·达·席尔瓦",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -1132,7 +1124,31 @@
           "value": 7
         },
         {
+          "rank": 8,
+          "player_id": "asp_45fc704e3cf740da893fcc39f82bd9e7",
+          "player_name": "瓦尔加斯·爱德华多",
+          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+          "team_name": "智利大学",
+          "value": 7
+        },
+        {
           "rank": 9,
+          "player_id": "asp_d4ecbbd995944bb3b690d0bac8c488d8",
+          "player_name": "费利佩·查莫罗",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "拉塞雷纳",
+          "value": 6
+        },
+        {
+          "rank": 10,
+          "player_id": "asp_1f13429e53c64f4c8d296ed3c70e12f7",
+          "player_name": "阿里尔·索萨·冈萨洛",
+          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
+          "team_name": "利马切",
+          "value": 6
+        },
+        {
+          "rank": 11,
           "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
           "player_name": "胡斯托·吉亚尼",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
@@ -1140,7 +1156,7 @@
           "value": 6
         },
         {
-          "rank": 10,
+          "rank": 12,
           "player_id": "asp_b466f26ecd9148668ce6ed3a3a4a2ecd",
           "player_name": "斯特法恩·皮诺",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -1148,7 +1164,7 @@
           "value": 6
         },
         {
-          "rank": 11,
+          "rank": 13,
           "player_id": "asp_ae19fd2bf4084114920d8a8dce150d0d",
           "player_name": "L. 亨南德斯",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1156,7 +1172,7 @@
           "value": 5
         },
         {
-          "rank": 12,
+          "rank": 14,
           "player_id": "asp_e29165dd64a14a28b58da44e3f6d2983",
           "player_name": "大卫·让",
           "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
@@ -1164,7 +1180,7 @@
           "value": 5
         },
         {
-          "rank": 13,
+          "rank": 15,
           "player_id": "asp_144274ca49244e4182b604b7c361063e",
           "player_name": "尼古拉斯·蒙蒂尔",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -1172,7 +1188,7 @@
           "value": 5
         },
         {
-          "rank": 14,
+          "rank": 16,
           "player_id": "asp_66f8af1e5d6b4ec5b8072bf32cf4cf71",
           "player_name": "马克西米利亚诺·罗梅罗",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1180,7 +1196,7 @@
           "value": 5
         },
         {
-          "rank": 15,
+          "rank": 17,
           "player_id": "asp_d413cdbbe26f4213bea1ed6c415f0b8c",
           "player_name": "阿尔塞",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -1188,7 +1204,7 @@
           "value": 5
         },
         {
-          "rank": 16,
+          "rank": 18,
           "player_id": "asp_f84e2d17b61e44e2aaee702fe034d0f3",
           "player_name": "冈萨洛·塔皮亚·帕埃斯",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -1196,7 +1212,7 @@
           "value": 5
         },
         {
-          "rank": 17,
+          "rank": 19,
           "player_id": "asp_854c18284d444b4988bc8b40ed5bcfe8",
           "player_name": "塞西里奥·沃特曼",
           "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
@@ -1204,7 +1220,7 @@
           "value": 5
         },
         {
-          "rank": 18,
+          "rank": 20,
           "player_id": "asp_e730b8e069264f6bb8ca38ef821d016a",
           "player_name": "阿尔纳尔多·卡斯蒂略",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -1212,27 +1228,11 @@
           "value": 5
         },
         {
-          "rank": 19,
-          "player_id": "asp_d4ecbbd995944bb3b690d0bac8c488d8",
-          "player_name": "费利佩·查莫罗",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "拉塞雷纳",
-          "value": 5
-        },
-        {
-          "rank": 20,
+          "rank": 21,
           "player_id": "asp_c12e421c1304463c98a0837c0361ff53",
           "player_name": "凯文·门德斯",
           "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
           "team_name": "拉卡莱拉联合",
-          "value": 4
-        },
-        {
-          "rank": 21,
-          "player_id": "asp_1f13429e53c64f4c8d296ed3c70e12f7",
-          "player_name": "阿里尔·索萨·冈萨洛",
-          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
-          "team_name": "利马切",
           "value": 4
         },
         {
@@ -1253,6 +1253,38 @@
         },
         {
           "rank": 24,
+          "player_id": "asp_d8e2a906f1f546e19d0c2d3d02919fe5",
+          "player_name": "尼古拉斯·马林·维加·马蒂亚斯",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "拉塞雷纳",
+          "value": 4
+        },
+        {
+          "rank": 25,
+          "player_id": "asp_e8c4e0d2027a456fb427c11cbb43a400",
+          "player_name": "路易斯·罗哈斯",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "康塞普西翁大学",
+          "value": 4
+        },
+        {
+          "rank": 26,
+          "player_id": "asp_6bb23a15af0c4552a5213213f64a1a33",
+          "player_name": "圭多·瓦达拉",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "科基姆博",
+          "value": 4
+        },
+        {
+          "rank": 27,
+          "player_id": "asp_c4bc4b985a46428ab79792e01ee4ebd6",
+          "player_name": "尼古拉斯·约汉森",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "科基姆博",
+          "value": 4
+        },
+        {
+          "rank": 28,
           "player_id": "asp_86d7bbe8e77c48ba86c24d4c1bac45e2",
           "player_name": "乔瓦尼·基亚韦拉诺",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -1260,7 +1292,7 @@
           "value": 4
         },
         {
-          "rank": 25,
+          "rank": 29,
           "player_id": "asp_18e0bb8d41dd44409cdb2b02ea7c241c",
           "player_name": "杰伊森·瓦尔加斯",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
@@ -1268,7 +1300,7 @@
           "value": 4
         },
         {
-          "rank": 26,
+          "rank": 30,
           "player_id": "asp_dc2827eeceba403e92b6beba0d0fc265",
           "player_name": "弗朗哥·特罗扬斯基",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -1276,7 +1308,7 @@
           "value": 4
         },
         {
-          "rank": 27,
+          "rank": 31,
           "player_id": "asp_aa5fbfdca1924db684dcfad8142e33fe",
           "player_name": "马克西米利亚诺·古铁雷斯",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -1284,7 +1316,7 @@
           "value": 3
         },
         {
-          "rank": 28,
+          "rank": 32,
           "player_id": "asp_d354737b5bbe44119b539a4a8249c73a",
           "player_name": "马丁·科埃略·迪亚斯·迭戈",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -1292,7 +1324,15 @@
           "value": 3
         },
         {
-          "rank": 29,
+          "rank": 33,
+          "player_id": "asp_d8bd3349c67049e3ac00977d7c706a99",
+          "player_name": "卢卡斯·普拉托",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "科基姆博",
+          "value": 3
+        },
+        {
+          "rank": 34,
           "player_id": "asp_27f6fb6a14294cbca338faf905dd5caa",
           "player_name": "阿尔瓦罗·马德里德",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1300,7 +1340,7 @@
           "value": 3
         },
         {
-          "rank": 30,
+          "rank": 35,
           "player_id": "asp_1412d2e4fbac45eba9823a7e40f99e70",
           "player_name": "亚历杭德罗·卡马戈",
           "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
@@ -1308,7 +1348,7 @@
           "value": 3
         },
         {
-          "rank": 31,
+          "rank": 36,
           "player_id": "asp_326c4b48dda74c798e83b449c2c16339",
           "player_name": "S. Valencia",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
@@ -1316,7 +1356,7 @@
           "value": 3
         },
         {
-          "rank": 32,
+          "rank": 37,
           "player_id": "asp_ebf015afcf8143e2a1dd8ae1f5e86567",
           "player_name": "胡安·卢塞罗",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -1324,23 +1364,7 @@
           "value": 3
         },
         {
-          "rank": 33,
-          "player_id": "asp_3740f30166cb42f6a11f02001c5483b5",
-          "player_name": "豪尔赫·恩里克斯",
-          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
-          "team_name": "康塞普西翁体育",
-          "value": 3
-        },
-        {
-          "rank": 34,
-          "player_id": "asp_e8c4e0d2027a456fb427c11cbb43a400",
-          "player_name": "路易斯·罗哈斯",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "康塞普西翁大学",
-          "value": 3
-        },
-        {
-          "rank": 35,
+          "rank": 38,
           "player_id": "asp_a4f7d117c4304e20b6dde02482b61353",
           "player_name": "塞萨尔·蒙德尔",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -1348,15 +1372,7 @@
           "value": 3
         },
         {
-          "rank": 36,
-          "player_id": "asp_6bb23a15af0c4552a5213213f64a1a33",
-          "player_name": "圭多·瓦达拉",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "科基姆博",
-          "value": 3
-        },
-        {
-          "rank": 37,
+          "rank": 39,
           "player_id": "asp_d3528201867741d5b78a65a0b276d5be",
           "player_name": "F. Montes",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -1364,15 +1380,23 @@
           "value": 3
         },
         {
-          "rank": 38,
-          "player_id": "asp_d8e2a906f1f546e19d0c2d3d02919fe5",
-          "player_name": "尼古拉斯·马林·维加·马蒂亚斯",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "拉塞雷纳",
+          "rank": 40,
+          "player_id": "asp_f2439d79e1a6405e8b019cb20680b0b4",
+          "player_name": "吉列尔莫·帕切科",
+          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
+          "team_name": "科布雷萨尔",
           "value": 3
         },
         {
-          "rank": 39,
+          "rank": 41,
+          "player_id": "asp_3740f30166cb42f6a11f02001c5483b5",
+          "player_name": "豪尔赫·恩里克斯",
+          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
+          "team_name": "康塞普西翁体育",
+          "value": 3
+        },
+        {
+          "rank": 42,
           "player_id": "asp_ea988b10e7a2480f8720d84078c4e55d",
           "player_name": "克里斯蒂安·帕拉西奥斯",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -1380,7 +1404,7 @@
           "value": 3
         },
         {
-          "rank": 40,
+          "rank": 43,
           "player_id": "asp_567d7aeb555646ff81725d3e6f952de4",
           "player_name": "维森特·阿尔瓦雷斯",
           "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
@@ -1388,7 +1412,15 @@
           "value": 3
         },
         {
-          "rank": 41,
+          "rank": 44,
+          "player_id": "asp_573749e29a524890bf8c1041c7c84743",
+          "player_name": "塞巴斯蒂安·加列戈斯",
+          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
+          "team_name": "巴勒斯坦人",
+          "value": 3
+        },
+        {
+          "rank": 45,
           "player_id": "asp_94ed0ca4dd8448d0a04de45648f1572d",
           "player_name": "克里斯·马丁内斯",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -1396,7 +1428,7 @@
           "value": 3
         },
         {
-          "rank": 42,
+          "rank": 46,
           "player_id": "asp_40400a4b68c44d58beecf89e80d503ff",
           "player_name": "劳塔罗·帕斯特兰",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1404,7 +1436,7 @@
           "value": 3
         },
         {
-          "rank": 43,
+          "rank": 47,
           "player_id": "asp_68c8eea6a21b4e2d8ad6a975159d50f5",
           "player_name": "弗朗哥·弗里亚斯",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -1412,15 +1444,15 @@
           "value": 3
         },
         {
-          "rank": 44,
-          "player_id": "asp_d157a51e7b194bc39a3b2e00662eee2b",
-          "player_name": "法比安·霍尔马萨巴尔",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "智利大学",
+          "rank": 48,
+          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
+          "player_name": "马克西米利亚诺·罗德里格斯",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+          "team_name": "瓦奇帕托",
           "value": 3
         },
         {
-          "rank": 45,
+          "rank": 49,
           "player_id": "asp_cb409b47a5ce40ccba9548348026906e",
           "player_name": "迭戈·鲁比奥",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
@@ -1428,44 +1460,12 @@
           "value": 3
         },
         {
-          "rank": 46,
+          "rank": 50,
           "player_id": "asp_c3e45369e3ab48feb65e0221ca1b6358",
           "player_name": "罗尼·费尔南德斯",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
           "team_name": "巴勒斯坦人",
-          "value": 2
-        },
-        {
-          "rank": 47,
-          "player_id": "asp_9dce27d394724576b35208fbc2811a2b",
-          "player_name": "阿里尔·卡塞雷斯",
-          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
-          "team_name": "康塞普西翁体育",
-          "value": 2
-        },
-        {
-          "rank": 48,
-          "player_id": "asp_e54f782346d3491da39abe8cab46211a",
-          "player_name": "哈维尔·安特拉斯·圣托斯",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "智利大学",
-          "value": 2
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
-          "player_name": "马克西米利亚诺·罗德里格斯",
-          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-          "team_name": "瓦奇帕托",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_074c185de899444d98a9a7d2c617039b",
-          "player_name": "弗朗西斯科·波佐",
-          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
-          "team_name": "拉卡莱拉联合",
-          "value": 2
+          "value": 3
         }
       ]
     },
@@ -1529,6 +1529,14 @@
         },
         {
           "rank": 8,
+          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
+          "player_name": "Alexander Maximiliano",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+          "team_name": "Huachipato",
+          "value": 4
+        },
+        {
+          "rank": 9,
           "player_id": "asp_ccf289b3b58444c2a84edf2576d7672d",
           "player_name": "E. Matus",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -1536,7 +1544,7 @@
           "value": 4
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_91b294982b2541a2aa98111dc5406449",
           "player_name": "C. Montes",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
@@ -1544,7 +1552,7 @@
           "value": 4
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
           "player_name": "Giani Justo",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
@@ -1552,7 +1560,7 @@
           "value": 4
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_7075761c13d8455eb9787bb7e50b4254",
           "player_name": "M. Plaza",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
@@ -1560,7 +1568,7 @@
           "value": 4
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_a2a8c79346c44b5b8fca1d685ee8a818",
           "player_name": "D. Zúñiga",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -1568,7 +1576,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_61dddc3e13f644f6807b990b9a8f50ea",
           "player_name": "Rabello Bryan",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -1576,7 +1584,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_ccf1f3f59ec54df4ab393429c422a250",
           "player_name": "J. Cornejo",
           "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
@@ -1584,7 +1592,7 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_2b5fa05fc798408bb18d5b4efe69eb86",
           "player_name": "M. Briceño",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -1592,7 +1600,7 @@
           "value": 3
         },
         {
-          "rank": 16,
+          "rank": 17,
           "player_id": "asp_67625923e28d4ebe8a995eecea53e0e7",
           "player_name": "Federico Santiago",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -1600,19 +1608,11 @@
           "value": 3
         },
         {
-          "rank": 17,
+          "rank": 18,
           "player_id": "asp_f78fec47d6304059bd4af9ec08ca5efa",
           "player_name": "J. Correa",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
           "team_name": "Colo-Colo",
-          "value": 3
-        },
-        {
-          "rank": 18,
-          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
-          "player_name": "Alexander Maximiliano",
-          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-          "team_name": "Huachipato",
           "value": 3
         },
         {
@@ -1665,6 +1665,14 @@
         },
         {
           "rank": 25,
+          "player_id": "asp_52394f4f894b4afb91318bee44ce1505",
+          "player_name": "J. Rojas",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "Colo-Colo",
+          "value": 3
+        },
+        {
+          "rank": 26,
           "player_id": "asp_beab17e7f5b3490185d8481f8c47e406",
           "player_name": "Medina Alan",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -1672,7 +1680,7 @@
           "value": 3
         },
         {
-          "rank": 26,
+          "rank": 27,
           "player_id": "asp_9dfcb6bd94164b0c991a04c98378e2d7",
           "player_name": "Aviles Ramos",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -1680,7 +1688,7 @@
           "value": 3
         },
         {
-          "rank": 27,
+          "rank": 28,
           "player_id": "asp_bc1cba19cf5f4a128173520e208e1490",
           "player_name": "V. Méndez",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1688,7 +1696,15 @@
           "value": 3
         },
         {
-          "rank": 28,
+          "rank": 29,
+          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
+          "player_name": "C. Zavala",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "Coquimbo Unido",
+          "value": 3
+        },
+        {
+          "rank": 30,
           "player_id": "asp_ceef655c181a4b3ebf25fb42f5ddffe6",
           "player_name": "Marcelo Morales",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -1696,7 +1712,7 @@
           "value": 3
         },
         {
-          "rank": 29,
+          "rank": 31,
           "player_id": "asp_3d3a5b53c7ff4cfda564e5593431bb53",
           "player_name": "C. Aquino",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1704,7 +1720,15 @@
           "value": 3
         },
         {
-          "rank": 30,
+          "rank": 32,
+          "player_id": "asp_ee2ac1d0dc144fb8bf89c75b9dd9dee6",
+          "player_name": "B. Chandía",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "Coquimbo Unido",
+          "value": 3
+        },
+        {
+          "rank": 33,
           "player_id": "asp_cf7af61d9bf140838e8b733378c0384f",
           "player_name": "T. Alarcón",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1712,7 +1736,7 @@
           "value": 3
         },
         {
-          "rank": 31,
+          "rank": 34,
           "player_id": "asp_f7cfbf8b29f64158abc971b0916ae9c7",
           "player_name": "Agustín Francisco",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -1720,7 +1744,7 @@
           "value": 3
         },
         {
-          "rank": 32,
+          "rank": 35,
           "player_id": "asp_64420a68fa0e40bf891fd8484234935e",
           "player_name": "M. Cavalleri",
           "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
@@ -1728,7 +1752,7 @@
           "value": 2
         },
         {
-          "rank": 33,
+          "rank": 36,
           "player_id": "asp_f2439d79e1a6405e8b019cb20680b0b4",
           "player_name": "Pacheco Guillermo",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -1736,7 +1760,7 @@
           "value": 2
         },
         {
-          "rank": 34,
+          "rank": 37,
           "player_id": "asp_5d30b17004ac43b4bb93e6e84ba204e0",
           "player_name": "N. Guaiquil",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -1744,7 +1768,7 @@
           "value": 2
         },
         {
-          "rank": 35,
+          "rank": 38,
           "player_id": "asp_3224eda3dcf14116a57843a0f9b3bb67",
           "player_name": "Díaz Cristopher",
           "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
@@ -1752,7 +1776,7 @@
           "value": 2
         },
         {
-          "rank": 36,
+          "rank": 39,
           "player_id": "asp_a4f7d117c4304e20b6dde02482b61353",
           "player_name": "C. Munder",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -1760,7 +1784,15 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 40,
+          "player_id": "asp_6bb23a15af0c4552a5213213f64a1a33",
+          "player_name": "G. Vadalá",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "Coquimbo Unido",
+          "value": 2
+        },
+        {
+          "rank": 41,
           "player_id": "asp_e6a84819832b4486bff23ed0340d1d8d",
           "player_name": "C. Yanis",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -1768,7 +1800,7 @@
           "value": 2
         },
         {
-          "rank": 38,
+          "rank": 42,
           "player_id": "asp_3740f30166cb42f6a11f02001c5483b5",
           "player_name": "J. Henríquez",
           "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
@@ -1776,7 +1808,7 @@
           "value": 2
         },
         {
-          "rank": 39,
+          "rank": 43,
           "player_id": "asp_625d21b67dad4d708c8f162f00ea6ef8",
           "player_name": "Molina Lucas",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
@@ -1784,23 +1816,7 @@
           "value": 2
         },
         {
-          "rank": 40,
-          "player_id": "asp_ee2ac1d0dc144fb8bf89c75b9dd9dee6",
-          "player_name": "B. Chandía",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "Coquimbo Unido",
-          "value": 2
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_d87909d66e56475da53cc6a664ff7bef",
-          "player_name": "J. Abrigo",
-          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
-          "team_name": "Palestino",
-          "value": 2
-        },
-        {
-          "rank": 42,
+          "rank": 44,
           "player_id": "asp_ae19fd2bf4084114920d8a8dce150d0d",
           "player_name": "Hernández Leandro",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -1808,15 +1824,15 @@
           "value": 2
         },
         {
-          "rank": 43,
-          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
-          "player_name": "C. Zavala",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "Coquimbo Unido",
+          "rank": 45,
+          "player_id": "asp_d87909d66e56475da53cc6a664ff7bef",
+          "player_name": "J. Abrigo",
+          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
+          "team_name": "Palestino",
           "value": 2
         },
         {
-          "rank": 44,
+          "rank": 46,
           "player_id": "asp_542603e5d270429caed55fd6ec5e16db",
           "player_name": "M. León",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -1824,7 +1840,7 @@
           "value": 2
         },
         {
-          "rank": 45,
+          "rank": 47,
           "player_id": "asp_86d7bbe8e77c48ba86c24d4c1bac45e2",
           "player_name": "Chiaverano Giovani",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -1832,7 +1848,7 @@
           "value": 2
         },
         {
-          "rank": 46,
+          "rank": 48,
           "player_id": "asp_22d4cbc41d0649ee8088cd97639c4aba",
           "player_name": "I. Poblete",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -1840,15 +1856,7 @@
           "value": 2
         },
         {
-          "rank": 47,
-          "player_id": "asp_52394f4f894b4afb91318bee44ce1505",
-          "player_name": "J. Rojas",
-          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
-          "team_name": "Colo-Colo",
-          "value": 2
-        },
-        {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_e1a5b9ffd8ab4b05af16f6bd2c3a9fe6",
           "player_name": "J. Alfaro",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -1856,19 +1864,11 @@
           "value": 2
         },
         {
-          "rank": 49,
+          "rank": 50,
           "player_id": "asp_b43a2f031c58473cbee898e8d6bc7cf6",
           "player_name": "Da Nelson",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
           "team_name": "Palestino",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_3cc788e743804d43ba3433492c281c1b",
-          "player_name": "L. Assadi",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "Universidad Chile",
           "value": 2
         }
       ],
@@ -1931,6 +1931,14 @@
         },
         {
           "rank": 8,
+          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
+          "player_name": "马克西米利亚诺·罗德里格斯",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+          "team_name": "瓦奇帕托",
+          "value": 4
+        },
+        {
+          "rank": 9,
           "player_id": "asp_ccf289b3b58444c2a84edf2576d7672d",
           "player_name": "E. 马图斯",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -1938,7 +1946,7 @@
           "value": 4
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_91b294982b2541a2aa98111dc5406449",
           "player_name": "克莱门特·蒙特斯",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
@@ -1946,7 +1954,7 @@
           "value": 4
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
           "player_name": "胡斯托·吉亚尼",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
@@ -1954,7 +1962,7 @@
           "value": 4
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_7075761c13d8455eb9787bb7e50b4254",
           "player_name": "马蒂亚斯·普拉萨",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
@@ -1962,7 +1970,7 @@
           "value": 4
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_a2a8c79346c44b5b8fca1d685ee8a818",
           "player_name": "迪兰·祖尼加",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -1970,7 +1978,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_61dddc3e13f644f6807b990b9a8f50ea",
           "player_name": "布莱恩·拉贝洛",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -1978,7 +1986,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_ccf1f3f59ec54df4ab393429c422a250",
           "player_name": "弗朗西斯科·科尔内霍·帕尔马·胡安",
           "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
@@ -1986,7 +1994,7 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_2b5fa05fc798408bb18d5b4efe69eb86",
           "player_name": "奥斯敏·布里塞诺·波尔蒂利亚·马里奥·克里斯蒂安",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -1994,7 +2002,7 @@
           "value": 3
         },
         {
-          "rank": 16,
+          "rank": 17,
           "player_id": "asp_67625923e28d4ebe8a995eecea53e0e7",
           "player_name": "圣地亚哥·托洛萨",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -2002,19 +2010,11 @@
           "value": 3
         },
         {
-          "rank": 17,
+          "rank": 18,
           "player_id": "asp_f78fec47d6304059bd4af9ec08ca5efa",
           "player_name": "哈维尔·科雷亚·马塞洛",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
           "team_name": "科洛科洛",
-          "value": 3
-        },
-        {
-          "rank": 18,
-          "player_id": "asp_f7ea1419368e4791a1093df7da9dc22b",
-          "player_name": "马克西米利亚诺·罗德里格斯",
-          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-          "team_name": "瓦奇帕托",
           "value": 3
         },
         {
@@ -2067,6 +2067,14 @@
         },
         {
           "rank": 25,
+          "player_id": "asp_52394f4f894b4afb91318bee44ce1505",
+          "player_name": "哈维尔·罗哈斯",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "科洛科洛",
+          "value": 3
+        },
+        {
+          "rank": 26,
           "player_id": "asp_beab17e7f5b3490185d8481f8c47e406",
           "player_name": "阿兰·梅迪纳",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -2074,7 +2082,7 @@
           "value": 3
         },
         {
-          "rank": 26,
+          "rank": 27,
           "player_id": "asp_9dfcb6bd94164b0c991a04c98378e2d7",
           "player_name": "E. 拉莫斯",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -2082,7 +2090,7 @@
           "value": 3
         },
         {
-          "rank": 27,
+          "rank": 28,
           "player_id": "asp_bc1cba19cf5f4a128173520e208e1490",
           "player_name": "费利佩·门德斯·维克多",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -2090,7 +2098,15 @@
           "value": 3
         },
         {
-          "rank": 28,
+          "rank": 29,
+          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
+          "player_name": "克里斯蒂安·萨瓦拉",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "科基姆博",
+          "value": 3
+        },
+        {
+          "rank": 30,
           "player_id": "asp_ceef655c181a4b3ebf25fb42f5ddffe6",
           "player_name": "马塞洛·莫拉莱斯",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -2098,7 +2114,7 @@
           "value": 3
         },
         {
-          "rank": 29,
+          "rank": 31,
           "player_id": "asp_3d3a5b53c7ff4cfda564e5593431bb53",
           "player_name": "克劳迪奥·阿基诺",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -2106,7 +2122,15 @@
           "value": 3
         },
         {
-          "rank": 30,
+          "rank": 32,
+          "player_id": "asp_ee2ac1d0dc144fb8bf89c75b9dd9dee6",
+          "player_name": "本杰明·昌迪亚",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "科基姆博",
+          "value": 3
+        },
+        {
+          "rank": 33,
           "player_id": "asp_cf7af61d9bf140838e8b733378c0384f",
           "player_name": "托马斯·阿拉尔孔",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -2114,7 +2138,7 @@
           "value": 3
         },
         {
-          "rank": 31,
+          "rank": 34,
           "player_id": "asp_f7cfbf8b29f64158abc971b0916ae9c7",
           "player_name": "弗朗西斯科·冈萨雷斯",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
@@ -2122,7 +2146,7 @@
           "value": 3
         },
         {
-          "rank": 32,
+          "rank": 35,
           "player_id": "asp_64420a68fa0e40bf891fd8484234935e",
           "player_name": "马蒂亚斯·卡瓦列里",
           "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
@@ -2130,7 +2154,7 @@
           "value": 2
         },
         {
-          "rank": 33,
+          "rank": 36,
           "player_id": "asp_f2439d79e1a6405e8b019cb20680b0b4",
           "player_name": "吉列尔莫·帕切科",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -2138,7 +2162,7 @@
           "value": 2
         },
         {
-          "rank": 34,
+          "rank": 37,
           "player_id": "asp_5d30b17004ac43b4bb93e6e84ba204e0",
           "player_name": "吉列尔莫·瓜伊基尔",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -2146,7 +2170,7 @@
           "value": 2
         },
         {
-          "rank": 35,
+          "rank": 38,
           "player_id": "asp_3224eda3dcf14116a57843a0f9b3bb67",
           "player_name": "Díaz Cristopher",
           "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
@@ -2154,7 +2178,7 @@
           "value": 2
         },
         {
-          "rank": 36,
+          "rank": 39,
           "player_id": "asp_a4f7d117c4304e20b6dde02482b61353",
           "player_name": "塞萨尔·蒙德尔",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -2162,7 +2186,15 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 40,
+          "player_id": "asp_6bb23a15af0c4552a5213213f64a1a33",
+          "player_name": "圭多·瓦达拉",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "科基姆博",
+          "value": 2
+        },
+        {
+          "rank": 41,
           "player_id": "asp_e6a84819832b4486bff23ed0340d1d8d",
           "player_name": "塞萨尔·亚尼斯",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
@@ -2170,7 +2202,7 @@
           "value": 2
         },
         {
-          "rank": 38,
+          "rank": 42,
           "player_id": "asp_3740f30166cb42f6a11f02001c5483b5",
           "player_name": "豪尔赫·恩里克斯",
           "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
@@ -2178,7 +2210,7 @@
           "value": 2
         },
         {
-          "rank": 39,
+          "rank": 43,
           "player_id": "asp_625d21b67dad4d708c8f162f00ea6ef8",
           "player_name": "卢卡斯·莫利纳·坎托",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
@@ -2186,23 +2218,7 @@
           "value": 2
         },
         {
-          "rank": 40,
-          "player_id": "asp_ee2ac1d0dc144fb8bf89c75b9dd9dee6",
-          "player_name": "本杰明·昌迪亚",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "科基姆博",
-          "value": 2
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_d87909d66e56475da53cc6a664ff7bef",
-          "player_name": "乔·阿布里戈",
-          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
-          "team_name": "巴勒斯坦人",
-          "value": 2
-        },
-        {
-          "rank": 42,
+          "rank": 44,
           "player_id": "asp_ae19fd2bf4084114920d8a8dce150d0d",
           "player_name": "L. 亨南德斯",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -2210,15 +2226,15 @@
           "value": 2
         },
         {
-          "rank": 43,
-          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
-          "player_name": "克里斯蒂安·萨瓦拉",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "科基姆博",
+          "rank": 45,
+          "player_id": "asp_d87909d66e56475da53cc6a664ff7bef",
+          "player_name": "乔·阿布里戈",
+          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
+          "team_name": "巴勒斯坦人",
           "value": 2
         },
         {
-          "rank": 44,
+          "rank": 46,
           "player_id": "asp_542603e5d270429caed55fd6ec5e16db",
           "player_name": "M. León",
           "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
@@ -2226,7 +2242,7 @@
           "value": 2
         },
         {
-          "rank": 45,
+          "rank": 47,
           "player_id": "asp_86d7bbe8e77c48ba86c24d4c1bac45e2",
           "player_name": "乔瓦尼·基亚韦拉诺",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -2234,7 +2250,7 @@
           "value": 2
         },
         {
-          "rank": 46,
+          "rank": 48,
           "player_id": "asp_22d4cbc41d0649ee8088cd97639c4aba",
           "player_name": "埃利亚斯·波布莱特·祖尼加·以色列",
           "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
@@ -2242,15 +2258,7 @@
           "value": 2
         },
         {
-          "rank": 47,
-          "player_id": "asp_52394f4f894b4afb91318bee44ce1505",
-          "player_name": "哈维尔·罗哈斯",
-          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
-          "team_name": "科洛科洛",
-          "value": 2
-        },
-        {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_e1a5b9ffd8ab4b05af16f6bd2c3a9fe6",
           "player_name": "J·阿尔法罗",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -2258,19 +2266,11 @@
           "value": 2
         },
         {
-          "rank": 49,
+          "rank": 50,
           "player_id": "asp_b43a2f031c58473cbee898e8d6bc7cf6",
           "player_name": "尼尔森·达·席尔瓦",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
           "team_name": "巴勒斯坦人",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_3cc788e743804d43ba3433492c281c1b",
-          "player_name": "L. 阿萨迪",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "智利大学",
           "value": 2
         }
       ]
@@ -2279,10 +2279,10 @@
       "en": [
         {
           "rank": 1,
-          "player_id": "asp_e3fbf9aaf4f948a5804ba0595ea3770e",
-          "player_name": "C. Cuevas",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "Univ. Catolica",
+          "player_id": "asp_064e27a8b2d64a5fa5f55959f298da0f",
+          "player_name": "D. Gutiérrez",
+          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
+          "team_name": "Union La Calera",
           "value": 9
         },
         {
@@ -2291,10 +2291,18 @@
           "player_name": "F. Chamorro",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
           "team_name": "La Serena",
-          "value": 8
+          "value": 9
         },
         {
           "rank": 3,
+          "player_id": "asp_e3fbf9aaf4f948a5804ba0595ea3770e",
+          "player_name": "C. Cuevas",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "Univ. Catolica",
+          "value": 9
+        },
+        {
+          "rank": 4,
           "player_id": "asp_a2009eeb763a46619fd5155ac3541e0c",
           "player_name": "M. Collao",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -2302,31 +2310,15 @@
           "value": 8
         },
         {
-          "rank": 4,
-          "player_id": "asp_064e27a8b2d64a5fa5f55959f298da0f",
-          "player_name": "D. Gutiérrez",
-          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
-          "team_name": "Union La Calera",
-          "value": 8
-        },
-        {
           "rank": 5,
-          "player_id": "asp_ceef655c181a4b3ebf25fb42f5ddffe6",
-          "player_name": "Marcelo Morales",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "Universidad Chile",
+          "player_id": "asp_98dcb949c69e40078dfd827f4a74f7f4",
+          "player_name": "B. Gutiérrez",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "La Serena",
           "value": 7
         },
         {
           "rank": 6,
-          "player_id": "asp_fdf53b51cf8d48aeb15bfdf6660642cf",
-          "player_name": "H. Magallanes",
-          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
-          "team_name": "Everton CD",
-          "value": 7
-        },
-        {
-          "rank": 7,
           "player_id": "asp_45323260af774f6ca946b072e163567b",
           "player_name": "C. Mesías",
           "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
@@ -2334,39 +2326,23 @@
           "value": 7
         },
         {
+          "rank": 7,
+          "player_id": "asp_ceef655c181a4b3ebf25fb42f5ddffe6",
+          "player_name": "Marcelo Morales",
+          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+          "team_name": "Universidad Chile",
+          "value": 7
+        },
+        {
           "rank": 8,
-          "player_id": "asp_55499cd94a764660baa4e10b9002aae7",
-          "player_name": "Pavez Luis",
-          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
-          "team_name": "O&apos;Higgins",
-          "value": 6
+          "player_id": "asp_fdf53b51cf8d48aeb15bfdf6660642cf",
+          "player_name": "H. Magallanes",
+          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
+          "team_name": "Everton CD",
+          "value": 7
         },
         {
           "rank": 9,
-          "player_id": "asp_3123f7cc347c4da3b67e982e7d420b46",
-          "player_name": "Garrido Nicolas",
-          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
-          "team_name": "O&apos;Higgins",
-          "value": 6
-        },
-        {
-          "rank": 10,
-          "player_id": "asp_02a47dae12054ec9a96920ae7bd8b51f",
-          "player_name": "A. Vidal",
-          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
-          "team_name": "Colo-Colo",
-          "value": 6
-        },
-        {
-          "rank": 11,
-          "player_id": "asp_e3cfbeaa397147f6bad30f69d8c8e218",
-          "player_name": "Manuel Francis",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "La Serena",
-          "value": 6
-        },
-        {
-          "rank": 12,
           "player_id": "asp_8763487fc65f4f7f93819f9dd5b620de",
           "player_name": "Mateos Federico",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -2374,7 +2350,7 @@
           "value": 6
         },
         {
-          "rank": 13,
+          "rank": 10,
           "player_id": "asp_c611c541a31649da9c2f3f155f08c810",
           "player_name": "J. Benítez",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -2382,7 +2358,15 @@
           "value": 6
         },
         {
-          "rank": 14,
+          "rank": 11,
+          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
+          "player_name": "C. Zavala",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "Coquimbo Unido",
+          "value": 6
+        },
+        {
+          "rank": 12,
           "player_id": "asp_cf7af61d9bf140838e8b733378c0384f",
           "player_name": "T. Alarcón",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -2390,7 +2374,7 @@
           "value": 6
         },
         {
-          "rank": 15,
+          "rank": 13,
           "player_id": "asp_3224eda3dcf14116a57843a0f9b3bb67",
           "player_name": "Díaz Cristopher",
           "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
@@ -2398,87 +2382,55 @@
           "value": 6
         },
         {
+          "rank": 14,
+          "player_id": "asp_a27d023f26dc41eca68f71223684a52b",
+          "player_name": "Ogaz Bryan",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "Univ. Conce",
+          "value": 6
+        },
+        {
+          "rank": 15,
+          "player_id": "asp_3123f7cc347c4da3b67e982e7d420b46",
+          "player_name": "Garrido Nicolas",
+          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
+          "team_name": "O&apos;Higgins",
+          "value": 6
+        },
+        {
           "rank": 16,
-          "player_id": "asp_00ea1ae013344b2eb74ada83d9d99445",
-          "player_name": "G. Escalante",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "La Serena",
-          "value": 5
+          "player_id": "asp_02a47dae12054ec9a96920ae7bd8b51f",
+          "player_name": "A. Vidal",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "Colo-Colo",
+          "value": 6
         },
         {
           "rank": 17,
-          "player_id": "asp_90a1278b8c5443bea7256d481432b48e",
-          "player_name": "J. Díaz",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "Univ. Catolica",
-          "value": 5
+          "player_id": "asp_55499cd94a764660baa4e10b9002aae7",
+          "player_name": "Pavez Luis",
+          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
+          "team_name": "O&apos;Higgins",
+          "value": 6
         },
         {
           "rank": 18,
-          "player_id": "asp_9c7d631b34434f8db1b1c6a9adb383b4",
-          "player_name": "J. Valencia",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "Univ. Catolica",
-          "value": 5
+          "player_id": "asp_e3cfbeaa397147f6bad30f69d8c8e218",
+          "player_name": "Manuel Francis",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "La Serena",
+          "value": 6
         },
         {
           "rank": 19,
-          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
-          "player_name": "C. Zavala",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "Coquimbo Unido",
-          "value": 5
+          "player_id": "asp_38e9a0d270294bbab092d531d40b6953",
+          "player_name": "L. Soto",
+          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
+          "team_name": "Everton CD",
+          "value": 6
         },
         {
           "rank": 20,
-          "player_id": "asp_30a1ca4be6d3481699fff9a4b32a2253",
-          "player_name": "Llantén Misael",
-          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
-          "team_name": "Deportes Limache",
-          "value": 5
-        },
-        {
-          "rank": 21,
-          "player_id": "asp_c0da6f43d74341b9acdb78819b32b3b5",
-          "player_name": "D. Retamal",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "Univ. Conce",
-          "value": 5
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_263734ac75014b28bee8b9cd12103eff",
-          "player_name": "J. Campusano",
-          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
-          "team_name": "Nublense",
-          "value": 5
-        },
-        {
-          "rank": 23,
-          "player_id": "asp_b7f72dce3db44874a41fda61d02cbfed",
-          "player_name": "Barrera Lucas",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "Universidad Chile",
-          "value": 5
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_a0448a744ceb417abe03b467b6462580",
-          "player_name": "J. Fernández",
-          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
-          "team_name": "Palestino",
-          "value": 5
-        },
-        {
-          "rank": 25,
-          "player_id": "asp_6c637b39e4664052a8779439988cd75d",
-          "player_name": "P. Calderón",
-          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
-          "team_name": "Nublense",
-          "value": 5
-        },
-        {
-          "rank": 26,
           "player_id": "asp_da51aeeaca3b4e75b74467bf5be80275",
           "player_name": "J. Espejo",
           "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
@@ -2486,15 +2438,15 @@
           "value": 5
         },
         {
-          "rank": 27,
-          "player_id": "asp_38e9a0d270294bbab092d531d40b6953",
-          "player_name": "L. Soto",
-          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
-          "team_name": "Everton CD",
+          "rank": 21,
+          "player_id": "asp_bc7d3fc6a0bb43338138fba55e2dc23b",
+          "player_name": "J. Fuentes",
+          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
+          "team_name": "Cobresal",
           "value": 5
         },
         {
-          "rank": 28,
+          "rank": 22,
           "player_id": "asp_65fcd0e7cf7046f8b5c4b79bc7a7b977",
           "player_name": "N. Sepúlveda",
           "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
@@ -2502,7 +2454,7 @@
           "value": 5
         },
         {
-          "rank": 29,
+          "rank": 23,
           "player_id": "asp_e1a5b9ffd8ab4b05af16f6bd2c3a9fe6",
           "player_name": "J. Alfaro",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -2510,15 +2462,47 @@
           "value": 5
         },
         {
-          "rank": 30,
-          "player_id": "asp_98dcb949c69e40078dfd827f4a74f7f4",
-          "player_name": "B. Gutiérrez",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "La Serena",
+          "rank": 24,
+          "player_id": "asp_263734ac75014b28bee8b9cd12103eff",
+          "player_name": "J. Campusano",
+          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
+          "team_name": "Nublense",
           "value": 5
         },
         {
-          "rank": 31,
+          "rank": 25,
+          "player_id": "asp_c0da6f43d74341b9acdb78819b32b3b5",
+          "player_name": "D. Retamal",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "Univ. Conce",
+          "value": 5
+        },
+        {
+          "rank": 26,
+          "player_id": "asp_b7f72dce3db44874a41fda61d02cbfed",
+          "player_name": "Barrera Lucas",
+          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+          "team_name": "Universidad Chile",
+          "value": 5
+        },
+        {
+          "rank": 27,
+          "player_id": "asp_a0448a744ceb417abe03b467b6462580",
+          "player_name": "J. Fernández",
+          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
+          "team_name": "Palestino",
+          "value": 5
+        },
+        {
+          "rank": 28,
+          "player_id": "asp_6c637b39e4664052a8779439988cd75d",
+          "player_name": "P. Calderón",
+          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
+          "team_name": "Nublense",
+          "value": 5
+        },
+        {
+          "rank": 29,
           "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
           "player_name": "D. Castro",
           "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
@@ -2526,7 +2510,7 @@
           "value": 5
         },
         {
-          "rank": 32,
+          "rank": 30,
           "player_id": "asp_573749e29a524890bf8c1041c7c84743",
           "player_name": "S. Gallegos",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -2534,11 +2518,27 @@
           "value": 5
         },
         {
-          "rank": 33,
+          "rank": 31,
           "player_id": "asp_b650a2d21bd2405684418a14711fa2af",
           "player_name": "M. Fernández",
           "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
           "team_name": "Coquimbo Unido",
+          "value": 5
+        },
+        {
+          "rank": 32,
+          "player_id": "asp_68d3b5d92824448dac7f0a1990834fc5",
+          "player_name": "F. Zampedri",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "Univ. Catolica",
+          "value": 5
+        },
+        {
+          "rank": 33,
+          "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
+          "player_name": "Giani Justo",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "Univ. Catolica",
           "value": 5
         },
         {
@@ -2551,140 +2551,140 @@
         },
         {
           "rank": 35,
-          "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
-          "player_name": "Giani Justo",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "Univ. Catolica",
+          "player_id": "asp_00ea1ae013344b2eb74ada83d9d99445",
+          "player_name": "G. Escalante",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "La Serena",
           "value": 5
         },
         {
           "rank": 36,
-          "player_id": "asp_68d3b5d92824448dac7f0a1990834fc5",
-          "player_name": "F. Zampedri",
+          "player_id": "asp_90a1278b8c5443bea7256d481432b48e",
+          "player_name": "J. Díaz",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
           "team_name": "Univ. Catolica",
           "value": 5
         },
         {
           "rank": 37,
-          "player_id": "asp_a27d023f26dc41eca68f71223684a52b",
-          "player_name": "Ogaz Bryan",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "Univ. Conce",
+          "player_id": "asp_c02d0ad81c3b410ea212bffe7773bfd3",
+          "player_name": "C. Sepúlveda",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+          "team_name": "Huachipato",
           "value": 5
         },
         {
           "rank": 38,
-          "player_id": "asp_261db14c3e9344748193f9a0e788eba3",
-          "player_name": "G. Graciani",
+          "player_id": "asp_9c7d631b34434f8db1b1c6a9adb383b4",
+          "player_name": "J. Valencia",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "Univ. Catolica",
+          "value": 5
+        },
+        {
+          "rank": 39,
+          "player_id": "asp_30a1ca4be6d3481699fff9a4b32a2253",
+          "player_name": "Llantén Misael",
+          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
+          "team_name": "Deportes Limache",
+          "value": 5
+        },
+        {
+          "rank": 40,
+          "player_id": "asp_b9d42fbcc6514e0293a53df0096441ae",
+          "player_name": "A. Díaz",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "Univ. Conce",
+          "value": 4
+        },
+        {
+          "rank": 41,
+          "player_id": "asp_afc260cab32f43bd90e1222ce62fdb2e",
+          "player_name": "M. Palavecino",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "Univ. Catolica",
+          "value": 4
+        },
+        {
+          "rank": 42,
+          "player_id": "asp_dd1ddb1d75944a9f82d7940536e2625d",
+          "player_name": "J. Sosa",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "Colo-Colo",
+          "value": 4
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_326c4b48dda74c798e83b449c2c16339",
+          "player_name": "S. Valencia",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
           "team_name": "Nublense",
           "value": 4
         },
         {
-          "rank": 39,
-          "player_id": "asp_d8e2a906f1f546e19d0c2d3d02919fe5",
-          "player_name": "M. Marín",
+          "rank": 44,
+          "player_id": "asp_37d42bb2ae454c098dfada0004e9b96c",
+          "player_name": "Dinamarca Fernando",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
           "team_name": "La Serena",
           "value": 4
         },
         {
-          "rank": 40,
-          "player_id": "asp_cbf750902f044ca294898816cb654fc5",
-          "player_name": "F. Bechtholdt",
-          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
-          "team_name": "Cobresal",
-          "value": 4
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_a577c95200cc4e1db4a1db58b7d7f632",
-          "player_name": "L. Reyes",
-          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
-          "team_name": "Nublense",
-          "value": 4
-        },
-        {
-          "rank": 42,
-          "player_id": "asp_a41da7b037654780ac0ae19ca3b01940",
-          "player_name": "Fausto Lautaro",
-          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
-          "team_name": "Concepcion",
-          "value": 4
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_0790cc4bb28c4108b9be89eafdde2ea5",
-          "player_name": "Felipe Faundez",
-          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
-          "team_name": "O&apos;Higgins",
-          "value": 4
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_60b03e47145440c189e88fc3a6407b81",
-          "player_name": "Guerrero Maximiliano",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "Universidad Chile",
-          "value": 4
-        },
-        {
           "rank": 45,
-          "player_id": "asp_fb1fddcdea5b4c7f969db724b38efea9",
-          "player_name": "J. Fuentealba",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "Univ. Conce",
+          "player_id": "asp_0968854000e54bd3a84a319d319a7645",
+          "player_name": "C. Moya",
+          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
+          "team_name": "Union La Calera",
           "value": 4
         },
         {
           "rank": 46,
-          "player_id": "asp_441280c1f5fb4173b4cd522c9627f29e",
-          "player_name": "Moreno Chirstian",
+          "player_id": "asp_b466f26ecd9148668ce6ed3a3a4a2ecd",
+          "player_name": "Pino Stefan",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
           "team_name": "Cobresal",
           "value": 4
         },
         {
           "rank": 47,
-          "player_id": "asp_b43a2f031c58473cbee898e8d6bc7cf6",
-          "player_name": "Da Nelson",
-          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
-          "team_name": "Palestino",
+          "player_id": "asp_ae19fd2bf4084114920d8a8dce150d0d",
+          "player_name": "Hernández Leandro",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "Colo-Colo",
           "value": 4
         },
         {
           "rank": 48,
-          "player_id": "asp_589a28312e9c4d87929f3927404c6f1e",
-          "player_name": "Altamirano Lionel",
-          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-          "team_name": "Huachipato",
+          "player_id": "asp_c0bff33e64be42c99fdc55cc19abdf36",
+          "player_name": "B. Ampuero",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "Univ. Catolica",
           "value": 4
         },
         {
           "rank": 49,
-          "player_id": "asp_91312cb89a4944e1932c34750cb7620b",
-          "player_name": "Vidal Valentín",
-          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
-          "team_name": "Everton CD",
+          "player_id": "asp_fd40870e4b324668aa02d2938bd62341",
+          "player_name": "Rebolledo Raimundo",
+          "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
+          "team_name": "Audax Italiano",
           "value": 4
         },
         {
           "rank": 50,
-          "player_id": "asp_bc7d3fc6a0bb43338138fba55e2dc23b",
-          "player_name": "J. Fuentes",
-          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
-          "team_name": "Cobresal",
+          "player_id": "asp_d1c72b31a88a42ceb6853d96185f300b",
+          "player_name": "M. Rivera",
+          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
+          "team_name": "Nublense",
           "value": 4
         }
       ],
       "zh": [
         {
           "rank": 1,
-          "player_id": "asp_e3fbf9aaf4f948a5804ba0595ea3770e",
-          "player_name": "克里斯蒂安·库埃瓦斯",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "天主教大学",
+          "player_id": "asp_064e27a8b2d64a5fa5f55959f298da0f",
+          "player_name": "D. 古铁雷斯",
+          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
+          "team_name": "拉卡莱拉联合",
           "value": 9
         },
         {
@@ -2693,10 +2693,18 @@
           "player_name": "费利佩·查莫罗",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
           "team_name": "拉塞雷纳",
-          "value": 8
+          "value": 9
         },
         {
           "rank": 3,
+          "player_id": "asp_e3fbf9aaf4f948a5804ba0595ea3770e",
+          "player_name": "克里斯蒂安·库埃瓦斯",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "天主教大学",
+          "value": 9
+        },
+        {
+          "rank": 4,
           "player_id": "asp_a2009eeb763a46619fd5155ac3541e0c",
           "player_name": "安东尼奥·科拉奥·拉莫斯·马尔科",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -2704,31 +2712,15 @@
           "value": 8
         },
         {
-          "rank": 4,
-          "player_id": "asp_064e27a8b2d64a5fa5f55959f298da0f",
-          "player_name": "D. 古铁雷斯",
-          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
-          "team_name": "拉卡莱拉联合",
-          "value": 8
-        },
-        {
           "rank": 5,
-          "player_id": "asp_ceef655c181a4b3ebf25fb42f5ddffe6",
-          "player_name": "马塞洛·莫拉莱斯",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "智利大学",
+          "player_id": "asp_98dcb949c69e40078dfd827f4a74f7f4",
+          "player_name": "布鲁诺·古铁雷斯",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "拉塞雷纳",
           "value": 7
         },
         {
           "rank": 6,
-          "player_id": "asp_fdf53b51cf8d48aeb15bfdf6660642cf",
-          "player_name": "乌戈·马加利亚尼斯",
-          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
-          "team_name": "埃弗顿",
-          "value": 7
-        },
-        {
-          "rank": 7,
           "player_id": "asp_45323260af774f6ca946b072e163567b",
           "player_name": "克里斯托弗·梅西亚斯",
           "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
@@ -2736,39 +2728,23 @@
           "value": 7
         },
         {
+          "rank": 7,
+          "player_id": "asp_ceef655c181a4b3ebf25fb42f5ddffe6",
+          "player_name": "马塞洛·莫拉莱斯",
+          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+          "team_name": "智利大学",
+          "value": 7
+        },
+        {
           "rank": 8,
-          "player_id": "asp_55499cd94a764660baa4e10b9002aae7",
-          "player_name": "路易斯·帕维斯",
-          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
-          "team_name": "奥希金斯",
-          "value": 6
+          "player_id": "asp_fdf53b51cf8d48aeb15bfdf6660642cf",
+          "player_name": "乌戈·马加利亚尼斯",
+          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
+          "team_name": "埃弗顿",
+          "value": 7
         },
         {
           "rank": 9,
-          "player_id": "asp_3123f7cc347c4da3b67e982e7d420b46",
-          "player_name": "Garrido Nicolas",
-          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
-          "team_name": "奥希金斯",
-          "value": 6
-        },
-        {
-          "rank": 10,
-          "player_id": "asp_02a47dae12054ec9a96920ae7bd8b51f",
-          "player_name": "阿图罗·维达尔",
-          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
-          "team_name": "科洛科洛",
-          "value": 6
-        },
-        {
-          "rank": 11,
-          "player_id": "asp_e3cfbeaa397147f6bad30f69d8c8e218",
-          "player_name": "弗朗西斯·麦克·阿利斯特",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "拉塞雷纳",
-          "value": 6
-        },
-        {
-          "rank": 12,
           "player_id": "asp_8763487fc65f4f7f93819f9dd5b620de",
           "player_name": "Mateos Federico",
           "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
@@ -2776,7 +2752,7 @@
           "value": 6
         },
         {
-          "rank": 13,
+          "rank": 10,
           "player_id": "asp_c611c541a31649da9c2f3f155f08c810",
           "player_name": "乔纳森·贝尼特斯",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -2784,7 +2760,15 @@
           "value": 6
         },
         {
-          "rank": 14,
+          "rank": 11,
+          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
+          "player_name": "克里斯蒂安·萨瓦拉",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
+          "team_name": "科基姆博",
+          "value": 6
+        },
+        {
+          "rank": 12,
           "player_id": "asp_cf7af61d9bf140838e8b733378c0384f",
           "player_name": "托马斯·阿拉尔孔",
           "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
@@ -2792,7 +2776,7 @@
           "value": 6
         },
         {
-          "rank": 15,
+          "rank": 13,
           "player_id": "asp_3224eda3dcf14116a57843a0f9b3bb67",
           "player_name": "Díaz Cristopher",
           "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
@@ -2800,87 +2784,55 @@
           "value": 6
         },
         {
+          "rank": 14,
+          "player_id": "asp_a27d023f26dc41eca68f71223684a52b",
+          "player_name": "布莱恩·奥加斯",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "康塞普西翁大学",
+          "value": 6
+        },
+        {
+          "rank": 15,
+          "player_id": "asp_3123f7cc347c4da3b67e982e7d420b46",
+          "player_name": "Garrido Nicolas",
+          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
+          "team_name": "奥希金斯",
+          "value": 6
+        },
+        {
           "rank": 16,
-          "player_id": "asp_00ea1ae013344b2eb74ada83d9d99445",
-          "player_name": "冈萨洛·埃斯卡兰特",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "拉塞雷纳",
-          "value": 5
+          "player_id": "asp_02a47dae12054ec9a96920ae7bd8b51f",
+          "player_name": "阿图罗·维达尔",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "科洛科洛",
+          "value": 6
         },
         {
           "rank": 17,
-          "player_id": "asp_90a1278b8c5443bea7256d481432b48e",
-          "player_name": "胡安·迪亚斯",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "天主教大学",
-          "value": 5
+          "player_id": "asp_55499cd94a764660baa4e10b9002aae7",
+          "player_name": "路易斯·帕维斯",
+          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
+          "team_name": "奥希金斯",
+          "value": 6
         },
         {
           "rank": 18,
-          "player_id": "asp_9c7d631b34434f8db1b1c6a9adb383b4",
-          "player_name": "曼努埃尔·巴伦西亚·希门尼斯·霍汉",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "天主教大学",
-          "value": 5
+          "player_id": "asp_e3cfbeaa397147f6bad30f69d8c8e218",
+          "player_name": "弗朗西斯·麦克·阿利斯特",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "拉塞雷纳",
+          "value": 6
         },
         {
           "rank": 19,
-          "player_id": "asp_5594847a5a764b60a8e3590f84d9a979",
-          "player_name": "克里斯蒂安·萨瓦拉",
-          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
-          "team_name": "科基姆博",
-          "value": 5
+          "player_id": "asp_38e9a0d270294bbab092d531d40b6953",
+          "player_name": "卢卡斯·索托",
+          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
+          "team_name": "埃弗顿",
+          "value": 6
         },
         {
           "rank": 20,
-          "player_id": "asp_30a1ca4be6d3481699fff9a4b32a2253",
-          "player_name": "Llantén Misael",
-          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
-          "team_name": "利马切",
-          "value": 5
-        },
-        {
-          "rank": 21,
-          "player_id": "asp_c0da6f43d74341b9acdb78819b32b3b5",
-          "player_name": "马蒂亚斯·雷塔马尔·巴斯库尔·大卫",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "康塞普西翁大学",
-          "value": 5
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_263734ac75014b28bee8b9cd12103eff",
-          "player_name": "约万尼·坎普萨诺",
-          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
-          "team_name": "努布伦斯",
-          "value": 5
-        },
-        {
-          "rank": 23,
-          "player_id": "asp_b7f72dce3db44874a41fda61d02cbfed",
-          "player_name": "卢卡斯·巴雷拉",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "智利大学",
-          "value": 5
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_a0448a744ceb417abe03b467b6462580",
-          "player_name": "朱利安·费尔南德斯",
-          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
-          "team_name": "巴勒斯坦人",
-          "value": 5
-        },
-        {
-          "rank": 25,
-          "player_id": "asp_6c637b39e4664052a8779439988cd75d",
-          "player_name": "巴勃罗·卡尔德隆",
-          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
-          "team_name": "努布伦斯",
-          "value": 5
-        },
-        {
-          "rank": 26,
           "player_id": "asp_da51aeeaca3b4e75b74467bf5be80275",
           "player_name": "豪尔赫·埃斯佩霍",
           "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
@@ -2888,15 +2840,15 @@
           "value": 5
         },
         {
-          "rank": 27,
-          "player_id": "asp_38e9a0d270294bbab092d531d40b6953",
-          "player_name": "卢卡斯·索托",
-          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
-          "team_name": "埃弗顿",
+          "rank": 21,
+          "player_id": "asp_bc7d3fc6a0bb43338138fba55e2dc23b",
+          "player_name": "胡安·富恩特斯",
+          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
+          "team_name": "科布雷萨尔",
           "value": 5
         },
         {
-          "rank": 28,
+          "rank": 22,
           "player_id": "asp_65fcd0e7cf7046f8b5c4b79bc7a7b977",
           "player_name": "尼尔森·塞普尔维达",
           "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
@@ -2904,7 +2856,7 @@
           "value": 5
         },
         {
-          "rank": 29,
+          "rank": 23,
           "player_id": "asp_e1a5b9ffd8ab4b05af16f6bd2c3a9fe6",
           "player_name": "J·阿尔法罗",
           "team_id": "ast_167bb740c70148be9a7093267d16a92e",
@@ -2912,15 +2864,47 @@
           "value": 5
         },
         {
-          "rank": 30,
-          "player_id": "asp_98dcb949c69e40078dfd827f4a74f7f4",
-          "player_name": "布鲁诺·古铁雷斯",
-          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
-          "team_name": "拉塞雷纳",
+          "rank": 24,
+          "player_id": "asp_263734ac75014b28bee8b9cd12103eff",
+          "player_name": "约万尼·坎普萨诺",
+          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
+          "team_name": "努布伦斯",
           "value": 5
         },
         {
-          "rank": 31,
+          "rank": 25,
+          "player_id": "asp_c0da6f43d74341b9acdb78819b32b3b5",
+          "player_name": "马蒂亚斯·雷塔马尔·巴斯库尔·大卫",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "康塞普西翁大学",
+          "value": 5
+        },
+        {
+          "rank": 26,
+          "player_id": "asp_b7f72dce3db44874a41fda61d02cbfed",
+          "player_name": "卢卡斯·巴雷拉",
+          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+          "team_name": "智利大学",
+          "value": 5
+        },
+        {
+          "rank": 27,
+          "player_id": "asp_a0448a744ceb417abe03b467b6462580",
+          "player_name": "朱利安·费尔南德斯",
+          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
+          "team_name": "巴勒斯坦人",
+          "value": 5
+        },
+        {
+          "rank": 28,
+          "player_id": "asp_6c637b39e4664052a8779439988cd75d",
+          "player_name": "巴勃罗·卡尔德隆",
+          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
+          "team_name": "努布伦斯",
+          "value": 5
+        },
+        {
+          "rank": 29,
           "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
           "player_name": "丹尼尔·卡斯特罗",
           "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
@@ -2928,7 +2912,7 @@
           "value": 5
         },
         {
-          "rank": 32,
+          "rank": 30,
           "player_id": "asp_573749e29a524890bf8c1041c7c84743",
           "player_name": "塞巴斯蒂安·加列戈斯",
           "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
@@ -2936,11 +2920,27 @@
           "value": 5
         },
         {
-          "rank": 33,
+          "rank": 31,
           "player_id": "asp_b650a2d21bd2405684418a14711fa2af",
           "player_name": "曼努埃尔·费尔南德斯",
           "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1",
           "team_name": "科基姆博",
+          "value": 5
+        },
+        {
+          "rank": 32,
+          "player_id": "asp_68d3b5d92824448dac7f0a1990834fc5",
+          "player_name": "费尔南多·赞佩德里",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "天主教大学",
+          "value": 5
+        },
+        {
+          "rank": 33,
+          "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
+          "player_name": "胡斯托·吉亚尼",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "天主教大学",
           "value": 5
         },
         {
@@ -2953,130 +2953,130 @@
         },
         {
           "rank": 35,
-          "player_id": "asp_53f61238a1bf4b05874ddfdb50dfd83d",
-          "player_name": "胡斯托·吉亚尼",
-          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-          "team_name": "天主教大学",
+          "player_id": "asp_00ea1ae013344b2eb74ada83d9d99445",
+          "player_name": "冈萨洛·埃斯卡兰特",
+          "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
+          "team_name": "拉塞雷纳",
           "value": 5
         },
         {
           "rank": 36,
-          "player_id": "asp_68d3b5d92824448dac7f0a1990834fc5",
-          "player_name": "费尔南多·赞佩德里",
+          "player_id": "asp_90a1278b8c5443bea7256d481432b48e",
+          "player_name": "胡安·迪亚斯",
           "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
           "team_name": "天主教大学",
           "value": 5
         },
         {
           "rank": 37,
-          "player_id": "asp_a27d023f26dc41eca68f71223684a52b",
-          "player_name": "布莱恩·奥加斯",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "康塞普西翁大学",
+          "player_id": "asp_c02d0ad81c3b410ea212bffe7773bfd3",
+          "player_name": "克劳迪奥·塞普尔维达",
+          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
+          "team_name": "瓦奇帕托",
           "value": 5
         },
         {
           "rank": 38,
-          "player_id": "asp_261db14c3e9344748193f9a0e788eba3",
-          "player_name": "加布里埃尔·格拉西亚尼",
+          "player_id": "asp_9c7d631b34434f8db1b1c6a9adb383b4",
+          "player_name": "曼努埃尔·巴伦西亚·希门尼斯·霍汉",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "天主教大学",
+          "value": 5
+        },
+        {
+          "rank": 39,
+          "player_id": "asp_30a1ca4be6d3481699fff9a4b32a2253",
+          "player_name": "Llantén Misael",
+          "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
+          "team_name": "利马切",
+          "value": 5
+        },
+        {
+          "rank": 40,
+          "player_id": "asp_b9d42fbcc6514e0293a53df0096441ae",
+          "player_name": "亚历杭德罗·迪亚斯·坎波斯·安东尼奥",
+          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
+          "team_name": "康塞普西翁大学",
+          "value": 4
+        },
+        {
+          "rank": 41,
+          "player_id": "asp_afc260cab32f43bd90e1222ce62fdb2e",
+          "player_name": "马蒂亚斯·帕拉维奇诺",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "天主教大学",
+          "value": 4
+        },
+        {
+          "rank": 42,
+          "player_id": "asp_dd1ddb1d75944a9f82d7940536e2625d",
+          "player_name": "华金·索萨",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "科洛科洛",
+          "value": 4
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_326c4b48dda74c798e83b449c2c16339",
+          "player_name": "S. Valencia",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
           "team_name": "努布伦斯",
           "value": 4
         },
         {
-          "rank": 39,
-          "player_id": "asp_d8e2a906f1f546e19d0c2d3d02919fe5",
-          "player_name": "尼古拉斯·马林·维加·马蒂亚斯",
+          "rank": 44,
+          "player_id": "asp_37d42bb2ae454c098dfada0004e9b96c",
+          "player_name": "费尔南多·迪纳马尔卡",
           "team_id": "ast_88cd4a929ea7468a97cdbea871c597b4",
           "team_name": "拉塞雷纳",
           "value": 4
         },
         {
-          "rank": 40,
-          "player_id": "asp_cbf750902f044ca294898816cb654fc5",
-          "player_name": "弗朗哥·贝赫托尔德",
-          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
-          "team_name": "科布雷萨尔",
-          "value": 4
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_a577c95200cc4e1db4a1db58b7d7f632",
-          "player_name": "洛伦佐·雷耶斯",
-          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
-          "team_name": "努布伦斯",
-          "value": 4
-        },
-        {
-          "rank": 42,
-          "player_id": "asp_a41da7b037654780ac0ae19ca3b01940",
-          "player_name": "福斯托·格里洛",
-          "team_id": "ast_f7cb2198aabc4d82963c15b33c4b7420",
-          "team_name": "康塞普西翁体育",
-          "value": 4
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_0790cc4bb28c4108b9be89eafdde2ea5",
-          "player_name": "F. 法温德斯",
-          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc",
-          "team_name": "奥希金斯",
-          "value": 4
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_60b03e47145440c189e88fc3a6407b81",
-          "player_name": "加布里埃尔·古埃雷罗·佩纳·马克西米利亚诺",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-          "team_name": "智利大学",
-          "value": 4
-        },
-        {
           "rank": 45,
-          "player_id": "asp_fb1fddcdea5b4c7f969db724b38efea9",
-          "player_name": "J. 富恩特阿尔巴",
-          "team_id": "ast_65563238ed814209a08eccd0d5d08a61",
-          "team_name": "康塞普西翁大学",
+          "player_id": "asp_0968854000e54bd3a84a319d319a7645",
+          "player_name": "安德烈斯·莫亚·卡雷诺·卡米洛",
+          "team_id": "ast_d2a255f475914f6da4c5dc3aa943e8e0",
+          "team_name": "拉卡莱拉联合",
           "value": 4
         },
         {
           "rank": 46,
-          "player_id": "asp_441280c1f5fb4173b4cd522c9627f29e",
-          "player_name": "克里斯蒂安·莫雷诺",
+          "player_id": "asp_b466f26ecd9148668ce6ed3a3a4a2ecd",
+          "player_name": "斯特法恩·皮诺",
           "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
           "team_name": "科布雷萨尔",
           "value": 4
         },
         {
           "rank": 47,
-          "player_id": "asp_b43a2f031c58473cbee898e8d6bc7cf6",
-          "player_name": "尼尔森·达·席尔瓦",
-          "team_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
-          "team_name": "巴勒斯坦人",
+          "player_id": "asp_ae19fd2bf4084114920d8a8dce150d0d",
+          "player_name": "L. 亨南德斯",
+          "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
+          "team_name": "科洛科洛",
           "value": 4
         },
         {
           "rank": 48,
-          "player_id": "asp_589a28312e9c4d87929f3927404c6f1e",
-          "player_name": "利昂内尔·阿尔塔米拉诺",
-          "team_id": "ast_6bbd5e59ca6540809ae159e40a1dbacf",
-          "team_name": "瓦奇帕托",
+          "player_id": "asp_c0bff33e64be42c99fdc55cc19abdf36",
+          "player_name": "布兰科·安普埃罗",
+          "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
+          "team_name": "天主教大学",
           "value": 4
         },
         {
           "rank": 49,
-          "player_id": "asp_91312cb89a4944e1932c34750cb7620b",
-          "player_name": "V. 维达尔",
-          "team_id": "ast_167bb740c70148be9a7093267d16a92e",
-          "team_name": "埃弗顿",
+          "player_id": "asp_fd40870e4b324668aa02d2938bd62341",
+          "player_name": "雷蒙多·雷博列多",
+          "team_id": "ast_eb4d4e6412df41b28c511a5c7f07a0a2",
+          "team_name": "A. 意大利人",
           "value": 4
         },
         {
           "rank": 50,
-          "player_id": "asp_bc7d3fc6a0bb43338138fba55e2dc23b",
-          "player_name": "胡安·富恩特斯",
-          "team_id": "ast_5f5057accd6e45d2ba035764ff0fe111",
-          "team_name": "科布雷萨尔",
+          "player_id": "asp_d1c72b31a88a42ceb6853d96185f300b",
+          "player_name": "曼努埃尔·里维拉",
+          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
+          "team_name": "努布伦斯",
           "value": 4
         }
       ]
@@ -4049,7 +4049,7 @@
         "match_id": "as_5ae0bc436794411b9ce7cf7022863c46",
         "date": "2026-10-12",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "智利甲级联赛",
         "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
         "season": "2026",
@@ -4061,7 +4061,10 @@
           "name": "努布伦斯",
           "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "6-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f08b02b0a9294a6ba97639620ce57851",
@@ -4102,7 +4105,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Estadio Ester Roa",
         "status_label": "完场"
       },
       {
@@ -4123,7 +4126,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "绍萨利托体育场",
         "status_label": "完场"
       },
       {
@@ -8713,24 +8716,6 @@
         "ht_score": "-",
         "venue": "Estadio Bicentenario de La Florida",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5ae0bc436794411b9ce7cf7022863c46",
-        "date": "2026-10-12",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "智利甲级联赛",
-        "league_id": "asl_f1704e1fe3bf45abae276b23feb27f83",
-        "season": "2026",
-        "home": {
-          "name": "智利大学",
-          "team_id": "ast_c71badc0640749c381ab85a383b03d6c"
-        },
-        "away": {
-          "name": "努布伦斯",
-          "team_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41"
-        },
-        "venue": ""
       }
     ]
   },
@@ -14434,23 +14419,23 @@
     }
   },
   "stats": {
-    "matches_completed": 190,
-    "total_goals": 544,
-    "avg_goals_per_match": 2.86,
-    "home_wins": 88,
+    "matches_completed": 191,
+    "total_goals": 550,
+    "avg_goals_per_match": 2.88,
+    "home_wins": 89,
     "draws": 41,
     "away_wins": 61,
-    "home_win_pct": 46.3,
+    "home_win_pct": 46.6,
     "biggest_win": {
-      "margin": 5,
+      "margin": 6,
       "match": {
-        "match_id": "as_f4511480d1dc4ccb958ca94d3db34de8",
-        "date": "2026-04-02",
-        "home_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
-        "home": "天主教大学",
-        "away_id": "ast_54ce4858a3bc499d87dd68be000de8e0",
-        "away": "巴勒斯坦人",
-        "score": "6-1"
+        "match_id": "as_5ae0bc436794411b9ce7cf7022863c46",
+        "date": "2026-10-12",
+        "home_id": "ast_c71badc0640749c381ab85a383b03d6c",
+        "home": "智利大学",
+        "away_id": "ast_6a554c4c3ac04dfd92b6a2227b734d41",
+        "away": "努布伦斯",
+        "score": "6-0"
       }
     },
     "highest_scoring_match": {
@@ -14584,6 +14569,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
+            "team": "U. De Chile",
+            "played": 24,
+            "wins": 13,
+            "draws": 6,
+            "losses": 5,
+            "goals_for": 41,
+            "goals_against": 19,
+            "goal_difference": 22,
+            "points": 45,
+            "form": "WWWLL"
+          },
+          {
+            "position": 3,
             "team_id": "ast_b7866919dfc4473ea3b7c5396e2ee4a3",
             "team": "U. Catolica",
             "played": 23,
@@ -14595,20 +14594,6 @@
             "goal_difference": 17,
             "points": 42,
             "form": "WWWWL"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_c71badc0640749c381ab85a383b03d6c",
-            "team": "U. De Chile",
-            "played": 23,
-            "wins": 12,
-            "draws": 6,
-            "losses": 5,
-            "goals_for": 35,
-            "goals_against": 19,
-            "goal_difference": 16,
-            "points": 42,
-            "form": "WWLLW"
           }
         ],
         "meta": {
@@ -14808,18 +14793,18 @@
           },
           {
             "rank": 2,
-            "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
-            "player_name": "D. Castro",
-            "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
-            "team_name": "Deportes Limache",
-            "value": 12
-          },
-          {
-            "rank": 3,
             "player_id": "asp_f78fec47d6304059bd4af9ec08ca5efa",
             "player_name": "J. Correa",
             "team_id": "ast_d79ce0c9dbe147afa0adff425d68c521",
             "team_name": "Colo-Colo",
+            "value": 13
+          },
+          {
+            "rank": 3,
+            "player_id": "asp_6b1a742890654932a7c40fd0f516d2f5",
+            "player_name": "D. Castro",
+            "team_id": "ast_145d02521b5145eb83e70e1f0db28647",
+            "team_name": "Deportes Limache",
             "value": 12
           }
         ],
@@ -15245,7 +15230,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 33
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

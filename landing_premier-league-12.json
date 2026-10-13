@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2025-2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_d3132e766b2548acb6c14cb64400f1de",
@@ -669,7 +669,7 @@
         "match_id": "as_c9667a676e7941c281dadbfd019a72e2",
         "date": "2026-10-06",
         "time": "12:00",
-        "status": "Aban.",
+        "status": "Not Started",
         "league": "肯尼亚超级联赛",
         "league_id": "asl_d3132e766b2548acb6c14cb64400f1de",
         "season": "2025/2026",
@@ -681,8 +681,9 @@
           "name": "蒙巴萨联队",
           "team_id": "ast_0fc22251c8474caaaa1838952355a3ab"
         },
+        "ht_score": "-",
         "venue": "",
-        "status_label": "中断废弃"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_8046cc30d4474373abc90fd35e558467",
@@ -11228,5 +11229,5 @@
     "matches_current_season": 308,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

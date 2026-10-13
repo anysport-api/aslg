@@ -192,15 +192,15 @@
         "position": 4,
         "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
         "team": "Boca Juniors",
-        "played": 11,
+        "played": 12,
         "wins": 5,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 18,
-        "goals_against": 14,
-        "goal_difference": 4,
+        "goals_against": 15,
+        "goal_difference": 3,
         "points": 18,
-        "form": "DWWWW"
+        "form": "LDWWW"
       },
       {
         "position": 5,
@@ -315,6 +315,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
+        "team": "Orsomarso",
+        "played": 12,
+        "wins": 3,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 8,
+        "goals_against": 11,
+        "goal_difference": -3,
+        "points": 13,
+        "form": "WLDLD"
+      },
+      {
+        "position": 14,
         "team_id": "ast_af402a96df804de283974c62253523d4",
         "team": "Bogota",
         "played": 12,
@@ -328,7 +342,7 @@
         "form": "DDLWD"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a",
         "team": "Barranquilla",
         "played": 12,
@@ -342,7 +356,7 @@
         "form": "WDLLL"
       },
       {
-        "position": 15,
+        "position": 16,
         "team_id": "ast_085a191e13db4e78b6d3336db119d5ab",
         "team": "Leones",
         "played": 12,
@@ -354,20 +368,6 @@
         "goal_difference": -9,
         "points": 11,
         "form": "DDLLD"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
-        "team": "Orsomarso",
-        "played": 11,
-        "wins": 2,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 7,
-        "goals_against": 11,
-        "goal_difference": -4,
-        "points": 10,
-        "form": "LDLDL"
       }
     ],
     "zh": [
@@ -420,16 +420,16 @@
         "position": 4,
         "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
         "team": "博卡青年",
-        "played": 11,
+        "played": 12,
         "wins": 5,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 18,
-        "goals_against": 14,
-        "goal_difference": 4,
+        "goals_against": 15,
+        "goal_difference": 3,
         "points": 18,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
+        "form": "LDWWW",
+        "form_label": "负平胜胜胜"
       },
       {
         "position": 5,
@@ -552,6 +552,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
+        "team": "奥尔索马尔索",
+        "played": 12,
+        "wins": 3,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 8,
+        "goals_against": 11,
+        "goal_difference": -3,
+        "points": 13,
+        "form": "WLDLD",
+        "form_label": "胜负平负平"
+      },
+      {
+        "position": 14,
         "team_id": "ast_af402a96df804de283974c62253523d4",
         "team": "波哥大",
         "played": 12,
@@ -566,7 +581,7 @@
         "form_label": "平平负胜平"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a",
         "team": "巴兰基亚",
         "played": 12,
@@ -581,7 +596,7 @@
         "form_label": "胜平负负负"
       },
       {
-        "position": 15,
+        "position": 16,
         "team_id": "ast_085a191e13db4e78b6d3336db119d5ab",
         "team": "狮子队",
         "played": 12,
@@ -594,21 +609,6 @@
         "points": 11,
         "form": "DDLLD",
         "form_label": "平平负负平"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
-        "team": "奥尔索马尔索",
-        "played": 11,
-        "wins": 2,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 7,
-        "goals_against": 11,
-        "goal_difference": -4,
-        "points": 10,
-        "form": "LDLDL",
-        "form_label": "负平负平负"
       }
     ]
   },
@@ -793,7 +793,7 @@
         "match_id": "as_d0c32203d0a243e9b094930bab5e9aab",
         "date": "2026-10-20",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -805,319 +805,287 @@
           "name": "昆迪奥",
           "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_38357be4b98e4cf18a094ff351312125",
         "date": "2026-10-20",
-        "time": "20:30",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "恩维加多",
-          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
-        },
-        "away": {
-          "name": "巴兰基亚",
-          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
-        },
-        "ht_score": "-",
-        "venue": "南部多功能体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4cec1c213f8f4c409aeff3f2b5aea52e",
-        "date": "2026-10-20",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "尤姆博独立",
-          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
-        },
-        "away": {
-          "name": "博卡青年",
-          "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Municipal Raul Miranda",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_cdcc1d93fe824c498b98570b1a03fb34",
-        "date": "2026-10-20",
-        "time": "19:15",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "老虎队",
-          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
-        },
-        "away": {
-          "name": "皇家昆迪纳马卡",
-          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
-        },
-        "ht_score": "-",
-        "venue": "特乔大都会体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_56e804bc263d44f8a37b4b7ae2b5ade1",
-        "date": "2026-10-19",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "卡塔赫纳",
-          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
-        },
-        "away": {
-          "name": "爱国者",
-          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d5c8267166a84e08a6235de7b3e764d3",
-        "date": "2026-10-19",
-        "time": "21:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "国际帕尔米拉",
-          "team_id": "ast_8b69096d92134f75949482070152ad31"
-        },
-        "away": {
-          "name": "马格达莱纳大学",
-          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
-        },
-        "ht_score": "-",
-        "venue": "Francisco Rivera Escobar",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d648c3f4526b443c9315ab508e84be68",
-        "date": "2026-10-19",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "奥尔索马尔索",
-          "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
-        },
-        "away": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
-        },
-        "ht_score": "-",
-        "venue": "丹尼尔·比亚·萨帕塔体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ae6eee39da91478fb2dd779fb0831ab0",
-        "date": "2026-10-19",
-        "time": "19:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "皇家桑坦德",
-          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
-        },
-        "away": {
-          "name": "狮子队",
-          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Villa Concha",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
-        "date": "2026-10-17",
-        "time": "00:30",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "巴兰基亚",
-          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
-        },
-        "away": {
-          "name": "老虎队",
-          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Romelio Martinez",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_70ac8b164d5442df9104b1c9a82f95b9",
-        "date": "2026-10-16",
-        "time": "22:15",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "博卡青年",
-          "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
-        },
-        "away": {
-          "name": "竞技F.C.",
-          "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_95afd5d218374a599e7c19ac287ce656",
-        "date": "2026-10-16",
-        "time": "01:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "昆迪奥",
-          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
-        },
-        "away": {
-          "name": "卡塔赫纳",
-          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
-        },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4ba0451aaae644378ac067eaeb931572",
-        "date": "2026-10-15",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "恩维加多",
-          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
-        },
-        "away": {
-          "name": "皇家桑坦德",
-          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
-        },
-        "ht_score": "-",
-        "venue": "南部多功能体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6c10a90ccd2c48ad890f5a5ed5a591a6",
-        "date": "2026-10-15",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "国际帕尔米拉",
-          "team_id": "ast_8b69096d92134f75949482070152ad31"
-        },
-        "away": {
-          "name": "奥尔索马尔索",
-          "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
-        },
-        "ht_score": "-",
-        "venue": "Francisco Rivera Escobar",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_38b51bee57a943e1a3f1939adbfe7433",
-        "date": "2026-10-15",
-        "time": "22:15",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "狮子队",
-          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
-        },
-        "away": {
-          "name": "爱国者",
-          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Metropolitano Ciudad de Itagui",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_06b51307fb42404ca3afd4790418f9b7",
-        "date": "2026-10-15",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "马格达莱纳大学",
-          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
-        },
-        "away": {
-          "name": "尤姆博独立",
-          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
-        },
-        "ht_score": "-",
-        "venue": "内华达山脉体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_803d8e9d427c452a8f6094709db5a311",
-        "date": "2026-10-14",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "皇家昆迪纳马卡",
-          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
-        },
-        "away": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Municipal de Mosquera",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_02c35c08762a4d37a24b945e197ea553",
-        "date": "2026-10-12",
         "time": "20:30",
         "status": "20:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
         "home": {
+          "name": "恩维加多",
+          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
+        },
+        "away": {
+          "name": "巴兰基亚",
+          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4cec1c213f8f4c409aeff3f2b5aea52e",
+        "date": "2026-10-20",
+        "time": "20:00",
+        "status": "20:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "尤姆博独立",
+          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
+        },
+        "away": {
+          "name": "博卡青年",
+          "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_cdcc1d93fe824c498b98570b1a03fb34",
+        "date": "2026-10-20",
+        "time": "19:15",
+        "status": "19:15",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "老虎队",
+          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
+        },
+        "away": {
+          "name": "皇家昆迪纳马卡",
+          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_56e804bc263d44f8a37b4b7ae2b5ade1",
+        "date": "2026-10-19",
+        "time": "23:00",
+        "status": "23:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "卡塔赫纳",
+          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
+        },
+        "away": {
+          "name": "爱国者",
+          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d5c8267166a84e08a6235de7b3e764d3",
+        "date": "2026-10-19",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "国际帕尔米拉",
+          "team_id": "ast_8b69096d92134f75949482070152ad31"
+        },
+        "away": {
+          "name": "马格达莱纳大学",
+          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d648c3f4526b443c9315ab508e84be68",
+        "date": "2026-10-19",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "奥尔索马尔索",
+          "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
+        },
+        "away": {
+          "name": "波哥大",
+          "team_id": "ast_af402a96df804de283974c62253523d4"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_ae6eee39da91478fb2dd779fb0831ab0",
+        "date": "2026-10-19",
+        "time": "19:00",
+        "status": "19:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "皇家桑坦德",
+          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
+        },
+        "away": {
+          "name": "狮子队",
+          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
+        "date": "2026-10-17",
+        "time": "00:30",
+        "status": "00:30",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "巴兰基亚",
+          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
+        },
+        "away": {
+          "name": "老虎队",
+          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_70ac8b164d5442df9104b1c9a82f95b9",
+        "date": "2026-10-16",
+        "time": "22:15",
+        "status": "22:15",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "博卡青年",
+          "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
+        },
+        "away": {
+          "name": "竞技F.C.",
+          "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_95afd5d218374a599e7c19ac287ce656",
+        "date": "2026-10-16",
+        "time": "01:00",
+        "status": "01:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "昆迪奥",
+          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
+        },
+        "away": {
+          "name": "卡塔赫纳",
+          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4ba0451aaae644378ac067eaeb931572",
+        "date": "2026-10-15",
+        "time": "20:00",
+        "status": "20:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "恩维加多",
+          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
+        },
+        "away": {
+          "name": "皇家桑坦德",
+          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_6c10a90ccd2c48ad890f5a5ed5a591a6",
+        "date": "2026-10-15",
+        "time": "23:00",
+        "status": "23:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "国际帕尔米拉",
+          "team_id": "ast_8b69096d92134f75949482070152ad31"
+        },
+        "away": {
+          "name": "奥尔索马尔索",
+          "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_38b51bee57a943e1a3f1939adbfe7433",
+        "date": "2026-10-15",
+        "time": "22:15",
+        "status": "22:15",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "狮子队",
+          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
+        },
+        "away": {
+          "name": "爱国者",
+          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_06b51307fb42404ca3afd4790418f9b7",
+        "date": "2026-10-15",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "马格达莱纳大学",
+          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
+        },
+        "away": {
+          "name": "尤姆博独立",
+          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_803d8e9d427c452a8f6094709db5a311",
+        "date": "2026-10-14",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "皇家昆迪纳马卡",
+          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
+        },
+        "away": {
+          "name": "波哥大",
+          "team_id": "ast_af402a96df804de283974c62253523d4"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_02c35c08762a4d37a24b945e197ea553",
+        "date": "2026-10-12",
+        "time": "20:30",
+        "status": "FT",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
           "name": "奥尔索马尔索",
           "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
         },
@@ -1125,7 +1093,10 @@
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a91ad0fe4116432ab2db80d4f5a4b55f",
@@ -6354,7 +6325,7 @@
         "match_id": "as_cdcc1d93fe824c498b98570b1a03fb34",
         "date": "2026-10-20",
         "time": "19:15",
-        "status": "Not Started",
+        "status": "19:15",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6366,15 +6337,13 @@
           "name": "皇家昆迪纳马卡",
           "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
         },
-        "ht_score": "-",
-        "venue": "特乔大都会体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4cec1c213f8f4c409aeff3f2b5aea52e",
         "date": "2026-10-20",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6386,305 +6355,257 @@
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
-        "ht_score": "-",
-        "venue": "Estadio Municipal Raul Miranda",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_38357be4b98e4cf18a094ff351312125",
         "date": "2026-10-20",
-        "time": "20:30",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "恩维加多",
-          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
-        },
-        "away": {
-          "name": "巴兰基亚",
-          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
-        },
-        "ht_score": "-",
-        "venue": "南部多功能体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d0c32203d0a243e9b094930bab5e9aab",
-        "date": "2026-10-20",
-        "time": "20:30",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "竞技F.C.",
-          "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
-        },
-        "away": {
-          "name": "昆迪奥",
-          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ae6eee39da91478fb2dd779fb0831ab0",
-        "date": "2026-10-19",
-        "time": "19:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "皇家桑坦德",
-          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
-        },
-        "away": {
-          "name": "狮子队",
-          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Villa Concha",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d648c3f4526b443c9315ab508e84be68",
-        "date": "2026-10-19",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "奥尔索马尔索",
-          "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
-        },
-        "away": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
-        },
-        "ht_score": "-",
-        "venue": "丹尼尔·比亚·萨帕塔体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d5c8267166a84e08a6235de7b3e764d3",
-        "date": "2026-10-19",
-        "time": "21:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "国际帕尔米拉",
-          "team_id": "ast_8b69096d92134f75949482070152ad31"
-        },
-        "away": {
-          "name": "马格达莱纳大学",
-          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
-        },
-        "ht_score": "-",
-        "venue": "Francisco Rivera Escobar",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_56e804bc263d44f8a37b4b7ae2b5ade1",
-        "date": "2026-10-19",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "卡塔赫纳",
-          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
-        },
-        "away": {
-          "name": "爱国者",
-          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
-        "date": "2026-10-17",
-        "time": "00:30",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "巴兰基亚",
-          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
-        },
-        "away": {
-          "name": "老虎队",
-          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Romelio Martinez",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_95afd5d218374a599e7c19ac287ce656",
-        "date": "2026-10-16",
-        "time": "01:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "昆迪奥",
-          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
-        },
-        "away": {
-          "name": "卡塔赫纳",
-          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
-        },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_70ac8b164d5442df9104b1c9a82f95b9",
-        "date": "2026-10-16",
-        "time": "22:15",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "博卡青年",
-          "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
-        },
-        "away": {
-          "name": "竞技F.C.",
-          "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_06b51307fb42404ca3afd4790418f9b7",
-        "date": "2026-10-15",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "马格达莱纳大学",
-          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
-        },
-        "away": {
-          "name": "尤姆博独立",
-          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
-        },
-        "ht_score": "-",
-        "venue": "内华达山脉体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_38b51bee57a943e1a3f1939adbfe7433",
-        "date": "2026-10-15",
-        "time": "22:15",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "狮子队",
-          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
-        },
-        "away": {
-          "name": "爱国者",
-          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Metropolitano Ciudad de Itagui",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6c10a90ccd2c48ad890f5a5ed5a591a6",
-        "date": "2026-10-15",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "国际帕尔米拉",
-          "team_id": "ast_8b69096d92134f75949482070152ad31"
-        },
-        "away": {
-          "name": "奥尔索马尔索",
-          "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
-        },
-        "ht_score": "-",
-        "venue": "Francisco Rivera Escobar",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4ba0451aaae644378ac067eaeb931572",
-        "date": "2026-10-15",
-        "time": "20:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "恩维加多",
-          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
-        },
-        "away": {
-          "name": "皇家桑坦德",
-          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
-        },
-        "ht_score": "-",
-        "venue": "南部多功能体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_803d8e9d427c452a8f6094709db5a311",
-        "date": "2026-10-14",
-        "time": "22:00",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "皇家昆迪纳马卡",
-          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
-        },
-        "away": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Municipal de Mosquera",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_02c35c08762a4d37a24b945e197ea553",
-        "date": "2026-10-12",
         "time": "20:30",
         "status": "20:30",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
         "home": {
+          "name": "恩维加多",
+          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
+        },
+        "away": {
+          "name": "巴兰基亚",
+          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d0c32203d0a243e9b094930bab5e9aab",
+        "date": "2026-10-20",
+        "time": "20:30",
+        "status": "20:30",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "竞技F.C.",
+          "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
+        },
+        "away": {
+          "name": "昆迪奥",
+          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_ae6eee39da91478fb2dd779fb0831ab0",
+        "date": "2026-10-19",
+        "time": "19:00",
+        "status": "19:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "皇家桑坦德",
+          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
+        },
+        "away": {
+          "name": "狮子队",
+          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d648c3f4526b443c9315ab508e84be68",
+        "date": "2026-10-19",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
           "name": "奥尔索马尔索",
           "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
         },
         "away": {
+          "name": "波哥大",
+          "team_id": "ast_af402a96df804de283974c62253523d4"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d5c8267166a84e08a6235de7b3e764d3",
+        "date": "2026-10-19",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "国际帕尔米拉",
+          "team_id": "ast_8b69096d92134f75949482070152ad31"
+        },
+        "away": {
+          "name": "马格达莱纳大学",
+          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_56e804bc263d44f8a37b4b7ae2b5ade1",
+        "date": "2026-10-19",
+        "time": "23:00",
+        "status": "23:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "卡塔赫纳",
+          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
+        },
+        "away": {
+          "name": "爱国者",
+          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
+        "date": "2026-10-17",
+        "time": "00:30",
+        "status": "00:30",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "巴兰基亚",
+          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
+        },
+        "away": {
+          "name": "老虎队",
+          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_95afd5d218374a599e7c19ac287ce656",
+        "date": "2026-10-16",
+        "time": "01:00",
+        "status": "01:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "昆迪奥",
+          "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
+        },
+        "away": {
+          "name": "卡塔赫纳",
+          "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_70ac8b164d5442df9104b1c9a82f95b9",
+        "date": "2026-10-16",
+        "time": "22:15",
+        "status": "22:15",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
+        },
+        "away": {
+          "name": "竞技F.C.",
+          "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_06b51307fb42404ca3afd4790418f9b7",
+        "date": "2026-10-15",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "马格达莱纳大学",
+          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
+        },
+        "away": {
+          "name": "尤姆博独立",
+          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_38b51bee57a943e1a3f1939adbfe7433",
+        "date": "2026-10-15",
+        "time": "22:15",
+        "status": "22:15",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "狮子队",
+          "team_id": "ast_085a191e13db4e78b6d3336db119d5ab"
+        },
+        "away": {
+          "name": "爱国者",
+          "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_6c10a90ccd2c48ad890f5a5ed5a591a6",
+        "date": "2026-10-15",
+        "time": "23:00",
+        "status": "23:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "国际帕尔米拉",
+          "team_id": "ast_8b69096d92134f75949482070152ad31"
+        },
+        "away": {
+          "name": "奥尔索马尔索",
+          "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4ba0451aaae644378ac067eaeb931572",
+        "date": "2026-10-15",
+        "time": "20:00",
+        "status": "20:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "恩维加多",
+          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
+        },
+        "away": {
+          "name": "皇家桑坦德",
+          "team_id": "ast_f096cec166ce492b8c02b9b1bc0b6fce"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_803d8e9d427c452a8f6094709db5a311",
+        "date": "2026-10-14",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "皇家昆迪纳马卡",
+          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
+        },
+        "away": {
+          "name": "波哥大",
+          "team_id": "ast_af402a96df804de283974c62253523d4"
         },
         "venue": ""
       }
@@ -11251,13 +11172,13 @@
     }
   },
   "stats": {
-    "matches_completed": 241,
-    "total_goals": 539,
-    "avg_goals_per_match": 2.24,
-    "home_wins": 87,
+    "matches_completed": 242,
+    "total_goals": 540,
+    "avg_goals_per_match": 2.23,
+    "home_wins": 88,
     "draws": 77,
     "away_wins": 77,
-    "home_win_pct": 36.1,
+    "home_win_pct": 36.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12055,7 +11976,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 266,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

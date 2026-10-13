@@ -204,6 +204,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
+        "team": "Dukla Prague",
+        "played": 10,
+        "wins": 6,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 21,
+        "goals_against": 15,
+        "goal_difference": 6,
+        "points": 20,
+        "form": "WDWWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_466fa14a738f4e1fa52b1d57aa2fd2c1",
         "team": "Usti nad Labem",
         "played": 10,
@@ -215,20 +229,6 @@
         "goal_difference": 6,
         "points": 18,
         "form": "LWLDW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
-        "team": "Dukla Prague",
-        "played": 9,
-        "wins": 5,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 18,
-        "goals_against": 13,
-        "goal_difference": 5,
-        "points": 17,
-        "form": "DWWWL"
       },
       {
         "position": 4,
@@ -346,15 +346,15 @@
         "position": 12,
         "team_id": "ast_c004d6c6675449bdb9be642fa91d32ac",
         "team": "Ostrava B",
-        "played": 9,
+        "played": 10,
         "wins": 3,
         "draws": 2,
-        "losses": 4,
-        "goals_for": 15,
-        "goals_against": 12,
-        "goal_difference": 3,
+        "losses": 5,
+        "goals_for": 17,
+        "goals_against": 15,
+        "goal_difference": 2,
         "points": 11,
-        "form": "LWDWL"
+        "form": "LLWDW"
       },
       {
         "position": 13,
@@ -431,6 +431,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
+        "team": "杜克拉布拉格",
+        "played": 10,
+        "wins": 6,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 21,
+        "goals_against": 15,
+        "goal_difference": 6,
+        "points": 20,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_466fa14a738f4e1fa52b1d57aa2fd2c1",
         "team": "乌斯季纳德拉贝姆",
         "played": 10,
@@ -443,21 +458,6 @@
         "points": 18,
         "form": "LWLDW",
         "form_label": "负胜负平胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_11e05cca972841289da334fbd41ae42e",
-        "team": "杜克拉布拉格",
-        "played": 9,
-        "wins": 5,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 18,
-        "goals_against": 13,
-        "goal_difference": 5,
-        "points": 17,
-        "form": "DWWWL",
-        "form_label": "平胜胜胜负"
       },
       {
         "position": 4,
@@ -583,16 +583,16 @@
         "position": 12,
         "team_id": "ast_c004d6c6675449bdb9be642fa91d32ac",
         "team": "奥斯特拉瓦B队",
-        "played": 9,
+        "played": 10,
         "wins": 3,
         "draws": 2,
-        "losses": 4,
-        "goals_for": 15,
-        "goals_against": 12,
-        "goal_difference": 3,
+        "losses": 5,
+        "goals_for": 17,
+        "goals_against": 15,
+        "goal_difference": 2,
         "points": 11,
-        "form": "LWDWL",
-        "form_label": "负胜平胜负"
+        "form": "LLWDW",
+        "form_label": "负负胜平胜"
       },
       {
         "position": 13,
@@ -3234,26 +3234,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
-        "date": "2026-11-14",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "克罗梅日",
-          "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
-        },
-        "away": {
-          "name": "特里涅茨",
-          "team_id": "ast_dbeeaef6052842828e7862e084bda317"
-        },
-        "ht_score": "-",
-        "venue": "Stadium Kromeriz",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_71d63857cf4a4db0beae9b4f81ac15af",
         "date": "2026-11-08",
         "time": "13:30",
@@ -3311,6 +3291,26 @@
         },
         "ht_score": "-",
         "venue": "Novy Bor Football Stadium",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
+        "date": "2026-11-07",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "捷克甲级联赛",
+        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
+        "season": "2026/2027",
+        "home": {
+          "name": "克罗梅日",
+          "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
+        },
+        "away": {
+          "name": "特里涅茨",
+          "team_id": "ast_dbeeaef6052842828e7862e084bda317"
+        },
+        "ht_score": "-",
+        "venue": "Stadium Kromeriz",
         "status_label": "未开赛"
       },
       {
@@ -3877,7 +3877,7 @@
         "match_id": "as_c10bd333bea645e1be4c6bece7060f0c",
         "date": "2026-10-12",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -3889,7 +3889,10 @@
           "name": "奥斯特拉瓦B队",
           "team_id": "ast_c004d6c6675449bdb9be642fa91d32ac"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_80f2d273122a4dbb88f16933687c0921",
@@ -5700,6 +5703,86 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_4d47609e4a364b75914174b0bd255753",
+        "date": "2026-11-27",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "捷克甲级联赛",
+        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
+        "season": "2026/2027",
+        "home": {
+          "name": "乌斯季纳德拉贝姆",
+          "team_id": "ast_466fa14a738f4e1fa52b1d57aa2fd2c1"
+        },
+        "away": {
+          "name": "克罗梅日",
+          "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
+        },
+        "ht_score": "-",
+        "venue": "Town Stadium Usti",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_244e539a869b46b2a20e847100d8cea5",
+        "date": "2026-11-27",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "捷克甲级联赛",
+        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
+        "season": "2026/2027",
+        "home": {
+          "name": "奥帕瓦",
+          "team_id": "ast_7f711043d9814ecd96ebd202db9a4bfb"
+        },
+        "away": {
+          "name": "普里布拉姆",
+          "team_id": "ast_ef5701c983574258a028c6fbcbfebf00"
+        },
+        "ht_score": "-",
+        "venue": "Simply Arena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e68586543cc7442a95c24c8cf2609986",
+        "date": "2026-11-27",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "捷克甲级联赛",
+        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
+        "season": "2026/2027",
+        "home": {
+          "name": "日赫拉瓦",
+          "team_id": "ast_558e2e3821954d45b69a114640e7b35e"
+        },
+        "away": {
+          "name": "特里涅茨",
+          "team_id": "ast_dbeeaef6052842828e7862e084bda317"
+        },
+        "ht_score": "-",
+        "venue": "Stadion v Jiraskove ulici",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f0d40b87b4b947f1a47e250d13e7aa73",
+        "date": "2026-11-27",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "捷克甲级联赛",
+        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
+        "season": "2026/2027",
+        "home": {
+          "name": "杜克拉布拉格",
+          "team_id": "ast_11e05cca972841289da334fbd41ae42e"
+        },
+        "away": {
+          "name": "塔博尔斯科",
+          "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873"
+        },
+        "ht_score": "-",
+        "venue": "尤利斯卡体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_a3a3f480ea8844f5bd0771e70d83604c",
         "date": "2026-11-22",
         "time": "09:15",
@@ -5860,26 +5943,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
-        "date": "2026-11-14",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "克罗梅日",
-          "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
-        },
-        "away": {
-          "name": "特里涅茨",
-          "team_id": "ast_dbeeaef6052842828e7862e084bda317"
-        },
-        "ht_score": "-",
-        "venue": "Stadium Kromeriz",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_0b354e5eb7b24a1e86de0a2a3d7b979a",
         "date": "2026-11-08",
         "time": "09:15",
@@ -5917,6 +5980,26 @@
         },
         "ht_score": "-",
         "venue": "Mestsky stadion v Ostrave-Vitkovicich",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
+        "date": "2026-11-07",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "捷克甲级联赛",
+        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
+        "season": "2026/2027",
+        "home": {
+          "name": "克罗梅日",
+          "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
+        },
+        "away": {
+          "name": "特里涅茨",
+          "team_id": "ast_dbeeaef6052842828e7862e084bda317"
+        },
+        "ht_score": "-",
+        "venue": "Stadium Kromeriz",
         "status_label": "未开赛"
       },
       {
@@ -6498,24 +6581,6 @@
         "ht_score": "-",
         "venue": "Simply Arena",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c10bd333bea645e1be4c6bece7060f0c",
-        "date": "2026-10-12",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "杜克拉布拉格",
-          "team_id": "ast_11e05cca972841289da334fbd41ae42e"
-        },
-        "away": {
-          "name": "奥斯特拉瓦B队",
-          "team_id": "ast_c004d6c6675449bdb9be642fa91d32ac"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11118,13 +11183,13 @@
     }
   },
   "stats": {
-    "matches_completed": 79,
-    "total_goals": 238,
-    "avg_goals_per_match": 3.01,
-    "home_wins": 31,
+    "matches_completed": 80,
+    "total_goals": 243,
+    "avg_goals_per_match": 3.04,
+    "home_wins": 32,
     "draws": 25,
     "away_wins": 23,
-    "home_win_pct": 39.2,
+    "home_win_pct": 40.0,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11261,6 +11326,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_11e05cca972841289da334fbd41ae42e",
+            "team": "Dukla Prague",
+            "played": 10,
+            "wins": 6,
+            "draws": 2,
+            "losses": 2,
+            "goals_for": 21,
+            "goals_against": 15,
+            "goal_difference": 6,
+            "points": 20,
+            "form": "WDWWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_466fa14a738f4e1fa52b1d57aa2fd2c1",
             "team": "Usti nad Labem",
             "played": 10,
@@ -11272,20 +11351,6 @@
             "goal_difference": 6,
             "points": 18,
             "form": "LWLDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_11e05cca972841289da334fbd41ae42e",
-            "team": "Dukla Prague",
-            "played": 9,
-            "wins": 5,
-            "draws": 2,
-            "losses": 2,
-            "goals_for": 18,
-            "goals_against": 13,
-            "goal_difference": 5,
-            "points": 17,
-            "form": "DWWWL"
           }
         ],
         "meta": {
@@ -11929,7 +11994,7 @@
     "teams_all_time": 44,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 41
+    "upcoming_matches": 44
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

@@ -578,12 +578,12 @@
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
         "home": {
-          "name": "列瓦迪亚U21",
-          "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
-        },
-        "away": {
           "name": "维姆西洛维德",
           "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
+        },
+        "away": {
+          "name": "列瓦迪亚U21",
+          "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
         },
         "ht_score": "-",
         "venue": "",
@@ -853,7 +853,7 @@
         "match_id": "as_e3c84fa2f6f440bfb292906fbdd405d6",
         "date": "2026-10-14",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -865,9 +865,7 @@
           "name": "诺梅卡尔尤U21",
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
-        "ht_score": "-",
-        "venue": "Maarjamae staadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4f4529f14bd146f8a58c81112491db99",
@@ -886,7 +884,7 @@
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "马阿尔杜市政体育场",
         "status_label": "判定胜负"
       },
       {
@@ -4232,12 +4230,12 @@
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
         "home": {
-          "name": "列瓦迪亚U21",
-          "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
-        },
-        "away": {
           "name": "维姆西洛维德",
           "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
+        },
+        "away": {
+          "name": "列瓦迪亚U21",
+          "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
         },
         "ht_score": "-",
         "venue": "",
@@ -4444,6 +4442,25 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_014aece05f2a4a0c92002b2c16eb403e",
+        "date": "2026-10-19",
+        "time": "15:00",
+        "status": "Awarded",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "home": {
+          "name": "马尔杜",
+          "team_id": "ast_730e7ee5d0a1496a8b515e69cda612cc"
+        },
+        "away": {
+          "name": "弗洛拉U21",
+          "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "判定胜负"
+      },
+      {
         "match_id": "as_9cf0f618fb38492c8752ec8e04e7d4a6",
         "date": "2026-10-18",
         "time": "09:30",
@@ -4526,7 +4543,7 @@
         "match_id": "as_e3c84fa2f6f440bfb292906fbdd405d6",
         "date": "2026-10-14",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -4538,9 +4555,7 @@
           "name": "诺梅卡尔尤U21",
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
-        "ht_score": "-",
-        "venue": "Maarjamae staadion",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -8414,7 +8429,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 175,
-    "upcoming_matches": 21
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

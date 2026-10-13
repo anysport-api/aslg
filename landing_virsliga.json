@@ -208,29 +208,29 @@
         "position": 3,
         "team_id": "ast_3e29273aa6ee45d186f574701fb67edd",
         "team": "Auda",
-        "played": 31,
-        "wins": 18,
+        "played": 32,
+        "wins": 19,
         "draws": 7,
         "losses": 6,
-        "goals_for": 49,
-        "goals_against": 30,
-        "goal_difference": 19,
-        "points": 61,
-        "form": "DWDWD"
+        "goals_for": 52,
+        "goals_against": 32,
+        "goal_difference": 20,
+        "points": 64,
+        "form": "WDWDW"
       },
       {
         "position": 4,
         "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
         "team": "FK Liepaja",
-        "played": 31,
+        "played": 32,
         "wins": 12,
         "draws": 7,
-        "losses": 12,
-        "goals_for": 41,
-        "goals_against": 43,
-        "goal_difference": -2,
+        "losses": 13,
+        "goals_for": 43,
+        "goals_against": 46,
+        "goal_difference": -3,
         "points": 43,
-        "form": "DDDWL"
+        "form": "LDDDW"
       },
       {
         "position": 5,
@@ -352,31 +352,31 @@
         "position": 3,
         "team_id": "ast_3e29273aa6ee45d186f574701fb67edd",
         "team": "奥达",
-        "played": 31,
-        "wins": 18,
+        "played": 32,
+        "wins": 19,
         "draws": 7,
         "losses": 6,
-        "goals_for": 49,
-        "goals_against": 30,
-        "goal_difference": 19,
-        "points": 61,
-        "form": "DWDWD",
-        "form_label": "平胜平胜平"
+        "goals_for": 52,
+        "goals_against": 32,
+        "goal_difference": 20,
+        "points": 64,
+        "form": "WDWDW",
+        "form_label": "胜平胜平胜"
       },
       {
         "position": 4,
         "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
         "team": "利耶帕亚足球俱乐部",
-        "played": 31,
+        "played": 32,
         "wins": 12,
         "draws": 7,
-        "losses": 12,
-        "goals_for": 41,
-        "goals_against": 43,
-        "goal_difference": -2,
+        "losses": 13,
+        "goals_for": 43,
+        "goals_against": 46,
+        "goal_difference": -3,
         "points": 43,
-        "form": "DDDWL",
-        "form_label": "平平平胜负"
+        "form": "LDDDW",
+        "form_label": "负平平平胜"
       },
       {
         "position": 5,
@@ -684,7 +684,7 @@
           "team_id": "ast_8a232a2881404432900a6a027865ee2d"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "LNK Sporta Parks",
         "status_label": "未开赛"
       },
       {
@@ -911,7 +911,7 @@
         "match_id": "as_f239d8f8cd5a45ee90f598d726e69dc0",
         "date": "2026-10-12",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -923,7 +923,10 @@
           "name": "奥达",
           "team_id": "ast_3e29273aa6ee45d186f574701fb67edd"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_60a0685634994da1beafdc006132b2d2",
@@ -964,7 +967,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "4-2",
-        "venue": "",
+        "venue": "Bislett Stadium",
         "status_label": "完场"
       },
       {
@@ -4362,7 +4365,7 @@
           "team_id": "ast_8a232a2881404432900a6a027865ee2d"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "LNK Sporta Parks",
         "status_label": "未开赛"
       },
       {
@@ -4664,24 +4667,6 @@
         "ht_score": "-",
         "venue": "LNK Sporta Parks",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f239d8f8cd5a45ee90f598d726e69dc0",
-        "date": "2026-10-12",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "利耶帕亚足球俱乐部",
-          "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10"
-        },
-        "away": {
-          "name": "奥达",
-          "team_id": "ast_3e29273aa6ee45d186f574701fb67edd"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8110,13 +8095,13 @@
     }
   },
   "stats": {
-    "matches_completed": 158,
-    "total_goals": 452,
-    "avg_goals_per_match": 2.86,
+    "matches_completed": 159,
+    "total_goals": 457,
+    "avg_goals_per_match": 2.87,
     "home_wins": 66,
     "draws": 37,
-    "away_wins": 55,
-    "home_win_pct": 41.8,
+    "away_wins": 56,
+    "home_win_pct": 41.5,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8269,15 +8254,15 @@
             "position": 3,
             "team_id": "ast_3e29273aa6ee45d186f574701fb67edd",
             "team": "Auda",
-            "played": 31,
-            "wins": 18,
+            "played": 32,
+            "wins": 19,
             "draws": 7,
             "losses": 6,
-            "goals_for": 49,
-            "goals_against": 30,
-            "goal_difference": 19,
-            "points": 61,
-            "form": "DWDWD"
+            "goals_for": 52,
+            "goals_against": 32,
+            "goal_difference": 20,
+            "points": 64,
+            "form": "WDWDW"
           }
         ],
         "meta": {
@@ -8914,7 +8899,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

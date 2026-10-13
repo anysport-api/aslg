@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
@@ -200,15 +200,15 @@
         "position": 5,
         "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
         "team": "Benjamin Aceval",
-        "played": 27,
+        "played": 28,
         "wins": 12,
         "draws": 6,
-        "losses": 9,
-        "goals_for": 42,
-        "goals_against": 35,
-        "goal_difference": 7,
+        "losses": 10,
+        "goals_for": 43,
+        "goals_against": 38,
+        "goal_difference": 5,
         "points": 42,
-        "form": "LLWLL"
+        "form": "LLLWL"
       },
       {
         "position": 6,
@@ -296,6 +296,20 @@
       },
       {
         "position": 12,
+        "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab",
+        "team": "Dep. Capiata",
+        "played": 28,
+        "wins": 7,
+        "draws": 11,
+        "losses": 10,
+        "goals_for": 34,
+        "goals_against": 38,
+        "goal_difference": -4,
+        "points": 32,
+        "form": "WDDLL"
+      },
+      {
+        "position": 13,
         "team_id": "ast_7bc158e4a5814a6095f822f2db98e120",
         "team": "3 de Noviembre",
         "played": 28,
@@ -307,20 +321,6 @@
         "goal_difference": -6,
         "points": 29,
         "form": "WLWDW"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab",
-        "team": "Dep. Capiata",
-        "played": 27,
-        "wins": 6,
-        "draws": 11,
-        "losses": 10,
-        "goals_for": 31,
-        "goals_against": 37,
-        "goal_difference": -6,
-        "points": 29,
-        "form": "DDLLL"
       },
       {
         "position": 14,
@@ -430,16 +430,16 @@
         "position": 5,
         "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
         "team": "本杰明·阿塞瓦尔",
-        "played": 27,
+        "played": 28,
         "wins": 12,
         "draws": 6,
-        "losses": 9,
-        "goals_for": 42,
-        "goals_against": 35,
-        "goal_difference": 7,
+        "losses": 10,
+        "goals_for": 43,
+        "goals_against": 38,
+        "goal_difference": 5,
         "points": 42,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 6,
@@ -533,6 +533,21 @@
       },
       {
         "position": 12,
+        "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab",
+        "team": "卡皮亚塔体育",
+        "played": 28,
+        "wins": 7,
+        "draws": 11,
+        "losses": 10,
+        "goals_for": 34,
+        "goals_against": 38,
+        "goal_difference": -4,
+        "points": 32,
+        "form": "WDDLL",
+        "form_label": "胜平平负负"
+      },
+      {
+        "position": 13,
         "team_id": "ast_7bc158e4a5814a6095f822f2db98e120",
         "team": "11月3日",
         "played": 28,
@@ -545,21 +560,6 @@
         "points": 29,
         "form": "WLWDW",
         "form_label": "胜负胜平胜"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab",
-        "team": "卡皮亚塔体育",
-        "played": 27,
-        "wins": 6,
-        "draws": 11,
-        "losses": 10,
-        "goals_for": 31,
-        "goals_against": 37,
-        "goal_difference": -6,
-        "points": 29,
-        "form": "DDLLL",
-        "form_label": "平平负负负"
       },
       {
         "position": 14,
@@ -629,7 +629,7 @@
         "match_id": "as_4364d8471c9e4c11919b5dfc773ed176",
         "date": "2026-10-12",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -641,7 +641,10 @@
           "name": "本杰明·阿塞瓦尔",
           "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c60fc7e7a2d04438826af667bcf44039",
@@ -661,7 +664,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "莱安德罗·奥韦拉尔体育场",
         "status_label": "完场"
       },
       {
@@ -5327,26 +5330,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_4364d8471c9e4c11919b5dfc773ed176",
-        "date": "2026-10-12",
-        "time": "22:30",
-        "status": "22:30",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "卡皮亚塔体育",
-          "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
-        },
-        "away": {
-          "name": "本杰明·阿塞瓦尔",
-          "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -9906,13 +9890,13 @@
     }
   },
   "stats": {
-    "matches_completed": 223,
-    "total_goals": 586,
+    "matches_completed": 224,
+    "total_goals": 590,
     "avg_goals_per_match": 2.63,
-    "home_wins": 90,
+    "home_wins": 91,
     "draws": 61,
     "away_wins": 72,
-    "home_win_pct": 40.4,
+    "home_win_pct": 40.6,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -10655,7 +10639,7 @@
     "teams_all_time": 52,
     "standings_rows_current": 16,
     "matches_current_season": 224,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }

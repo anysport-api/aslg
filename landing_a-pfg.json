@@ -256,15 +256,15 @@
         "position": 3,
         "team_id": "ast_7b25ad97c5de43679bf444196dfd98ba",
         "team": "Ludogorets",
-        "played": 9,
-        "wins": 7,
+        "played": 10,
+        "wins": 8,
         "draws": 2,
         "losses": 0,
-        "goals_for": 16,
+        "goals_for": 21,
         "goals_against": 7,
-        "goal_difference": 9,
-        "points": 23,
-        "form": "WWDDW"
+        "goal_difference": 14,
+        "points": 26,
+        "form": "WWWDD"
       },
       {
         "position": 4,
@@ -298,15 +298,15 @@
         "position": 6,
         "team_id": "ast_19969eb9f0d947849f1c84c1224eae4f",
         "team": "Arda",
-        "played": 10,
+        "played": 11,
         "wins": 5,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 15,
-        "goals_against": 12,
-        "goal_difference": 3,
+        "goals_against": 17,
+        "goal_difference": -2,
         "points": 17,
-        "form": "DLLWW"
+        "form": "LDLLW"
       },
       {
         "position": 7,
@@ -456,16 +456,16 @@
         "position": 3,
         "team_id": "ast_7b25ad97c5de43679bf444196dfd98ba",
         "team": "卢多戈雷茨",
-        "played": 9,
-        "wins": 7,
+        "played": 10,
+        "wins": 8,
         "draws": 2,
         "losses": 0,
-        "goals_for": 16,
+        "goals_for": 21,
         "goals_against": 7,
-        "goal_difference": 9,
-        "points": 23,
-        "form": "WWDDW",
-        "form_label": "胜胜平平胜"
+        "goal_difference": 14,
+        "points": 26,
+        "form": "WWWDD",
+        "form_label": "胜胜胜平平"
       },
       {
         "position": 4,
@@ -501,16 +501,16 @@
         "position": 6,
         "team_id": "ast_19969eb9f0d947849f1c84c1224eae4f",
         "team": "阿尔达",
-        "played": 10,
+        "played": 11,
         "wins": 5,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 15,
-        "goals_against": 12,
-        "goal_difference": 3,
+        "goals_against": 17,
+        "goal_difference": -2,
         "points": 17,
-        "form": "DLLWW",
-        "form_label": "平负负胜胜"
+        "form": "LDLLW",
+        "form_label": "负平负负胜"
       },
       {
         "position": 7,
@@ -2775,7 +2775,7 @@
         "match_id": "as_bb1e70f69f3a4442b01c21139cf4685f",
         "date": "2026-10-12",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -2787,7 +2787,10 @@
           "name": "阿尔达",
           "team_id": "ast_19969eb9f0d947849f1c84c1224eae4f"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "5-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1af97c3df6734e04872f212ac1dd8337",
@@ -2807,7 +2810,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Ticha",
         "status_label": "完场"
       },
       {
@@ -2828,7 +2831,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "Bistritsa Stadium",
         "status_label": "完场"
       },
       {
@@ -2849,7 +2852,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "德拉加莱夫齐体育场",
         "status_label": "完场"
       },
       {
@@ -4367,6 +4370,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_3d142092570e4addacf0c3140e45f14d",
+        "date": "2026-11-27",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "保加利亚甲级联赛",
+        "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
+        "season": "2026/2027",
+        "home": {
+          "name": "索非亚火车头",
+          "team_id": "ast_543ef31737ad40e8bcbc25b315223014"
+        },
+        "away": {
+          "name": "索非亚斯拉维亚",
+          "team_id": "ast_941aa3f357384142a24b55e499150344"
+        },
+        "ht_score": "-",
+        "venue": "火车头体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_533a2fa3d0714e7980fb65a851fb72c5",
         "date": "2026-11-23",
         "time": "16:00",
@@ -4925,24 +4948,6 @@
         "ht_score": "-",
         "venue": "Bistritsa Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_bb1e70f69f3a4442b01c21139cf4685f",
-        "date": "2026-10-12",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "保加利亚甲级联赛",
-        "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
-        "season": "2026/2027",
-        "home": {
-          "name": "卢多戈雷茨",
-          "team_id": "ast_7b25ad97c5de43679bf444196dfd98ba"
-        },
-        "away": {
-          "name": "阿尔达",
-          "team_id": "ast_19969eb9f0d947849f1c84c1224eae4f"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10358,13 +10363,13 @@
     }
   },
   "stats": {
-    "matches_completed": 75,
-    "total_goals": 200,
-    "avg_goals_per_match": 2.67,
-    "home_wins": 32,
+    "matches_completed": 76,
+    "total_goals": 205,
+    "avg_goals_per_match": 2.7,
+    "home_wins": 33,
     "draws": 18,
     "away_wins": 25,
-    "home_win_pct": 42.7,
+    "home_win_pct": 43.4,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10517,15 +10522,15 @@
             "position": 3,
             "team_id": "ast_7b25ad97c5de43679bf444196dfd98ba",
             "team": "Ludogorets",
-            "played": 9,
-            "wins": 7,
+            "played": 10,
+            "wins": 8,
             "draws": 2,
             "losses": 0,
-            "goals_for": 16,
+            "goals_for": 21,
             "goals_against": 7,
-            "goal_difference": 9,
-            "points": 23,
-            "form": "WWDDW"
+            "goal_difference": 14,
+            "points": 26,
+            "form": "WWWDD"
           }
         ],
         "meta": {
@@ -11164,5 +11169,5 @@
     "matches_current_season": 182,
     "upcoming_matches": 29
   },
-  "updated_at": "2026/10/12"
+  "updated_at": "2026/10/13"
 }
