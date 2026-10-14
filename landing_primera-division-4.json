@@ -188,6 +188,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
+        "team": "Bucaramanga",
+        "played": 12,
+        "wins": 6,
+        "draws": 6,
+        "losses": 0,
+        "goals_for": 21,
+        "goals_against": 11,
+        "goal_difference": 10,
+        "points": 24,
+        "form": "DWWWD"
+      },
+      {
+        "position": 4,
         "team_id": "ast_456335a042874375864b6bbe473786d2",
         "team": "Atl. Nacional",
         "played": 11,
@@ -199,20 +213,6 @@
         "goal_difference": 11,
         "points": 23,
         "form": "DWDLW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
-        "team": "Bucaramanga",
-        "played": 11,
-        "wins": 6,
-        "draws": 5,
-        "losses": 0,
-        "goals_for": 20,
-        "goals_against": 10,
-        "goal_difference": 10,
-        "points": 23,
-        "form": "WWWDW"
       },
       {
         "position": 5,
@@ -302,15 +302,15 @@
         "position": 11,
         "team_id": "ast_73af39088e1c4b949951c57177e7ab61",
         "team": "Aguilas",
-        "played": 12,
+        "played": 13,
         "wins": 3,
-        "draws": 6,
+        "draws": 7,
         "losses": 3,
-        "goals_for": 16,
-        "goals_against": 17,
+        "goals_for": 17,
+        "goals_against": 18,
         "goal_difference": -1,
-        "points": 15,
-        "form": "DWLLD"
+        "points": 16,
+        "form": "DDWLL"
       },
       {
         "position": 12,
@@ -472,6 +472,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
+        "team": "布卡拉曼加",
+        "played": 12,
+        "wins": 6,
+        "draws": 6,
+        "losses": 0,
+        "goals_for": 21,
+        "goals_against": 11,
+        "goal_difference": 10,
+        "points": 24,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
+      },
+      {
+        "position": 4,
         "team_id": "ast_456335a042874375864b6bbe473786d2",
         "team": "国民竞技",
         "played": 11,
@@ -484,21 +499,6 @@
         "points": 23,
         "form": "DWDLW",
         "form_label": "平胜平负胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
-        "team": "布卡拉曼加",
-        "played": 11,
-        "wins": 6,
-        "draws": 5,
-        "losses": 0,
-        "goals_for": 20,
-        "goals_against": 10,
-        "goal_difference": 10,
-        "points": 23,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
       },
       {
         "position": 5,
@@ -594,16 +594,16 @@
         "position": 11,
         "team_id": "ast_73af39088e1c4b949951c57177e7ab61",
         "team": "阿圭拉斯",
-        "played": 12,
+        "played": 13,
         "wins": 3,
-        "draws": 6,
+        "draws": 7,
         "losses": 3,
-        "goals_for": 16,
-        "goals_against": 17,
+        "goals_for": 17,
+        "goals_against": 18,
         "goal_difference": -1,
-        "points": 15,
-        "form": "DWLLD",
-        "form_label": "平胜负负平"
+        "points": 16,
+        "form": "DDWLL",
+        "form_label": "平平胜负负"
       },
       {
         "position": 12,
@@ -843,6 +843,14 @@
         },
         {
           "rank": 13,
+          "player_id": "asp_6cf1956184bd46f3b0aeea66a3e84d55",
+          "player_name": "Sanguinetti Fabricio",
+          "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
+          "team_name": "La Equidad",
+          "value": 7
+        },
+        {
+          "rank": 14,
           "player_id": "asp_98ab4ec67f3c4d7aae1f0223a8d87950",
           "player_name": "S. Rodríguez",
           "team_id": "ast_f7a9559f489d49a990829229b659d955",
@@ -850,7 +858,7 @@
           "value": 7
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_f946acd9d430430b8addf33339f5b77e",
           "player_name": "J. Torres",
           "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
@@ -858,19 +866,11 @@
           "value": 6
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_a2ed9902856b409c94aa57c6661c4055",
           "player_name": "L. Castro",
           "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461",
           "team_name": "Millonarios",
-          "value": 6
-        },
-        {
-          "rank": 16,
-          "player_id": "asp_6cf1956184bd46f3b0aeea66a3e84d55",
-          "player_name": "Sanguinetti Fabricio",
-          "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
-          "team_name": "La Equidad",
           "value": 6
         },
         {
@@ -907,22 +907,6 @@
         },
         {
           "rank": 21,
-          "player_id": "asp_36801b98b67a4ec6a6e79373df00db19",
-          "player_name": "L. Hernández",
-          "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
-          "team_name": "Cucuta Deportivo",
-          "value": 5
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_b561f0e882be4c478f90aa7b2627365a",
-          "player_name": "T. Gutiérrez",
-          "team_id": "ast_2c299f4478224035904293082be2d2e1",
-          "team_name": "Junior",
-          "value": 5
-        },
-        {
-          "rank": 23,
           "player_id": "asp_75233e28d9cd4481822a7b6a09fe89b6",
           "player_name": "Andrés Jaime",
           "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
@@ -930,7 +914,7 @@
           "value": 5
         },
         {
-          "rank": 24,
+          "rank": 22,
           "player_id": "asp_9590fba22c9e4e4b8c3af7388059b075",
           "player_name": "A. Parra",
           "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
@@ -938,7 +922,7 @@
           "value": 5
         },
         {
-          "rank": 25,
+          "rank": 23,
           "player_id": "asp_4ecc5b5c987c4732be9051328dc7298f",
           "player_name": "S. Cordoba",
           "team_id": "ast_8fff1fbcfbd047a98ee47d11ba3035be",
@@ -946,15 +930,23 @@
           "value": 5
         },
         {
-          "rank": 26,
-          "player_id": "asp_d64c68333c5c4546baff6a97d06ef006",
-          "player_name": "L. Sandoval",
-          "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
-          "team_name": "Deportes Tolima",
-          "value": 4
+          "rank": 24,
+          "player_id": "asp_36801b98b67a4ec6a6e79373df00db19",
+          "player_name": "L. Hernández",
+          "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
+          "team_name": "Cucuta Deportivo",
+          "value": 5
         },
         {
-          "rank": 27,
+          "rank": 25,
+          "player_id": "asp_b561f0e882be4c478f90aa7b2627365a",
+          "player_name": "T. Gutiérrez",
+          "team_id": "ast_2c299f4478224035904293082be2d2e1",
+          "team_name": "Junior",
+          "value": 5
+        },
+        {
+          "rank": 26,
           "player_id": "asp_c85f6392666b45a5b2d174c45693d455",
           "player_name": "Emerson Batalla",
           "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
@@ -962,7 +954,7 @@
           "value": 4
         },
         {
-          "rank": 28,
+          "rank": 27,
           "player_id": "asp_015c98d81f0e46dc866fb354a76f24c4",
           "player_name": "J. Vásquez",
           "team_id": "ast_9deb16c39d3047e5ad23faf51ca6303a",
@@ -970,7 +962,7 @@
           "value": 4
         },
         {
-          "rank": 29,
+          "rank": 28,
           "player_id": "asp_5ab3cb900dae48c4a6c6fb8569597441",
           "player_name": "L. Berdugo",
           "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
@@ -978,7 +970,7 @@
           "value": 4
         },
         {
-          "rank": 30,
+          "rank": 29,
           "player_id": "asp_02f181096d29457bac72d99a015d4105",
           "player_name": "Gómez Pipe",
           "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4",
@@ -986,11 +978,19 @@
           "value": 4
         },
         {
-          "rank": 31,
+          "rank": 30,
           "player_id": "asp_5b23197b8d3f4956be21cb07de74ae25",
           "player_name": "F. Boné",
           "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
           "team_name": "La Equidad",
+          "value": 4
+        },
+        {
+          "rank": 31,
+          "player_id": "asp_d64c68333c5c4546baff6a97d06ef006",
+          "player_name": "L. Sandoval",
+          "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
+          "team_name": "Deportes Tolima",
           "value": 4
         },
         {
@@ -1083,30 +1083,6 @@
         },
         {
           "rank": 43,
-          "player_id": "asp_f0e386c165694c129acb2bd97531f6ea",
-          "player_name": "L. Sánchez",
-          "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4",
-          "team_name": "Once Caldas",
-          "value": 3
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_ffec2a880eb642fa90b03c2e8680a34f",
-          "player_name": "Carlo Ian",
-          "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
-          "team_name": "La Equidad",
-          "value": 3
-        },
-        {
-          "rank": 45,
-          "player_id": "asp_fe1e87bd20ca4312b700a595ef7db42f",
-          "player_name": "E. Cardona",
-          "team_id": "ast_456335a042874375864b6bbe473786d2",
-          "team_name": "Atletico Nacional",
-          "value": 3
-        },
-        {
-          "rank": 46,
           "player_id": "asp_c75e7846bbb04a46b824ea167f296377",
           "player_name": "Joel Canchimbo",
           "team_id": "ast_2c299f4478224035904293082be2d2e1",
@@ -1114,7 +1090,7 @@
           "value": 3
         },
         {
-          "rank": 47,
+          "rank": 44,
           "player_id": "asp_bb77c7fad01a442f94111c154e65f9a8",
           "player_name": "K. Parra",
           "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
@@ -1122,7 +1098,7 @@
           "value": 3
         },
         {
-          "rank": 48,
+          "rank": 45,
           "player_id": "asp_0de805a024484010912e8460925bd182",
           "player_name": "J. González",
           "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
@@ -1130,7 +1106,7 @@
           "value": 3
         },
         {
-          "rank": 49,
+          "rank": 46,
           "player_id": "asp_0120911abbac45e3ba156abe5e03dfab",
           "player_name": "J. Molina",
           "team_id": "ast_0550cfe57592457190742383da011612",
@@ -1138,11 +1114,35 @@
           "value": 3
         },
         {
-          "rank": 50,
+          "rank": 47,
           "player_id": "asp_985b34cf05d6446bafc3546d71856a9f",
           "player_name": "A. Ramos",
           "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
           "team_name": "America de Cali",
+          "value": 3
+        },
+        {
+          "rank": 48,
+          "player_id": "asp_9abc04b60be842a880b0e1cffd40c214",
+          "player_name": "B. Castro",
+          "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461",
+          "team_name": "Millonarios",
+          "value": 3
+        },
+        {
+          "rank": 49,
+          "player_id": "asp_c437881941754aba9870d770351602e0",
+          "player_name": "D. Valencia",
+          "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
+          "team_name": "America de Cali",
+          "value": 3
+        },
+        {
+          "rank": 50,
+          "player_id": "asp_58e11609ded0476292a93e62ea9556c1",
+          "player_name": "M. Pérez",
+          "team_id": "ast_db12bd2a254142ba8d80b3f87cf45cf5",
+          "team_name": "Deportivo Pereira",
           "value": 3
         }
       ],
@@ -1245,6 +1245,14 @@
         },
         {
           "rank": 13,
+          "player_id": "asp_6cf1956184bd46f3b0aeea66a3e84d55",
+          "player_name": "法布里西奥·桑吉内蒂",
+          "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
+          "team_name": "国际波哥大",
+          "value": 7
+        },
+        {
+          "rank": 14,
           "player_id": "asp_98ab4ec67f3c4d7aae1f0223a8d87950",
           "player_name": "提提",
           "team_id": "ast_f7a9559f489d49a990829229b659d955",
@@ -1252,7 +1260,7 @@
           "value": 7
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_f946acd9d430430b8addf33339f5b77e",
           "player_name": "巴勃罗·托雷斯·帕蒂诺·胡安",
           "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
@@ -1260,19 +1268,11 @@
           "value": 6
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_a2ed9902856b409c94aa57c6661c4055",
           "player_name": "莱昂纳多·卡斯特罗",
           "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461",
           "team_name": "米隆纳里奥斯",
-          "value": 6
-        },
-        {
-          "rank": 16,
-          "player_id": "asp_6cf1956184bd46f3b0aeea66a3e84d55",
-          "player_name": "法布里西奥·桑吉内蒂",
-          "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
-          "team_name": "国际波哥大",
           "value": 6
         },
         {
@@ -1309,22 +1309,6 @@
         },
         {
           "rank": 21,
-          "player_id": "asp_36801b98b67a4ec6a6e79373df00db19",
-          "player_name": "路伊费尔·埃尔南德斯",
-          "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
-          "team_name": "库库塔",
-          "value": 5
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_b561f0e882be4c478f90aa7b2627365a",
-          "player_name": "特奥菲洛·古铁雷斯",
-          "team_id": "ast_2c299f4478224035904293082be2d2e1",
-          "team_name": "青年",
-          "value": 5
-        },
-        {
-          "rank": 23,
           "player_id": "asp_75233e28d9cd4481822a7b6a09fe89b6",
           "player_name": "哈梅·佩拉尔塔",
           "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
@@ -1332,7 +1316,7 @@
           "value": 5
         },
         {
-          "rank": 24,
+          "rank": 22,
           "player_id": "asp_9590fba22c9e4e4b8c3af7388059b075",
           "player_name": "阿德里安·帕拉·奥索里奥",
           "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
@@ -1340,7 +1324,7 @@
           "value": 5
         },
         {
-          "rank": 25,
+          "rank": 23,
           "player_id": "asp_4ecc5b5c987c4732be9051328dc7298f",
           "player_name": "圣地亚哥·科尔多瓦·乌鲁蒂亚",
           "team_id": "ast_8fff1fbcfbd047a98ee47d11ba3035be",
@@ -1348,15 +1332,23 @@
           "value": 5
         },
         {
-          "rank": 26,
-          "player_id": "asp_d64c68333c5c4546baff6a97d06ef006",
-          "player_name": "路易斯·桑多瓦尔",
-          "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
-          "team_name": "托利马体育",
-          "value": 4
+          "rank": 24,
+          "player_id": "asp_36801b98b67a4ec6a6e79373df00db19",
+          "player_name": "路伊费尔·埃尔南德斯",
+          "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
+          "team_name": "库库塔",
+          "value": 5
         },
         {
-          "rank": 27,
+          "rank": 25,
+          "player_id": "asp_b561f0e882be4c478f90aa7b2627365a",
+          "player_name": "特奥菲洛·古铁雷斯",
+          "team_id": "ast_2c299f4478224035904293082be2d2e1",
+          "team_name": "青年",
+          "value": 5
+        },
+        {
+          "rank": 26,
           "player_id": "asp_c85f6392666b45a5b2d174c45693d455",
           "player_name": "埃默森·巴塔拉",
           "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
@@ -1364,7 +1356,7 @@
           "value": 4
         },
         {
-          "rank": 28,
+          "rank": 27,
           "player_id": "asp_015c98d81f0e46dc866fb354a76f24c4",
           "player_name": "瓦斯克斯·约翰",
           "team_id": "ast_9deb16c39d3047e5ad23faf51ca6303a",
@@ -1372,7 +1364,7 @@
           "value": 4
         },
         {
-          "rank": 29,
+          "rank": 28,
           "player_id": "asp_5ab3cb900dae48c4a6c6fb8569597441",
           "player_name": "莱德·贝尔杜戈",
           "team_id": "ast_4ae40c06c7ae46448e8786cf177f1f35",
@@ -1380,7 +1372,7 @@
           "value": 4
         },
         {
-          "rank": 30,
+          "rank": 29,
           "player_id": "asp_02f181096d29457bac72d99a015d4105",
           "player_name": "派普·戈麦斯",
           "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4",
@@ -1388,11 +1380,19 @@
           "value": 4
         },
         {
-          "rank": 31,
+          "rank": 30,
           "player_id": "asp_5b23197b8d3f4956be21cb07de74ae25",
           "player_name": "法昆多·博内",
           "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
           "team_name": "国际波哥大",
+          "value": 4
+        },
+        {
+          "rank": 31,
+          "player_id": "asp_d64c68333c5c4546baff6a97d06ef006",
+          "player_name": "路易斯·桑多瓦尔",
+          "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
+          "team_name": "托利马体育",
           "value": 4
         },
         {
@@ -1485,30 +1485,6 @@
         },
         {
           "rank": 43,
-          "player_id": "asp_f0e386c165694c129acb2bd97531f6ea",
-          "player_name": "路易斯·桑切斯",
-          "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4",
-          "team_name": "翁斯卡尔达斯",
-          "value": 3
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_ffec2a880eb642fa90b03c2e8680a34f",
-          "player_name": "伊恩·波维达",
-          "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
-          "team_name": "国际波哥大",
-          "value": 3
-        },
-        {
-          "rank": 45,
-          "player_id": "asp_fe1e87bd20ca4312b700a595ef7db42f",
-          "player_name": "埃德温·卡多纳",
-          "team_id": "ast_456335a042874375864b6bbe473786d2",
-          "team_name": "国民竞技",
-          "value": 3
-        },
-        {
-          "rank": 46,
           "player_id": "asp_c75e7846bbb04a46b824ea167f296377",
           "player_name": "乔尔·坎奇姆博",
           "team_id": "ast_2c299f4478224035904293082be2d2e1",
@@ -1516,7 +1492,7 @@
           "value": 3
         },
         {
-          "rank": 47,
+          "rank": 44,
           "player_id": "asp_bb77c7fad01a442f94111c154e65f9a8",
           "player_name": "凯文·帕拉·阿特霍图阿",
           "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
@@ -1524,7 +1500,7 @@
           "value": 3
         },
         {
-          "rank": 48,
+          "rank": 45,
           "player_id": "asp_0de805a024484010912e8460925bd182",
           "player_name": "赫尔森·冈萨雷斯",
           "team_id": "ast_3ad126e521324c9aad95a19771c325c7",
@@ -1532,7 +1508,7 @@
           "value": 3
         },
         {
-          "rank": 49,
+          "rank": 46,
           "player_id": "asp_0120911abbac45e3ba156abe5e03dfab",
           "player_name": "贾伊罗·莫利纳",
           "team_id": "ast_0550cfe57592457190742383da011612",
@@ -1540,11 +1516,35 @@
           "value": 3
         },
         {
-          "rank": 50,
+          "rank": 47,
           "player_id": "asp_985b34cf05d6446bafc3546d71856a9f",
           "player_name": "阿德里安·拉莫斯",
           "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
           "team_name": "美洲队（卡利）",
+          "value": 3
+        },
+        {
+          "rank": 48,
+          "player_id": "asp_9abc04b60be842a880b0e1cffd40c214",
+          "player_name": "大卫·卡斯特罗·埃斯皮诺萨·贝克汉姆",
+          "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461",
+          "team_name": "米隆纳里奥斯",
+          "value": 3
+        },
+        {
+          "rank": 49,
+          "player_id": "asp_c437881941754aba9870d770351602e0",
+          "player_name": "丹尼尔·巴伦西亚",
+          "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
+          "team_name": "美洲队（卡利）",
+          "value": 3
+        },
+        {
+          "rank": 50,
+          "player_id": "asp_58e11609ded0476292a93e62ea9556c1",
+          "player_name": "马尔科·佩雷斯",
+          "team_id": "ast_db12bd2a254142ba8d80b3f87cf45cf5",
+          "team_name": "佩雷拉",
           "value": 3
         }
       ]
@@ -4129,7 +4129,7 @@
         "match_id": "as_9237a228151742a18e371e95c85fa10b",
         "date": "2026-10-21",
         "time": "23:15",
-        "status": "Not Started",
+        "status": "23:15",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4141,15 +4141,13 @@
           "name": "卡利体育",
           "team_id": "ast_f7a9559f489d49a990829229b659d955"
         },
-        "ht_score": "-",
-        "venue": "Estadio Bello Horizonte",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a7d116bd58db4124b235335837f35abb",
         "date": "2026-10-20",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4161,15 +4159,13 @@
           "name": "国民竞技",
           "team_id": "ast_456335a042874375864b6bbe473786d2"
         },
-        "ht_score": "-",
-        "venue": "桑坦德将军体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_85a9d4737c6a48efaef7ce5d174ac6a4",
         "date": "2026-10-20",
         "time": "01:05",
-        "status": "Not Started",
+        "status": "01:05",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4181,15 +4177,13 @@
           "name": "阿利安萨",
           "team_id": "ast_322f705023214effa5adf4d96e5a6142"
         },
-        "ht_score": "-",
-        "venue": "利伯塔德省体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d24fa12109474a6c909e540f7c06115e",
         "date": "2026-10-20",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4201,15 +4195,13 @@
           "name": "福塔雷萨",
           "team_id": "ast_7acd4a32ba2743b9a454c250bd1dd9c2"
         },
-        "ht_score": "-",
-        "venue": "特乔大都会体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3ba7156128a14495b165667d9865a52c",
         "date": "2026-10-20",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4221,15 +4213,13 @@
           "name": "奇科",
           "team_id": "ast_0550cfe57592457190742383da011612"
         },
-        "ht_score": "-",
-        "venue": "Santiago de las Atalayas",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0b98beef31dc43b28bf95993e181f264",
         "date": "2026-10-19",
         "time": "01:10",
-        "status": "Not Started",
+        "status": "01:10",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4241,15 +4231,13 @@
           "name": "青年",
           "team_id": "ast_2c299f4478224035904293082be2d2e1"
         },
-        "ht_score": "-",
-        "venue": "卡利体育体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_45d6d3641de1473fb972dfac16e956e6",
         "date": "2026-10-18",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4261,15 +4249,13 @@
           "name": "托利马体育",
           "team_id": "ast_3ad126e521324c9aad95a19771c325c7"
         },
-        "ht_score": "-",
-        "venue": "Estadio Cincuentenario",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d6ea2a0f5af24f4a9d395c3af86e18f4",
         "date": "2026-10-18",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4281,15 +4267,13 @@
           "name": "美洲队（卡利）",
           "team_id": "ast_829c97ff50444a71ac8269c744ec46d0"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_220b6a21b32f4404a9a8b0d2b70be3ad",
         "date": "2026-10-18",
         "time": "01:10",
-        "status": "Not Started",
+        "status": "01:10",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4301,15 +4285,13 @@
           "name": "翁斯卡尔达斯",
           "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4"
         },
-        "ht_score": "-",
-        "venue": "阿塔纳西奥·吉拉多特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_287ec6c9d63a4f859e391576915f3720",
         "date": "2026-10-18",
         "time": "23:05",
-        "status": "Not Started",
+        "status": "23:05",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4321,15 +4303,13 @@
           "name": "圣菲",
           "team_id": "ast_344e8de6baa8495a803963313b5b7d0c"
         },
-        "ht_score": "-",
-        "venue": "Estadio Bello Horizonte",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_995a6fc2ead84e1aa9b2bbaac4ef88b0",
         "date": "2026-10-17",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4341,9 +4321,7 @@
           "name": "国民竞技",
           "team_id": "ast_456335a042874375864b6bbe473786d2"
         },
-        "ht_score": "-",
-        "venue": "Estadio La Independencia",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1d3460be4cd347d083d64ad73639fee5",
@@ -4405,7 +4383,7 @@
         "match_id": "as_a54b4452ed4e41a691950f881dc71e07",
         "date": "2026-10-14",
         "time": "01:30",
-        "status": "01:30",
+        "status": "Postp.",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4417,13 +4395,14 @@
           "name": "翁斯卡尔达斯",
           "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_74c180c0e34b4d45b34295e6c582b234",
         "date": "2026-10-13",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -4435,7 +4414,10 @@
           "name": "阿圭拉斯",
           "team_id": "ast_73af39088e1c4b949951c57177e7ab61"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d6369c712e29407d8b1b126ba8a9d5d7",
@@ -12333,7 +12315,7 @@
         "match_id": "as_9237a228151742a18e371e95c85fa10b",
         "date": "2026-10-21",
         "time": "23:15",
-        "status": "Not Started",
+        "status": "23:15",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -12345,15 +12327,13 @@
           "name": "卡利体育",
           "team_id": "ast_f7a9559f489d49a990829229b659d955"
         },
-        "ht_score": "-",
-        "venue": "Estadio Bello Horizonte",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3ba7156128a14495b165667d9865a52c",
         "date": "2026-10-20",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -12365,9 +12345,7 @@
           "name": "奇科",
           "team_id": "ast_0550cfe57592457190742383da011612"
         },
-        "ht_score": "-",
-        "venue": "Santiago de las Atalayas",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -14465,13 +14443,13 @@
     }
   },
   "stats": {
-    "matches_completed": 330,
-    "total_goals": 844,
+    "matches_completed": 331,
+    "total_goals": 846,
     "avg_goals_per_match": 2.56,
     "home_wins": 148,
-    "draws": 103,
+    "draws": 104,
     "away_wins": 79,
-    "home_win_pct": 44.8,
+    "home_win_pct": 44.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14629,17 +14607,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_456335a042874375864b6bbe473786d2",
-            "team": "Atl. Nacional",
-            "played": 11,
-            "wins": 7,
-            "draws": 2,
-            "losses": 2,
+            "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
+            "team": "Bucaramanga",
+            "played": 12,
+            "wins": 6,
+            "draws": 6,
+            "losses": 0,
             "goals_for": 21,
-            "goals_against": 10,
-            "goal_difference": 11,
-            "points": 23,
-            "form": "DWDLW"
+            "goals_against": 11,
+            "goal_difference": 10,
+            "points": 24,
+            "form": "DWWWD"
           }
         ],
         "meta": {
@@ -15275,5 +15253,5 @@
     "matches_current_season": 394,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/13"
+  "updated_at": "2026/10/14"
 }
