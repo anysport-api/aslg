@@ -164,15 +164,15 @@
         "position": 2,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "Real Cundinamarca",
-        "played": 12,
+        "played": 13,
         "wins": 7,
-        "draws": 2,
+        "draws": 3,
         "losses": 3,
         "goals_for": 19,
         "goals_against": 11,
         "goal_difference": 8,
-        "points": 23,
-        "form": "LWWWW"
+        "points": 24,
+        "form": "DLWWW"
       },
       {
         "position": 3,
@@ -287,6 +287,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_af402a96df804de283974c62253523d4",
+        "team": "Bogota",
+        "played": 13,
+        "wins": 3,
+        "draws": 5,
+        "losses": 5,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 14,
+        "form": "DDDLW"
+      },
+      {
+        "position": 12,
         "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
         "team": "Envigado",
         "played": 12,
@@ -300,7 +314,7 @@
         "form": "DDDWD"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "U. Magdalena",
         "played": 12,
@@ -314,7 +328,7 @@
         "form": "DDWDW"
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
         "team": "Orsomarso",
         "played": 12,
@@ -326,20 +340,6 @@
         "goal_difference": -3,
         "points": 13,
         "form": "WLDLD"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_af402a96df804de283974c62253523d4",
-        "team": "Bogota",
-        "played": 12,
-        "wins": 3,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 9,
-        "goals_against": 13,
-        "goal_difference": -4,
-        "points": 13,
-        "form": "DDLWD"
       },
       {
         "position": 15,
@@ -390,16 +390,16 @@
         "position": 2,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "皇家昆迪纳马卡",
-        "played": 12,
+        "played": 13,
         "wins": 7,
-        "draws": 2,
+        "draws": 3,
         "losses": 3,
         "goals_for": 19,
         "goals_against": 11,
         "goal_difference": 8,
-        "points": 23,
-        "form": "LWWWW",
-        "form_label": "负胜胜胜胜"
+        "points": 24,
+        "form": "DLWWW",
+        "form_label": "平负胜胜胜"
       },
       {
         "position": 3,
@@ -522,6 +522,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_af402a96df804de283974c62253523d4",
+        "team": "波哥大",
+        "played": 13,
+        "wins": 3,
+        "draws": 5,
+        "losses": 5,
+        "goals_for": 9,
+        "goals_against": 13,
+        "goal_difference": -4,
+        "points": 14,
+        "form": "DDDLW",
+        "form_label": "平平平负胜"
+      },
+      {
+        "position": 12,
         "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
         "team": "恩维加多",
         "played": 12,
@@ -536,7 +551,7 @@
         "form_label": "平平平胜平"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "马格达莱纳大学",
         "played": 12,
@@ -551,7 +566,7 @@
         "form_label": "平平胜平胜"
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "ast_2044763c5c8241cf9fa6f5d9b8c9056a",
         "team": "奥尔索马尔索",
         "played": 12,
@@ -564,21 +579,6 @@
         "points": 13,
         "form": "WLDLD",
         "form_label": "胜负平负平"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_af402a96df804de283974c62253523d4",
-        "team": "波哥大",
-        "played": 12,
-        "wins": 3,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 9,
-        "goals_against": 13,
-        "goal_difference": -4,
-        "points": 13,
-        "form": "DDLWD",
-        "form_label": "平平负胜平"
       },
       {
         "position": 15,
@@ -950,30 +950,10 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
-        "date": "2026-10-17",
-        "time": "00:30",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "巴兰基亚",
-          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
-        },
-        "away": {
-          "name": "老虎队",
-          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Romelio Martinez",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_70ac8b164d5442df9104b1c9a82f95b9",
         "date": "2026-10-16",
-        "time": "22:15",
-        "status": "Not Started",
+        "time": "22:00",
+        "status": "22:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -985,15 +965,13 @@
           "name": "竞技F.C.",
           "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_95afd5d218374a599e7c19ac287ce656",
         "date": "2026-10-16",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1005,9 +983,25 @@
           "name": "卡塔赫纳",
           "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
         },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
+        "date": "2026-10-15",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "哥伦比亚B级联赛",
+        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
+        "season": "2026",
+        "home": {
+          "name": "巴兰基亚",
+          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
+        },
+        "away": {
+          "name": "老虎队",
+          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_4ba0451aaae644378ac067eaeb931572",
@@ -1085,7 +1079,7 @@
         "match_id": "as_803d8e9d427c452a8f6094709db5a311",
         "date": "2026-10-14",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -1097,7 +1091,10 @@
           "name": "波哥大",
           "team_id": "ast_af402a96df804de283974c62253523d4"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_02c35c08762a4d37a24b945e197ea553",
@@ -1117,7 +1114,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "丹尼尔·比亚·萨帕塔体育场",
         "status_label": "完场"
       },
       {
@@ -6504,30 +6501,10 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
-        "date": "2026-10-17",
-        "time": "00:30",
-        "status": "Not Started",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "巴兰基亚",
-          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
-        },
-        "away": {
-          "name": "老虎队",
-          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Romelio Martinez",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_95afd5d218374a599e7c19ac287ce656",
         "date": "2026-10-16",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6539,15 +6516,13 @@
           "name": "卡塔赫纳",
           "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
         },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_70ac8b164d5442df9104b1c9a82f95b9",
         "date": "2026-10-16",
-        "time": "22:15",
-        "status": "Not Started",
+        "time": "22:00",
+        "status": "22:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6559,9 +6534,7 @@
           "name": "竞技F.C.",
           "team_id": "ast_a817240226fe49dd847cf37e36b1fbf8"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_06b51307fb42404ca3afd4790418f9b7",
@@ -6636,20 +6609,20 @@
         "venue": ""
       },
       {
-        "match_id": "as_803d8e9d427c452a8f6094709db5a311",
-        "date": "2026-10-14",
-        "time": "22:00",
-        "status": "22:00",
+        "match_id": "as_d5b267c4818b4b5ab5298a53ca96a932",
+        "date": "2026-10-15",
+        "time": "21:00",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
         "home": {
-          "name": "皇家昆迪纳马卡",
-          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
+          "name": "巴兰基亚",
+          "team_id": "ast_2e8ab860c5f14858b25187fe73d2fe8a"
         },
         "away": {
-          "name": "波哥大",
-          "team_id": "ast_af402a96df804de283974c62253523d4"
+          "name": "老虎队",
+          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
         },
         "venue": ""
       }
@@ -11216,13 +11189,13 @@
     }
   },
   "stats": {
-    "matches_completed": 242,
+    "matches_completed": 243,
     "total_goals": 540,
-    "avg_goals_per_match": 2.23,
+    "avg_goals_per_match": 2.22,
     "home_wins": 88,
-    "draws": 77,
+    "draws": 78,
     "away_wins": 77,
-    "home_win_pct": 36.4,
+    "home_win_pct": 36.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11361,15 +11334,15 @@
             "position": 2,
             "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
             "team": "Real Cundinamarca",
-            "played": 12,
+            "played": 13,
             "wins": 7,
-            "draws": 2,
+            "draws": 3,
             "losses": 3,
             "goals_for": 19,
             "goals_against": 11,
             "goal_difference": 8,
-            "points": 23,
-            "form": "LWWWW"
+            "points": 24,
+            "form": "DLWWW"
           },
           {
             "position": 3,
@@ -12020,7 +11993,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 266,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/10/14"
+  "updated_at": "2026/10/15"
 }

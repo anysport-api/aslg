@@ -940,7 +940,7 @@
         "match_id": "as_948db6d3ce2a41b3badf0e9fa3a93d2c",
         "date": "2026-10-14",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -952,7 +952,10 @@
           "name": "斯波坎速度",
           "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "4-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a8775b651bf94541b509d2d87fc31c19",
@@ -6628,24 +6631,6 @@
         "ht_score": "-",
         "venue": "Ruoff Mortgage Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_948db6d3ce2a41b3badf0e9fa3a93d2c",
-        "date": "2026-10-14",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "美国USL联赛一",
-        "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
-        "season": "2026",
-        "home": {
-          "name": "格林维尔",
-          "team_id": "ast_12d04645977a4126acb9fe34cddd5c66"
-        },
-        "away": {
-          "name": "斯波坎速度",
-          "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7593,13 +7578,13 @@
     }
   },
   "stats": {
-    "matches_completed": 253,
-    "total_goals": 752,
-    "avg_goals_per_match": 2.97,
-    "home_wins": 129,
+    "matches_completed": 254,
+    "total_goals": 759,
+    "avg_goals_per_match": 2.99,
+    "home_wins": 130,
     "draws": 55,
     "away_wins": 69,
-    "home_win_pct": 51.0,
+    "home_win_pct": 51.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8396,7 +8381,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 17,
     "matches_current_season": 272,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/10/14"
+  "updated_at": "2026/10/15"
 }

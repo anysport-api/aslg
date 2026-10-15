@@ -1099,7 +1099,7 @@
         "match_id": "as_ff480322f05c4aee9851e553588927d2",
         "date": "2026-10-21",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Not Started",
         "league": "南美杯",
         "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
         "season": "2026",
@@ -1111,13 +1111,15 @@
           "name": "博卡青年",
           "team_id": "ast_09dc9f7c6ffb4813b85967ca02b544e3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4ce7144f64e945038e54bccc214e8e28",
         "date": "2026-10-21",
         "time": "22:00",
-        "status": "22:00",
+        "status": "Not Started",
         "league": "南美杯",
         "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
         "season": "2026",
@@ -1129,7 +1131,9 @@
           "name": "米内罗竞技",
           "team_id": "ast_6034686b882844f494c4ecf824610276"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "百年纪念体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_f5926d81ed4242f6aacb5094ec9faee5",
@@ -1156,7 +1160,7 @@
         "match_id": "as_e5d0469ba4f9471e8c05ccbbf6386a5d",
         "date": "2026-10-14",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "南美杯",
         "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
         "season": "2026",
@@ -1168,7 +1172,10 @@
           "name": "蒙得维的亚城",
           "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f54ea80f203d45e694cf91d42c977c28",
@@ -4374,7 +4381,7 @@
         "match_id": "as_4ce7144f64e945038e54bccc214e8e28",
         "date": "2026-10-21",
         "time": "22:00",
-        "status": "22:00",
+        "status": "Not Started",
         "league": "南美杯",
         "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
         "season": "2026",
@@ -4386,13 +4393,15 @@
           "name": "米内罗竞技",
           "team_id": "ast_6034686b882844f494c4ecf824610276"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "百年纪念体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ff480322f05c4aee9851e553588927d2",
         "date": "2026-10-21",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Not Started",
         "league": "南美杯",
         "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
         "season": "2026",
@@ -4404,46 +4413,9 @@
           "name": "博卡青年",
           "team_id": "ast_09dc9f7c6ffb4813b85967ca02b544e3"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e5d0469ba4f9471e8c05ccbbf6386a5d",
-        "date": "2026-10-14",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "南美杯",
-        "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
-        "season": "2026",
-        "home": {
-          "name": "米内罗竞技",
-          "team_id": "ast_6034686b882844f494c4ecf824610276"
-        },
-        "away": {
-          "name": "蒙得维的亚城",
-          "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f5926d81ed4242f6aacb5094ec9faee5",
-        "date": "2026-10-14",
-        "time": "00:30",
-        "status": "FT",
-        "league": "南美杯",
-        "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
-        "season": "2026",
-        "home": {
-          "name": "博卡青年",
-          "team_id": "ast_09dc9f7c6ffb4813b85967ca02b544e3"
-        },
-        "away": {
-          "name": "瓦斯科",
-          "team_id": "ast_d511729c95674c9bba43d10bf3493857"
-        },
-        "ht_score": "0-1",
-        "reg_score": "0-1",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       }
     ]
   },
@@ -7174,13 +7146,13 @@
     }
   },
   "stats": {
-    "matches_completed": 153,
-    "total_goals": 360,
-    "avg_goals_per_match": 2.35,
-    "home_wins": 71,
+    "matches_completed": 154,
+    "total_goals": 363,
+    "avg_goals_per_match": 2.36,
+    "home_wins": 72,
     "draws": 43,
     "away_wins": 39,
-    "home_win_pct": 46.4,
+    "home_win_pct": 46.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7944,7 +7916,7 @@
     "teams_all_time": 97,
     "standings_rows_current": 32,
     "matches_current_season": 156,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/10/14"
+  "updated_at": "2026/10/15"
 }

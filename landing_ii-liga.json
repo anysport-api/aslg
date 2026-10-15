@@ -310,6 +310,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_6068e14e2e9b40daa991d60ec339992f",
+        "team": "Legia II",
+        "played": 11,
+        "wins": 4,
+        "draws": 1,
+        "losses": 6,
+        "goals_for": 22,
+        "goals_against": 19,
+        "goal_difference": 3,
+        "points": 13,
+        "form": "DWWLL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1",
         "team": "S. Wola",
         "played": 11,
@@ -323,32 +337,18 @@
         "form": "WLWLD"
       },
       {
-        "position": 14,
-        "team_id": "ast_6068e14e2e9b40daa991d60ec339992f",
-        "team": "Legia II",
-        "played": 10,
-        "wins": 4,
-        "draws": 0,
-        "losses": 6,
-        "goals_for": 20,
-        "goals_against": 17,
-        "goal_difference": 3,
-        "points": 12,
-        "form": "WWLLL"
-      },
-      {
         "position": 15,
         "team_id": "ast_6891dbaceddc4aa985d998d67e8bc617",
         "team": "Slask Wroclaw II",
-        "played": 10,
+        "played": 11,
         "wins": 3,
-        "draws": 0,
+        "draws": 1,
         "losses": 7,
-        "goals_for": 17,
-        "goals_against": 20,
+        "goals_for": 19,
+        "goals_against": 22,
         "goal_difference": -3,
-        "points": 9,
-        "form": "LWLLL"
+        "points": 10,
+        "form": "DLWLL"
       },
       {
         "position": 16,
@@ -576,6 +576,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_6068e14e2e9b40daa991d60ec339992f",
+        "team": "莱吉亚二队",
+        "played": 11,
+        "wins": 4,
+        "draws": 1,
+        "losses": 6,
+        "goals_for": 22,
+        "goals_against": 19,
+        "goal_difference": 3,
+        "points": 13,
+        "form": "DWWLL",
+        "form_label": "平胜胜负负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1",
         "team": "沃拉",
         "played": 11,
@@ -590,34 +605,19 @@
         "form_label": "胜负胜负平"
       },
       {
-        "position": 14,
-        "team_id": "ast_6068e14e2e9b40daa991d60ec339992f",
-        "team": "莱吉亚二队",
-        "played": 10,
-        "wins": 4,
-        "draws": 0,
-        "losses": 6,
-        "goals_for": 20,
-        "goals_against": 17,
-        "goal_difference": 3,
-        "points": 12,
-        "form": "WWLLL",
-        "form_label": "胜胜负负负"
-      },
-      {
         "position": 15,
         "team_id": "ast_6891dbaceddc4aa985d998d67e8bc617",
         "team": "弗罗茨瓦夫斯拉斯克二队",
-        "played": 10,
+        "played": 11,
         "wins": 3,
-        "draws": 0,
+        "draws": 1,
         "losses": 7,
-        "goals_for": 17,
-        "goals_against": 20,
+        "goals_for": 19,
+        "goals_against": 22,
         "goal_difference": -3,
-        "points": 9,
-        "form": "LWLLL",
-        "form_label": "负胜负负负"
+        "points": 10,
+        "form": "DLWLL",
+        "form_label": "平负胜负负"
       },
       {
         "position": 16,
@@ -4827,7 +4827,7 @@
         "match_id": "as_aa518f1c690f41ecb10309b6f7792e80",
         "date": "2026-10-14",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -4839,7 +4839,10 @@
           "name": "莱吉亚二队",
           "team_id": "ast_6068e14e2e9b40daa991d60ec339992f"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_63eb19d147694610bdae250577b8ac19",
@@ -10932,13 +10935,13 @@
     }
   },
   "stats": {
-    "matches_completed": 98,
-    "total_goals": 303,
-    "avg_goals_per_match": 3.09,
+    "matches_completed": 99,
+    "total_goals": 307,
+    "avg_goals_per_match": 3.1,
     "home_wins": 43,
-    "draws": 24,
+    "draws": 25,
     "away_wins": 31,
-    "home_win_pct": 43.9,
+    "home_win_pct": 43.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11735,5 +11738,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/14"
+  "updated_at": "2026/10/15"
 }
