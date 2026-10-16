@@ -136,15 +136,15 @@
         "position": 6,
         "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
         "team": "Spokane Velocity",
-        "played": 28,
+        "played": 29,
         "wins": 15,
         "draws": 5,
-        "losses": 8,
-        "goals_for": 43,
-        "goals_against": 36,
-        "goal_difference": 7,
+        "losses": 9,
+        "goals_for": 46,
+        "goals_against": 40,
+        "goal_difference": 6,
         "points": 50,
-        "form": "WDWWD"
+        "form": "LWDWW"
       },
       {
         "position": 7,
@@ -260,6 +260,20 @@
       },
       {
         "position": 15,
+        "team_id": "ast_12d04645977a4126acb9fe34cddd5c66",
+        "team": "Greenville",
+        "played": 30,
+        "wins": 7,
+        "draws": 6,
+        "losses": 17,
+        "goals_for": 36,
+        "goals_against": 57,
+        "goal_difference": -21,
+        "points": 27,
+        "form": "WDLLL"
+      },
+      {
+        "position": 16,
         "team_id": "ast_121e3da961fd45e6a901ad9d0ad139d4",
         "team": "New York Cosmos",
         "played": 29,
@@ -271,20 +285,6 @@
         "goal_difference": -23,
         "points": 25,
         "form": "LLWLL"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_12d04645977a4126acb9fe34cddd5c66",
-        "team": "Greenville",
-        "played": 29,
-        "wins": 6,
-        "draws": 6,
-        "losses": 17,
-        "goals_for": 32,
-        "goals_against": 54,
-        "goal_difference": -22,
-        "points": 24,
-        "form": "DLLLL"
       },
       {
         "position": 17,
@@ -381,16 +381,16 @@
         "position": 6,
         "team_id": "ast_0ceb646c96fd470592b41d90f58f8087",
         "team": "斯波坎速度",
-        "played": 28,
+        "played": 29,
         "wins": 15,
         "draws": 5,
-        "losses": 8,
-        "goals_for": 43,
-        "goals_against": 36,
-        "goal_difference": 7,
+        "losses": 9,
+        "goals_for": 46,
+        "goals_against": 40,
+        "goal_difference": 6,
         "points": 50,
-        "form": "WDWWD",
-        "form_label": "胜平胜胜平"
+        "form": "LWDWW",
+        "form_label": "负胜平胜胜"
       },
       {
         "position": 7,
@@ -514,6 +514,21 @@
       },
       {
         "position": 15,
+        "team_id": "ast_12d04645977a4126acb9fe34cddd5c66",
+        "team": "格林维尔",
+        "played": 30,
+        "wins": 7,
+        "draws": 6,
+        "losses": 17,
+        "goals_for": 36,
+        "goals_against": 57,
+        "goal_difference": -21,
+        "points": 27,
+        "form": "WDLLL",
+        "form_label": "胜平负负负"
+      },
+      {
+        "position": 16,
         "team_id": "ast_121e3da961fd45e6a901ad9d0ad139d4",
         "team": "纽约宇宙",
         "played": 29,
@@ -526,21 +541,6 @@
         "points": 25,
         "form": "LLWLL",
         "form_label": "负负胜负负"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_12d04645977a4126acb9fe34cddd5c66",
-        "team": "格林维尔",
-        "played": 29,
-        "wins": 6,
-        "draws": 6,
-        "losses": 17,
-        "goals_for": 32,
-        "goals_against": 54,
-        "goal_difference": -22,
-        "points": 24,
-        "form": "DLLLL",
-        "form_label": "平负负负负"
       },
       {
         "position": 17,
@@ -740,7 +740,7 @@
         "match_id": "as_ce4b9fbfadd944e99cdce69398cd7c1d",
         "date": "2026-10-21",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -752,15 +752,13 @@
           "name": "那不勒斯足球俱乐部",
           "team_id": "ast_4a0a75cd92ce4527876a94091b4680a6"
         },
-        "ht_score": "-",
-        "venue": "Premier Sports Campus",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d3ca70e70c0e48f19ab6dc410c4e6238",
         "date": "2026-10-21",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -772,15 +770,13 @@
           "name": "斯波坎速度",
           "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
         },
-        "ht_score": "-",
-        "venue": "Hinchliffe Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_78a7e6cfb3c5420faf4823d978270ade",
         "date": "2026-10-18",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -792,15 +788,13 @@
           "name": "阿尔塔",
           "team_id": "ast_177e5db3092f4c658dba4c9c90dc257c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9c95f946a4424ecb82f646ad8afaf95a",
         "date": "2026-10-18",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -812,15 +806,13 @@
           "name": "查塔努加红狼",
           "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0"
         },
-        "ht_score": "-",
-        "venue": "斯波坎第一体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_90461139ab3b45c6a4dd9dbb3728449e",
         "date": "2026-10-17",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -832,15 +824,13 @@
           "name": "萨拉索塔天堂",
           "team_id": "ast_8ea614febfbb4bb0afe08e0ef2a8aaee"
         },
-        "ht_score": "-",
-        "venue": "Ruoff Mortgage Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0936b4df0e3247d1b53bdec883086882",
         "date": "2026-10-17",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -852,15 +842,13 @@
           "name": "波特兰松树之心",
           "team_id": "ast_8f1871a2a2a5424aa4ec77aa40dc86f7"
         },
-        "ht_score": "-",
-        "venue": "布里斯·史蒂文斯球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f0bb772a3c5f4491ab8896902adbb1e8",
         "date": "2026-10-17",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -872,15 +860,13 @@
           "name": "夏洛特独立队",
           "team_id": "ast_a015e53133d548dc86c208c749431062"
         },
-        "ht_score": "-",
-        "venue": "帕拉丁体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_09545bd255f8487fbbdc719671e0be26",
         "date": "2026-10-17",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -892,15 +878,13 @@
           "name": "一诺克斯维尔",
           "team_id": "ast_67ca191764e34e37b9068676cd68eef8"
         },
-        "ht_score": "-",
-        "venue": "Hinchliffe Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_34ae80bfe11e4c619a032e4cde1370a2",
         "date": "2026-10-17",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -912,15 +896,13 @@
           "name": "科珀斯克里斯蒂FC",
           "team_id": "ast_823076b75c184fd3bd73567609e69537"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2cedda8f74eb4942a29ed11d4b2f65dd",
         "date": "2026-10-17",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -932,9 +914,7 @@
           "name": "奥马哈联合",
           "team_id": "ast_fe728db455894a5dae22d922091f3e84"
         },
-        "ht_score": "-",
-        "venue": "纪念地体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_948db6d3ce2a41b3badf0e9fa3a93d2c",
@@ -6436,7 +6416,7 @@
         "match_id": "as_d3ca70e70c0e48f19ab6dc410c4e6238",
         "date": "2026-10-21",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6448,15 +6428,13 @@
           "name": "斯波坎速度",
           "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
         },
-        "ht_score": "-",
-        "venue": "Hinchliffe Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ce4b9fbfadd944e99cdce69398cd7c1d",
         "date": "2026-10-21",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6468,15 +6446,13 @@
           "name": "那不勒斯足球俱乐部",
           "team_id": "ast_4a0a75cd92ce4527876a94091b4680a6"
         },
-        "ht_score": "-",
-        "venue": "Premier Sports Campus",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9c95f946a4424ecb82f646ad8afaf95a",
         "date": "2026-10-18",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6488,15 +6464,13 @@
           "name": "查塔努加红狼",
           "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0"
         },
-        "ht_score": "-",
-        "venue": "斯波坎第一体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_78a7e6cfb3c5420faf4823d978270ade",
         "date": "2026-10-18",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6508,15 +6482,13 @@
           "name": "阿尔塔",
           "team_id": "ast_177e5db3092f4c658dba4c9c90dc257c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2cedda8f74eb4942a29ed11d4b2f65dd",
         "date": "2026-10-17",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6528,15 +6500,13 @@
           "name": "奥马哈联合",
           "team_id": "ast_fe728db455894a5dae22d922091f3e84"
         },
-        "ht_score": "-",
-        "venue": "纪念地体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_34ae80bfe11e4c619a032e4cde1370a2",
         "date": "2026-10-17",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6548,15 +6518,13 @@
           "name": "科珀斯克里斯蒂FC",
           "team_id": "ast_823076b75c184fd3bd73567609e69537"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_09545bd255f8487fbbdc719671e0be26",
         "date": "2026-10-17",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6568,15 +6536,13 @@
           "name": "一诺克斯维尔",
           "team_id": "ast_67ca191764e34e37b9068676cd68eef8"
         },
-        "ht_score": "-",
-        "venue": "Hinchliffe Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f0bb772a3c5f4491ab8896902adbb1e8",
         "date": "2026-10-17",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6588,15 +6554,13 @@
           "name": "夏洛特独立队",
           "team_id": "ast_a015e53133d548dc86c208c749431062"
         },
-        "ht_score": "-",
-        "venue": "帕拉丁体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0936b4df0e3247d1b53bdec883086882",
         "date": "2026-10-17",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6608,15 +6572,13 @@
           "name": "波特兰松树之心",
           "team_id": "ast_8f1871a2a2a5424aa4ec77aa40dc86f7"
         },
-        "ht_score": "-",
-        "venue": "布里斯·史蒂文斯球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_90461139ab3b45c6a4dd9dbb3728449e",
         "date": "2026-10-17",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6628,9 +6590,7 @@
           "name": "萨拉索塔天堂",
           "team_id": "ast_8ea614febfbb4bb0afe08e0ef2a8aaee"
         },
-        "ht_score": "-",
-        "venue": "Ruoff Mortgage Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -8383,5 +8343,5 @@
     "matches_current_season": 272,
     "upcoming_matches": 18
   },
-  "updated_at": "2026/10/15"
+  "updated_at": "2026/10/16"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_70d090e4b34241b8a9a21554d227bea9",
@@ -513,9 +513,9 @@
     "matches": [
       {
         "match_id": "as_8b96267b4e96455fa7b8b4f78345fb55",
-        "date": "2026-07-18",
-        "time": "22:00",
-        "status": "Postp.",
+        "date": "2026-10-16",
+        "time": "23:30",
+        "status": "23:30",
         "league": "智利联赛杯",
         "league_id": "asl_70d090e4b34241b8a9a21554d227bea9",
         "season": "2026",
@@ -527,8 +527,7 @@
           "name": "奥希金斯",
           "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc"
         },
-        "venue": "",
-        "status_label": "延期"
+        "venue": ""
       },
       {
         "match_id": "as_9b83d9462da14eb3a507e0a26f038222",
@@ -1627,7 +1626,26 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_8b96267b4e96455fa7b8b4f78345fb55",
+        "date": "2026-10-16",
+        "time": "23:30",
+        "status": "23:30",
+        "league": "智利联赛杯",
+        "league_id": "asl_70d090e4b34241b8a9a21554d227bea9",
+        "season": "2026",
+        "home": {
+          "name": "科基姆博",
+          "team_id": "ast_e79d2ce6e8e847149187ffc2b7478bf1"
+        },
+        "away": {
+          "name": "奥希金斯",
+          "team_id": "ast_94b772e32ee8474d9b40db03f67d2fbc"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -2777,6 +2795,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 53,
-    "upcoming_matches": 0
-  }
+    "upcoming_matches": 1
+  },
+  "updated_at": "2026/10/16"
 }

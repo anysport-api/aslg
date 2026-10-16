@@ -174,15 +174,15 @@
         "position": 1,
         "team_id": "ast_656ce94db2ed466f92549fb37713fdc2",
         "team": "Saprissa",
-        "played": 10,
-        "wins": 7,
+        "played": 11,
+        "wins": 8,
         "draws": 0,
         "losses": 3,
-        "goals_for": 20,
+        "goals_for": 26,
         "goals_against": 11,
-        "goal_difference": 9,
-        "points": 21,
-        "form": "LWLWW"
+        "goal_difference": 15,
+        "points": 24,
+        "form": "WLWLW"
       },
       {
         "position": 2,
@@ -202,15 +202,15 @@
         "position": 3,
         "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
         "team": "Sporting FC",
-        "played": 10,
+        "played": 11,
         "wins": 6,
         "draws": 2,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 19,
-        "goals_against": 9,
-        "goal_difference": 10,
+        "goals_against": 15,
+        "goal_difference": 4,
         "points": 20,
-        "form": "WWWLW"
+        "form": "LWWWL"
       },
       {
         "position": 4,
@@ -316,16 +316,16 @@
         "position": 1,
         "team_id": "ast_656ce94db2ed466f92549fb37713fdc2",
         "team": "萨普里萨",
-        "played": 10,
-        "wins": 7,
+        "played": 11,
+        "wins": 8,
         "draws": 0,
         "losses": 3,
-        "goals_for": 20,
+        "goals_for": 26,
         "goals_against": 11,
-        "goal_difference": 9,
-        "points": 21,
-        "form": "LWLWW",
-        "form_label": "负胜负胜胜"
+        "goal_difference": 15,
+        "points": 24,
+        "form": "WLWLW",
+        "form_label": "胜负胜负胜"
       },
       {
         "position": 2,
@@ -346,16 +346,16 @@
         "position": 3,
         "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
         "team": "圣荷西体育",
-        "played": 10,
+        "played": 11,
         "wins": 6,
         "draws": 2,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 19,
-        "goals_against": 9,
-        "goal_difference": 10,
+        "goals_against": 15,
+        "goal_difference": 4,
         "points": 20,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
+        "form": "LWWWL",
+        "form_label": "负胜胜胜负"
       },
       {
         "position": 4,
@@ -1185,7 +1185,7 @@
         "match_id": "as_5be91d3db1764f0c8218c47772c0fb7e",
         "date": "2026-10-16",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -1197,7 +1197,10 @@
           "name": "圣荷西体育",
           "team_id": "ast_056c40b6a94a4dac992925a91f0448fd"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "6-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_560a713da5854689a5a95897e4768f0b",
@@ -3177,7 +3180,7 @@
         "match_id": "as_5be91d3db1764f0c8218c47772c0fb7e",
         "date": "2026-10-16",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -3189,26 +3192,8 @@
           "name": "圣荷西体育",
           "team_id": "ast_056c40b6a94a4dac992925a91f0448fd"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_560a713da5854689a5a95897e4768f0b",
-        "date": "2026-10-15",
-        "time": "02:00",
-        "status": "FT",
-        "league": "哥斯达黎加甲级联赛",
-        "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿拉胡埃伦斯",
-          "team_id": "ast_362ecce906604e098df706316bc6ac47"
-        },
-        "away": {
-          "name": "埃雷迪亚诺",
-          "team_id": "ast_22625c8bf3824c78aa99ba82c98ce8c3"
-        },
-        "ht_score": "1-1",
-        "reg_score": "1-1",
+        "ht_score": "3-0",
+        "reg_score": "6-0",
         "venue": "",
         "status_label": "完场"
       }
@@ -7658,41 +7643,41 @@
     }
   },
   "stats": {
-    "matches_completed": 54,
-    "total_goals": 138,
-    "avg_goals_per_match": 2.56,
-    "home_wins": 26,
+    "matches_completed": 55,
+    "total_goals": 144,
+    "avg_goals_per_match": 2.62,
+    "home_wins": 27,
     "draws": 10,
     "away_wins": 18,
-    "home_win_pct": 48.1,
+    "home_win_pct": 49.1,
     "biggest_win": {
-      "margin": 5,
+      "margin": 6,
       "match": {
-        "match_id": "as_9c8143b807c542b3986e8e8ebbfde334",
-        "date": "2026-09-20",
-        "home_id": "ast_362ecce906604e098df706316bc6ac47",
-        "home": "阿拉胡埃伦斯",
-        "away_id": "ast_90b3a5e006da4d5e90410997d4f5375b",
-        "away": "国际圣卡洛斯",
-        "score": "5-0"
+        "match_id": "as_5be91d3db1764f0c8218c47772c0fb7e",
+        "date": "2026-10-16",
+        "home_id": "ast_656ce94db2ed466f92549fb37713fdc2",
+        "home": "萨普里萨",
+        "away_id": "ast_056c40b6a94a4dac992925a91f0448fd",
+        "away": "圣荷西体育",
+        "score": "6-0"
       }
     },
     "highest_scoring_match": {
       "goals": 6,
       "match": {
-        "match_id": "as_7e6bb072881045aeae3c4871a5cdf5fd",
-        "date": "2026-09-13",
-        "home_id": "ast_056c40b6a94a4dac992925a91f0448fd",
-        "home": "圣荷西体育",
-        "away_id": "ast_656ce94db2ed466f92549fb37713fdc2",
-        "away": "萨普里萨",
-        "score": "4-2"
+        "match_id": "as_5be91d3db1764f0c8218c47772c0fb7e",
+        "date": "2026-10-16",
+        "home_id": "ast_656ce94db2ed466f92549fb37713fdc2",
+        "home": "萨普里萨",
+        "away_id": "ast_056c40b6a94a4dac992925a91f0448fd",
+        "away": "圣荷西体育",
+        "score": "6-0"
       }
     },
     "leader": {
       "team": "Saprissa",
-      "points": 21,
-      "played": 10
+      "points": 24,
+      "played": 11
     }
   },
   "coverage": {
@@ -7789,15 +7774,15 @@
             "position": 1,
             "team_id": "ast_656ce94db2ed466f92549fb37713fdc2",
             "team": "Saprissa",
-            "played": 10,
-            "wins": 7,
+            "played": 11,
+            "wins": 8,
             "draws": 0,
             "losses": 3,
-            "goals_for": 20,
+            "goals_for": 26,
             "goals_against": 11,
-            "goal_difference": 9,
-            "points": 21,
-            "form": "LWLWW"
+            "goal_difference": 15,
+            "points": 24,
+            "form": "WLWLW"
           },
           {
             "position": 2,
@@ -7817,15 +7802,15 @@
             "position": 3,
             "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
             "team": "Sporting FC",
-            "played": 10,
+            "played": 11,
             "wins": 6,
             "draws": 2,
-            "losses": 2,
+            "losses": 3,
             "goals_for": 19,
-            "goals_against": 9,
-            "goal_difference": 10,
+            "goals_against": 15,
+            "goal_difference": 4,
             "points": 20,
-            "form": "WWWLW"
+            "form": "LWWWL"
           }
         ],
         "meta": {
@@ -8462,7 +8447,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 10,
     "matches_current_season": 97,
-    "upcoming_matches": 37
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/10/15"
+  "updated_at": "2026/10/16"
 }

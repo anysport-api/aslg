@@ -5650,6 +5650,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_2358d829b73a47269bab2f1230c94b9c",
+        "date": "2026-11-30",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "叙利亚甲级联赛",
+        "league_id": "asl_6f6a046206c84267aac24dc48c4015cb",
+        "season": "2026/2027",
+        "home": {
+          "name": "Al Nawaeir",
+          "team_id": "ast_44caccb0e6584b8e935273c9de75bc34"
+        },
+        "away": {
+          "name": "阿勒颇伊蒂哈德",
+          "team_id": "ast_839bc1559c6f497aa9f53e3083d53eed"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_9cbabe87e2b44c0badc5d6029772b0a6",
         "date": "2026-11-28",
         "time": "13:00",
@@ -6352,8 +6372,8 @@
       {
         "match_id": "as_d993325014014781938639b98355f5ce",
         "date": "2026-10-17",
-        "time": "12:00",
-        "status": "Not Started",
+        "time": "16:00",
+        "status": "16:00",
         "league": "叙利亚甲级联赛",
         "league_id": "asl_6f6a046206c84267aac24dc48c4015cb",
         "season": "2026/2027",
@@ -6365,9 +6385,7 @@
           "name": "霍里亚",
           "team_id": "ast_1b821699726146f8b8ec82462bf41cbc"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7b4ec03f2e624c439d7f596ca517937e",
@@ -6420,24 +6438,6 @@
         "away": {
           "name": "Al Nawaeir",
           "team_id": "ast_44caccb0e6584b8e935273c9de75bc34"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b68941381aab44b3a0e18f7944564d6b",
-        "date": "2026-10-15",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "叙利亚甲级联赛",
-        "league_id": "asl_6f6a046206c84267aac24dc48c4015cb",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔贾伊什",
-          "team_id": "ast_d674ae08a8ac4a19bd8d3512ddc82681"
-        },
-        "away": {
-          "name": "Qamishli",
-          "team_id": "ast_7bc0d482ac3a4d8f84549b6503b1e8a3"
         },
         "venue": ""
       }
@@ -9031,5 +9031,5 @@
     "matches_current_season": 240,
     "upcoming_matches": 40
   },
-  "updated_at": "2026/10/15"
+  "updated_at": "2026/10/16"
 }

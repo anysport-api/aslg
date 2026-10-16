@@ -178,6 +178,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
+        "team": "Luis Angel Firpo",
+        "played": 15,
+        "wins": 9,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 28,
+        "goals_against": 11,
+        "goal_difference": 17,
+        "points": 31,
+        "form": "WWDWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
         "team": "FAS",
         "played": 14,
@@ -189,20 +203,6 @@
         "goal_difference": 13,
         "points": 30,
         "form": "WWDWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
-        "team": "Luis Angel Firpo",
-        "played": 14,
-        "wins": 8,
-        "draws": 4,
-        "losses": 2,
-        "goals_for": 26,
-        "goals_against": 11,
-        "goal_difference": 15,
-        "points": 28,
-        "form": "WDWWD"
       },
       {
         "position": 3,
@@ -292,15 +292,15 @@
         "position": 9,
         "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
         "team": "Inca Aruba",
-        "played": 15,
+        "played": 16,
         "wins": 4,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 13,
-        "goals_against": 27,
-        "goal_difference": -14,
+        "goals_against": 29,
+        "goal_difference": -16,
         "points": 16,
-        "form": "LDWDW"
+        "form": "LLDWD"
       },
       {
         "position": 10,
@@ -348,6 +348,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
+        "team": "路易斯·安赫尔·菲尔波",
+        "played": 15,
+        "wins": 9,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 28,
+        "goals_against": 11,
+        "goal_difference": 17,
+        "points": 31,
+        "form": "WWDWW",
+        "form_label": "胜胜平胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
         "team": "FAS",
         "played": 14,
@@ -360,21 +375,6 @@
         "points": 30,
         "form": "WWDWW",
         "form_label": "胜胜平胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
-        "team": "路易斯·安赫尔·菲尔波",
-        "played": 14,
-        "wins": 8,
-        "draws": 4,
-        "losses": 2,
-        "goals_for": 26,
-        "goals_against": 11,
-        "goal_difference": 15,
-        "points": 28,
-        "form": "WDWWD",
-        "form_label": "胜平胜胜平"
       },
       {
         "position": 3,
@@ -470,16 +470,16 @@
         "position": 9,
         "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
         "team": "Inca Aruba",
-        "played": 15,
+        "played": 16,
         "wins": 4,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 13,
-        "goals_against": 27,
-        "goal_difference": -14,
+        "goals_against": 29,
+        "goal_difference": -16,
         "points": 16,
-        "form": "LDWDW",
-        "form_label": "负平胜平胜"
+        "form": "LLDWD",
+        "form_label": "负负平胜平"
       },
       {
         "position": 10,
@@ -1026,6 +1026,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_b442b32b38eb4077b545076a0f3198e5",
+        "date": "2026-11-05",
+        "time": "01:00",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "路易斯·安赫尔·菲尔波",
+          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
+        },
+        "away": {
+          "name": "阿利安萨",
+          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_ac488ddad0a74b13b4c9aab88084fb5c",
         "date": "2026-11-01",
         "time": "01:00",
@@ -1266,7 +1286,27 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_bdc21d595bfa4bc99d4a09273b0c32f7",
+        "match_id": "as_a5b8d896779d414582d82e237a39b69c",
+        "date": "2026-10-22",
+        "time": "01:30",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "FAS",
+          "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac"
+        },
+        "away": {
+          "name": "梅塔潘",
+          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6dd99330d6cf4a4d9eb52b4fdad9d5ba",
         "date": "2026-10-18",
         "time": "01:00",
         "status": "Not Started",
@@ -1274,12 +1314,12 @@
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
         "home": {
-          "name": "路易斯·安赫尔·菲尔波",
-          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
+          "name": "梅塔潘",
+          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
         },
         "away": {
-          "name": "Inca Aruba",
-          "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
+          "name": "富尔特圣弗朗西斯科",
+          "team_id": "ast_a22f732498a3448d8fa302992408de2c"
         },
         "ht_score": "-",
         "venue": "",
@@ -1329,7 +1369,7 @@
         "match_id": "as_b823ed645ccf494bbdcdcd5c691abc5d",
         "date": "2026-10-17",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1341,15 +1381,13 @@
           "name": "利梅诺市立队",
           "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9765d8097e0743a5aaa92acd17ce0a9c",
         "date": "2026-10-17",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1361,29 +1399,28 @@
           "name": "阿利安萨",
           "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
-        "match_id": "as_6dd99330d6cf4a4d9eb52b4fdad9d5ba",
-        "date": "2026-10-17",
-        "time": "23:00",
-        "status": "Not Started",
+        "match_id": "as_bdc21d595bfa4bc99d4a09273b0c32f7",
+        "date": "2026-10-16",
+        "time": "01:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
         "home": {
-          "name": "梅塔潘",
-          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
+          "name": "路易斯·安赫尔·菲尔波",
+          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
         },
         "away": {
-          "name": "富尔特圣弗朗西斯科",
-          "team_id": "ast_a22f732498a3448d8fa302992408de2c"
+          "name": "Inca Aruba",
+          "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
         },
-        "ht_score": "-",
+        "ht_score": "2-0",
+        "reg_score": "2-0",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_89d1a565bd384b808907b40c4cf025d8",
@@ -1699,25 +1736,6 @@
         "reg_score": "2-1",
         "venue": "",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_a5b8d896779d414582d82e237a39b69c",
-        "date": "2026-10-01",
-        "time": "02:00",
-        "status": "Postp.",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "FAS",
-          "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac"
-        },
-        "away": {
-          "name": "梅塔潘",
-          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_028883f1db934378ac996feb61e826ea",
@@ -2096,25 +2114,6 @@
         "reg_score": "2-2",
         "venue": "",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_b442b32b38eb4077b545076a0f3198e5",
-        "date": "2026-09-17",
-        "time": "01:00",
-        "status": "Postp.",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "路易斯·安赫尔·菲尔波",
-          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
-        },
-        "away": {
-          "name": "阿利安萨",
-          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_45812b85b6cb419193b35ddfd556673d",
@@ -3754,6 +3753,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_b442b32b38eb4077b545076a0f3198e5",
+        "date": "2026-11-05",
+        "time": "01:00",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "路易斯·安赫尔·菲尔波",
+          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
+        },
+        "away": {
+          "name": "阿利安萨",
+          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_456e7f5edb8441a584587fbc702a2655",
         "date": "2026-11-01",
         "time": "23:30",
@@ -3994,6 +4013,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_a5b8d896779d414582d82e237a39b69c",
+        "date": "2026-10-22",
+        "time": "01:30",
+        "status": "Not Started",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "FAS",
+          "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac"
+        },
+        "away": {
+          "name": "梅塔潘",
+          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_004993712ef84e55ae578b62d731eaeb",
         "date": "2026-10-18",
         "time": "23:30",
@@ -4034,29 +4073,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_bdc21d595bfa4bc99d4a09273b0c32f7",
+        "match_id": "as_6dd99330d6cf4a4d9eb52b4fdad9d5ba",
         "date": "2026-10-18",
         "time": "01:00",
-        "status": "Not Started",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "路易斯·安赫尔·菲尔波",
-          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
-        },
-        "away": {
-          "name": "Inca Aruba",
-          "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6dd99330d6cf4a4d9eb52b4fdad9d5ba",
-        "date": "2026-10-17",
-        "time": "23:00",
         "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
@@ -4077,7 +4096,7 @@
         "match_id": "as_9765d8097e0743a5aaa92acd17ce0a9c",
         "date": "2026-10-17",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -4089,15 +4108,13 @@
           "name": "阿利安萨",
           "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b823ed645ccf494bbdcdcd5c691abc5d",
         "date": "2026-10-17",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -4109,9 +4126,28 @@
           "name": "利梅诺市立队",
           "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
         },
-        "ht_score": "-",
+        "venue": ""
+      },
+      {
+        "match_id": "as_bdc21d595bfa4bc99d4a09273b0c32f7",
+        "date": "2026-10-16",
+        "time": "01:00",
+        "status": "FT",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "路易斯·安赫尔·菲尔波",
+          "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
+        },
+        "away": {
+          "name": "Inca Aruba",
+          "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
+        },
+        "ht_score": "2-0",
+        "reg_score": "2-0",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       }
     ]
   },
@@ -7927,13 +7963,13 @@
     }
   },
   "stats": {
-    "matches_completed": 88,
-    "total_goals": 233,
-    "avg_goals_per_match": 2.65,
-    "home_wins": 38,
+    "matches_completed": 89,
+    "total_goals": 235,
+    "avg_goals_per_match": 2.64,
+    "home_wins": 39,
     "draws": 27,
     "away_wins": 23,
-    "home_win_pct": 43.2,
+    "home_win_pct": 43.8,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7959,9 +7995,9 @@
       }
     },
     "leader": {
-      "team": "FAS",
-      "points": 30,
-      "played": 14
+      "team": "Luis Angel Firpo",
+      "points": 31,
+      "played": 15
     }
   },
   "coverage": {
@@ -8056,6 +8092,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
+            "team": "Luis Angel Firpo",
+            "played": 15,
+            "wins": 9,
+            "draws": 4,
+            "losses": 2,
+            "goals_for": 28,
+            "goals_against": 11,
+            "goal_difference": 17,
+            "points": 31,
+            "form": "WWDWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
             "team": "FAS",
             "played": 14,
@@ -8067,20 +8117,6 @@
             "goal_difference": 13,
             "points": 30,
             "form": "WWDWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1",
-            "team": "Luis Angel Firpo",
-            "played": 14,
-            "wins": 8,
-            "draws": 4,
-            "losses": 2,
-            "goals_for": 26,
-            "goals_against": 11,
-            "goal_difference": 15,
-            "points": 28,
-            "form": "WDWWD"
           },
           {
             "position": 3,
@@ -8722,7 +8758,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 42
+    "upcoming_matches": 44
   },
-  "updated_at": "2026/10/13"
+  "updated_at": "2026/10/16"
 }
