@@ -214,15 +214,15 @@
         "position": 6,
         "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
         "team": "Sp. Carapegua",
-        "played": 28,
+        "played": 29,
         "wins": 12,
         "draws": 6,
-        "losses": 10,
-        "goals_for": 36,
-        "goals_against": 41,
-        "goal_difference": -5,
+        "losses": 11,
+        "goals_for": 37,
+        "goals_against": 43,
+        "goal_difference": -6,
         "points": 42,
-        "form": "WDWDW"
+        "form": "LWDWD"
       },
       {
         "position": 7,
@@ -256,15 +256,15 @@
         "position": 9,
         "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
         "team": "Resistencia",
-        "played": 28,
-        "wins": 9,
+        "played": 29,
+        "wins": 10,
         "draws": 9,
         "losses": 10,
-        "goals_for": 32,
-        "goals_against": 33,
-        "goal_difference": -1,
-        "points": 36,
-        "form": "DWLLL"
+        "goals_for": 34,
+        "goals_against": 34,
+        "goal_difference": 0,
+        "points": 39,
+        "form": "WDWLL"
       },
       {
         "position": 10,
@@ -445,16 +445,16 @@
         "position": 6,
         "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472",
         "team": "卡拉佩瓜体育",
-        "played": 28,
+        "played": 29,
         "wins": 12,
         "draws": 6,
-        "losses": 10,
-        "goals_for": 36,
-        "goals_against": 41,
-        "goal_difference": -5,
+        "losses": 11,
+        "goals_for": 37,
+        "goals_against": 43,
+        "goal_difference": -6,
         "points": 42,
-        "form": "WDWDW",
-        "form_label": "胜平胜平胜"
+        "form": "LWDWD",
+        "form_label": "负胜平胜平"
       },
       {
         "position": 7,
@@ -490,16 +490,16 @@
         "position": 9,
         "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
         "team": "雷西斯滕西亚",
-        "played": 28,
-        "wins": 9,
+        "played": 29,
+        "wins": 10,
         "draws": 9,
         "losses": 10,
-        "goals_for": 32,
-        "goals_against": 33,
-        "goal_difference": -1,
-        "points": 36,
-        "form": "DWLLL",
-        "form_label": "平胜负负负"
+        "goals_for": 34,
+        "goals_against": 34,
+        "goal_difference": 0,
+        "points": 39,
+        "form": "WDWLL",
+        "form_label": "胜平胜负负"
       },
       {
         "position": 10,
@@ -729,7 +729,7 @@
         "match_id": "as_8c617d48a4184678acbb64110e1446d4",
         "date": "2026-10-18",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -741,9 +741,7 @@
           "name": "美洲之太阳",
           "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
         },
-        "ht_score": "-",
-        "venue": "阿塞尼奥·埃里科体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_68d974a9c6a844e1a08433fc751e7a12",
@@ -767,7 +765,7 @@
         "match_id": "as_ee1f4cf223604d46af4235a44ebac043",
         "date": "2026-10-16",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -779,7 +777,10 @@
           "name": "雷西斯滕西亚",
           "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4364d8471c9e4c11919b5dfc773ed176",
@@ -5591,7 +5592,7 @@
         "match_id": "as_8c617d48a4184678acbb64110e1446d4",
         "date": "2026-10-18",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -5603,9 +5604,7 @@
           "name": "美洲之太阳",
           "team_id": "ast_aa4729c0e0324fc68f5aeb39b4495fe9"
         },
-        "ht_score": "-",
-        "venue": "阿塞尼奥·埃里科体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_68d974a9c6a844e1a08433fc751e7a12",
@@ -5622,24 +5621,6 @@
         "away": {
           "name": "卡皮亚塔体育",
           "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ee1f4cf223604d46af4235a44ebac043",
-        "date": "2026-10-16",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "卡拉佩瓜体育",
-          "team_id": "ast_fa473eeb26c942f6afd4d8b5f2d48472"
-        },
-        "away": {
-          "name": "雷西斯滕西亚",
-          "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
         },
         "venue": ""
       }
@@ -10203,13 +10184,13 @@
     }
   },
   "stats": {
-    "matches_completed": 224,
-    "total_goals": 590,
-    "avg_goals_per_match": 2.63,
+    "matches_completed": 225,
+    "total_goals": 593,
+    "avg_goals_per_match": 2.64,
     "home_wins": 91,
     "draws": 61,
-    "away_wins": 72,
-    "home_win_pct": 40.6,
+    "away_wins": 73,
+    "home_win_pct": 40.4,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -10952,7 +10933,7 @@
     "teams_all_time": 52,
     "standings_rows_current": 16,
     "matches_current_season": 232,
-    "upcoming_matches": 8
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }

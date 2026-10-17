@@ -224,6 +224,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+        "team": "Radnik",
+        "played": 12,
+        "wins": 4,
+        "draws": 5,
+        "losses": 3,
+        "goals_for": 17,
+        "goals_against": 16,
+        "goal_difference": 1,
+        "points": 17,
+        "form": "WLDDD"
+      },
+      {
+        "position": 7,
         "team_id": "ast_2f3f7f46a7154db78856b2acec58aecf",
         "team": "Mladost",
         "played": 11,
@@ -235,20 +249,6 @@
         "goal_difference": -2,
         "points": 17,
         "form": "DWLWL"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-        "team": "Radnik",
-        "played": 11,
-        "wins": 3,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 16,
-        "goal_difference": -2,
-        "points": 14,
-        "form": "LDDDW"
       },
       {
         "position": 8,
@@ -324,15 +324,15 @@
         "position": 13,
         "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d",
         "team": "Radnicki Nis",
-        "played": 10,
+        "played": 11,
         "wins": 2,
         "draws": 2,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 7,
-        "goals_against": 15,
-        "goal_difference": -8,
+        "goals_against": 18,
+        "goal_difference": -11,
         "points": 8,
-        "form": "LLWLD"
+        "form": "LLLWL"
       },
       {
         "position": 14,
@@ -427,6 +427,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+        "team": "拉德尼克",
+        "played": 12,
+        "wins": 4,
+        "draws": 5,
+        "losses": 3,
+        "goals_for": 17,
+        "goals_against": 16,
+        "goal_difference": 1,
+        "points": 17,
+        "form": "WLDDD",
+        "form_label": "胜负平平平"
+      },
+      {
+        "position": 7,
         "team_id": "ast_2f3f7f46a7154db78856b2acec58aecf",
         "team": "姆拉多斯特",
         "played": 11,
@@ -439,21 +454,6 @@
         "points": 17,
         "form": "DWLWL",
         "form_label": "平胜负胜负"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-        "team": "拉德尼克",
-        "played": 11,
-        "wins": 3,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 16,
-        "goal_difference": -2,
-        "points": 14,
-        "form": "LDDDW",
-        "form_label": "负平平平胜"
       },
       {
         "position": 8,
@@ -534,16 +534,16 @@
         "position": 13,
         "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d",
         "team": "拉德尼基尼什",
-        "played": 10,
+        "played": 11,
         "wins": 2,
         "draws": 2,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 7,
-        "goals_against": 15,
-        "goal_difference": -8,
+        "goals_against": 18,
+        "goal_difference": -11,
         "points": 8,
-        "form": "LLWLD",
-        "form_label": "负负胜负平"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 14,
@@ -567,19 +567,19 @@
       "en": [
         {
           "rank": 1,
+          "player_id": "asp_2f677cdaa75d49a499cb6352ceb371e0",
+          "player_name": "Bogdanovic Vukasin",
+          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+          "team_name": "Radnik Surdulica",
+          "value": 6
+        },
+        {
+          "rank": 2,
           "player_id": "asp_9350bd8f9f5541fcb7f815b8e9b247a6",
           "player_name": "Silue Yacouba",
           "team_id": "ast_56dad4c70fde4a7e94fbfdbca3e46789",
           "team_name": "OFK Belgrade",
           "value": 6
-        },
-        {
-          "rank": 2,
-          "player_id": "asp_2f677cdaa75d49a499cb6352ceb371e0",
-          "player_name": "Bogdanovic Vukasin",
-          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-          "team_name": "Radnik Surdulica",
-          "value": 5
         },
         {
           "rank": 3,
@@ -599,14 +599,6 @@
         },
         {
           "rank": 5,
-          "player_id": "asp_f1e89c0200364983ba69c116a7330d98",
-          "player_name": "Miladinovic Uros",
-          "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a",
-          "team_name": "Cukaricki Belgrade",
-          "value": 4
-        },
-        {
-          "rank": 6,
           "player_id": "asp_2f75573eff354f6c9b7d16269277d4a8",
           "player_name": "Tasovski Vasil",
           "team_id": "ast_2f3f7f46a7154db78856b2acec58aecf",
@@ -614,7 +606,7 @@
           "value": 4
         },
         {
-          "rank": 7,
+          "rank": 6,
           "player_id": "asp_c8628ef28eee4f79a00dcfd5235e7b62",
           "player_name": "Vasilije Kostov",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -622,11 +614,19 @@
           "value": 4
         },
         {
-          "rank": 8,
+          "rank": 7,
           "player_id": "asp_ea87403b948a42c48fd824b1af917337",
           "player_name": "Nardin Mulahusejnovic",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
           "team_name": "Vojvodina",
+          "value": 4
+        },
+        {
+          "rank": 8,
+          "player_id": "asp_f1e89c0200364983ba69c116a7330d98",
+          "player_name": "Miladinovic Uros",
+          "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a",
+          "team_name": "Cukaricki Belgrade",
           "value": 4
         },
         {
@@ -655,6 +655,14 @@
         },
         {
           "rank": 12,
+          "player_id": "asp_40bccc36246340079938fcb03c14f706",
+          "player_name": "M. Novaković",
+          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+          "team_name": "Radnik Surdulica",
+          "value": 3
+        },
+        {
+          "rank": 13,
           "player_id": "asp_9132b835ebc743ae99d6ebebe0b228e3",
           "player_name": "Kolarević Milan",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -662,7 +670,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_4a353e6edfbf4b55bc6af330de5af4b1",
           "player_name": "Sukačev Petar",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -670,7 +678,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_f264c678f2b245a68b650d594f3dfc42",
           "player_name": "Kojzek Erik",
           "team_id": "ast_433a190211c948cf9032105e2677c837",
@@ -678,7 +686,7 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_3d205d8932ea438e849d1558980f824a",
           "player_name": "Sremcevic Uros",
           "team_id": "ast_30640f36f4d34a8fb3a7e4c096af6f38",
@@ -686,7 +694,7 @@
           "value": 3
         },
         {
-          "rank": 16,
+          "rank": 17,
           "player_id": "asp_532f2b5767d84656b44471642538db64",
           "player_name": "Jevremovic Janko",
           "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b",
@@ -694,7 +702,7 @@
           "value": 2
         },
         {
-          "rank": 17,
+          "rank": 18,
           "player_id": "asp_343abf1253624d0d928108dd44c4534e",
           "player_name": "Mirko Ivanic",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -702,7 +710,7 @@
           "value": 2
         },
         {
-          "rank": 18,
+          "rank": 19,
           "player_id": "asp_1b8cb33ec0fa469bb1b0aaf5f98d0696",
           "player_name": "Šarić Dimitrije",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -710,7 +718,7 @@
           "value": 2
         },
         {
-          "rank": 19,
+          "rank": 20,
           "player_id": "asp_179ffa0b803547c6936623f64f0d8da9",
           "player_name": "Jeh",
           "team_id": "ast_433a190211c948cf9032105e2677c837",
@@ -718,7 +726,7 @@
           "value": 2
         },
         {
-          "rank": 20,
+          "rank": 21,
           "player_id": "asp_4c6d66c4a05a46e08cff2ccc8830de2c",
           "player_name": "Quarshie Emmanuel",
           "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
@@ -726,7 +734,7 @@
           "value": 2
         },
         {
-          "rank": 21,
+          "rank": 22,
           "player_id": "asp_68fbffc987f24fb4aac4f748ef9d613a",
           "player_name": "A. Shestyuk",
           "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d",
@@ -734,7 +742,7 @@
           "value": 2
         },
         {
-          "rank": 22,
+          "rank": 23,
           "player_id": "asp_10de6ea3971f4234bde0adc1c8fd2c3c",
           "player_name": "Kokanović Dragan",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -742,7 +750,7 @@
           "value": 2
         },
         {
-          "rank": 23,
+          "rank": 24,
           "player_id": "asp_00c2d7e885fb4b559af509dab6b6e593",
           "player_name": "Glišić Nikola",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
@@ -750,7 +758,7 @@
           "value": 2
         },
         {
-          "rank": 24,
+          "rank": 25,
           "player_id": "asp_fa4a5e9d6bfb41d0a52c666f95c95c5e",
           "player_name": "L. Loizou",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -758,7 +766,7 @@
           "value": 2
         },
         {
-          "rank": 25,
+          "rank": 26,
           "player_id": "asp_db93287750f943aea833b5b26edfa7cf",
           "player_name": "Marko Arnautovic",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -766,19 +774,11 @@
           "value": 2
         },
         {
-          "rank": 26,
+          "rank": 27,
           "player_id": "asp_4be9fabc4aac430486b4c20dbcfe98d2",
           "player_name": "Fani Abu",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
           "team_name": "Crvena Zvezda",
-          "value": 2
-        },
-        {
-          "rank": 27,
-          "player_id": "asp_40bccc36246340079938fcb03c14f706",
-          "player_name": "M. Novaković",
-          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-          "team_name": "Radnik Surdulica",
           "value": 2
         },
         {
@@ -903,6 +903,14 @@
         },
         {
           "rank": 43,
+          "player_id": "asp_da56323869a94fc5afe1a25b6854b155",
+          "player_name": "A. Pejović",
+          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+          "team_name": "Radnik Surdulica",
+          "value": 2
+        },
+        {
+          "rank": 44,
           "player_id": "asp_3cd0721c52dd4d438b1b1bf2e5e8c528",
           "player_name": "C. Keita",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
@@ -910,7 +918,7 @@
           "value": 2
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_d5c8bd4177c444409d3c9662533aa050",
           "player_name": "Cojić Tadija",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
@@ -918,7 +926,7 @@
           "value": 2
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_cc445f17c0a7458581455ba4be271dc1",
           "player_name": "Papa Gadio",
           "team_id": "ast_6e2842a7a8704c67a973760a1777db61",
@@ -926,7 +934,7 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 47,
           "player_id": "asp_478a46487088413aa7df38b8a770dbd7",
           "player_name": "I. Mustapha",
           "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d",
@@ -934,7 +942,7 @@
           "value": 1
         },
         {
-          "rank": 47,
+          "rank": 48,
           "player_id": "asp_7ec9549ae8be42c7bf3f92f17838887d",
           "player_name": "M. Ergelas",
           "team_id": "ast_860046e6eefd4855bbf70a1a42564d6e",
@@ -942,7 +950,7 @@
           "value": 1
         },
         {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_adaf466ca7e04c9fabf9c7230a7d3950",
           "player_name": "S. Stanisavljevic",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -950,38 +958,30 @@
           "value": 1
         },
         {
-          "rank": 49,
+          "rank": 50,
           "player_id": "asp_fc1ea2c799474e9bb3864f6910d34f97",
           "player_name": "Lebi Oriyomi",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
           "team_name": "IMT Novi Beograd",
-          "value": 1
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_2e700323b7424cb1bd71afc5ca64a7f7",
-          "player_name": "M. Meskhi",
-          "team_id": "ast_686dea58c7ab427f8101f43c105e7971",
-          "team_name": "Zemun",
           "value": 1
         }
       ],
       "zh": [
         {
           "rank": 1,
+          "player_id": "asp_2f677cdaa75d49a499cb6352ceb371e0",
+          "player_name": "Bogdanovic Vukasin",
+          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+          "team_name": "拉德尼克",
+          "value": 6
+        },
+        {
+          "rank": 2,
           "player_id": "asp_9350bd8f9f5541fcb7f815b8e9b247a6",
           "player_name": "Silue Yacouba",
           "team_id": "ast_56dad4c70fde4a7e94fbfdbca3e46789",
           "team_name": "贝尔格莱德OFK莫扎特投注",
           "value": 6
-        },
-        {
-          "rank": 2,
-          "player_id": "asp_2f677cdaa75d49a499cb6352ceb371e0",
-          "player_name": "Bogdanovic Vukasin",
-          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-          "team_name": "拉德尼克",
-          "value": 5
         },
         {
           "rank": 3,
@@ -1001,14 +1001,6 @@
         },
         {
           "rank": 5,
-          "player_id": "asp_f1e89c0200364983ba69c116a7330d98",
-          "player_name": "Miladinovic Uros",
-          "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a",
-          "team_name": "丘卡里基",
-          "value": 4
-        },
-        {
-          "rank": 6,
           "player_id": "asp_2f75573eff354f6c9b7d16269277d4a8",
           "player_name": "Tasovski Vasil",
           "team_id": "ast_2f3f7f46a7154db78856b2acec58aecf",
@@ -1016,7 +1008,7 @@
           "value": 4
         },
         {
-          "rank": 7,
+          "rank": 6,
           "player_id": "asp_c8628ef28eee4f79a00dcfd5235e7b62",
           "player_name": "瓦西里耶·科斯托夫",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -1024,11 +1016,19 @@
           "value": 4
         },
         {
-          "rank": 8,
+          "rank": 7,
           "player_id": "asp_ea87403b948a42c48fd824b1af917337",
           "player_name": "纳尔丁·穆拉胡塞伊诺维奇",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
           "team_name": "沃伊伏丁娜",
+          "value": 4
+        },
+        {
+          "rank": 8,
+          "player_id": "asp_f1e89c0200364983ba69c116a7330d98",
+          "player_name": "Miladinovic Uros",
+          "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a",
+          "team_name": "丘卡里基",
           "value": 4
         },
         {
@@ -1057,6 +1057,14 @@
         },
         {
           "rank": 12,
+          "player_id": "asp_40bccc36246340079938fcb03c14f706",
+          "player_name": "马丁·诺瓦科维奇",
+          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+          "team_name": "拉德尼克",
+          "value": 3
+        },
+        {
+          "rank": 13,
           "player_id": "asp_9132b835ebc743ae99d6ebebe0b228e3",
           "player_name": "米兰·科拉列维奇",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -1064,7 +1072,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_4a353e6edfbf4b55bc6af330de5af4b1",
           "player_name": "佩塔尔·苏卡切夫",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -1072,7 +1080,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_f264c678f2b245a68b650d594f3dfc42",
           "player_name": "埃里克·科伊泽克",
           "team_id": "ast_433a190211c948cf9032105e2677c837",
@@ -1080,7 +1088,7 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_3d205d8932ea438e849d1558980f824a",
           "player_name": "Sremcevic Uros",
           "team_id": "ast_30640f36f4d34a8fb3a7e4c096af6f38",
@@ -1088,7 +1096,7 @@
           "value": 3
         },
         {
-          "rank": 16,
+          "rank": 17,
           "player_id": "asp_532f2b5767d84656b44471642538db64",
           "player_name": "扬科·耶夫雷莫维奇",
           "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b",
@@ -1096,7 +1104,7 @@
           "value": 2
         },
         {
-          "rank": 17,
+          "rank": 18,
           "player_id": "asp_343abf1253624d0d928108dd44c4534e",
           "player_name": "米尔科·伊万尼奇",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -1104,7 +1112,7 @@
           "value": 2
         },
         {
-          "rank": 18,
+          "rank": 19,
           "player_id": "asp_1b8cb33ec0fa469bb1b0aaf5f98d0696",
           "player_name": "迪米特里·萨里奇",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -1112,7 +1120,7 @@
           "value": 2
         },
         {
-          "rank": 19,
+          "rank": 20,
           "player_id": "asp_179ffa0b803547c6936623f64f0d8da9",
           "player_name": "杰赫",
           "team_id": "ast_433a190211c948cf9032105e2677c837",
@@ -1120,7 +1128,7 @@
           "value": 2
         },
         {
-          "rank": 20,
+          "rank": 21,
           "player_id": "asp_4c6d66c4a05a46e08cff2ccc8830de2c",
           "player_name": "埃马纽埃尔·夸尔希",
           "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
@@ -1128,7 +1136,7 @@
           "value": 2
         },
         {
-          "rank": 21,
+          "rank": 22,
           "player_id": "asp_68fbffc987f24fb4aac4f748ef9d613a",
           "player_name": "亚历山大·谢斯丘克",
           "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d",
@@ -1136,7 +1144,7 @@
           "value": 2
         },
         {
-          "rank": 22,
+          "rank": 23,
           "player_id": "asp_10de6ea3971f4234bde0adc1c8fd2c3c",
           "player_name": "Kokanović Dragan",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -1144,7 +1152,7 @@
           "value": 2
         },
         {
-          "rank": 23,
+          "rank": 24,
           "player_id": "asp_00c2d7e885fb4b559af509dab6b6e593",
           "player_name": "尼古拉·格利西奇",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
@@ -1152,7 +1160,7 @@
           "value": 2
         },
         {
-          "rank": 24,
+          "rank": 25,
           "player_id": "asp_fa4a5e9d6bfb41d0a52c666f95c95c5e",
           "player_name": "洛伊佐斯·洛伊祖",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -1160,7 +1168,7 @@
           "value": 2
         },
         {
-          "rank": 25,
+          "rank": 26,
           "player_id": "asp_db93287750f943aea833b5b26edfa7cf",
           "player_name": "马尔科·阿尔纳乌托维奇",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
@@ -1168,19 +1176,11 @@
           "value": 2
         },
         {
-          "rank": 26,
+          "rank": 27,
           "player_id": "asp_4be9fabc4aac430486b4c20dbcfe98d2",
           "player_name": "穆罕默德·阿布·法尼",
           "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0",
           "team_name": "红星",
-          "value": 2
-        },
-        {
-          "rank": 27,
-          "player_id": "asp_40bccc36246340079938fcb03c14f706",
-          "player_name": "马丁·诺瓦科维奇",
-          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-          "team_name": "拉德尼克",
           "value": 2
         },
         {
@@ -1305,6 +1305,14 @@
         },
         {
           "rank": 43,
+          "player_id": "asp_da56323869a94fc5afe1a25b6854b155",
+          "player_name": "亚历山大·佩约维奇",
+          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+          "team_name": "拉德尼克",
+          "value": 2
+        },
+        {
+          "rank": 44,
           "player_id": "asp_3cd0721c52dd4d438b1b1bf2e5e8c528",
           "player_name": "查理·凯塔",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
@@ -1312,7 +1320,7 @@
           "value": 2
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_d5c8bd4177c444409d3c9662533aa050",
           "player_name": "塔迪亚·科伊奇",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
@@ -1320,7 +1328,7 @@
           "value": 2
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_cc445f17c0a7458581455ba4be271dc1",
           "player_name": "爸爸·加迪奥",
           "team_id": "ast_6e2842a7a8704c67a973760a1777db61",
@@ -1328,7 +1336,7 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 47,
           "player_id": "asp_478a46487088413aa7df38b8a770dbd7",
           "player_name": "易卜拉欣·穆斯塔法",
           "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d",
@@ -1336,7 +1344,7 @@
           "value": 1
         },
         {
-          "rank": 47,
+          "rank": 48,
           "player_id": "asp_7ec9549ae8be42c7bf3f92f17838887d",
           "player_name": "米塔尔·埃尔格拉斯",
           "team_id": "ast_860046e6eefd4855bbf70a1a42564d6e",
@@ -1344,7 +1352,7 @@
           "value": 1
         },
         {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_adaf466ca7e04c9fabf9c7230a7d3950",
           "player_name": "斯特凡·斯坦尼斯拉夫列维奇",
           "team_id": "ast_d998643872474a14a5d3078a15ad9028",
@@ -1352,19 +1360,11 @@
           "value": 1
         },
         {
-          "rank": 49,
+          "rank": 50,
           "player_id": "asp_fc1ea2c799474e9bb3864f6910d34f97",
           "player_name": "Lebi Oriyomi",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477",
           "team_name": "IMT诺维贝尔格莱德",
-          "value": 1
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_2e700323b7424cb1bd71afc5ca64a7f7",
-          "player_name": "米哈伊尔·梅斯基",
-          "team_id": "ast_686dea58c7ab427f8101f43c105e7971",
-          "team_name": "泽蒙",
           "value": 1
         }
       ]
@@ -4682,7 +4682,7 @@
           "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Vozdovac Stadium",
         "status_label": "未开赛"
       },
       {
@@ -4806,23 +4806,23 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_33edf2a9cee34018a16a772de5848ccc",
-        "date": "2026-10-24",
-        "time": "16:00",
+        "match_id": "as_5c3e11db0763453eafdec81e05017969",
+        "date": "2026-10-25",
+        "time": "15:00",
         "status": "Not Started",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
         "home": {
-          "name": "IMT诺维贝尔格莱德",
-          "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477"
+          "name": "贝尔格莱德OFK莫扎特投注",
+          "team_id": "ast_56dad4c70fde4a7e94fbfdbca3e46789"
         },
         "away": {
-          "name": "泽列兹尼察潘切沃",
-          "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b"
+          "name": "红星",
+          "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Omladinski Stadion",
         "status_label": "未开赛"
       },
       {
@@ -4846,29 +4846,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_5c3e11db0763453eafdec81e05017969",
-        "date": "2026-10-24",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "贝尔格莱德OFK莫扎特投注",
-          "team_id": "ast_56dad4c70fde4a7e94fbfdbca3e46789"
-        },
-        "away": {
-          "name": "红星",
-          "team_id": "ast_d170a3497eb34a85b354f199b9e6b6d0"
-        },
-        "ht_score": "-",
-        "venue": "Omladinski Stadion",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_ede007e2b9004941a6e3856ed31edd59",
         "date": "2026-10-24",
-        "time": "16:00",
+        "time": "14:00",
         "status": "Not Started",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
@@ -4886,8 +4866,28 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_33edf2a9cee34018a16a772de5848ccc",
+        "date": "2026-10-23",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "塞尔维亚超级联赛",
+        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
+        "season": "2026/2027",
+        "home": {
+          "name": "IMT诺维贝尔格莱德",
+          "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477"
+        },
+        "away": {
+          "name": "泽列兹尼察潘切沃",
+          "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b"
+        },
+        "ht_score": "-",
+        "venue": "Vozdovac Stadium",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_80af5e97727e4182a4914899fb284d66",
-        "date": "2026-10-24",
+        "date": "2026-10-23",
         "time": "16:00",
         "status": "Not Started",
         "league": "塞尔维亚超级联赛",
@@ -4907,7 +4907,7 @@
       },
       {
         "match_id": "as_7a21d43f1be54ec084f938665df89b32",
-        "date": "2026-10-24",
+        "date": "2026-10-23",
         "time": "16:00",
         "status": "Not Started",
         "league": "塞尔维亚超级联赛",
@@ -4927,7 +4927,7 @@
       },
       {
         "match_id": "as_1f342b2765af447b981b0f8e357ce31f",
-        "date": "2026-10-24",
+        "date": "2026-10-23",
         "time": "16:00",
         "status": "Not Started",
         "league": "塞尔维亚超级联赛",
@@ -4949,7 +4949,7 @@
         "match_id": "as_b7dc5da6bcaf4c5f8b3a78981287ab19",
         "date": "2026-10-18",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -4961,15 +4961,13 @@
           "name": "姆拉多斯特",
           "team_id": "ast_2f3f7f46a7154db78856b2acec58aecf"
         },
-        "ht_score": "-",
-        "venue": "Stadion Rajko Mit",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_36f773bd50914f20b916b35c65714d0e",
         "date": "2026-10-18",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -4981,15 +4979,13 @@
           "name": "IMT诺维贝尔格莱德",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_07c20e4cf15c4535b80fcf77c4e5fb17",
         "date": "2026-10-18",
         "time": "16:30",
-        "status": "Not Started",
+        "status": "16:30",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -5001,9 +4997,7 @@
           "name": "帕尔蒂赞",
           "team_id": "ast_433a190211c948cf9032105e2677c837"
         },
-        "ht_score": "-",
-        "venue": "青春体育休闲中心",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1272c95c472c4a35a6ed26331dc1d509",
@@ -5063,7 +5057,7 @@
         "match_id": "as_f27a84fff61047a980aa61f1d02a936b",
         "date": "2026-10-16",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -5075,7 +5069,10 @@
           "name": "拉德尼基尼什",
           "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8037569406f9473ab6140ef9a6fdbb4a",
@@ -7249,93 +7246,13 @@
           "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a"
         },
         "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_1f342b2765af447b981b0f8e357ce31f",
-        "date": "2026-10-24",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "泽蒙",
-          "team_id": "ast_686dea58c7ab427f8101f43c105e7971"
-        },
-        "away": {
-          "name": "马茨瓦",
-          "team_id": "ast_860046e6eefd4855bbf70a1a42564d6e"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_7a21d43f1be54ec084f938665df89b32",
-        "date": "2026-10-24",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "拉德尼基尼什",
-          "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d"
-        },
-        "away": {
-          "name": "诺维帕扎尔",
-          "team_id": "ast_6e2842a7a8704c67a973760a1777db61"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_80af5e97727e4182a4914899fb284d66",
-        "date": "2026-10-24",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "拉德尼基1923",
-          "team_id": "ast_30640f36f4d34a8fb3a7e4c096af6f38"
-        },
-        "away": {
-          "name": "拉德尼克",
-          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_ede007e2b9004941a6e3856ed31edd59",
-        "date": "2026-10-24",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "帕尔蒂赞",
-          "team_id": "ast_433a190211c948cf9032105e2677c837"
-        },
-        "away": {
-          "name": "丘卡里基",
-          "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a"
-        },
-        "ht_score": "-",
-        "venue": "游击队体育场",
+        "venue": "Vozdovac Stadium",
         "status_label": "未开赛"
       },
       {
         "match_id": "as_5c3e11db0763453eafdec81e05017969",
-        "date": "2026-10-24",
-        "time": "16:00",
+        "date": "2026-10-25",
+        "time": "15:00",
         "status": "Not Started",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
@@ -7350,6 +7267,26 @@
         },
         "ht_score": "-",
         "venue": "Omladinski Stadion",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ede007e2b9004941a6e3856ed31edd59",
+        "date": "2026-10-24",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "塞尔维亚超级联赛",
+        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
+        "season": "2026/2027",
+        "home": {
+          "name": "帕尔蒂赞",
+          "team_id": "ast_433a190211c948cf9032105e2677c837"
+        },
+        "away": {
+          "name": "丘卡里基",
+          "team_id": "ast_7221e343c8f144a3a74d9baf87a9fd2a"
+        },
+        "ht_score": "-",
+        "venue": "游击队体育场",
         "status_label": "未开赛"
       },
       {
@@ -7373,8 +7310,68 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_1f342b2765af447b981b0f8e357ce31f",
+        "date": "2026-10-23",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "塞尔维亚超级联赛",
+        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
+        "season": "2026/2027",
+        "home": {
+          "name": "泽蒙",
+          "team_id": "ast_686dea58c7ab427f8101f43c105e7971"
+        },
+        "away": {
+          "name": "马茨瓦",
+          "team_id": "ast_860046e6eefd4855bbf70a1a42564d6e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7a21d43f1be54ec084f938665df89b32",
+        "date": "2026-10-23",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "塞尔维亚超级联赛",
+        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
+        "season": "2026/2027",
+        "home": {
+          "name": "拉德尼基尼什",
+          "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d"
+        },
+        "away": {
+          "name": "诺维帕扎尔",
+          "team_id": "ast_6e2842a7a8704c67a973760a1777db61"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_80af5e97727e4182a4914899fb284d66",
+        "date": "2026-10-23",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "塞尔维亚超级联赛",
+        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
+        "season": "2026/2027",
+        "home": {
+          "name": "拉德尼基1923",
+          "team_id": "ast_30640f36f4d34a8fb3a7e4c096af6f38"
+        },
+        "away": {
+          "name": "拉德尼克",
+          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_33edf2a9cee34018a16a772de5848ccc",
-        "date": "2026-10-24",
+        "date": "2026-10-23",
         "time": "16:00",
         "status": "Not Started",
         "league": "塞尔维亚超级联赛",
@@ -7389,14 +7386,14 @@
           "team_id": "ast_ca5fe61a3ae84936a0ee527e4c91265b"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Vozdovac Stadium",
         "status_label": "未开赛"
       },
       {
         "match_id": "as_07c20e4cf15c4535b80fcf77c4e5fb17",
         "date": "2026-10-18",
         "time": "16:30",
-        "status": "Not Started",
+        "status": "16:30",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -7408,15 +7405,13 @@
           "name": "帕尔蒂赞",
           "team_id": "ast_433a190211c948cf9032105e2677c837"
         },
-        "ht_score": "-",
-        "venue": "青春体育休闲中心",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_36f773bd50914f20b916b35c65714d0e",
         "date": "2026-10-18",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -7428,15 +7423,13 @@
           "name": "IMT诺维贝尔格莱德",
           "team_id": "ast_aeb0f92256de4e37b7fc3e5e8218d477"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b7dc5da6bcaf4c5f8b3a78981287ab19",
         "date": "2026-10-18",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "塞尔维亚超级联赛",
         "league_id": "asl_eae54db552894c0daa9737effc396fa0",
         "season": "2026/2027",
@@ -7448,9 +7441,7 @@
           "name": "姆拉多斯特",
           "team_id": "ast_2f3f7f46a7154db78856b2acec58aecf"
         },
-        "ht_score": "-",
-        "venue": "Stadion Rajko Mit",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_445b9e97c3fd4e98af505814cb6f9f05",
@@ -7503,24 +7494,6 @@
         "away": {
           "name": "泽蒙",
           "team_id": "ast_686dea58c7ab427f8101f43c105e7971"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f27a84fff61047a980aa61f1d02a936b",
-        "date": "2026-10-16",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "塞尔维亚超级联赛",
-        "league_id": "asl_eae54db552894c0daa9737effc396fa0",
-        "season": "2026/2027",
-        "home": {
-          "name": "拉德尼克",
-          "team_id": "ast_ecefaf6e5a69429886e943f1180551c9"
-        },
-        "away": {
-          "name": "拉德尼基尼什",
-          "team_id": "ast_1829e4c46ef648f6a7dce804e90ee12d"
         },
         "venue": ""
       }
@@ -12639,13 +12612,13 @@
     }
   },
   "stats": {
-    "matches_completed": 75,
-    "total_goals": 199,
-    "avg_goals_per_match": 2.65,
-    "home_wins": 37,
+    "matches_completed": 76,
+    "total_goals": 202,
+    "avg_goals_per_match": 2.66,
+    "home_wins": 38,
     "draws": 20,
     "away_wins": 18,
-    "home_win_pct": 49.3,
+    "home_win_pct": 50.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13002,19 +12975,19 @@
         "data": [
           {
             "rank": 1,
+            "player_id": "asp_2f677cdaa75d49a499cb6352ceb371e0",
+            "player_name": "Bogdanovic Vukasin",
+            "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
+            "team_name": "Radnik Surdulica",
+            "value": 6
+          },
+          {
+            "rank": 2,
             "player_id": "asp_9350bd8f9f5541fcb7f815b8e9b247a6",
             "player_name": "Silue Yacouba",
             "team_id": "ast_56dad4c70fde4a7e94fbfdbca3e46789",
             "team_name": "OFK Belgrade",
             "value": 6
-          },
-          {
-            "rank": 2,
-            "player_id": "asp_2f677cdaa75d49a499cb6352ceb371e0",
-            "player_name": "Bogdanovic Vukasin",
-            "team_id": "ast_ecefaf6e5a69429886e943f1180551c9",
-            "team_name": "Radnik Surdulica",
-            "value": 5
           },
           {
             "rank": 3,
@@ -13447,7 +13420,7 @@
     "teams_all_time": 41,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 42
+    "upcoming_matches": 41
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }

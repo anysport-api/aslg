@@ -238,15 +238,15 @@
         "position": 5,
         "team_id": "ast_1990fa9b6b2445028f397fe6bd5d1659",
         "team": "Cuenca Juniors",
-        "played": 29,
+        "played": 30,
         "wins": 10,
         "draws": 9,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 23,
-        "goals_against": 32,
-        "goal_difference": -9,
+        "goals_against": 34,
+        "goal_difference": -11,
         "points": 39,
-        "form": "DLLWL"
+        "form": "LDLLW"
       },
       {
         "position": 5,
@@ -266,15 +266,15 @@
         "position": 6,
         "team_id": "ast_14bb225838c9427a844776c71dcdf878",
         "team": "San Antonio",
-        "played": 29,
-        "wins": 7,
+        "played": 30,
+        "wins": 8,
         "draws": 12,
         "losses": 10,
-        "goals_for": 27,
+        "goals_for": 29,
         "goals_against": 34,
-        "goal_difference": -7,
-        "points": 33,
-        "form": "LDLLL"
+        "goal_difference": -5,
+        "points": 36,
+        "form": "WLDLL"
       },
       {
         "position": 6,
@@ -416,16 +416,16 @@
         "position": 5,
         "team_id": "ast_1990fa9b6b2445028f397fe6bd5d1659",
         "team": "昆卡青年队",
-        "played": 29,
+        "played": 30,
         "wins": 10,
         "draws": 9,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 23,
-        "goals_against": 32,
-        "goal_difference": -9,
+        "goals_against": 34,
+        "goal_difference": -11,
         "points": 39,
-        "form": "DLLWL",
-        "form_label": "平负负胜负"
+        "form": "LDLLW",
+        "form_label": "负平负负胜"
       },
       {
         "position": 5,
@@ -446,16 +446,16 @@
         "position": 6,
         "team_id": "ast_14bb225838c9427a844776c71dcdf878",
         "team": "圣安东尼奥",
-        "played": 29,
-        "wins": 7,
+        "played": 30,
+        "wins": 8,
         "draws": 12,
         "losses": 10,
-        "goals_for": 27,
+        "goals_for": 29,
         "goals_against": 34,
-        "goal_difference": -7,
-        "points": 33,
-        "form": "LDLLL",
-        "form_label": "负平负负负"
+        "goal_difference": -5,
+        "points": 36,
+        "form": "WLDLL",
+        "form_label": "胜负平负负"
       },
       {
         "position": 6,
@@ -777,7 +777,7 @@
         "match_id": "as_0b39e1522cfc496294730949a364868b",
         "date": "2026-10-16",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "厄瓜多尔B级联赛",
         "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
         "season": "2026",
@@ -789,7 +789,10 @@
           "name": "昆卡青年队",
           "team_id": "ast_1990fa9b6b2445028f397fe6bd5d1659"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_68485a618b9f4e8f8dd8f3b4d44f6cc4",
@@ -4770,24 +4773,6 @@
           "team_id": "ast_3fd910f2a5ba48128a2be1a42a4463a9"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_0b39e1522cfc496294730949a364868b",
-        "date": "2026-10-16",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "厄瓜多尔B级联赛",
-        "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
-        "season": "2026",
-        "home": {
-          "name": "圣安东尼奥",
-          "team_id": "ast_14bb225838c9427a844776c71dcdf878"
-        },
-        "away": {
-          "name": "昆卡青年队",
-          "team_id": "ast_1990fa9b6b2445028f397fe6bd5d1659"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6289,13 +6274,13 @@
     }
   },
   "stats": {
-    "matches_completed": 176,
-    "total_goals": 362,
+    "matches_completed": 177,
+    "total_goals": 364,
     "avg_goals_per_match": 2.06,
-    "home_wins": 76,
+    "home_wins": 77,
     "draws": 60,
     "away_wins": 40,
-    "home_win_pct": 43.2,
+    "home_win_pct": 43.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7055,7 +7040,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 12,
     "matches_current_season": 192,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }

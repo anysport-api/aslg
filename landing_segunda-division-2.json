@@ -168,6 +168,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
+        "team": "Colon",
+        "played": 61,
+        "wins": 27,
+        "draws": 18,
+        "losses": 16,
+        "goals_for": 77,
+        "goals_against": 52,
+        "goal_difference": 25,
+        "points": 99,
+        "form": "WWDLD"
+      },
+      {
+        "position": 3,
         "team_id": "ast_5206e696fb5446c086911259c84d13ba",
         "team": "Plaza Colonia",
         "played": 28,
@@ -179,20 +193,6 @@
         "goal_difference": 12,
         "points": 45,
         "form": "DLDDW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
-        "team": "Colon",
-        "played": 60,
-        "wins": 26,
-        "draws": 18,
-        "losses": 16,
-        "goals_for": 74,
-        "goals_against": 52,
-        "goal_difference": 22,
-        "points": 96,
-        "form": "WDLDL"
       },
       {
         "position": 4,
@@ -252,20 +252,6 @@
       },
       {
         "position": 8,
-        "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0",
-        "team": "Huracan FC",
-        "played": 28,
-        "wins": 9,
-        "draws": 10,
-        "losses": 9,
-        "goals_for": 31,
-        "goals_against": 34,
-        "goal_difference": -3,
-        "points": 37,
-        "form": "DLWDL"
-      },
-      {
-        "position": 9,
         "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01",
         "team": "Tacuarembo",
         "played": 60,
@@ -277,6 +263,20 @@
         "goal_difference": -5,
         "points": 78,
         "form": "LLDDD"
+      },
+      {
+        "position": 9,
+        "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0",
+        "team": "Huracan FC",
+        "played": 29,
+        "wins": 9,
+        "draws": 10,
+        "losses": 10,
+        "goals_for": 31,
+        "goals_against": 37,
+        "goal_difference": -6,
+        "points": 37,
+        "form": "LDLWD"
       },
       {
         "position": 10,
@@ -366,6 +366,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
+        "team": "科隆",
+        "played": 61,
+        "wins": 27,
+        "draws": 18,
+        "losses": 16,
+        "goals_for": 77,
+        "goals_against": 52,
+        "goal_difference": 25,
+        "points": 99,
+        "form": "WWDLD",
+        "form_label": "胜胜平负平"
+      },
+      {
+        "position": 3,
         "team_id": "ast_5206e696fb5446c086911259c84d13ba",
         "team": "普拉萨科隆尼亚",
         "played": 28,
@@ -378,21 +393,6 @@
         "points": 45,
         "form": "DLDDW",
         "form_label": "平负平平胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
-        "team": "科隆",
-        "played": 60,
-        "wins": 26,
-        "draws": 18,
-        "losses": 16,
-        "goals_for": 74,
-        "goals_against": 52,
-        "goal_difference": 22,
-        "points": 96,
-        "form": "WDLDL",
-        "form_label": "胜平负平负"
       },
       {
         "position": 4,
@@ -456,21 +456,6 @@
       },
       {
         "position": 8,
-        "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0",
-        "team": "乌拉坎足球俱乐部",
-        "played": 28,
-        "wins": 9,
-        "draws": 10,
-        "losses": 9,
-        "goals_for": 31,
-        "goals_against": 34,
-        "goal_difference": -3,
-        "points": 37,
-        "form": "DLWDL",
-        "form_label": "平负胜平负"
-      },
-      {
-        "position": 9,
         "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01",
         "team": "塔库阿伦博",
         "played": 60,
@@ -483,6 +468,21 @@
         "points": 78,
         "form": "LLDDD",
         "form_label": "负负平平平"
+      },
+      {
+        "position": 9,
+        "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0",
+        "team": "乌拉坎足球俱乐部",
+        "played": 29,
+        "wins": 9,
+        "draws": 10,
+        "losses": 10,
+        "goals_for": 31,
+        "goals_against": 37,
+        "goal_difference": -6,
+        "points": 37,
+        "form": "LDLWD",
+        "form_label": "负平负胜平"
       },
       {
         "position": 10,
@@ -581,7 +581,7 @@
         "match_id": "as_aad0422c8f2a47d1ae0b270aaad94a40",
         "date": "2026-10-18",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -593,15 +593,13 @@
           "name": "河床",
           "team_id": "ast_634b3917b48b46f183d5f56abfe435eb"
         },
-        "ht_score": "-",
-        "venue": "Parque Cincuentenario Juan Prandi",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_60487d7e56644d31a0314aeb7d542b50",
         "date": "2026-10-18",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -613,15 +611,13 @@
           "name": "阿特纳斯",
           "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
         },
-        "ht_score": "-",
-        "venue": "Complejo Rentistas",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bf15b9e4c8c1454396c289e48ebb45bd",
         "date": "2026-10-18",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -633,9 +629,7 @@
           "name": "乌拉圭蒙得维的亚",
           "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_39510f7ddcee452b9ee8352223c8b922",
@@ -695,7 +689,7 @@
         "match_id": "as_c9ecd182e95444378a55d968de4ca08a",
         "date": "2026-10-16",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -707,7 +701,10 @@
           "name": "乌拉坎足球俱乐部",
           "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c5d30348c98f4575878c59a6bad039f0",
@@ -4852,7 +4849,7 @@
         "match_id": "as_bf15b9e4c8c1454396c289e48ebb45bd",
         "date": "2026-10-18",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -4864,15 +4861,13 @@
           "name": "乌拉圭蒙得维的亚",
           "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_60487d7e56644d31a0314aeb7d542b50",
         "date": "2026-10-18",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -4884,15 +4879,13 @@
           "name": "阿特纳斯",
           "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
         },
-        "ht_score": "-",
-        "venue": "Complejo Rentistas",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_aad0422c8f2a47d1ae0b270aaad94a40",
         "date": "2026-10-18",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -4904,9 +4897,7 @@
           "name": "河床",
           "team_id": "ast_634b3917b48b46f183d5f56abfe435eb"
         },
-        "ht_score": "-",
-        "venue": "Parque Cincuentenario Juan Prandi",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_673be2292c2a44aaa72422768d55c021",
@@ -4959,24 +4950,6 @@
         "away": {
           "name": "佩桑杜FC",
           "team_id": "ast_994afc4ff5174e1ba7c3946065465206"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c9ecd182e95444378a55d968de4ca08a",
-        "date": "2026-10-16",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "乌拉圭乙级联赛",
-        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
-        "season": "2026",
-        "home": {
-          "name": "科隆",
-          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
-        },
-        "away": {
-          "name": "乌拉坎足球俱乐部",
-          "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0"
         },
         "venue": ""
       }
@@ -8534,13 +8507,13 @@
     }
   },
   "stats": {
-    "matches_completed": 197,
-    "total_goals": 456,
-    "avg_goals_per_match": 2.31,
-    "home_wins": 79,
+    "matches_completed": 198,
+    "total_goals": 459,
+    "avg_goals_per_match": 2.32,
+    "home_wins": 80,
     "draws": 62,
     "away_wins": 56,
-    "home_win_pct": 40.1,
+    "home_win_pct": 40.4,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -8677,6 +8650,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
+            "team": "Colon",
+            "played": 61,
+            "wins": 27,
+            "draws": 18,
+            "losses": 16,
+            "goals_for": 77,
+            "goals_against": 52,
+            "goal_difference": 25,
+            "points": 99,
+            "form": "WWDLD"
+          },
+          {
+            "position": 3,
             "team_id": "ast_5206e696fb5446c086911259c84d13ba",
             "team": "Plaza Colonia",
             "played": 28,
@@ -8688,20 +8675,6 @@
             "goal_difference": 12,
             "points": 45,
             "form": "DLDDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1",
-            "team": "Colon",
-            "played": 60,
-            "wins": 26,
-            "draws": 18,
-            "losses": 16,
-            "goals_for": 74,
-            "goals_against": 52,
-            "goal_difference": 22,
-            "points": 96,
-            "form": "WDLDL"
           }
         ],
         "meta": {
@@ -9304,7 +9277,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 14,
     "matches_current_season": 204,
-    "upcoming_matches": 7
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }

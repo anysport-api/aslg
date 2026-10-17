@@ -256,6 +256,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
+        "team": "O. Ljubljana",
+        "played": 12,
+        "wins": 5,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 14,
+        "goals_against": 11,
+        "goal_difference": 3,
+        "points": 18,
+        "form": "WDLWW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_530b373d32ce4e00a3d4173642579707",
         "team": "Nafta",
         "played": 11,
@@ -269,7 +283,7 @@
         "form": "WLWWL"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_938b38c528ba47648f71c28fb3513ec4",
         "team": "Celje",
         "played": 10,
@@ -283,32 +297,18 @@
         "form": "WDLLW"
       },
       {
-        "position": 6,
-        "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
-        "team": "O. Ljubljana",
-        "played": 11,
-        "wins": 4,
-        "draws": 3,
-        "losses": 4,
-        "goals_for": 13,
-        "goals_against": 11,
-        "goal_difference": 2,
-        "points": 15,
-        "form": "DLWWD"
-      },
-      {
         "position": 7,
         "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3",
         "team": "Aluminij",
-        "played": 11,
+        "played": 12,
         "wins": 3,
         "draws": 4,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 16,
-        "goals_against": 12,
-        "goal_difference": 4,
+        "goals_against": 13,
+        "goal_difference": 3,
         "points": 13,
-        "form": "LDWDL"
+        "form": "LLDWD"
       },
       {
         "position": 8,
@@ -401,6 +401,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
+        "team": "奥林匹亚卢布尔雅那",
+        "played": 12,
+        "wins": 5,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 14,
+        "goals_against": 11,
+        "goal_difference": 3,
+        "points": 18,
+        "form": "WDLWW",
+        "form_label": "胜平负胜胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_530b373d32ce4e00a3d4173642579707",
         "team": "纳夫塔",
         "played": 11,
@@ -415,7 +430,7 @@
         "form_label": "胜负胜胜负"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_938b38c528ba47648f71c28fb3513ec4",
         "team": "切尔耶",
         "played": 10,
@@ -430,34 +445,19 @@
         "form_label": "胜平负负胜"
       },
       {
-        "position": 6,
-        "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
-        "team": "奥林匹亚卢布尔雅那",
-        "played": 11,
-        "wins": 4,
-        "draws": 3,
-        "losses": 4,
-        "goals_for": 13,
-        "goals_against": 11,
-        "goal_difference": 2,
-        "points": 15,
-        "form": "DLWWD",
-        "form_label": "平负胜胜平"
-      },
-      {
         "position": 7,
         "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3",
         "team": "阿卢米尼",
-        "played": 11,
+        "played": 12,
         "wins": 3,
         "draws": 4,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 16,
-        "goals_against": 12,
-        "goal_difference": 4,
+        "goals_against": 13,
+        "goal_difference": 3,
         "points": 13,
-        "form": "LDWDL",
-        "form_label": "负平胜平负"
+        "form": "LLDWD",
+        "form_label": "负负平胜平"
       },
       {
         "position": 8,
@@ -2927,7 +2927,7 @@
         "match_id": "as_318b161c41434bfab758b68b8a21f3cc",
         "date": "2026-10-18",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -2939,15 +2939,13 @@
           "name": "格鲁苏普列",
           "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_de9d1c487d554480b3c208bd7965ca3d",
         "date": "2026-10-18",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -2959,9 +2957,7 @@
           "name": "切尔耶",
           "team_id": "ast_938b38c528ba47648f71c28fb3513ec4"
         },
-        "ht_score": "-",
-        "venue": "柳德斯基·弗尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f03eb9e7c6434c74b52be291c7038582",
@@ -3003,7 +2999,7 @@
         "match_id": "as_1299d2d375fe4072986b05e758133e80",
         "date": "2026-10-16",
         "time": "15:30",
-        "status": "15:30",
+        "status": "FT",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -3015,7 +3011,10 @@
           "name": "奥林匹亚卢布尔雅那",
           "team_id": "ast_ad4154a760e647edac5e3537d1168d32"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9a83b13d3612422188d1aee1740be7dd",
@@ -4676,7 +4675,7 @@
         "match_id": "as_de9d1c487d554480b3c208bd7965ca3d",
         "date": "2026-10-18",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4688,15 +4687,13 @@
           "name": "切尔耶",
           "team_id": "ast_938b38c528ba47648f71c28fb3513ec4"
         },
-        "ht_score": "-",
-        "venue": "柳德斯基·弗尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_318b161c41434bfab758b68b8a21f3cc",
         "date": "2026-10-18",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4708,9 +4705,7 @@
           "name": "格鲁苏普列",
           "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3929fec0b1a84416bfb15de708d30df9",
@@ -4745,24 +4740,6 @@
         "away": {
           "name": "拉多姆列",
           "team_id": "ast_041e52aa90df4f758a96723898739b70"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1299d2d375fe4072986b05e758133e80",
-        "date": "2026-10-16",
-        "time": "15:30",
-        "status": "15:30",
-        "league": "斯洛文尼亚甲级联赛",
-        "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿卢米尼",
-          "team_id": "ast_bba8f12c8c9b4e2e9f073a6102b649f3"
-        },
-        "away": {
-          "name": "奥林匹亚卢布尔雅那",
-          "team_id": "ast_ad4154a760e647edac5e3537d1168d32"
         },
         "venue": ""
       }
@@ -8618,13 +8595,13 @@
     }
   },
   "stats": {
-    "matches_completed": 54,
-    "total_goals": 146,
-    "avg_goals_per_match": 2.7,
+    "matches_completed": 55,
+    "total_goals": 147,
+    "avg_goals_per_match": 2.67,
     "home_wins": 19,
     "draws": 16,
-    "away_wins": 19,
-    "home_win_pct": 35.2,
+    "away_wins": 20,
+    "home_win_pct": 34.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9419,7 +9396,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }

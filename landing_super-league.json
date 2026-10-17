@@ -280,6 +280,20 @@
       },
       {
         "position": 10,
+        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
+        "team": "Tianjin Jinmen Tiger",
+        "played": 28,
+        "wins": 11,
+        "draws": 8,
+        "losses": 9,
+        "goals_for": 38,
+        "goals_against": 32,
+        "goal_difference": 6,
+        "points": 31,
+        "form": "WWWWD"
+      },
+      {
+        "position": 11,
         "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
         "team": "Zhejiang Professional",
         "played": 27,
@@ -293,7 +307,7 @@
         "form": "LWLWD"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_0053c4bf96cc47b3aa04187d9921f616",
         "team": "Shenzhen Xinpengcheng",
         "played": 27,
@@ -307,32 +321,18 @@
         "form": "DDLDW"
       },
       {
-        "position": 12,
-        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
-        "team": "Tianjin Jinmen Tiger",
-        "played": 27,
-        "wins": 10,
-        "draws": 8,
-        "losses": 9,
-        "goals_for": 37,
-        "goals_against": 32,
-        "goal_difference": 5,
-        "points": 28,
-        "form": "WWWDD"
-      },
-      {
         "position": 13,
         "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785",
         "team": "Henan Songshan Longmen",
-        "played": 27,
+        "played": 28,
         "wins": 8,
         "draws": 10,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 35,
-        "goals_against": 37,
-        "goal_difference": -2,
+        "goals_against": 38,
+        "goal_difference": -3,
         "points": 28,
-        "form": "DDDDD"
+        "form": "LDDDD"
       },
       {
         "position": 14,
@@ -515,6 +515,21 @@
       },
       {
         "position": 10,
+        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
+        "team": "天津津门虎",
+        "played": 28,
+        "wins": 11,
+        "draws": 8,
+        "losses": 9,
+        "goals_for": 38,
+        "goals_against": 32,
+        "goal_difference": 6,
+        "points": 31,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
+      },
+      {
+        "position": 11,
         "team_id": "ast_a6600ae55c5c4283bde1697b75a256d9",
         "team": "浙江职业",
         "played": 27,
@@ -529,7 +544,7 @@
         "form_label": "负胜负胜平"
       },
       {
-        "position": 11,
+        "position": 12,
         "team_id": "ast_0053c4bf96cc47b3aa04187d9921f616",
         "team": "深圳新鹏城",
         "played": 27,
@@ -544,34 +559,19 @@
         "form_label": "平平负平胜"
       },
       {
-        "position": 12,
-        "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97",
-        "team": "天津津门虎",
-        "played": 27,
-        "wins": 10,
-        "draws": 8,
-        "losses": 9,
-        "goals_for": 37,
-        "goals_against": 32,
-        "goal_difference": 5,
-        "points": 28,
-        "form": "WWWDD",
-        "form_label": "胜胜胜平平"
-      },
-      {
         "position": 13,
         "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785",
         "team": "河南嵩山龙门",
-        "played": 27,
+        "played": 28,
         "wins": 8,
         "draws": 10,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 35,
-        "goals_against": 37,
-        "goal_difference": -2,
+        "goals_against": 38,
+        "goal_difference": -3,
         "points": 28,
-        "form": "DDDDD",
-        "form_label": "平平平平平"
+        "form": "LDDDD",
+        "form_label": "负平平平平"
       },
       {
         "position": 14,
@@ -1087,7 +1087,7 @@
         "match_id": "as_a6cb9fd0a08e41b9ae239eb2cdf08ee1",
         "date": "2026-10-16",
         "time": "11:35",
-        "status": "11:35",
+        "status": "FT",
         "league": "中国超级联赛",
         "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
         "season": "2026",
@@ -1099,7 +1099,10 @@
           "name": "天津津门虎",
           "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_409e80517dd74b13b5b5c75a7e8e6edd",
@@ -6084,24 +6087,6 @@
           "team_id": "ast_0053c4bf96cc47b3aa04187d9921f616"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_a6cb9fd0a08e41b9ae239eb2cdf08ee1",
-        "date": "2026-10-16",
-        "time": "11:35",
-        "status": "11:35",
-        "league": "中国超级联赛",
-        "league_id": "asl_7873e9b61ea54efe88fe482d94d4bce6",
-        "season": "2026",
-        "home": {
-          "name": "河南嵩山龙门",
-          "team_id": "ast_9a2b00d18f7449efaeb4521aa1c34785"
-        },
-        "away": {
-          "name": "天津津门虎",
-          "team_id": "ast_f12a166f8122479aa4297e8a3acc5c97"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8218,13 +8203,13 @@
     }
   },
   "stats": {
-    "matches_completed": 216,
-    "total_goals": 673,
-    "avg_goals_per_match": 3.12,
+    "matches_completed": 217,
+    "total_goals": 674,
+    "avg_goals_per_match": 3.11,
     "home_wins": 96,
     "draws": 59,
-    "away_wins": 61,
-    "home_win_pct": 44.4,
+    "away_wins": 62,
+    "home_win_pct": 44.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9028,7 +9013,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }

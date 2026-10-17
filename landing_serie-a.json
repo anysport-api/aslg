@@ -378,6 +378,20 @@
       },
       {
         "position": 14,
+        "team_id": "ast_56c6ca131a1a4557adb8321cd2a63dec",
+        "team": "Mirassol",
+        "played": 31,
+        "wins": 9,
+        "draws": 9,
+        "losses": 13,
+        "goals_for": 36,
+        "goals_against": 44,
+        "goal_difference": -8,
+        "points": 36,
+        "form": "WLDWD"
+      },
+      {
+        "position": 15,
         "team_id": "ast_d511729c95674c9bba43d10bf3493857",
         "team": "Vasco",
         "played": 29,
@@ -389,20 +403,6 @@
         "goal_difference": -6,
         "points": 35,
         "form": "DWWWL"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_56c6ca131a1a4557adb8321cd2a63dec",
-        "team": "Mirassol",
-        "played": 30,
-        "wins": 8,
-        "draws": 9,
-        "losses": 13,
-        "goals_for": 34,
-        "goals_against": 44,
-        "goal_difference": -10,
-        "points": 33,
-        "form": "LDWDW"
       },
       {
         "position": 16,
@@ -422,15 +422,15 @@
         "position": 17,
         "team_id": "ast_4c1b47e5b42047d99319d542c7beac4c",
         "team": "Internacional",
-        "played": 30,
+        "played": 31,
         "wins": 7,
         "draws": 11,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 33,
-        "goals_against": 38,
-        "goal_difference": -5,
+        "goals_against": 40,
+        "goal_difference": -7,
         "points": 32,
-        "form": "DWLWL"
+        "form": "LDWLW"
       },
       {
         "position": 18,
@@ -673,6 +673,21 @@
       },
       {
         "position": 14,
+        "team_id": "ast_56c6ca131a1a4557adb8321cd2a63dec",
+        "team": "米拉索尔",
+        "played": 31,
+        "wins": 9,
+        "draws": 9,
+        "losses": 13,
+        "goals_for": 36,
+        "goals_against": 44,
+        "goal_difference": -8,
+        "points": 36,
+        "form": "WLDWD",
+        "form_label": "胜负平胜平"
+      },
+      {
+        "position": 15,
         "team_id": "ast_d511729c95674c9bba43d10bf3493857",
         "team": "瓦斯科",
         "played": 29,
@@ -685,21 +700,6 @@
         "points": 35,
         "form": "DWWWL",
         "form_label": "平胜胜胜负"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_56c6ca131a1a4557adb8321cd2a63dec",
-        "team": "米拉索尔",
-        "played": 30,
-        "wins": 8,
-        "draws": 9,
-        "losses": 13,
-        "goals_for": 34,
-        "goals_against": 44,
-        "goal_difference": -10,
-        "points": 33,
-        "form": "LDWDW",
-        "form_label": "负平胜平胜"
       },
       {
         "position": 16,
@@ -720,16 +720,16 @@
         "position": 17,
         "team_id": "ast_4c1b47e5b42047d99319d542c7beac4c",
         "team": "国际队",
-        "played": 30,
+        "played": 31,
         "wins": 7,
         "draws": 11,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 33,
-        "goals_against": 38,
-        "goal_difference": -5,
+        "goals_against": 40,
+        "goal_difference": -7,
         "points": 32,
-        "form": "DWLWL",
-        "form_label": "平胜负胜负"
+        "form": "LDWLW",
+        "form_label": "负平胜负胜"
       },
       {
         "position": 18,
@@ -947,7 +947,7 @@
           "player_name": "Eduardo",
           "team_id": "ast_56c6ca131a1a4557adb8321cd2a63dec",
           "team_name": "Mirassol",
-          "value": 6
+          "value": 7
         },
         {
           "rank": 22,
@@ -1349,7 +1349,7 @@
           "player_name": "爱德华多",
           "team_id": "ast_56c6ca131a1a4557adb8321cd2a63dec",
           "team_name": "米拉索尔",
-          "value": 6
+          "value": 7
         },
         {
           "rank": 22,
@@ -4625,7 +4625,7 @@
         "match_id": "as_02bf1a89e4574302a2fb70f9af24c90a",
         "date": "2026-10-18",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4637,15 +4637,13 @@
           "name": "弗拉门戈",
           "team_id": "ast_efc272788d1b4cc8aef9f030b3c318e4"
         },
-        "ht_score": "-",
-        "venue": "Arena Fonte Nova",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2c3bf26dc15f497a82f7fdb1fd640d88",
         "date": "2026-10-18",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4657,15 +4655,13 @@
           "name": "桑托斯",
           "team_id": "ast_4809da9c07114bbea2c255a5e7d875a5"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ee34916787d94403ba9b8d4c0e0dcdcf",
         "date": "2026-10-18",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4677,15 +4673,13 @@
           "name": "克鲁塞罗",
           "team_id": "ast_e36624731cd6472b8bbea63053a7b4ba"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0c2980975c2845c282a9a059ddfe3d9c",
         "date": "2026-10-18",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4697,15 +4691,13 @@
           "name": "布拉甘蒂诺",
           "team_id": "ast_53295b83ccc549b6988fb06dce0c457e"
         },
-        "ht_score": "-",
-        "venue": "Estadio Evandro Almeida",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f801e5c899264b24af7431426697f55b",
         "date": "2026-10-18",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4717,15 +4709,13 @@
           "name": "瓦斯科",
           "team_id": "ast_d511729c95674c9bba43d10bf3493857"
         },
-        "ht_score": "-",
-        "venue": "Estadio Do MorumBIS",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_50582ebc15b64d5b9515b4992666fdec",
         "date": "2026-10-17",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4737,15 +4727,13 @@
           "name": "帕尔梅拉斯",
           "team_id": "ast_8eac9a6e7be047098cbca582cb2810e6"
         },
-        "ht_score": "-",
-        "venue": "Arena da Baixada",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5754233787114b6a9e0ac7092b772c08",
         "date": "2026-10-17",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4757,15 +4745,13 @@
           "name": "科里蒂巴",
           "team_id": "ast_e285502a028d4bd8b3c088257e135844"
         },
-        "ht_score": "-",
-        "venue": "MRV Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6aeeba9cc8664cea894395ff794bd278",
         "date": "2026-10-17",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4777,15 +4763,13 @@
           "name": "查佩科恩斯",
           "team_id": "ast_75b9f0be9fb545f5b65df52ad336a30d"
         },
-        "ht_score": "-",
-        "venue": "Estadio Olimpico Nilton Santos",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bf64ef9fad224054a8b69661baa1370c",
         "date": "2026-10-16",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "巴西甲级联赛",
         "league_id": "asl_cc81343b775e42fd9bfa2bf43186aad6",
         "season": "2026",
@@ -4797,7 +4781,10 @@
           "name": "国际队",
           "team_id": "ast_4c1b47e5b42047d99319d542c7beac4c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_382d5cb0c45e4f629360e9cfc430cdc5",
@@ -18927,13 +18914,13 @@
     }
   },
   "stats": {
-    "matches_completed": 299,
-    "total_goals": 800,
-    "avg_goals_per_match": 2.68,
-    "home_wins": 142,
+    "matches_completed": 300,
+    "total_goals": 802,
+    "avg_goals_per_match": 2.67,
+    "home_wins": 143,
     "draws": 84,
     "away_wins": 73,
-    "home_win_pct": 47.5,
+    "home_win_pct": 47.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -19750,5 +19737,5 @@
     "matches_current_season": 380,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }

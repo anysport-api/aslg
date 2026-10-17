@@ -104,6 +104,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
+        "team": "S. Wanderers",
+        "played": 28,
+        "wins": 13,
+        "draws": 8,
+        "losses": 7,
+        "goals_for": 46,
+        "goals_against": 31,
+        "goal_difference": 15,
+        "points": 47,
+        "form": "WLLLL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "Magallanes",
         "played": 27,
@@ -117,7 +131,7 @@
         "form": "WWWDD"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_86faf5a093c04da5a07943234315037a",
         "team": "Antofagasta",
         "played": 27,
@@ -129,20 +143,6 @@
         "goal_difference": 21,
         "points": 44,
         "form": "WWLDL"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
-        "team": "S. Wanderers",
-        "played": 27,
-        "wins": 12,
-        "draws": 8,
-        "losses": 7,
-        "goals_for": 42,
-        "goals_against": 30,
-        "goal_difference": 12,
-        "points": 44,
-        "form": "LLLLW"
       },
       {
         "position": 6,
@@ -288,15 +288,15 @@
         "position": 16,
         "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4",
         "team": "Rangers",
-        "played": 27,
+        "played": 28,
         "wins": 5,
         "draws": 6,
-        "losses": 16,
-        "goals_for": 27,
-        "goals_against": 42,
-        "goal_difference": -15,
+        "losses": 17,
+        "goals_for": 28,
+        "goals_against": 46,
+        "goal_difference": -18,
         "points": 21,
-        "form": "WLLWW"
+        "form": "LWLLW"
       }
     ],
     "zh": [
@@ -332,6 +332,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
+        "team": "流浪者队",
+        "played": 28,
+        "wins": 13,
+        "draws": 8,
+        "losses": 7,
+        "goals_for": 46,
+        "goals_against": 31,
+        "goal_difference": 15,
+        "points": 47,
+        "form": "WLLLL",
+        "form_label": "胜负负负负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "马加利亚尼斯",
         "played": 27,
@@ -346,7 +361,7 @@
         "form_label": "胜胜胜平平"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_86faf5a093c04da5a07943234315037a",
         "team": "安托法加斯塔",
         "played": 27,
@@ -359,21 +374,6 @@
         "points": 44,
         "form": "WWLDL",
         "form_label": "胜胜负平负"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
-        "team": "流浪者队",
-        "played": 27,
-        "wins": 12,
-        "draws": 8,
-        "losses": 7,
-        "goals_for": 42,
-        "goals_against": 30,
-        "goal_difference": 12,
-        "points": 44,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
       },
       {
         "position": 6,
@@ -529,16 +529,16 @@
         "position": 16,
         "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4",
         "team": "流浪者",
-        "played": 27,
+        "played": 28,
         "wins": 5,
         "draws": 6,
-        "losses": 16,
-        "goals_for": 27,
-        "goals_against": 42,
-        "goal_difference": -15,
+        "losses": 17,
+        "goals_for": 28,
+        "goals_against": 46,
+        "goal_difference": -18,
         "points": 21,
-        "form": "WLLWW",
-        "form_label": "胜负负胜胜"
+        "form": "LWLLW",
+        "form_label": "负胜负负胜"
       }
     ]
   },
@@ -903,7 +903,7 @@
         "match_id": "as_84a66ddcde86426a9434678e360adc98",
         "date": "2026-10-18",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -915,15 +915,13 @@
           "name": "安托法加斯塔",
           "team_id": "ast_86faf5a093c04da5a07943234315037a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_78028b9c2c2d4605bc7b198c711429d7",
         "date": "2026-10-18",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -935,15 +933,13 @@
           "name": "伊基克体育",
           "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88"
         },
-        "ht_score": "-",
-        "venue": "拉格兰哈二百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fd17424ea0c848e0b581f16dc7d8f840",
         "date": "2026-10-18",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -955,15 +951,13 @@
           "name": "特木科体育",
           "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
         },
-        "ht_score": "-",
-        "venue": "圣费利佩市政体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c86cdfb8e635481a89afb4dcfdc2e2d6",
         "date": "2026-10-18",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -975,9 +969,7 @@
           "name": "普埃尔托蒙特",
           "team_id": "ast_5f280de17c454d3f87c786d813a003c1"
         },
-        "ht_score": "-",
-        "venue": "卡洛斯·迪特博恩体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_738d64a6dc7049249072a52ff8f96e4c",
@@ -1019,7 +1011,7 @@
         "match_id": "as_7b9e9b7d77204c5680c6053d107e9111",
         "date": "2026-10-16",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -1031,7 +1023,10 @@
           "name": "流浪者",
           "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "4-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_67a2f98529ce4043a949e18cbd514450",
@@ -5915,7 +5910,7 @@
         "match_id": "as_c86cdfb8e635481a89afb4dcfdc2e2d6",
         "date": "2026-10-18",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5927,15 +5922,13 @@
           "name": "普埃尔托蒙特",
           "team_id": "ast_5f280de17c454d3f87c786d813a003c1"
         },
-        "ht_score": "-",
-        "venue": "卡洛斯·迪特博恩体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fd17424ea0c848e0b581f16dc7d8f840",
         "date": "2026-10-18",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5947,15 +5940,13 @@
           "name": "特木科体育",
           "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
         },
-        "ht_score": "-",
-        "venue": "圣费利佩市政体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_78028b9c2c2d4605bc7b198c711429d7",
         "date": "2026-10-18",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5967,15 +5958,13 @@
           "name": "伊基克体育",
           "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88"
         },
-        "ht_score": "-",
-        "venue": "拉格兰哈二百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_84a66ddcde86426a9434678e360adc98",
         "date": "2026-10-18",
         "time": "20:00",
-        "status": "Not Started",
+        "status": "20:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5987,9 +5976,7 @@
           "name": "安托法加斯塔",
           "team_id": "ast_86faf5a093c04da5a07943234315037a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_12d2b4afd5f7453a84326bb395e8bc1d",
@@ -6024,24 +6011,6 @@
         "away": {
           "name": "雷科莱塔",
           "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7b9e9b7d77204c5680c6053d107e9111",
-        "date": "2026-10-16",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "流浪者队",
-          "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e"
-        },
-        "away": {
-          "name": "流浪者",
-          "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4"
         },
         "venue": ""
       }
@@ -8154,13 +8123,13 @@
     }
   },
   "stats": {
-    "matches_completed": 216,
-    "total_goals": 565,
-    "avg_goals_per_match": 2.62,
-    "home_wins": 96,
+    "matches_completed": 217,
+    "total_goals": 570,
+    "avg_goals_per_match": 2.63,
+    "home_wins": 97,
     "draws": 62,
     "away_wins": 58,
-    "home_win_pct": 44.4,
+    "home_win_pct": 44.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8311,17 +8280,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
-            "team": "Magallanes",
-            "played": 27,
+            "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e",
+            "team": "S. Wanderers",
+            "played": 28,
             "wins": 13,
-            "draws": 7,
+            "draws": 8,
             "losses": 7,
-            "goals_for": 44,
-            "goals_against": 39,
-            "goal_difference": 5,
-            "points": 46,
-            "form": "WWWDD"
+            "goals_for": 46,
+            "goals_against": 31,
+            "goal_difference": 15,
+            "points": 47,
+            "form": "WLLLL"
           }
         ],
         "meta": {
@@ -8958,7 +8927,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/10/16"
+  "updated_at": "2026/10/17"
 }
