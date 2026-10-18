@@ -747,7 +747,7 @@
         "match_id": "as_c2ccadf0cbbf42a6b162279629a50404",
         "date": "2026-10-17",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -759,7 +759,10 @@
           "name": "费罗维亚里亚",
           "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5f4015b850b0471dae4f9008f5589434",
@@ -5276,24 +5279,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c2ccadf0cbbf42a6b162279629a50404",
-        "date": "2026-10-17",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "马林加FC",
-          "team_id": "ast_df319754a46744b29dd51ca5fa201626"
-        },
-        "away": {
-          "name": "费罗维亚里亚",
-          "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7250,13 +7235,13 @@
     }
   },
   "stats": {
-    "matches_completed": 214,
-    "total_goals": 483,
+    "matches_completed": 215,
+    "total_goals": 485,
     "avg_goals_per_match": 2.26,
     "home_wins": 99,
-    "draws": 61,
+    "draws": 62,
     "away_wins": 54,
-    "home_win_pct": 46.3,
+    "home_win_pct": 46.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8054,7 +8039,7 @@
     "teams_all_time": 49,
     "standings_rows_current": 20,
     "matches_current_season": 216,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/10/17"
+  "updated_at": "2026/10/18"
 }

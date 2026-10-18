@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
@@ -116,18 +116,32 @@
         "position": 2,
         "team_id": "ast_dcfcfe791859448b860a59c1029014ef",
         "team": "Alga",
-        "played": 25,
-        "wins": 15,
+        "played": 26,
+        "wins": 16,
         "draws": 7,
         "losses": 3,
-        "goals_for": 47,
+        "goals_for": 53,
         "goals_against": 27,
-        "goal_difference": 20,
-        "points": 52,
-        "form": "WWDWL"
+        "goal_difference": 26,
+        "points": 55,
+        "form": "WWWDW"
       },
       {
         "position": 3,
+        "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
+        "team": "Asia Talas",
+        "played": 26,
+        "wins": 15,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 59,
+        "goals_against": 39,
+        "goal_difference": 20,
+        "points": 52,
+        "form": "WWWWL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
         "team": "Muras United",
         "played": 25,
@@ -141,46 +155,32 @@
         "form": "WLDWL"
       },
       {
-        "position": 4,
-        "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
-        "team": "Asia Talas",
-        "played": 25,
-        "wins": 14,
-        "draws": 7,
-        "losses": 4,
-        "goals_for": 57,
-        "goals_against": 38,
-        "goal_difference": 19,
-        "points": 49,
-        "form": "WWWLW"
-      },
-      {
         "position": 5,
         "team_id": "ast_7ee7b9474a404bb98e9205d857604468",
         "team": "Ozgon",
-        "played": 24,
-        "wins": 15,
+        "played": 25,
+        "wins": 16,
         "draws": 2,
         "losses": 7,
-        "goals_for": 52,
-        "goals_against": 32,
-        "goal_difference": 20,
-        "points": 47,
-        "form": "LWWWL"
+        "goals_for": 55,
+        "goals_against": 34,
+        "goal_difference": 21,
+        "points": 50,
+        "form": "WLWWW"
       },
       {
         "position": 6,
         "team_id": "ast_aaec3780f86848a8ab08889fe46a4c2c",
         "team": "Alay Osh",
-        "played": 25,
+        "played": 26,
         "wins": 12,
         "draws": 6,
-        "losses": 7,
-        "goals_for": 33,
-        "goals_against": 31,
-        "goal_difference": 2,
+        "losses": 8,
+        "goals_for": 34,
+        "goals_against": 33,
+        "goal_difference": 1,
         "points": 42,
-        "form": "DLLLD"
+        "form": "LDLLL"
       },
       {
         "position": 7,
@@ -256,15 +256,15 @@
         "position": 12,
         "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5",
         "team": "Ilbirs",
-        "played": 24,
+        "played": 25,
         "wins": 6,
         "draws": 10,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 29,
-        "goals_against": 37,
-        "goal_difference": -8,
+        "goals_against": 43,
+        "goal_difference": -14,
         "points": 28,
-        "form": "LWDDW"
+        "form": "LLWDD"
       },
       {
         "position": 13,
@@ -284,15 +284,15 @@
         "position": 14,
         "team_id": "ast_b19d89fd48fa4dc8b64df5ed58c3be3b",
         "team": "Asiagoal Bishkek",
-        "played": 25,
+        "played": 26,
         "wins": 4,
         "draws": 9,
-        "losses": 12,
-        "goals_for": 29,
-        "goals_against": 43,
-        "goal_difference": -14,
+        "losses": 13,
+        "goals_for": 31,
+        "goals_against": 46,
+        "goal_difference": -15,
         "points": 21,
-        "form": "LLLWD"
+        "form": "LLLLW"
       },
       {
         "position": 15,
@@ -343,19 +343,34 @@
         "position": 2,
         "team_id": "ast_dcfcfe791859448b860a59c1029014ef",
         "team": "阿尔加",
-        "played": 25,
-        "wins": 15,
+        "played": 26,
+        "wins": 16,
         "draws": 7,
         "losses": 3,
-        "goals_for": 47,
+        "goals_for": 53,
         "goals_against": 27,
-        "goal_difference": 20,
-        "points": 52,
-        "form": "WWDWL",
-        "form_label": "胜胜平胜负"
+        "goal_difference": 26,
+        "points": 55,
+        "form": "WWWDW",
+        "form_label": "胜胜胜平胜"
       },
       {
         "position": 3,
+        "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
+        "team": "亚洲塔拉斯",
+        "played": 26,
+        "wins": 15,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 59,
+        "goals_against": 39,
+        "goal_difference": 20,
+        "points": 52,
+        "form": "WWWWL",
+        "form_label": "胜胜胜胜负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
         "team": "穆拉斯联队",
         "played": 25,
@@ -370,49 +385,34 @@
         "form_label": "胜负平胜负"
       },
       {
-        "position": 4,
-        "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
-        "team": "亚洲塔拉斯",
-        "played": 25,
-        "wins": 14,
-        "draws": 7,
-        "losses": 4,
-        "goals_for": 57,
-        "goals_against": 38,
-        "goal_difference": 19,
-        "points": 49,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
-      },
-      {
         "position": 5,
         "team_id": "ast_7ee7b9474a404bb98e9205d857604468",
         "team": "奥兹贡",
-        "played": 24,
-        "wins": 15,
+        "played": 25,
+        "wins": 16,
         "draws": 2,
         "losses": 7,
-        "goals_for": 52,
-        "goals_against": 32,
-        "goal_difference": 20,
-        "points": 47,
-        "form": "LWWWL",
-        "form_label": "负胜胜胜负"
+        "goals_for": 55,
+        "goals_against": 34,
+        "goal_difference": 21,
+        "points": 50,
+        "form": "WLWWW",
+        "form_label": "胜负胜胜胜"
       },
       {
         "position": 6,
         "team_id": "ast_aaec3780f86848a8ab08889fe46a4c2c",
         "team": "阿拉伊奥什",
-        "played": 25,
+        "played": 26,
         "wins": 12,
         "draws": 6,
-        "losses": 7,
-        "goals_for": 33,
-        "goals_against": 31,
-        "goal_difference": 2,
+        "losses": 8,
+        "goals_for": 34,
+        "goals_against": 33,
+        "goal_difference": 1,
         "points": 42,
-        "form": "DLLLD",
-        "form_label": "平负负负平"
+        "form": "LDLLL",
+        "form_label": "负平负负负"
       },
       {
         "position": 7,
@@ -493,16 +493,16 @@
         "position": 12,
         "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5",
         "team": "伊尔比尔斯",
-        "played": 24,
+        "played": 25,
         "wins": 6,
         "draws": 10,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 29,
-        "goals_against": 37,
-        "goal_difference": -8,
+        "goals_against": 43,
+        "goal_difference": -14,
         "points": 28,
-        "form": "LWDDW",
-        "form_label": "负胜平平胜"
+        "form": "LLWDD",
+        "form_label": "负负胜平平"
       },
       {
         "position": 13,
@@ -523,16 +523,16 @@
         "position": 14,
         "team_id": "ast_b19d89fd48fa4dc8b64df5ed58c3be3b",
         "team": "阿西亚戈尔比什凯克",
-        "played": 25,
+        "played": 26,
         "wins": 4,
         "draws": 9,
-        "losses": 12,
-        "goals_for": 29,
-        "goals_against": 43,
-        "goal_difference": -14,
+        "losses": 13,
+        "goals_for": 31,
+        "goals_against": 46,
+        "goal_difference": -15,
         "points": 21,
-        "form": "LLLWD",
-        "form_label": "负负负胜平"
+        "form": "LLLLW",
+        "form_label": "负负负负胜"
       },
       {
         "position": 15,
@@ -587,7 +587,7 @@
         "match_id": "as_7c203d4f56934e53bee686093a1de2c4",
         "date": "2026-10-17",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -599,13 +599,16 @@
           "name": "伊尔比尔斯",
           "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "6-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_97f78ab7076541d3a4016a34bb9c2aca",
         "date": "2026-10-17",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -617,13 +620,16 @@
           "name": "奥兹贡",
           "team_id": "ast_7ee7b9474a404bb98e9205d857604468"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4dddd1918e5c47a28cf5ec27af9be6f9",
         "date": "2026-10-17",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -635,7 +641,10 @@
           "name": "阿拉伊奥什",
           "team_id": "ast_aaec3780f86848a8ab08889fe46a4c2c"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8d8d3410698b48dfbd1d9543aafaf9a8",
@@ -4880,62 +4889,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_4dddd1918e5c47a28cf5ec27af9be6f9",
-        "date": "2026-10-17",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "亚洲塔拉斯",
-          "team_id": "ast_9721448996654ba2bfee8122aee8fef3"
-        },
-        "away": {
-          "name": "阿拉伊奥什",
-          "team_id": "ast_aaec3780f86848a8ab08889fe46a4c2c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_97f78ab7076541d3a4016a34bb9c2aca",
-        "date": "2026-10-17",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "阿西亚戈尔比什凯克",
-          "team_id": "ast_b19d89fd48fa4dc8b64df5ed58c3be3b"
-        },
-        "away": {
-          "name": "奥兹贡",
-          "team_id": "ast_7ee7b9474a404bb98e9205d857604468"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7c203d4f56934e53bee686093a1de2c4",
-        "date": "2026-10-17",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "阿尔加",
-          "team_id": "ast_dcfcfe791859448b860a59c1029014ef"
-        },
-        "away": {
-          "name": "伊尔比尔斯",
-          "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -6387,13 +6341,13 @@
     }
   },
   "stats": {
-    "matches_completed": 202,
-    "total_goals": 611,
-    "avg_goals_per_match": 3.02,
-    "home_wins": 79,
+    "matches_completed": 205,
+    "total_goals": 625,
+    "avg_goals_per_match": 3.05,
+    "home_wins": 81,
     "draws": 52,
-    "away_wins": 71,
-    "home_win_pct": 39.1,
+    "away_wins": 72,
+    "home_win_pct": 39.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6532,29 +6486,29 @@
             "position": 2,
             "team_id": "ast_dcfcfe791859448b860a59c1029014ef",
             "team": "Alga",
-            "played": 25,
-            "wins": 15,
+            "played": 26,
+            "wins": 16,
             "draws": 7,
             "losses": 3,
-            "goals_for": 47,
+            "goals_for": 53,
             "goals_against": 27,
-            "goal_difference": 20,
-            "points": 52,
-            "form": "WWDWL"
+            "goal_difference": 26,
+            "points": 55,
+            "form": "WWWDW"
           },
           {
             "position": 3,
-            "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
-            "team": "Muras United",
-            "played": 25,
-            "wins": 14,
-            "draws": 8,
-            "losses": 3,
-            "goals_for": 51,
-            "goals_against": 24,
-            "goal_difference": 27,
-            "points": 50,
-            "form": "WLDWL"
+            "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
+            "team": "Asia Talas",
+            "played": 26,
+            "wins": 15,
+            "draws": 7,
+            "losses": 4,
+            "goals_for": 59,
+            "goals_against": 39,
+            "goal_difference": 20,
+            "points": 52,
+            "form": "WWWWL"
           }
         ],
         "meta": {
@@ -7157,7 +7111,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 16,
     "matches_current_season": 205,
-    "upcoming_matches": 3
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/17"
+  "updated_at": "2026/10/18"
 }

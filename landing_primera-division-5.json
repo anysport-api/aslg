@@ -214,6 +214,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_362ecce906604e098df706316bc6ac47",
+        "team": "Alajuelense",
+        "played": 12,
+        "wins": 5,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 20,
+        "goals_against": 14,
+        "goal_difference": 6,
+        "points": 19,
+        "form": "WDDWL"
+      },
+      {
+        "position": 5,
         "team_id": "ast_8846cc907b394f2eae0a5c037109b864",
         "team": "San Carlos",
         "played": 11,
@@ -227,32 +241,18 @@
         "form": "LWWWW"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b",
         "team": "Inter San Carlos",
-        "played": 11,
+        "played": 12,
         "wins": 5,
         "draws": 3,
-        "losses": 3,
-        "goals_for": 12,
-        "goals_against": 14,
-        "goal_difference": -2,
+        "losses": 4,
+        "goals_for": 14,
+        "goals_against": 17,
+        "goal_difference": -3,
         "points": 18,
-        "form": "WDLDW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_362ecce906604e098df706316bc6ac47",
-        "team": "Alajuelense",
-        "played": 11,
-        "wins": 4,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 12,
-        "goal_difference": 5,
-        "points": 16,
-        "form": "DDWLL"
+        "form": "LWDLD"
       },
       {
         "position": 7,
@@ -359,6 +359,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_362ecce906604e098df706316bc6ac47",
+        "team": "阿拉胡埃伦斯",
+        "played": 12,
+        "wins": 5,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 20,
+        "goals_against": 14,
+        "goal_difference": 6,
+        "points": 19,
+        "form": "WDDWL",
+        "form_label": "胜平平胜负"
+      },
+      {
+        "position": 5,
         "team_id": "ast_8846cc907b394f2eae0a5c037109b864",
         "team": "圣卡洛斯",
         "played": 11,
@@ -373,34 +388,19 @@
         "form_label": "负胜胜胜胜"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b",
         "team": "国际圣卡洛斯",
-        "played": 11,
+        "played": 12,
         "wins": 5,
         "draws": 3,
-        "losses": 3,
-        "goals_for": 12,
-        "goals_against": 14,
-        "goal_difference": -2,
+        "losses": 4,
+        "goals_for": 14,
+        "goals_against": 17,
+        "goal_difference": -3,
         "points": 18,
-        "form": "WDLDW",
-        "form_label": "胜平负平胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_362ecce906604e098df706316bc6ac47",
-        "team": "阿拉胡埃伦斯",
-        "played": 11,
-        "wins": 4,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 12,
-        "goal_difference": 5,
-        "points": 16,
-        "form": "DDWLL",
-        "form_label": "平平胜负负"
+        "form": "LWDLD",
+        "form_label": "负胜平负平"
       },
       {
         "position": 7,
@@ -1085,7 +1085,7 @@
         "match_id": "as_1114c9d8a0e24236bc2445b1029d12df",
         "date": "2026-10-20",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -1097,15 +1097,13 @@
           "name": "圣卡洛斯",
           "team_id": "ast_8846cc907b394f2eae0a5c037109b864"
         },
-        "ht_score": "-",
-        "venue": "Estadio Puente de Piedra",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c17840ccbab14316bec934d9fd09cd1b",
         "date": "2026-10-20",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -1117,9 +1115,7 @@
           "name": "普恩塔雷纳斯FC",
           "team_id": "ast_fe1636ce4166499a956d89977011341e"
         },
-        "ht_score": "-",
-        "venue": "Estadio Edgardo Baltodano Briceno",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d9b38d9472c34b548b4bdeffafc09d9a",
@@ -1143,7 +1139,7 @@
         "match_id": "as_5033a6235cb64999936716eb263877a8",
         "date": "2026-10-18",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -1155,7 +1151,10 @@
           "name": "阿拉胡埃伦斯",
           "team_id": "ast_362ecce906604e098df706316bc6ac47"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_927ad01850b84c32b99c446a3747cc97",
@@ -3074,7 +3073,7 @@
         "match_id": "as_c17840ccbab14316bec934d9fd09cd1b",
         "date": "2026-10-20",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -3086,15 +3085,13 @@
           "name": "普恩塔雷纳斯FC",
           "team_id": "ast_fe1636ce4166499a956d89977011341e"
         },
-        "ht_score": "-",
-        "venue": "Estadio Edgardo Baltodano Briceno",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1114c9d8a0e24236bc2445b1029d12df",
         "date": "2026-10-20",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -3106,9 +3103,7 @@
           "name": "圣卡洛斯",
           "team_id": "ast_8846cc907b394f2eae0a5c037109b864"
         },
-        "ht_score": "-",
-        "venue": "Estadio Puente de Piedra",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_927ad01850b84c32b99c446a3747cc97",
@@ -3132,7 +3127,7 @@
         "match_id": "as_5033a6235cb64999936716eb263877a8",
         "date": "2026-10-18",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -3144,7 +3139,10 @@
           "name": "阿拉胡埃伦斯",
           "team_id": "ast_362ecce906604e098df706316bc6ac47"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d9b38d9472c34b548b4bdeffafc09d9a",
@@ -7610,13 +7608,13 @@
     }
   },
   "stats": {
-    "matches_completed": 55,
-    "total_goals": 144,
-    "avg_goals_per_match": 2.62,
+    "matches_completed": 56,
+    "total_goals": 149,
+    "avg_goals_per_match": 2.66,
     "home_wins": 27,
     "draws": 10,
-    "away_wins": 18,
-    "home_win_pct": 49.1,
+    "away_wins": 19,
+    "home_win_pct": 48.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8416,5 +8414,5 @@
     "matches_current_season": 97,
     "upcoming_matches": 35
   },
-  "updated_at": "2026/10/17"
+  "updated_at": "2026/10/18"
 }

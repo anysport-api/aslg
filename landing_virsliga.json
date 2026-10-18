@@ -278,15 +278,15 @@
         "position": 8,
         "team_id": "ast_8a232a2881404432900a6a027865ee2d",
         "team": "Grobina",
-        "played": 32,
-        "wins": 5,
+        "played": 33,
+        "wins": 6,
         "draws": 11,
         "losses": 16,
-        "goals_for": 22,
-        "goals_against": 54,
-        "goal_difference": -32,
-        "points": 26,
-        "form": "LDDLW"
+        "goals_for": 25,
+        "goals_against": 56,
+        "goal_difference": -31,
+        "points": 29,
+        "form": "WLDDL"
       },
       {
         "position": 9,
@@ -306,15 +306,15 @@
         "position": 10,
         "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11",
         "team": "Ogre United",
-        "played": 32,
+        "played": 33,
         "wins": 4,
         "draws": 6,
-        "losses": 22,
-        "goals_for": 31,
-        "goals_against": 78,
-        "goal_difference": -47,
+        "losses": 23,
+        "goals_for": 33,
+        "goals_against": 81,
+        "goal_difference": -48,
         "points": 18,
-        "form": "LWLDL"
+        "form": "LLWLD"
       }
     ],
     "zh": [
@@ -427,16 +427,16 @@
         "position": 8,
         "team_id": "ast_8a232a2881404432900a6a027865ee2d",
         "team": "格罗比纳",
-        "played": 32,
-        "wins": 5,
+        "played": 33,
+        "wins": 6,
         "draws": 11,
         "losses": 16,
-        "goals_for": 22,
-        "goals_against": 54,
-        "goal_difference": -32,
-        "points": 26,
-        "form": "LDDLW",
-        "form_label": "负平平负胜"
+        "goals_for": 25,
+        "goals_against": 56,
+        "goal_difference": -31,
+        "points": 29,
+        "form": "WLDDL",
+        "form_label": "胜负平平负"
       },
       {
         "position": 9,
@@ -457,16 +457,16 @@
         "position": 10,
         "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11",
         "team": "奥格联合",
-        "played": 32,
+        "played": 33,
         "wins": 4,
         "draws": 6,
-        "losses": 22,
-        "goals_for": 31,
-        "goals_against": 78,
-        "goal_difference": -47,
+        "losses": 23,
+        "goals_for": 33,
+        "goals_against": 81,
+        "goal_difference": -48,
         "points": 18,
-        "form": "LWLDL",
-        "form_label": "负胜负平负"
+        "form": "LLWLD",
+        "form_label": "负负胜负平"
       }
     ]
   },
@@ -771,7 +771,7 @@
         "match_id": "as_f5513e0efc884ab3af940113d115705a",
         "date": "2026-10-24",
         "time": "10:00",
-        "status": "10:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -783,7 +783,9 @@
           "name": "图库姆斯2000",
           "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Daugavas stadions",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_51116fc5191e442c8dad5d76f330acd3",
@@ -861,7 +863,7 @@
         "match_id": "as_af319b5167a047db8e760541a698e7e8",
         "date": "2026-10-17",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -873,7 +875,10 @@
           "name": "奥格联合",
           "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_47496eb59e6240e9a807807b1ce8da5f",
@@ -4521,7 +4526,7 @@
         "match_id": "as_f5513e0efc884ab3af940113d115705a",
         "date": "2026-10-24",
         "time": "10:00",
-        "status": "10:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4533,7 +4538,9 @@
           "name": "图库姆斯2000",
           "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Daugavas stadions",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6ff3e8b84e684582a1c909208d8e5080",
@@ -4604,24 +4611,6 @@
         "away": {
           "name": "耶尔加瓦",
           "team_id": "ast_5b9d75249043418b8463abc0ec30a5b8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_af319b5167a047db8e760541a698e7e8",
-        "date": "2026-10-17",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "格罗比纳",
-          "team_id": "ast_8a232a2881404432900a6a027865ee2d"
-        },
-        "away": {
-          "name": "奥格联合",
-          "team_id": "ast_4d075ff08e414c5f9ba0256fc798ee11"
         },
         "venue": ""
       }
@@ -8052,13 +8041,13 @@
     }
   },
   "stats": {
-    "matches_completed": 160,
-    "total_goals": 461,
-    "avg_goals_per_match": 2.88,
-    "home_wins": 67,
+    "matches_completed": 161,
+    "total_goals": 466,
+    "avg_goals_per_match": 2.89,
+    "home_wins": 68,
     "draws": 37,
     "away_wins": 56,
-    "home_win_pct": 41.9,
+    "home_win_pct": 42.2,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8856,7 +8845,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 20
+    "upcoming_matches": 19
   },
-  "updated_at": "2026/10/17"
+  "updated_at": "2026/10/18"
 }

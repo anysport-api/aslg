@@ -230,29 +230,29 @@
         "position": 2,
         "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3",
         "team": "Vejle",
-        "played": 10,
-        "wins": 5,
+        "played": 11,
+        "wins": 6,
         "draws": 4,
         "losses": 1,
-        "goals_for": 23,
+        "goals_for": 24,
         "goals_against": 15,
-        "goal_difference": 8,
-        "points": 19,
-        "form": "LDDWD"
+        "goal_difference": 9,
+        "points": 22,
+        "form": "WLDDW"
       },
       {
         "position": 3,
         "team_id": "ast_14ef741472ad4c94bb6831320d6c3343",
         "team": "Fredericia",
-        "played": 10,
-        "wins": 4,
+        "played": 11,
+        "wins": 5,
         "draws": 5,
         "losses": 1,
-        "goals_for": 14,
+        "goals_for": 17,
         "goals_against": 6,
-        "goal_difference": 8,
-        "points": 17,
-        "form": "WDDWL"
+        "goal_difference": 11,
+        "points": 20,
+        "form": "WWDDW"
       },
       {
         "position": 4,
@@ -272,15 +272,15 @@
         "position": 5,
         "team_id": "ast_82f893b6cb5a40d79730de5d2bc7002d",
         "team": "Aalborg",
-        "played": 10,
+        "played": 11,
         "wins": 3,
         "draws": 5,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 14,
-        "goals_against": 14,
-        "goal_difference": 0,
+        "goals_against": 15,
+        "goal_difference": -1,
         "points": 14,
-        "form": "DDDWD"
+        "form": "LDDDW"
       },
       {
         "position": 6,
@@ -300,15 +300,15 @@
         "position": 7,
         "team_id": "ast_86d69a17c1de47ba8a800cddb1238596",
         "team": "Hobro",
-        "played": 10,
+        "played": 11,
         "wins": 4,
         "draws": 2,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 13,
-        "goals_against": 17,
-        "goal_difference": -4,
+        "goals_against": 20,
+        "goal_difference": -7,
         "points": 14,
-        "form": "DLDLL"
+        "form": "LDLDL"
       },
       {
         "position": 8,
@@ -401,31 +401,31 @@
         "position": 2,
         "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3",
         "team": "维耶莱",
-        "played": 10,
-        "wins": 5,
+        "played": 11,
+        "wins": 6,
         "draws": 4,
         "losses": 1,
-        "goals_for": 23,
+        "goals_for": 24,
         "goals_against": 15,
-        "goal_difference": 8,
-        "points": 19,
-        "form": "LDDWD",
-        "form_label": "负平平胜平"
+        "goal_difference": 9,
+        "points": 22,
+        "form": "WLDDW",
+        "form_label": "胜负平平胜"
       },
       {
         "position": 3,
         "team_id": "ast_14ef741472ad4c94bb6831320d6c3343",
         "team": "弗雷德里西亚",
-        "played": 10,
-        "wins": 4,
+        "played": 11,
+        "wins": 5,
         "draws": 5,
         "losses": 1,
-        "goals_for": 14,
+        "goals_for": 17,
         "goals_against": 6,
-        "goal_difference": 8,
-        "points": 17,
-        "form": "WDDWL",
-        "form_label": "胜平平胜负"
+        "goal_difference": 11,
+        "points": 20,
+        "form": "WWDDW",
+        "form_label": "胜胜平平胜"
       },
       {
         "position": 4,
@@ -446,16 +446,16 @@
         "position": 5,
         "team_id": "ast_82f893b6cb5a40d79730de5d2bc7002d",
         "team": "奥尔堡",
-        "played": 10,
+        "played": 11,
         "wins": 3,
         "draws": 5,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 14,
-        "goals_against": 14,
-        "goal_difference": 0,
+        "goals_against": 15,
+        "goal_difference": -1,
         "points": 14,
-        "form": "DDDWD",
-        "form_label": "平平平胜平"
+        "form": "LDDDW",
+        "form_label": "负平平平胜"
       },
       {
         "position": 6,
@@ -476,16 +476,16 @@
         "position": 7,
         "team_id": "ast_86d69a17c1de47ba8a800cddb1238596",
         "team": "霍布罗",
-        "played": 10,
+        "played": 11,
         "wins": 4,
         "draws": 2,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 13,
-        "goals_against": 17,
-        "goal_difference": -4,
+        "goals_against": 20,
+        "goal_difference": -7,
         "points": 14,
-        "form": "DLDLL",
-        "form_label": "平负平负负"
+        "form": "LDLDL",
+        "form_label": "负平负平负"
       },
       {
         "position": 8,
@@ -1923,7 +1923,7 @@
         "match_id": "as_47b7a8ea3f5841b0a9c07d3e5db4d161",
         "date": "2026-10-17",
         "time": "11:30",
-        "status": "11:30",
+        "status": "FT",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -1935,13 +1935,16 @@
           "name": "维耶莱",
           "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5767930baec64fd78143bad124c28a77",
         "date": "2026-10-17",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -1953,7 +1956,10 @@
           "name": "霍布罗",
           "team_id": "ast_86d69a17c1de47ba8a800cddb1238596"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_69dfa10ee9304d57a1effecee444ad8d",
@@ -3897,42 +3903,6 @@
           "team_id": "ast_6a8f6639956f451c869d99ecbfbe18a2"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_5767930baec64fd78143bad124c28a77",
-        "date": "2026-10-17",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "丹麦甲级联赛",
-        "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
-        "season": "2026/2027",
-        "home": {
-          "name": "弗雷德里西亚",
-          "team_id": "ast_14ef741472ad4c94bb6831320d6c3343"
-        },
-        "away": {
-          "name": "霍布罗",
-          "team_id": "ast_86d69a17c1de47ba8a800cddb1238596"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_47b7a8ea3f5841b0a9c07d3e5db4d161",
-        "date": "2026-10-17",
-        "time": "11:30",
-        "status": "11:30",
-        "league": "丹麦甲级联赛",
-        "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥尔堡",
-          "team_id": "ast_82f893b6cb5a40d79730de5d2bc7002d"
-        },
-        "away": {
-          "name": "维耶莱",
-          "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5605,23 +5575,23 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
-    "total_goals": 175,
-    "avg_goals_per_match": 2.78,
-    "home_wins": 20,
+    "matches_completed": 65,
+    "total_goals": 179,
+    "avg_goals_per_match": 2.75,
+    "home_wins": 21,
     "draws": 24,
-    "away_wins": 19,
-    "home_win_pct": 31.7,
+    "away_wins": 20,
+    "home_win_pct": 32.3,
     "biggest_win": {
       "margin": 3,
       "match": {
-        "match_id": "as_29b9616d5b804afebe975efcb545cd14",
-        "date": "2026-09-21",
-        "home_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8",
-        "home": "科格",
+        "match_id": "as_5767930baec64fd78143bad124c28a77",
+        "date": "2026-10-17",
+        "home_id": "ast_14ef741472ad4c94bb6831320d6c3343",
+        "home": "弗雷德里西亚",
         "away_id": "ast_86d69a17c1de47ba8a800cddb1238596",
         "away": "霍布罗",
-        "score": "5-2"
+        "score": "3-0"
       }
     },
     "highest_scoring_match": {
@@ -5750,29 +5720,29 @@
             "position": 2,
             "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3",
             "team": "Vejle",
-            "played": 10,
-            "wins": 5,
+            "played": 11,
+            "wins": 6,
             "draws": 4,
             "losses": 1,
-            "goals_for": 23,
+            "goals_for": 24,
             "goals_against": 15,
-            "goal_difference": 8,
-            "points": 19,
-            "form": "LDDWD"
+            "goal_difference": 9,
+            "points": 22,
+            "form": "WLDDW"
           },
           {
             "position": 3,
             "team_id": "ast_14ef741472ad4c94bb6831320d6c3343",
             "team": "Fredericia",
-            "played": 10,
-            "wins": 4,
+            "played": 11,
+            "wins": 5,
             "draws": 5,
             "losses": 1,
-            "goals_for": 14,
+            "goals_for": 17,
             "goals_against": 6,
-            "goal_difference": 8,
-            "points": 17,
-            "form": "WDDWL"
+            "goal_difference": 11,
+            "points": 20,
+            "form": "WWDDW"
           }
         ],
         "meta": {
@@ -6422,7 +6392,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 33
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/10/17"
+  "updated_at": "2026/10/18"
 }
