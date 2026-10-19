@@ -162,6 +162,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_428dc24ee7884a209151a451c128c5f2",
+        "team": "Busan",
+        "played": 28,
+        "wins": 13,
+        "draws": 6,
+        "losses": 9,
+        "goals_for": 44,
+        "goals_against": 36,
+        "goal_difference": 8,
+        "points": 45,
+        "form": "WDLWL"
+      },
+      {
+        "position": 6,
         "team_id": "ast_bec607ded1cc4e2cb56b91ff74615dde",
         "team": "Hwaseong",
         "played": 28,
@@ -173,20 +187,6 @@
         "goal_difference": 12,
         "points": 44,
         "form": "LLDWD"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_428dc24ee7884a209151a451c128c5f2",
-        "team": "Busan",
-        "played": 27,
-        "wins": 12,
-        "draws": 6,
-        "losses": 9,
-        "goals_for": 42,
-        "goals_against": 35,
-        "goal_difference": 7,
-        "points": 42,
-        "form": "DLWLL"
       },
       {
         "position": 7,
@@ -318,15 +318,15 @@
         "position": 16,
         "team_id": "ast_e6bec92301c74a00b883df8902d2331e",
         "team": "Jeonnam",
-        "played": 26,
+        "played": 27,
         "wins": 5,
         "draws": 9,
-        "losses": 12,
-        "goals_for": 30,
-        "goals_against": 44,
-        "goal_difference": -14,
+        "losses": 13,
+        "goals_for": 31,
+        "goals_against": 46,
+        "goal_difference": -15,
         "points": 24,
-        "form": "WLDDW"
+        "form": "LWLDD"
       },
       {
         "position": 17,
@@ -406,6 +406,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_428dc24ee7884a209151a451c128c5f2",
+        "team": "釜山",
+        "played": 28,
+        "wins": 13,
+        "draws": 6,
+        "losses": 9,
+        "goals_for": 44,
+        "goals_against": 36,
+        "goal_difference": 8,
+        "points": 45,
+        "form": "WDLWL",
+        "form_label": "胜平负胜负"
+      },
+      {
+        "position": 6,
         "team_id": "ast_bec607ded1cc4e2cb56b91ff74615dde",
         "team": "华城",
         "played": 28,
@@ -418,21 +433,6 @@
         "points": 44,
         "form": "LLDWD",
         "form_label": "负负平胜平"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_428dc24ee7884a209151a451c128c5f2",
-        "team": "釜山",
-        "played": 27,
-        "wins": 12,
-        "draws": 6,
-        "losses": 9,
-        "goals_for": 42,
-        "goals_against": 35,
-        "goal_difference": 7,
-        "points": 42,
-        "form": "DLWLL",
-        "form_label": "平负胜负负"
       },
       {
         "position": 7,
@@ -573,16 +573,16 @@
         "position": 16,
         "team_id": "ast_e6bec92301c74a00b883df8902d2331e",
         "team": "全南天龙",
-        "played": 26,
+        "played": 27,
         "wins": 5,
         "draws": 9,
-        "losses": 12,
-        "goals_for": 30,
-        "goals_against": 44,
-        "goal_difference": -14,
+        "losses": 13,
+        "goals_for": 31,
+        "goals_against": 46,
+        "goal_difference": -15,
         "points": 24,
-        "form": "WLDDW",
-        "form_label": "胜负平平胜"
+        "form": "LWLDD",
+        "form_label": "负胜负平平"
       },
       {
         "position": 17,
@@ -1464,7 +1464,7 @@
         "match_id": "as_59bd468e58354ba296a3b1ff1fa22b03",
         "date": "2026-10-18",
         "time": "07:30",
-        "status": "89",
+        "status": "FT",
         "league": "韩国乙级联赛",
         "league_id": "asl_58f97cf2806f4c20a4f873c156e1f20c",
         "season": "2026",
@@ -1477,8 +1477,9 @@
           "team_id": "ast_e6bec92301c74a00b883df8902d2331e"
         },
         "ht_score": "0-0",
-        "reg_score": "1-0",
-        "venue": ""
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a94bee7e3baa42e39d6ddf5a290654e3",
@@ -7090,68 +7091,6 @@
         "ht_score": "-",
         "venue": "Gwangyang Football Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_59bd468e58354ba296a3b1ff1fa22b03",
-        "date": "2026-10-18",
-        "time": "07:30",
-        "status": "89",
-        "league": "韩国乙级联赛",
-        "league_id": "asl_58f97cf2806f4c20a4f873c156e1f20c",
-        "season": "2026",
-        "home": {
-          "name": "釜山",
-          "team_id": "ast_428dc24ee7884a209151a451c128c5f2"
-        },
-        "away": {
-          "name": "全南天龙",
-          "team_id": "ast_e6bec92301c74a00b883df8902d2331e"
-        },
-        "ht_score": "0-0",
-        "reg_score": "1-0",
-        "venue": ""
-      },
-      {
-        "match_id": "as_91b6900e0f004783951217c39de4cd75",
-        "date": "2026-10-18",
-        "time": "05:00",
-        "status": "FT",
-        "league": "韩国乙级联赛",
-        "league_id": "asl_58f97cf2806f4c20a4f873c156e1f20c",
-        "season": "2026",
-        "home": {
-          "name": "水原三星",
-          "team_id": "ast_adf0c7959f07408aa5e7016683bde983"
-        },
-        "away": {
-          "name": "华城",
-          "team_id": "ast_bec607ded1cc4e2cb56b91ff74615dde"
-        },
-        "ht_score": "3-0",
-        "reg_score": "3-2",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_542ca2e7de194cf9a1d429ec249fbd25",
-        "date": "2026-10-18",
-        "time": "05:00",
-        "status": "FT",
-        "league": "韩国乙级联赛",
-        "league_id": "asl_58f97cf2806f4c20a4f873c156e1f20c",
-        "season": "2026",
-        "home": {
-          "name": "首尔E-Land",
-          "team_id": "ast_311e5366590741a1acd19a3be2022863"
-        },
-        "away": {
-          "name": "金海",
-          "team_id": "ast_78be765a28d74777b47441aefab33ec9"
-        },
-        "ht_score": "2-1",
-        "reg_score": "6-2",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -8816,8 +8755,8 @@
   },
   "stats": {
     "matches_completed": 232,
-    "total_goals": 627,
-    "avg_goals_per_match": 2.7,
+    "total_goals": 629,
+    "avg_goals_per_match": 2.71,
     "home_wins": 86,
     "draws": 73,
     "away_wins": 73,
@@ -9619,7 +9558,7 @@
     "teams_all_time": 24,
     "standings_rows_current": 17,
     "matches_current_season": 272,
-    "upcoming_matches": 43
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }

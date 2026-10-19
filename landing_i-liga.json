@@ -168,15 +168,15 @@
         "position": 1,
         "team_id": "ast_769b24c6c79942e8937db9affc308481",
         "team": "Petrzalka",
-        "played": 12,
+        "played": 13,
         "wins": 9,
-        "draws": 2,
+        "draws": 3,
         "losses": 1,
-        "goals_for": 22,
-        "goals_against": 8,
+        "goals_for": 23,
+        "goals_against": 9,
         "goal_difference": 14,
-        "points": 29,
-        "form": "DDWWL"
+        "points": 30,
+        "form": "DDDWW"
       },
       {
         "position": 2,
@@ -292,6 +292,20 @@
       },
       {
         "position": 10,
+        "team_id": "ast_caa3053fdb094da9856212e361503d25",
+        "team": "Slovan Bratislava B",
+        "played": 13,
+        "wins": 4,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 17,
+        "goal_difference": 2,
+        "points": 16,
+        "form": "DWWDL"
+      },
+      {
+        "position": 11,
         "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55",
         "team": "Lehota p. V.",
         "played": 13,
@@ -303,20 +317,6 @@
         "goal_difference": -2,
         "points": 16,
         "form": "LWLLL"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_caa3053fdb094da9856212e361503d25",
-        "team": "Slovan Bratislava B",
-        "played": 12,
-        "wins": 4,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 18,
-        "goals_against": 16,
-        "goal_difference": 2,
-        "points": 15,
-        "form": "WWDLW"
       },
       {
         "position": 12,
@@ -394,16 +394,16 @@
         "position": 1,
         "team_id": "ast_769b24c6c79942e8937db9affc308481",
         "team": "佩特尔扎尔卡",
-        "played": 12,
+        "played": 13,
         "wins": 9,
-        "draws": 2,
+        "draws": 3,
         "losses": 1,
-        "goals_for": 22,
-        "goals_against": 8,
+        "goals_for": 23,
+        "goals_against": 9,
         "goal_difference": 14,
-        "points": 29,
-        "form": "DDWWL",
-        "form_label": "平平胜胜负"
+        "points": 30,
+        "form": "DDDWW",
+        "form_label": "平平平胜胜"
       },
       {
         "position": 2,
@@ -527,6 +527,21 @@
       },
       {
         "position": 10,
+        "team_id": "ast_caa3053fdb094da9856212e361503d25",
+        "team": "布拉迪斯拉发B队",
+        "played": 13,
+        "wins": 4,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 17,
+        "goal_difference": 2,
+        "points": 16,
+        "form": "DWWDL",
+        "form_label": "平胜胜平负"
+      },
+      {
+        "position": 11,
         "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55",
         "team": "莱霍塔",
         "played": 13,
@@ -539,21 +554,6 @@
         "points": 16,
         "form": "LWLLL",
         "form_label": "负胜负负负"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_caa3053fdb094da9856212e361503d25",
-        "team": "布拉迪斯拉发B队",
-        "played": 12,
-        "wins": 4,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 18,
-        "goals_against": 16,
-        "goal_difference": 2,
-        "points": 15,
-        "form": "WWDLW",
-        "form_label": "胜胜平负胜"
       },
       {
         "position": 12,
@@ -3391,7 +3391,7 @@
         "match_id": "as_8a268b7a677e445594a64101f45cbc9a",
         "date": "2026-10-18",
         "time": "08:30",
-        "status": "66",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3404,8 +3404,9 @@
           "team_id": "ast_caa3053fdb094da9856212e361503d25"
         },
         "ht_score": "0-0",
-        "reg_score": "0-0",
-        "venue": ""
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fa4adf7dec14436baf264fe5aa90acde",
@@ -3530,7 +3531,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Mestsky futbalovy stadion Milana Janeka",
         "status_label": "完场"
       },
       {
@@ -6208,26 +6209,6 @@
           "team_id": "ast_03de54b888154cd9a67cfa8cbefee450"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_8a268b7a677e445594a64101f45cbc9a",
-        "date": "2026-10-18",
-        "time": "08:30",
-        "status": "66",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "佩特尔扎尔卡",
-          "team_id": "ast_769b24c6c79942e8937db9affc308481"
-        },
-        "away": {
-          "name": "布拉迪斯拉发B队",
-          "team_id": "ast_caa3053fdb094da9856212e361503d25"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-0",
-        "venue": ""
       }
     ]
   },
@@ -8327,8 +8308,8 @@
   },
   "stats": {
     "matches_completed": 103,
-    "total_goals": 292,
-    "avg_goals_per_match": 2.83,
+    "total_goals": 294,
+    "avg_goals_per_match": 2.85,
     "home_wins": 49,
     "draws": 22,
     "away_wins": 32,
@@ -8359,8 +8340,8 @@
     },
     "leader": {
       "team": "Petrzalka",
-      "points": 29,
-      "played": 12
+      "points": 30,
+      "played": 13
     }
   },
   "coverage": {
@@ -8457,15 +8438,15 @@
             "position": 1,
             "team_id": "ast_769b24c6c79942e8937db9affc308481",
             "team": "Petrzalka",
-            "played": 12,
+            "played": 13,
             "wins": 9,
-            "draws": 2,
+            "draws": 3,
             "losses": 1,
-            "goals_for": 22,
-            "goals_against": 8,
+            "goals_for": 23,
+            "goals_against": 9,
             "goal_difference": 14,
-            "points": 29,
-            "form": "DDWWL"
+            "points": 30,
+            "form": "DDDWW"
           },
           {
             "position": 2,
@@ -9130,7 +9111,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 34
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }

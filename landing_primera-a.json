@@ -170,15 +170,15 @@
         "position": 2,
         "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
         "team": "Leones Negros",
-        "played": 12,
+        "played": 13,
         "wins": 7,
         "draws": 3,
-        "losses": 2,
-        "goals_for": 28,
-        "goals_against": 17,
-        "goal_difference": 11,
+        "losses": 3,
+        "goals_for": 29,
+        "goals_against": 19,
+        "goal_difference": 10,
         "points": 24,
-        "form": "DWWLD"
+        "form": "LDWWL"
       },
       {
         "position": 3,
@@ -322,6 +322,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_1b2f4fc2af834764bd61cedd57af257c",
+        "team": "Alebrijes Oaxaca",
+        "played": 13,
+        "wins": 5,
+        "draws": 1,
+        "losses": 7,
+        "goals_for": 12,
+        "goals_against": 24,
+        "goal_difference": -12,
+        "points": 16,
+        "form": "WWLLL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_7484c9571dd54449b43f55946251834c",
         "team": "Jaiba Brava",
         "played": 13,
@@ -335,7 +349,7 @@
         "form": "WDLLD"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_25b74bc4cb1d481889ad46060f53fd0d",
         "team": "Cruz Azul Hidalgo",
         "played": 13,
@@ -347,20 +361,6 @@
         "goal_difference": -4,
         "points": 14,
         "form": "WWDLL"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_1b2f4fc2af834764bd61cedd57af257c",
-        "team": "Alebrijes Oaxaca",
-        "played": 12,
-        "wins": 4,
-        "draws": 1,
-        "losses": 7,
-        "goals_for": 10,
-        "goals_against": 23,
-        "goal_difference": -13,
-        "points": 13,
-        "form": "WLLLW"
       },
       {
         "position": 16,
@@ -397,16 +397,16 @@
         "position": 2,
         "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
         "team": "黑狮队UdeG",
-        "played": 12,
+        "played": 13,
         "wins": 7,
         "draws": 3,
-        "losses": 2,
-        "goals_for": 28,
-        "goals_against": 17,
-        "goal_difference": 11,
+        "losses": 3,
+        "goals_for": 29,
+        "goals_against": 19,
+        "goal_difference": 10,
         "points": 24,
-        "form": "DWWLD",
-        "form_label": "平胜胜负平"
+        "form": "LDWWL",
+        "form_label": "负平胜胜负"
       },
       {
         "position": 3,
@@ -560,6 +560,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_1b2f4fc2af834764bd61cedd57af257c",
+        "team": "瓦哈卡阿莱布里赫斯",
+        "played": 13,
+        "wins": 5,
+        "draws": 1,
+        "losses": 7,
+        "goals_for": 12,
+        "goals_against": 24,
+        "goal_difference": -12,
+        "points": 16,
+        "form": "WWLLL",
+        "form_label": "胜胜负负负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_7484c9571dd54449b43f55946251834c",
         "team": "海胆勇士",
         "played": 13,
@@ -574,7 +589,7 @@
         "form_label": "胜平负负平"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_25b74bc4cb1d481889ad46060f53fd0d",
         "team": "蓝十字伊达尔戈",
         "played": 13,
@@ -587,21 +602,6 @@
         "points": 14,
         "form": "WWDLL",
         "form_label": "胜胜平负负"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_1b2f4fc2af834764bd61cedd57af257c",
-        "team": "瓦哈卡阿莱布里赫斯",
-        "played": 12,
-        "wins": 4,
-        "draws": 1,
-        "losses": 7,
-        "goals_for": 10,
-        "goals_against": 23,
-        "goal_difference": -13,
-        "points": 13,
-        "form": "WLLLW",
-        "form_label": "胜负负负胜"
       },
       {
         "position": 16,
@@ -1024,7 +1024,7 @@
         "match_id": "as_97b32590395d4afebeb57d29e6c3c681",
         "date": "2026-10-18",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -1036,7 +1036,10 @@
           "name": "瓦哈卡阿莱布里赫斯",
           "team_id": "ast_1b2f4fc2af834764bd61cedd57af257c"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b573e854a3874f66ad0a9ebe2f33f9f0",
@@ -3459,108 +3462,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b573e854a3874f66ad0a9ebe2f33f9f0",
-        "date": "2026-10-18",
-        "time": "03:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "杜兰戈阿拉克兰斯",
-          "team_id": "ast_e124e8f0060149b596865fb9feb1cdc3"
-        },
-        "away": {
-          "name": "塔帕蒂奥",
-          "team_id": "ast_882fff2198e0439aa2c55e00d36fbb3b"
-        },
-        "ht_score": "2-0",
-        "reg_score": "5-0",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_97b32590395d4afebeb57d29e6c3c681",
-        "date": "2026-10-18",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "黑狮队UdeG",
-          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
-        },
-        "away": {
-          "name": "瓦哈卡阿莱布里赫斯",
-          "team_id": "ast_1b2f4fc2af834764bd61cedd57af257c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_be11f68b573141668d20aabf3568d66b",
-        "date": "2026-10-18",
-        "time": "01:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "海盗队",
-          "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
-        },
-        "away": {
-          "name": "特帕蒂特兰德莫雷洛斯",
-          "team_id": "ast_0d421f4968464ddc92d8387c1842419d"
-        },
-        "ht_score": "1-0",
-        "reg_score": "3-0",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_c13a4da3fe5144b5858a6f5e9c407f51",
-        "date": "2026-10-18",
-        "time": "01:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "坎昆",
-          "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d"
-        },
-        "away": {
-          "name": "维纳多斯",
-          "team_id": "ast_4895b318140c4a23a33c95ccca00ed22"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-1",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_79a6b6bd450246149b6d540b31c55f13",
-        "date": "2026-10-18",
-        "time": "01:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "莫雷利亚竞技",
-          "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
-        },
-        "away": {
-          "name": "海胆勇士",
-          "team_id": "ast_7484c9571dd54449b43f55946251834c"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-2",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -5635,13 +5536,13 @@
     }
   },
   "stats": {
-    "matches_completed": 103,
-    "total_goals": 336,
+    "matches_completed": 104,
+    "total_goals": 339,
     "avg_goals_per_match": 3.26,
     "home_wins": 51,
     "draws": 24,
-    "away_wins": 28,
-    "home_win_pct": 49.5,
+    "away_wins": 29,
+    "home_win_pct": 49.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -5780,15 +5681,15 @@
             "position": 2,
             "team_id": "ast_286062b3c5cc469883e776ba7e103f19",
             "team": "Leones Negros",
-            "played": 12,
+            "played": 13,
             "wins": 7,
             "draws": 3,
-            "losses": 2,
-            "goals_for": 28,
-            "goals_against": 17,
-            "goal_difference": 11,
+            "losses": 3,
+            "goals_for": 29,
+            "goals_against": 19,
+            "goal_difference": 10,
             "points": 24,
-            "form": "DWWLD"
+            "form": "LDWWL"
           },
           {
             "position": 3,
@@ -6439,7 +6340,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 120,
-    "upcoming_matches": 21
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }

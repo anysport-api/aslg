@@ -1352,7 +1352,7 @@
         "match_id": "as_002212da443a4e7596a78f137e4ddbd2",
         "date": "2026-10-21",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Not Started",
         "league": "亚洲挑战联赛",
         "league_id": "asl_f4bd87f667e847a98dddf0be00ea8df8",
         "season": "2026/2027",
@@ -1364,7 +1364,9 @@
           "name": "山联",
           "team_id": "ast_ddf11a97961447d5bf90499a014d42b1"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "杜温纳体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6b2ef4f4df1848ab83603bed30b497eb",
@@ -1389,7 +1391,7 @@
         "match_id": "as_b00b42e1b93443e7a57385ef061e4c82",
         "date": "2026-10-21",
         "time": "12:30",
-        "status": "12:30",
+        "status": "Not Started",
         "league": "亚洲挑战联赛",
         "league_id": "asl_f4bd87f667e847a98dddf0be00ea8df8",
         "season": "2026/2027",
@@ -1401,13 +1403,15 @@
           "name": "马尼拉挖掘者",
           "team_id": "ast_39ea09a59b7c4759981c13fca4da392b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "杜温纳体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_7155432cca35445abbf417a7142f1180",
         "date": "2026-10-21",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "亚洲挑战联赛",
         "league_id": "asl_f4bd87f667e847a98dddf0be00ea8df8",
         "season": "2026/2027",
@@ -1419,7 +1423,9 @@
           "name": "婆罗洲",
           "team_id": "ast_e8b68cdeca984c4b8fd2cda5dc07b40e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "塞吉里体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_49c512ecf85c4d67a838320fc50ed786",
@@ -1528,79 +1534,6 @@
           "team_id": "ast_2879763d9ad84f57bde61c78d9662476"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_2371fd800aac466faebf66892d433888",
-        "date": "2026-10-18",
-        "time": "12:30",
-        "status": "12:30",
-        "league": "亚洲挑战联赛",
-        "league_id": "asl_f4bd87f667e847a98dddf0be00ea8df8",
-        "season": "2026/2027",
-        "home": {
-          "name": "马尼拉挖掘者",
-          "team_id": "ast_39ea09a59b7c4759981c13fca4da392b"
-        },
-        "away": {
-          "name": "卡苏卡",
-          "team_id": "ast_6e1733bead9d4a42be1f3bf72c057fe4"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1cf75b1a43354a24a92bc38abaec5d5f",
-        "date": "2026-10-18",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "亚洲挑战联赛",
-        "league_id": "asl_f4bd87f667e847a98dddf0be00ea8df8",
-        "season": "2026/2027",
-        "home": {
-          "name": "婆罗洲",
-          "team_id": "ast_e8b68cdeca984c4b8fd2cda5dc07b40e"
-        },
-        "away": {
-          "name": "仰光联",
-          "team_id": "ast_a0ca8e0f5eca438db10e4e021513852c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6edd42c665da45f79c51a88b925884f7",
-        "date": "2026-10-18",
-        "time": "09:30",
-        "status": "09:30",
-        "league": "亚洲挑战联赛",
-        "league_id": "asl_f4bd87f667e847a98dddf0be00ea8df8",
-        "season": "2026/2027",
-        "home": {
-          "name": "山联",
-          "team_id": "ast_ddf11a97961447d5bf90499a014d42b1"
-        },
-        "away": {
-          "name": "恒源",
-          "team_id": "ast_a91b293e4cae464daa02e1c808e21a92"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4ff33eabbe9748a284f3aeb7d4e80229",
-        "date": "2026-10-18",
-        "time": "08:00",
-        "status": "Cancl.",
-        "league": "亚洲挑战联赛",
-        "league_id": "asl_f4bd87f667e847a98dddf0be00ea8df8",
-        "season": "2026/2027",
-        "home": {
-          "name": "一诺塔吉格",
-          "team_id": "ast_d9b33487d4974886836e8042efb5958a"
-        },
-        "away": {
-          "name": "台湾钢铁",
-          "team_id": "ast_8f41573a2ad24edfa07e0fe20f027724"
-        },
-        "venue": "",
-        "status_label": "取消"
       }
     ]
   },
@@ -2783,7 +2716,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 18,
     "matches_current_season": 27,
-    "upcoming_matches": 24
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }

@@ -354,15 +354,15 @@
         "position": 10,
         "team_id": "ast_9cebdbb5419c4fe6b7437eb691b45599",
         "team": "Loudoun",
-        "played": 28,
+        "played": 29,
         "wins": 5,
-        "draws": 12,
+        "draws": 13,
         "losses": 11,
         "goals_for": 34,
         "goals_against": 45,
         "goal_difference": -11,
-        "points": 27,
-        "form": "LWDWL"
+        "points": 28,
+        "form": "DLWDW"
       },
       {
         "position": 10,
@@ -382,15 +382,15 @@
         "position": 11,
         "team_id": "ast_0a70a9ab75374432a572042df22d3c1a",
         "team": "Birmingham",
-        "played": 27,
+        "played": 28,
         "wins": 5,
-        "draws": 11,
+        "draws": 12,
         "losses": 11,
         "goals_for": 37,
         "goals_against": 43,
         "goal_difference": -6,
-        "points": 26,
-        "form": "WLWLD"
+        "points": 27,
+        "form": "DWLWL"
       },
       {
         "position": 11,
@@ -724,16 +724,16 @@
         "position": 10,
         "team_id": "ast_9cebdbb5419c4fe6b7437eb691b45599",
         "team": "劳登",
-        "played": 28,
+        "played": 29,
         "wins": 5,
-        "draws": 12,
+        "draws": 13,
         "losses": 11,
         "goals_for": 34,
         "goals_against": 45,
         "goal_difference": -11,
-        "points": 27,
-        "form": "LWDWL",
-        "form_label": "负胜平胜负"
+        "points": 28,
+        "form": "DLWDW",
+        "form_label": "平负胜平胜"
       },
       {
         "position": 10,
@@ -754,16 +754,16 @@
         "position": 11,
         "team_id": "ast_0a70a9ab75374432a572042df22d3c1a",
         "team": "伯明翰",
-        "played": 27,
+        "played": 28,
         "wins": 5,
-        "draws": 11,
+        "draws": 12,
         "losses": 11,
         "goals_for": 37,
         "goals_against": 43,
         "goal_difference": -6,
-        "points": 26,
-        "form": "WLWLD",
-        "form_label": "胜负胜负平"
+        "points": 27,
+        "form": "DWLWL",
+        "form_label": "平胜负胜负"
       },
       {
         "position": 11,
@@ -1088,7 +1088,7 @@
         "match_id": "as_3c94554ce2cd457e88d05f74f7f00403",
         "date": "2026-10-21",
         "time": "22:30",
-        "status": "22:30",
+        "status": "Not Started",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -1100,13 +1100,15 @@
           "name": "伯明翰",
           "team_id": "ast_90a424d20f9040cab37b87f0c95f2f0c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "迈蒙尼德公园球场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_63e68f0d73034f4fa816f6663cb278f5",
         "date": "2026-10-21",
         "time": "23:30",
-        "status": "23:30",
+        "status": "Not Started",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -1118,7 +1120,9 @@
           "name": "路易斯维尔城",
           "team_id": "ast_390b1db3056242bb9a98447f3fb9cfac"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "霍奇斯体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_8673126cc9084bb8b0230865786a7312",
@@ -1250,7 +1254,7 @@
         "match_id": "as_ae0f1e845fb247adac7ef3a812d8f41b",
         "date": "2026-10-18",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -1262,7 +1266,10 @@
           "name": "劳登",
           "team_id": "ast_9cebdbb5419c4fe6b7437eb691b45599"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_947fa1cbffa7473ca657944b649052e4",
@@ -1387,7 +1394,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "森特维尔银行体育场",
         "status_label": "完场"
       },
       {
@@ -1408,7 +1415,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Trinity健康体育场",
         "status_label": "完场"
       },
       {
@@ -1429,7 +1436,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "霍奇斯体育场",
         "status_label": "完场"
       },
       {
@@ -8944,7 +8951,7 @@
         "match_id": "as_63e68f0d73034f4fa816f6663cb278f5",
         "date": "2026-10-21",
         "time": "23:30",
-        "status": "23:30",
+        "status": "Not Started",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -8956,13 +8963,15 @@
           "name": "路易斯维尔城",
           "team_id": "ast_390b1db3056242bb9a98447f3fb9cfac"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "霍奇斯体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3c94554ce2cd457e88d05f74f7f00403",
         "date": "2026-10-21",
         "time": "22:30",
-        "status": "22:30",
+        "status": "Not Started",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -8974,151 +8983,9 @@
           "name": "伯明翰",
           "team_id": "ast_90a424d20f9040cab37b87f0c95f2f0c"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ae0f1e845fb247adac7ef3a812d8f41b",
-        "date": "2026-10-18",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "伯明翰",
-          "team_id": "ast_90a424d20f9040cab37b87f0c95f2f0c"
-        },
-        "away": {
-          "name": "劳登",
-          "team_id": "ast_9cebdbb5419c4fe6b7437eb691b45599"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_aa8b968151914f5aac322cba0dc18f73",
-        "date": "2026-10-18",
-        "time": "00:30",
-        "status": "FT",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "圣安东尼奥",
-          "team_id": "ast_83d16ba9230546e9a9a4331cd5e8fe53"
-        },
-        "away": {
-          "name": "新墨西哥",
-          "team_id": "ast_4a05ba5d40dc41dd92fc2fba3253d22e"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_156fbe02151f4ae385e3e3421f6cf0ee",
-        "date": "2026-10-18",
-        "time": "02:00",
-        "status": "FT",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "橙县SC",
-          "team_id": "ast_9bab6764bdaa4a5fa0b0b6e614250007"
-        },
-        "away": {
-          "name": "凤凰崛起",
-          "team_id": "ast_f0ed9c65306243b2b98a0043ff5fbde7"
-        },
-        "ht_score": "0-2",
-        "reg_score": "1-3",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_dfa02e030ea34204a82fc74e0b587ee2",
-        "date": "2026-10-18",
-        "time": "02:00",
-        "status": "FT",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "蒙特雷湾",
-          "team_id": "ast_ab15bbb8c07349a6a202b98b8c57c3d3"
-        },
-        "away": {
-          "name": "科罗拉多斯普林斯",
-          "team_id": "ast_15740872672942d8b75d79bce66d3c4f"
-        },
-        "ht_score": "0-1",
-        "reg_score": "0-1",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_00c12f5a9c984b339817f3a348c24c32",
-        "date": "2026-10-18",
-        "time": "02:30",
-        "status": "FT",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "拉斯维加斯灯光",
-          "team_id": "ast_f98eb5474d16486680e8afccfd8f3363"
-        },
-        "away": {
-          "name": "列克星敦",
-          "team_id": "ast_0ea7f252356745a4a41c26353c8064cd"
-        },
-        "ht_score": "2-2",
-        "reg_score": "3-5",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_9a124f33f8184f0daf8142d12cd3a4e6",
-        "date": "2026-10-18",
-        "time": "00:00",
-        "status": "FT",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "塔尔萨足球俱乐部",
-          "team_id": "ast_2391d43c6cf4473585da4ad9811e373d"
-        },
-        "away": {
-          "name": "奥克兰根",
-          "team_id": "ast_b8698faa60a44959922bcab5ff13f5cd"
-        },
-        "ht_score": "1-1",
-        "reg_score": "2-4",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_8673126cc9084bb8b0230865786a7312",
-        "date": "2026-10-18",
-        "time": "01:00",
-        "status": "FT",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "埃尔帕索",
-          "team_id": "ast_d7e6ded02b4546ab8b4a2c8dd4a4dc9b"
-        },
-        "away": {
-          "name": "萨克拉门托共和国",
-          "team_id": "ast_7c9e4748b5f8487cb6d4d21ea96890e0"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-1",
-        "venue": "",
-        "status_label": "完场"
+        "ht_score": "-",
+        "venue": "迈蒙尼德公园球场",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -12380,13 +12247,13 @@
     }
   },
   "stats": {
-    "matches_completed": 360,
+    "matches_completed": 361,
     "total_goals": 978,
-    "avg_goals_per_match": 2.72,
+    "avg_goals_per_match": 2.71,
     "home_wins": 156,
-    "draws": 101,
+    "draws": 102,
     "away_wins": 103,
-    "home_win_pct": 43.3,
+    "home_win_pct": 43.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13180,7 +13047,7 @@
     "teams_all_time": 45,
     "standings_rows_current": 25,
     "matches_current_season": 375,
-    "upcoming_matches": 21
+    "upcoming_matches": 14
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }

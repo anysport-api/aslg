@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
@@ -174,15 +174,15 @@
         "position": 1,
         "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
         "team": "Metropolitanos",
-        "played": 12,
+        "played": 13,
         "wins": 10,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 28,
-        "goals_against": 9,
+        "goals_for": 30,
+        "goals_against": 11,
         "goal_difference": 19,
-        "points": 31,
-        "form": "WWWWW"
+        "points": 32,
+        "form": "DWWWW"
       },
       {
         "position": 2,
@@ -202,15 +202,15 @@
         "position": 3,
         "team_id": "ast_459053da836741c89d2b6b65c731e190",
         "team": "Puerto Cabello",
-        "played": 12,
+        "played": 13,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 2,
-        "goals_for": 16,
-        "goals_against": 9,
+        "goals_for": 19,
+        "goals_against": 12,
         "goal_difference": 7,
-        "points": 22,
-        "form": "WWDLD"
+        "points": 23,
+        "form": "DWWDL"
       },
       {
         "position": 4,
@@ -230,18 +230,32 @@
         "position": 5,
         "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
         "team": "Portuguesa",
-        "played": 12,
+        "played": 13,
         "wins": 4,
-        "draws": 6,
+        "draws": 7,
         "losses": 2,
         "goals_for": 14,
         "goals_against": 12,
         "goal_difference": 2,
-        "points": 18,
-        "form": "DLWDD"
+        "points": 19,
+        "form": "DDLWD"
       },
       {
         "position": 6,
+        "team_id": "ast_f4546447d8e446d4aff3701307f61c01",
+        "team": "Monagas",
+        "played": 13,
+        "wins": 5,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 17,
+        "goals_against": 17,
+        "goal_difference": 0,
+        "points": 18,
+        "form": "DWDWW"
+      },
+      {
+        "position": 7,
         "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
         "team": "La Guaira",
         "played": 13,
@@ -255,60 +269,46 @@
         "form": "LDLLL"
       },
       {
-        "position": 7,
-        "team_id": "ast_f4546447d8e446d4aff3701307f61c01",
-        "team": "Monagas",
-        "played": 12,
-        "wins": 5,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 14,
-        "goals_against": 14,
-        "goal_difference": 0,
-        "points": 17,
-        "form": "WDWWL"
-      },
-      {
         "position": 8,
-        "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1",
-        "team": "Estudiantes Merida",
-        "played": 12,
+        "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3",
+        "team": "Caracas",
+        "played": 13,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 13,
-        "goals_against": 14,
+        "goals_for": 15,
+        "goals_against": 16,
         "goal_difference": -1,
-        "points": 16,
-        "form": "LDLWL"
+        "points": 17,
+        "form": "WWDLL"
       },
       {
         "position": 9,
+        "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1",
+        "team": "Estudiantes Merida",
+        "played": 13,
+        "wins": 4,
+        "draws": 5,
+        "losses": 4,
+        "goals_for": 15,
+        "goals_against": 16,
+        "goal_difference": -1,
+        "points": 17,
+        "form": "DLDLW"
+      },
+      {
+        "position": 10,
         "team_id": "ast_242d403bab88400ea3323985d0abadb6",
         "team": "Universidad Central",
-        "played": 12,
+        "played": 13,
         "wins": 4,
-        "draws": 3,
+        "draws": 4,
         "losses": 5,
         "goals_for": 13,
         "goals_against": 15,
         "goal_difference": -2,
-        "points": 15,
-        "form": "LDWWD"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3",
-        "team": "Caracas",
-        "played": 12,
-        "wins": 3,
-        "draws": 5,
-        "losses": 4,
-        "goals_for": 13,
-        "goals_against": 15,
-        "goal_difference": -2,
-        "points": 14,
-        "form": "WDLLW"
+        "points": 16,
+        "form": "DLDWW"
       },
       {
         "position": 11,
@@ -328,15 +328,15 @@
         "position": 12,
         "team_id": "ast_83b4857a923c4be089a5709a48c0f7fd",
         "team": "Rayo Zuliano",
-        "played": 12,
+        "played": 13,
         "wins": 3,
         "draws": 2,
-        "losses": 7,
-        "goals_for": 17,
-        "goals_against": 27,
-        "goal_difference": -10,
+        "losses": 8,
+        "goals_for": 18,
+        "goals_against": 29,
+        "goal_difference": -11,
         "points": 11,
-        "form": "LDWDL"
+        "form": "LLDWD"
       },
       {
         "position": 13,
@@ -372,16 +372,16 @@
         "position": 1,
         "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
         "team": "大都会竞技",
-        "played": 12,
+        "played": 13,
         "wins": 10,
-        "draws": 1,
+        "draws": 2,
         "losses": 1,
-        "goals_for": 28,
-        "goals_against": 9,
+        "goals_for": 30,
+        "goals_against": 11,
         "goal_difference": 19,
-        "points": 31,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "points": 32,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
       },
       {
         "position": 2,
@@ -402,16 +402,16 @@
         "position": 3,
         "team_id": "ast_459053da836741c89d2b6b65c731e190",
         "team": "普埃尔托·卡贝略",
-        "played": 12,
+        "played": 13,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 2,
-        "goals_for": 16,
-        "goals_against": 9,
+        "goals_for": 19,
+        "goals_against": 12,
         "goal_difference": 7,
-        "points": 22,
-        "form": "WWDLD",
-        "form_label": "胜胜平负平"
+        "points": 23,
+        "form": "DWWDL",
+        "form_label": "平胜胜平负"
       },
       {
         "position": 4,
@@ -432,19 +432,34 @@
         "position": 5,
         "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
         "team": "葡萄牙人",
-        "played": 12,
+        "played": 13,
         "wins": 4,
-        "draws": 6,
+        "draws": 7,
         "losses": 2,
         "goals_for": 14,
         "goals_against": 12,
         "goal_difference": 2,
-        "points": 18,
-        "form": "DLWDD",
-        "form_label": "平负胜平平"
+        "points": 19,
+        "form": "DDLWD",
+        "form_label": "平平负胜平"
       },
       {
         "position": 6,
+        "team_id": "ast_f4546447d8e446d4aff3701307f61c01",
+        "team": "莫纳加斯",
+        "played": 13,
+        "wins": 5,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 17,
+        "goals_against": 17,
+        "goal_difference": 0,
+        "points": 18,
+        "form": "DWDWW",
+        "form_label": "平胜平胜胜"
+      },
+      {
+        "position": 7,
         "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
         "team": "拉瓜伊拉体育",
         "played": 13,
@@ -459,64 +474,49 @@
         "form_label": "负平负负负"
       },
       {
-        "position": 7,
-        "team_id": "ast_f4546447d8e446d4aff3701307f61c01",
-        "team": "莫纳加斯",
-        "played": 12,
-        "wins": 5,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 14,
-        "goals_against": 14,
-        "goal_difference": 0,
-        "points": 17,
-        "form": "WDWWL",
-        "form_label": "胜平胜胜负"
-      },
-      {
         "position": 8,
-        "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1",
-        "team": "梅里达学生队",
-        "played": 12,
+        "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3",
+        "team": "加拉加斯",
+        "played": 13,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 13,
-        "goals_against": 14,
+        "goals_for": 15,
+        "goals_against": 16,
         "goal_difference": -1,
-        "points": 16,
-        "form": "LDLWL",
-        "form_label": "负平负胜负"
+        "points": 17,
+        "form": "WWDLL",
+        "form_label": "胜胜平负负"
       },
       {
         "position": 9,
+        "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1",
+        "team": "梅里达学生队",
+        "played": 13,
+        "wins": 4,
+        "draws": 5,
+        "losses": 4,
+        "goals_for": 15,
+        "goals_against": 16,
+        "goal_difference": -1,
+        "points": 17,
+        "form": "DLDLW",
+        "form_label": "平负平负胜"
+      },
+      {
+        "position": 10,
         "team_id": "ast_242d403bab88400ea3323985d0abadb6",
         "team": "中央大学",
-        "played": 12,
+        "played": 13,
         "wins": 4,
-        "draws": 3,
+        "draws": 4,
         "losses": 5,
         "goals_for": 13,
         "goals_against": 15,
         "goal_difference": -2,
-        "points": 15,
-        "form": "LDWWD",
-        "form_label": "负平胜胜平"
-      },
-      {
-        "position": 10,
-        "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3",
-        "team": "加拉加斯",
-        "played": 12,
-        "wins": 3,
-        "draws": 5,
-        "losses": 4,
-        "goals_for": 13,
-        "goals_against": 15,
-        "goal_difference": -2,
-        "points": 14,
-        "form": "WDLLW",
-        "form_label": "胜平负负胜"
+        "points": 16,
+        "form": "DLDWW",
+        "form_label": "平负平胜胜"
       },
       {
         "position": 11,
@@ -537,16 +537,16 @@
         "position": 12,
         "team_id": "ast_83b4857a923c4be089a5709a48c0f7fd",
         "team": "拉约祖利亚诺",
-        "played": 12,
+        "played": 13,
         "wins": 3,
         "draws": 2,
-        "losses": 7,
-        "goals_for": 17,
-        "goals_against": 27,
-        "goal_difference": -10,
+        "losses": 8,
+        "goals_for": 18,
+        "goals_against": 29,
+        "goal_difference": -11,
         "points": 11,
-        "form": "LDWDL",
-        "form_label": "负平胜平负"
+        "form": "LLDWD",
+        "form_label": "负负平胜平"
       },
       {
         "position": 13,
@@ -923,7 +923,7 @@
         "match_id": "as_f69ed713f85b44c49d740c6c990608f5",
         "date": "2026-10-18",
         "time": "19:30",
-        "status": "19:30",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -935,13 +935,16 @@
           "name": "大都会竞技",
           "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ecbdee864bcc432b8555c416708e96b4",
         "date": "2026-10-18",
         "time": "19:30",
-        "status": "19:30",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -953,13 +956,16 @@
           "name": "莫纳加斯",
           "team_id": "ast_f4546447d8e446d4aff3701307f61c01"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7730e6cd598d4b738dc1623545d4f49e",
         "date": "2026-10-18",
         "time": "19:30",
-        "status": "19:30",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -971,13 +977,16 @@
           "name": "加拉加斯",
           "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9dfc0f642f224605af1cbe717db965b5",
         "date": "2026-10-18",
         "time": "19:30",
-        "status": "19:30",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -989,7 +998,10 @@
           "name": "葡萄牙人",
           "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2396d614a740430f8271a8ff215367a6",
@@ -5255,80 +5267,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_9dfc0f642f224605af1cbe717db965b5",
-        "date": "2026-10-18",
-        "time": "19:30",
-        "status": "19:30",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "中央大学",
-          "team_id": "ast_242d403bab88400ea3323985d0abadb6"
-        },
-        "away": {
-          "name": "葡萄牙人",
-          "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7730e6cd598d4b738dc1623545d4f49e",
-        "date": "2026-10-18",
-        "time": "19:30",
-        "status": "19:30",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "拉约祖利亚诺",
-          "team_id": "ast_83b4857a923c4be089a5709a48c0f7fd"
-        },
-        "away": {
-          "name": "加拉加斯",
-          "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ecbdee864bcc432b8555c416708e96b4",
-        "date": "2026-10-18",
-        "time": "19:30",
-        "status": "19:30",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "普埃尔托·卡贝略",
-          "team_id": "ast_459053da836741c89d2b6b65c731e190"
-        },
-        "away": {
-          "name": "莫纳加斯",
-          "team_id": "ast_f4546447d8e446d4aff3701307f61c01"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f69ed713f85b44c49d740c6c990608f5",
-        "date": "2026-10-18",
-        "time": "19:30",
-        "status": "19:30",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "梅里达学生队",
-          "team_id": "ast_d95e4fe6205c4306b87db3232c03fba1"
-        },
-        "away": {
-          "name": "大都会竞技",
-          "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -10924,13 +10863,13 @@
     }
   },
   "stats": {
-    "matches_completed": 203,
-    "total_goals": 518,
-    "avg_goals_per_match": 2.55,
+    "matches_completed": 207,
+    "total_goals": 531,
+    "avg_goals_per_match": 2.57,
     "home_wins": 87,
-    "draws": 57,
-    "away_wins": 59,
-    "home_win_pct": 42.9,
+    "draws": 60,
+    "away_wins": 60,
+    "home_win_pct": 42.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10957,8 +10896,8 @@
     },
     "leader": {
       "team": "Metropolitanos",
-      "points": 31,
-      "played": 12
+      "points": 32,
+      "played": 13
     }
   },
   "coverage": {
@@ -11062,15 +11001,15 @@
             "position": 1,
             "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
             "team": "Metropolitanos",
-            "played": 12,
+            "played": 13,
             "wins": 10,
-            "draws": 1,
+            "draws": 2,
             "losses": 1,
-            "goals_for": 28,
-            "goals_against": 9,
+            "goals_for": 30,
+            "goals_against": 11,
             "goal_difference": 19,
-            "points": 31,
-            "form": "WWWWW"
+            "points": 32,
+            "form": "DWWWW"
           },
           {
             "position": 2,
@@ -11090,15 +11029,15 @@
             "position": 3,
             "team_id": "ast_459053da836741c89d2b6b65c731e190",
             "team": "Puerto Cabello",
-            "played": 12,
+            "played": 13,
             "wins": 6,
-            "draws": 4,
+            "draws": 5,
             "losses": 2,
-            "goals_for": 16,
-            "goals_against": 9,
+            "goals_for": 19,
+            "goals_against": 12,
             "goal_difference": 7,
-            "points": 22,
-            "form": "WWDLD"
+            "points": 23,
+            "form": "DWWDL"
           }
         ],
         "meta": {
@@ -11744,7 +11683,7 @@
     "teams_all_time": 40,
     "standings_rows_current": 14,
     "matches_current_season": 207,
-    "upcoming_matches": 4
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }

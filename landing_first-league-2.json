@@ -202,6 +202,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c",
+        "team": "Shkendija",
+        "played": 10,
+        "wins": 7,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 24,
+        "goals_against": 10,
+        "goal_difference": 14,
+        "points": 23,
+        "form": "WDWDL"
+      },
+      {
+        "position": 2,
         "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
         "team": "Struga",
         "played": 10,
@@ -213,20 +227,6 @@
         "goal_difference": 15,
         "points": 20,
         "form": "WLWDW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c",
-        "team": "Shkendija",
-        "played": 9,
-        "wins": 6,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 21,
-        "goals_against": 9,
-        "goal_difference": 12,
-        "points": 20,
-        "form": "DWDLW"
       },
       {
         "position": 3,
@@ -274,15 +274,15 @@
         "position": 6,
         "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
         "team": "Sileks",
-        "played": 9,
-        "wins": 2,
+        "played": 10,
+        "wins": 3,
         "draws": 4,
         "losses": 3,
-        "goals_for": 14,
+        "goals_for": 17,
         "goals_against": 11,
-        "goal_difference": 3,
-        "points": 10,
-        "form": "DDDLL"
+        "goal_difference": 6,
+        "points": 13,
+        "form": "WDDDL"
       },
       {
         "position": 7,
@@ -316,34 +316,49 @@
         "position": 9,
         "team_id": "ast_3956e9917d7d47f1b7340de4964b936e",
         "team": "Bashkimi",
-        "played": 9,
+        "played": 10,
         "wins": 2,
         "draws": 1,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 9,
-        "goals_against": 26,
-        "goal_difference": -17,
+        "goals_against": 29,
+        "goal_difference": -20,
         "points": 7,
-        "form": "WLDWL"
+        "form": "LWLDW"
       },
       {
         "position": 10,
         "team_id": "ast_8dfd99953954409084e10ee0a940e6f3",
         "team": "FK Skopje",
-        "played": 9,
+        "played": 10,
         "wins": 0,
         "draws": 3,
-        "losses": 6,
-        "goals_for": 4,
-        "goals_against": 14,
-        "goal_difference": -10,
+        "losses": 7,
+        "goals_for": 5,
+        "goals_against": 17,
+        "goal_difference": -12,
         "points": 3,
-        "form": "LLLLD"
+        "form": "LLLLL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c",
+        "team": "什肯迪亚",
+        "played": 10,
+        "wins": 7,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 24,
+        "goals_against": 10,
+        "goal_difference": 14,
+        "points": 23,
+        "form": "WDWDL",
+        "form_label": "胜平胜平负"
+      },
+      {
+        "position": 2,
         "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
         "team": "斯特鲁加",
         "played": 10,
@@ -356,21 +371,6 @@
         "points": 20,
         "form": "WLWDW",
         "form_label": "胜负胜平胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c",
-        "team": "什肯迪亚",
-        "played": 9,
-        "wins": 6,
-        "draws": 2,
-        "losses": 1,
-        "goals_for": 21,
-        "goals_against": 9,
-        "goal_difference": 12,
-        "points": 20,
-        "form": "DWDLW",
-        "form_label": "平胜平负胜"
       },
       {
         "position": 3,
@@ -421,16 +421,16 @@
         "position": 6,
         "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
         "team": "西莱克斯",
-        "played": 9,
-        "wins": 2,
+        "played": 10,
+        "wins": 3,
         "draws": 4,
         "losses": 3,
-        "goals_for": 14,
+        "goals_for": 17,
         "goals_against": 11,
-        "goal_difference": 3,
-        "points": 10,
-        "form": "DDDLL",
-        "form_label": "平平平负负"
+        "goal_difference": 6,
+        "points": 13,
+        "form": "WDDDL",
+        "form_label": "胜平平平负"
       },
       {
         "position": 7,
@@ -466,31 +466,31 @@
         "position": 9,
         "team_id": "ast_3956e9917d7d47f1b7340de4964b936e",
         "team": "巴什基米",
-        "played": 9,
+        "played": 10,
         "wins": 2,
         "draws": 1,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 9,
-        "goals_against": 26,
-        "goal_difference": -17,
+        "goals_against": 29,
+        "goal_difference": -20,
         "points": 7,
-        "form": "WLDWL",
-        "form_label": "胜负平胜负"
+        "form": "LWLDW",
+        "form_label": "负胜负平胜"
       },
       {
         "position": 10,
         "team_id": "ast_8dfd99953954409084e10ee0a940e6f3",
         "team": "斯科普耶足球俱乐部",
-        "played": 9,
+        "played": 10,
         "wins": 0,
         "draws": 3,
-        "losses": 6,
-        "goals_for": 4,
-        "goals_against": 14,
-        "goal_difference": -10,
+        "losses": 7,
+        "goals_for": 5,
+        "goals_against": 17,
+        "goal_difference": -12,
         "points": 3,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       }
     ]
   },
@@ -1333,7 +1333,7 @@
         "match_id": "as_21e3a3d5267e4ce5b5dc7ef18549bf29",
         "date": "2026-10-18",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1345,13 +1345,16 @@
           "name": "西莱克斯",
           "team_id": "ast_2ccb80939ca744f899eab89afe738e64"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b9b07fa6dc344ce09e60c8743d7fe93f",
         "date": "2026-10-18",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1363,7 +1366,10 @@
           "name": "什肯迪亚",
           "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c40eb0e568294038979d58851ff262d8",
@@ -2969,42 +2975,6 @@
         "away": {
           "name": "蒂克维斯",
           "team_id": "ast_8beca98a12ac459db65a07bceeea89cf"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b9b07fa6dc344ce09e60c8743d7fe93f",
-        "date": "2026-10-18",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "斯科普耶足球俱乐部",
-          "team_id": "ast_8dfd99953954409084e10ee0a940e6f3"
-        },
-        "away": {
-          "name": "什肯迪亚",
-          "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_21e3a3d5267e4ce5b5dc7ef18549bf29",
-        "date": "2026-10-18",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "巴什基米",
-          "team_id": "ast_3956e9917d7d47f1b7340de4964b936e"
-        },
-        "away": {
-          "name": "西莱克斯",
-          "team_id": "ast_2ccb80939ca744f899eab89afe738e64"
         },
         "venue": ""
       }
@@ -7085,13 +7055,13 @@
     }
   },
   "stats": {
-    "matches_completed": 47,
-    "total_goals": 132,
-    "avg_goals_per_match": 2.81,
+    "matches_completed": 49,
+    "total_goals": 139,
+    "avg_goals_per_match": 2.84,
     "home_wins": 23,
     "draws": 12,
-    "away_wins": 12,
-    "home_win_pct": 48.9,
+    "away_wins": 14,
+    "home_win_pct": 46.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7117,8 +7087,8 @@
       }
     },
     "leader": {
-      "team": "Struga",
-      "points": 20,
+      "team": "Shkendija",
+      "points": 23,
       "played": 10
     }
   },
@@ -7214,6 +7184,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c",
+            "team": "Shkendija",
+            "played": 10,
+            "wins": 7,
+            "draws": 2,
+            "losses": 1,
+            "goals_for": 24,
+            "goals_against": 10,
+            "goal_difference": 14,
+            "points": 23,
+            "form": "WDWDL"
+          },
+          {
+            "position": 2,
             "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
             "team": "Struga",
             "played": 10,
@@ -7225,20 +7209,6 @@
             "goal_difference": 15,
             "points": 20,
             "form": "WLWDW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_4521dac7b9a3443f938fcf3715c9155c",
-            "team": "Shkendija",
-            "played": 9,
-            "wins": 6,
-            "draws": 2,
-            "losses": 1,
-            "goals_for": 21,
-            "goals_against": 9,
-            "goal_difference": 12,
-            "points": 20,
-            "form": "DWDLW"
           },
           {
             "position": 3,
@@ -7889,7 +7859,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 33
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }

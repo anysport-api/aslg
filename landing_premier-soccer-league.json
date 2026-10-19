@@ -236,15 +236,15 @@
         "position": 8,
         "team_id": "ast_e260138477464ca9bd4d505d46f508d3",
         "team": "Highlanders",
-        "played": 30,
+        "played": 31,
         "wins": 9,
-        "draws": 15,
+        "draws": 16,
         "losses": 6,
         "goals_for": 26,
         "goals_against": 22,
         "goal_difference": 4,
-        "points": 42,
-        "form": "LLDWD"
+        "points": 43,
+        "form": "DLLDW"
       },
       {
         "position": 9,
@@ -375,15 +375,15 @@
         "position": 18,
         "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0",
         "team": "Manica",
-        "played": 30,
+        "played": 31,
         "wins": 4,
-        "draws": 8,
+        "draws": 9,
         "losses": 18,
         "goals_for": 14,
         "goals_against": 44,
         "goal_difference": -30,
-        "points": 20,
-        "form": "DLLLL"
+        "points": 21,
+        "form": "DDLLL"
       }
     ],
     "zh": [
@@ -496,16 +496,16 @@
         "position": 8,
         "team_id": "ast_e260138477464ca9bd4d505d46f508d3",
         "team": "高地人",
-        "played": 30,
+        "played": 31,
         "wins": 9,
-        "draws": 15,
+        "draws": 16,
         "losses": 6,
         "goals_for": 26,
         "goals_against": 22,
         "goal_difference": 4,
-        "points": 42,
-        "form": "LLDWD",
-        "form_label": "负负平胜平"
+        "points": 43,
+        "form": "DLLDW",
+        "form_label": "平负负平胜"
       },
       {
         "position": 9,
@@ -645,16 +645,16 @@
         "position": 18,
         "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0",
         "team": "马尼卡",
-        "played": 30,
+        "played": 31,
         "wins": 4,
-        "draws": 8,
+        "draws": 9,
         "losses": 18,
         "goals_for": 14,
         "goals_against": 44,
         "goal_difference": -30,
-        "points": 20,
-        "form": "DLLLL",
-        "form_label": "平负负负负"
+        "points": 21,
+        "form": "DDLLL",
+        "form_label": "平平负负负"
       }
     ]
   },
@@ -1059,7 +1059,7 @@
         "match_id": "as_9cc8d4fcc46f499ca03721e92b8089bc",
         "date": "2026-10-18",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -1071,7 +1071,10 @@
           "name": "马尼卡",
           "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c29ab0b371284cf0a1cb14de302276f2",
@@ -7271,24 +7274,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_9cc8d4fcc46f499ca03721e92b8089bc",
-        "date": "2026-10-18",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "高地人",
-          "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
-        },
-        "away": {
-          "name": "马尼卡",
-          "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9622,13 +9607,13 @@
     }
   },
   "stats": {
-    "matches_completed": 277,
+    "matches_completed": 278,
     "total_goals": 521,
-    "avg_goals_per_match": 1.88,
+    "avg_goals_per_match": 1.87,
     "home_wins": 99,
-    "draws": 99,
+    "draws": 100,
     "away_wins": 79,
-    "home_win_pct": 35.7,
+    "home_win_pct": 35.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10351,7 +10336,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 297,
-    "upcoming_matches": 20
+    "upcoming_matches": 19
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/19"
 }
