@@ -188,6 +188,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
+        "team": "Levadia U21",
+        "played": 33,
+        "wins": 17,
+        "draws": 2,
+        "losses": 14,
+        "goals_for": 64,
+        "goals_against": 56,
+        "goal_difference": 8,
+        "points": 53,
+        "form": "WWWWW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "Elva",
         "played": 33,
@@ -201,7 +215,7 @@
         "form": "WDLD"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4",
         "team": "Flora U21",
         "played": 32,
@@ -215,32 +229,18 @@
         "form": "WLDLW"
       },
       {
-        "position": 5,
-        "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
-        "team": "Levadia U21",
-        "played": 32,
-        "wins": 16,
-        "draws": 2,
-        "losses": 14,
-        "goals_for": 62,
-        "goals_against": 55,
-        "goal_difference": 7,
-        "points": 50,
-        "form": "WWWWD"
-      },
-      {
         "position": 6,
         "team_id": "ast_26db6d36f76244239fb3177106ad8770",
         "team": "Tallinna Kalev",
-        "played": 31,
+        "played": 32,
         "wins": 11,
         "draws": 7,
-        "losses": 13,
-        "goals_for": 53,
-        "goals_against": 57,
-        "goal_difference": -4,
+        "losses": 14,
+        "goals_for": 54,
+        "goals_against": 59,
+        "goal_difference": -5,
         "points": 40,
-        "form": "LDWLD"
+        "form": "LLDWL"
       },
       {
         "position": 7,
@@ -332,6 +332,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
+        "team": "列瓦迪亚U21",
+        "played": 33,
+        "wins": 17,
+        "draws": 2,
+        "losses": 14,
+        "goals_for": 64,
+        "goals_against": 56,
+        "goal_difference": 8,
+        "points": 53,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "埃尔瓦",
         "played": 33,
@@ -346,7 +361,7 @@
         "form_label": "胜平负平"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4",
         "team": "弗洛拉U21",
         "played": 32,
@@ -361,34 +376,19 @@
         "form_label": "胜负平负胜"
       },
       {
-        "position": 5,
-        "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
-        "team": "列瓦迪亚U21",
-        "played": 32,
-        "wins": 16,
-        "draws": 2,
-        "losses": 14,
-        "goals_for": 62,
-        "goals_against": 55,
-        "goal_difference": 7,
-        "points": 50,
-        "form": "WWWWD",
-        "form_label": "胜胜胜胜平"
-      },
-      {
         "position": 6,
         "team_id": "ast_26db6d36f76244239fb3177106ad8770",
         "team": "塔林卡列夫",
-        "played": 31,
+        "played": 32,
         "wins": 11,
         "draws": 7,
-        "losses": 13,
-        "goals_for": 53,
-        "goals_against": 57,
-        "goal_difference": -4,
+        "losses": 14,
+        "goals_for": 54,
+        "goals_against": 59,
+        "goal_difference": -5,
         "points": 40,
-        "form": "LDWLD",
-        "form_label": "负平胜负平"
+        "form": "LLDWL",
+        "form_label": "负负平胜负"
       },
       {
         "position": 7,
@@ -774,7 +774,7 @@
         "match_id": "as_86f9bc951a024345b59d8581704d755a",
         "date": "2026-10-19",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -786,13 +786,16 @@
           "name": "列瓦迪亚U21",
           "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a7bff26291cd45a3b21922e50c2d7ccc",
         "date": "2026-10-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -804,7 +807,10 @@
           "name": "维姆西洛维德",
           "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ffea49cef5fc41d3a8c7b7b797797078",
@@ -4462,63 +4468,6 @@
         "ht_score": "-",
         "venue": "斯波特兰竞技场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_a7bff26291cd45a3b21922e50c2d7ccc",
-        "date": "2026-10-19",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "塔林足球俱乐部",
-          "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
-        },
-        "away": {
-          "name": "维姆西洛维德",
-          "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_86f9bc951a024345b59d8581704d755a",
-        "date": "2026-10-19",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "塔林卡列夫",
-          "team_id": "ast_26db6d36f76244239fb3177106ad8770"
-        },
-        "away": {
-          "name": "列瓦迪亚U21",
-          "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_014aece05f2a4a0c92002b2c16eb403e",
-        "date": "2026-10-19",
-        "time": "15:00",
-        "status": "Awarded",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "马尔杜",
-          "team_id": "ast_730e7ee5d0a1496a8b515e69cda612cc"
-        },
-        "away": {
-          "name": "弗洛拉U21",
-          "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4"
-        },
-        "ht_score": "-",
-        "reg_score": "0-0",
-        "venue": "",
-        "status_label": "判定胜负"
       }
     ]
   },
@@ -7588,13 +7537,13 @@
     }
   },
   "stats": {
-    "matches_completed": 157,
-    "total_goals": 566,
-    "avg_goals_per_match": 3.61,
+    "matches_completed": 159,
+    "total_goals": 572,
+    "avg_goals_per_match": 3.6,
     "home_wins": 71,
     "draws": 29,
-    "away_wins": 57,
-    "home_win_pct": 45.2,
+    "away_wins": 59,
+    "home_win_pct": 44.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7745,17 +7694,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
-            "team": "Elva",
+            "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
+            "team": "Levadia U21",
             "played": 33,
-            "wins": 15,
-            "draws": 7,
-            "losses": 11,
-            "goals_for": 47,
-            "goals_against": 48,
-            "goal_difference": -1,
-            "points": 52,
-            "form": "WDLD"
+            "wins": 17,
+            "draws": 2,
+            "losses": 14,
+            "goals_for": 64,
+            "goals_against": 56,
+            "goal_difference": 8,
+            "points": 53,
+            "form": "WWWWW"
           }
         ],
         "meta": {
@@ -8392,7 +8341,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 177,
-    "upcoming_matches": 18
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

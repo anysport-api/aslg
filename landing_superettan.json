@@ -250,15 +250,15 @@
         "position": 3,
         "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
         "team": "Varberg",
-        "played": 26,
+        "played": 27,
         "wins": 13,
-        "draws": 6,
+        "draws": 7,
         "losses": 7,
         "goals_for": 45,
         "goals_against": 34,
         "goal_difference": 11,
-        "points": 45,
-        "form": "DWWLD"
+        "points": 46,
+        "form": "DDWWL"
       },
       {
         "position": 4,
@@ -362,15 +362,15 @@
         "position": 11,
         "team_id": "ast_9661ea96bb064387ac5fc5adb6d3c441",
         "team": "Helsingborg",
-        "played": 26,
+        "played": 27,
         "wins": 8,
-        "draws": 6,
+        "draws": 7,
         "losses": 12,
         "goals_for": 36,
         "goals_against": 47,
         "goal_difference": -11,
-        "points": 30,
-        "form": "LDLWL"
+        "points": 31,
+        "form": "DLDLW"
       },
       {
         "position": 12,
@@ -478,16 +478,16 @@
         "position": 3,
         "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
         "team": "瓦尔贝里",
-        "played": 26,
+        "played": 27,
         "wins": 13,
-        "draws": 6,
+        "draws": 7,
         "losses": 7,
         "goals_for": 45,
         "goals_against": 34,
         "goal_difference": 11,
-        "points": 45,
-        "form": "DWWLD",
-        "form_label": "平胜胜负平"
+        "points": 46,
+        "form": "DDWWL",
+        "form_label": "平平胜胜负"
       },
       {
         "position": 4,
@@ -598,16 +598,16 @@
         "position": 11,
         "team_id": "ast_9661ea96bb064387ac5fc5adb6d3c441",
         "team": "赫尔辛堡",
-        "played": 26,
+        "played": 27,
         "wins": 8,
-        "draws": 6,
+        "draws": 7,
         "losses": 12,
         "goals_for": 36,
         "goals_against": 47,
         "goal_difference": -11,
-        "points": 30,
-        "form": "LDLWL",
-        "form_label": "负平负胜负"
+        "points": 31,
+        "form": "DLDLW",
+        "form_label": "平负平负胜"
       },
       {
         "position": 12,
@@ -3611,7 +3611,7 @@
         "match_id": "as_6abb3664c0654bf2a79fd88cd1e719ad",
         "date": "2026-10-19",
         "time": "17:05",
-        "status": "17:05",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3623,7 +3623,10 @@
           "name": "赫尔辛堡",
           "team_id": "ast_9661ea96bb064387ac5fc5adb6d3c441"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f25c2eb666d0436aa7231e7bfad76192",
@@ -3685,7 +3688,7 @@
         },
         "ht_score": "4-1",
         "reg_score": "4-3",
-        "venue": "",
+        "venue": "猎鹰无酒精饮料竞技场",
         "status_label": "完场"
       },
       {
@@ -3727,7 +3730,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Spiris竞技场",
         "status_label": "完场"
       },
       {
@@ -3748,7 +3751,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Jernvallen",
         "status_label": "完场"
       },
       {
@@ -8616,24 +8619,6 @@
         "away": {
           "name": "厄勒布鲁",
           "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6abb3664c0654bf2a79fd88cd1e719ad",
-        "date": "2026-10-19",
-        "time": "17:05",
-        "status": "17:05",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "瓦尔贝里",
-          "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9"
-        },
-        "away": {
-          "name": "赫尔辛堡",
-          "team_id": "ast_9661ea96bb064387ac5fc5adb6d3c441"
         },
         "venue": ""
       }
@@ -14329,13 +14314,13 @@
     }
   },
   "stats": {
-    "matches_completed": 214,
+    "matches_completed": 215,
     "total_goals": 619,
-    "avg_goals_per_match": 2.89,
+    "avg_goals_per_match": 2.88,
     "home_wins": 87,
-    "draws": 57,
+    "draws": 58,
     "away_wins": 70,
-    "home_win_pct": 40.7,
+    "home_win_pct": 40.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14495,15 +14480,15 @@
             "position": 3,
             "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
             "team": "Varberg",
-            "played": 26,
+            "played": 27,
             "wins": 13,
-            "draws": 6,
+            "draws": 7,
             "losses": 7,
             "goals_for": 45,
             "goals_against": 34,
             "goal_difference": 11,
-            "points": 45,
-            "form": "DWWLD"
+            "points": 46,
+            "form": "DDWWL"
           }
         ],
         "meta": {
@@ -15161,7 +15146,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

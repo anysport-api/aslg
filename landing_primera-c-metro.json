@@ -1091,7 +1091,7 @@
         "match_id": "as_f44859c858d74c05a33290f8057c3943",
         "date": "2026-10-19",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -1103,13 +1103,16 @@
           "name": "卡努埃拉斯",
           "team_id": "ast_b448fffeb4f8436f8c09c0f574ff7806"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_97b55e07caf94299a544eaebbfbe97f5",
         "date": "2026-10-19",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -1121,7 +1124,10 @@
           "name": "萨卡奇斯帕斯",
           "team_id": "ast_a15623cae0ac4f6e8fe6aea21fc60916"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_942c8a317884487ebc964cb5bfde5fd0",
@@ -1227,7 +1233,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "萨图尼诺·莫雷体育场",
         "status_label": "完场"
       },
       {
@@ -10786,42 +10792,6 @@
           "team_id": "ast_d534619dd6d44448a549515a258d1332"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_97b55e07caf94299a544eaebbfbe97f5",
-        "date": "2026-10-19",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷C级联赛",
-        "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
-        "season": "2026",
-        "home": {
-          "name": "巴拉卡斯体育",
-          "team_id": "ast_3ff5bb719d084de29fbdfba3b864a038"
-        },
-        "away": {
-          "name": "萨卡奇斯帕斯",
-          "team_id": "ast_a15623cae0ac4f6e8fe6aea21fc60916"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f44859c858d74c05a33290f8057c3943",
-        "date": "2026-10-19",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷C级联赛",
-        "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
-        "season": "2026",
-        "home": {
-          "name": "卢加诺",
-          "team_id": "ast_d534619dd6d44448a549515a258d1332"
-        },
-        "away": {
-          "name": "卡努埃拉斯",
-          "team_id": "ast_b448fffeb4f8436f8c09c0f574ff7806"
-        },
-        "venue": ""
       }
     ]
   },
@@ -13675,13 +13645,13 @@
     }
   },
   "stats": {
-    "matches_completed": 454,
-    "total_goals": 867,
-    "avg_goals_per_match": 1.91,
+    "matches_completed": 456,
+    "total_goals": 868,
+    "avg_goals_per_match": 1.9,
     "home_wins": 166,
-    "draws": 157,
-    "away_wins": 131,
-    "home_win_pct": 36.6,
+    "draws": 158,
+    "away_wins": 132,
+    "home_win_pct": 36.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14442,7 +14412,7 @@
     "teams_all_time": 46,
     "standings_rows_current": 28,
     "matches_current_season": 463,
-    "upcoming_matches": 9
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

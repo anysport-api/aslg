@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
@@ -184,6 +184,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485",
+        "team": "Neftchi Kochkor-Ata",
+        "played": 27,
+        "wins": 11,
+        "draws": 3,
+        "losses": 13,
+        "goals_for": 38,
+        "goals_against": 44,
+        "goal_difference": -6,
+        "points": 36,
+        "form": "WWDLW"
+      },
+      {
+        "position": 8,
         "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007",
         "team": "Talant",
         "played": 26,
@@ -197,7 +211,7 @@
         "form": "LWDWW"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1",
         "team": "Bishkek City",
         "played": 26,
@@ -211,32 +225,18 @@
         "form": "WWWDW"
       },
       {
-        "position": 9,
-        "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485",
-        "team": "Neftchi Kochkor-Ata",
-        "played": 26,
-        "wins": 10,
-        "draws": 3,
-        "losses": 13,
-        "goals_for": 35,
-        "goals_against": 42,
-        "goal_difference": -7,
-        "points": 33,
-        "form": "WDLWL"
-      },
-      {
         "position": 10,
         "team_id": "ast_f6ededd543d3485b90b9e737871c42e5",
         "team": "Toktogul",
-        "played": 25,
+        "played": 26,
         "wins": 9,
         "draws": 4,
-        "losses": 12,
-        "goals_for": 28,
-        "goals_against": 37,
-        "goal_difference": -9,
+        "losses": 13,
+        "goals_for": 30,
+        "goals_against": 40,
+        "goal_difference": -10,
         "points": 31,
-        "form": "WLDDW"
+        "form": "LWLDD"
       },
       {
         "position": 11,
@@ -416,6 +416,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485",
+        "team": "尼夫奇科赫科尔-阿塔",
+        "played": 27,
+        "wins": 11,
+        "draws": 3,
+        "losses": 13,
+        "goals_for": 38,
+        "goals_against": 44,
+        "goal_difference": -6,
+        "points": 36,
+        "form": "WWDLW",
+        "form_label": "胜胜平负胜"
+      },
+      {
+        "position": 8,
         "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007",
         "team": "塔兰特",
         "played": 26,
@@ -430,7 +445,7 @@
         "form_label": "负胜平胜胜"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1",
         "team": "比什凯克城",
         "played": 26,
@@ -445,34 +460,19 @@
         "form_label": "胜胜胜平胜"
       },
       {
-        "position": 9,
-        "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485",
-        "team": "尼夫奇科赫科尔-阿塔",
-        "played": 26,
-        "wins": 10,
-        "draws": 3,
-        "losses": 13,
-        "goals_for": 35,
-        "goals_against": 42,
-        "goal_difference": -7,
-        "points": 33,
-        "form": "WDLWL",
-        "form_label": "胜平负胜负"
-      },
-      {
         "position": 10,
         "team_id": "ast_f6ededd543d3485b90b9e737871c42e5",
         "team": "托克托古尔",
-        "played": 25,
+        "played": 26,
         "wins": 9,
         "draws": 4,
-        "losses": 12,
-        "goals_for": 28,
-        "goals_against": 37,
-        "goal_difference": -9,
+        "losses": 13,
+        "goals_for": 30,
+        "goals_against": 40,
+        "goal_difference": -10,
         "points": 31,
-        "form": "WLDDW",
-        "form_label": "胜负平平胜"
+        "form": "LWLDD",
+        "form_label": "负胜负平平"
       },
       {
         "position": 11,
@@ -583,6 +583,161 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_68dfea24b84041c4b864910166821d54",
+        "date": "2026-10-23",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "伊尔比尔斯",
+          "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5"
+        },
+        "away": {
+          "name": "吉尔吉斯阿尔廷",
+          "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6c37a51b646e4fd99580fd984d5d6aca",
+        "date": "2026-10-23",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "塔兰特",
+          "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007"
+        },
+        "away": {
+          "name": "比什凯克城",
+          "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_91affa30babf43449fb0815eb27ca174",
+        "date": "2026-10-22",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "阿尔迪尔",
+          "team_id": "ast_1333708d36284bda8ce5a75dbcc3442e"
+        },
+        "away": {
+          "name": "阿西亚戈尔比什凯克",
+          "team_id": "ast_b19d89fd48fa4dc8b64df5ed58c3be3b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_055856f6c13441a9ad52f8da87e213b6",
+        "date": "2026-10-22",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "奥兹贡",
+          "team_id": "ast_7ee7b9474a404bb98e9205d857604468"
+        },
+        "away": {
+          "name": "亚洲塔拉斯",
+          "team_id": "ast_9721448996654ba2bfee8122aee8fef3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1e37f662fdfb451d85f940bc0dc686f0",
+        "date": "2026-10-21",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "阿拉伊奥什",
+          "team_id": "ast_aaec3780f86848a8ab08889fe46a4c2c"
+        },
+        "away": {
+          "name": "阿尔加",
+          "team_id": "ast_dcfcfe791859448b860a59c1029014ef"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_dba9a92544134950bd036338cb834c36",
+        "date": "2026-10-21",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "巴尔斯",
+          "team_id": "ast_6899256d9e204b7c812b00cba5da9d88"
+        },
+        "away": {
+          "name": "阿布迪什-阿塔",
+          "team_id": "ast_2047d0506517448baa3a767bb106a0ad"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4fdcd982b3524be29e94a82822a93e95",
+        "date": "2026-10-20",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "多尔多伊比什凯克",
+          "team_id": "ast_3a45ce9ae593441394b3727362fe3881"
+        },
+        "away": {
+          "name": "穆拉斯联队",
+          "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_ab2a002a18b644799a8afd99fa5ede2e",
+        "date": "2026-10-19",
+        "time": "13:00",
+        "status": "FT",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "尼夫奇科赫科尔-阿塔",
+          "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485"
+        },
+        "away": {
+          "name": "托克托古尔",
+          "team_id": "ast_f6ededd543d3485b90b9e737871c42e5"
+        },
+        "ht_score": "2-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
+      },
       {
         "match_id": "as_7c203d4f56934e53bee686093a1de2c4",
         "date": "2026-10-17",
@@ -4891,19 +5046,136 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_ab2a002a18b644799a8afd99fa5ede2e",
-        "date": "2026-10-19",
+        "match_id": "as_6c37a51b646e4fd99580fd984d5d6aca",
+        "date": "2026-10-23",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "塔兰特",
+          "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007"
+        },
+        "away": {
+          "name": "比什凯克城",
+          "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_68dfea24b84041c4b864910166821d54",
+        "date": "2026-10-23",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "伊尔比尔斯",
+          "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5"
+        },
+        "away": {
+          "name": "吉尔吉斯阿尔廷",
+          "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_055856f6c13441a9ad52f8da87e213b6",
+        "date": "2026-10-22",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "奥兹贡",
+          "team_id": "ast_7ee7b9474a404bb98e9205d857604468"
+        },
+        "away": {
+          "name": "亚洲塔拉斯",
+          "team_id": "ast_9721448996654ba2bfee8122aee8fef3"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_91affa30babf43449fb0815eb27ca174",
+        "date": "2026-10-22",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "阿尔迪尔",
+          "team_id": "ast_1333708d36284bda8ce5a75dbcc3442e"
+        },
+        "away": {
+          "name": "阿西亚戈尔比什凯克",
+          "team_id": "ast_b19d89fd48fa4dc8b64df5ed58c3be3b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_dba9a92544134950bd036338cb834c36",
+        "date": "2026-10-21",
         "time": "13:00",
         "status": "13:00",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
         "home": {
-          "name": "尼夫奇科赫科尔-阿塔",
-          "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485"
+          "name": "巴尔斯",
+          "team_id": "ast_6899256d9e204b7c812b00cba5da9d88"
         },
         "away": {
-          "name": "托克托古尔",
-          "team_id": "ast_f6ededd543d3485b90b9e737871c42e5"
+          "name": "阿布迪什-阿塔",
+          "team_id": "ast_2047d0506517448baa3a767bb106a0ad"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_1e37f662fdfb451d85f940bc0dc686f0",
+        "date": "2026-10-21",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "阿拉伊奥什",
+          "team_id": "ast_aaec3780f86848a8ab08889fe46a4c2c"
+        },
+        "away": {
+          "name": "阿尔加",
+          "team_id": "ast_dcfcfe791859448b860a59c1029014ef"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4fdcd982b3524be29e94a82822a93e95",
+        "date": "2026-10-20",
+        "time": "13:00",
+        "status": "13:00",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "多尔多伊比什凯克",
+          "team_id": "ast_3a45ce9ae593441394b3727362fe3881"
+        },
+        "away": {
+          "name": "穆拉斯联队",
+          "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda"
         },
         "venue": ""
       }
@@ -6359,13 +6631,13 @@
     }
   },
   "stats": {
-    "matches_completed": 205,
-    "total_goals": 625,
-    "avg_goals_per_match": 3.05,
-    "home_wins": 81,
+    "matches_completed": 206,
+    "total_goals": 630,
+    "avg_goals_per_match": 3.06,
+    "home_wins": 82,
     "draws": 52,
     "away_wins": 72,
-    "home_win_pct": 39.5,
+    "home_win_pct": 39.8,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7128,8 +7400,8 @@
     "distinct_title_holders": 4,
     "teams_all_time": 19,
     "standings_rows_current": 16,
-    "matches_current_season": 205,
-    "upcoming_matches": 1
+    "matches_current_season": 213,
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

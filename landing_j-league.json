@@ -4958,6 +4958,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_7711cccc8f0b4dd2b3f0545b1520b5d4",
+        "date": "2026-12-04",
+        "time": "09:30",
+        "status": "Not Started",
+        "league": "日本职业联赛",
+        "league_id": "asl_9fd861db35a448d799bca75367e11471",
+        "season": "2026/2027",
+        "home": {
+          "name": "东京足球俱乐部",
+          "team_id": "ast_41d0109e972b48ebb44c64a003b42684"
+        },
+        "away": {
+          "name": "川崎前锋",
+          "team_id": "ast_dc8523954f6841d0a130e8758133a9d2"
+        },
+        "ht_score": "-",
+        "venue": "味之素体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_9d8e5afafb984330a53070e2f4d8c2ab",
         "date": "2026-11-29",
         "time": "05:00",
@@ -5935,26 +5955,6 @@
         },
         "ht_score": "-",
         "venue": "丰田体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_3c8cc8f5272c47ae933f6bed47a61b6d",
-        "date": "2026-10-25",
-        "time": "07:00",
-        "status": "Not Started",
-        "league": "日本职业联赛",
-        "league_id": "asl_9fd861db35a448d799bca75367e11471",
-        "season": "2026/2027",
-        "home": {
-          "name": "川崎前锋",
-          "team_id": "ast_dc8523954f6841d0a130e8758133a9d2"
-        },
-        "away": {
-          "name": "冈山",
-          "team_id": "ast_98c324f87b1143398b4f302c6ff6cf4c"
-        },
-        "ht_score": "-",
-        "venue": "Kawasaki Todoroki Stadium",
         "status_label": "未开赛"
       }
     ]
@@ -9502,5 +9502,5 @@
     "matches_current_season": 200,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

@@ -246,15 +246,15 @@
         "position": 4,
         "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
         "team": "Tikves",
-        "played": 9,
+        "played": 10,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "losses": 1,
-        "goals_for": 20,
-        "goals_against": 7,
+        "goals_for": 21,
+        "goals_against": 8,
         "goal_difference": 13,
-        "points": 16,
-        "form": "WDDWD"
+        "points": 17,
+        "form": "DWDDW"
       },
       {
         "position": 5,
@@ -302,15 +302,15 @@
         "position": 8,
         "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
         "team": "Arsimi",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
-        "goals_for": 7,
-        "goals_against": 20,
+        "goals_for": 8,
+        "goals_against": 21,
         "goal_difference": -13,
-        "points": 9,
-        "form": "DLDLD"
+        "points": 10,
+        "form": "DDLDL"
       },
       {
         "position": 9,
@@ -391,16 +391,16 @@
         "position": 4,
         "team_id": "ast_8beca98a12ac459db65a07bceeea89cf",
         "team": "蒂克维斯",
-        "played": 9,
+        "played": 10,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "losses": 1,
-        "goals_for": 20,
-        "goals_against": 7,
+        "goals_for": 21,
+        "goals_against": 8,
         "goal_difference": 13,
-        "points": 16,
-        "form": "WDDWD",
-        "form_label": "胜平平胜平"
+        "points": 17,
+        "form": "DWDDW",
+        "form_label": "平胜平平胜"
       },
       {
         "position": 5,
@@ -451,16 +451,16 @@
         "position": 8,
         "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a",
         "team": "阿尔西米",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
-        "goals_for": 7,
-        "goals_against": 20,
+        "goals_for": 8,
+        "goals_against": 21,
         "goal_difference": -13,
-        "points": 9,
-        "form": "DLDLD",
-        "form_label": "平负平负平"
+        "points": 10,
+        "form": "DDLDL",
+        "form_label": "平平负平负"
       },
       {
         "position": 9,
@@ -1315,7 +1315,7 @@
         "match_id": "as_8dc00a9c233a4d5dae7910a41d090a7d",
         "date": "2026-10-19",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1327,7 +1327,10 @@
           "name": "蒂克维斯",
           "team_id": "ast_8beca98a12ac459db65a07bceeea89cf"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_21e3a3d5267e4ce5b5dc7ef18549bf29",
@@ -2959,24 +2962,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_8dc00a9c233a4d5dae7910a41d090a7d",
-        "date": "2026-10-19",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔西米",
-          "team_id": "ast_f7e95c1763ed412baf7e53dcdeb51d7a"
-        },
-        "away": {
-          "name": "蒂克维斯",
-          "team_id": "ast_8beca98a12ac459db65a07bceeea89cf"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7055,13 +7040,13 @@
     }
   },
   "stats": {
-    "matches_completed": 49,
-    "total_goals": 139,
-    "avg_goals_per_match": 2.84,
+    "matches_completed": 50,
+    "total_goals": 141,
+    "avg_goals_per_match": 2.82,
     "home_wins": 23,
-    "draws": 12,
+    "draws": 13,
     "away_wins": 14,
-    "home_win_pct": 46.9,
+    "home_win_pct": 46.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7859,7 +7844,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 31
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

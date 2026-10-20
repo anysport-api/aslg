@@ -1451,7 +1451,7 @@
         "match_id": "as_cb64900e92224fcba2a29ca09fc18cc9",
         "date": "2026-10-26",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -1463,9 +1463,7 @@
           "name": "穆舒克鲁纳",
           "team_id": "ast_976261ebd4974debba981ed009e436f5"
         },
-        "ht_score": "-",
-        "venue": "Estadio Bellavista",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3adb287c135148778584da72f611f6cf",
@@ -1597,7 +1595,7 @@
         "match_id": "as_d30ee5c65b5b45e4bcbfe40121ddb85d",
         "date": "2026-10-19",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -1609,7 +1607,10 @@
           "name": "奥伦塞",
           "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_797dd179552c491f9973e5ae7c150745",
@@ -1692,7 +1693,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Estadio Gonzalo Pozo Ripalda",
         "status_label": "完场"
       },
       {
@@ -1713,7 +1714,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "4-0",
-        "venue": "",
+        "venue": "联邦莱纳德尔西斯内球场",
         "status_label": "完场"
       },
       {
@@ -1734,7 +1735,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Estadio Bellavista",
         "status_label": "完场"
       },
       {
@@ -7698,7 +7699,7 @@
         "match_id": "as_cb64900e92224fcba2a29ca09fc18cc9",
         "date": "2026-10-26",
         "time": "20:30",
-        "status": "Not Started",
+        "status": "20:30",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -7710,9 +7711,7 @@
           "name": "穆舒克鲁纳",
           "team_id": "ast_976261ebd4974debba981ed009e436f5"
         },
-        "ht_score": "-",
-        "venue": "Estadio Bellavista",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_143900129d404433ad8a87e952f889c8",
@@ -7837,24 +7836,6 @@
         "away": {
           "name": "天主教大学",
           "team_id": "ast_1c319b291950451a9e1336bceac0af07"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d30ee5c65b5b45e4bcbfe40121ddb85d",
-        "date": "2026-10-19",
-        "time": "20:30",
-        "status": "20:30",
-        "league": "厄瓜多尔职业联赛",
-        "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
-        "season": "2026",
-        "home": {
-          "name": "穆舒克鲁纳",
-          "team_id": "ast_976261ebd4974debba981ed009e436f5"
-        },
-        "away": {
-          "name": "奥伦塞",
-          "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
         },
         "venue": ""
       }
@@ -12534,13 +12515,13 @@
     }
   },
   "stats": {
-    "matches_completed": 262,
-    "total_goals": 604,
-    "avg_goals_per_match": 2.31,
+    "matches_completed": 263,
+    "total_goals": 606,
+    "avg_goals_per_match": 2.3,
     "home_wins": 125,
-    "draws": 64,
+    "draws": 65,
     "away_wins": 73,
-    "home_win_pct": 47.7,
+    "home_win_pct": 47.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13356,7 +13337,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 16,
     "matches_current_season": 312,
-    "upcoming_matches": 37
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

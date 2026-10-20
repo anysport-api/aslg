@@ -42,15 +42,15 @@
         "position": 1,
         "team_id": "ast_e217cec23931426aa39a732eb9b33509",
         "team": "Narva U21",
-        "played": 32,
+        "played": 33,
         "wins": 22,
-        "draws": 3,
+        "draws": 4,
         "losses": 7,
         "goals_for": 74,
         "goals_against": 36,
         "goal_difference": 38,
-        "points": 69,
-        "form": "WWWWW"
+        "points": 70,
+        "form": "DWWWW"
       },
       {
         "position": 2,
@@ -70,15 +70,15 @@
         "position": 3,
         "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
         "team": "Tammeka U21",
-        "played": 32,
-        "wins": 17,
+        "played": 33,
+        "wins": 18,
         "draws": 4,
         "losses": 11,
-        "goals_for": 79,
+        "goals_for": 90,
         "goals_against": 62,
-        "goal_difference": 17,
-        "points": 55,
-        "form": "WWLLW"
+        "goal_difference": 28,
+        "points": 58,
+        "form": "WWWLL"
       },
       {
         "position": 4,
@@ -140,15 +140,15 @@
         "position": 8,
         "team_id": "ast_16401749cac44082b6c7e88964f9ec3a",
         "team": "Tabasalu",
-        "played": 32,
+        "played": 33,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 19,
         "goals_for": 46,
         "goals_against": 85,
         "goal_difference": -39,
-        "points": 33,
-        "form": "LLLDL"
+        "points": 34,
+        "form": "DLLLD"
       },
       {
         "position": 9,
@@ -168,15 +168,15 @@
         "position": 10,
         "team_id": "ast_aa25b3ee730c4388bb65492a1429024a",
         "team": "Legion",
-        "played": 32,
+        "played": 33,
         "wins": 3,
         "draws": 3,
-        "losses": 26,
+        "losses": 27,
         "goals_for": 27,
-        "goals_against": 118,
-        "goal_difference": -91,
+        "goals_against": 129,
+        "goal_difference": -102,
         "points": 12,
-        "form": "LLLLD"
+        "form": "LLLLL"
       }
     ],
     "zh": [
@@ -184,16 +184,16 @@
         "position": 1,
         "team_id": "ast_e217cec23931426aa39a732eb9b33509",
         "team": "纳尔瓦U21",
-        "played": 32,
+        "played": 33,
         "wins": 22,
-        "draws": 3,
+        "draws": 4,
         "losses": 7,
         "goals_for": 74,
         "goals_against": 36,
         "goal_difference": 38,
-        "points": 69,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "points": 70,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
       },
       {
         "position": 2,
@@ -214,16 +214,16 @@
         "position": 3,
         "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
         "team": "塔梅卡U21",
-        "played": 32,
-        "wins": 17,
+        "played": 33,
+        "wins": 18,
         "draws": 4,
         "losses": 11,
-        "goals_for": 79,
+        "goals_for": 90,
         "goals_against": 62,
-        "goal_difference": 17,
-        "points": 55,
-        "form": "WWLLW",
-        "form_label": "胜胜负负胜"
+        "goal_difference": 28,
+        "points": 58,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
       },
       {
         "position": 4,
@@ -289,16 +289,16 @@
         "position": 8,
         "team_id": "ast_16401749cac44082b6c7e88964f9ec3a",
         "team": "塔巴萨鲁",
-        "played": 32,
+        "played": 33,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 19,
         "goals_for": 46,
         "goals_against": 85,
         "goal_difference": -39,
-        "points": 33,
-        "form": "LLLDL",
-        "form_label": "负负负平负"
+        "points": 34,
+        "form": "DLLLD",
+        "form_label": "平负负负平"
       },
       {
         "position": 9,
@@ -319,16 +319,16 @@
         "position": 10,
         "team_id": "ast_aa25b3ee730c4388bb65492a1429024a",
         "team": "军团",
-        "played": 32,
+        "played": 33,
         "wins": 3,
         "draws": 3,
-        "losses": 26,
+        "losses": 27,
         "goals_for": 27,
-        "goals_against": 118,
-        "goal_difference": -91,
+        "goals_against": 129,
+        "goal_difference": -102,
         "points": 12,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       }
     ]
   },
@@ -450,6 +450,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_b4c2605cdec044b49d65ff9be039ec45",
+        "date": "2026-11-02",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "爱沙尼亚乙级联赛B组",
+        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
+        "season": "2026",
+        "home": {
+          "name": "塔林卡列夫U21",
+          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
+        },
+        "away": {
+          "name": "塔尔图卡列夫",
+          "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_e8010f49274e41eeb0d8857c6e817053",
         "date": "2026-11-01",
         "time": "15:00",
@@ -464,26 +484,6 @@
         "away": {
           "name": "塔梅卡U21",
           "team_id": "ast_8a57aa837eea4807a30321bea5000b14"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b4c2605cdec044b49d65ff9be039ec45",
-        "date": "2026-11-01",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "塔林卡列夫U21",
-          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
-        },
-        "away": {
-          "name": "塔尔图卡列夫",
-          "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
         "ht_score": "-",
         "venue": "",
@@ -653,7 +653,7 @@
         "match_id": "as_ea2a9aecff404732bb34964f5c0c7b33",
         "date": "2026-10-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -665,13 +665,16 @@
           "name": "军团",
           "team_id": "ast_aa25b3ee730c4388bb65492a1429024a"
         },
-        "venue": ""
+        "ht_score": "6-0",
+        "reg_score": "11-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d9e4cb140ba342f49c2352e7d065f234",
         "date": "2026-10-19",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -683,7 +686,10 @@
           "name": "纳尔瓦U21",
           "team_id": "ast_e217cec23931426aa39a732eb9b33509"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cf7c5c8b12544d2e842a1b7408d1bda6",
@@ -4212,8 +4218,8 @@
       },
       {
         "match_id": "as_b4c2605cdec044b49d65ff9be039ec45",
-        "date": "2026-11-01",
-        "time": "15:00",
+        "date": "2026-11-02",
+        "time": "17:00",
         "status": "Not Started",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
@@ -4409,42 +4415,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d9e4cb140ba342f49c2352e7d065f234",
-        "date": "2026-10-19",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "塔巴萨鲁",
-          "team_id": "ast_16401749cac44082b6c7e88964f9ec3a"
-        },
-        "away": {
-          "name": "纳尔瓦U21",
-          "team_id": "ast_e217cec23931426aa39a732eb9b33509"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ea2a9aecff404732bb34964f5c0c7b33",
-        "date": "2026-10-19",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "塔梅卡U21",
-          "team_id": "ast_8a57aa837eea4807a30321bea5000b14"
-        },
-        "away": {
-          "name": "军团",
-          "team_id": "ast_aa25b3ee730c4388bb65492a1429024a"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4824,11 +4794,11 @@
     }
   },
   "stats": {
-    "matches_completed": 163,
-    "total_goals": 708,
-    "avg_goals_per_match": 4.34,
-    "home_wins": 90,
-    "draws": 18,
+    "matches_completed": 165,
+    "total_goals": 719,
+    "avg_goals_per_match": 4.36,
+    "home_wins": 91,
+    "draws": 19,
     "away_wins": 55,
     "home_win_pct": 55.2,
     "biggest_win": {
@@ -4857,8 +4827,8 @@
     },
     "leader": {
       "team": "Narva U21",
-      "points": 69,
-      "played": 32
+      "points": 70,
+      "played": 33
     }
   },
   "coverage": {
@@ -4955,15 +4925,15 @@
             "position": 1,
             "team_id": "ast_e217cec23931426aa39a732eb9b33509",
             "team": "Narva U21",
-            "played": 32,
+            "played": 33,
             "wins": 22,
-            "draws": 3,
+            "draws": 4,
             "losses": 7,
             "goals_for": 74,
             "goals_against": 36,
             "goal_difference": 38,
-            "points": 69,
-            "form": "WWWWW"
+            "points": 70,
+            "form": "DWWWW"
           },
           {
             "position": 2,
@@ -4983,15 +4953,15 @@
             "position": 3,
             "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
             "team": "Tammeka U21",
-            "played": 32,
-            "wins": 17,
+            "played": 33,
+            "wins": 18,
             "draws": 4,
             "losses": 11,
-            "goals_for": 79,
+            "goals_for": 90,
             "goals_against": 62,
-            "goal_difference": 17,
-            "points": 55,
-            "form": "WWLLW"
+            "goal_difference": 28,
+            "points": 58,
+            "form": "WWWLL"
           }
         ],
         "meta": {
@@ -5590,7 +5560,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 17
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }

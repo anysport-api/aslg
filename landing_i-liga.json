@@ -236,6 +236,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
+        "team": "Zilina B",
+        "played": 13,
+        "wins": 6,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 17,
+        "goals_against": 14,
+        "goal_difference": 3,
+        "points": 21,
+        "form": "DLWDW"
+      },
+      {
+        "position": 7,
         "team_id": "ast_5840142cc7714654ad901c71fe019139",
         "team": "I. Bratislava",
         "played": 13,
@@ -247,20 +261,6 @@
         "goal_difference": 12,
         "points": 20,
         "form": "DWDWD"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
-        "team": "Zilina B",
-        "played": 12,
-        "wins": 6,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 16,
-        "goals_against": 13,
-        "goal_difference": 3,
-        "points": 20,
-        "form": "LWDWL"
       },
       {
         "position": 8,
@@ -280,15 +280,15 @@
         "position": 9,
         "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6",
         "team": "Presov",
-        "played": 12,
+        "played": 13,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
-        "goals_for": 17,
-        "goals_against": 18,
+        "goals_for": 18,
+        "goals_against": 19,
         "goal_difference": -1,
-        "points": 18,
-        "form": "DWDLW"
+        "points": 19,
+        "form": "DDWDL"
       },
       {
         "position": 10,
@@ -467,6 +467,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
+        "team": "日利纳B队",
+        "played": 13,
+        "wins": 6,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 17,
+        "goals_against": 14,
+        "goal_difference": 3,
+        "points": 21,
+        "form": "DLWDW",
+        "form_label": "平负胜平胜"
+      },
+      {
+        "position": 7,
         "team_id": "ast_5840142cc7714654ad901c71fe019139",
         "team": "布拉迪斯拉发I队",
         "played": 13,
@@ -479,21 +494,6 @@
         "points": 20,
         "form": "DWDWD",
         "form_label": "平胜平胜平"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
-        "team": "日利纳B队",
-        "played": 12,
-        "wins": 6,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 16,
-        "goals_against": 13,
-        "goal_difference": 3,
-        "points": 20,
-        "form": "LWDWL",
-        "form_label": "负胜平胜负"
       },
       {
         "position": 8,
@@ -514,16 +514,16 @@
         "position": 9,
         "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6",
         "team": "普雷绍夫",
-        "played": 12,
+        "played": 13,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
-        "goals_for": 17,
-        "goals_against": 18,
+        "goals_for": 18,
+        "goals_against": 19,
         "goal_difference": -1,
-        "points": 18,
-        "form": "DWDLW",
-        "form_label": "平胜平负胜"
+        "points": 19,
+        "form": "DDWDL",
+        "form_label": "平平胜平负"
       },
       {
         "position": 10,
@@ -3373,7 +3373,7 @@
         "match_id": "as_fe27a7c88de44d71a3f48357e08e3139",
         "date": "2026-10-19",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3385,7 +3385,10 @@
           "name": "日利纳B队",
           "team_id": "ast_03de54b888154cd9a67cfa8cbefee450"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8a268b7a677e445594a64101f45cbc9a",
@@ -3426,7 +3429,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Humenne Football Stadium",
         "status_label": "完场"
       },
       {
@@ -3447,7 +3450,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Mestsky futbalovy stadion Galanta",
         "status_label": "完场"
       },
       {
@@ -3468,7 +3471,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Pasienky",
         "status_label": "完场"
       },
       {
@@ -6191,24 +6194,6 @@
         "ht_score": "-",
         "venue": "Mestsky futbalovy stadion Galanta",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fe27a7c88de44d71a3f48357e08e3139",
-        "date": "2026-10-19",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "普雷绍夫",
-          "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6"
-        },
-        "away": {
-          "name": "日利纳B队",
-          "team_id": "ast_03de54b888154cd9a67cfa8cbefee450"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8307,13 +8292,13 @@
     }
   },
   "stats": {
-    "matches_completed": 103,
-    "total_goals": 294,
+    "matches_completed": 104,
+    "total_goals": 296,
     "avg_goals_per_match": 2.85,
     "home_wins": 49,
-    "draws": 22,
+    "draws": 23,
     "away_wins": 32,
-    "home_win_pct": 47.6,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9111,7 +9096,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 33
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/20"
 }
