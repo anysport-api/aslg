@@ -768,7 +768,7 @@
         "match_id": "as_872ef5e07867432aa3be8fc4553686b7",
         "date": "2026-10-22",
         "time": "02:30",
-        "status": "Not Started",
+        "status": "02:30",
         "league": "中美洲杯",
         "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
         "season": "2026",
@@ -780,9 +780,7 @@
           "name": "奥林匹亚",
           "team_id": "ast_f04ed16e05264c799e3a6d8b233cc50c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2c3268aad2e84964b3071fdc746d2e9a",
@@ -806,7 +804,7 @@
         "match_id": "as_9d3bc806fa5f4fa29457ce9b82020c4a",
         "date": "2026-10-21",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "中美洲杯",
         "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
         "season": "2026",
@@ -818,7 +816,10 @@
           "name": "阿利安萨",
           "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -2328,5 +2329,5 @@
     "matches_current_season": 0,
     "upcoming_matches": 8
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/21"
 }

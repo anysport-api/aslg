@@ -128,6 +128,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
+        "team": "Muras United",
+        "played": 26,
+        "wins": 15,
+        "draws": 8,
+        "losses": 3,
+        "goals_for": 53,
+        "goals_against": 24,
+        "goal_difference": 29,
+        "points": 53,
+        "form": "WWLDW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
         "team": "Asia Talas",
         "played": 26,
@@ -139,20 +153,6 @@
         "goal_difference": 20,
         "points": 52,
         "form": "WWWWL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
-        "team": "Muras United",
-        "played": 25,
-        "wins": 14,
-        "draws": 8,
-        "losses": 3,
-        "goals_for": 51,
-        "goals_against": 24,
-        "goal_difference": 27,
-        "points": 50,
-        "form": "WLDWL"
       },
       {
         "position": 5,
@@ -242,15 +242,15 @@
         "position": 11,
         "team_id": "ast_3a45ce9ae593441394b3727362fe3881",
         "team": "Dordoi Bishkek",
-        "played": 25,
+        "played": 26,
         "wins": 8,
         "draws": 5,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 39,
-        "goals_against": 37,
-        "goal_difference": 2,
+        "goals_against": 39,
+        "goal_difference": 0,
         "points": 29,
-        "form": "LLDWL"
+        "form": "LLLDW"
       },
       {
         "position": 12,
@@ -356,6 +356,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
+        "team": "穆拉斯联队",
+        "played": 26,
+        "wins": 15,
+        "draws": 8,
+        "losses": 3,
+        "goals_for": 53,
+        "goals_against": 24,
+        "goal_difference": 29,
+        "points": 53,
+        "form": "WWLDW",
+        "form_label": "胜胜负平胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
         "team": "亚洲塔拉斯",
         "played": 26,
@@ -368,21 +383,6 @@
         "points": 52,
         "form": "WWWWL",
         "form_label": "胜胜胜胜负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
-        "team": "穆拉斯联队",
-        "played": 25,
-        "wins": 14,
-        "draws": 8,
-        "losses": 3,
-        "goals_for": 51,
-        "goals_against": 24,
-        "goal_difference": 27,
-        "points": 50,
-        "form": "WLDWL",
-        "form_label": "胜负平胜负"
       },
       {
         "position": 5,
@@ -478,16 +478,16 @@
         "position": 11,
         "team_id": "ast_3a45ce9ae593441394b3727362fe3881",
         "team": "多尔多伊比什凯克",
-        "played": 25,
+        "played": 26,
         "wins": 8,
         "draws": 5,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 39,
-        "goals_against": 37,
-        "goal_difference": 2,
+        "goals_against": 39,
+        "goal_difference": 0,
         "points": 29,
-        "form": "LLDWL",
-        "form_label": "负负平胜负"
+        "form": "LLLDW",
+        "form_label": "负负负平胜"
       },
       {
         "position": 12,
@@ -627,7 +627,7 @@
         "match_id": "as_91affa30babf43449fb0815eb27ca174",
         "date": "2026-10-22",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -639,15 +639,13 @@
           "name": "阿西亚戈尔比什凯克",
           "team_id": "ast_b19d89fd48fa4dc8b64df5ed58c3be3b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_055856f6c13441a9ad52f8da87e213b6",
         "date": "2026-10-22",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -659,9 +657,7 @@
           "name": "亚洲塔拉斯",
           "team_id": "ast_9721448996654ba2bfee8122aee8fef3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1e37f662fdfb451d85f940bc0dc686f0",
@@ -703,7 +699,7 @@
         "match_id": "as_4fdcd982b3524be29e94a82822a93e95",
         "date": "2026-10-20",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -715,7 +711,10 @@
           "name": "穆拉斯联队",
           "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ab2a002a18b644799a8afd99fa5ede2e",
@@ -5089,7 +5088,7 @@
         "match_id": "as_055856f6c13441a9ad52f8da87e213b6",
         "date": "2026-10-22",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -5101,15 +5100,13 @@
           "name": "亚洲塔拉斯",
           "team_id": "ast_9721448996654ba2bfee8122aee8fef3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_91affa30babf43449fb0815eb27ca174",
         "date": "2026-10-22",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -5121,9 +5118,7 @@
           "name": "阿西亚戈尔比什凯克",
           "team_id": "ast_b19d89fd48fa4dc8b64df5ed58c3be3b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_dba9a92544134950bd036338cb834c36",
@@ -5158,24 +5153,6 @@
         "away": {
           "name": "阿尔加",
           "team_id": "ast_dcfcfe791859448b860a59c1029014ef"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4fdcd982b3524be29e94a82822a93e95",
-        "date": "2026-10-20",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "多尔多伊比什凯克",
-          "team_id": "ast_3a45ce9ae593441394b3727362fe3881"
-        },
-        "away": {
-          "name": "穆拉斯联队",
-          "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda"
         },
         "venue": ""
       }
@@ -6631,13 +6608,13 @@
     }
   },
   "stats": {
-    "matches_completed": 206,
-    "total_goals": 630,
-    "avg_goals_per_match": 3.06,
+    "matches_completed": 207,
+    "total_goals": 632,
+    "avg_goals_per_match": 3.05,
     "home_wins": 82,
     "draws": 52,
-    "away_wins": 72,
-    "home_win_pct": 39.8,
+    "away_wins": 73,
+    "home_win_pct": 39.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6788,17 +6765,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_9721448996654ba2bfee8122aee8fef3",
-            "team": "Asia Talas",
+            "team_id": "ast_13dd716b887e4086bb4d06c6cac3ffda",
+            "team": "Muras United",
             "played": 26,
             "wins": 15,
-            "draws": 7,
-            "losses": 4,
-            "goals_for": 59,
-            "goals_against": 39,
-            "goal_difference": 20,
-            "points": 52,
-            "form": "WWWWL"
+            "draws": 8,
+            "losses": 3,
+            "goals_for": 53,
+            "goals_against": 24,
+            "goal_difference": 29,
+            "points": 53,
+            "form": "WWLDW"
           }
         ],
         "meta": {
@@ -7401,7 +7378,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 16,
     "matches_current_season": 213,
-    "upcoming_matches": 7
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/10/20"
+  "updated_at": "2026/10/21"
 }

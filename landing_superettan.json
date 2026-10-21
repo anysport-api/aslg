@@ -222,15 +222,15 @@
         "position": 1,
         "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c",
         "team": "Norrkoping",
-        "played": 26,
+        "played": 27,
         "wins": 18,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 52,
-        "goals_against": 16,
+        "goals_for": 54,
+        "goals_against": 18,
         "goal_difference": 36,
-        "points": 58,
-        "form": "WWDWD"
+        "points": 59,
+        "form": "DWWDW"
       },
       {
         "position": 2,
@@ -418,15 +418,15 @@
         "position": 15,
         "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438",
         "team": "Orebro",
-        "played": 26,
+        "played": 27,
         "wins": 5,
-        "draws": 10,
+        "draws": 11,
         "losses": 11,
-        "goals_for": 28,
-        "goals_against": 40,
+        "goals_for": 30,
+        "goals_against": 42,
         "goal_difference": -12,
-        "points": 25,
-        "form": "DLDWL"
+        "points": 26,
+        "form": "DDLDW"
       },
       {
         "position": 16,
@@ -448,16 +448,16 @@
         "position": 1,
         "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c",
         "team": "诺尔科平",
-        "played": 26,
+        "played": 27,
         "wins": 18,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 52,
-        "goals_against": 16,
+        "goals_for": 54,
+        "goals_against": 18,
         "goal_difference": 36,
-        "points": 58,
-        "form": "WWDWD",
-        "form_label": "胜胜平胜平"
+        "points": 59,
+        "form": "DWWDW",
+        "form_label": "平胜胜平胜"
       },
       {
         "position": 2,
@@ -658,16 +658,16 @@
         "position": 15,
         "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438",
         "team": "厄勒布鲁",
-        "played": 26,
+        "played": 27,
         "wins": 5,
-        "draws": 10,
+        "draws": 11,
         "losses": 11,
-        "goals_for": 28,
-        "goals_against": 40,
+        "goals_for": 30,
+        "goals_against": 42,
         "goal_difference": -12,
-        "points": 25,
-        "form": "DLDWL",
-        "form_label": "平负平胜负"
+        "points": 26,
+        "form": "DDLDW",
+        "form_label": "平平负平胜"
       },
       {
         "position": 16,
@@ -3593,7 +3593,7 @@
         "match_id": "as_8f4eaa78e98242078a2e1c0fda2d436e",
         "date": "2026-10-20",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3605,7 +3605,10 @@
           "name": "厄勒布鲁",
           "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6abb3664c0654bf2a79fd88cd1e719ad",
@@ -3625,7 +3628,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Paskbergsvallen",
         "status_label": "完场"
       },
       {
@@ -3646,7 +3649,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Sodertalje Fotbollsarena",
         "status_label": "完场"
       },
       {
@@ -3667,7 +3670,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "NP3竞技场",
         "status_label": "完场"
       },
       {
@@ -8603,24 +8606,6 @@
         "ht_score": "-",
         "venue": "里姆内什瓦伦球场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_8f4eaa78e98242078a2e1c0fda2d436e",
-        "date": "2026-10-20",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "诺尔科平",
-          "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c"
-        },
-        "away": {
-          "name": "厄勒布鲁",
-          "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
-        },
-        "venue": ""
       }
     ]
   },
@@ -14314,13 +14299,13 @@
     }
   },
   "stats": {
-    "matches_completed": 215,
-    "total_goals": 619,
+    "matches_completed": 216,
+    "total_goals": 623,
     "avg_goals_per_match": 2.88,
     "home_wins": 87,
-    "draws": 58,
+    "draws": 59,
     "away_wins": 70,
-    "home_win_pct": 40.5,
+    "home_win_pct": 40.3,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14347,8 +14332,8 @@
     },
     "leader": {
       "team": "Norrkoping",
-      "points": 58,
-      "played": 26
+      "points": 59,
+      "played": 27
     }
   },
   "coverage": {
@@ -14452,15 +14437,15 @@
             "position": 1,
             "team_id": "ast_c33e24da8aa842d4a1ca3e934944767c",
             "team": "Norrkoping",
-            "played": 26,
+            "played": 27,
             "wins": 18,
-            "draws": 4,
+            "draws": 5,
             "losses": 4,
-            "goals_for": 52,
-            "goals_against": 16,
+            "goals_for": 54,
+            "goals_against": 18,
             "goal_difference": 36,
-            "points": 58,
-            "form": "WWDWD"
+            "points": 59,
+            "form": "DWWDW"
           },
           {
             "position": 2,
@@ -15146,7 +15131,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/10/20"
+  "updated_at": "2026/10/21"
 }

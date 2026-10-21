@@ -194,6 +194,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512",
+        "team": "Ravshan",
+        "played": 19,
+        "wins": 7,
+        "draws": 5,
+        "losses": 7,
+        "goals_for": 25,
+        "goals_against": 20,
+        "goal_difference": 5,
+        "points": 26,
+        "form": "WDWLD"
+      },
+      {
+        "position": 7,
         "team_id": "ast_6457475ae9194c228f139f98870a95ab",
         "team": "Barkchi Hisor",
         "played": 17,
@@ -205,20 +219,6 @@
         "goal_difference": -1,
         "points": 24,
         "form": "LWWDD"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512",
-        "team": "Ravshan",
-        "played": 18,
-        "wins": 6,
-        "draws": 5,
-        "losses": 7,
-        "goals_for": 24,
-        "goals_against": 20,
-        "goal_difference": 4,
-        "points": 23,
-        "form": "DWLDL"
       },
       {
         "position": 8,
@@ -280,15 +280,15 @@
         "position": 12,
         "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
         "team": "Istaravshan",
-        "played": 18,
+        "played": 19,
         "wins": 0,
         "draws": 6,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 15,
-        "goals_against": 36,
-        "goal_difference": -21,
+        "goals_against": 37,
+        "goal_difference": -22,
         "points": 6,
-        "form": "LLLDL"
+        "form": "LLLLD"
       }
     ],
     "zh": [
@@ -369,6 +369,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512",
+        "team": "拉夫尚",
+        "played": 19,
+        "wins": 7,
+        "draws": 5,
+        "losses": 7,
+        "goals_for": 25,
+        "goals_against": 20,
+        "goal_difference": 5,
+        "points": 26,
+        "form": "WDWLD",
+        "form_label": "胜平胜负平"
+      },
+      {
+        "position": 7,
         "team_id": "ast_6457475ae9194c228f139f98870a95ab",
         "team": "巴尔基奇希索尔",
         "played": 17,
@@ -381,21 +396,6 @@
         "points": 24,
         "form": "LWWDD",
         "form_label": "负胜胜平平"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512",
-        "team": "拉夫尚",
-        "played": 18,
-        "wins": 6,
-        "draws": 5,
-        "losses": 7,
-        "goals_for": 24,
-        "goals_against": 20,
-        "goal_difference": 4,
-        "points": 23,
-        "form": "DWLDL",
-        "form_label": "平胜负平负"
       },
       {
         "position": 8,
@@ -461,16 +461,16 @@
         "position": 12,
         "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
         "team": "伊斯塔拉夫尚",
-        "played": 18,
+        "played": 19,
         "wins": 0,
         "draws": 6,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 15,
-        "goals_against": 36,
-        "goal_difference": -21,
+        "goals_against": 37,
+        "goal_difference": -22,
         "points": 6,
-        "form": "LLLDL",
-        "form_label": "负负负平负"
+        "form": "LLLLD",
+        "form_label": "负负负负平"
       }
     ]
   },
@@ -855,7 +855,7 @@
         "match_id": "as_6edcf4192fc64d9fac20da8c7eaf38a2",
         "date": "2026-10-20",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -867,7 +867,10 @@
           "name": "拉夫尚",
           "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9e00a6150ecd4e92b140dba2585b8170",
@@ -3589,24 +3592,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6edcf4192fc64d9fac20da8c7eaf38a2",
-        "date": "2026-10-20",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "伊斯塔拉夫尚",
-          "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64"
-        },
-        "away": {
-          "name": "拉夫尚",
-          "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5009,13 +4994,13 @@
     }
   },
   "stats": {
-    "matches_completed": 106,
-    "total_goals": 271,
-    "avg_goals_per_match": 2.56,
+    "matches_completed": 107,
+    "total_goals": 272,
+    "avg_goals_per_match": 2.54,
     "home_wins": 42,
     "draws": 29,
-    "away_wins": 35,
-    "home_win_pct": 39.6,
+    "away_wins": 36,
+    "home_win_pct": 39.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -5776,7 +5761,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/10/20"
+  "updated_at": "2026/10/21"
 }
