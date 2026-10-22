@@ -3193,7 +3193,7 @@
         "match_id": "as_c20a0ccad3ac4919bc67623c05340c17",
         "date": "2026-10-21",
         "time": "15:30",
-        "status": "15:30",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3205,7 +3205,10 @@
           "name": "贾罗",
           "team_id": "ast_b4b92af79ba14194834632c7198e8686"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_18c2630ed34f469ea174fcd4ec5afb3d",
@@ -6933,24 +6936,6 @@
         "ht_score": "-",
         "venue": "莱蒙软特体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c20a0ccad3ac4919bc67623c05340c17",
-        "date": "2026-10-21",
-        "time": "15:30",
-        "status": "15:30",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "PK-35",
-          "team_id": "ast_62ff671c109a4a548956db1e8d4066f8"
-        },
-        "away": {
-          "name": "贾罗",
-          "team_id": "ast_b4b92af79ba14194834632c7198e8686"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11375,13 +11360,13 @@
     }
   },
   "stats": {
-    "matches_completed": 165,
-    "total_goals": 415,
-    "avg_goals_per_match": 2.52,
+    "matches_completed": 166,
+    "total_goals": 417,
+    "avg_goals_per_match": 2.51,
     "home_wins": 76,
-    "draws": 44,
+    "draws": 45,
     "away_wins": 45,
-    "home_win_pct": 46.1,
+    "home_win_pct": 45.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -12186,7 +12171,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 179,
-    "upcoming_matches": 14
+    "upcoming_matches": 13
   },
-  "updated_at": "2026/10/21"
+  "updated_at": "2026/10/22"
 }

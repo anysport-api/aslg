@@ -328,6 +328,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a",
+        "team": "Sogndal",
+        "played": 27,
+        "wins": 7,
+        "draws": 6,
+        "losses": 14,
+        "goals_for": 44,
+        "goals_against": 60,
+        "goal_difference": -16,
+        "points": 27,
+        "form": "WDLLL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_ac7e6fd825ca4bd2a2d0103a03d7483c",
         "team": "Sandnes",
         "played": 27,
@@ -339,20 +353,6 @@
         "goal_difference": -17,
         "points": 26,
         "form": "LLDDL"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a",
-        "team": "Sogndal",
-        "played": 26,
-        "wins": 6,
-        "draws": 6,
-        "losses": 14,
-        "goals_for": 42,
-        "goals_against": 59,
-        "goal_difference": -17,
-        "points": 24,
-        "form": "DLLLD"
       },
       {
         "position": 15,
@@ -372,15 +372,15 @@
         "position": 16,
         "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f",
         "team": "Raufoss",
-        "played": 26,
+        "played": 27,
         "wins": 6,
         "draws": 2,
-        "losses": 18,
-        "goals_for": 29,
-        "goals_against": 69,
-        "goal_difference": -40,
+        "losses": 19,
+        "goals_for": 30,
+        "goals_against": 71,
+        "goal_difference": -41,
         "points": 20,
-        "form": "LDLLW"
+        "form": "LLDLL"
       }
     ],
     "zh": [
@@ -566,6 +566,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a",
+        "team": "索格达尔",
+        "played": 27,
+        "wins": 7,
+        "draws": 6,
+        "losses": 14,
+        "goals_for": 44,
+        "goals_against": 60,
+        "goal_difference": -16,
+        "points": 27,
+        "form": "WDLLL",
+        "form_label": "胜平负负负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_ac7e6fd825ca4bd2a2d0103a03d7483c",
         "team": "桑德尼斯",
         "played": 27,
@@ -578,21 +593,6 @@
         "points": 26,
         "form": "LLDDL",
         "form_label": "负负平平负"
-      },
-      {
-        "position": 14,
-        "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a",
-        "team": "索格达尔",
-        "played": 26,
-        "wins": 6,
-        "draws": 6,
-        "losses": 14,
-        "goals_for": 42,
-        "goals_against": 59,
-        "goal_difference": -17,
-        "points": 24,
-        "form": "DLLLD",
-        "form_label": "平负负负平"
       },
       {
         "position": 15,
@@ -613,16 +613,16 @@
         "position": 16,
         "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f",
         "team": "劳福斯",
-        "played": 26,
+        "played": 27,
         "wins": 6,
         "draws": 2,
-        "losses": 18,
-        "goals_for": 29,
-        "goals_against": 69,
-        "goal_difference": -40,
+        "losses": 19,
+        "goals_for": 30,
+        "goals_against": 71,
+        "goal_difference": -41,
         "points": 20,
-        "form": "LDLLW",
-        "form_label": "负平负负胜"
+        "form": "LLDLL",
+        "form_label": "负负平负负"
       }
     ]
   },
@@ -1127,7 +1127,7 @@
         "match_id": "as_c27ce5146fbf49dda34680987d7d528e",
         "date": "2026-10-21",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "挪威甲级联赛",
         "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
         "season": "2026",
@@ -1139,7 +1139,10 @@
           "name": "劳福斯",
           "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c0306f1cb87c44b7be095890d4d35969",
@@ -6137,24 +6140,6 @@
         "ht_score": "-",
         "venue": "NAMMO Stadion",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c27ce5146fbf49dda34680987d7d528e",
-        "date": "2026-10-21",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "挪威甲级联赛",
-        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
-        "season": "2026",
-        "home": {
-          "name": "索格达尔",
-          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
-        },
-        "away": {
-          "name": "劳福斯",
-          "team_id": "ast_a6ace8da884c4ddf9cc8f2101642314f"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8043,13 +8028,13 @@
     }
   },
   "stats": {
-    "matches_completed": 215,
-    "total_goals": 821,
-    "avg_goals_per_match": 3.82,
-    "home_wins": 108,
+    "matches_completed": 216,
+    "total_goals": 824,
+    "avg_goals_per_match": 3.81,
+    "home_wins": 109,
     "draws": 38,
     "away_wins": 69,
-    "home_win_pct": 50.2,
+    "home_win_pct": 50.5,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8847,7 +8832,7 @@
     "teams_all_time": 36,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/10/21"
+  "updated_at": "2026/10/22"
 }

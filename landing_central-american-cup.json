@@ -748,7 +748,7 @@
         "match_id": "as_22235b75182c44558421f565cb51ce5a",
         "date": "2026-10-23",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "中美洲杯",
         "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
         "season": "2026",
@@ -760,15 +760,13 @@
           "name": "阿拉胡埃伦斯",
           "team_id": "ast_362ecce906604e098df706316bc6ac47"
         },
-        "ht_score": "-",
-        "venue": "Estadio Nacional Chelato Ucles",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_872ef5e07867432aa3be8fc4553686b7",
         "date": "2026-10-22",
         "time": "02:30",
-        "status": "02:30",
+        "status": "FT",
         "league": "中美洲杯",
         "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
         "season": "2026",
@@ -780,13 +778,16 @@
           "name": "奥林匹亚",
           "team_id": "ast_f04ed16e05264c799e3a6d8b233cc50c"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2c3268aad2e84964b3071fdc746d2e9a",
         "date": "2026-10-22",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "中美洲杯",
         "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
         "season": "2026",
@@ -798,26 +799,8 @@
           "name": "萨普里萨",
           "team_id": "ast_656ce94db2ed466f92549fb37713fdc2"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9d3bc806fa5f4fa29457ce9b82020c4a",
-        "date": "2026-10-21",
-        "time": "02:00",
-        "status": "FT",
-        "league": "中美洲杯",
-        "league_id": "asl_7f4bc4c35be9493eadaee2071ab8b2b6",
-        "season": "2026",
-        "home": {
-          "name": "马拉松",
-          "team_id": "ast_c06e5fe9c0c1498b8cccf61185d197ee"
-        },
-        "away": {
-          "name": "阿利安萨",
-          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
-        },
-        "ht_score": "2-1",
-        "reg_score": "2-1",
+        "ht_score": "0-0",
+        "reg_score": "0-0",
         "venue": "",
         "status_label": "完场"
       }
@@ -2327,7 +2310,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 20,
     "matches_current_season": 0,
-    "upcoming_matches": 8
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/10/21"
+  "updated_at": "2026/10/22"
 }

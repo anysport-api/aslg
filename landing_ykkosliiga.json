@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_5201d28389174ce38a373739cde2a252",
@@ -350,6 +350,44 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_0143e91238e04d9c86442db1874ad863",
+        "date": "2026-10-25",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkosliiga联赛",
+        "league_id": "asl_5201d28389174ce38a373739cde2a252",
+        "season": "2026",
+        "home": {
+          "name": "KaPa",
+          "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
+        },
+        "away": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "ht_score": "-",
+        "venue": "Markku.fi Areena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_51f31d5cf73f4b6ca0ac7b782b3937b3",
+        "date": "2026-10-22",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "芬兰Ykkosliiga联赛",
+        "league_id": "asl_5201d28389174ce38a373739cde2a252",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "KaPa",
+          "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_4762cab34912441487396c25d276d07a",
         "date": "2026-10-17",
         "time": "13:00",
@@ -367,7 +405,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Ekenas Sparbank Arena TN",
         "status_label": "完场"
       },
       {
@@ -409,7 +447,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "阿尔托·托尔萨竞技场",
         "status_label": "完场"
       },
       {
@@ -430,7 +468,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Mikkelin Urheilupuisto",
         "status_label": "完场"
       },
       {
@@ -451,7 +489,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "Markku.fi Areena",
         "status_label": "完场"
       },
       {
@@ -3185,7 +3223,46 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_0143e91238e04d9c86442db1874ad863",
+        "date": "2026-10-25",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "芬兰Ykkosliiga联赛",
+        "league_id": "asl_5201d28389174ce38a373739cde2a252",
+        "season": "2026",
+        "home": {
+          "name": "KaPa",
+          "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
+        },
+        "away": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "ht_score": "-",
+        "venue": "Markku.fi Areena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_51f31d5cf73f4b6ca0ac7b782b3937b3",
+        "date": "2026-10-22",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "芬兰Ykkosliiga联赛",
+        "league_id": "asl_5201d28389174ce38a373739cde2a252",
+        "season": "2026",
+        "home": {
+          "name": "罗瓦涅米",
+          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
+        },
+        "away": {
+          "name": "KaPa",
+          "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -3726,6 +3803,9 @@
     },
     "ast_b4b92af79ba14194834632c7198e8686": {
       "en": "Jaro"
+    },
+    "ast_d36c5e2df7e84a19a508e13bd3b4412b": {
+      "en": "罗瓦涅米"
     }
   },
   "stats": {
@@ -4532,8 +4612,8 @@
     "distinct_title_holders": 2,
     "teams_all_time": 14,
     "standings_rows_current": 10,
-    "matches_current_season": 135,
-    "upcoming_matches": 0
+    "matches_current_season": 137,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/10/19"
+  "updated_at": "2026/10/22"
 }

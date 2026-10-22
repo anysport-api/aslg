@@ -194,29 +194,29 @@
         "position": 2,
         "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
         "team": "FAS",
-        "played": 15,
+        "played": 16,
         "wins": 9,
-        "draws": 3,
+        "draws": 4,
         "losses": 3,
         "goals_for": 27,
         "goals_against": 15,
         "goal_difference": 12,
-        "points": 30,
-        "form": "LWWDW"
+        "points": 31,
+        "form": "DLWWD"
       },
       {
         "position": 3,
         "team_id": "ast_632effbea9504a4895b736e294fbff3b",
         "team": "Metapan",
-        "played": 15,
+        "played": 16,
         "wins": 9,
-        "draws": 2,
+        "draws": 3,
         "losses": 4,
         "goals_for": 23,
         "goals_against": 17,
         "goal_difference": 6,
-        "points": 29,
-        "form": "WLWWD"
+        "points": 30,
+        "form": "DWLWW"
       },
       {
         "position": 4,
@@ -365,31 +365,31 @@
         "position": 2,
         "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
         "team": "FAS",
-        "played": 15,
+        "played": 16,
         "wins": 9,
-        "draws": 3,
+        "draws": 4,
         "losses": 3,
         "goals_for": 27,
         "goals_against": 15,
         "goal_difference": 12,
-        "points": 30,
-        "form": "LWWDW",
-        "form_label": "负胜胜平胜"
+        "points": 31,
+        "form": "DLWWD",
+        "form_label": "平负胜胜平"
       },
       {
         "position": 3,
         "team_id": "ast_632effbea9504a4895b736e294fbff3b",
         "team": "梅塔潘",
-        "played": 15,
+        "played": 16,
         "wins": 9,
-        "draws": 2,
+        "draws": 3,
         "losses": 4,
         "goals_for": 23,
         "goals_against": 17,
         "goal_difference": 6,
-        "points": 29,
-        "form": "WLWWD",
-        "form_label": "胜负胜胜平"
+        "points": 30,
+        "form": "DWLWW",
+        "form_label": "平胜负胜胜"
       },
       {
         "position": 4,
@@ -1277,7 +1277,7 @@
         "match_id": "as_a5b8d896779d414582d82e237a39b69c",
         "date": "2026-10-22",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1289,7 +1289,10 @@
           "name": "梅塔潘",
           "team_id": "ast_632effbea9504a4895b736e294fbff3b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6dd99330d6cf4a4d9eb52b4fdad9d5ba",
@@ -3999,7 +4002,7 @@
         "match_id": "as_a5b8d896779d414582d82e237a39b69c",
         "date": "2026-10-22",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -4011,7 +4014,10 @@
           "name": "梅塔潘",
           "team_id": "ast_632effbea9504a4895b736e294fbff3b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7827,13 +7833,13 @@
     }
   },
   "stats": {
-    "matches_completed": 94,
+    "matches_completed": 95,
     "total_goals": 252,
-    "avg_goals_per_match": 2.68,
+    "avg_goals_per_match": 2.65,
     "home_wins": 40,
-    "draws": 29,
+    "draws": 30,
     "away_wins": 25,
-    "home_win_pct": 42.6,
+    "home_win_pct": 42.1,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7972,29 +7978,29 @@
             "position": 2,
             "team_id": "ast_a43bfd5afe4c4b21a4e51c4a7bda27ac",
             "team": "FAS",
-            "played": 15,
+            "played": 16,
             "wins": 9,
-            "draws": 3,
+            "draws": 4,
             "losses": 3,
             "goals_for": 27,
             "goals_against": 15,
             "goal_difference": 12,
-            "points": 30,
-            "form": "LWWDW"
+            "points": 31,
+            "form": "DLWWD"
           },
           {
             "position": 3,
             "team_id": "ast_632effbea9504a4895b736e294fbff3b",
             "team": "Metapan",
-            "played": 15,
+            "played": 16,
             "wins": 9,
-            "draws": 2,
+            "draws": 3,
             "losses": 4,
             "goals_for": 23,
             "goals_against": 17,
             "goal_difference": 6,
-            "points": 29,
-            "form": "WLWWD"
+            "points": 30,
+            "form": "DWLWW"
           }
         ],
         "meta": {
@@ -8624,5 +8630,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 38
   },
-  "updated_at": "2026/10/20"
+  "updated_at": "2026/10/22"
 }
