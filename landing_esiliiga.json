@@ -188,6 +188,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4",
+        "team": "Flora U21",
+        "played": 33,
+        "wins": 16,
+        "draws": 6,
+        "losses": 11,
+        "goals_for": 76,
+        "goals_against": 57,
+        "goal_difference": 19,
+        "points": 54,
+        "form": "WWLDL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
         "team": "Levadia U21",
         "played": 33,
@@ -201,7 +215,7 @@
         "form": "WWWWW"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "Elva",
         "played": 33,
@@ -213,20 +227,6 @@
         "goal_difference": -1,
         "points": 52,
         "form": "WDLD"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4",
-        "team": "Flora U21",
-        "played": 32,
-        "wins": 15,
-        "draws": 6,
-        "losses": 11,
-        "goals_for": 73,
-        "goals_against": 55,
-        "goal_difference": 18,
-        "points": 51,
-        "form": "WLDLW"
       },
       {
         "position": 6,
@@ -246,15 +246,15 @@
         "position": 7,
         "team_id": "ast_c18af10718ec4850879e99b486d17356",
         "team": "Nomme Utd U21",
-        "played": 33,
+        "played": 34,
         "wins": 11,
         "draws": 6,
-        "losses": 16,
-        "goals_for": 53,
-        "goals_against": 67,
-        "goal_difference": -14,
+        "losses": 17,
+        "goals_for": 55,
+        "goals_against": 70,
+        "goal_difference": -15,
         "points": 39,
-        "form": "WLLW"
+        "form": "WLLLW"
       },
       {
         "position": 8,
@@ -332,6 +332,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4",
+        "team": "弗洛拉U21",
+        "played": 33,
+        "wins": 16,
+        "draws": 6,
+        "losses": 11,
+        "goals_for": 76,
+        "goals_against": 57,
+        "goal_difference": 19,
+        "points": 54,
+        "form": "WWLDL",
+        "form_label": "胜胜负平负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
         "team": "列瓦迪亚U21",
         "played": 33,
@@ -346,7 +361,7 @@
         "form_label": "胜胜胜胜胜"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc",
         "team": "埃尔瓦",
         "played": 33,
@@ -359,21 +374,6 @@
         "points": 52,
         "form": "WDLD",
         "form_label": "胜平负平"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4",
-        "team": "弗洛拉U21",
-        "played": 32,
-        "wins": 15,
-        "draws": 6,
-        "losses": 11,
-        "goals_for": 73,
-        "goals_against": 55,
-        "goal_difference": 18,
-        "points": 51,
-        "form": "WLDLW",
-        "form_label": "胜负平负胜"
       },
       {
         "position": 6,
@@ -394,16 +394,16 @@
         "position": 7,
         "team_id": "ast_c18af10718ec4850879e99b486d17356",
         "team": "诺梅联U21",
-        "played": 33,
+        "played": 34,
         "wins": 11,
         "draws": 6,
-        "losses": 16,
-        "goals_for": 53,
-        "goals_against": 67,
-        "goal_difference": -14,
+        "losses": 17,
+        "goals_for": 55,
+        "goals_against": 70,
+        "goal_difference": -15,
         "points": 39,
-        "form": "WLLW",
-        "form_label": "胜负负胜"
+        "form": "WLLLW",
+        "form_label": "胜负负负胜"
       },
       {
         "position": 8,
@@ -546,7 +546,7 @@
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "维姆西体育场",
         "status_label": "未开赛"
       },
       {
@@ -586,7 +586,7 @@
           "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "维姆西体育场",
         "status_label": "未开赛"
       },
       {
@@ -693,7 +693,7 @@
         "match_id": "as_3634e4c3e55c49df9f25b7ec3f6beec3",
         "date": "2026-10-24",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -705,9 +705,7 @@
           "name": "塔林足球俱乐部",
           "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
         },
-        "ht_score": "-",
-        "venue": "Hiiu Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d472a753e7fa41d882e21edddac0196d",
@@ -731,7 +729,7 @@
         "match_id": "as_231b5998e55d4f8b86c10aabe470a3d9",
         "date": "2026-10-22",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -743,7 +741,10 @@
           "name": "诺梅联U21",
           "team_id": "ast_c18af10718ec4850879e99b486d17356"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_014aece05f2a4a0c92002b2c16eb403e",
@@ -4182,7 +4183,7 @@
           "team_id": "ast_db8d1aa3430b431ea563bf1e6b76cf5d"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "维姆西体育场",
         "status_label": "未开赛"
       },
       {
@@ -4282,7 +4283,7 @@
           "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589"
         },
         "ht_score": "-",
-        "venue": "",
+        "venue": "维姆西体育场",
         "status_label": "未开赛"
       },
       {
@@ -4344,6 +4345,25 @@
         "ht_score": "-",
         "venue": "Kadrioru Staadion",
         "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_09456806c4e04ba5b48c85d4094bd1f9",
+        "date": "2026-10-29",
+        "time": "16:00",
+        "status": "Awarded",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "home": {
+          "name": "马尔杜",
+          "team_id": "ast_730e7ee5d0a1496a8b515e69cda612cc"
+        },
+        "away": {
+          "name": "埃尔瓦",
+          "team_id": "ast_a9a78b0edc224bc5ba57f23ce252d1cc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "判定胜负"
       },
       {
         "match_id": "as_81bf350ba6b24ce1b9113023ca1d3913",
@@ -4408,7 +4428,7 @@
         "match_id": "as_3634e4c3e55c49df9f25b7ec3f6beec3",
         "date": "2026-10-24",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -4420,9 +4440,7 @@
           "name": "塔林足球俱乐部",
           "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
         },
-        "ht_score": "-",
-        "venue": "Hiiu Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d472a753e7fa41d882e21edddac0196d",
@@ -4439,24 +4457,6 @@
         "away": {
           "name": "塔林卡列夫",
           "team_id": "ast_26db6d36f76244239fb3177106ad8770"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_231b5998e55d4f8b86c10aabe470a3d9",
-        "date": "2026-10-22",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "弗洛拉U21",
-          "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4"
-        },
-        "away": {
-          "name": "诺梅联U21",
-          "team_id": "ast_c18af10718ec4850879e99b486d17356"
         },
         "venue": ""
       }
@@ -7528,13 +7528,13 @@
     }
   },
   "stats": {
-    "matches_completed": 158,
-    "total_goals": 572,
-    "avg_goals_per_match": 3.62,
-    "home_wins": 71,
+    "matches_completed": 159,
+    "total_goals": 577,
+    "avg_goals_per_match": 3.63,
+    "home_wins": 72,
     "draws": 28,
     "away_wins": 59,
-    "home_win_pct": 44.9,
+    "home_win_pct": 45.3,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7685,17 +7685,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_6fdf29dd42c845629ba88fdbc91a0589",
-            "team": "Levadia U21",
+            "team_id": "ast_233b29ca79234a31a3f6deee43f76fc4",
+            "team": "Flora U21",
             "played": 33,
-            "wins": 17,
-            "draws": 2,
-            "losses": 14,
-            "goals_for": 64,
-            "goals_against": 56,
-            "goal_difference": 8,
-            "points": 53,
-            "form": "WWWWW"
+            "wins": 16,
+            "draws": 6,
+            "losses": 11,
+            "goals_for": 76,
+            "goals_against": 57,
+            "goal_difference": 19,
+            "points": 54,
+            "form": "WWLDL"
           }
         ],
         "meta": {
@@ -8334,5 +8334,5 @@
     "matches_current_season": 177,
     "upcoming_matches": 15
   },
-  "updated_at": "2026/10/22"
+  "updated_at": "2026/10/23"
 }

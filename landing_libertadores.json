@@ -14,7 +14,7 @@
     "is_cup": true
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
@@ -3517,7 +3517,7 @@
         "match_id": "as_43acce21e40a4f43aa5ec53c56c8173f",
         "date": "2026-10-23",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Pen.",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -3529,7 +3529,12 @@
           "name": "学生队",
           "team_id": "ast_c77af0ea812e43c68bb1c1a42ee5e9e0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "et_score": "0-0",
+        "penalty_score": "2-3",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_cfed27311f6e4e61bbd824be387da79e",
@@ -6760,7 +6765,7 @@
         "match_id": "as_43acce21e40a4f43aa5ec53c56c8173f",
         "date": "2026-10-23",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Pen.",
         "league": "解放者杯",
         "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
         "season": "2026",
@@ -6772,28 +6777,10 @@
           "name": "学生队",
           "team_id": "ast_c77af0ea812e43c68bb1c1a42ee5e9e0"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_cfed27311f6e4e61bbd824be387da79e",
-        "date": "2026-10-22",
-        "time": "00:30",
-        "status": "Pen.",
-        "league": "解放者杯",
-        "league_id": "asl_23854b1408744548b29fab0f2ac785f7",
-        "season": "2026",
-        "home": {
-          "name": "帕尔梅拉斯",
-          "team_id": "ast_8eac9a6e7be047098cbca582cb2810e6"
-        },
-        "away": {
-          "name": "弗鲁米嫩塞",
-          "team_id": "ast_6bc26586ace649ae9592f9a90e6eda00"
-        },
         "ht_score": "0-0",
-        "reg_score": "0-1",
+        "reg_score": "0-0",
         "et_score": "0-0",
-        "penalty_score": "5-3",
+        "penalty_score": "2-3",
         "venue": "",
         "status_label": "点球决胜"
       }
@@ -10921,13 +10908,13 @@
     }
   },
   "stats": {
-    "matches_completed": 153,
+    "matches_completed": 154,
     "total_goals": 337,
-    "avg_goals_per_match": 2.2,
+    "avg_goals_per_match": 2.19,
     "home_wins": 69,
-    "draws": 40,
+    "draws": 41,
     "away_wins": 44,
-    "home_win_pct": 45.1,
+    "home_win_pct": 44.8,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11738,7 +11725,7 @@
     "teams_all_time": 93,
     "standings_rows_current": 32,
     "matches_current_season": 154,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/10/22"
+  "updated_at": "2026/10/23"
 }

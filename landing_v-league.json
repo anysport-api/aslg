@@ -4753,6 +4753,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_004f0b73c9694dbea1a0774964ac0b7e",
+        "date": "2026-12-07",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "越南V联赛",
+        "league_id": "asl_4472ac652c6049f3ba4b0af4145bd8cd",
+        "season": "2026/2027",
+        "home": {
+          "name": "岘港",
+          "team_id": "ast_18673d2c6353417d962944436ff98f70"
+        },
+        "away": {
+          "name": "越南电信",
+          "team_id": "ast_ba0c0b973fbf4c98960769b17ed35516"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_07147d5e61cb43b7b5e654a5cace93cc",
         "date": "2026-12-06",
         "time": "12:15",
@@ -5456,7 +5476,7 @@
         "match_id": "as_cee4ffdc7ed34aa88f77ef59c4c57b26",
         "date": "2026-10-24",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "越南V联赛",
         "league_id": "asl_4472ac652c6049f3ba4b0af4145bd8cd",
         "season": "2026/2027",
@@ -5468,15 +5488,13 @@
           "name": "南定",
           "team_id": "ast_81e80b7b8854442d8229508771d2f85c"
         },
-        "ht_score": "-",
-        "venue": "Binh Phuoc Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f574c9f69ca34dc1a8f2ca542a65d119",
         "date": "2026-10-24",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "越南V联赛",
         "league_id": "asl_4472ac652c6049f3ba4b0af4145bd8cd",
         "season": "2026/2027",
@@ -5488,9 +5506,7 @@
           "name": "海防",
           "team_id": "ast_a17bbd3ec1284e18b9178eed3a6cf394"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b10b2aa2db604afcabb13e5ebd76a5df",
@@ -5525,24 +5541,6 @@
         "away": {
           "name": "河内歌南",
           "team_id": "ast_b65dcac506db462fb019596ac446ea2a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4057b805baf8478d9bff30a6cc0e9eb9",
-        "date": "2026-10-22",
-        "time": "12:15",
-        "status": "12:15",
-        "league": "越南V联赛",
-        "league_id": "asl_4472ac652c6049f3ba4b0af4145bd8cd",
-        "season": "2026/2027",
-        "home": {
-          "name": "河内公安",
-          "team_id": "ast_7594950dfc8147ab959647c0dba3e80a"
-        },
-        "away": {
-          "name": "清化",
-          "team_id": "ast_2af78e1036e640e298110e545099ff10"
         },
         "venue": ""
       }
@@ -8221,5 +8219,5 @@
     "matches_current_season": 183,
     "upcoming_matches": 40
   },
-  "updated_at": "2026/10/22"
+  "updated_at": "2026/10/23"
 }

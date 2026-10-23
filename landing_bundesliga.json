@@ -1,7 +1,7 @@
 {
   "slug": "bundesliga",
   "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
-  "updated_at": "2026/10/20",
+  "updated_at": "2026/10/23",
   "meta": {
     "name": {
       "en": "Bundesliga",
@@ -4590,7 +4590,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "红牛竞技场",
         "status_label": "完场"
       },
       {
@@ -4611,7 +4611,7 @@
         },
         "ht_score": "3-1",
         "reg_score": "6-1",
-        "venue": "",
+        "venue": "Merkur-Arena",
         "status_label": "完场"
       },
       {
@@ -4632,7 +4632,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Lavanttal-Arena",
         "status_label": "完场"
       },
       {
@@ -5708,6 +5708,106 @@
       }
     ],
     "upcoming": [
+      {
+        "match_id": "as_2d8a1af352ee464c82edc18fceb4578b",
+        "date": "2026-12-06",
+        "time": "13:30",
+        "status": "Not Started",
+        "league": "奥地利超级联赛",
+        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
+        "season": "2026/2027",
+        "home": {
+          "name": "沃尔夫斯贝格",
+          "team_id": "ast_c7e72f278e6743a8b930fbb1eddedde4"
+        },
+        "away": {
+          "name": "A. 卢斯特瑙",
+          "team_id": "ast_3e638980796048e4ac5536b4eada79d8"
+        },
+        "ht_score": "-",
+        "venue": "Lavanttal-Arena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ece8b13c64a749e7b8fae5600cc14aa9",
+        "date": "2026-12-06",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "奥地利超级联赛",
+        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
+        "season": "2026/2027",
+        "home": {
+          "name": "格拉茨风暴",
+          "team_id": "ast_fe11ba7f4fdf422caeb35a56fe176e1a"
+        },
+        "away": {
+          "name": "维也纳奥地利",
+          "team_id": "ast_60765e82a3f34e3e9d6983880cc09735"
+        },
+        "ht_score": "-",
+        "venue": "Merkur-Arena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b068cb3db1d94e929a55f0ffca673d25",
+        "date": "2026-12-06",
+        "time": "13:30",
+        "status": "Not Started",
+        "league": "奥地利超级联赛",
+        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
+        "season": "2026/2027",
+        "home": {
+          "name": "里德",
+          "team_id": "ast_21ac74e918674c1ea3a4023bbfa7764b"
+        },
+        "away": {
+          "name": "蒂罗尔",
+          "team_id": "ast_ba4a753944ab49ad95fe49de014befbf"
+        },
+        "ht_score": "-",
+        "venue": "Innviertel Arena",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_77748f15f65542639336c99a05376fef",
+        "date": "2026-12-05",
+        "time": "18:30",
+        "status": "Not Started",
+        "league": "奥地利超级联赛",
+        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
+        "season": "2026/2027",
+        "home": {
+          "name": "SK快速",
+          "team_id": "ast_d23bd65c075e43908bc45b934484863a"
+        },
+        "away": {
+          "name": "林茨体育",
+          "team_id": "ast_d8d47aa4b7da4e77a8cae2a920a6d38d"
+        },
+        "ht_score": "-",
+        "venue": "安联体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2c40349ecd574deeb54551261879b4e6",
+        "date": "2026-12-05",
+        "time": "16:00",
+        "status": "Not Started",
+        "league": "奥地利超级联赛",
+        "league_id": "asl_a9a55bb487984ba4b11b715fe97197c8",
+        "season": "2026/2027",
+        "home": {
+          "name": "哈特贝格",
+          "team_id": "ast_53c85547602049fe8e1cab2c2dfcab14"
+        },
+        "away": {
+          "name": "格拉茨AK",
+          "team_id": "ast_576533b83b7a449d8a828f61801d9370"
+        },
+        "ht_score": "-",
+        "venue": "Stadion Hartberg",
+        "status_label": "未开赛"
+      },
       {
         "match_id": "as_c79c709de95a410b8321cba39dda6df8",
         "date": "2026-12-04",
@@ -10929,6 +11029,6 @@
     "teams_all_time": 24,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 31
+    "upcoming_matches": 36
   }
 }

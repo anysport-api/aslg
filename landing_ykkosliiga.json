@@ -373,7 +373,7 @@
         "match_id": "as_51f31d5cf73f4b6ca0ac7b782b3937b3",
         "date": "2026-10-22",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "芬兰Ykkosliiga联赛",
         "league_id": "asl_5201d28389174ce38a373739cde2a252",
         "season": "2026",
@@ -385,7 +385,10 @@
           "name": "KaPa",
           "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4762cab34912441487396c25d276d07a",
@@ -3243,24 +3246,6 @@
         "ht_score": "-",
         "venue": "Markku.fi Areena",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_51f31d5cf73f4b6ca0ac7b782b3937b3",
-        "date": "2026-10-22",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "芬兰Ykkosliiga联赛",
-        "league_id": "asl_5201d28389174ce38a373739cde2a252",
-        "season": "2026",
-        "home": {
-          "name": "罗瓦涅米",
-          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
-        },
-        "away": {
-          "name": "KaPa",
-          "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3809,13 +3794,13 @@
     }
   },
   "stats": {
-    "matches_completed": 135,
-    "total_goals": 360,
-    "avg_goals_per_match": 2.67,
+    "matches_completed": 136,
+    "total_goals": 362,
+    "avg_goals_per_match": 2.66,
     "home_wins": 58,
-    "draws": 31,
+    "draws": 32,
     "away_wins": 46,
-    "home_win_pct": 43.0,
+    "home_win_pct": 42.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -4613,7 +4598,7 @@
     "teams_all_time": 14,
     "standings_rows_current": 10,
     "matches_current_season": 137,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/10/22"
+  "updated_at": "2026/10/23"
 }

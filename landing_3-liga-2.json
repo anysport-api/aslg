@@ -11397,6 +11397,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_22bccb65a93949ce9472298dc31a5953",
+        "date": "2026-11-21",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "斯洛伐克甲级联赛",
+        "league_id": "asl_4c8451118e6b403498e2a9d94744faa3",
+        "season": "2026/2027",
+        "home": {
+          "name": "萨拉",
+          "team_id": "ast_7a26dfe3afbf48f6ad79652569342aab"
+        },
+        "away": {
+          "name": "米亚瓦",
+          "team_id": "ast_e0e3547b910b4f1daebc1b3b4a7ab98f"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_375530f9185046b7b4d4a0973f606e42",
         "date": "2026-11-15",
         "time": "12:00",
@@ -11791,26 +11811,6 @@
         "away": {
           "name": "波德科尼采",
           "team_id": "ast_d1325361ab0b401db9b7154331f0567b"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_22bccb65a93949ce9472298dc31a5953",
-        "date": "2026-10-31",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_4c8451118e6b403498e2a9d94744faa3",
-        "season": "2026/2027",
-        "home": {
-          "name": "萨拉",
-          "team_id": "ast_7a26dfe3afbf48f6ad79652569342aab"
-        },
-        "away": {
-          "name": "米亚瓦",
-          "team_id": "ast_e0e3547b910b4f1daebc1b3b4a7ab98f"
         },
         "ht_score": "-",
         "venue": "",
@@ -12340,7 +12340,7 @@
         "match_id": "as_3e550d085b9c45a7ac9cde47b29336df",
         "date": "2026-10-24",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_4c8451118e6b403498e2a9d94744faa3",
         "season": "2026/2027",
@@ -12352,15 +12352,13 @@
           "name": "萨拉",
           "team_id": "ast_7a26dfe3afbf48f6ad79652569342aab"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_574a13424bd9439c85d3502b8e09db28",
         "date": "2026-10-24",
-        "time": "15:00",
-        "status": "Not Started",
+        "time": "14:30",
+        "status": "14:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_4c8451118e6b403498e2a9d94744faa3",
         "season": "2026/2027",
@@ -12372,15 +12370,13 @@
           "name": "科马尔诺B队",
           "team_id": "ast_7ca41e265a9e4916b7a67f02a0e710dd"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b87a57f68a384b1d8c8e87d50cef4843",
         "date": "2026-10-24",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_4c8451118e6b403498e2a9d94744faa3",
         "season": "2026/2027",
@@ -12392,9 +12388,7 @@
           "name": "卡斯特科夫采",
           "team_id": "ast_5af78edac28747ac869a3c9cef0ab980"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -17731,5 +17725,5 @@
     "matches_current_season": 513,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/22"
+  "updated_at": "2026/10/23"
 }

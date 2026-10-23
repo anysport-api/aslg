@@ -316,6 +316,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
+        "team": "Bunyodkor",
+        "played": 25,
+        "wins": 8,
+        "draws": 2,
+        "losses": 15,
+        "goals_for": 26,
+        "goals_against": 41,
+        "goal_difference": -15,
+        "points": 26,
+        "form": "WDLWL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_68e30855de3c48089677835afb30692a",
         "team": "Kokand 1912",
         "played": 24,
@@ -329,7 +343,7 @@
         "form": "LWLLD"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_37c7b4e902464fed8a40867876ed09a7",
         "team": "Xorazm Urganch",
         "played": 24,
@@ -343,30 +357,16 @@
         "form": "DDLDL"
       },
       {
-        "position": 15,
-        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
-        "team": "Bunyodkor",
-        "played": 24,
-        "wins": 7,
-        "draws": 2,
-        "losses": 15,
-        "goals_for": 24,
-        "goals_against": 40,
-        "goal_difference": -16,
-        "points": 23,
-        "form": "DLWLL"
-      },
-      {
         "position": 16,
         "team_id": "ast_9c74f35ba7bd45e493adee4ffabef9d0",
         "team": "Mashal Muborak",
-        "played": 24,
+        "played": 25,
         "wins": 1,
         "draws": 1,
-        "losses": 22,
-        "goals_for": 11,
-        "goals_against": 48,
-        "goal_difference": -37,
+        "losses": 23,
+        "goals_for": 12,
+        "goals_against": 50,
+        "goal_difference": -38,
         "points": 4,
         "form": "LLLLL"
       }
@@ -554,6 +554,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
+        "team": "布纽德科尔",
+        "played": 25,
+        "wins": 8,
+        "draws": 2,
+        "losses": 15,
+        "goals_for": 26,
+        "goals_against": 41,
+        "goal_difference": -15,
+        "points": 26,
+        "form": "WDLWL",
+        "form_label": "胜平负胜负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_68e30855de3c48089677835afb30692a",
         "team": "科汗1912",
         "played": 24,
@@ -568,7 +583,7 @@
         "form_label": "负胜负负平"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_37c7b4e902464fed8a40867876ed09a7",
         "team": "霍拉兹姆乌尔甘奇",
         "played": 24,
@@ -583,31 +598,16 @@
         "form_label": "平平负平负"
       },
       {
-        "position": 15,
-        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
-        "team": "布纽德科尔",
-        "played": 24,
-        "wins": 7,
-        "draws": 2,
-        "losses": 15,
-        "goals_for": 24,
-        "goals_against": 40,
-        "goal_difference": -16,
-        "points": 23,
-        "form": "DLWLL",
-        "form_label": "平负胜负负"
-      },
-      {
         "position": 16,
         "team_id": "ast_9c74f35ba7bd45e493adee4ffabef9d0",
         "team": "马沙尔·穆博拉克",
-        "played": 24,
+        "played": 25,
         "wins": 1,
         "draws": 1,
-        "losses": 22,
-        "goals_for": 11,
-        "goals_against": 48,
-        "goal_difference": -37,
+        "losses": 23,
+        "goals_for": 12,
+        "goals_against": 50,
+        "goal_difference": -38,
         "points": 4,
         "form": "LLLLL",
         "form_label": "负负负负负"
@@ -1515,7 +1515,7 @@
         "match_id": "as_ac80fdff92484bdf94e5aa4cbc940eed",
         "date": "2026-10-24",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1527,9 +1527,7 @@
           "name": "索格迪亚纳",
           "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c"
         },
-        "ht_score": "-",
-        "venue": "Markaziy Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a64f560fe7e144bcbba1097c8669a104",
@@ -1571,7 +1569,7 @@
         "match_id": "as_63620acaa0564485a6dd2955fad2d1cd",
         "date": "2026-10-22",
         "time": "13:30",
-        "status": "13:30",
+        "status": "FT",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1583,7 +1581,10 @@
           "name": "马沙尔·穆博拉克",
           "team_id": "ast_9c74f35ba7bd45e493adee4ffabef9d0"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b3aa7fc6133446ee891cf202dc220c00",
@@ -6520,7 +6521,7 @@
         "match_id": "as_ac80fdff92484bdf94e5aa4cbc940eed",
         "date": "2026-10-24",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6532,9 +6533,7 @@
           "name": "索格迪亚纳",
           "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c"
         },
-        "ht_score": "-",
-        "venue": "Markaziy Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3c564b11aba248d5b801b19b32ffef17",
@@ -6569,24 +6568,6 @@
         "away": {
           "name": "特尔梅兹苏尔洪",
           "team_id": "ast_455f1d8b06e5453e8121baf47d8afc7c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_63620acaa0564485a6dd2955fad2d1cd",
-        "date": "2026-10-22",
-        "time": "13:30",
-        "status": "13:30",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "season": "2026",
-        "home": {
-          "name": "布纽德科尔",
-          "team_id": "ast_8dd53582da4549eab8b50427784dda97"
-        },
-        "away": {
-          "name": "马沙尔·穆博拉克",
-          "team_id": "ast_9c74f35ba7bd45e493adee4ffabef9d0"
         },
         "venue": ""
       }
@@ -8472,13 +8453,13 @@
     }
   },
   "stats": {
-    "matches_completed": 192,
-    "total_goals": 513,
+    "matches_completed": 193,
+    "total_goals": 516,
     "avg_goals_per_match": 2.67,
-    "home_wins": 83,
+    "home_wins": 84,
     "draws": 43,
     "away_wins": 66,
-    "home_win_pct": 43.2,
+    "home_win_pct": 43.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9276,7 +9257,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 49
+    "upcoming_matches": 48
   },
-  "updated_at": "2026/10/22"
+  "updated_at": "2026/10/23"
 }
