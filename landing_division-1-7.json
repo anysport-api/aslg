@@ -6343,7 +6343,7 @@
         "match_id": "as_5fcbc26d146e47eab6cf1799d7f3b698",
         "date": "2026-10-27",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "阿尔及利亚甲级联赛",
         "league_id": "asl_76a0883c621f42c7938993ba64b3a5cb",
         "season": "2026/2027",
@@ -6355,7 +6355,9 @@
           "name": "MC 阿尔及尔",
           "team_id": "ast_c667951cdaeb4bd496e5f9bc7f842402"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c57d48fb80e4469aa7e30808847540a2",
@@ -6462,42 +6464,6 @@
         "away": {
           "name": "鲁伊塞特",
           "team_id": "ast_acc5704e8bfb4ddb9a96e3eb9c7224e3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5bab3092fa3f4f939b3449f8357b7b0a",
-        "date": "2026-10-23",
-        "time": "14:15",
-        "status": "14:15",
-        "league": "阿尔及利亚甲级联赛",
-        "league_id": "asl_76a0883c621f42c7938993ba64b3a5cb",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥林匹克阿克布",
-          "team_id": "ast_55ce683ecf474e4593b1c821b0a85341"
-        },
-        "away": {
-          "name": "康斯坦丁",
-          "team_id": "ast_3de151ac69fd40a9b1e3c0266733264a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3ca054ab10724e28b5d178109aae53ab",
-        "date": "2026-10-23",
-        "time": "14:15",
-        "status": "14:15",
-        "league": "阿尔及利亚甲级联赛",
-        "league_id": "asl_76a0883c621f42c7938993ba64b3a5cb",
-        "season": "2026/2027",
-        "home": {
-          "name": "埃尔比亚尔",
-          "team_id": "ast_51f2eb879a2448f1932c7c55cad4e1aa"
-        },
-        "away": {
-          "name": "奥兰",
-          "team_id": "ast_2849b60134704147968733c7e72c56dd"
         },
         "venue": ""
       }
@@ -9486,7 +9452,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 42
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

@@ -222,15 +222,15 @@
         "position": 4,
         "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b",
         "team": "Penarol",
-        "played": 11,
+        "played": 12,
         "wins": 6,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
         "goals_for": 16,
         "goals_against": 8,
         "goal_difference": 8,
-        "points": 20,
-        "form": "LDWDW"
+        "points": 21,
+        "form": "DLDWD"
       },
       {
         "position": 5,
@@ -248,6 +248,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_f6f4bc4d8c9748758a96daf2f5be9fdf",
+        "team": "Juventud",
+        "played": 12,
+        "wins": 4,
+        "draws": 6,
+        "losses": 2,
+        "goals_for": 12,
+        "goals_against": 8,
+        "goal_difference": 4,
+        "points": 18,
+        "form": "DLWDD"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f83331438d794ed99b4c3ca3aaaa046b",
         "team": "CA Cerro",
         "played": 11,
@@ -259,20 +273,6 @@
         "goal_difference": -1,
         "points": 18,
         "form": "DWLDL"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_f6f4bc4d8c9748758a96daf2f5be9fdf",
-        "team": "Juventud",
-        "played": 11,
-        "wins": 4,
-        "draws": 5,
-        "losses": 2,
-        "goals_for": 12,
-        "goals_against": 8,
-        "goal_difference": 4,
-        "points": 17,
-        "form": "LWDDW"
       },
       {
         "position": 8,
@@ -451,16 +451,16 @@
         "position": 4,
         "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b",
         "team": "佩纳罗尔",
-        "played": 11,
+        "played": 12,
         "wins": 6,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
         "goals_for": 16,
         "goals_against": 8,
         "goal_difference": 8,
-        "points": 20,
-        "form": "LDWDW",
-        "form_label": "负平胜平胜"
+        "points": 21,
+        "form": "DLDWD",
+        "form_label": "平负平胜平"
       },
       {
         "position": 5,
@@ -479,6 +479,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_f6f4bc4d8c9748758a96daf2f5be9fdf",
+        "team": "青年队",
+        "played": 12,
+        "wins": 4,
+        "draws": 6,
+        "losses": 2,
+        "goals_for": 12,
+        "goals_against": 8,
+        "goal_difference": 4,
+        "points": 18,
+        "form": "DLWDD",
+        "form_label": "平负胜平平"
+      },
+      {
+        "position": 7,
         "team_id": "ast_f83331438d794ed99b4c3ca3aaaa046b",
         "team": "塞罗",
         "played": 11,
@@ -491,21 +506,6 @@
         "points": 18,
         "form": "DWLDL",
         "form_label": "平胜负平负"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_f6f4bc4d8c9748758a96daf2f5be9fdf",
-        "team": "青年队",
-        "played": 11,
-        "wins": 4,
-        "draws": 5,
-        "losses": 2,
-        "goals_for": 12,
-        "goals_against": 8,
-        "goal_difference": 4,
-        "points": 17,
-        "form": "LWDDW",
-        "form_label": "负胜平平胜"
       },
       {
         "position": 8,
@@ -825,7 +825,7 @@
         "match_id": "as_5dc3ce820afe4f31bf56cf62d0b30a8d",
         "date": "2026-10-25",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -837,15 +837,13 @@
           "name": "进步",
           "team_id": "ast_07bb5e567e8143278864181fe0daafa9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d151dd2f0e3a4a1081862bce93e0e336",
         "date": "2026-10-25",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -857,15 +855,13 @@
           "name": "塞罗",
           "team_id": "ast_f83331438d794ed99b4c3ca3aaaa046b"
         },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_82575a65db9f4b57907991f5a29b65ef",
         "date": "2026-10-25",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -877,15 +873,13 @@
           "name": "波士顿河流",
           "team_id": "ast_1a91500d583b4746a66396631b75c6fa"
         },
-        "ht_score": "-",
-        "venue": "Estadio Arquitecto Antonio Eleuterio Ubilla",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_98a1a2ffe40e4e569a4c17aeef88c1b9",
         "date": "2026-10-25",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -897,9 +891,7 @@
           "name": "利物浦M队",
           "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b"
         },
-        "ht_score": "-",
-        "venue": "Gran Parque Central",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_16106a83f84748f2b2675c1687f9f72b",
@@ -940,8 +932,8 @@
       {
         "match_id": "as_600f4db02b1f4bfdb496f9e57acc190d",
         "date": "2026-10-24",
-        "time": "22:00",
-        "status": "22:00",
+        "time": "22:30",
+        "status": "22:30",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -959,7 +951,7 @@
         "match_id": "as_ad9257d2cce14d528b8ba292a103b822",
         "date": "2026-10-23",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -971,7 +963,10 @@
           "name": "佩纳罗尔",
           "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b09e1ccda4a948c4be339fb548c25a55",
@@ -6704,7 +6699,7 @@
         "match_id": "as_98a1a2ffe40e4e569a4c17aeef88c1b9",
         "date": "2026-10-25",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -6716,15 +6711,13 @@
           "name": "利物浦M队",
           "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b"
         },
-        "ht_score": "-",
-        "venue": "Gran Parque Central",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_82575a65db9f4b57907991f5a29b65ef",
         "date": "2026-10-25",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -6736,15 +6729,13 @@
           "name": "波士顿河流",
           "team_id": "ast_1a91500d583b4746a66396631b75c6fa"
         },
-        "ht_score": "-",
-        "venue": "Estadio Arquitecto Antonio Eleuterio Ubilla",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d151dd2f0e3a4a1081862bce93e0e336",
         "date": "2026-10-25",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -6756,15 +6747,13 @@
           "name": "塞罗",
           "team_id": "ast_f83331438d794ed99b4c3ca3aaaa046b"
         },
-        "ht_score": "-",
-        "venue": "百年纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5dc3ce820afe4f31bf56cf62d0b30a8d",
         "date": "2026-10-25",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -6776,15 +6765,13 @@
           "name": "进步",
           "team_id": "ast_07bb5e567e8143278864181fe0daafa9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_600f4db02b1f4bfdb496f9e57acc190d",
         "date": "2026-10-24",
-        "time": "22:00",
-        "status": "22:00",
+        "time": "22:30",
+        "status": "22:30",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -6831,24 +6818,6 @@
         "away": {
           "name": "蒙得维的亚竞技",
           "team_id": "ast_d00746fec114471880772005ba79dfab"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ad9257d2cce14d528b8ba292a103b822",
-        "date": "2026-10-23",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "青年队",
-          "team_id": "ast_f6f4bc4d8c9748758a96daf2f5be9fdf"
-        },
-        "away": {
-          "name": "佩纳罗尔",
-          "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b"
         },
         "venue": ""
       }
@@ -12197,13 +12166,13 @@
     }
   },
   "stats": {
-    "matches_completed": 265,
+    "matches_completed": 266,
     "total_goals": 628,
-    "avg_goals_per_match": 2.37,
+    "avg_goals_per_match": 2.36,
     "home_wins": 113,
-    "draws": 67,
+    "draws": 68,
     "away_wins": 85,
-    "home_win_pct": 42.6,
+    "home_win_pct": 42.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12942,7 +12911,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 281,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

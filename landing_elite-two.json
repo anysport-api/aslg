@@ -58,6 +58,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_46a8efdb5fe9413aba958cc87bd8cbf8",
+        "team": "Union SA",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 1,
+        "goals_against": 0,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "W"
+      },
+      {
+        "position": 1,
         "team_id": "ast_f3b7a378566949b08df95cc1f6ef73f9",
         "team": "AS Fap",
         "played": 1,
@@ -71,9 +85,9 @@
         "form": "W"
       },
       {
-        "position": 1,
-        "team_id": "ast_46a8efdb5fe9413aba958cc87bd8cbf8",
-        "team": "Union SA",
+        "position": 2,
+        "team_id": "ast_e086a769259c4e9fb1015610ec39efcf",
+        "team": "Kumba",
         "played": 1,
         "wins": 1,
         "draws": 0,
@@ -99,34 +113,6 @@
         "form": "W"
       },
       {
-        "position": 2,
-        "team_id": "ast_e086a769259c4e9fb1015610ec39efcf",
-        "team": "Kumba",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 1,
-        "goals_against": 0,
-        "goal_difference": 1,
-        "points": 3,
-        "form": "W"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_96e481ac960f4ba7a7ddfc85caa98498",
-        "team": "Union Douala",
-        "played": 1,
-        "wins": 0,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 1,
-        "goals_against": 1,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D"
-      },
-      {
         "position": 3,
         "team_id": "ast_7c0ac5f768c64a4388769595362a58aa",
         "team": "Bafoussam",
@@ -141,9 +127,9 @@
         "form": "D"
       },
       {
-        "position": 4,
-        "team_id": "ast_8b01b2bc50fd4992bd1452628c643763",
-        "team": "Les Astres",
+        "position": 3,
+        "team_id": "ast_96e481ac960f4ba7a7ddfc85caa98498",
+        "team": "Union Douala",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -169,9 +155,9 @@
         "form": "D"
       },
       {
-        "position": 5,
-        "team_id": "ast_7a565f28b20840c5bd5eff008715f728",
-        "team": "Eding Sport",
+        "position": 4,
+        "team_id": "ast_8b01b2bc50fd4992bd1452628c643763",
+        "team": "Les Astres",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -197,9 +183,9 @@
         "form": ""
       },
       {
-        "position": 6,
-        "team_id": "ast_5973228bd5bc450d9cd337c4ac22b479",
-        "team": "Atlantic",
+        "position": 5,
+        "team_id": "ast_7a565f28b20840c5bd5eff008715f728",
+        "team": "Eding Sport",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -225,17 +211,18 @@
         "form": ""
       },
       {
-        "position": 7,
-        "team": "Sable",
+        "position": 6,
+        "team_id": "ast_5973228bd5bc450d9cd337c4ac22b479",
+        "team": "Atlantic",
         "played": 1,
         "wins": 0,
-        "draws": 0,
-        "losses": 1,
+        "draws": 1,
+        "losses": 0,
         "goals_for": 1,
-        "goals_against": 2,
-        "goal_difference": -1,
-        "points": 0,
-        "form": "L"
+        "goals_against": 1,
+        "goal_difference": 0,
+        "points": 1,
+        "form": "D"
       },
       {
         "position": 7,
@@ -247,6 +234,19 @@
         "losses": 1,
         "goals_for": 0,
         "goals_against": 1,
+        "goal_difference": -1,
+        "points": 0,
+        "form": "L"
+      },
+      {
+        "position": 7,
+        "team": "Sable",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 2,
         "goal_difference": -1,
         "points": 0,
         "form": "L"
@@ -283,6 +283,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_46a8efdb5fe9413aba958cc87bd8cbf8",
+        "team": "SA联合",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 1,
+        "goals_against": 0,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "W",
+        "form_label": "胜"
+      },
+      {
+        "position": 1,
         "team_id": "ast_f3b7a378566949b08df95cc1f6ef73f9",
         "team": "Fap AS",
         "played": 1,
@@ -297,9 +312,9 @@
         "form_label": "胜"
       },
       {
-        "position": 1,
-        "team_id": "ast_46a8efdb5fe9413aba958cc87bd8cbf8",
-        "team": "SA联合",
+        "position": 2,
+        "team_id": "ast_e086a769259c4e9fb1015610ec39efcf",
+        "team": "库姆巴",
         "played": 1,
         "wins": 1,
         "draws": 0,
@@ -327,36 +342,6 @@
         "form_label": "胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_e086a769259c4e9fb1015610ec39efcf",
-        "team": "库姆巴",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 1,
-        "goals_against": 0,
-        "goal_difference": 1,
-        "points": 3,
-        "form": "W",
-        "form_label": "胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_96e481ac960f4ba7a7ddfc85caa98498",
-        "team": "杜阿拉联合",
-        "played": 1,
-        "wins": 0,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 1,
-        "goals_against": 1,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D",
-        "form_label": "平"
-      },
-      {
         "position": 3,
         "team_id": "ast_7c0ac5f768c64a4388769595362a58aa",
         "team": "巴富萨姆",
@@ -372,9 +357,9 @@
         "form_label": "平"
       },
       {
-        "position": 4,
-        "team_id": "ast_8b01b2bc50fd4992bd1452628c643763",
-        "team": "星辰队",
+        "position": 3,
+        "team_id": "ast_96e481ac960f4ba7a7ddfc85caa98498",
+        "team": "杜阿拉联合",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -402,9 +387,9 @@
         "form_label": "平"
       },
       {
-        "position": 5,
-        "team_id": "ast_7a565f28b20840c5bd5eff008715f728",
-        "team": "埃丁体育",
+        "position": 4,
+        "team_id": "ast_8b01b2bc50fd4992bd1452628c643763",
+        "team": "星辰队",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -431,9 +416,9 @@
         "form": ""
       },
       {
-        "position": 6,
-        "team_id": "ast_5973228bd5bc450d9cd337c4ac22b479",
-        "team": "大西洋",
+        "position": 5,
+        "team_id": "ast_7a565f28b20840c5bd5eff008715f728",
+        "team": "埃丁体育",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -460,18 +445,19 @@
         "form": ""
       },
       {
-        "position": 7,
-        "team": "阿帕雷西达",
+        "position": 6,
+        "team_id": "ast_5973228bd5bc450d9cd337c4ac22b479",
+        "team": "大西洋",
         "played": 1,
         "wins": 0,
-        "draws": 0,
-        "losses": 1,
+        "draws": 1,
+        "losses": 0,
         "goals_for": 1,
-        "goals_against": 2,
-        "goal_difference": -1,
-        "points": 0,
-        "form": "L",
-        "form_label": "负"
+        "goals_against": 1,
+        "goal_difference": 0,
+        "points": 1,
+        "form": "D",
+        "form_label": "平"
       },
       {
         "position": 7,
@@ -483,6 +469,20 @@
         "losses": 1,
         "goals_for": 0,
         "goals_against": 1,
+        "goal_difference": -1,
+        "points": 0,
+        "form": "L",
+        "form_label": "负"
+      },
+      {
+        "position": 7,
+        "team": "阿帕雷西达",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 2,
         "goal_difference": -1,
         "points": 0,
         "form": "L",
@@ -3795,6 +3795,126 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_036ca8cb31674ca39f6dd0d7327e201f",
+        "date": "2026-12-05",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "托嫩尔",
+          "team_id": "ast_b8d1741c5548475cb530b7051b737c6f"
+        },
+        "away": {
+          "name": "阿维翁学院",
+          "team_id": "ast_8a230d4cd17740738120c4c39358a75c"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_52955e2570f240248ad53474368d7cb6",
+        "date": "2026-12-05",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "萨布尔",
+          "team_id": "ast_c61b8f86428f425d886e5dfb7c4b178f"
+        },
+        "away": {
+          "name": "Elecsport",
+          "team_id": "ast_ef408e04e78e4fbda10916f65a5a229a"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8395097efe844866b0a3c00870099eff",
+        "date": "2026-12-05",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "星辰队",
+          "team_id": "ast_8b01b2bc50fd4992bd1452628c643763"
+        },
+        "away": {
+          "name": "Mintack",
+          "team_id": "ast_b54ee8fe49024f1ebe21591961dd94db"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9c07ef312b704082a624fd46509ea672",
+        "date": "2026-12-05",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "福图纳姆富",
+          "team_id": "ast_94a6b785ff674439a4dbc3d3e39c1f33"
+        },
+        "away": {
+          "name": "班布托斯FC",
+          "team_id": "ast_0eed5c0c2b4f43ccb370f2daebcb7e2b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_aa6ef86ec43e4be89eac9853356557cb",
+        "date": "2026-12-05",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "法乌夫·阿祖尔精英",
+          "team_id": "ast_17c2070c05a34fae90fe8d096a6671e5"
+        },
+        "away": {
+          "name": "库姆巴",
+          "team_id": "ast_e086a769259c4e9fb1015610ec39efcf"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3ab09b21c8f34847aa18499a41c36a84",
+        "date": "2026-12-05",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "Fap AS",
+          "team_id": "ast_f3b7a378566949b08df95cc1f6ef73f9"
+        },
+        "away": {
+          "name": "大西洋",
+          "team_id": "ast_5973228bd5bc450d9cd337c4ac22b479"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_da44c3fe218a42fa95a2110fe434ff9b",
         "date": "2026-11-29",
         "time": "14:00",
@@ -4395,89 +4515,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_ec1c1e30406248daac10aa89b0097cc1",
-        "date": "2026-10-25",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "喀麦隆乙级联赛",
-        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
-        "season": "2026/2027",
-        "home": {
-          "name": "托嫩尔",
-          "team_id": "ast_b8d1741c5548475cb530b7051b737c6f"
-        },
-        "away": {
-          "name": "萨布尔",
-          "team_id": "ast_c61b8f86428f425d886e5dfb7c4b178f"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_711845cc4fa04968a21106dc5dacb3a8",
-        "date": "2026-10-25",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "喀麦隆乙级联赛",
-        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
-        "season": "2026/2027",
-        "home": {
-          "name": "星辰队",
-          "team_id": "ast_8b01b2bc50fd4992bd1452628c643763"
-        },
-        "away": {
-          "name": "库姆巴",
-          "team_id": "ast_e086a769259c4e9fb1015610ec39efcf"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_569aba115c4d470194fd26d1c08b50e2",
-        "date": "2026-10-25",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "喀麦隆乙级联赛",
-        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
-        "season": "2026/2027",
-        "home": {
-          "name": "法乌夫·阿祖尔精英",
-          "team_id": "ast_17c2070c05a34fae90fe8d096a6671e5"
-        },
-        "away": {
-          "name": "班布托斯FC",
-          "team_id": "ast_0eed5c0c2b4f43ccb370f2daebcb7e2b"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5c9e545403e24d6991047a5995648c9e",
-        "date": "2026-10-25",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "喀麦隆乙级联赛",
-        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿维翁学院",
-          "team_id": "ast_8a230d4cd17740738120c4c39358a75c"
-        },
-        "away": {
-          "name": "大西洋",
-          "team_id": "ast_5973228bd5bc450d9cd337c4ac22b479"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_cda8729d766941ed80e25b33b56c16d8",
-        "date": "2026-10-25",
-        "time": "14:00",
+        "date": "2026-10-26",
+        "time": "15:00",
         "status": "Not Started",
         "league": "喀麦隆乙级联赛",
         "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
@@ -4495,10 +4535,82 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_563a2f8dd74f4ebbb8408e7162938220",
+        "match_id": "as_5c9e545403e24d6991047a5995648c9e",
+        "date": "2026-10-25",
+        "time": "14:00",
+        "status": "14:00",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿维翁学院",
+          "team_id": "ast_8a230d4cd17740738120c4c39358a75c"
+        },
+        "away": {
+          "name": "大西洋",
+          "team_id": "ast_5973228bd5bc450d9cd337c4ac22b479"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_ec1c1e30406248daac10aa89b0097cc1",
         "date": "2026-10-24",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "托嫩尔",
+          "team_id": "ast_b8d1741c5548475cb530b7051b737c6f"
+        },
+        "away": {
+          "name": "萨布尔",
+          "team_id": "ast_c61b8f86428f425d886e5dfb7c4b178f"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_711845cc4fa04968a21106dc5dacb3a8",
+        "date": "2026-10-24",
+        "time": "14:00",
+        "status": "14:00",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "星辰队",
+          "team_id": "ast_8b01b2bc50fd4992bd1452628c643763"
+        },
+        "away": {
+          "name": "库姆巴",
+          "team_id": "ast_e086a769259c4e9fb1015610ec39efcf"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_569aba115c4d470194fd26d1c08b50e2",
+        "date": "2026-10-24",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "喀麦隆乙级联赛",
+        "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
+        "season": "2026/2027",
+        "home": {
+          "name": "法乌夫·阿祖尔精英",
+          "team_id": "ast_17c2070c05a34fae90fe8d096a6671e5"
+        },
+        "away": {
+          "name": "班布托斯FC",
+          "team_id": "ast_0eed5c0c2b4f43ccb370f2daebcb7e2b"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_563a2f8dd74f4ebbb8408e7162938220",
+        "date": "2026-10-24",
+        "time": "14:30",
+        "status": "14:30",
         "league": "喀麦隆乙级联赛",
         "league_id": "asl_905e8de0aec04281bd43519d40c736ed",
         "season": "2026/2027",
@@ -4510,9 +4622,7 @@
           "name": "Mintack",
           "team_id": "ast_b54ee8fe49024f1ebe21591961dd94db"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -4872,7 +4982,7 @@
       }
     },
     "leader": {
-      "team": "AS Fap",
+      "team": "Union SA",
       "points": 3,
       "played": 1
     }
@@ -4969,20 +5079,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_f3b7a378566949b08df95cc1f6ef73f9",
-            "team": "AS Fap",
-            "played": 1,
-            "wins": 1,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 2,
-            "goals_against": 0,
-            "goal_difference": 2,
-            "points": 3,
-            "form": "W"
-          },
-          {
-            "position": 1,
             "team_id": "ast_46a8efdb5fe9413aba958cc87bd8cbf8",
             "team": "Union SA",
             "played": 1,
@@ -4996,15 +5092,29 @@
             "form": "W"
           },
           {
-            "position": 2,
-            "team_id": "ast_5d993239ff6147e29ea10f2c72e58c5a",
-            "team": "APEJES Academy",
+            "position": 1,
+            "team_id": "ast_f3b7a378566949b08df95cc1f6ef73f9",
+            "team": "AS Fap",
             "played": 1,
             "wins": 1,
             "draws": 0,
             "losses": 0,
             "goals_for": 2,
-            "goals_against": 1,
+            "goals_against": 0,
+            "goal_difference": 2,
+            "points": 3,
+            "form": "W"
+          },
+          {
+            "position": 2,
+            "team_id": "ast_e086a769259c4e9fb1015610ec39efcf",
+            "team": "Kumba",
+            "played": 1,
+            "wins": 1,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 1,
+            "goals_against": 0,
             "goal_difference": 1,
             "points": 3,
             "form": "W"
@@ -5610,7 +5720,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 16,
     "matches_current_season": 155,
-    "upcoming_matches": 36
+    "upcoming_matches": 42
   },
-  "updated_at": "2026/10/18"
+  "updated_at": "2026/10/24"
 }

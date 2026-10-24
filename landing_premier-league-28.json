@@ -232,32 +232,18 @@
         "position": 6,
         "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
         "team": "Orenburg",
-        "played": 11,
-        "wins": 2,
+        "played": 12,
+        "wins": 3,
         "draws": 7,
         "losses": 2,
-        "goals_for": 13,
-        "goals_against": 12,
-        "goal_difference": 1,
-        "points": 13,
-        "form": "DWDLD"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-        "team": "Baltika",
-        "played": 11,
-        "wins": 3,
-        "draws": 4,
-        "losses": 4,
         "goals_for": 14,
         "goals_against": 12,
         "goal_difference": 2,
-        "points": 13,
-        "form": "DDLDL"
+        "points": 16,
+        "form": "WDWDL"
       },
       {
-        "position": 8,
+        "position": 7,
         "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
         "team": "Dynamo Makhachkala",
         "played": 11,
@@ -269,6 +255,20 @@
         "goal_difference": -5,
         "points": 13,
         "form": "DLLLW"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+        "team": "Baltika",
+        "played": 11,
+        "wins": 3,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 14,
+        "goals_against": 12,
+        "goal_difference": 2,
+        "points": 13,
+        "form": "DDLDL"
       },
       {
         "position": 9,
@@ -330,15 +330,15 @@
         "position": 13,
         "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
         "team": "Akhmat Grozny",
-        "played": 11,
+        "played": 12,
         "wins": 2,
         "draws": 5,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 15,
-        "goals_against": 16,
-        "goal_difference": -1,
+        "goals_against": 17,
+        "goal_difference": -2,
         "points": 11,
-        "form": "LDLWD"
+        "form": "LLDLW"
       },
       {
         "position": 14,
@@ -463,34 +463,19 @@
         "position": 6,
         "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
         "team": "奥伦堡",
-        "played": 11,
-        "wins": 2,
+        "played": 12,
+        "wins": 3,
         "draws": 7,
         "losses": 2,
-        "goals_for": 13,
-        "goals_against": 12,
-        "goal_difference": 1,
-        "points": 13,
-        "form": "DWDLD",
-        "form_label": "平胜平负平"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-        "team": "巴尔季卡",
-        "played": 11,
-        "wins": 3,
-        "draws": 4,
-        "losses": 4,
         "goals_for": 14,
         "goals_against": 12,
         "goal_difference": 2,
-        "points": 13,
-        "form": "DDLDL",
-        "form_label": "平平负平负"
+        "points": 16,
+        "form": "WDWDL",
+        "form_label": "胜平胜平负"
       },
       {
-        "position": 8,
+        "position": 7,
         "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
         "team": "马哈奇卡拉迪纳摩",
         "played": 11,
@@ -503,6 +488,21 @@
         "points": 13,
         "form": "DLLLW",
         "form_label": "平负负负胜"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+        "team": "巴尔季卡",
+        "played": 11,
+        "wins": 3,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 14,
+        "goals_against": 12,
+        "goal_difference": 2,
+        "points": 13,
+        "form": "DDLDL",
+        "form_label": "平平负平负"
       },
       {
         "position": 9,
@@ -568,16 +568,16 @@
         "position": 13,
         "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
         "team": "阿赫马特·格罗兹尼",
-        "played": 11,
+        "played": 12,
         "wins": 2,
         "draws": 5,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 15,
-        "goals_against": 16,
-        "goal_difference": -1,
+        "goals_against": 17,
+        "goal_difference": -2,
         "points": 11,
-        "form": "LDLWD",
-        "form_label": "负平负胜平"
+        "form": "LLDLW",
+        "form_label": "负负平负胜"
       },
       {
         "position": 14,
@@ -631,6 +631,14 @@
       "en": [
         {
           "rank": 1,
+          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
+          "player_name": "Maksim Glushenkov",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "Zenit St. Petersburg",
+          "value": 8
+        },
+        {
+          "rank": 2,
           "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
           "player_name": "Alexander Sobolev",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -638,20 +646,12 @@
           "value": 8
         },
         {
-          "rank": 2,
+          "rank": 3,
           "player_id": "asp_cc3e1ece2e934e7ba7d1b4103f121b7d",
           "player_name": "Ivan Oblyakov",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
           "team_name": "CSKA Moscow",
           "value": 7
-        },
-        {
-          "rank": 3,
-          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
-          "player_name": "Maksim Glushenkov",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "Zenit St. Petersburg",
-          "value": 5
         },
         {
           "rank": 4,
@@ -663,6 +663,14 @@
         },
         {
           "rank": 5,
+          "player_id": "asp_46a902df6565460ca7e2ec4af130d197",
+          "player_name": "Brayan Gil",
+          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+          "team_name": "Baltika",
+          "value": 4
+        },
+        {
+          "rank": 6,
           "player_id": "asp_9377a7490204486eaba25fde5aef53c5",
           "player_name": "Jordhy Thompson",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -670,7 +678,7 @@
           "value": 4
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_a0279ff69d304539a0991263d2e233b2",
           "player_name": "Manfred Ugalde",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -678,7 +686,7 @@
           "value": 4
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_48fe1b7fe9014bd7a7c2fbeca1d3434a",
           "player_name": "Gamid Agalarov",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -686,7 +694,7 @@
           "value": 4
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_1967ea1cc4944810a7248b3337a3e74d",
           "player_name": "Victor Okishor",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -694,7 +702,7 @@
           "value": 3
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_1d6f5422d3b7459cb033dce3e3e156c4",
           "player_name": "Jhon Cordoba",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -702,7 +710,7 @@
           "value": 3
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_7788e9512b3e427d82bd74a2a19bd703",
           "player_name": "Martin Kramaric",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -710,7 +718,7 @@
           "value": 3
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_1024f098e3c745a5b6edd147862e244d",
           "player_name": "N. Komlichenko",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -718,7 +726,7 @@
           "value": 3
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_47c317395bfb4bf5a74c07c568ae5308",
           "player_name": "Jacques Siwe",
           "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
@@ -726,7 +734,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_0b604616030b4d49a9078fb5a3287dab",
           "player_name": "Artem Maksimenko",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -734,7 +742,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_3b5f6199b8444499bcea916fe42fdb86",
           "player_name": "Cordoba Arroyo",
           "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
@@ -742,7 +750,23 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
+          "player_id": "asp_703dc5f9a78941ae96b81c634edd66db",
+          "player_name": "Egas Cacintura",
+          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+          "team_name": "Akhmat Grozny",
+          "value": 3
+        },
+        {
+          "rank": 17,
+          "player_id": "asp_1ae106671b9b4222a385630086252120",
+          "player_name": "Junior Jubal",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
+          "value": 3
+        },
+        {
+          "rank": 18,
           "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
           "player_name": "Batxi Joao",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -750,35 +774,19 @@
           "value": 3
         },
         {
-          "rank": 16,
-          "player_id": "asp_9129729e57624a50a62ed144f049ee2a",
-          "player_name": "Amar Rahmanovic",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "Krylya Sovietov S.",
-          "value": 3
-        },
-        {
-          "rank": 17,
-          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
-          "player_name": "Ivan Oleynikov",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "Krylya Sovietov S.",
-          "value": 3
-        },
-        {
           "rank": 19,
-          "player_id": "asp_772df24eac134df78cb90fd071f7d3bc",
-          "player_name": "Benchimol",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "Akron",
+          "player_id": "asp_75eb6c50e4754ee8abaa0a820797a88d",
+          "player_name": "Nikita Krivtsov",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
           "value": 3
         },
         {
           "rank": 20,
-          "player_id": "asp_46a902df6565460ca7e2ec4af130d197",
-          "player_name": "Brayan Gil",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
+          "player_id": "asp_772df24eac134df78cb90fd071f7d3bc",
+          "player_name": "Benchimol",
+          "team_id": "ast_19340f0c479644e8976add7d302d567c",
+          "team_name": "Akron",
           "value": 3
         },
         {
@@ -791,27 +799,19 @@
         },
         {
           "rank": 22,
-          "player_id": "asp_d381e996578a4d60b9fa5cf5267850e0",
-          "player_name": "Ivan Komarov",
-          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
-          "team_name": "Rostov",
-          "value": 2
+          "player_id": "asp_9129729e57624a50a62ed144f049ee2a",
+          "player_name": "Amar Rahmanovic",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "Krylya Sovietov S.",
+          "value": 3
         },
         {
           "rank": 23,
-          "player_id": "asp_12104f30145e4465a65e671bde5376b0",
-          "player_name": "Ivan Timoshenko",
-          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
-          "team_name": "Rodina Moskva",
-          "value": 2
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
-          "player_name": "Iker Pozo",
-          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
-          "team_name": "Rodina Moskva",
-          "value": 2
+          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
+          "player_name": "Ivan Oleynikov",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "Krylya Sovietov S.",
+          "value": 3
         },
         {
           "rank": 25,
@@ -839,22 +839,30 @@
         },
         {
           "rank": 28,
-          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
-          "player_name": "Nikita Glushkov",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "Makhachkala",
+          "player_id": "asp_d381e996578a4d60b9fa5cf5267850e0",
+          "player_name": "Ivan Komarov",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "Rostov",
           "value": 2
         },
         {
           "rank": 29,
-          "player_id": "asp_5a0b264e28c34a379e156e48a3a88d34",
-          "player_name": "Mirlind Daku",
-          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
-          "team_name": "Rubin Kazan&apos;",
+          "player_id": "asp_12104f30145e4465a65e671bde5376b0",
+          "player_name": "Ivan Timoshenko",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "Rodina Moskva",
           "value": 2
         },
         {
           "rank": 30,
+          "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
+          "player_name": "Iker Pozo",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "Rodina Moskva",
+          "value": 2
+        },
+        {
+          "rank": 31,
           "player_id": "asp_d9f51b27830348328f8b2993f774d32f",
           "player_name": "Chernov Nikita",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -862,7 +870,23 @@
           "value": 2
         },
         {
-          "rank": 31,
+          "rank": 32,
+          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
+          "player_name": "Nikita Glushkov",
+          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
+          "team_name": "Makhachkala",
+          "value": 2
+        },
+        {
+          "rank": 33,
+          "player_id": "asp_5a0b264e28c34a379e156e48a3a88d34",
+          "player_name": "Mirlind Daku",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "Rubin Kazan&apos;",
+          "value": 2
+        },
+        {
+          "rank": 34,
           "player_id": "asp_2345874eabf542bca13bf8daa5a0418b",
           "player_name": "Prutsev Danil",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -870,15 +894,7 @@
           "value": 2
         },
         {
-          "rank": 32,
-          "player_id": "asp_703dc5f9a78941ae96b81c634edd66db",
-          "player_name": "Egas Cacintura",
-          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
-          "team_name": "Akhmat Grozny",
-          "value": 2
-        },
-        {
-          "rank": 33,
+          "rank": 35,
           "player_id": "asp_c6ec57fa3df9489497df634464e068db",
           "player_name": "Gedeon Guzina",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -886,15 +902,7 @@
           "value": 2
         },
         {
-          "rank": 34,
-          "player_id": "asp_1ae106671b9b4222a385630086252120",
-          "player_name": "Junior Jubal",
-          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
-          "team_name": "Krasnodar",
-          "value": 2
-        },
-        {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_3b7d29a6d43f446abf13da7a81498f8b",
           "player_name": "Ruslan Kul",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -902,7 +910,7 @@
           "value": 2
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_89f86719d9e841029a7fe2d912e86d9d",
           "player_name": "Graf Boselli",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -910,7 +918,7 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_40b5dde222d4434fbd28d732e2356a57",
           "player_name": "Gomes Arthur",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -918,7 +926,7 @@
           "value": 2
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_663193c5d8be4626b8174e73bb3ba83d",
           "player_name": "Christian",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -926,7 +934,7 @@
           "value": 2
         },
         {
-          "rank": 39,
+          "rank": 40,
           "player_id": "asp_7a4121cc68a6430cad65d1beb1f89411",
           "player_name": "Henrique Luiz",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -934,7 +942,7 @@
           "value": 2
         },
         {
-          "rank": 40,
+          "rank": 41,
           "player_id": "asp_3b7e90c9180e401dad74d595e967c473",
           "player_name": "A. Rudenko",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -942,7 +950,7 @@
           "value": 2
         },
         {
-          "rank": 41,
+          "rank": 42,
           "player_id": "asp_4ddee55639754030a9ccbca67994770c",
           "player_name": "Jhon Jhon",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -950,7 +958,7 @@
           "value": 2
         },
         {
-          "rank": 42,
+          "rank": 43,
           "player_id": "asp_2e1c15caa9dc46c28b5316e02b909545",
           "player_name": "Chinonso Offor",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -958,7 +966,7 @@
           "value": 2
         },
         {
-          "rank": 43,
+          "rank": 44,
           "player_id": "asp_23231c1183cf4d37bd78f3068b0749d8",
           "player_name": "Sandrachuk Aleksandr",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -966,7 +974,7 @@
           "value": 1
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_53d4f52c8ca24b398e13d217af7ad979",
           "player_name": "Vadim Rakov",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -974,7 +982,7 @@
           "value": 1
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_e491384b51d0424aa23277cf5371db5d",
           "player_name": "Houssem Mrezigue",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -982,7 +990,7 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 47,
           "player_id": "asp_bb8a26a0a9dc4e6e94c8f631f0a1857d",
           "player_name": "Jesus Alexandre",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -990,7 +998,7 @@
           "value": 1
         },
         {
-          "rank": 47,
+          "rank": 48,
           "player_id": "asp_9c1c5af2611745209aed409674b3ab9d",
           "player_name": "Konstantin Maradishvili",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
@@ -998,7 +1006,7 @@
           "value": 1
         },
         {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_c36ed9573e1c47068f2600240c9acc56",
           "player_name": "E. Pogostnov",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -1006,25 +1014,25 @@
           "value": 1
         },
         {
-          "rank": 49,
+          "rank": 50,
           "player_id": "asp_6bf00e42b7f741498cfb8fd54a346972",
           "player_name": "Mantuan Gustavo",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
           "team_name": "Zenit St. Petersburg",
-          "value": 1
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_2cb51f162adc4898b945a0d8fc82f897",
-          "player_name": "Ilya Petrov",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
           "value": 1
         }
       ],
       "zh": [
         {
           "rank": 1,
+          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
+          "player_name": "M. 格鲁申科夫",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "泽尼特",
+          "value": 8
+        },
+        {
+          "rank": 2,
           "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
           "player_name": "亚历山大·索博列夫",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -1032,20 +1040,12 @@
           "value": 8
         },
         {
-          "rank": 2,
+          "rank": 3,
           "player_id": "asp_cc3e1ece2e934e7ba7d1b4103f121b7d",
           "player_name": "伊万·奥布利亚科夫",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
           "team_name": "中央陆军",
           "value": 7
-        },
-        {
-          "rank": 3,
-          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
-          "player_name": "M. 格鲁申科夫",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "泽尼特",
-          "value": 5
         },
         {
           "rank": 4,
@@ -1057,6 +1057,14 @@
         },
         {
           "rank": 5,
+          "player_id": "asp_46a902df6565460ca7e2ec4af130d197",
+          "player_name": "布拉扬·吉尔",
+          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+          "team_name": "巴尔季卡",
+          "value": 4
+        },
+        {
+          "rank": 6,
           "player_id": "asp_9377a7490204486eaba25fde5aef53c5",
           "player_name": "乔丹·汤普森",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -1064,7 +1072,7 @@
           "value": 4
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_a0279ff69d304539a0991263d2e233b2",
           "player_name": "曼弗雷德·乌加尔德",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -1072,7 +1080,7 @@
           "value": 4
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_48fe1b7fe9014bd7a7c2fbeca1d3434a",
           "player_name": "加米德·阿加拉罗夫",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -1080,7 +1088,7 @@
           "value": 4
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_1967ea1cc4944810a7248b3337a3e74d",
           "player_name": "维克托·奥基肖尔",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1088,7 +1096,7 @@
           "value": 3
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_1d6f5422d3b7459cb033dce3e3e156c4",
           "player_name": "约翰·科尔多巴",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -1096,7 +1104,7 @@
           "value": 3
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_7788e9512b3e427d82bd74a2a19bd703",
           "player_name": "马丁·克拉马里奇",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -1104,7 +1112,7 @@
           "value": 3
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_1024f098e3c745a5b6edd147862e244d",
           "player_name": "N. 科姆利琴科",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -1112,7 +1120,7 @@
           "value": 3
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_47c317395bfb4bf5a74c07c568ae5308",
           "player_name": "雅克·西韦",
           "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
@@ -1120,7 +1128,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_0b604616030b4d49a9078fb5a3287dab",
           "player_name": "阿尔捷姆·马克西门科",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -1128,7 +1136,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_3b5f6199b8444499bcea916fe42fdb86",
           "player_name": "安德森·阿罗约·科尔多巴",
           "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
@@ -1136,7 +1144,23 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
+          "player_id": "asp_703dc5f9a78941ae96b81c634edd66db",
+          "player_name": "埃加斯·卡辛图拉",
+          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+          "team_name": "阿赫马特·格罗兹尼",
+          "value": 3
+        },
+        {
+          "rank": 17,
+          "player_id": "asp_1ae106671b9b4222a385630086252120",
+          "player_name": "小朱巴尔",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
+          "value": 3
+        },
+        {
+          "rank": 18,
           "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
           "player_name": "巴克西·若昂",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -1144,35 +1168,19 @@
           "value": 3
         },
         {
-          "rank": 16,
-          "player_id": "asp_9129729e57624a50a62ed144f049ee2a",
-          "player_name": "阿马尔·拉赫曼诺维奇",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "克里利亚·索维托夫",
-          "value": 3
-        },
-        {
-          "rank": 17,
-          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
-          "player_name": "伊万·奥列尼科夫",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "克里利亚·索维托夫",
-          "value": 3
-        },
-        {
           "rank": 19,
-          "player_id": "asp_772df24eac134df78cb90fd071f7d3bc",
-          "player_name": "本奇莫尔",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "阿克伦·托利亚蒂",
+          "player_id": "asp_75eb6c50e4754ee8abaa0a820797a88d",
+          "player_name": "尼基塔·克里夫佐夫",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
           "value": 3
         },
         {
           "rank": 20,
-          "player_id": "asp_46a902df6565460ca7e2ec4af130d197",
-          "player_name": "布拉扬·吉尔",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
+          "player_id": "asp_772df24eac134df78cb90fd071f7d3bc",
+          "player_name": "本奇莫尔",
+          "team_id": "ast_19340f0c479644e8976add7d302d567c",
+          "team_name": "阿克伦·托利亚蒂",
           "value": 3
         },
         {
@@ -1185,27 +1193,19 @@
         },
         {
           "rank": 22,
-          "player_id": "asp_d381e996578a4d60b9fa5cf5267850e0",
-          "player_name": "伊. 科马罗夫",
-          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
-          "team_name": "罗斯托夫足球俱乐部",
-          "value": 2
+          "player_id": "asp_9129729e57624a50a62ed144f049ee2a",
+          "player_name": "阿马尔·拉赫曼诺维奇",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "克里利亚·索维托夫",
+          "value": 3
         },
         {
           "rank": 23,
-          "player_id": "asp_12104f30145e4465a65e671bde5376b0",
-          "player_name": "伊万·季莫申科",
-          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
-          "team_name": "莫斯科罗迪纳",
-          "value": 2
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
-          "player_name": "伊克尔·波索",
-          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
-          "team_name": "莫斯科罗迪纳",
-          "value": 2
+          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
+          "player_name": "伊万·奥列尼科夫",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "克里利亚·索维托夫",
+          "value": 3
         },
         {
           "rank": 25,
@@ -1233,22 +1233,30 @@
         },
         {
           "rank": 28,
-          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
-          "player_name": "尼基塔·格卢什科夫",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "马哈奇卡拉迪纳摩",
+          "player_id": "asp_d381e996578a4d60b9fa5cf5267850e0",
+          "player_name": "伊. 科马罗夫",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "罗斯托夫足球俱乐部",
           "value": 2
         },
         {
           "rank": 29,
-          "player_id": "asp_5a0b264e28c34a379e156e48a3a88d34",
-          "player_name": "米尔林德·达库",
-          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
-          "team_name": "喀山鲁宾",
+          "player_id": "asp_12104f30145e4465a65e671bde5376b0",
+          "player_name": "伊万·季莫申科",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "莫斯科罗迪纳",
           "value": 2
         },
         {
           "rank": 30,
+          "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
+          "player_name": "伊克尔·波索",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "莫斯科罗迪纳",
+          "value": 2
+        },
+        {
+          "rank": 31,
           "player_id": "asp_d9f51b27830348328f8b2993f774d32f",
           "player_name": "尼基塔·切尔诺夫",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -1256,7 +1264,23 @@
           "value": 2
         },
         {
-          "rank": 31,
+          "rank": 32,
+          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
+          "player_name": "尼基塔·格卢什科夫",
+          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
+          "team_name": "马哈奇卡拉迪纳摩",
+          "value": 2
+        },
+        {
+          "rank": 33,
+          "player_id": "asp_5a0b264e28c34a379e156e48a3a88d34",
+          "player_name": "米尔林德·达库",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "喀山鲁宾",
+          "value": 2
+        },
+        {
+          "rank": 34,
           "player_id": "asp_2345874eabf542bca13bf8daa5a0418b",
           "player_name": "D. 普鲁采夫",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -1264,15 +1288,7 @@
           "value": 2
         },
         {
-          "rank": 32,
-          "player_id": "asp_703dc5f9a78941ae96b81c634edd66db",
-          "player_name": "埃加斯·卡辛图拉",
-          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
-          "team_name": "阿赫马特·格罗兹尼",
-          "value": 2
-        },
-        {
-          "rank": 33,
+          "rank": 35,
           "player_id": "asp_c6ec57fa3df9489497df634464e068db",
           "player_name": "盖德昂·古齐纳",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -1280,15 +1296,7 @@
           "value": 2
         },
         {
-          "rank": 34,
-          "player_id": "asp_1ae106671b9b4222a385630086252120",
-          "player_name": "小朱巴尔",
-          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
-          "team_name": "克拉斯诺达尔",
-          "value": 2
-        },
-        {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_3b7d29a6d43f446abf13da7a81498f8b",
           "player_name": "鲁斯兰·库尔",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -1296,7 +1304,7 @@
           "value": 2
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_89f86719d9e841029a7fe2d912e86d9d",
           "player_name": "曼努埃尔·博塞利·格拉夫·胡安",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -1304,7 +1312,7 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_40b5dde222d4434fbd28d732e2356a57",
           "player_name": "阿图尔·戈梅斯",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1312,7 +1320,7 @@
           "value": 2
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_663193c5d8be4626b8174e73bb3ba83d",
           "player_name": "克里斯蒂安",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -1320,7 +1328,7 @@
           "value": 2
         },
         {
-          "rank": 39,
+          "rank": 40,
           "player_id": "asp_7a4121cc68a6430cad65d1beb1f89411",
           "player_name": "亨里克·路易斯",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -1328,7 +1336,7 @@
           "value": 2
         },
         {
-          "rank": 40,
+          "rank": 41,
           "player_id": "asp_3b7e90c9180e401dad74d595e967c473",
           "player_name": "亚历山大·鲁登科",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -1336,7 +1344,7 @@
           "value": 2
         },
         {
-          "rank": 41,
+          "rank": 42,
           "player_id": "asp_4ddee55639754030a9ccbca67994770c",
           "player_name": "约翰·约翰",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -1344,7 +1352,7 @@
           "value": 2
         },
         {
-          "rank": 42,
+          "rank": 43,
           "player_id": "asp_2e1c15caa9dc46c28b5316e02b909545",
           "player_name": "奇农索·奥福尔",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -1352,7 +1360,7 @@
           "value": 2
         },
         {
-          "rank": 43,
+          "rank": 44,
           "player_id": "asp_23231c1183cf4d37bd78f3068b0749d8",
           "player_name": "亚历山大·桑德拉丘克",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -1360,7 +1368,7 @@
           "value": 1
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_53d4f52c8ca24b398e13d217af7ad979",
           "player_name": "瓦迪姆·拉科夫",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -1368,7 +1376,7 @@
           "value": 1
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_e491384b51d0424aa23277cf5371db5d",
           "player_name": "霍塞姆·姆雷齐格",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -1376,7 +1384,7 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 47,
           "player_id": "asp_bb8a26a0a9dc4e6e94c8f631f0a1857d",
           "player_name": "耶稣·亚历山大",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -1384,7 +1392,7 @@
           "value": 1
         },
         {
-          "rank": 47,
+          "rank": 48,
           "player_id": "asp_9c1c5af2611745209aed409674b3ab9d",
           "player_name": "康斯坦丁·马拉迪什维利",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
@@ -1392,7 +1400,7 @@
           "value": 1
         },
         {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_c36ed9573e1c47068f2600240c9acc56",
           "player_name": "埃戈尔·波戈斯特诺夫",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -1400,19 +1408,11 @@
           "value": 1
         },
         {
-          "rank": 49,
+          "rank": 50,
           "player_id": "asp_6bf00e42b7f741498cfb8fd54a346972",
           "player_name": "曼图安·古斯塔沃",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
           "team_name": "泽尼特",
-          "value": 1
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_2cb51f162adc4898b945a0d8fc82f897",
-          "player_name": "伊利亚·彼得罗夫",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
           "value": 1
         }
       ]
@@ -1425,10 +1425,18 @@
           "player_name": "Pedrinho",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
           "team_name": "Zenit St. Petersburg",
-          "value": 5
+          "value": 6
         },
         {
           "rank": 2,
+          "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
+          "player_name": "Batxi Joao",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
+          "value": 3
+        },
+        {
+          "rank": 3,
           "player_id": "asp_66be8dd9c9a549f98e88cfb7c559d8f9",
           "player_name": "Daniil Lesovoy",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -1436,7 +1444,15 @@
           "value": 3
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "player_id": "asp_b98fd1a32200466b9777f381d5038dac",
+          "player_name": "Marquinhos",
+          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
+          "team_name": "Spartak Moscow",
+          "value": 3
+        },
+        {
+          "rank": 5,
           "player_id": "asp_50719249a04b4233b044579e1f057a03",
           "player_name": "Yuriy Gorshkov",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -1444,7 +1460,7 @@
           "value": 3
         },
         {
-          "rank": 4,
+          "rank": 6,
           "player_id": "asp_c46309d28426459c8c4eb0ea8dcaebe3",
           "player_name": "Bitello",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1452,7 +1468,7 @@
           "value": 3
         },
         {
-          "rank": 5,
+          "rank": 7,
           "player_id": "asp_65df245e56fa4d21930a35024ba68220",
           "player_name": "D. Vorobyev",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -1460,7 +1476,15 @@
           "value": 2
         },
         {
-          "rank": 6,
+          "rank": 8,
+          "player_id": "asp_9bdfbac01c1b45b4aed79b18324a7bd7",
+          "player_name": "Lucas Olaza",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
+          "value": 2
+        },
+        {
+          "rank": 9,
           "player_id": "asp_703dc5f9a78941ae96b81c634edd66db",
           "player_name": "Egas Cacintura",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -1468,7 +1492,7 @@
           "value": 2
         },
         {
-          "rank": 7,
+          "rank": 10,
           "player_id": "asp_c5ae3272a2fc4905acec6f47c04fc8e8",
           "player_name": "Ilnur Alshin",
           "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
@@ -1476,7 +1500,7 @@
           "value": 2
         },
         {
-          "rank": 8,
+          "rank": 11,
           "player_id": "asp_81ab4a6186564b2aa316105b0fa8451e",
           "player_name": "Yaroslav Gladyshev",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1484,7 +1508,15 @@
           "value": 2
         },
         {
-          "rank": 9,
+          "rank": 12,
+          "player_id": "asp_663193c5d8be4626b8174e73bb3ba83d",
+          "player_name": "Christian",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
+          "value": 2
+        },
+        {
+          "rank": 13,
           "player_id": "asp_7cf121e0dba44c50a025f15a78cbe066",
           "player_name": "Andrey Langovich",
           "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
@@ -1492,7 +1524,7 @@
           "value": 2
         },
         {
-          "rank": 10,
+          "rank": 14,
           "player_id": "asp_4b59928a517d47f79e2bd47e6e4893d9",
           "player_name": "Danil Krugovoy",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
@@ -1500,71 +1532,7 @@
           "value": 2
         },
         {
-          "rank": 11,
-          "player_id": "asp_0294ad49d34b4a819411a4d3501c858d",
-          "player_name": "A. Karpukas",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "Zenit St. Petersburg",
-          "value": 2
-        },
-        {
-          "rank": 12,
-          "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
-          "player_name": "Alexander Sobolev",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "Zenit St. Petersburg",
-          "value": 2
-        },
-        {
-          "rank": 13,
-          "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
-          "player_name": "Batxi Joao",
-          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
-          "team_name": "Krasnodar",
-          "value": 2
-        },
-        {
-          "rank": 14,
-          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
-          "player_name": "Nikita Glushkov",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "Makhachkala",
-          "value": 2
-        },
-        {
-          "rank": 16,
-          "player_id": "asp_48e24605c0724d9a9263c58603af3363",
-          "player_name": "Bakaev Zelimkhan",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "Lokomotiv Moskva",
-          "value": 2
-        },
-        {
-          "rank": 17,
-          "player_id": "asp_a93da2f4e9df450e87a309fbe404ab50",
-          "player_name": "Olakunle Olusegun",
-          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
-          "team_name": "Rostov",
-          "value": 2
-        },
-        {
-          "rank": 18,
-          "player_id": "asp_8a72e83a28074609b19ae3af39231516",
-          "player_name": "Roberto Fernandez",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "Akron",
-          "value": 2
-        },
-        {
-          "rank": 19,
-          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
-          "player_name": "Maksim Glushenkov",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "Zenit St. Petersburg",
-          "value": 2
-        },
-        {
-          "rank": 20,
+          "rank": 15,
           "player_id": "asp_f1d28e177177463b9e83bebfede746f9",
           "player_name": "Igor Dmitriev",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -1572,23 +1540,7 @@
           "value": 2
         },
         {
-          "rank": 21,
-          "player_id": "asp_b98fd1a32200466b9777f381d5038dac",
-          "player_name": "Marquinhos",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "Spartak Moscow",
-          "value": 2
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
-          "player_name": "Ivan Oleynikov",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "Krylya Sovietov S.",
-          "value": 2
-        },
-        {
-          "rank": 23,
+          "rank": 17,
           "player_id": "asp_19b6f51e0e5d493c884711881d3e1432",
           "player_name": "Ivan Sergeev",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1596,7 +1548,7 @@
           "value": 2
         },
         {
-          "rank": 24,
+          "rank": 18,
           "player_id": "asp_efd6f791262a43a8a2b8404104f401ae",
           "player_name": "Vladislav Shitov",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -1604,7 +1556,7 @@
           "value": 2
         },
         {
-          "rank": 25,
+          "rank": 19,
           "player_id": "asp_c8195c0be5ca4b6495d2c141103a7a4a",
           "player_name": "S. Pinyaev",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -1612,7 +1564,7 @@
           "value": 2
         },
         {
-          "rank": 26,
+          "rank": 20,
           "player_id": "asp_c44984300d12433fbd53e0a4e03f5230",
           "player_name": "Nathan Gassama",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -1620,195 +1572,243 @@
           "value": 2
         },
         {
+          "rank": 21,
+          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
+          "player_name": "Nikita Glushkov",
+          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
+          "team_name": "Makhachkala",
+          "value": 2
+        },
+        {
+          "rank": 22,
+          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
+          "player_name": "Ivan Oleynikov",
+          "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
+          "team_name": "CSKA Moscow",
+          "value": 2
+        },
+        {
+          "rank": 23,
+          "player_id": "asp_48e24605c0724d9a9263c58603af3363",
+          "player_name": "Bakaev Zelimkhan",
+          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
+          "team_name": "Lokomotiv Moskva",
+          "value": 2
+        },
+        {
+          "rank": 24,
+          "player_id": "asp_0294ad49d34b4a819411a4d3501c858d",
+          "player_name": "A. Karpukas",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "Zenit St. Petersburg",
+          "value": 2
+        },
+        {
+          "rank": 25,
+          "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
+          "player_name": "Alexander Sobolev",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "Zenit St. Petersburg",
+          "value": 2
+        },
+        {
+          "rank": 26,
+          "player_id": "asp_a93da2f4e9df450e87a309fbe404ab50",
+          "player_name": "Olakunle Olusegun",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "Rostov",
+          "value": 2
+        },
+        {
           "rank": 27,
-          "player_id": "asp_1d369ff9c4fa431dbe27080f74e0b9e9",
-          "player_name": "Konstantin Shiltsov",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
-          "value": 1
+          "player_id": "asp_8a72e83a28074609b19ae3af39231516",
+          "player_name": "Roberto Fernandez",
+          "team_id": "ast_19340f0c479644e8976add7d302d567c",
+          "team_name": "Akron",
+          "value": 2
         },
         {
           "rank": 28,
-          "player_id": "asp_4e6179ebe23c4835a75b632e3f699bec",
-          "player_name": "Nikolai Titkov",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
-          "value": 1
+          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
+          "player_name": "Maksim Glushenkov",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "Zenit St. Petersburg",
+          "value": 2
         },
         {
           "rank": 29,
-          "player_id": "asp_4baee6d441164b4ca31e22faf0314fcc",
-          "player_name": "S. Tedić",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "Akron",
+          "player_id": "asp_8c482887712e443d9d6ba813f5b43a71",
+          "player_name": "Serna Reyna",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "Rodina Moskva",
           "value": 1
         },
         {
           "rank": 30,
-          "player_id": "asp_fe8c3ef5f1a54030ad1c682af982e942",
-          "player_name": "Esequiel Barco",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "Spartak Moscow",
+          "player_id": "asp_85c5d9773b814ac787f8e92e4db073c2",
+          "player_name": "Stanislav Bessmertniy",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "Rodina Moskva",
           "value": 1
         },
         {
           "rank": 31,
-          "player_id": "asp_745a32e7305d454c86215df91b863a07",
-          "player_name": "Pablo Solari",
+          "player_id": "asp_90600d8e1e4548cebf28fe7b77a89893",
+          "player_name": "Daniil Denisov",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
           "team_name": "Spartak Moscow",
           "value": 1
         },
         {
           "rank": 32,
-          "player_id": "asp_a09f1fd8e2f54b6bafffa2c70dfed29a",
-          "player_name": "Mihajlo Banjac",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "Krylya Sovietov S.",
+          "player_id": "asp_cc3e1ece2e934e7ba7d1b4103f121b7d",
+          "player_name": "Ivan Oblyakov",
+          "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
+          "team_name": "CSKA Moscow",
           "value": 1
         },
         {
           "rank": 33,
-          "player_id": "asp_dc3e149a499045bf8733fa6acc63f985",
-          "player_name": "Egor Smelov",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "Makhachkala",
-          "value": 1
-        },
-        {
-          "rank": 34,
-          "player_id": "asp_a771cab7e5a54e339edb6d484841573e",
-          "player_name": "Kirill Pechenin",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "Krylya Sovietov S.",
-          "value": 1
-        },
-        {
-          "rank": 35,
-          "player_id": "asp_772df24eac134df78cb90fd071f7d3bc",
-          "player_name": "Benchimol",
+          "player_id": "asp_0980fc0b9d4b473fa5993ec095e9f3be",
+          "player_name": "Dudu",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
           "team_name": "Akron",
           "value": 1
         },
         {
-          "rank": 36,
-          "player_id": "asp_dd0c20402b43475a9050c57ab9c658bd",
-          "player_name": "Aleksandar Jukic",
-          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
-          "team_name": "Rubin Kazan&apos;",
+          "rank": 34,
+          "player_id": "asp_13c86075c3b24f0bb18370e50428e304",
+          "player_name": "Nikolay Giorgobiani",
+          "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
+          "team_name": "Fakel",
           "value": 1
         },
         {
-          "rank": 37,
-          "player_id": "asp_d8f405c3dfd543e8b76963b7340a427c",
-          "player_name": "Sivis Maxime",
+          "rank": 35,
+          "player_id": "asp_659a9b0ed4f544a09d8a8823c2432181",
+          "player_name": "Kasadzhikov Andrey",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
           "team_name": "Orenburg",
           "value": 1
         },
         {
+          "rank": 36,
+          "player_id": "asp_0b8b49a1e87b423c99b9a9f3ebb44abd",
+          "player_name": "Dmitri Rybchinskiy",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "Orenburg",
+          "value": 1
+        },
+        {
+          "rank": 37,
+          "player_id": "asp_ba281f887e9646879bcdb93e4de0b8e8",
+          "player_name": "Maksim Osipenko",
+          "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
+          "team_name": "Dynamo Moscow",
+          "value": 1
+        },
+        {
           "rank": 38,
-          "player_id": "asp_d565e9511a584ff5801999c6e0f5cfd4",
-          "player_name": "Vyacheslav Bardybakhin",
+          "player_id": "asp_499c1524535e4d44bde62d4426f85a9f",
+          "player_name": "Yomar Rocha",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
           "team_name": "Akron",
           "value": 1
         },
         {
           "rank": 39,
-          "player_id": "asp_ead1cbc75a1c479daa721e94a7f1792f",
-          "player_name": "N. Saltykov",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "Krylya Sovietov S.",
-          "value": 1
-        },
-        {
-          "rank": 40,
-          "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
-          "player_name": "Iker Pozo",
-          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
-          "team_name": "Rodina Moskva",
-          "value": 1
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_6dae4bcc47f943fb8cc52cf34b012b13",
-          "player_name": "Aleksey Sutormin",
-          "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
-          "team_name": "Fakel",
-          "value": 1
-        },
-        {
-          "rank": 42,
-          "player_id": "asp_46a902df6565460ca7e2ec4af130d197",
-          "player_name": "Brayan Gil",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
-          "value": 1
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_db3ac197f4574a6598552458616dcb3d",
-          "player_name": "Pospelov Vladislav",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
-          "value": 1
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_1ec6a2eebed14932aeec9489dc45bc5c",
-          "player_name": "Luciano Gondou",
-          "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
-          "team_name": "CSKA Moscow",
-          "value": 1
-        },
-        {
-          "rank": 45,
-          "player_id": "asp_a7676398f395422da39433ddd2ac4a7a",
-          "player_name": "Kevin Lenini",
-          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
-          "team_name": "Krasnodar",
-          "value": 1
-        },
-        {
-          "rank": 46,
-          "player_id": "asp_1df24ccfe4864c0faef15fa294d5eb0d",
-          "player_name": "Maksim Petrov",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
-          "value": 1
-        },
-        {
-          "rank": 47,
-          "player_id": "asp_5a0b264e28c34a379e156e48a3a88d34",
-          "player_name": "Mirlind Daku",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "Spartak Moscow",
-          "value": 1
-        },
-        {
-          "rank": 48,
-          "player_id": "asp_04573924ce604ca381406aa98a2e2b90",
-          "player_name": "Juan Caceres",
-          "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
-          "team_name": "Dynamo Moscow",
-          "value": 1
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_077a17d6f90a42d9afa105fa4b329a6b",
-          "player_name": "Ariel Damián",
+          "player_id": "asp_9377a7490204486eaba25fde5aef53c5",
+          "player_name": "Jordhy Thompson",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
           "team_name": "Orenburg",
           "value": 1
         },
         {
-          "rank": 50,
-          "player_id": "asp_76515cb23ddb4d6ead78ade18b4050d6",
-          "player_name": "M. Nenakhov",
+          "rank": 40,
+          "player_id": "asp_9fcfd020e778419797c28069e2e7ff59",
+          "player_name": "Maksim Samorodov",
+          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+          "team_name": "Akhmat Grozny",
+          "value": 1
+        },
+        {
+          "rank": 41,
+          "player_id": "asp_a0fa17f0ec4c4846bec879279883957a",
+          "player_name": "Ilya Rozhkov",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "Rubin Kazan&apos;",
+          "value": 1
+        },
+        {
+          "rank": 42,
+          "player_id": "asp_8694d01c46ed4b57b93ddcb77e85782b",
+          "player_name": "Daniil Fomin",
+          "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
+          "team_name": "Dynamo Moscow",
+          "value": 1
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_c4d61f4b605d4c8193ca9476ed6e0a35",
+          "player_name": "Mohamed Konate",
+          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+          "team_name": "Akhmat Grozny",
+          "value": 1
+        },
+        {
+          "rank": 44,
+          "player_id": "asp_797830f402074004a5a979b160a8c5c8",
+          "player_name": "Kazbek Mukailov",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "Krylya Sovietov S.",
+          "value": 1
+        },
+        {
+          "rank": 45,
+          "player_id": "asp_d43bf929265946b994bf9ed7a4b8b651",
+          "player_name": "Sergey Babkin",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
           "team_name": "Lokomotiv Moskva",
+          "value": 1
+        },
+        {
+          "rank": 46,
+          "player_id": "asp_b69a598dd9c04f209ca93f9a3db9cf86",
+          "player_name": "Timur Suleymanov",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "Rostov",
+          "value": 1
+        },
+        {
+          "rank": 47,
+          "player_id": "asp_547377646db14ae5ae07075fe6e7042e",
+          "player_name": "Ilya Samoshnikov",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "Rubin Kazan&apos;",
+          "value": 1
+        },
+        {
+          "rank": 48,
+          "player_id": "asp_47a55e4327e14c9db066ac13f5f247c9",
+          "player_name": "Maxim Vityugov",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "Krylya Sovietov S.",
+          "value": 1
+        },
+        {
+          "rank": 49,
+          "player_id": "asp_32b96bffb66848f5a66b31848a9da8b9",
+          "player_name": "Ignacio Saavedra",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "Rubin Kazan&apos;",
+          "value": 1
+        },
+        {
+          "rank": 50,
+          "player_id": "asp_1d369ff9c4fa431dbe27080f74e0b9e9",
+          "player_name": "Konstantin Shiltsov",
+          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+          "team_name": "Baltika",
           "value": 1
         }
       ],
@@ -1819,10 +1819,18 @@
           "player_name": "佩德罗·恩里克",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
           "team_name": "泽尼特",
-          "value": 5
+          "value": 6
         },
         {
           "rank": 2,
+          "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
+          "player_name": "巴克西·若昂",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
+          "value": 3
+        },
+        {
+          "rank": 3,
           "player_id": "asp_66be8dd9c9a549f98e88cfb7c559d8f9",
           "player_name": "达尼尔·列索沃伊",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -1830,7 +1838,15 @@
           "value": 3
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "player_id": "asp_b98fd1a32200466b9777f381d5038dac",
+          "player_name": "马尔基尼奥斯",
+          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
+          "team_name": "斯巴达克莫斯科",
+          "value": 3
+        },
+        {
+          "rank": 5,
           "player_id": "asp_50719249a04b4233b044579e1f057a03",
           "player_name": "Y. 戈尔什科夫",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -1838,7 +1854,7 @@
           "value": 3
         },
         {
-          "rank": 4,
+          "rank": 6,
           "player_id": "asp_c46309d28426459c8c4eb0ea8dcaebe3",
           "player_name": "比特洛",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1846,7 +1862,7 @@
           "value": 3
         },
         {
-          "rank": 5,
+          "rank": 7,
           "player_id": "asp_65df245e56fa4d21930a35024ba68220",
           "player_name": "D. 沃罗比约夫",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -1854,7 +1870,15 @@
           "value": 2
         },
         {
-          "rank": 6,
+          "rank": 8,
+          "player_id": "asp_9bdfbac01c1b45b4aed79b18324a7bd7",
+          "player_name": "卢卡斯·奥拉萨",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
+          "value": 2
+        },
+        {
+          "rank": 9,
           "player_id": "asp_703dc5f9a78941ae96b81c634edd66db",
           "player_name": "埃加斯·卡辛图拉",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -1862,7 +1886,7 @@
           "value": 2
         },
         {
-          "rank": 7,
+          "rank": 10,
           "player_id": "asp_c5ae3272a2fc4905acec6f47c04fc8e8",
           "player_name": "伊尔努尔·阿尔欣",
           "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
@@ -1870,7 +1894,7 @@
           "value": 2
         },
         {
-          "rank": 8,
+          "rank": 11,
           "player_id": "asp_81ab4a6186564b2aa316105b0fa8451e",
           "player_name": "Y. 格拉季舍夫",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1878,7 +1902,15 @@
           "value": 2
         },
         {
-          "rank": 9,
+          "rank": 12,
+          "player_id": "asp_663193c5d8be4626b8174e73bb3ba83d",
+          "player_name": "克里斯蒂安",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
+          "value": 2
+        },
+        {
+          "rank": 13,
           "player_id": "asp_7cf121e0dba44c50a025f15a78cbe066",
           "player_name": "安德烈·朗戈维奇",
           "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
@@ -1886,7 +1918,7 @@
           "value": 2
         },
         {
-          "rank": 10,
+          "rank": 14,
           "player_id": "asp_4b59928a517d47f79e2bd47e6e4893d9",
           "player_name": "达尼尔·克鲁戈沃伊",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
@@ -1894,71 +1926,7 @@
           "value": 2
         },
         {
-          "rank": 11,
-          "player_id": "asp_0294ad49d34b4a819411a4d3501c858d",
-          "player_name": "阿. 卡尔普卡斯",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "泽尼特",
-          "value": 2
-        },
-        {
-          "rank": 12,
-          "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
-          "player_name": "亚历山大·索博列夫",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "泽尼特",
-          "value": 2
-        },
-        {
-          "rank": 13,
-          "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
-          "player_name": "巴克西·若昂",
-          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
-          "team_name": "克拉斯诺达尔",
-          "value": 2
-        },
-        {
-          "rank": 14,
-          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
-          "player_name": "尼基塔·格卢什科夫",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "马哈奇卡拉迪纳摩",
-          "value": 2
-        },
-        {
-          "rank": 16,
-          "player_id": "asp_48e24605c0724d9a9263c58603af3363",
-          "player_name": "Z.·巴卡耶夫",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "莫斯科火车头",
-          "value": 2
-        },
-        {
-          "rank": 17,
-          "player_id": "asp_a93da2f4e9df450e87a309fbe404ab50",
-          "player_name": "奥拉昆勒·奥卢塞贡",
-          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
-          "team_name": "罗斯托夫足球俱乐部",
-          "value": 2
-        },
-        {
-          "rank": 18,
-          "player_id": "asp_8a72e83a28074609b19ae3af39231516",
-          "player_name": "罗伯托·费尔南德斯",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "阿克伦·托利亚蒂",
-          "value": 2
-        },
-        {
-          "rank": 19,
-          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
-          "player_name": "M. 格鲁申科夫",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "泽尼特",
-          "value": 2
-        },
-        {
-          "rank": 20,
+          "rank": 15,
           "player_id": "asp_f1d28e177177463b9e83bebfede746f9",
           "player_name": "伊戈尔·德米特里耶夫",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -1966,23 +1934,7 @@
           "value": 2
         },
         {
-          "rank": 21,
-          "player_id": "asp_b98fd1a32200466b9777f381d5038dac",
-          "player_name": "马尔基尼奥斯",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "斯巴达克莫斯科",
-          "value": 2
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
-          "player_name": "伊万·奥列尼科夫",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "克里利亚·索维托夫",
-          "value": 2
-        },
-        {
-          "rank": 23,
+          "rank": 17,
           "player_id": "asp_19b6f51e0e5d493c884711881d3e1432",
           "player_name": "I. 塞尔杰耶夫",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -1990,7 +1942,7 @@
           "value": 2
         },
         {
-          "rank": 24,
+          "rank": 18,
           "player_id": "asp_efd6f791262a43a8a2b8404104f401ae",
           "player_name": "弗拉迪斯拉夫·希托夫",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -1998,7 +1950,7 @@
           "value": 2
         },
         {
-          "rank": 25,
+          "rank": 19,
           "player_id": "asp_c8195c0be5ca4b6495d2c141103a7a4a",
           "player_name": "S. 平亚耶夫",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -2006,7 +1958,7 @@
           "value": 2
         },
         {
-          "rank": 26,
+          "rank": 20,
           "player_id": "asp_c44984300d12433fbd53e0a4e03f5230",
           "player_name": "内森·加萨马",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -2014,195 +1966,243 @@
           "value": 2
         },
         {
+          "rank": 21,
+          "player_id": "asp_3bfed0bb6c764a6d94afd25f76c2dabd",
+          "player_name": "尼基塔·格卢什科夫",
+          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
+          "team_name": "马哈奇卡拉迪纳摩",
+          "value": 2
+        },
+        {
+          "rank": 22,
+          "player_id": "asp_0ad23e07b55a41f2855c18be3f9e622d",
+          "player_name": "伊万·奥列尼科夫",
+          "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
+          "team_name": "中央陆军",
+          "value": 2
+        },
+        {
+          "rank": 23,
+          "player_id": "asp_48e24605c0724d9a9263c58603af3363",
+          "player_name": "Z.·巴卡耶夫",
+          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
+          "team_name": "莫斯科火车头",
+          "value": 2
+        },
+        {
+          "rank": 24,
+          "player_id": "asp_0294ad49d34b4a819411a4d3501c858d",
+          "player_name": "阿. 卡尔普卡斯",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "泽尼特",
+          "value": 2
+        },
+        {
+          "rank": 25,
+          "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
+          "player_name": "亚历山大·索博列夫",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "泽尼特",
+          "value": 2
+        },
+        {
+          "rank": 26,
+          "player_id": "asp_a93da2f4e9df450e87a309fbe404ab50",
+          "player_name": "奥拉昆勒·奥卢塞贡",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "罗斯托夫足球俱乐部",
+          "value": 2
+        },
+        {
           "rank": 27,
-          "player_id": "asp_1d369ff9c4fa431dbe27080f74e0b9e9",
-          "player_name": "康斯坦丁·希尔茨索夫",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
-          "value": 1
+          "player_id": "asp_8a72e83a28074609b19ae3af39231516",
+          "player_name": "罗伯托·费尔南德斯",
+          "team_id": "ast_19340f0c479644e8976add7d302d567c",
+          "team_name": "阿克伦·托利亚蒂",
+          "value": 2
         },
         {
           "rank": 28,
-          "player_id": "asp_4e6179ebe23c4835a75b632e3f699bec",
-          "player_name": "尼古拉·季特科夫",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
-          "value": 1
+          "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
+          "player_name": "M. 格鲁申科夫",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "泽尼特",
+          "value": 2
         },
         {
           "rank": 29,
-          "player_id": "asp_4baee6d441164b4ca31e22faf0314fcc",
-          "player_name": "斯洛博丹·特迪奇",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "阿克伦·托利亚蒂",
+          "player_id": "asp_8c482887712e443d9d6ba813f5b43a71",
+          "player_name": "约尔迪·雷纳·塞尔纳·何塞",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "莫斯科罗迪纳",
           "value": 1
         },
         {
           "rank": 30,
-          "player_id": "asp_fe8c3ef5f1a54030ad1c682af982e942",
-          "player_name": "埃塞基尔·巴尔科",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "斯巴达克莫斯科",
+          "player_id": "asp_85c5d9773b814ac787f8e92e4db073c2",
+          "player_name": "斯坦尼斯拉夫·别斯梅尔特尼",
+          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
+          "team_name": "莫斯科罗迪纳",
           "value": 1
         },
         {
           "rank": 31,
-          "player_id": "asp_745a32e7305d454c86215df91b863a07",
-          "player_name": "巴勃罗·索拉尔",
+          "player_id": "asp_90600d8e1e4548cebf28fe7b77a89893",
+          "player_name": "达尼尔·德尼索夫",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
           "team_name": "斯巴达克莫斯科",
           "value": 1
         },
         {
           "rank": 32,
-          "player_id": "asp_a09f1fd8e2f54b6bafffa2c70dfed29a",
-          "player_name": "米哈伊洛·班贾茨",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "克里利亚·索维托夫",
+          "player_id": "asp_cc3e1ece2e934e7ba7d1b4103f121b7d",
+          "player_name": "伊万·奥布利亚科夫",
+          "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
+          "team_name": "中央陆军",
           "value": 1
         },
         {
           "rank": 33,
-          "player_id": "asp_dc3e149a499045bf8733fa6acc63f985",
-          "player_name": "埃戈尔·斯梅洛夫",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "马哈奇卡拉迪纳摩",
-          "value": 1
-        },
-        {
-          "rank": 34,
-          "player_id": "asp_a771cab7e5a54e339edb6d484841573e",
-          "player_name": "基里尔·佩切宁",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "克里利亚·索维托夫",
-          "value": 1
-        },
-        {
-          "rank": 35,
-          "player_id": "asp_772df24eac134df78cb90fd071f7d3bc",
-          "player_name": "本奇莫尔",
+          "player_id": "asp_0980fc0b9d4b473fa5993ec095e9f3be",
+          "player_name": "杜杜",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
           "team_name": "阿克伦·托利亚蒂",
           "value": 1
         },
         {
-          "rank": 36,
-          "player_id": "asp_dd0c20402b43475a9050c57ab9c658bd",
-          "player_name": "亚历山大·尤基奇",
-          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
-          "team_name": "喀山鲁宾",
+          "rank": 34,
+          "player_id": "asp_13c86075c3b24f0bb18370e50428e304",
+          "player_name": "尼古拉·吉奥尔戈比亚尼",
+          "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
+          "team_name": "沃罗涅日法凯尔足球俱乐部",
           "value": 1
         },
         {
-          "rank": 37,
-          "player_id": "asp_d8f405c3dfd543e8b76963b7340a427c",
-          "player_name": "马克西姆·西维斯",
+          "rank": 35,
+          "player_id": "asp_659a9b0ed4f544a09d8a8823c2432181",
+          "player_name": "安德烈·卡萨季科夫",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
           "team_name": "奥伦堡",
           "value": 1
         },
         {
+          "rank": 36,
+          "player_id": "asp_0b8b49a1e87b423c99b9a9f3ebb44abd",
+          "player_name": "德米特里·里比钦斯基",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "奥伦堡",
+          "value": 1
+        },
+        {
+          "rank": 37,
+          "player_id": "asp_ba281f887e9646879bcdb93e4de0b8e8",
+          "player_name": "M. 奥西彭科",
+          "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
+          "team_name": "莫斯科迪纳摩",
+          "value": 1
+        },
+        {
           "rank": 38,
-          "player_id": "asp_d565e9511a584ff5801999c6e0f5cfd4",
-          "player_name": "维亚切斯拉夫·巴尔迪巴欣",
+          "player_id": "asp_499c1524535e4d44bde62d4426f85a9f",
+          "player_name": "Y. 罗查",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
           "team_name": "阿克伦·托利亚蒂",
           "value": 1
         },
         {
           "rank": 39,
-          "player_id": "asp_ead1cbc75a1c479daa721e94a7f1792f",
-          "player_name": "尼基塔·萨尔季科夫",
-          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
-          "team_name": "克里利亚·索维托夫",
-          "value": 1
-        },
-        {
-          "rank": 40,
-          "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
-          "player_name": "伊克尔·波索",
-          "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
-          "team_name": "莫斯科罗迪纳",
-          "value": 1
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_6dae4bcc47f943fb8cc52cf34b012b13",
-          "player_name": "阿列克谢·苏托尔敏",
-          "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
-          "team_name": "沃罗涅日法凯尔足球俱乐部",
-          "value": 1
-        },
-        {
-          "rank": 42,
-          "player_id": "asp_46a902df6565460ca7e2ec4af130d197",
-          "player_name": "布拉扬·吉尔",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
-          "value": 1
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_db3ac197f4574a6598552458616dcb3d",
-          "player_name": "弗拉迪斯拉夫·波斯佩洛夫",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
-          "value": 1
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_1ec6a2eebed14932aeec9489dc45bc5c",
-          "player_name": "L. 冈杜",
-          "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
-          "team_name": "中央陆军",
-          "value": 1
-        },
-        {
-          "rank": 45,
-          "player_id": "asp_a7676398f395422da39433ddd2ac4a7a",
-          "player_name": "凯文·莱尼尼",
-          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
-          "team_name": "克拉斯诺达尔",
-          "value": 1
-        },
-        {
-          "rank": 46,
-          "player_id": "asp_1df24ccfe4864c0faef15fa294d5eb0d",
-          "player_name": "马克西姆·彼得罗夫",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
-          "value": 1
-        },
-        {
-          "rank": 47,
-          "player_id": "asp_5a0b264e28c34a379e156e48a3a88d34",
-          "player_name": "米尔林德·达库",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "斯巴达克莫斯科",
-          "value": 1
-        },
-        {
-          "rank": 48,
-          "player_id": "asp_04573924ce604ca381406aa98a2e2b90",
-          "player_name": "胡安·卡塞雷斯",
-          "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
-          "team_name": "莫斯科迪纳摩",
-          "value": 1
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_077a17d6f90a42d9afa105fa4b329a6b",
-          "player_name": "达米安·普韦布拉",
+          "player_id": "asp_9377a7490204486eaba25fde5aef53c5",
+          "player_name": "乔丹·汤普森",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
           "team_name": "奥伦堡",
           "value": 1
         },
         {
-          "rank": 50,
-          "player_id": "asp_76515cb23ddb4d6ead78ade18b4050d6",
-          "player_name": "马克西姆·涅纳霍夫",
+          "rank": 40,
+          "player_id": "asp_9fcfd020e778419797c28069e2e7ff59",
+          "player_name": "马克西姆·萨莫罗多夫",
+          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+          "team_name": "阿赫马特·格罗兹尼",
+          "value": 1
+        },
+        {
+          "rank": 41,
+          "player_id": "asp_a0fa17f0ec4c4846bec879279883957a",
+          "player_name": "I. 罗兹科夫",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "喀山鲁宾",
+          "value": 1
+        },
+        {
+          "rank": 42,
+          "player_id": "asp_8694d01c46ed4b57b93ddcb77e85782b",
+          "player_name": "D. 福明",
+          "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
+          "team_name": "莫斯科迪纳摩",
+          "value": 1
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_c4d61f4b605d4c8193ca9476ed6e0a35",
+          "player_name": "穆罕默德·科纳特",
+          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
+          "team_name": "阿赫马特·格罗兹尼",
+          "value": 1
+        },
+        {
+          "rank": 44,
+          "player_id": "asp_797830f402074004a5a979b160a8c5c8",
+          "player_name": "卡兹别克·穆凯洛夫",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "克里利亚·索维托夫",
+          "value": 1
+        },
+        {
+          "rank": 45,
+          "player_id": "asp_d43bf929265946b994bf9ed7a4b8b651",
+          "player_name": "谢尔盖·巴布金",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
           "team_name": "莫斯科火车头",
+          "value": 1
+        },
+        {
+          "rank": 46,
+          "player_id": "asp_b69a598dd9c04f209ca93f9a3db9cf86",
+          "player_name": "季穆尔·苏莱曼诺夫",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "罗斯托夫足球俱乐部",
+          "value": 1
+        },
+        {
+          "rank": 47,
+          "player_id": "asp_547377646db14ae5ae07075fe6e7042e",
+          "player_name": "I. 萨莫什尼科夫",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "喀山鲁宾",
+          "value": 1
+        },
+        {
+          "rank": 48,
+          "player_id": "asp_47a55e4327e14c9db066ac13f5f247c9",
+          "player_name": "马克西姆·维图戈夫",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "克里利亚·索维托夫",
+          "value": 1
+        },
+        {
+          "rank": 49,
+          "player_id": "asp_32b96bffb66848f5a66b31848a9da8b9",
+          "player_name": "伊格纳西奥·萨阿维德拉",
+          "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
+          "team_name": "喀山鲁宾",
+          "value": 1
+        },
+        {
+          "rank": 50,
+          "player_id": "asp_1d369ff9c4fa431dbe27080f74e0b9e9",
+          "player_name": "康斯坦丁·希尔茨索夫",
+          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+          "team_name": "巴尔季卡",
           "value": 1
         }
       ]
@@ -2211,11 +2211,11 @@
       "en": [
         {
           "rank": 1,
-          "player_id": "asp_8195a28180d2495cbe6f8496be905bde",
-          "player_name": "Andrey Mendel",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "Baltika",
-          "value": 4
+          "player_id": "asp_839bfc0d37374b80a0bfbc2b1ecec6e4",
+          "player_name": "Aleksei Tataev",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "Orenburg",
+          "value": 5
         },
         {
           "rank": 2,
@@ -2227,14 +2227,22 @@
         },
         {
           "rank": 3,
-          "player_id": "asp_839bfc0d37374b80a0bfbc2b1ecec6e4",
-          "player_name": "Aleksei Tataev",
-          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
-          "team_name": "Orenburg",
+          "player_id": "asp_f54e6887a9514c06a858aadef5660f56",
+          "player_name": "Roman Vega",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "Zenit St. Petersburg",
           "value": 4
         },
         {
           "rank": 4,
+          "player_id": "asp_8195a28180d2495cbe6f8496be905bde",
+          "player_name": "Andrey Mendel",
+          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+          "team_name": "Baltika",
+          "value": 4
+        },
+        {
+          "rank": 5,
           "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
           "player_name": "Maksim Glushenkov",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -2242,7 +2250,7 @@
           "value": 4
         },
         {
-          "rank": 5,
+          "rank": 6,
           "player_id": "asp_19d219dcf81647cbb6d3376ce1241815",
           "player_name": "E. Anderson",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -2250,7 +2258,7 @@
           "value": 4
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_edb55719a8e144db8c2ca317545696bc",
           "player_name": "Christopher Wooh",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -2258,7 +2266,7 @@
           "value": 4
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_04573924ce604ca381406aa98a2e2b90",
           "player_name": "Juan Caceres",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -2266,7 +2274,7 @@
           "value": 4
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
           "player_name": "Iker Pozo",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -2274,7 +2282,7 @@
           "value": 4
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_d8f405c3dfd543e8b76963b7340a427c",
           "player_name": "Sivis Maxime",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -2282,7 +2290,7 @@
           "value": 3
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_d565e9511a584ff5801999c6e0f5cfd4",
           "player_name": "Vyacheslav Bardybakhin",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
@@ -2290,7 +2298,7 @@
           "value": 3
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_70fcebef4cbd46f9a0796eae25549726",
           "player_name": "Mutalip Alibekov",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -2298,7 +2306,7 @@
           "value": 3
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_0d3705270a7645b68111274338ed698e",
           "player_name": "Aymane Mourid",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -2306,7 +2314,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_5c926f0a1bf24174915d846961350f75",
           "player_name": "Ricardo David",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -2314,7 +2322,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_fb698782193e40fe98307e008d0291b1",
           "player_name": "Stefan Loncar",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
@@ -2322,7 +2330,7 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_9129729e57624a50a62ed144f049ee2a",
           "player_name": "Amar Rahmanovic",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -2330,7 +2338,15 @@
           "value": 3
         },
         {
-          "rank": 16,
+          "rank": 17,
+          "player_id": "asp_76515cb23ddb4d6ead78ade18b4050d6",
+          "player_name": "M. Nenakhov",
+          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
+          "team_name": "Lokomotiv Moskva",
+          "value": 3
+        },
+        {
+          "rank": 18,
           "player_id": "asp_ce21ab7e852641c9808e95d107e3c98f",
           "player_name": "Artem Meshchaninov",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -2338,7 +2354,7 @@
           "value": 3
         },
         {
-          "rank": 17,
+          "rank": 19,
           "player_id": "asp_fb5fc23baf0d47b0ab7071e8ba5d9c7b",
           "player_name": "Julio Romao",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2346,7 +2362,7 @@
           "value": 3
         },
         {
-          "rank": 18,
+          "rank": 20,
           "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
           "player_name": "Alexander Sobolev",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -2354,7 +2370,23 @@
           "value": 3
         },
         {
-          "rank": 19,
+          "rank": 21,
+          "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
+          "player_name": "Batxi Joao",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
+          "value": 3
+        },
+        {
+          "rank": 22,
+          "player_id": "asp_551a748bc5e04b87a7c66a30bae74f9f",
+          "player_name": "Oumar Sako",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "Rostov",
+          "value": 3
+        },
+        {
+          "rank": 23,
           "player_id": "asp_51067118981d45fba0494ae040c1b378",
           "player_name": "J. Urozov",
           "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
@@ -2362,7 +2394,7 @@
           "value": 3
         },
         {
-          "rank": 20,
+          "rank": 24,
           "player_id": "asp_4bc779c1a78e4081be44e670fc82b5a0",
           "player_name": "Georgi Melkadze",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2370,7 +2402,7 @@
           "value": 3
         },
         {
-          "rank": 21,
+          "rank": 25,
           "player_id": "asp_d9f51b27830348328f8b2993f774d32f",
           "player_name": "Chernov Nikita",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -2378,7 +2410,7 @@
           "value": 3
         },
         {
-          "rank": 22,
+          "rank": 26,
           "player_id": "asp_47a55e4327e14c9db066ac13f5f247c9",
           "player_name": "Maxim Vityugov",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -2386,7 +2418,7 @@
           "value": 3
         },
         {
-          "rank": 23,
+          "rank": 27,
           "player_id": "asp_3010ba48044a4556921554c385f89106",
           "player_name": "Ismael Silva",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2394,7 +2426,7 @@
           "value": 3
         },
         {
-          "rank": 24,
+          "rank": 28,
           "player_id": "asp_8c482887712e443d9d6ba813f5b43a71",
           "player_name": "Serna Reyna",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -2402,7 +2434,7 @@
           "value": 3
         },
         {
-          "rank": 25,
+          "rank": 29,
           "player_id": "asp_27277eab130b47df92dacabd7b1eb4ec",
           "player_name": "Viktor Melekhin",
           "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
@@ -2410,7 +2442,7 @@
           "value": 3
         },
         {
-          "rank": 26,
+          "rank": 30,
           "player_id": "asp_98bd6c1e871641b4b5308baff4ebd701",
           "player_name": "Albert Gabaraev",
           "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
@@ -2418,39 +2450,15 @@
           "value": 3
         },
         {
-          "rank": 27,
-          "player_id": "asp_41e3cdaac5c64504b70102d66800d876",
-          "player_name": "Marat Bokoev",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "Akron",
-          "value": 3
-        },
-        {
-          "rank": 28,
-          "player_id": "asp_8d8d74df3d0f40d8a3857123b5cbdd18",
-          "player_name": "Gedson Fernandes",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "Spartak Moscow",
-          "value": 3
-        },
-        {
-          "rank": 29,
-          "player_id": "asp_a033b1391a914088936d3df4806b36d3",
-          "player_name": "Temirkan Sundukov",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "Makhachkala",
-          "value": 3
-        },
-        {
-          "rank": 30,
-          "player_id": "asp_f54e6887a9514c06a858aadef5660f56",
-          "player_name": "Roman Vega",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "Zenit St. Petersburg",
-          "value": 3
-        },
-        {
           "rank": 31,
+          "player_id": "asp_659a9b0ed4f544a09d8a8823c2432181",
+          "player_name": "Kasadzhikov Andrey",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "Orenburg",
+          "value": 3
+        },
+        {
+          "rank": 32,
           "player_id": "asp_af95567869124c0b8425e0550d4abbe0",
           "player_name": "Evgeniy Bolotov",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -2458,7 +2466,7 @@
           "value": 3
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_1d6f5422d3b7459cb033dce3e3e156c4",
           "player_name": "Jhon Cordoba",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -2466,7 +2474,7 @@
           "value": 3
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_a0279ff69d304539a0991263d2e233b2",
           "player_name": "Manfred Ugalde",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -2474,7 +2482,7 @@
           "value": 3
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_5ae697a95a504c1392ae1124931e959e",
           "player_name": "C. Montes",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -2482,7 +2490,15 @@
           "value": 3
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "player_id": "asp_d73d556f61bd42888a3ce8ac76b26228",
+          "player_name": "A. Batrakov",
+          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
+          "team_name": "Lokomotiv Moskva",
+          "value": 3
+        },
+        {
+          "rank": 37,
           "player_id": "asp_f13d85ba02cb4be58384ee3a1040f4b5",
           "player_name": "Victor Joao",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
@@ -2490,7 +2506,63 @@
           "value": 3
         },
         {
-          "rank": 36,
+          "rank": 38,
+          "player_id": "asp_a033b1391a914088936d3df4806b36d3",
+          "player_name": "Temirkan Sundukov",
+          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
+          "team_name": "Makhachkala",
+          "value": 3
+        },
+        {
+          "rank": 39,
+          "player_id": "asp_41e3cdaac5c64504b70102d66800d876",
+          "player_name": "Marat Bokoev",
+          "team_id": "ast_19340f0c479644e8976add7d302d567c",
+          "team_name": "Akron",
+          "value": 3
+        },
+        {
+          "rank": 40,
+          "player_id": "asp_8d8d74df3d0f40d8a3857123b5cbdd18",
+          "player_name": "Gedson Fernandes",
+          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
+          "team_name": "Spartak Moscow",
+          "value": 3
+        },
+        {
+          "rank": 41,
+          "player_id": "asp_c00e1e250acd499097b618c26bd00f49",
+          "player_name": "J. Palacios",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "Orenburg",
+          "value": 3
+        },
+        {
+          "rank": 42,
+          "player_id": "asp_1ae106671b9b4222a385630086252120",
+          "player_name": "Junior Jubal",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
+          "value": 2
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_9bdfbac01c1b45b4aed79b18324a7bd7",
+          "player_name": "Lucas Olaza",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "Krasnodar",
+          "value": 2
+        },
+        {
+          "rank": 44,
+          "player_id": "asp_6c8cbed9be6c43f2991bc11af1297d12",
+          "player_name": "Chesnokov Islam",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "Krylya Sovietov S.",
+          "value": 2
+        },
+        {
+          "rank": 45,
           "player_id": "asp_693323efdbb84b17a260b55c7f2e447d",
           "player_name": "Ilya Vakhania",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -2498,7 +2570,7 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 46,
           "player_id": "asp_a45687c66d6548df8e1feb11af2477d5",
           "player_name": "Miroslav Bogosavac",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2506,15 +2578,7 @@
           "value": 2
         },
         {
-          "rank": 38,
-          "player_id": "asp_d73d556f61bd42888a3ce8ac76b26228",
-          "player_name": "A. Batrakov",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "Lokomotiv Moskva",
-          "value": 2
-        },
-        {
-          "rank": 39,
+          "rank": 47,
           "player_id": "asp_71573df42cfb4c05b3f6bb90f7e706f1",
           "player_name": "Danila Khotulev",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -2522,7 +2586,7 @@
           "value": 2
         },
         {
-          "rank": 40,
+          "rank": 48,
           "player_id": "asp_fa244b486353460dafc51d530cc4e7dd",
           "player_name": "Wendel",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -2530,7 +2594,7 @@
           "value": 2
         },
         {
-          "rank": 41,
+          "rank": 49,
           "player_id": "asp_24c0bb83eef0435aacc569324a6880a5",
           "player_name": "Dzhamalutdin Abdulkadyrov",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
@@ -2538,86 +2602,22 @@
           "value": 2
         },
         {
-          "rank": 42,
+          "rank": 50,
           "player_id": "asp_48fe1b7fe9014bd7a7c2fbeca1d3434a",
           "player_name": "Gamid Agalarov",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
           "team_name": "Makhachkala",
-          "value": 2
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_9a7636cc2b414300900a608e8fd93a8a",
-          "player_name": "Andrey Mostovoy",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "Lokomotiv Moskva",
-          "value": 2
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_041259aaef4e479295d23afe1ec7146b",
-          "player_name": "D. Godyaev",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "Lokomotiv Moskva",
-          "value": 2
-        },
-        {
-          "rank": 45,
-          "player_id": "asp_7cf121e0dba44c50a025f15a78cbe066",
-          "player_name": "Andrey Langovich",
-          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
-          "team_name": "Rostov",
-          "value": 2
-        },
-        {
-          "rank": 46,
-          "player_id": "asp_85e350dadcdd4db5842d20de685aa539",
-          "player_name": "Marat Apshatsev",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "Makhachkala",
-          "value": 2
-        },
-        {
-          "rank": 47,
-          "player_id": "asp_3b7e90c9180e401dad74d595e967c473",
-          "player_name": "A. Rudenko",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "Lokomotiv Moskva",
-          "value": 2
-        },
-        {
-          "rank": 48,
-          "player_id": "asp_06885d6d537f41a8ab3f51498aa86af0",
-          "player_name": "Victor Parada",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "Spartak Moscow",
-          "value": 2
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_05182383ee30421dbd20b30bab74129e",
-          "player_name": "Gnapi Axel",
-          "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
-          "team_name": "Fakel",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_83a2289e64e8432a8809c20a679fb76d",
-          "player_name": "Emil Tsenov",
-          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
-          "team_name": "Orenburg",
           "value": 2
         }
       ],
       "zh": [
         {
           "rank": 1,
-          "player_id": "asp_8195a28180d2495cbe6f8496be905bde",
-          "player_name": "安德烈·门德尔",
-          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
-          "team_name": "巴尔季卡",
-          "value": 4
+          "player_id": "asp_839bfc0d37374b80a0bfbc2b1ecec6e4",
+          "player_name": "阿列克谢·塔塔耶夫",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "奥伦堡",
+          "value": 5
         },
         {
           "rank": 2,
@@ -2629,14 +2629,22 @@
         },
         {
           "rank": 3,
-          "player_id": "asp_839bfc0d37374b80a0bfbc2b1ecec6e4",
-          "player_name": "阿列克谢·塔塔耶夫",
-          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
-          "team_name": "奥伦堡",
+          "player_id": "asp_f54e6887a9514c06a858aadef5660f56",
+          "player_name": "罗曼·维加",
+          "team_id": "ast_52546226be98416e80325b857e1f7547",
+          "team_name": "泽尼特",
           "value": 4
         },
         {
           "rank": 4,
+          "player_id": "asp_8195a28180d2495cbe6f8496be905bde",
+          "player_name": "安德烈·门德尔",
+          "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
+          "team_name": "巴尔季卡",
+          "value": 4
+        },
+        {
+          "rank": 5,
           "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
           "player_name": "M. 格鲁申科夫",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -2644,7 +2652,7 @@
           "value": 4
         },
         {
-          "rank": 5,
+          "rank": 6,
           "player_id": "asp_19d219dcf81647cbb6d3376ce1241815",
           "player_name": "爱德华多·安德森",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -2652,7 +2660,7 @@
           "value": 4
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_edb55719a8e144db8c2ca317545696bc",
           "player_name": "克里斯托弗·乌赫",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -2660,7 +2668,7 @@
           "value": 4
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_04573924ce604ca381406aa98a2e2b90",
           "player_name": "胡安·卡塞雷斯",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -2668,7 +2676,7 @@
           "value": 4
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_12f46bd5ed6e41df9defadef0f7852f3",
           "player_name": "伊克尔·波索",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -2676,7 +2684,7 @@
           "value": 4
         },
         {
-          "rank": 9,
+          "rank": 10,
           "player_id": "asp_d8f405c3dfd543e8b76963b7340a427c",
           "player_name": "马克西姆·西维斯",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -2684,7 +2692,7 @@
           "value": 3
         },
         {
-          "rank": 10,
+          "rank": 11,
           "player_id": "asp_d565e9511a584ff5801999c6e0f5cfd4",
           "player_name": "维亚切斯拉夫·巴尔迪巴欣",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
@@ -2692,7 +2700,7 @@
           "value": 3
         },
         {
-          "rank": 11,
+          "rank": 12,
           "player_id": "asp_70fcebef4cbd46f9a0796eae25549726",
           "player_name": "穆塔利普·阿利别科夫",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
@@ -2700,7 +2708,7 @@
           "value": 3
         },
         {
-          "rank": 12,
+          "rank": 13,
           "player_id": "asp_0d3705270a7645b68111274338ed698e",
           "player_name": "艾曼·穆里德",
           "team_id": "ast_ef5cc5e61d844faa89493f766b300d98",
@@ -2708,7 +2716,7 @@
           "value": 3
         },
         {
-          "rank": 13,
+          "rank": 14,
           "player_id": "asp_5c926f0a1bf24174915d846961350f75",
           "player_name": "里卡多·大卫",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639",
@@ -2716,7 +2724,7 @@
           "value": 3
         },
         {
-          "rank": 14,
+          "rank": 15,
           "player_id": "asp_fb698782193e40fe98307e008d0291b1",
           "player_name": "斯特凡·隆卡尔",
           "team_id": "ast_19340f0c479644e8976add7d302d567c",
@@ -2724,7 +2732,7 @@
           "value": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "player_id": "asp_9129729e57624a50a62ed144f049ee2a",
           "player_name": "阿马尔·拉赫曼诺维奇",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -2732,7 +2740,15 @@
           "value": 3
         },
         {
-          "rank": 16,
+          "rank": 17,
+          "player_id": "asp_76515cb23ddb4d6ead78ade18b4050d6",
+          "player_name": "马克西姆·涅纳霍夫",
+          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
+          "team_name": "莫斯科火车头",
+          "value": 3
+        },
+        {
+          "rank": 18,
           "player_id": "asp_ce21ab7e852641c9808e95d107e3c98f",
           "player_name": "阿尔捷姆·梅什查宁诺夫",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -2740,7 +2756,7 @@
           "value": 3
         },
         {
-          "rank": 17,
+          "rank": 19,
           "player_id": "asp_fb5fc23baf0d47b0ab7071e8ba5d9c7b",
           "player_name": "胡里奥·罗马奥",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2748,7 +2764,7 @@
           "value": 3
         },
         {
-          "rank": 18,
+          "rank": 20,
           "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
           "player_name": "亚历山大·索博列夫",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -2756,7 +2772,23 @@
           "value": 3
         },
         {
-          "rank": 19,
+          "rank": 21,
+          "player_id": "asp_a89da5f9291649608bac9670d53cb2b1",
+          "player_name": "巴克西·若昂",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
+          "value": 3
+        },
+        {
+          "rank": 22,
+          "player_id": "asp_551a748bc5e04b87a7c66a30bae74f9f",
+          "player_name": "乌马尔·萨科",
+          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
+          "team_name": "罗斯托夫足球俱乐部",
+          "value": 3
+        },
+        {
+          "rank": 23,
           "player_id": "asp_51067118981d45fba0494ae040c1b378",
           "player_name": "贾洪吉尔·乌罗佐夫",
           "team_id": "ast_5045b7cd9fdf40539da75d26ca407019",
@@ -2764,7 +2796,7 @@
           "value": 3
         },
         {
-          "rank": 20,
+          "rank": 24,
           "player_id": "asp_4bc779c1a78e4081be44e670fc82b5a0",
           "player_name": "乔治·梅尔卡泽",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2772,7 +2804,7 @@
           "value": 3
         },
         {
-          "rank": 21,
+          "rank": 25,
           "player_id": "asp_d9f51b27830348328f8b2993f774d32f",
           "player_name": "尼基塔·切尔诺夫",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -2780,7 +2812,7 @@
           "value": 3
         },
         {
-          "rank": 22,
+          "rank": 26,
           "player_id": "asp_47a55e4327e14c9db066ac13f5f247c9",
           "player_name": "马克西姆·维图戈夫",
           "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
@@ -2788,7 +2820,7 @@
           "value": 3
         },
         {
-          "rank": 23,
+          "rank": 27,
           "player_id": "asp_3010ba48044a4556921554c385f89106",
           "player_name": "伊斯梅尔·席尔瓦",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2796,7 +2828,7 @@
           "value": 3
         },
         {
-          "rank": 24,
+          "rank": 28,
           "player_id": "asp_8c482887712e443d9d6ba813f5b43a71",
           "player_name": "约尔迪·雷纳·塞尔纳·何塞",
           "team_id": "ast_d16b9983e3f84f629fe25f88b6fb2e4e",
@@ -2804,7 +2836,7 @@
           "value": 3
         },
         {
-          "rank": 25,
+          "rank": 29,
           "player_id": "asp_27277eab130b47df92dacabd7b1eb4ec",
           "player_name": "V. 梅列欣",
           "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
@@ -2812,7 +2844,7 @@
           "value": 3
         },
         {
-          "rank": 26,
+          "rank": 30,
           "player_id": "asp_98bd6c1e871641b4b5308baff4ebd701",
           "player_name": "阿尔伯特·加巴拉耶夫",
           "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
@@ -2820,39 +2852,15 @@
           "value": 3
         },
         {
-          "rank": 27,
-          "player_id": "asp_41e3cdaac5c64504b70102d66800d876",
-          "player_name": "马拉特·博科耶夫",
-          "team_id": "ast_19340f0c479644e8976add7d302d567c",
-          "team_name": "阿克伦·托利亚蒂",
-          "value": 3
-        },
-        {
-          "rank": 28,
-          "player_id": "asp_8d8d74df3d0f40d8a3857123b5cbdd18",
-          "player_name": "盖德森·费尔南德斯",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "斯巴达克莫斯科",
-          "value": 3
-        },
-        {
-          "rank": 29,
-          "player_id": "asp_a033b1391a914088936d3df4806b36d3",
-          "player_name": "特米尔坎·苏杜科夫",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "马哈奇卡拉迪纳摩",
-          "value": 3
-        },
-        {
-          "rank": 30,
-          "player_id": "asp_f54e6887a9514c06a858aadef5660f56",
-          "player_name": "罗曼·维加",
-          "team_id": "ast_52546226be98416e80325b857e1f7547",
-          "team_name": "泽尼特",
-          "value": 3
-        },
-        {
           "rank": 31,
+          "player_id": "asp_659a9b0ed4f544a09d8a8823c2432181",
+          "player_name": "安德烈·卡萨季科夫",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "奥伦堡",
+          "value": 3
+        },
+        {
+          "rank": 32,
           "player_id": "asp_af95567869124c0b8425e0550d4abbe0",
           "player_name": "叶夫根尼·博洛托夫",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -2860,7 +2868,7 @@
           "value": 3
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_1d6f5422d3b7459cb033dce3e3e156c4",
           "player_name": "约翰·科尔多巴",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -2868,7 +2876,7 @@
           "value": 3
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_a0279ff69d304539a0991263d2e233b2",
           "player_name": "曼弗雷德·乌加尔德",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
@@ -2876,7 +2884,7 @@
           "value": 3
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_5ae697a95a504c1392ae1124931e959e",
           "player_name": "塞萨尔·蒙特斯",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
@@ -2884,7 +2892,15 @@
           "value": 3
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "player_id": "asp_d73d556f61bd42888a3ce8ac76b26228",
+          "player_name": "阿. 巴特拉科夫",
+          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
+          "team_name": "莫斯科火车头",
+          "value": 3
+        },
+        {
+          "rank": 37,
           "player_id": "asp_f13d85ba02cb4be58384ee3a1040f4b5",
           "player_name": "维克托·若昂",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
@@ -2892,7 +2908,63 @@
           "value": 3
         },
         {
-          "rank": 36,
+          "rank": 38,
+          "player_id": "asp_a033b1391a914088936d3df4806b36d3",
+          "player_name": "特米尔坎·苏杜科夫",
+          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
+          "team_name": "马哈奇卡拉迪纳摩",
+          "value": 3
+        },
+        {
+          "rank": 39,
+          "player_id": "asp_41e3cdaac5c64504b70102d66800d876",
+          "player_name": "马拉特·博科耶夫",
+          "team_id": "ast_19340f0c479644e8976add7d302d567c",
+          "team_name": "阿克伦·托利亚蒂",
+          "value": 3
+        },
+        {
+          "rank": 40,
+          "player_id": "asp_8d8d74df3d0f40d8a3857123b5cbdd18",
+          "player_name": "盖德森·费尔南德斯",
+          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
+          "team_name": "斯巴达克莫斯科",
+          "value": 3
+        },
+        {
+          "rank": 41,
+          "player_id": "asp_c00e1e250acd499097b618c26bd00f49",
+          "player_name": "约翰·帕拉西奥斯",
+          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
+          "team_name": "奥伦堡",
+          "value": 3
+        },
+        {
+          "rank": 42,
+          "player_id": "asp_1ae106671b9b4222a385630086252120",
+          "player_name": "小朱巴尔",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
+          "value": 2
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_9bdfbac01c1b45b4aed79b18324a7bd7",
+          "player_name": "卢卡斯·奥拉萨",
+          "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
+          "team_name": "克拉斯诺达尔",
+          "value": 2
+        },
+        {
+          "rank": 44,
+          "player_id": "asp_6c8cbed9be6c43f2991bc11af1297d12",
+          "player_name": "伊斯兰·切斯诺科夫",
+          "team_id": "ast_68982d83670b40c1a7d2a962f804cbd7",
+          "team_name": "克里利亚·索维托夫",
+          "value": 2
+        },
+        {
+          "rank": 45,
           "player_id": "asp_693323efdbb84b17a260b55c7f2e447d",
           "player_name": "伊利亚·瓦哈尼亚",
           "team_id": "ast_9b50f9d48b8f4375b02d04c58ff1735c",
@@ -2900,7 +2972,7 @@
           "value": 2
         },
         {
-          "rank": 37,
+          "rank": 46,
           "player_id": "asp_a45687c66d6548df8e1feb11af2477d5",
           "player_name": "米罗斯拉夫·博戈萨瓦茨",
           "team_id": "ast_641b0af83604412fabe31ac29f33c8e4",
@@ -2908,15 +2980,7 @@
           "value": 2
         },
         {
-          "rank": 38,
-          "player_id": "asp_d73d556f61bd42888a3ce8ac76b26228",
-          "player_name": "阿. 巴特拉科夫",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "莫斯科火车头",
-          "value": 2
-        },
-        {
-          "rank": 39,
+          "rank": 47,
           "player_id": "asp_71573df42cfb4c05b3f6bb90f7e706f1",
           "player_name": "达尼拉·霍图列夫",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
@@ -2924,7 +2988,7 @@
           "value": 2
         },
         {
-          "rank": 40,
+          "rank": 48,
           "player_id": "asp_fa244b486353460dafc51d530cc4e7dd",
           "player_name": "温德尔",
           "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -2932,7 +2996,7 @@
           "value": 2
         },
         {
-          "rank": 41,
+          "rank": 49,
           "player_id": "asp_24c0bb83eef0435aacc569324a6880a5",
           "player_name": "贾马鲁特丁·阿卜杜卡迪罗夫",
           "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
@@ -2940,75 +3004,11 @@
           "value": 2
         },
         {
-          "rank": 42,
+          "rank": 50,
           "player_id": "asp_48fe1b7fe9014bd7a7c2fbeca1d3434a",
           "player_name": "加米德·阿加拉罗夫",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
           "team_name": "马哈奇卡拉迪纳摩",
-          "value": 2
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_9a7636cc2b414300900a608e8fd93a8a",
-          "player_name": "阿. 莫斯托沃伊",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "莫斯科火车头",
-          "value": 2
-        },
-        {
-          "rank": 44,
-          "player_id": "asp_041259aaef4e479295d23afe1ec7146b",
-          "player_name": "达尼拉·戈迪亚耶夫",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "莫斯科火车头",
-          "value": 2
-        },
-        {
-          "rank": 45,
-          "player_id": "asp_7cf121e0dba44c50a025f15a78cbe066",
-          "player_name": "安德烈·朗戈维奇",
-          "team_id": "ast_06ecd479e20244e88c2046c92a7ee61c",
-          "team_name": "罗斯托夫足球俱乐部",
-          "value": 2
-        },
-        {
-          "rank": 46,
-          "player_id": "asp_85e350dadcdd4db5842d20de685aa539",
-          "player_name": "马拉特·阿普沙采夫",
-          "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee",
-          "team_name": "马哈奇卡拉迪纳摩",
-          "value": 2
-        },
-        {
-          "rank": 47,
-          "player_id": "asp_3b7e90c9180e401dad74d595e967c473",
-          "player_name": "亚历山大·鲁登科",
-          "team_id": "ast_7218f41fbdbf4281895edff8429b368d",
-          "team_name": "莫斯科火车头",
-          "value": 2
-        },
-        {
-          "rank": 48,
-          "player_id": "asp_06885d6d537f41a8ab3f51498aa86af0",
-          "player_name": "维克托·帕拉达",
-          "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea",
-          "team_name": "斯巴达克莫斯科",
-          "value": 2
-        },
-        {
-          "rank": 49,
-          "player_id": "asp_05182383ee30421dbd20b30bab74129e",
-          "player_name": "阿克塞尔·格纳皮·达布尔",
-          "team_id": "ast_d86f7e94dc0e4d05b30ee9cc55b081f3",
-          "team_name": "沃罗涅日法凯尔足球俱乐部",
-          "value": 2
-        },
-        {
-          "rank": 50,
-          "player_id": "asp_83a2289e64e8432a8809c20a679fb76d",
-          "player_name": "埃米尔·岑诺夫",
-          "team_id": "ast_a957f9c610744afa97916767ae96f3d2",
-          "team_name": "奥伦堡",
           "value": 2
         }
       ]
@@ -5901,7 +5901,7 @@
         "match_id": "as_04f208314a3b490887839fdea9c2bc29",
         "date": "2026-10-25",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -5913,15 +5913,13 @@
           "name": "斯巴达克莫斯科",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea"
         },
-        "ht_score": "-",
-        "venue": "VEB竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c3d7fbc4c4e249eeb086caf020abe0db",
         "date": "2026-10-25",
         "time": "10:45",
-        "status": "Not Started",
+        "status": "10:45",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -5933,15 +5931,13 @@
           "name": "莫斯科火车头",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d"
         },
-        "ht_score": "-",
-        "venue": "罗斯托夫竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4ab94b5864e748d596d2e155b9a496b9",
         "date": "2026-10-25",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -5953,9 +5949,7 @@
           "name": "马哈奇卡拉迪纳摩",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee"
         },
-        "ht_score": "-",
-        "venue": "天然气工业竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3f20e3d70e0545cab33a3e5e2a7a17d5",
@@ -6033,7 +6027,7 @@
         "match_id": "as_5b3f7bd5f5c143baa6ec4746a4cebdca",
         "date": "2026-10-23",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -6045,7 +6039,10 @@
           "name": "奥伦堡",
           "team_id": "ast_a957f9c610744afa97916767ae96f3d2"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8af5df52241541b3af222652efc9cd29",
@@ -8701,7 +8698,7 @@
         "match_id": "as_4ab94b5864e748d596d2e155b9a496b9",
         "date": "2026-10-25",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -8713,15 +8710,13 @@
           "name": "马哈奇卡拉迪纳摩",
           "team_id": "ast_e8c0e06cce804e56b5e206b205d1b6ee"
         },
-        "ht_score": "-",
-        "venue": "天然气工业竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c3d7fbc4c4e249eeb086caf020abe0db",
         "date": "2026-10-25",
         "time": "10:45",
-        "status": "Not Started",
+        "status": "10:45",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -8733,15 +8728,13 @@
           "name": "莫斯科火车头",
           "team_id": "ast_7218f41fbdbf4281895edff8429b368d"
         },
-        "ht_score": "-",
-        "venue": "罗斯托夫竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_04f208314a3b490887839fdea9c2bc29",
         "date": "2026-10-25",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "俄罗斯超级联赛",
         "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
         "season": "2026/2027",
@@ -8753,9 +8746,7 @@
           "name": "斯巴达克莫斯科",
           "team_id": "ast_b038b41d99e143c9aba3f4b40d596fea"
         },
-        "ht_score": "-",
-        "venue": "VEB竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f23035ba679e440787247130c16e13d9",
@@ -8826,24 +8817,6 @@
         "away": {
           "name": "莫斯科迪纳摩",
           "team_id": "ast_a9ebc8961e51417190aa0913e250e639"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5b3f7bd5f5c143baa6ec4746a4cebdca",
-        "date": "2026-10-23",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "俄罗斯超级联赛",
-        "league_id": "asl_d4695c1d6d814895a7b9625b0f00eea0",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿赫马特·格罗兹尼",
-          "team_id": "ast_641b0af83604412fabe31ac29f33c8e4"
-        },
-        "away": {
-          "name": "奥伦堡",
-          "team_id": "ast_a957f9c610744afa97916767ae96f3d2"
         },
         "venue": ""
       }
@@ -14128,13 +14101,13 @@
     }
   },
   "stats": {
-    "matches_completed": 88,
-    "total_goals": 246,
-    "avg_goals_per_match": 2.8,
+    "matches_completed": 89,
+    "total_goals": 247,
+    "avg_goals_per_match": 2.78,
     "home_wins": 32,
     "draws": 30,
-    "away_wins": 26,
-    "home_win_pct": 36.4,
+    "away_wins": 27,
+    "home_win_pct": 36.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14487,6 +14460,14 @@
         "data": [
           {
             "rank": 1,
+            "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
+            "player_name": "Maksim Glushenkov",
+            "team_id": "ast_52546226be98416e80325b857e1f7547",
+            "team_name": "Zenit St. Petersburg",
+            "value": 8
+          },
+          {
+            "rank": 2,
             "player_id": "asp_75cbaba1ccfd4925ad7c52f06f01b3c9",
             "player_name": "Alexander Sobolev",
             "team_id": "ast_52546226be98416e80325b857e1f7547",
@@ -14494,20 +14475,12 @@
             "value": 8
           },
           {
-            "rank": 2,
+            "rank": 3,
             "player_id": "asp_cc3e1ece2e934e7ba7d1b4103f121b7d",
             "player_name": "Ivan Oblyakov",
             "team_id": "ast_85773ebe035c4d019a4e3f91f5e4b4f7",
             "team_name": "CSKA Moscow",
             "value": 7
-          },
-          {
-            "rank": 3,
-            "player_id": "asp_a9a6538ab51d4d18baa490d69c6861eb",
-            "player_name": "Maksim Glushenkov",
-            "team_id": "ast_52546226be98416e80325b857e1f7547",
-            "team_name": "Zenit St. Petersburg",
-            "value": 5
           }
         ],
         "meta": {
@@ -14932,7 +14905,7 @@
     "teams_all_time": 41,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 48
+    "upcoming_matches": 47
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

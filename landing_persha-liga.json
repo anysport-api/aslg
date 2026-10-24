@@ -180,6 +180,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
+        "team": "Fenix Mariupol",
+        "played": 13,
+        "wins": 7,
+        "draws": 3,
+        "losses": 3,
+        "goals_for": 20,
+        "goals_against": 13,
+        "goal_difference": 7,
+        "points": 24,
+        "form": "WWWDD"
+      },
+      {
+        "position": 3,
         "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
         "team": "Ahrobiznes Volochysk",
         "played": 12,
@@ -193,7 +207,7 @@
         "form": "WWWDW"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_0d939af663944f7892eb58c02a84d5d0",
         "team": "Kulikiv",
         "played": 12,
@@ -207,7 +221,7 @@
         "form": "DWLWL"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
         "team": "SC Poltava",
         "played": 12,
@@ -219,20 +233,6 @@
         "goal_difference": 12,
         "points": 21,
         "form": "WLWLW"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
-        "team": "Fenix Mariupol",
-        "played": 12,
-        "wins": 6,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 18,
-        "goals_against": 13,
-        "goal_difference": 5,
-        "points": 21,
-        "form": "WWDDW"
       },
       {
         "position": 6,
@@ -280,15 +280,15 @@
         "position": 9,
         "team_id": "ast_2b62e8fb423a46f6bfe5f7bbc01298f5",
         "team": "Metalist Kharkiv",
-        "played": 12,
+        "played": 13,
         "wins": 4,
         "draws": 3,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 13,
-        "goals_against": 14,
-        "goal_difference": -1,
+        "goals_against": 16,
+        "goal_difference": -3,
         "points": 15,
-        "form": "LDDWL"
+        "form": "LLDDW"
       },
       {
         "position": 10,
@@ -407,6 +407,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
+        "team": "马里乌波尔费尼克斯",
+        "played": 13,
+        "wins": 7,
+        "draws": 3,
+        "losses": 3,
+        "goals_for": 20,
+        "goals_against": 13,
+        "goal_difference": 7,
+        "points": 24,
+        "form": "WWWDD",
+        "form_label": "胜胜胜平平"
+      },
+      {
+        "position": 3,
         "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
         "team": "阿赫罗比兹涅斯沃洛奇斯克",
         "played": 12,
@@ -421,7 +436,7 @@
         "form_label": "胜胜胜平胜"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_0d939af663944f7892eb58c02a84d5d0",
         "team": "库利基夫",
         "played": 12,
@@ -436,7 +451,7 @@
         "form_label": "平胜负胜负"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
         "team": "波尔塔瓦",
         "played": 12,
@@ -449,21 +464,6 @@
         "points": 21,
         "form": "WLWLW",
         "form_label": "胜负胜负胜"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
-        "team": "马里乌波尔费尼克斯",
-        "played": 12,
-        "wins": 6,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 18,
-        "goals_against": 13,
-        "goal_difference": 5,
-        "points": 21,
-        "form": "WWDDW",
-        "form_label": "胜胜平平胜"
       },
       {
         "position": 6,
@@ -514,16 +514,16 @@
         "position": 9,
         "team_id": "ast_2b62e8fb423a46f6bfe5f7bbc01298f5",
         "team": "梅塔利斯特哈尔科夫",
-        "played": 12,
+        "played": 13,
         "wins": 4,
         "draws": 3,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 13,
-        "goals_against": 14,
-        "goal_difference": -1,
+        "goals_against": 16,
+        "goal_difference": -3,
         "points": 15,
-        "form": "LDDWL",
-        "form_label": "负平平胜负"
+        "form": "LLDDW",
+        "form_label": "负负平平胜"
       },
       {
         "position": 10,
@@ -3352,21 +3352,21 @@
       {
         "match_id": "as_75973cd0a3544b79a25419d97d999dcc",
         "date": "2026-10-31",
-        "time": "11:30",
+        "time": "10:00",
         "status": "Not Started",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
         "home": {
-          "name": "波尔塔瓦",
-          "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3"
-        },
-        "away": {
           "name": "维克托利亚",
           "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d"
         },
+        "away": {
+          "name": "波尔塔瓦",
+          "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3"
+        },
         "ht_score": "-",
-        "venue": "Lokomotyv Stadium",
+        "venue": "Yuvileiny Stadium",
         "status_label": "未开赛"
       },
       {
@@ -3393,7 +3393,7 @@
         "match_id": "as_d82034e4e6cc4d149f0c114c0b43fde2",
         "date": "2026-10-25",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3405,15 +3405,13 @@
           "name": "科洛斯科瓦利夫卡2",
           "team_id": "ast_02c2906fb3d44ea28647a866d9323ead"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4308e4f413604acc8ec1c449f2c25ca2",
         "date": "2026-10-25",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3425,15 +3423,13 @@
           "name": "库利基夫",
           "team_id": "ast_0d939af663944f7892eb58c02a84d5d0"
         },
-        "ht_score": "-",
-        "venue": "Ternopilsky Misky Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ca26a902ff3b419099e5fb46fa559e6e",
         "date": "2026-10-25",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3445,9 +3441,7 @@
           "name": "基辅火车头",
           "team_id": "ast_027a6d3e34e94621be7cf6e56f525e0c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a28f4a052f974924a021603d5018145f",
@@ -3507,7 +3501,7 @@
         "match_id": "as_e96eda5454c6437ca02cf511f868bbc7",
         "date": "2026-10-23",
         "time": "08:00",
-        "status": "08:00",
+        "status": "Postp.",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3519,13 +3513,14 @@
           "name": "阿赫罗比兹涅斯沃洛奇斯克",
           "team_id": "ast_edaca8e52e8d4243871a93a209e69834"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_a5fb9920b44e4a739b9a1fd196c7a82e",
         "date": "2026-10-23",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3537,7 +3532,10 @@
           "name": "马里乌波尔费尼克斯",
           "team_id": "ast_d49d6520ebde4bc0862273a4c6634364"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ca7556e078b14b099163b1ab3dc63e0c",
@@ -6299,21 +6297,21 @@
       {
         "match_id": "as_75973cd0a3544b79a25419d97d999dcc",
         "date": "2026-10-31",
-        "time": "11:30",
+        "time": "10:00",
         "status": "Not Started",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
         "home": {
-          "name": "波尔塔瓦",
-          "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3"
-        },
-        "away": {
           "name": "维克托利亚",
           "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d"
         },
+        "away": {
+          "name": "波尔塔瓦",
+          "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3"
+        },
         "ht_score": "-",
-        "venue": "Lokomotyv Stadium",
+        "venue": "Yuvileiny Stadium",
         "status_label": "未开赛"
       },
       {
@@ -6360,7 +6358,7 @@
         "match_id": "as_ca26a902ff3b419099e5fb46fa559e6e",
         "date": "2026-10-25",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6372,15 +6370,13 @@
           "name": "基辅火车头",
           "team_id": "ast_027a6d3e34e94621be7cf6e56f525e0c"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4308e4f413604acc8ec1c449f2c25ca2",
         "date": "2026-10-25",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6392,15 +6388,13 @@
           "name": "库利基夫",
           "team_id": "ast_0d939af663944f7892eb58c02a84d5d0"
         },
-        "ht_score": "-",
-        "venue": "Ternopilsky Misky Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d82034e4e6cc4d149f0c114c0b43fde2",
         "date": "2026-10-25",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6412,9 +6406,7 @@
           "name": "科洛斯科瓦利夫卡2",
           "team_id": "ast_02c2906fb3d44ea28647a866d9323ead"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4b136df67ff74aa8a3baf11e3f9d32cd",
@@ -6467,42 +6459,6 @@
         "away": {
           "name": "霍罗登卡",
           "team_id": "ast_b73716c503144997aaa07d0c4abc0cb4"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a5fb9920b44e4a739b9a1fd196c7a82e",
-        "date": "2026-10-23",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "乌克兰甲级联赛",
-        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
-        "season": "2026/2027",
-        "home": {
-          "name": "梅塔利斯特哈尔科夫",
-          "team_id": "ast_2b62e8fb423a46f6bfe5f7bbc01298f5"
-        },
-        "away": {
-          "name": "马里乌波尔费尼克斯",
-          "team_id": "ast_d49d6520ebde4bc0862273a4c6634364"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e96eda5454c6437ca02cf511f868bbc7",
-        "date": "2026-10-23",
-        "time": "08:00",
-        "status": "08:00",
-        "league": "乌克兰甲级联赛",
-        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
-        "season": "2026/2027",
-        "home": {
-          "name": "切尔尼戈夫",
-          "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f"
-        },
-        "away": {
-          "name": "阿赫罗比兹涅斯沃洛奇斯克",
-          "team_id": "ast_edaca8e52e8d4243871a93a209e69834"
         },
         "venue": ""
       }
@@ -9048,13 +9004,13 @@
     }
   },
   "stats": {
-    "matches_completed": 95,
-    "total_goals": 248,
-    "avg_goals_per_match": 2.61,
+    "matches_completed": 96,
+    "total_goals": 250,
+    "avg_goals_per_match": 2.6,
     "home_wins": 42,
     "draws": 28,
-    "away_wins": 25,
-    "home_win_pct": 44.2,
+    "away_wins": 26,
+    "home_win_pct": 43.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9191,6 +9147,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
+            "team": "Fenix Mariupol",
+            "played": 13,
+            "wins": 7,
+            "draws": 3,
+            "losses": 3,
+            "goals_for": 20,
+            "goals_against": 13,
+            "goal_difference": 7,
+            "points": 24,
+            "form": "WWWDD"
+          },
+          {
+            "position": 3,
             "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
             "team": "Ahrobiznes Volochysk",
             "played": 12,
@@ -9202,20 +9172,6 @@
             "goal_difference": 5,
             "points": 23,
             "form": "WWWDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_0d939af663944f7892eb58c02a84d5d0",
-            "team": "Kulikiv",
-            "played": 12,
-            "wins": 6,
-            "draws": 3,
-            "losses": 3,
-            "goals_for": 25,
-            "goals_against": 14,
-            "goal_difference": 11,
-            "points": 21,
-            "form": "DWLWL"
           }
         ],
         "meta": {
@@ -9873,7 +9829,7 @@
     "teams_all_time": 54,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 49
+    "upcoming_matches": 47
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

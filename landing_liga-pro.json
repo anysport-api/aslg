@@ -168,15 +168,15 @@
         "position": 1,
         "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
         "team": "Ind. del Valle",
-        "played": 32,
+        "played": 33,
         "wins": 25,
-        "draws": 2,
+        "draws": 3,
         "losses": 5,
         "goals_for": 75,
         "goals_against": 35,
         "goal_difference": 40,
-        "points": 77,
-        "form": "LWWWL"
+        "points": 78,
+        "form": "DLWWW"
       },
       {
         "position": 2,
@@ -194,6 +194,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
+        "team": "U. Catolica",
+        "played": 34,
+        "wins": 14,
+        "draws": 11,
+        "losses": 9,
+        "goals_for": 53,
+        "goals_against": 31,
+        "goal_difference": 22,
+        "points": 53,
+        "form": "DDLLW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_5786f46e30044153862cd8eca62a0556",
         "team": "LDU Quito",
         "played": 33,
@@ -205,20 +219,6 @@
         "goal_difference": 9,
         "points": 53,
         "form": "DWWDW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
-        "team": "U. Catolica",
-        "played": 33,
-        "wins": 14,
-        "draws": 10,
-        "losses": 9,
-        "goals_for": 53,
-        "goals_against": 31,
-        "goal_difference": 22,
-        "points": 52,
-        "form": "DLLWW"
       },
       {
         "position": 5,
@@ -393,16 +393,16 @@
         "position": 1,
         "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
         "team": "独立谷",
-        "played": 32,
+        "played": 33,
         "wins": 25,
-        "draws": 2,
+        "draws": 3,
         "losses": 5,
         "goals_for": 75,
         "goals_against": 35,
         "goal_difference": 40,
-        "points": 77,
-        "form": "LWWWL",
-        "form_label": "负胜胜胜负"
+        "points": 78,
+        "form": "DLWWW",
+        "form_label": "平负胜胜胜"
       },
       {
         "position": 2,
@@ -421,6 +421,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
+        "team": "天主教大学",
+        "played": 34,
+        "wins": 14,
+        "draws": 11,
+        "losses": 9,
+        "goals_for": 53,
+        "goals_against": 31,
+        "goal_difference": 22,
+        "points": 53,
+        "form": "DDLLW",
+        "form_label": "平平负负胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_5786f46e30044153862cd8eca62a0556",
         "team": "LDU 基多",
         "played": 33,
@@ -433,21 +448,6 @@
         "points": 53,
         "form": "DWWDW",
         "form_label": "平胜胜平胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_1c319b291950451a9e1336bceac0af07",
-        "team": "天主教大学",
-        "played": 33,
-        "wins": 14,
-        "draws": 10,
-        "losses": 9,
-        "goals_for": 53,
-        "goals_against": 31,
-        "goal_difference": 22,
-        "points": 52,
-        "form": "DLLWW",
-        "form_label": "平负负胜胜"
       },
       {
         "position": 5,
@@ -1577,7 +1577,7 @@
         "match_id": "as_d910b736a30344fc8e30af1d22edfbe3",
         "date": "2026-10-23",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -1589,7 +1589,10 @@
           "name": "天主教大学",
           "team_id": "ast_1c319b291950451a9e1336bceac0af07"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d30ee5c65b5b45e4bcbfe40121ddb85d",
@@ -7940,24 +7943,6 @@
           "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_d910b736a30344fc8e30af1d22edfbe3",
-        "date": "2026-10-23",
-        "time": "20:30",
-        "status": "20:30",
-        "league": "厄瓜多尔职业联赛",
-        "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
-        "season": "2026",
-        "home": {
-          "name": "独立谷",
-          "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
-        },
-        "away": {
-          "name": "天主教大学",
-          "team_id": "ast_1c319b291950451a9e1336bceac0af07"
-        },
-        "venue": ""
       }
     ]
   },
@@ -12635,13 +12620,13 @@
     }
   },
   "stats": {
-    "matches_completed": 263,
+    "matches_completed": 264,
     "total_goals": 606,
     "avg_goals_per_match": 2.3,
     "home_wins": 125,
-    "draws": 65,
+    "draws": 66,
     "away_wins": 73,
-    "home_win_pct": 47.5,
+    "home_win_pct": 47.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12668,8 +12653,8 @@
     },
     "leader": {
       "team": "Ind. del Valle",
-      "points": 77,
-      "played": 32
+      "points": 78,
+      "played": 33
     }
   },
   "coverage": {
@@ -12766,15 +12751,15 @@
             "position": 1,
             "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
             "team": "Ind. del Valle",
-            "played": 32,
+            "played": 33,
             "wins": 25,
-            "draws": 2,
+            "draws": 3,
             "losses": 5,
             "goals_for": 75,
             "goals_against": 35,
             "goal_difference": 40,
-            "points": 77,
-            "form": "LWWWL"
+            "points": 78,
+            "form": "DLWWW"
           },
           {
             "position": 2,
@@ -12792,17 +12777,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_5786f46e30044153862cd8eca62a0556",
-            "team": "LDU Quito",
-            "played": 33,
-            "wins": 15,
-            "draws": 8,
-            "losses": 10,
-            "goals_for": 36,
-            "goals_against": 27,
-            "goal_difference": 9,
+            "team_id": "ast_1c319b291950451a9e1336bceac0af07",
+            "team": "U. Catolica",
+            "played": 34,
+            "wins": 14,
+            "draws": 11,
+            "losses": 9,
+            "goals_for": 53,
+            "goals_against": 31,
+            "goal_difference": 22,
             "points": 53,
-            "form": "DWWDW"
+            "form": "DDLLW"
           }
         ],
         "meta": {
@@ -13457,7 +13442,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 16,
     "matches_current_season": 312,
-    "upcoming_matches": 42
+    "upcoming_matches": 41
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

@@ -206,15 +206,15 @@
         "position": 2,
         "team_id": "ast_3eb6b1470177483082f57778184dc419",
         "team": "Polonia Warszawa",
-        "played": 11,
+        "played": 12,
         "wins": 6,
-        "draws": 2,
+        "draws": 3,
         "losses": 3,
-        "goals_for": 18,
-        "goals_against": 13,
+        "goals_for": 19,
+        "goals_against": 14,
         "goal_difference": 5,
-        "points": 20,
-        "form": "WWWDL"
+        "points": 21,
+        "form": "DWWWD"
       },
       {
         "position": 3,
@@ -246,6 +246,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_8f1717a49e1c4c8e8bbf2715f71dfc24",
+        "team": "Legnica",
+        "played": 12,
+        "wins": 5,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 18,
+        "goals_against": 11,
+        "goal_difference": 7,
+        "points": 18,
+        "form": "DWLLL"
+      },
+      {
+        "position": 6,
         "team_id": "ast_2a4432d2936541feabc4aa2f7be1907a",
         "team": "Warta Poznan",
         "played": 11,
@@ -259,7 +273,7 @@
         "form": "WLWWL"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_75d40ce70cd048f9929711ef9c2de0c3",
         "team": "LKS Lodz",
         "played": 11,
@@ -273,7 +287,7 @@
         "form": "WLLWD"
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "ast_30c9c77d487241918c01fa75af6f0c44",
         "team": "Ruch Chorzow",
         "played": 11,
@@ -285,20 +299,6 @@
         "goal_difference": 3,
         "points": 18,
         "form": "WWDDW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_8f1717a49e1c4c8e8bbf2715f71dfc24",
-        "team": "Legnica",
-        "played": 11,
-        "wins": 5,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 17,
-        "goals_against": 10,
-        "goal_difference": 7,
-        "points": 17,
-        "form": "WLLLD"
       },
       {
         "position": 9,
@@ -461,16 +461,16 @@
         "position": 2,
         "team_id": "ast_3eb6b1470177483082f57778184dc419",
         "team": "波兰尼亚·华沙",
-        "played": 11,
+        "played": 12,
         "wins": 6,
-        "draws": 2,
+        "draws": 3,
         "losses": 3,
-        "goals_for": 18,
-        "goals_against": 13,
+        "goals_for": 19,
+        "goals_against": 14,
         "goal_difference": 5,
-        "points": 20,
-        "form": "WWWDL",
-        "form_label": "胜胜胜平负"
+        "points": 21,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
       },
       {
         "position": 3,
@@ -504,6 +504,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_8f1717a49e1c4c8e8bbf2715f71dfc24",
+        "team": "莱格尼察",
+        "played": 12,
+        "wins": 5,
+        "draws": 3,
+        "losses": 4,
+        "goals_for": 18,
+        "goals_against": 11,
+        "goal_difference": 7,
+        "points": 18,
+        "form": "DWLLL",
+        "form_label": "平胜负负负"
+      },
+      {
+        "position": 6,
         "team_id": "ast_2a4432d2936541feabc4aa2f7be1907a",
         "team": "瓦尔塔波兹南",
         "played": 11,
@@ -518,7 +533,7 @@
         "form_label": "胜负胜胜负"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_75d40ce70cd048f9929711ef9c2de0c3",
         "team": "LKS 罗兹",
         "played": 11,
@@ -533,7 +548,7 @@
         "form_label": "胜负负胜平"
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "ast_30c9c77d487241918c01fa75af6f0c44",
         "team": "鲁赫·霍尔佐夫",
         "played": 11,
@@ -546,21 +561,6 @@
         "points": 18,
         "form": "WWDDW",
         "form_label": "胜胜平平胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_8f1717a49e1c4c8e8bbf2715f71dfc24",
-        "team": "莱格尼察",
-        "played": 11,
-        "wins": 5,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 17,
-        "goals_against": 10,
-        "goal_difference": 7,
-        "points": 17,
-        "form": "WLLLD",
-        "form_label": "胜负负负平"
       },
       {
         "position": 9,
@@ -4715,7 +4715,7 @@
         "match_id": "as_0019e57d0e934f699c36d401c6c6e5dd",
         "date": "2026-10-25",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -4727,15 +4727,13 @@
           "name": "波贡谢德尔采",
           "team_id": "ast_b0a7b0c541d24169a32822a292c4ae4e"
         },
-        "ht_score": "-",
-        "venue": "Itaka球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b47b2e475e9641869e95823b64656a1b",
         "date": "2026-10-25",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -4747,15 +4745,13 @@
           "name": "热什佐夫",
           "team_id": "ast_609d1cae7af64f06a63d7c8870bbf51a"
         },
-        "ht_score": "-",
-        "venue": "Stadion Miejski w Bielsku Bialej",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c5a640994d144f368cc984309a516f2a",
         "date": "2026-10-25",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -4767,9 +4763,7 @@
           "name": "格罗兹伊斯克M.",
           "team_id": "ast_745a03336d2c461c9124d78ed873d3f6"
         },
-        "ht_score": "-",
-        "venue": "Superauto.pl Stadion Slaski",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fa6597a0c0bd4fc0a4ab09a6f28cddc9",
@@ -4847,7 +4841,7 @@
         "match_id": "as_747c1ceb5adb4f13a89384723486299e",
         "date": "2026-10-23",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -4859,7 +4853,10 @@
           "name": "莱格尼察",
           "team_id": "ast_8f1717a49e1c4c8e8bbf2715f71dfc24"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a0887631980142e3976a3e64e3bc47f5",
@@ -7866,7 +7863,7 @@
         "match_id": "as_c5a640994d144f368cc984309a516f2a",
         "date": "2026-10-25",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -7878,15 +7875,13 @@
           "name": "格罗兹伊斯克M.",
           "team_id": "ast_745a03336d2c461c9124d78ed873d3f6"
         },
-        "ht_score": "-",
-        "venue": "Superauto.pl Stadion Slaski",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b47b2e475e9641869e95823b64656a1b",
         "date": "2026-10-25",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -7898,15 +7893,13 @@
           "name": "热什佐夫",
           "team_id": "ast_609d1cae7af64f06a63d7c8870bbf51a"
         },
-        "ht_score": "-",
-        "venue": "Stadion Miejski w Bielsku Bialej",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0019e57d0e934f699c36d401c6c6e5dd",
         "date": "2026-10-25",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -7918,9 +7911,7 @@
           "name": "波贡谢德尔采",
           "team_id": "ast_b0a7b0c541d24169a32822a292c4ae4e"
         },
-        "ht_score": "-",
-        "venue": "Itaka球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e199ee5c9421441a93188d59529d0984",
@@ -14630,13 +14621,13 @@
     }
   },
   "stats": {
-    "matches_completed": 99,
-    "total_goals": 272,
-    "avg_goals_per_match": 2.75,
+    "matches_completed": 100,
+    "total_goals": 274,
+    "avg_goals_per_match": 2.74,
     "home_wins": 44,
-    "draws": 24,
+    "draws": 25,
     "away_wins": 31,
-    "home_win_pct": 44.4,
+    "home_win_pct": 44.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14775,15 +14766,15 @@
             "position": 2,
             "team_id": "ast_3eb6b1470177483082f57778184dc419",
             "team": "Polonia Warszawa",
-            "played": 11,
+            "played": 12,
             "wins": 6,
-            "draws": 2,
+            "draws": 3,
             "losses": 3,
-            "goals_for": 18,
-            "goals_against": 13,
+            "goals_for": 19,
+            "goals_against": 14,
             "goal_difference": 5,
-            "points": 20,
-            "form": "WWWDL"
+            "points": 21,
+            "form": "DWWWD"
           },
           {
             "position": 3,
@@ -15436,5 +15427,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

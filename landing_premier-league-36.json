@@ -8700,6 +8700,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_037ad27ff2e4428fa14446afce7c8a28",
+        "date": "2026-12-08",
+        "time": "12:00",
+        "status": "Not Started",
+        "league": "埃塞俄比亚超级联赛",
+        "league_id": "asl_05038bb9232f4a74bce7292d364d648a",
+        "season": "2026/2027",
+        "home": {
+          "name": "梅查尔",
+          "team_id": "ast_ebb2b6719cd44979be95836b5bfbdf6e"
+        },
+        "away": {
+          "name": "Halaba Ketema",
+          "team_id": "ast_d3fbc92e8d3949c39d7d5f7703cd5594"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_919d820460224784b691f227ee84440f",
         "date": "2026-12-06",
         "time": "12:00",
@@ -9563,7 +9583,7 @@
         "match_id": "as_119d74bfe22941af922535b2861b9ad3",
         "date": "2026-10-30",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "埃塞俄比亚超级联赛",
         "league_id": "asl_05038bb9232f4a74bce7292d364d648a",
         "season": "2026/2027",
@@ -9575,15 +9595,13 @@
           "name": "内格勒阿尔西凯特马",
           "team_id": "ast_7188ea79ce1f44fe8fa1b655a114b504"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f01c9a3bba4b4e668fd76a062092a687",
         "date": "2026-10-30",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "埃塞俄比亚超级联赛",
         "league_id": "asl_05038bb9232f4a74bce7292d364d648a",
         "season": "2026/2027",
@@ -9595,9 +9613,7 @@
           "name": "哈迪亚 霍萨纳",
           "team_id": "ast_b886a447247b442ba3567162e4d6fc92"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0ea2f6e896fa4a84b84f6f8f7305f338",
@@ -9668,24 +9684,6 @@
         "away": {
           "name": "阿达马城",
           "team_id": "ast_629e48a4e3f54784b0dc6fb6ea19c0a3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_aebceaf987774d629fe1898eb171497e",
-        "date": "2026-10-25",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "埃塞俄比亚超级联赛",
-        "league_id": "asl_05038bb9232f4a74bce7292d364d648a",
-        "season": "2026/2027",
-        "home": {
-          "name": "Gamo Chencha",
-          "team_id": "ast_22d38ad32be7489e87173949e3631fb7"
-        },
-        "away": {
-          "name": "埃塞俄比亚尼格德银行",
-          "team_id": "ast_b58d5d86e3ad4b63a4ce071bf10e5b6f"
         },
         "venue": ""
       }
@@ -11677,5 +11675,5 @@
     "matches_current_season": 380,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

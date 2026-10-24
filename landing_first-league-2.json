@@ -258,31 +258,31 @@
       },
       {
         "position": 5,
-        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
-        "team": "Shkendija Haracine",
-        "played": 10,
+        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
+        "team": "Sileks",
+        "played": 11,
         "wins": 4,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 7,
-        "goals_against": 12,
-        "goal_difference": -5,
-        "points": 14,
-        "form": "LDLWW"
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 19,
+        "goals_against": 11,
+        "goal_difference": 8,
+        "points": 16,
+        "form": "WWDDD"
       },
       {
         "position": 6,
-        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
-        "team": "Sileks",
-        "played": 10,
-        "wins": 3,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 11,
-        "goal_difference": 6,
-        "points": 13,
-        "form": "WDDDL"
+        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
+        "team": "Shkendija Haracine",
+        "played": 11,
+        "wins": 4,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 7,
+        "goals_against": 14,
+        "goal_difference": -7,
+        "points": 14,
+        "form": "LLDLW"
       },
       {
         "position": 7,
@@ -404,33 +404,33 @@
       },
       {
         "position": 5,
-        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
-        "team": "什肯迪亚哈拉奇",
-        "played": 10,
+        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
+        "team": "西莱克斯",
+        "played": 11,
         "wins": 4,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 7,
-        "goals_against": 12,
-        "goal_difference": -5,
-        "points": 14,
-        "form": "LDLWW",
-        "form_label": "负平负胜胜"
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 19,
+        "goals_against": 11,
+        "goal_difference": 8,
+        "points": 16,
+        "form": "WWDDD",
+        "form_label": "胜胜平平平"
       },
       {
         "position": 6,
-        "team_id": "ast_2ccb80939ca744f899eab89afe738e64",
-        "team": "西莱克斯",
-        "played": 10,
-        "wins": 3,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 11,
-        "goal_difference": 6,
-        "points": 13,
-        "form": "WDDDL",
-        "form_label": "胜平平平负"
+        "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de",
+        "team": "什肯迪亚哈拉奇",
+        "played": 11,
+        "wins": 4,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 7,
+        "goals_against": 14,
+        "goal_difference": -7,
+        "points": 14,
+        "form": "LLDLW",
+        "form_label": "负负平负胜"
       },
       {
         "position": 7,
@@ -1215,7 +1215,7 @@
         "match_id": "as_18843fec6b9d48ba95aa46b622f029fa",
         "date": "2026-10-25",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1227,15 +1227,13 @@
           "name": "斯蒂普布雷加尔尼察",
           "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e7dbce0522fb41ca87f9f9c9091cfb26",
         "date": "2026-10-25",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1247,9 +1245,7 @@
           "name": "巴什基米",
           "team_id": "ast_3956e9917d7d47f1b7340de4964b936e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b6eb8e66f98e4c9eb9d5623be7661d29",
@@ -1291,7 +1287,7 @@
         "match_id": "as_6cff7789cbdf42859b0513b90931c6ed",
         "date": "2026-10-23",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -1303,7 +1299,10 @@
           "name": "什肯迪亚哈拉奇",
           "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8dc00a9c233a4d5dae7910a41d090a7d",
@@ -2961,7 +2960,7 @@
         "match_id": "as_e7dbce0522fb41ca87f9f9c9091cfb26",
         "date": "2026-10-25",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -2973,15 +2972,13 @@
           "name": "巴什基米",
           "team_id": "ast_3956e9917d7d47f1b7340de4964b936e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_18843fec6b9d48ba95aa46b622f029fa",
         "date": "2026-10-25",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -2993,9 +2990,7 @@
           "name": "斯蒂普布雷加尔尼察",
           "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5b9967c95af340ea9a0a033d4461936d",
@@ -3030,24 +3025,6 @@
         "away": {
           "name": "瓦尔达尔",
           "team_id": "ast_8b6077284f384712b80402b56942c716"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6cff7789cbdf42859b0513b90931c6ed",
-        "date": "2026-10-23",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "西莱克斯",
-          "team_id": "ast_2ccb80939ca744f899eab89afe738e64"
-        },
-        "away": {
-          "name": "什肯迪亚哈拉奇",
-          "team_id": "ast_442db42fa60a4e3db37634a92e2fd3de"
         },
         "venue": ""
       }
@@ -7128,13 +7105,13 @@
     }
   },
   "stats": {
-    "matches_completed": 50,
-    "total_goals": 141,
-    "avg_goals_per_match": 2.82,
-    "home_wins": 23,
+    "matches_completed": 51,
+    "total_goals": 143,
+    "avg_goals_per_match": 2.8,
+    "home_wins": 24,
     "draws": 13,
     "away_wins": 14,
-    "home_win_pct": 46.0,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7932,7 +7909,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 35
+    "upcoming_matches": 34
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

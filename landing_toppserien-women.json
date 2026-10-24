@@ -150,15 +150,15 @@
         "position": 7,
         "team_id": "ast_804aee801a974837a073a16525aa1d89",
         "team": "Haugesund W",
-        "played": 19,
-        "wins": 6,
+        "played": 20,
+        "wins": 7,
         "draws": 3,
         "losses": 10,
-        "goals_for": 27,
-        "goals_against": 44,
-        "goal_difference": -17,
-        "points": 21,
-        "form": "WLWLL"
+        "goals_for": 29,
+        "goals_against": 45,
+        "goal_difference": -16,
+        "points": 24,
+        "form": "WWLWL"
       },
       {
         "position": 8,
@@ -220,15 +220,15 @@
         "position": 12,
         "team_id": "ast_58784c66eb264fefa2105c7b0b8e4494",
         "team": "Bodo/Glimt W",
-        "played": 19,
+        "played": 20,
         "wins": 1,
         "draws": 3,
-        "losses": 15,
-        "goals_for": 12,
-        "goals_against": 72,
-        "goal_difference": -60,
+        "losses": 16,
+        "goals_for": 13,
+        "goals_against": 74,
+        "goal_difference": -61,
         "points": 6,
-        "form": "LLWLL"
+        "form": "LLLWL"
       }
     ],
     "zh": [
@@ -326,16 +326,16 @@
         "position": 7,
         "team_id": "ast_804aee801a974837a073a16525aa1d89",
         "team": "豪戈松女足",
-        "played": 19,
-        "wins": 6,
+        "played": 20,
+        "wins": 7,
         "draws": 3,
         "losses": 10,
-        "goals_for": 27,
-        "goals_against": 44,
-        "goal_difference": -17,
-        "points": 21,
-        "form": "WLWLL",
-        "form_label": "胜负胜负负"
+        "goals_for": 29,
+        "goals_against": 45,
+        "goal_difference": -16,
+        "points": 24,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
       },
       {
         "position": 8,
@@ -401,16 +401,16 @@
         "position": 12,
         "team_id": "ast_58784c66eb264fefa2105c7b0b8e4494",
         "team": "博多/格林特",
-        "played": 19,
+        "played": 20,
         "wins": 1,
         "draws": 3,
-        "losses": 15,
-        "goals_for": 12,
-        "goals_against": 72,
-        "goal_difference": -60,
+        "losses": 16,
+        "goals_for": 13,
+        "goals_against": 74,
+        "goal_difference": -61,
         "points": 6,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       }
     ]
   },
@@ -765,7 +765,7 @@
         "match_id": "as_d382d7b8441549f0b5dbdc4945174cea",
         "date": "2026-10-23",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "挪威女子顶级联赛",
         "league_id": "asl_f291671fc16749498646a9b7f70a6814",
         "season": "2026",
@@ -777,9 +777,10 @@
           "name": "豪戈松女足",
           "team_id": "ast_804aee801a974837a073a16525aa1d89"
         },
-        "ht_score": "-",
-        "venue": "阿斯普米拉体育场",
-        "status_label": "未开赛"
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ded272dcc1764824881a293fb77a7123",
@@ -3506,26 +3507,6 @@
           "team_id": "ast_8f3a46ad574c4d8e93da41957427e236"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_d382d7b8441549f0b5dbdc4945174cea",
-        "date": "2026-10-23",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "挪威女子顶级联赛",
-        "league_id": "asl_f291671fc16749498646a9b7f70a6814",
-        "season": "2026",
-        "home": {
-          "name": "博多/格林特",
-          "team_id": "ast_58784c66eb264fefa2105c7b0b8e4494"
-        },
-        "away": {
-          "name": "豪戈松女足",
-          "team_id": "ast_804aee801a974837a073a16525aa1d89"
-        },
-        "ht_score": "-",
-        "venue": "阿斯普米拉体育场",
-        "status_label": "未开赛"
       }
     ]
   },
@@ -4268,13 +4249,13 @@
     }
   },
   "stats": {
-    "matches_completed": 114,
-    "total_goals": 378,
-    "avg_goals_per_match": 3.32,
+    "matches_completed": 115,
+    "total_goals": 381,
+    "avg_goals_per_match": 3.31,
     "home_wins": 46,
     "draws": 21,
-    "away_wins": 47,
-    "home_win_pct": 40.4,
+    "away_wins": 48,
+    "home_win_pct": 40.0,
     "biggest_win": {
       "margin": 9,
       "match": {
@@ -5072,7 +5053,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 18
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

@@ -196,6 +196,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d",
+        "team": "Cancun",
+        "played": 14,
+        "wins": 6,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 26,
+        "goals_against": 18,
+        "goal_difference": 8,
+        "points": 22,
+        "form": "WDDWL"
+      },
+      {
+        "position": 5,
         "team_id": "ast_e5e92a72234f4af8b3631c917bcce171",
         "team": "Piratas",
         "played": 13,
@@ -209,7 +223,7 @@
         "form": "WLWLW"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_4895b318140c4a23a33c95ccca00ed22",
         "team": "Venados",
         "played": 13,
@@ -223,7 +237,7 @@
         "form": "DDWWL"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_e124e8f0060149b596865fb9feb1cdc3",
         "team": "Alacranes de Durango",
         "played": 13,
@@ -235,20 +249,6 @@
         "goal_difference": 5,
         "points": 21,
         "form": "WDWWW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d",
-        "team": "Cancun",
-        "played": 13,
-        "wins": 5,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 22,
-        "goals_against": 18,
-        "goal_difference": 4,
-        "points": 19,
-        "form": "DDWLW"
       },
       {
         "position": 8,
@@ -366,15 +366,15 @@
         "position": 16,
         "team_id": "ast_0d421f4968464ddc92d8387c1842419d",
         "team": "Tepatitlan de Morelos",
-        "played": 13,
+        "played": 14,
         "wins": 2,
         "draws": 1,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 10,
-        "goals_against": 37,
-        "goal_difference": -27,
+        "goals_against": 41,
+        "goal_difference": -31,
         "points": 7,
-        "form": "LLDWL"
+        "form": "LLLDW"
       }
     ],
     "zh": [
@@ -425,6 +425,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d",
+        "team": "坎昆",
+        "played": 14,
+        "wins": 6,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 26,
+        "goals_against": 18,
+        "goal_difference": 8,
+        "points": 22,
+        "form": "WDDWL",
+        "form_label": "胜平平胜负"
+      },
+      {
+        "position": 5,
         "team_id": "ast_e5e92a72234f4af8b3631c917bcce171",
         "team": "海盗队",
         "played": 13,
@@ -439,7 +454,7 @@
         "form_label": "胜负胜负胜"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_4895b318140c4a23a33c95ccca00ed22",
         "team": "维纳多斯",
         "played": 13,
@@ -454,7 +469,7 @@
         "form_label": "平平胜胜负"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_e124e8f0060149b596865fb9feb1cdc3",
         "team": "杜兰戈阿拉克兰斯",
         "played": 13,
@@ -467,21 +482,6 @@
         "points": 21,
         "form": "WDWWW",
         "form_label": "胜平胜胜胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d",
-        "team": "坎昆",
-        "played": 13,
-        "wins": 5,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 22,
-        "goals_against": 18,
-        "goal_difference": 4,
-        "points": 19,
-        "form": "DDWLW",
-        "form_label": "平平胜负胜"
       },
       {
         "position": 8,
@@ -607,16 +607,16 @@
         "position": 16,
         "team_id": "ast_0d421f4968464ddc92d8387c1842419d",
         "team": "特帕蒂特兰德莫雷洛斯",
-        "played": 13,
+        "played": 14,
         "wins": 2,
         "draws": 1,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 10,
-        "goals_against": 37,
-        "goal_difference": -27,
+        "goals_against": 41,
+        "goal_difference": -31,
         "points": 7,
-        "form": "LLDWL",
-        "form_label": "负负平胜负"
+        "form": "LLLDW",
+        "form_label": "负负负平胜"
       }
     ]
   },
@@ -801,7 +801,7 @@
         "match_id": "as_557620ee491248b9b25089c081a654ec",
         "date": "2026-10-25",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -813,75 +813,13 @@
           "name": "科雷卡米诺斯UAT",
           "team_id": "ast_c89162f372884497817218e51a89fee4"
         },
-        "ht_score": "-",
-        "venue": "特拉维科莱体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_536a7f4091914730a02336aacab3e408",
-        "date": "2026-10-25",
-        "time": "00:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "多拉多斯",
-          "team_id": "ast_5f682ed1e4834cadbeb951a09998ce0d"
-        },
-        "away": {
-          "name": "海盗队",
-          "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
-        },
-        "ht_score": "-",
-        "venue": "埃尔恩坎托体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_3d352393da9343eabca53243611cf213",
-        "date": "2026-10-25",
-        "time": "00:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "海胆勇士",
-          "team_id": "ast_7484c9571dd54449b43f55946251834c"
-        },
-        "away": {
-          "name": "拉巴斯竞技",
-          "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
-        },
-        "ht_score": "-",
-        "venue": "塔毛利帕斯体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_1b777501422b46c097b2bc52363f7dcd",
-        "date": "2026-10-25",
-        "time": "00:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "萨卡特卡斯矿工",
-          "team_id": "ast_12efd87df3cd46cf9fd7b47bfd3e0794"
-        },
-        "away": {
-          "name": "黑狮队UdeG",
-          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
-        },
-        "ht_score": "-",
-        "venue": "卡洛斯·维加·比利亚尔瓦体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1bdbed59ad2a4463b9bbe2fe47abc617",
-        "date": "2026-10-24",
+        "date": "2026-10-25",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -893,9 +831,61 @@
           "name": "莫雷利亚竞技",
           "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
         },
-        "ht_score": "-",
-        "venue": "Estadio Akron",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_536a7f4091914730a02336aacab3e408",
+        "date": "2026-10-25",
+        "time": "02:00",
+        "status": "02:00",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
+        "season": "2026/2027",
+        "home": {
+          "name": "多拉多斯",
+          "team_id": "ast_5f682ed1e4834cadbeb951a09998ce0d"
+        },
+        "away": {
+          "name": "海盗队",
+          "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_3d352393da9343eabca53243611cf213",
+        "date": "2026-10-25",
+        "time": "02:00",
+        "status": "02:00",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
+        "season": "2026/2027",
+        "home": {
+          "name": "海胆勇士",
+          "team_id": "ast_7484c9571dd54449b43f55946251834c"
+        },
+        "away": {
+          "name": "拉巴斯竞技",
+          "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_1b777501422b46c097b2bc52363f7dcd",
+        "date": "2026-10-25",
+        "time": "02:00",
+        "status": "02:00",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
+        "season": "2026/2027",
+        "home": {
+          "name": "萨卡特卡斯矿工",
+          "team_id": "ast_12efd87df3cd46cf9fd7b47bfd3e0794"
+        },
+        "away": {
+          "name": "黑狮队UdeG",
+          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_1cef46e1e1cd443791cd4ca3b823a201",
@@ -919,7 +909,7 @@
         "match_id": "as_832bc20acfd944c187558fc31e616a5d",
         "date": "2026-10-24",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -931,7 +921,10 @@
           "name": "坎昆",
           "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3a1dde40009c4ee3a5d4e7876a76f02b",
@@ -3303,8 +3296,8 @@
       {
         "match_id": "as_1b777501422b46c097b2bc52363f7dcd",
         "date": "2026-10-25",
-        "time": "00:00",
-        "status": "Not Started",
+        "time": "02:00",
+        "status": "02:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3316,15 +3309,13 @@
           "name": "黑狮队UdeG",
           "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
         },
-        "ht_score": "-",
-        "venue": "卡洛斯·维加·比利亚尔瓦体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3d352393da9343eabca53243611cf213",
         "date": "2026-10-25",
-        "time": "00:00",
-        "status": "Not Started",
+        "time": "02:00",
+        "status": "02:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3336,15 +3327,13 @@
           "name": "拉巴斯竞技",
           "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
         },
-        "ht_score": "-",
-        "venue": "塔毛利帕斯体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_536a7f4091914730a02336aacab3e408",
         "date": "2026-10-25",
-        "time": "00:00",
-        "status": "Not Started",
+        "time": "02:00",
+        "status": "02:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3356,15 +3345,31 @@
           "name": "海盗队",
           "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
         },
-        "ht_score": "-",
-        "venue": "埃尔恩坎托体育场",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_1bdbed59ad2a4463b9bbe2fe47abc617",
+        "date": "2026-10-25",
+        "time": "23:00",
+        "status": "23:00",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
+        "season": "2026/2027",
+        "home": {
+          "name": "塔帕蒂奥",
+          "team_id": "ast_882fff2198e0439aa2c55e00d36fbb3b"
+        },
+        "away": {
+          "name": "莫雷利亚竞技",
+          "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_557620ee491248b9b25089c081a654ec",
         "date": "2026-10-25",
         "time": "18:00",
-        "status": "Not Started",
+        "status": "18:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3376,15 +3381,13 @@
           "name": "科雷卡米诺斯UAT",
           "team_id": "ast_c89162f372884497817218e51a89fee4"
         },
-        "ht_score": "-",
-        "venue": "特拉维科莱体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_832bc20acfd944c187558fc31e616a5d",
         "date": "2026-10-24",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3396,7 +3399,10 @@
           "name": "坎昆",
           "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1cef46e1e1cd443791cd4ca3b823a201",
@@ -3415,47 +3421,6 @@
           "team_id": "ast_e124e8f0060149b596865fb9feb1cdc3"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_1bdbed59ad2a4463b9bbe2fe47abc617",
-        "date": "2026-10-24",
-        "time": "23:00",
-        "status": "Not Started",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "塔帕蒂奥",
-          "team_id": "ast_882fff2198e0439aa2c55e00d36fbb3b"
-        },
-        "away": {
-          "name": "莫雷利亚竞技",
-          "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
-        },
-        "ht_score": "-",
-        "venue": "Estadio Akron",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_3a1dde40009c4ee3a5d4e7876a76f02b",
-        "date": "2026-10-23",
-        "time": "01:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "瓦哈卡阿莱布里赫斯",
-          "team_id": "ast_1b2f4fc2af834764bd61cedd57af257c"
-        },
-        "away": {
-          "name": "蓝十字伊达尔戈",
-          "team_id": "ast_25b74bc4cb1d481889ad46060f53fd0d"
-        },
-        "ht_score": "1-0",
-        "reg_score": "2-1",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -5530,13 +5495,13 @@
     }
   },
   "stats": {
-    "matches_completed": 105,
-    "total_goals": 342,
+    "matches_completed": 106,
+    "total_goals": 346,
     "avg_goals_per_match": 3.26,
     "home_wins": 52,
     "draws": 24,
-    "away_wins": 29,
-    "home_win_pct": 49.5,
+    "away_wins": 30,
+    "home_win_pct": 49.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6334,7 +6299,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 120,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

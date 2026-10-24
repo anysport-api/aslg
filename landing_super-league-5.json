@@ -166,15 +166,15 @@
         "position": 3,
         "team_id": "ast_e940d01c835447718455e310d09168d0",
         "team": "Blue Eagles",
-        "played": 17,
+        "played": 18,
         "wins": 11,
         "draws": 1,
-        "losses": 5,
-        "goals_for": 27,
-        "goals_against": 18,
-        "goal_difference": 9,
+        "losses": 6,
+        "goals_for": 28,
+        "goals_against": 20,
+        "goal_difference": 8,
         "points": 34,
-        "form": "WLWWL"
+        "form": "LWLWW"
       },
       {
         "position": 4,
@@ -192,6 +192,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_e46a5847a2884b63954542fb3d753f03",
+        "team": "Ekhaya",
+        "played": 18,
+        "wins": 6,
+        "draws": 7,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 15,
+        "goal_difference": 4,
+        "points": 25,
+        "form": "WDWDL"
+      },
+      {
+        "position": 6,
         "team_id": "ast_870446741ddb41ff97a5d94599e3fff5",
         "team": "Chitipa United",
         "played": 17,
@@ -203,20 +217,6 @@
         "goal_difference": -6,
         "points": 24,
         "form": "LWDDW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_e46a5847a2884b63954542fb3d753f03",
-        "team": "Ekhaya",
-        "played": 17,
-        "wins": 5,
-        "draws": 7,
-        "losses": 5,
-        "goals_for": 17,
-        "goals_against": 14,
-        "goal_difference": 3,
-        "points": 22,
-        "form": "DWDLL"
       },
       {
         "position": 7,
@@ -394,16 +394,16 @@
         "position": 3,
         "team_id": "ast_e940d01c835447718455e310d09168d0",
         "team": "蓝鹰队",
-        "played": 17,
+        "played": 18,
         "wins": 11,
         "draws": 1,
-        "losses": 5,
-        "goals_for": 27,
-        "goals_against": 18,
-        "goal_difference": 9,
+        "losses": 6,
+        "goals_for": 28,
+        "goals_against": 20,
+        "goal_difference": 8,
         "points": 34,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
+        "form": "LWLWW",
+        "form_label": "负胜负胜胜"
       },
       {
         "position": 4,
@@ -422,6 +422,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_e46a5847a2884b63954542fb3d753f03",
+        "team": "埃克哈亚",
+        "played": 18,
+        "wins": 6,
+        "draws": 7,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 15,
+        "goal_difference": 4,
+        "points": 25,
+        "form": "WDWDL",
+        "form_label": "胜平胜平负"
+      },
+      {
+        "position": 6,
         "team_id": "ast_870446741ddb41ff97a5d94599e3fff5",
         "team": "奇提帕联队",
         "played": 17,
@@ -434,21 +449,6 @@
         "points": 24,
         "form": "LWDDW",
         "form_label": "负胜平平胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_e46a5847a2884b63954542fb3d753f03",
-        "team": "埃克哈亚",
-        "played": 17,
-        "wins": 5,
-        "draws": 7,
-        "losses": 5,
-        "goals_for": 17,
-        "goals_against": 14,
-        "goal_difference": 3,
-        "points": 22,
-        "form": "DWDLL",
-        "form_label": "平胜平负负"
       },
       {
         "position": 7,
@@ -2669,7 +2669,7 @@
         "match_id": "as_2e8c769ac889470c9438d7eb97f3b685",
         "date": "2026-10-23",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "马拉维超级联赛",
         "league_id": "asl_0d0a420f86174556bd2c76e0180f6037",
         "season": "2026/2027",
@@ -2681,7 +2681,10 @@
           "name": "蓝鹰队",
           "team_id": "ast_e940d01c835447718455e310d09168d0"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cc7d0a91c11f4f829393ca75bb6ac84d",
@@ -6306,24 +6309,6 @@
           "team_id": "ast_97f85cddd62744efb5c1490936720c44"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_2e8c769ac889470c9438d7eb97f3b685",
-        "date": "2026-10-23",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "马拉维超级联赛",
-        "league_id": "asl_0d0a420f86174556bd2c76e0180f6037",
-        "season": "2026/2027",
-        "home": {
-          "name": "埃克哈亚",
-          "team_id": "ast_e46a5847a2884b63954542fb3d753f03"
-        },
-        "away": {
-          "name": "蓝鹰队",
-          "team_id": "ast_e940d01c835447718455e310d09168d0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9207,13 +9192,13 @@
     }
   },
   "stats": {
-    "matches_completed": 136,
-    "total_goals": 279,
-    "avg_goals_per_match": 2.05,
-    "home_wins": 66,
+    "matches_completed": 137,
+    "total_goals": 282,
+    "avg_goals_per_match": 2.06,
+    "home_wins": 67,
     "draws": 39,
     "away_wins": 31,
-    "home_win_pct": 48.5,
+    "home_win_pct": 48.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9366,15 +9351,15 @@
             "position": 3,
             "team_id": "ast_e940d01c835447718455e310d09168d0",
             "team": "Blue Eagles",
-            "played": 17,
+            "played": 18,
             "wins": 11,
             "draws": 1,
-            "losses": 5,
-            "goals_for": 27,
-            "goals_against": 18,
-            "goal_difference": 9,
+            "losses": 6,
+            "goals_for": 28,
+            "goals_against": 20,
+            "goal_difference": 8,
             "points": 34,
-            "form": "WLWWL"
+            "form": "LWLWW"
           }
         ],
         "meta": {
@@ -9974,7 +9959,7 @@
     "teams_all_time": 36,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 40
+    "upcoming_matches": 39
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

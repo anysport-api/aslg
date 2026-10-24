@@ -220,6 +220,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd",
+        "team": "Inter Santa Tecla",
+        "played": 17,
+        "wins": 6,
+        "draws": 8,
+        "losses": 3,
+        "goals_for": 24,
+        "goals_against": 16,
+        "goal_difference": 8,
+        "points": 26,
+        "form": "WLDDL"
+      },
+      {
+        "position": 5,
         "team_id": "ast_53d4aef7488a461fb245ae55d1178d72",
         "team": "Aguila",
         "played": 16,
@@ -231,20 +245,6 @@
         "goal_difference": 7,
         "points": 24,
         "form": "DWWWL"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd",
-        "team": "Inter Santa Tecla",
-        "played": 16,
-        "wins": 5,
-        "draws": 8,
-        "losses": 3,
-        "goals_for": 22,
-        "goals_against": 16,
-        "goal_difference": 6,
-        "points": 23,
-        "form": "LDDLD"
       },
       {
         "position": 6,
@@ -292,15 +292,15 @@
         "position": 9,
         "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
         "team": "Inca Aruba",
-        "played": 16,
+        "played": 17,
         "wins": 4,
         "draws": 4,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 13,
-        "goals_against": 29,
-        "goal_difference": -16,
+        "goals_against": 31,
+        "goal_difference": -18,
         "points": 16,
-        "form": "LLDWD"
+        "form": "LLLDW"
       },
       {
         "position": 10,
@@ -393,6 +393,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd",
+        "team": "国际F.A.",
+        "played": 17,
+        "wins": 6,
+        "draws": 8,
+        "losses": 3,
+        "goals_for": 24,
+        "goals_against": 16,
+        "goal_difference": 8,
+        "points": 26,
+        "form": "WLDDL",
+        "form_label": "胜负平平负"
+      },
+      {
+        "position": 5,
         "team_id": "ast_53d4aef7488a461fb245ae55d1178d72",
         "team": "鹰队",
         "played": 16,
@@ -405,21 +420,6 @@
         "points": 24,
         "form": "DWWWL",
         "form_label": "平胜胜胜负"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd",
-        "team": "国际F.A.",
-        "played": 16,
-        "wins": 5,
-        "draws": 8,
-        "losses": 3,
-        "goals_for": 22,
-        "goals_against": 16,
-        "goal_difference": 6,
-        "points": 23,
-        "form": "LDDLD",
-        "form_label": "负平平负平"
       },
       {
         "position": 6,
@@ -470,16 +470,16 @@
         "position": 9,
         "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
         "team": "Inca Aruba",
-        "played": 16,
+        "played": 17,
         "wins": 4,
         "draws": 4,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 13,
-        "goals_against": 29,
-        "goal_difference": -16,
+        "goals_against": 31,
+        "goal_difference": -18,
         "points": 16,
-        "form": "LLDWD",
-        "form_label": "负负平胜平"
+        "form": "LLLDW",
+        "form_label": "负负负平胜"
       },
       {
         "position": 10,
@@ -1202,28 +1202,10 @@
         "venue": ""
       },
       {
-        "match_id": "as_8f5731f166974f1eb9868992977cc669",
-        "date": "2026-10-25",
-        "time": "02:00",
-        "status": "02:00",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿利安萨",
-          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
-        },
-        "away": {
-          "name": "梅塔潘",
-          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
-        },
-        "venue": ""
-      },
-      {
         "match_id": "as_26f2c6a028474d24abba9df9be8e60eb",
         "date": "2026-10-25",
-        "time": "22:00",
-        "status": "22:00",
+        "time": "21:00",
+        "status": "21:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1241,7 +1223,7 @@
         "match_id": "as_64e190ecdbc541fe8b08fad5f6ed5adb",
         "date": "2026-10-24",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -1252,6 +1234,27 @@
         "away": {
           "name": "国际F.A.",
           "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
+      },
+      {
+        "match_id": "as_8f5731f166974f1eb9868992977cc669",
+        "date": "2026-10-24",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿利安萨",
+          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
+        },
+        "away": {
+          "name": "梅塔潘",
+          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
         },
         "venue": ""
       },
@@ -3893,8 +3896,8 @@
       {
         "match_id": "as_26f2c6a028474d24abba9df9be8e60eb",
         "date": "2026-10-25",
-        "time": "22:00",
-        "status": "22:00",
+        "time": "21:00",
+        "status": "21:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3905,24 +3908,6 @@
         "away": {
           "name": "路易斯·安赫尔·菲尔波",
           "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8f5731f166974f1eb9868992977cc669",
-        "date": "2026-10-25",
-        "time": "02:00",
-        "status": "02:00",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿利安萨",
-          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
-        },
-        "away": {
-          "name": "梅塔潘",
-          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
         },
         "venue": ""
       },
@@ -3981,10 +3966,28 @@
         "venue": ""
       },
       {
+        "match_id": "as_8f5731f166974f1eb9868992977cc669",
+        "date": "2026-10-24",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "萨尔瓦多甲级联赛",
+        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿利安萨",
+          "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
+        },
+        "away": {
+          "name": "梅塔潘",
+          "team_id": "ast_632effbea9504a4895b736e294fbff3b"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_64e190ecdbc541fe8b08fad5f6ed5adb",
         "date": "2026-10-24",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3996,7 +3999,10 @@
           "name": "国际F.A.",
           "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7812,13 +7818,13 @@
     }
   },
   "stats": {
-    "matches_completed": 95,
-    "total_goals": 252,
+    "matches_completed": 96,
+    "total_goals": 254,
     "avg_goals_per_match": 2.65,
     "home_wins": 40,
     "draws": 30,
-    "away_wins": 25,
-    "home_win_pct": 42.1,
+    "away_wins": 26,
+    "home_win_pct": 41.7,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -8609,5 +8615,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 37
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

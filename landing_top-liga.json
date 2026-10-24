@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
@@ -184,6 +184,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1",
+        "team": "Bishkek City",
+        "played": 27,
+        "wins": 9,
+        "draws": 9,
+        "losses": 9,
+        "goals_for": 35,
+        "goals_against": 34,
+        "goal_difference": 1,
+        "points": 36,
+        "form": "WWWWD"
+      },
+      {
+        "position": 8,
         "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485",
         "team": "Neftchi Kochkor-Ata",
         "played": 27,
@@ -197,32 +211,18 @@
         "form": "WWDLW"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007",
         "team": "Talant",
-        "played": 26,
+        "played": 27,
         "wins": 8,
         "draws": 9,
-        "losses": 9,
-        "goals_for": 34,
-        "goals_against": 27,
-        "goal_difference": 7,
+        "losses": 10,
+        "goals_for": 35,
+        "goals_against": 29,
+        "goal_difference": 6,
         "points": 33,
-        "form": "LWDWW"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1",
-        "team": "Bishkek City",
-        "played": 26,
-        "wins": 8,
-        "draws": 9,
-        "losses": 9,
-        "goals_for": 33,
-        "goals_against": 33,
-        "goal_difference": 0,
-        "points": 33,
-        "form": "WWWDW"
+        "form": "LLWDW"
       },
       {
         "position": 10,
@@ -256,15 +256,15 @@
         "position": 12,
         "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5",
         "team": "Ilbirs",
-        "played": 26,
+        "played": 27,
         "wins": 6,
-        "draws": 10,
+        "draws": 11,
         "losses": 10,
-        "goals_for": 29,
-        "goals_against": 44,
+        "goals_for": 30,
+        "goals_against": 45,
         "goal_difference": -15,
-        "points": 28,
-        "form": "LLLWD"
+        "points": 29,
+        "form": "DLLLW"
       },
       {
         "position": 13,
@@ -312,15 +312,15 @@
         "position": 16,
         "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0",
         "team": "Kyrgyzaltyn",
-        "played": 26,
+        "played": 27,
         "wins": 1,
-        "draws": 6,
+        "draws": 7,
         "losses": 19,
-        "goals_for": 19,
-        "goals_against": 69,
+        "goals_for": 20,
+        "goals_against": 70,
         "goal_difference": -50,
-        "points": 9,
-        "form": "LLDLL"
+        "points": 10,
+        "form": "DLLDL"
       }
     ],
     "zh": [
@@ -416,6 +416,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1",
+        "team": "比什凯克城",
+        "played": 27,
+        "wins": 9,
+        "draws": 9,
+        "losses": 9,
+        "goals_for": 35,
+        "goals_against": 34,
+        "goal_difference": 1,
+        "points": 36,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
+      },
+      {
+        "position": 8,
         "team_id": "ast_ddbd77b6ca31469681113afd8d2bf485",
         "team": "尼夫奇科赫科尔-阿塔",
         "played": 27,
@@ -430,34 +445,19 @@
         "form_label": "胜胜平负胜"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007",
         "team": "塔兰特",
-        "played": 26,
+        "played": 27,
         "wins": 8,
         "draws": 9,
-        "losses": 9,
-        "goals_for": 34,
-        "goals_against": 27,
-        "goal_difference": 7,
+        "losses": 10,
+        "goals_for": 35,
+        "goals_against": 29,
+        "goal_difference": 6,
         "points": 33,
-        "form": "LWDWW",
-        "form_label": "负胜平胜胜"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1",
-        "team": "比什凯克城",
-        "played": 26,
-        "wins": 8,
-        "draws": 9,
-        "losses": 9,
-        "goals_for": 33,
-        "goals_against": 33,
-        "goal_difference": 0,
-        "points": 33,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
+        "form": "LLWDW",
+        "form_label": "负负胜平胜"
       },
       {
         "position": 10,
@@ -493,16 +493,16 @@
         "position": 12,
         "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5",
         "team": "伊尔比尔斯",
-        "played": 26,
+        "played": 27,
         "wins": 6,
-        "draws": 10,
+        "draws": 11,
         "losses": 10,
-        "goals_for": 29,
-        "goals_against": 44,
+        "goals_for": 30,
+        "goals_against": 45,
         "goal_difference": -15,
-        "points": 28,
-        "form": "LLLWD",
-        "form_label": "负负负胜平"
+        "points": 29,
+        "form": "DLLLW",
+        "form_label": "平负负负胜"
       },
       {
         "position": 13,
@@ -553,16 +553,16 @@
         "position": 16,
         "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0",
         "team": "吉尔吉斯阿尔廷",
-        "played": 26,
+        "played": 27,
         "wins": 1,
-        "draws": 6,
+        "draws": 7,
         "losses": 19,
-        "goals_for": 19,
-        "goals_against": 69,
+        "goals_for": 20,
+        "goals_against": 70,
         "goal_difference": -50,
-        "points": 9,
-        "form": "LLDLL",
-        "form_label": "负负平负负"
+        "points": 10,
+        "form": "DLLDL",
+        "form_label": "平负负平负"
       }
     ]
   },
@@ -587,7 +587,7 @@
         "match_id": "as_68dfea24b84041c4b864910166821d54",
         "date": "2026-10-23",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -599,13 +599,16 @@
           "name": "吉尔吉斯阿尔廷",
           "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6c37a51b646e4fd99580fd984d5d6aca",
         "date": "2026-10-23",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "吉尔吉斯斯坦顶级联赛",
         "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
         "season": "2026",
@@ -617,7 +620,10 @@
           "name": "比什凯克城",
           "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_91affa30babf43449fb0815eb27ca174",
@@ -1121,6 +1127,27 @@
         "ht_score": "2-1",
         "reg_score": "3-2",
         "venue": "",
+        "status_label": "完场"
+      },
+      {
+        "match_id": "as_097b1cfda3c847e2b95363df20b0d5c5",
+        "date": "2026-10-01",
+        "time": "14:00",
+        "status": "FT",
+        "league": "吉尔吉斯斯坦顶级联赛",
+        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
+        "season": "2026",
+        "home": {
+          "name": "阿布迪什-阿塔",
+          "team_id": "ast_2047d0506517448baa3a767bb106a0ad"
+        },
+        "away": {
+          "name": "伊尔比尔斯",
+          "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5"
+        },
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "Tsentralniy Stadion",
         "status_label": "完场"
       },
       {
@@ -5051,44 +5078,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_6c37a51b646e4fd99580fd984d5d6aca",
-        "date": "2026-10-23",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "塔兰特",
-          "team_id": "ast_1f2e9c61c17d421dbfdb965e10faf007"
-        },
-        "away": {
-          "name": "比什凯克城",
-          "team_id": "ast_c2b190fcab5b4719ba8a3381a4cff6b1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_68dfea24b84041c4b864910166821d54",
-        "date": "2026-10-23",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "吉尔吉斯斯坦顶级联赛",
-        "league_id": "asl_ba4d88fbc53b45efaa697b507e64f04e",
-        "season": "2026",
-        "home": {
-          "name": "伊尔比尔斯",
-          "team_id": "ast_0cfceadfb91b4abd8e533a239c5ef1d5"
-        },
-        "away": {
-          "name": "吉尔吉斯阿尔廷",
-          "team_id": "ast_1bc8ce682af04200920d3ff22ef208c0"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -6540,13 +6530,13 @@
     }
   },
   "stats": {
-    "matches_completed": 211,
-    "total_goals": 640,
-    "avg_goals_per_match": 3.03,
-    "home_wins": 84,
-    "draws": 53,
-    "away_wins": 74,
-    "home_win_pct": 39.8,
+    "matches_completed": 214,
+    "total_goals": 646,
+    "avg_goals_per_match": 3.02,
+    "home_wins": 85,
+    "draws": 54,
+    "away_wins": 75,
+    "home_win_pct": 39.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7309,8 +7299,8 @@
     "distinct_title_holders": 4,
     "teams_all_time": 19,
     "standings_rows_current": 16,
-    "matches_current_season": 213,
-    "upcoming_matches": 2
+    "matches_current_season": 214,
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }

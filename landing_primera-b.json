@@ -120,15 +120,15 @@
         "position": 4,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "Magallanes",
-        "played": 28,
+        "played": 29,
         "wins": 13,
         "draws": 7,
-        "losses": 8,
-        "goals_for": 44,
-        "goals_against": 40,
-        "goal_difference": 4,
+        "losses": 9,
+        "goals_for": 45,
+        "goals_against": 44,
+        "goal_difference": 1,
         "points": 46,
-        "form": "LWWWD"
+        "form": "LLWWW"
       },
       {
         "position": 5,
@@ -202,6 +202,20 @@
       },
       {
         "position": 10,
+        "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88",
+        "team": "Deportes Iquique",
+        "played": 29,
+        "wins": 9,
+        "draws": 11,
+        "losses": 9,
+        "goals_for": 42,
+        "goals_against": 33,
+        "goal_difference": 9,
+        "points": 38,
+        "form": "WDWWW"
+      },
+      {
+        "position": 11,
         "team_id": "ast_73cb9e1601124d769ec76604c83f0335",
         "team": "Deportes Temuco",
         "played": 28,
@@ -213,20 +227,6 @@
         "goal_difference": 5,
         "points": 36,
         "form": "DWLDW"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88",
-        "team": "Deportes Iquique",
-        "played": 28,
-        "wins": 8,
-        "draws": 11,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 32,
-        "goal_difference": 6,
-        "points": 35,
-        "form": "DWWWL"
       },
       {
         "position": 12,
@@ -349,16 +349,16 @@
         "position": 4,
         "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d",
         "team": "马加利亚尼斯",
-        "played": 28,
+        "played": 29,
         "wins": 13,
         "draws": 7,
-        "losses": 8,
-        "goals_for": 44,
-        "goals_against": 40,
-        "goal_difference": 4,
+        "losses": 9,
+        "goals_for": 45,
+        "goals_against": 44,
+        "goal_difference": 1,
         "points": 46,
-        "form": "LWWWD",
-        "form_label": "负胜胜胜平"
+        "form": "LLWWW",
+        "form_label": "负负胜胜胜"
       },
       {
         "position": 5,
@@ -437,6 +437,21 @@
       },
       {
         "position": 10,
+        "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88",
+        "team": "伊基克体育",
+        "played": 29,
+        "wins": 9,
+        "draws": 11,
+        "losses": 9,
+        "goals_for": 42,
+        "goals_against": 33,
+        "goal_difference": 9,
+        "points": 38,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
+      },
+      {
+        "position": 11,
         "team_id": "ast_73cb9e1601124d769ec76604c83f0335",
         "team": "特木科体育",
         "played": 28,
@@ -449,21 +464,6 @@
         "points": 36,
         "form": "DWLDW",
         "form_label": "平胜负平胜"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88",
-        "team": "伊基克体育",
-        "played": 28,
-        "wins": 8,
-        "draws": 11,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 32,
-        "goal_difference": 6,
-        "points": 35,
-        "form": "DWWWL",
-        "form_label": "平胜胜胜负"
       },
       {
         "position": 12,
@@ -643,7 +643,7 @@
         "match_id": "as_f674863c14bb4d2a94c19873899fad32",
         "date": "2026-10-31",
         "time": "00:15",
-        "status": "Not Started",
+        "status": "00:15",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -655,9 +655,7 @@
           "name": "特木科体育",
           "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
         },
-        "ht_score": "-",
-        "venue": "拉格兰哈二百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_57f4a020b0584ba7ad3745d6bfe31d42",
@@ -849,7 +847,7 @@
         "match_id": "as_e38e8012bf5048cda41d49e7c6812eba",
         "date": "2026-10-23",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -861,7 +859,10 @@
           "name": "马加利亚尼斯",
           "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "4-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ce34a77fd97344538a7f7e16c4f99f73",
@@ -5673,7 +5674,7 @@
         "match_id": "as_f674863c14bb4d2a94c19873899fad32",
         "date": "2026-10-31",
         "time": "00:15",
-        "status": "Not Started",
+        "status": "00:15",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5685,9 +5686,7 @@
           "name": "特木科体育",
           "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
         },
-        "ht_score": "-",
-        "venue": "拉格兰哈二百周年体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d1e82dfe75e74876b1557bea483ee7cd",
@@ -5852,24 +5851,6 @@
         "away": {
           "name": "圣克鲁斯",
           "team_id": "ast_579e605d20ef4cc3ae54ef15b8ea093b"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e38e8012bf5048cda41d49e7c6812eba",
-        "date": "2026-10-23",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "伊基克体育",
-          "team_id": "ast_4601cdac4c7c4bb48be1c03ac7e39d88"
-        },
-        "away": {
-          "name": "马加利亚尼斯",
-          "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
         },
         "venue": ""
       }
@@ -7982,13 +7963,13 @@
     }
   },
   "stats": {
-    "matches_completed": 224,
-    "total_goals": 587,
-    "avg_goals_per_match": 2.62,
-    "home_wins": 99,
+    "matches_completed": 225,
+    "total_goals": 592,
+    "avg_goals_per_match": 2.63,
+    "home_wins": 100,
     "draws": 66,
     "away_wins": 59,
-    "home_win_pct": 44.2,
+    "home_win_pct": 44.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8786,7 +8767,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/10/23"
+  "updated_at": "2026/10/24"
 }
