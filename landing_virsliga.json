@@ -222,15 +222,15 @@
         "position": 4,
         "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
         "team": "FK Liepaja",
-        "played": 33,
+        "played": 34,
         "wins": 13,
-        "draws": 7,
+        "draws": 8,
         "losses": 13,
         "goals_for": 46,
         "goals_against": 46,
         "goal_difference": 0,
-        "points": 46,
-        "form": "WLDDD"
+        "points": 47,
+        "form": "DWLDD"
       },
       {
         "position": 5,
@@ -292,15 +292,15 @@
         "position": 9,
         "team_id": "ast_4596f07daac649c28b5474b96edad1b7",
         "team": "Tukums 2000",
-        "played": 33,
+        "played": 34,
         "wins": 5,
-        "draws": 9,
+        "draws": 10,
         "losses": 19,
         "goals_for": 44,
         "goals_against": 65,
         "goal_difference": -21,
-        "points": 24,
-        "form": "LLDLW"
+        "points": 25,
+        "form": "DLLDL"
       },
       {
         "position": 10,
@@ -367,16 +367,16 @@
         "position": 4,
         "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10",
         "team": "利耶帕亚足球俱乐部",
-        "played": 33,
+        "played": 34,
         "wins": 13,
-        "draws": 7,
+        "draws": 8,
         "losses": 13,
         "goals_for": 46,
         "goals_against": 46,
         "goal_difference": 0,
-        "points": 46,
-        "form": "WLDDD",
-        "form_label": "胜负平平平"
+        "points": 47,
+        "form": "DWLDD",
+        "form_label": "平胜负平平"
       },
       {
         "position": 5,
@@ -442,16 +442,16 @@
         "position": 9,
         "team_id": "ast_4596f07daac649c28b5474b96edad1b7",
         "team": "图库姆斯2000",
-        "played": 33,
+        "played": 34,
         "wins": 5,
-        "draws": 9,
+        "draws": 10,
         "losses": 19,
         "goals_for": 44,
         "goals_against": 65,
         "goal_difference": -21,
-        "points": 24,
-        "form": "LLDLW",
-        "form_label": "负负平负胜"
+        "points": 25,
+        "form": "DLLDL",
+        "form_label": "平负负平负"
       },
       {
         "position": 10,
@@ -691,7 +691,7 @@
         "match_id": "as_8bca5e700aa346c9a3c3dfdb47896202",
         "date": "2026-10-26",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -703,9 +703,7 @@
           "name": "里加FC",
           "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_08d6d64f1ed94d7eb8d11f7e0d2fdeb7",
@@ -765,7 +763,7 @@
         "match_id": "as_f5513e0efc884ab3af940113d115705a",
         "date": "2026-10-24",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -777,7 +775,10 @@
           "name": "图库姆斯2000",
           "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_51116fc5191e442c8dad5d76f330acd3",
@@ -4450,7 +4451,7 @@
         "match_id": "as_8bca5e700aa346c9a3c3dfdb47896202",
         "date": "2026-10-26",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
         "season": "2026",
@@ -4462,9 +4463,7 @@
           "name": "里加FC",
           "team_id": "ast_9273afc2be2149ac9a0dc75519c6d16b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8a7f671ad8a445acbfb3d71110ac10b8",
@@ -4517,24 +4516,6 @@
         "away": {
           "name": "RFS",
           "team_id": "ast_fafbdb7d37964955b411218c58bcd1bb"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f5513e0efc884ab3af940113d115705a",
-        "date": "2026-10-24",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "拉脱维亚Virsliga",
-        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
-        "season": "2026",
-        "home": {
-          "name": "利耶帕亚足球俱乐部",
-          "team_id": "ast_a7630174d1054eb9ac5fc1608a59da10"
-        },
-        "away": {
-          "name": "图库姆斯2000",
-          "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
         },
         "venue": ""
       }
@@ -7965,13 +7946,13 @@
     }
   },
   "stats": {
-    "matches_completed": 165,
+    "matches_completed": 166,
     "total_goals": 477,
-    "avg_goals_per_match": 2.89,
+    "avg_goals_per_match": 2.87,
     "home_wins": 72,
-    "draws": 37,
+    "draws": 38,
     "away_wins": 56,
-    "home_win_pct": 43.6,
+    "home_win_pct": 43.4,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8769,7 +8750,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 15
+    "upcoming_matches": 14
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

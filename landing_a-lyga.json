@@ -204,15 +204,15 @@
         "position": 4,
         "team_id": "ast_87337d4088194f0598930dcfbc04d160",
         "team": "Transinvest",
-        "played": 29,
-        "wins": 13,
+        "played": 30,
+        "wins": 14,
         "draws": 7,
         "losses": 9,
-        "goals_for": 46,
+        "goals_for": 48,
         "goals_against": 38,
-        "goal_difference": 8,
-        "points": 46,
-        "form": "DWWLW"
+        "goal_difference": 10,
+        "points": 49,
+        "form": "WDWWL"
       },
       {
         "position": 5,
@@ -260,15 +260,15 @@
         "position": 8,
         "team_id": "ast_1b95a994a3144aeda795d6574b085324",
         "team": "Hegelmann",
-        "played": 30,
+        "played": 31,
         "wins": 4,
         "draws": 14,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 32,
-        "goals_against": 52,
-        "goal_difference": -20,
+        "goals_against": 54,
+        "goal_difference": -22,
         "points": 26,
-        "form": "LDDLD"
+        "form": "LLDDL"
       },
       {
         "position": 9,
@@ -349,16 +349,16 @@
         "position": 4,
         "team_id": "ast_87337d4088194f0598930dcfbc04d160",
         "team": "转投资",
-        "played": 29,
-        "wins": 13,
+        "played": 30,
+        "wins": 14,
         "draws": 7,
         "losses": 9,
-        "goals_for": 46,
+        "goals_for": 48,
         "goals_against": 38,
-        "goal_difference": 8,
-        "points": 46,
-        "form": "DWWLW",
-        "form_label": "平胜胜负胜"
+        "goal_difference": 10,
+        "points": 49,
+        "form": "WDWWL",
+        "form_label": "胜平胜胜负"
       },
       {
         "position": 5,
@@ -409,16 +409,16 @@
         "position": 8,
         "team_id": "ast_1b95a994a3144aeda795d6574b085324",
         "team": "黑格尔曼",
-        "played": 30,
+        "played": 31,
         "wins": 4,
         "draws": 14,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 32,
-        "goals_against": 52,
-        "goal_difference": -20,
+        "goals_against": 54,
+        "goal_difference": -22,
         "points": 26,
-        "form": "LDDLD",
-        "form_label": "负平平负平"
+        "form": "LLDDL",
+        "form_label": "负负平平负"
       },
       {
         "position": 9,
@@ -632,7 +632,7 @@
         "match_id": "as_11e7d617ee5f492e9f4c69c8078f1531",
         "date": "2026-10-26",
         "time": "16:45",
-        "status": "Not Started",
+        "status": "16:45",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -644,9 +644,7 @@
           "name": "扎尔吉里斯",
           "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0948561defdd433ebb60fdda8cdcba67",
@@ -688,7 +686,7 @@
         "match_id": "as_6ba5633b2a954455b8a812e3225f1365",
         "date": "2026-10-24",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -700,7 +698,10 @@
           "name": "黑格尔曼",
           "team_id": "ast_1b95a994a3144aeda795d6574b085324"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e3b3148a2a014f2283297d72138e1e62",
@@ -3997,7 +3998,7 @@
         "match_id": "as_11e7d617ee5f492e9f4c69c8078f1531",
         "date": "2026-10-26",
         "time": "16:45",
-        "status": "Not Started",
+        "status": "16:45",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
         "season": "2026",
@@ -4009,9 +4010,7 @@
           "name": "扎尔吉里斯",
           "team_id": "ast_0ee22a9e95f14eda9339e7130ada2568"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2a4ed15915f04ccba196b4e215ee224b",
@@ -4046,24 +4045,6 @@
         "away": {
           "name": "FA绍利艾",
           "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6ba5633b2a954455b8a812e3225f1365",
-        "date": "2026-10-24",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
-        "season": "2026",
-        "home": {
-          "name": "转投资",
-          "team_id": "ast_87337d4088194f0598930dcfbc04d160"
-        },
-        "away": {
-          "name": "黑格尔曼",
-          "team_id": "ast_1b95a994a3144aeda795d6574b085324"
         },
         "venue": ""
       }
@@ -7494,13 +7475,13 @@
     }
   },
   "stats": {
-    "matches_completed": 149,
-    "total_goals": 400,
+    "matches_completed": 150,
+    "total_goals": 402,
     "avg_goals_per_match": 2.68,
-    "home_wins": 60,
+    "home_wins": 61,
     "draws": 41,
     "away_wins": 48,
-    "home_win_pct": 40.3,
+    "home_win_pct": 40.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8298,7 +8279,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 161,
-    "upcoming_matches": 12
+    "upcoming_matches": 11
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

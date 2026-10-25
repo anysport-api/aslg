@@ -150,15 +150,15 @@
         "position": 1,
         "team_id": "ast_09c51ff0526844f783fa96304f32628d",
         "team": "Lara",
-        "played": 31,
+        "played": 32,
         "wins": 21,
-        "draws": 6,
+        "draws": 7,
         "losses": 4,
-        "goals_for": 54,
-        "goals_against": 22,
+        "goals_for": 56,
+        "goals_against": 24,
         "goal_difference": 32,
-        "points": 69,
-        "form": "WWLWW"
+        "points": 70,
+        "form": "DWWLW"
       },
       {
         "position": 1,
@@ -234,15 +234,15 @@
         "position": 4,
         "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072",
         "team": "Urena",
-        "played": 31,
+        "played": 32,
         "wins": 12,
-        "draws": 11,
+        "draws": 12,
         "losses": 8,
-        "goals_for": 44,
-        "goals_against": 41,
+        "goals_for": 46,
+        "goals_against": 43,
         "goal_difference": 3,
-        "points": 47,
-        "form": "LDDLL"
+        "points": 48,
+        "form": "DLDDL"
       },
       {
         "position": 4,
@@ -390,16 +390,16 @@
         "position": 1,
         "team_id": "ast_09c51ff0526844f783fa96304f32628d",
         "team": "拉拉",
-        "played": 31,
+        "played": 32,
         "wins": 21,
-        "draws": 6,
+        "draws": 7,
         "losses": 4,
-        "goals_for": 54,
-        "goals_against": 22,
+        "goals_for": 56,
+        "goals_against": 24,
         "goal_difference": 32,
-        "points": 69,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "points": 70,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 1,
@@ -480,16 +480,16 @@
         "position": 4,
         "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072",
         "team": "乌雷纳",
-        "played": 31,
+        "played": 32,
         "wins": 12,
-        "draws": 11,
+        "draws": 12,
         "losses": 8,
-        "goals_for": 44,
-        "goals_against": 41,
+        "goals_for": 46,
+        "goals_against": 43,
         "goal_difference": 3,
-        "points": 47,
-        "form": "LDDLL",
-        "form_label": "负平平负负"
+        "points": 48,
+        "form": "DLDDL",
+        "form_label": "平负平平负"
       },
       {
         "position": 4,
@@ -793,7 +793,7 @@
         "match_id": "as_985055e207024f7c9b3dbbc5992f0f71",
         "date": "2026-10-24",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
         "season": "2026",
@@ -805,7 +805,10 @@
           "name": "乌雷纳",
           "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c8b65781fb3d4dbfa4c947bc063030a4",
@@ -6124,45 +6127,6 @@
           "team_id": "ast_909346e4050341998115bda4ea577464"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_985055e207024f7c9b3dbbc5992f0f71",
-        "date": "2026-10-24",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "委内瑞拉乙级联赛",
-        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
-        "season": "2026",
-        "home": {
-          "name": "拉拉",
-          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
-        },
-        "away": {
-          "name": "乌雷纳",
-          "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2a5ea244d8fe40c08798ec2c9a0aba05",
-        "date": "2026-10-24",
-        "time": "20:00",
-        "status": "Awarded",
-        "league": "委内瑞拉乙级联赛",
-        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
-        "season": "2026",
-        "home": {
-          "name": "马里蒂莫",
-          "team_id": "ast_c90cf15b809e4536adeb64e17114ffee"
-        },
-        "away": {
-          "name": "波多黎各迪纳摩",
-          "team_id": "ast_0b3df99dfebb474a9dd702117d0cb822"
-        },
-        "ht_score": "-",
-        "reg_score": "0-0",
-        "venue": "",
-        "status_label": "判定胜负"
       }
     ]
   },
@@ -9616,13 +9580,13 @@
     }
   },
   "stats": {
-    "matches_completed": 249,
-    "total_goals": 664,
+    "matches_completed": 250,
+    "total_goals": 668,
     "avg_goals_per_match": 2.67,
     "home_wins": 114,
-    "draws": 61,
+    "draws": 62,
     "away_wins": 74,
-    "home_win_pct": 45.8,
+    "home_win_pct": 45.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9649,8 +9613,8 @@
     },
     "leader": {
       "team": "Lara",
-      "points": 69,
-      "played": 31
+      "points": 70,
+      "played": 32
     }
   },
   "coverage": {
@@ -9747,15 +9711,15 @@
             "position": 1,
             "team_id": "ast_09c51ff0526844f783fa96304f32628d",
             "team": "Lara",
-            "played": 31,
+            "played": 32,
             "wins": 21,
-            "draws": 6,
+            "draws": 7,
             "losses": 4,
-            "goals_for": 54,
-            "goals_against": 22,
+            "goals_for": 56,
+            "goals_against": 24,
             "goal_difference": 32,
-            "points": 69,
-            "form": "WWLWW"
+            "points": 70,
+            "form": "DWWLW"
           },
           {
             "position": 1,
@@ -10220,7 +10184,7 @@
     "teams_all_time": 59,
     "standings_rows_current": 17,
     "matches_current_season": 256,
-    "upcoming_matches": 8
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

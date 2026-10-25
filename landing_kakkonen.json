@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_3b3f4df0056142f6a7c9cae912ddaded",
@@ -497,7 +497,7 @@
         "match_id": "as_d91ab855ed8e48baaaa75956f5d6bb71",
         "date": "2026-10-24",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "芬兰甲级联赛",
         "league_id": "asl_3b3f4df0056142f6a7c9cae912ddaded",
         "season": "2026",
@@ -509,7 +509,10 @@
           "name": "胡伊马/乌尔霍",
           "team_id": "ast_dbf6492941e346b3987c6f6f307cb36a"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "5-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_aa780222115c4e3c93c39c372ecdafeb",
@@ -8115,26 +8118,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_d91ab855ed8e48baaaa75956f5d6bb71",
-        "date": "2026-10-24",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "芬兰甲级联赛",
-        "league_id": "asl_3b3f4df0056142f6a7c9cae912ddaded",
-        "season": "2026",
-        "home": {
-          "name": "GBK科科拉",
-          "team_id": "ast_e42faf8f9b3745a8ba070cb93d62797e"
-        },
-        "away": {
-          "name": "胡伊马/乌尔霍",
-          "team_id": "ast_dbf6492941e346b3987c6f6f307cb36a"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -11896,13 +11880,13 @@
     }
   },
   "stats": {
-    "matches_completed": 362,
-    "total_goals": 1401,
-    "avg_goals_per_match": 3.87,
-    "home_wins": 179,
+    "matches_completed": 363,
+    "total_goals": 1407,
+    "avg_goals_per_match": 3.88,
+    "home_wins": 180,
     "draws": 68,
     "away_wins": 115,
-    "home_win_pct": 49.4,
+    "home_win_pct": 49.6,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -12700,7 +12684,7 @@
     "teams_all_time": 76,
     "standings_rows_current": 10,
     "matches_current_season": 363,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

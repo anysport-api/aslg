@@ -56,15 +56,15 @@
         "position": 2,
         "team_id": "ast_5ec79d456abe4ee28a591e3f692e968f",
         "team": "Tbilisi 2025",
-        "played": 24,
-        "wins": 15,
+        "played": 25,
+        "wins": 16,
         "draws": 8,
         "losses": 1,
-        "goals_for": 57,
-        "goals_against": 14,
-        "goal_difference": 43,
-        "points": 53,
-        "form": "DWLDD"
+        "goals_for": 59,
+        "goals_against": 15,
+        "goal_difference": 44,
+        "points": 56,
+        "form": "WDWLD"
       },
       {
         "position": 3,
@@ -112,15 +112,15 @@
         "position": 6,
         "team_id": "ast_012481c0289c4d03ac560324d88fcb2f",
         "team": "WIT Georgia",
-        "played": 24,
+        "played": 25,
         "wins": 11,
         "draws": 5,
-        "losses": 8,
-        "goals_for": 38,
-        "goals_against": 28,
-        "goal_difference": 10,
+        "losses": 9,
+        "goals_for": 39,
+        "goals_against": 30,
+        "goal_difference": 9,
         "points": 38,
-        "form": "LWLWD"
+        "form": "LLWLW"
       },
       {
         "position": 7,
@@ -283,16 +283,16 @@
         "position": 2,
         "team_id": "ast_5ec79d456abe4ee28a591e3f692e968f",
         "team": "第比利斯2025",
-        "played": 24,
-        "wins": 15,
+        "played": 25,
+        "wins": 16,
         "draws": 8,
         "losses": 1,
-        "goals_for": 57,
-        "goals_against": 14,
-        "goal_difference": 43,
-        "points": 53,
-        "form": "DWLDD",
-        "form_label": "平胜负平平"
+        "goals_for": 59,
+        "goals_against": 15,
+        "goal_difference": 44,
+        "points": 56,
+        "form": "WDWLD",
+        "form_label": "胜平胜负平"
       },
       {
         "position": 3,
@@ -343,16 +343,16 @@
         "position": 6,
         "team_id": "ast_012481c0289c4d03ac560324d88fcb2f",
         "team": "WIT乔治亚",
-        "played": 24,
+        "played": 25,
         "wins": 11,
         "draws": 5,
-        "losses": 8,
-        "goals_for": 38,
-        "goals_against": 28,
-        "goal_difference": 10,
+        "losses": 9,
+        "goals_for": 39,
+        "goals_against": 30,
+        "goal_difference": 9,
         "points": 38,
-        "form": "LWLWD",
-        "form_label": "负胜负胜平"
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 7,
@@ -1311,7 +1311,7 @@
         "match_id": "as_812a282d9779442984aa75873f12004e",
         "date": "2026-10-24",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "格鲁吉亚甲级联赛",
         "league_id": "asl_e7ca9840100049e08ca0d9adedbfa8f5",
         "season": "2026",
@@ -1323,7 +1323,10 @@
           "name": "第比利斯2025",
           "team_id": "ast_5ec79d456abe4ee28a591e3f692e968f"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_71e85bf4b49c481a817f06822e1de15b",
@@ -6289,24 +6292,6 @@
           "team_id": "ast_7570aae945dd4e32ad2e25bdd610c042"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_812a282d9779442984aa75873f12004e",
-        "date": "2026-10-24",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "格鲁吉亚甲级联赛",
-        "league_id": "asl_e7ca9840100049e08ca0d9adedbfa8f5",
-        "season": "2026",
-        "home": {
-          "name": "WIT乔治亚",
-          "team_id": "ast_012481c0289c4d03ac560324d88fcb2f"
-        },
-        "away": {
-          "name": "第比利斯2025",
-          "team_id": "ast_5ec79d456abe4ee28a591e3f692e968f"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6884,13 +6869,13 @@
     }
   },
   "stats": {
-    "matches_completed": 199,
-    "total_goals": 593,
+    "matches_completed": 200,
+    "total_goals": 596,
     "avg_goals_per_match": 2.98,
     "home_wins": 83,
     "draws": 50,
-    "away_wins": 66,
-    "home_win_pct": 41.7,
+    "away_wins": 67,
+    "home_win_pct": 41.5,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -7029,15 +7014,15 @@
             "position": 2,
             "team_id": "ast_5ec79d456abe4ee28a591e3f692e968f",
             "team": "Tbilisi 2025",
-            "played": 24,
-            "wins": 15,
+            "played": 25,
+            "wins": 16,
             "draws": 8,
             "losses": 1,
-            "goals_for": 57,
-            "goals_against": 14,
-            "goal_difference": 43,
-            "points": 53,
-            "form": "DWLDD"
+            "goals_for": 59,
+            "goals_against": 15,
+            "goal_difference": 44,
+            "points": 56,
+            "form": "WDWLD"
           },
           {
             "position": 3,
@@ -7651,7 +7636,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 41
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

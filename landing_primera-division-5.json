@@ -228,6 +228,7 @@
       },
       {
         "position": 5,
+        "team_id": "ast_8846cc907b394f2eae0a5c037109b864",
         "team": "San Carlos",
         "played": 12,
         "wins": 6,
@@ -241,31 +242,31 @@
       },
       {
         "position": 6,
-        "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b",
-        "team": "Inter San Carlos",
-        "played": 12,
+        "team_id": "ast_fe1636ce4166499a956d89977011341e",
+        "team": "Puntarenas FC",
+        "played": 13,
         "wins": 5,
         "draws": 3,
-        "losses": 4,
-        "goals_for": 14,
-        "goals_against": 17,
-        "goal_difference": -3,
+        "losses": 5,
+        "goals_for": 15,
+        "goals_against": 19,
+        "goal_difference": -4,
         "points": 18,
-        "form": "LWDLD"
+        "form": "WWLDW"
       },
       {
         "position": 7,
-        "team_id": "ast_fe1636ce4166499a956d89977011341e",
-        "team": "Puntarenas FC",
-        "played": 12,
-        "wins": 4,
+        "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b",
+        "team": "Inter San Carlos",
+        "played": 13,
+        "wins": 5,
         "draws": 3,
         "losses": 5,
-        "goals_for": 12,
-        "goals_against": 18,
-        "goal_difference": -6,
-        "points": 15,
-        "form": "WLDWD"
+        "goals_for": 15,
+        "goals_against": 20,
+        "goal_difference": -5,
+        "points": 18,
+        "form": "LLWDL"
       },
       {
         "position": 8,
@@ -373,7 +374,8 @@
       },
       {
         "position": 5,
-        "team": "阿帕雷西达",
+        "team_id": "ast_8846cc907b394f2eae0a5c037109b864",
+        "team": "圣卡洛斯",
         "played": 12,
         "wins": 6,
         "draws": 1,
@@ -387,33 +389,33 @@
       },
       {
         "position": 6,
-        "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b",
-        "team": "国际圣卡洛斯",
-        "played": 12,
+        "team_id": "ast_fe1636ce4166499a956d89977011341e",
+        "team": "普恩塔雷纳斯FC",
+        "played": 13,
         "wins": 5,
         "draws": 3,
-        "losses": 4,
-        "goals_for": 14,
-        "goals_against": 17,
-        "goal_difference": -3,
+        "losses": 5,
+        "goals_for": 15,
+        "goals_against": 19,
+        "goal_difference": -4,
         "points": 18,
-        "form": "LWDLD",
-        "form_label": "负胜平负平"
+        "form": "WWLDW",
+        "form_label": "胜胜负平胜"
       },
       {
         "position": 7,
-        "team_id": "ast_fe1636ce4166499a956d89977011341e",
-        "team": "普恩塔雷纳斯FC",
-        "played": 12,
-        "wins": 4,
+        "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b",
+        "team": "国际圣卡洛斯",
+        "played": 13,
+        "wins": 5,
         "draws": 3,
         "losses": 5,
-        "goals_for": 12,
-        "goals_against": 18,
-        "goal_difference": -6,
-        "points": 15,
-        "form": "WLDWD",
-        "form_label": "胜负平胜平"
+        "goals_for": 15,
+        "goals_against": 20,
+        "goal_difference": -5,
+        "points": 18,
+        "form": "LLWDL",
+        "form_label": "负负胜平负"
       },
       {
         "position": 8,
@@ -943,7 +945,7 @@
         "match_id": "as_d5214af9c27649208f707be0da17c3b0",
         "date": "2026-10-31",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -955,9 +957,7 @@
           "name": "普恩塔雷纳斯FC",
           "team_id": "ast_fe1636ce4166499a956d89977011341e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_21d621283afb4cd98acf88daf33d1d7b",
@@ -999,7 +999,7 @@
         "match_id": "as_bc48dad090824209b479628e9876a98e",
         "date": "2026-10-25",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -1011,13 +1011,16 @@
           "name": "卡塔吉内斯",
           "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3d62f26bb5534495878f8375dbc2ce5e",
         "date": "2026-10-25",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -1029,7 +1032,10 @@
           "name": "国际圣卡洛斯",
           "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d89a7529bda04d2fa0e3729044d5e563",
@@ -2952,7 +2958,7 @@
         "match_id": "as_d5214af9c27649208f707be0da17c3b0",
         "date": "2026-10-31",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -2964,9 +2970,7 @@
           "name": "普恩塔雷纳斯FC",
           "team_id": "ast_fe1636ce4166499a956d89977011341e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_eef1501ddc2e4a2f8f94e263d6391cca",
@@ -3008,7 +3012,7 @@
         "match_id": "as_3d62f26bb5534495878f8375dbc2ce5e",
         "date": "2026-10-25",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -3020,13 +3024,16 @@
           "name": "国际圣卡洛斯",
           "team_id": "ast_90b3a5e006da4d5e90410997d4f5375b"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_bc48dad090824209b479628e9876a98e",
         "date": "2026-10-25",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -3038,26 +3045,8 @@
           "name": "卡塔吉内斯",
           "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_49ef9ff065904aae93fe84e0117369ff",
-        "date": "2026-10-24",
-        "time": "02:00",
-        "status": "FT",
-        "league": "哥斯达黎加甲级联赛",
-        "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
-        "season": "2026/2027",
-        "home": {
-          "name": "蝎子队",
-          "team_id": "ast_1597eef96b094d129d146452ed150987"
-        },
-        "away": {
-          "name": "圣荷西体育",
-          "team_id": "ast_056c40b6a94a4dac992925a91f0448fd"
-        },
-        "ht_score": "1-1",
-        "reg_score": "2-4",
+        "ht_score": "1-0",
+        "reg_score": "3-1",
         "venue": "",
         "status_label": "完场"
       }
@@ -7507,13 +7496,13 @@
     }
   },
   "stats": {
-    "matches_completed": 61,
-    "total_goals": 168,
-    "avg_goals_per_match": 2.75,
-    "home_wins": 28,
+    "matches_completed": 63,
+    "total_goals": 176,
+    "avg_goals_per_match": 2.79,
+    "home_wins": 30,
     "draws": 11,
     "away_wins": 22,
-    "home_win_pct": 45.9,
+    "home_win_pct": 47.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8311,7 +8300,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 10,
     "matches_current_season": 97,
-    "upcoming_matches": 30
+    "upcoming_matches": 29
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_b56effba61534f26ab9587becdfb5376",
@@ -132,15 +132,15 @@
         "position": 1,
         "team_id": "ast_35bc28ab4e2f42ff9bf8beb23a50a374",
         "team": "Sandur",
-        "played": 26,
-        "wins": 20,
+        "played": 27,
+        "wins": 21,
         "draws": 3,
         "losses": 3,
-        "goals_for": 84,
+        "goals_for": 88,
         "goals_against": 27,
-        "goal_difference": 57,
-        "points": 63,
-        "form": "WDWLW"
+        "goal_difference": 61,
+        "points": 66,
+        "form": "WWDWL"
       },
       {
         "position": 2,
@@ -160,46 +160,32 @@
         "position": 3,
         "team_id": "ast_fc8ef661edee45808b8bfc5fb37f4475",
         "team": "FC Suduroy",
-        "played": 26,
+        "played": 27,
         "wins": 17,
         "draws": 3,
-        "losses": 6,
-        "goals_for": 77,
-        "goals_against": 36,
-        "goal_difference": 41,
+        "losses": 7,
+        "goals_for": 80,
+        "goals_against": 42,
+        "goal_difference": 38,
         "points": 54,
-        "form": "DWLWW"
+        "form": "LDWLW"
       },
       {
         "position": 4,
         "team_id": "ast_59be459124c94af4820339f33076352d",
         "team": "IF Fuglafjordur",
-        "played": 26,
-        "wins": 10,
+        "played": 27,
+        "wins": 11,
         "draws": 7,
         "losses": 9,
-        "goals_for": 56,
-        "goals_against": 58,
-        "goal_difference": -2,
-        "points": 37,
-        "form": "LLDWL"
+        "goals_for": 62,
+        "goals_against": 61,
+        "goal_difference": 1,
+        "points": 40,
+        "form": "WLLDW"
       },
       {
         "position": 5,
-        "team_id": "ast_092512b85e564cbab1f46e50bdbd5694",
-        "team": "TB Tvoroyri",
-        "played": 26,
-        "wins": 9,
-        "draws": 8,
-        "losses": 9,
-        "goals_for": 50,
-        "goals_against": 52,
-        "goal_difference": -2,
-        "points": 35,
-        "form": "DWDDL"
-      },
-      {
-        "position": 6,
         "team_id": "ast_2817b9a7753c4104ba43a4fae57d3cab",
         "team": "B36 Torshavn 2",
         "played": 27,
@@ -211,6 +197,20 @@
         "goal_difference": -6,
         "points": 35,
         "form": "WLWWW"
+      },
+      {
+        "position": 6,
+        "team_id": "ast_092512b85e564cbab1f46e50bdbd5694",
+        "team": "TB Tvoroyri",
+        "played": 27,
+        "wins": 9,
+        "draws": 8,
+        "losses": 10,
+        "goals_for": 50,
+        "goals_against": 56,
+        "goal_difference": -6,
+        "points": 35,
+        "form": "LDWDD"
       },
       {
         "position": 7,
@@ -274,16 +274,16 @@
         "position": 1,
         "team_id": "ast_35bc28ab4e2f42ff9bf8beb23a50a374",
         "team": "桑杜尔",
-        "played": 26,
-        "wins": 20,
+        "played": 27,
+        "wins": 21,
         "draws": 3,
         "losses": 3,
-        "goals_for": 84,
+        "goals_for": 88,
         "goals_against": 27,
-        "goal_difference": 57,
-        "points": 63,
-        "form": "WDWLW",
-        "form_label": "胜平胜负胜"
+        "goal_difference": 61,
+        "points": 66,
+        "form": "WWDWL",
+        "form_label": "胜胜平胜负"
       },
       {
         "position": 2,
@@ -304,49 +304,34 @@
         "position": 3,
         "team_id": "ast_fc8ef661edee45808b8bfc5fb37f4475",
         "team": "苏杜罗伊足球俱乐部",
-        "played": 26,
+        "played": 27,
         "wins": 17,
         "draws": 3,
-        "losses": 6,
-        "goals_for": 77,
-        "goals_against": 36,
-        "goal_difference": 41,
+        "losses": 7,
+        "goals_for": 80,
+        "goals_against": 42,
+        "goal_difference": 38,
         "points": 54,
-        "form": "DWLWW",
-        "form_label": "平胜负胜胜"
+        "form": "LDWLW",
+        "form_label": "负平胜负胜"
       },
       {
         "position": 4,
         "team_id": "ast_59be459124c94af4820339f33076352d",
         "team": "IF福格拉菲尔杜尔",
-        "played": 26,
-        "wins": 10,
+        "played": 27,
+        "wins": 11,
         "draws": 7,
         "losses": 9,
-        "goals_for": 56,
-        "goals_against": 58,
-        "goal_difference": -2,
-        "points": 37,
-        "form": "LLDWL",
-        "form_label": "负负平胜负"
+        "goals_for": 62,
+        "goals_against": 61,
+        "goal_difference": 1,
+        "points": 40,
+        "form": "WLLDW",
+        "form_label": "胜负负平胜"
       },
       {
         "position": 5,
-        "team_id": "ast_092512b85e564cbab1f46e50bdbd5694",
-        "team": "TB特沃罗伊里",
-        "played": 26,
-        "wins": 9,
-        "draws": 8,
-        "losses": 9,
-        "goals_for": 50,
-        "goals_against": 52,
-        "goal_difference": -2,
-        "points": 35,
-        "form": "DWDDL",
-        "form_label": "平胜平平负"
-      },
-      {
-        "position": 6,
         "team_id": "ast_2817b9a7753c4104ba43a4fae57d3cab",
         "team": "B36 托尔斯哈芬二队",
         "played": 27,
@@ -359,6 +344,21 @@
         "points": 35,
         "form": "WLWWW",
         "form_label": "胜负胜胜胜"
+      },
+      {
+        "position": 6,
+        "team_id": "ast_092512b85e564cbab1f46e50bdbd5694",
+        "team": "TB特沃罗伊里",
+        "played": 27,
+        "wins": 9,
+        "draws": 8,
+        "losses": 10,
+        "goals_for": 50,
+        "goals_against": 56,
+        "goal_difference": -6,
+        "points": 35,
+        "form": "LDWDD",
+        "form_label": "负平胜平平"
       },
       {
         "position": 7,
@@ -443,7 +443,7 @@
         "match_id": "as_14109f18125b420883fe850e3774ae89",
         "date": "2026-10-24",
         "time": "14:45",
-        "status": "14:45",
+        "status": "FT",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -455,13 +455,16 @@
           "name": "苏杜罗伊足球俱乐部",
           "team_id": "ast_fc8ef661edee45808b8bfc5fb37f4475"
         },
-        "venue": ""
+        "ht_score": "2-2",
+        "reg_score": "6-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1b1069cf71154567a13ff4ab3e124856",
         "date": "2026-10-24",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "法罗群岛甲级联赛",
         "league_id": "asl_b56effba61534f26ab9587becdfb5376",
         "season": "2026",
@@ -473,7 +476,10 @@
           "name": "桑杜尔",
           "team_id": "ast_35bc28ab4e2f42ff9bf8beb23a50a374"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f9feecf78f3c49cd93ebad2e12b5d795",
@@ -3269,44 +3275,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_1b1069cf71154567a13ff4ab3e124856",
-        "date": "2026-10-24",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "法罗群岛甲级联赛",
-        "league_id": "asl_b56effba61534f26ab9587becdfb5376",
-        "season": "2026",
-        "home": {
-          "name": "TB特沃罗伊里",
-          "team_id": "ast_092512b85e564cbab1f46e50bdbd5694"
-        },
-        "away": {
-          "name": "桑杜尔",
-          "team_id": "ast_35bc28ab4e2f42ff9bf8beb23a50a374"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_14109f18125b420883fe850e3774ae89",
-        "date": "2026-10-24",
-        "time": "14:45",
-        "status": "14:45",
-        "league": "法罗群岛甲级联赛",
-        "league_id": "asl_b56effba61534f26ab9587becdfb5376",
-        "season": "2026",
-        "home": {
-          "name": "IF福格拉菲尔杜尔",
-          "team_id": "ast_59be459124c94af4820339f33076352d"
-        },
-        "away": {
-          "name": "苏杜罗伊足球俱乐部",
-          "team_id": "ast_fc8ef661edee45808b8bfc5fb37f4475"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -4686,13 +4655,13 @@
     }
   },
   "stats": {
-    "matches_completed": 133,
-    "total_goals": 544,
-    "avg_goals_per_match": 4.09,
-    "home_wins": 56,
+    "matches_completed": 135,
+    "total_goals": 557,
+    "avg_goals_per_match": 4.13,
+    "home_wins": 57,
     "draws": 21,
-    "away_wins": 56,
-    "home_win_pct": 42.1,
+    "away_wins": 57,
+    "home_win_pct": 42.2,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -4719,8 +4688,8 @@
     },
     "leader": {
       "team": "Sandur",
-      "points": 63,
-      "played": 26
+      "points": 66,
+      "played": 27
     }
   },
   "coverage": {
@@ -4817,15 +4786,15 @@
             "position": 1,
             "team_id": "ast_35bc28ab4e2f42ff9bf8beb23a50a374",
             "team": "Sandur",
-            "played": 26,
-            "wins": 20,
+            "played": 27,
+            "wins": 21,
             "draws": 3,
             "losses": 3,
-            "goals_for": 84,
+            "goals_for": 88,
             "goals_against": 27,
-            "goal_difference": 57,
-            "points": 63,
-            "form": "WDWLW"
+            "goal_difference": 61,
+            "points": 66,
+            "form": "WWDWL"
           },
           {
             "position": 2,
@@ -4845,15 +4814,15 @@
             "position": 3,
             "team_id": "ast_fc8ef661edee45808b8bfc5fb37f4475",
             "team": "FC Suduroy",
-            "played": 26,
+            "played": 27,
             "wins": 17,
             "draws": 3,
-            "losses": 6,
-            "goals_for": 77,
-            "goals_against": 36,
-            "goal_difference": 41,
+            "losses": 7,
+            "goals_for": 80,
+            "goals_against": 42,
+            "goal_difference": 38,
             "points": 54,
-            "form": "DWLWW"
+            "form": "LDWLW"
           }
         ],
         "meta": {
@@ -5490,7 +5459,7 @@
     "teams_all_time": 21,
     "standings_rows_current": 10,
     "matches_current_season": 135,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

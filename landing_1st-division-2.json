@@ -507,7 +507,7 @@
         "match_id": "as_d9776b13684a433aa5b0a82d98e86c16",
         "date": "2026-10-24",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "爱尔兰甲级联赛",
         "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
         "season": "2026",
@@ -519,13 +519,16 @@
           "name": "UCD",
           "team_id": "ast_3adf8fe8fff7428e8281943bbc1df3d8"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b5efefc952a542f1a883b237438b8b99",
         "date": "2026-10-24",
         "time": "18:45",
-        "status": "18:45",
+        "status": "FT",
         "league": "爱尔兰甲级联赛",
         "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
         "season": "2026",
@@ -537,7 +540,10 @@
           "name": "布雷伊流浪者",
           "team_id": "ast_2be901a957c24a0c8da6b7b6540ed0e8"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5d808726153741cea2bdf6046f9bf1de",
@@ -4360,42 +4366,6 @@
         "ht_score": "-",
         "venue": "卡莱尔场地",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b5efefc952a542f1a883b237438b8b99",
-        "date": "2026-10-24",
-        "time": "18:45",
-        "status": "18:45",
-        "league": "爱尔兰甲级联赛",
-        "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
-        "season": "2026",
-        "home": {
-          "name": "凯里",
-          "team_id": "ast_7f54d7650e0d4787bcdb364f29df3be5"
-        },
-        "away": {
-          "name": "布雷伊流浪者",
-          "team_id": "ast_2be901a957c24a0c8da6b7b6540ed0e8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d9776b13684a433aa5b0a82d98e86c16",
-        "date": "2026-10-24",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "爱尔兰甲级联赛",
-        "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
-        "season": "2026",
-        "home": {
-          "name": "朗福德镇",
-          "team_id": "ast_774f43fd65ea4c0bbb61a85913bd1dd8"
-        },
-        "away": {
-          "name": "UCD",
-          "team_id": "ast_3adf8fe8fff7428e8281943bbc1df3d8"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5767,13 +5737,13 @@
     }
   },
   "stats": {
-    "matches_completed": 180,
-    "total_goals": 504,
+    "matches_completed": 182,
+    "total_goals": 509,
     "avg_goals_per_match": 2.8,
     "home_wins": 89,
     "draws": 42,
-    "away_wins": 49,
-    "home_win_pct": 49.4,
+    "away_wins": 51,
+    "home_win_pct": 48.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6568,7 +6538,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 10,
     "matches_current_season": 184,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

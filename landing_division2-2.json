@@ -10380,9 +10380,29 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_114c78e8515b450ca271f89c3d5f2312",
+        "match_id": "as_124dc2cf79384600aa78b8d38351d63d",
         "date": "2026-11-01",
         "time": "14:00",
+        "status": "Not Started",
+        "league": "葡萄牙乙级联赛",
+        "league_id": "asl_c188ac2f1d3f4ae4915d848df945693a",
+        "season": "2026/2027",
+        "home": {
+          "name": "通德拉",
+          "team_id": "ast_38064ff6136d47449b876f69903fc8fd"
+        },
+        "away": {
+          "name": "费尔基拉斯",
+          "team_id": "ast_9257a03607d94298a34373a781d82a4e"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_114c78e8515b450ca271f89c3d5f2312",
+        "date": "2026-11-01",
+        "time": "15:30",
         "status": "Not Started",
         "league": "葡萄牙乙级联赛",
         "league_id": "asl_c188ac2f1d3f4ae4915d848df945693a",
@@ -10500,30 +10520,10 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_124dc2cf79384600aa78b8d38351d63d",
-        "date": "2026-10-30",
-        "time": "18:00",
-        "status": "Not Started",
-        "league": "葡萄牙乙级联赛",
-        "league_id": "asl_c188ac2f1d3f4ae4915d848df945693a",
-        "season": "2026/2027",
-        "home": {
-          "name": "通德拉",
-          "team_id": "ast_38064ff6136d47449b876f69903fc8fd"
-        },
-        "away": {
-          "name": "费尔基拉斯",
-          "team_id": "ast_9257a03607d94298a34373a781d82a4e"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_d55db243b574444bbace2546e0bebe1f",
         "date": "2026-10-26",
         "time": "20:45",
-        "status": "Not Started",
+        "status": "20:45",
         "league": "葡萄牙乙级联赛",
         "league_id": "asl_c188ac2f1d3f4ae4915d848df945693a",
         "season": "2026/2027",
@@ -10535,9 +10535,7 @@
           "name": "阿马兰特",
           "team_id": "ast_70cee356985a445bb92043bb2d743deb"
         },
-        "ht_score": "-",
-        "venue": "Estadio Manuel Marques",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ae205634eb794366b539f8334adb8a5f",
@@ -10590,24 +10588,6 @@
         "away": {
           "name": "通德拉",
           "team_id": "ast_38064ff6136d47449b876f69903fc8fd"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_445a441f8ff444fdafc6bfd452bec06e",
-        "date": "2026-10-24",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "葡萄牙乙级联赛",
-        "league_id": "asl_c188ac2f1d3f4ae4915d848df945693a",
-        "season": "2026/2027",
-        "home": {
-          "name": "体育CP B",
-          "team_id": "ast_05182cb772ca4a5f95397ee71d794c21"
-        },
-        "away": {
-          "name": "波尔蒂芒嫩斯",
-          "team_id": "ast_e47edcf28e564856ac87ad0039515c74"
         },
         "venue": ""
       }
@@ -17956,7 +17936,7 @@
     "teams_all_time": 65,
     "standings_rows_current": 18,
     "matches_current_season": 308,
-    "upcoming_matches": 50
+    "upcoming_matches": 49
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

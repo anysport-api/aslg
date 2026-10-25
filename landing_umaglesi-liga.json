@@ -314,15 +314,15 @@
         "position": 5,
         "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
         "team": "Dila Gori",
-        "played": 29,
+        "played": 30,
         "wins": 12,
         "draws": 4,
-        "losses": 13,
-        "goals_for": 39,
-        "goals_against": 35,
-        "goal_difference": 4,
+        "losses": 14,
+        "goals_for": 40,
+        "goals_against": 37,
+        "goal_difference": 3,
         "points": 40,
-        "form": "LLWLD"
+        "form": "LLLWL"
       },
       {
         "position": 6,
@@ -384,15 +384,15 @@
         "position": 10,
         "team_id": "ast_63ea2688f99243658d2b5a37b0cb844e",
         "team": "Meshakhte Tkibuli",
-        "played": 29,
-        "wins": 2,
+        "played": 30,
+        "wins": 3,
         "draws": 11,
         "losses": 16,
-        "goals_for": 21,
-        "goals_against": 48,
-        "goal_difference": -27,
-        "points": 17,
-        "form": "LLDLD"
+        "goals_for": 23,
+        "goals_against": 49,
+        "goal_difference": -26,
+        "points": 20,
+        "form": "WLLDL"
       }
     ],
     "zh": [
@@ -460,16 +460,16 @@
         "position": 5,
         "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
         "team": "迪拉",
-        "played": 29,
+        "played": 30,
         "wins": 12,
         "draws": 4,
-        "losses": 13,
-        "goals_for": 39,
-        "goals_against": 35,
-        "goal_difference": 4,
+        "losses": 14,
+        "goals_for": 40,
+        "goals_against": 37,
+        "goal_difference": 3,
         "points": 40,
-        "form": "LLWLD",
-        "form_label": "负负胜负平"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 6,
@@ -535,16 +535,16 @@
         "position": 10,
         "team_id": "ast_63ea2688f99243658d2b5a37b0cb844e",
         "team": "梅沙赫特特基布利",
-        "played": 29,
-        "wins": 2,
+        "played": 30,
+        "wins": 3,
         "draws": 11,
         "losses": 16,
-        "goals_for": 21,
-        "goals_against": 48,
-        "goal_difference": -27,
-        "points": 17,
-        "form": "LLDLD",
-        "form_label": "负负平负平"
+        "goals_for": 23,
+        "goals_against": 49,
+        "goal_difference": -26,
+        "points": 20,
+        "form": "WLLDL",
+        "form_label": "胜负负平负"
       }
     ]
   },
@@ -1169,7 +1169,7 @@
         "match_id": "as_14dabc45d29f49bead50c194b216f758",
         "date": "2026-10-26",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1181,15 +1181,13 @@
           "name": "库塔伊西",
           "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9"
         },
-        "ht_score": "-",
-        "venue": "Mikheil Meskhi Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b3669105400b408aa5eec3aa74805a62",
         "date": "2026-10-24",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1201,13 +1199,16 @@
           "name": "萨姆古拉利",
           "team_id": "ast_593d552c5fb9404eb3a0357ed098135b"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_219eff3b6c294d26aec19d1469c9996c",
         "date": "2026-10-24",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1219,7 +1220,10 @@
           "name": "迪拉",
           "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7b08121bfb40433daf458b0c0686d6f6",
@@ -4914,7 +4918,7 @@
         "match_id": "as_14dabc45d29f49bead50c194b216f758",
         "date": "2026-10-26",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -4925,44 +4929,6 @@
         "away": {
           "name": "库塔伊西",
           "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9"
-        },
-        "ht_score": "-",
-        "venue": "Mikheil Meskhi Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_219eff3b6c294d26aec19d1469c9996c",
-        "date": "2026-10-24",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "梅沙赫特特基布利",
-          "team_id": "ast_63ea2688f99243658d2b5a37b0cb844e"
-        },
-        "away": {
-          "name": "迪拉",
-          "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b3669105400b408aa5eec3aa74805a62",
-        "date": "2026-10-24",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "巴统迪纳摩",
-          "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64"
-        },
-        "away": {
-          "name": "萨姆古拉利",
-          "team_id": "ast_593d552c5fb9404eb3a0357ed098135b"
         },
         "venue": ""
       }
@@ -7534,13 +7500,13 @@
     }
   },
   "stats": {
-    "matches_completed": 147,
-    "total_goals": 391,
+    "matches_completed": 149,
+    "total_goals": 397,
     "avg_goals_per_match": 2.66,
-    "home_wins": 59,
+    "home_wins": 61,
     "draws": 41,
     "away_wins": 47,
-    "home_win_pct": 40.1,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8338,7 +8304,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 33
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

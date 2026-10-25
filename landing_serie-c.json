@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
@@ -727,7 +727,7 @@
         "match_id": "as_000ebce8994f4f72bc13f5960587114e",
         "date": "2026-10-24",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "巴西丙级联赛",
         "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
         "season": "2026",
@@ -739,7 +739,10 @@
           "name": "马林加FC",
           "team_id": "ast_df319754a46744b29dd51ca5fa201626"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c2ccadf0cbbf42a6b162279629a50404",
@@ -5257,26 +5260,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_000ebce8994f4f72bc13f5960587114e",
-        "date": "2026-10-24",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "巴西丙级联赛",
-        "league_id": "asl_de5b1080076945fc9e20c59860030e0d",
-        "season": "2026",
-        "home": {
-          "name": "费罗维亚里亚",
-          "team_id": "ast_47c21450d2eb4d0c861262b0eeb32885"
-        },
-        "away": {
-          "name": "马林加FC",
-          "team_id": "ast_df319754a46744b29dd51ca5fa201626"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -7231,13 +7215,13 @@
     }
   },
   "stats": {
-    "matches_completed": 215,
-    "total_goals": 485,
+    "matches_completed": 216,
+    "total_goals": 488,
     "avg_goals_per_match": 2.26,
     "home_wins": 99,
     "draws": 62,
-    "away_wins": 54,
-    "home_win_pct": 46.0,
+    "away_wins": 55,
+    "home_win_pct": 45.8,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8035,7 +8019,7 @@
     "teams_all_time": 49,
     "standings_rows_current": 20,
     "matches_current_season": 216,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }

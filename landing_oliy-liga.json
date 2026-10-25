@@ -190,6 +190,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645",
+        "team": "Nasaf Qarshi",
+        "played": 25,
+        "wins": 11,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 37,
+        "goals_against": 23,
+        "goal_difference": 14,
+        "points": 41,
+        "form": "WDWWW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_f0e12c94dee7454bab9e2b5092ef0291",
         "team": "Buxoro",
         "played": 25,
@@ -203,7 +217,7 @@
         "form": "DWWLL"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_29c221727c7a4d89bebcac38e811f554",
         "team": "Lok. Tashkent",
         "played": 24,
@@ -217,7 +231,7 @@
         "form": "DWLWD"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee",
         "team": "OKMK",
         "played": 24,
@@ -229,20 +243,6 @@
         "goal_difference": 3,
         "points": 39,
         "form": "WDWLW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645",
-        "team": "Nasaf Qarshi",
-        "played": 24,
-        "wins": 10,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 35,
-        "goals_against": 22,
-        "goal_difference": 13,
-        "points": 38,
-        "form": "DWWWW"
       },
       {
         "position": 8,
@@ -290,15 +290,15 @@
         "position": 11,
         "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c",
         "team": "Sogdiana",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 5,
-        "losses": 11,
-        "goals_for": 41,
-        "goals_against": 47,
-        "goal_difference": -6,
+        "losses": 12,
+        "goals_for": 42,
+        "goals_against": 49,
+        "goal_difference": -7,
         "points": 29,
-        "form": "DLLDW"
+        "form": "LDLLD"
       },
       {
         "position": 12,
@@ -419,6 +419,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645",
+        "team": "纳萨夫",
+        "played": 25,
+        "wins": 11,
+        "draws": 8,
+        "losses": 6,
+        "goals_for": 37,
+        "goals_against": 23,
+        "goal_difference": 14,
+        "points": 41,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_f0e12c94dee7454bab9e2b5092ef0291",
         "team": "布哈拉",
         "played": 25,
@@ -433,7 +448,7 @@
         "form_label": "平胜胜负负"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_29c221727c7a4d89bebcac38e811f554",
         "team": "塔什干火车头",
         "played": 24,
@@ -448,7 +463,7 @@
         "form_label": "平胜负胜平"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee",
         "team": "OKMK",
         "played": 24,
@@ -461,21 +476,6 @@
         "points": 39,
         "form": "WDWLW",
         "form_label": "胜平胜负胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645",
-        "team": "纳萨夫",
-        "played": 24,
-        "wins": 10,
-        "draws": 8,
-        "losses": 6,
-        "goals_for": 35,
-        "goals_against": 22,
-        "goal_difference": 13,
-        "points": 38,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
       },
       {
         "position": 8,
@@ -526,16 +526,16 @@
         "position": 11,
         "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c",
         "team": "索格迪亚纳",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 5,
-        "losses": 11,
-        "goals_for": 41,
-        "goals_against": 47,
-        "goal_difference": -6,
+        "losses": 12,
+        "goals_for": 42,
+        "goals_against": 49,
+        "goal_difference": -7,
         "points": 29,
-        "form": "DLLDW",
-        "form_label": "平负负平胜"
+        "form": "LDLLD",
+        "form_label": "负平负负平"
       },
       {
         "position": 12,
@@ -1315,7 +1315,7 @@
         "match_id": "as_b7c9406715d14cd3821ad4e61e8ee268",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1327,15 +1327,13 @@
           "name": "撒马尔罕迪纳摩",
           "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
         },
-        "ht_score": "-",
-        "venue": "Bahrom Vafoev Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2fbc135435ce4ea08458a0eea60ed0df",
         "date": "2026-10-31",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1347,15 +1345,13 @@
           "name": "安吉扬",
           "team_id": "ast_71c2c02ee05641bebf13dc9e73be1d73"
         },
-        "ht_score": "-",
-        "venue": "Markaziy Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3d2ea9523e4e412c812d9c7d6a3c79e6",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1367,15 +1363,13 @@
           "name": "纳萨夫",
           "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645"
         },
-        "ht_score": "-",
-        "venue": "Stadion Surkhon",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_44124b2411ba4e7c83c2fb98b6cd1280",
         "date": "2026-10-30",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1387,15 +1381,13 @@
           "name": "基齐尔库姆",
           "team_id": "ast_b87e15a2d67a4e0485a87e04d995af66"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4a0e6aa73f574b2fa3ef68e257895f99",
         "date": "2026-10-30",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1407,15 +1399,13 @@
           "name": "布哈拉",
           "team_id": "ast_f0e12c94dee7454bab9e2b5092ef0291"
         },
-        "ht_score": "-",
-        "venue": "Sogdiana Sport Complex",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8fb1055e7a684a57b9b7c07085366470",
         "date": "2026-10-30",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1427,15 +1417,13 @@
           "name": "帕赫塔科尔",
           "team_id": "ast_921950f68f7246ec9d6fb925189723b8"
         },
-        "ht_score": "-",
-        "venue": "Xorazm Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4bb568a716104574824de435963e07f5",
         "date": "2026-10-26",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1447,9 +1435,7 @@
           "name": "纳夫巴霍尔·纳曼甘",
           "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc"
         },
-        "ht_score": "-",
-        "venue": "Xorazm Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bc17a9e40f4a4ea3b4e0b3eecdfbdee0",
@@ -1509,7 +1495,7 @@
         "match_id": "as_ac80fdff92484bdf94e5aa4cbc940eed",
         "date": "2026-10-24",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1521,7 +1507,10 @@
           "name": "索格迪亚纳",
           "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a64f560fe7e144bcbba1097c8669a104",
@@ -6321,7 +6310,7 @@
         "match_id": "as_3d2ea9523e4e412c812d9c7d6a3c79e6",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6333,15 +6322,13 @@
           "name": "纳萨夫",
           "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645"
         },
-        "ht_score": "-",
-        "venue": "Stadion Surkhon",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_2fbc135435ce4ea08458a0eea60ed0df",
         "date": "2026-10-31",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6353,15 +6340,13 @@
           "name": "安吉扬",
           "team_id": "ast_71c2c02ee05641bebf13dc9e73be1d73"
         },
-        "ht_score": "-",
-        "venue": "Markaziy Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b7c9406715d14cd3821ad4e61e8ee268",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6373,15 +6358,13 @@
           "name": "撒马尔罕迪纳摩",
           "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
         },
-        "ht_score": "-",
-        "venue": "Bahrom Vafoev Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8fb1055e7a684a57b9b7c07085366470",
         "date": "2026-10-30",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6393,15 +6376,13 @@
           "name": "帕赫塔科尔",
           "team_id": "ast_921950f68f7246ec9d6fb925189723b8"
         },
-        "ht_score": "-",
-        "venue": "Xorazm Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4a0e6aa73f574b2fa3ef68e257895f99",
         "date": "2026-10-30",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6413,15 +6394,13 @@
           "name": "布哈拉",
           "team_id": "ast_f0e12c94dee7454bab9e2b5092ef0291"
         },
-        "ht_score": "-",
-        "venue": "Sogdiana Sport Complex",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_44124b2411ba4e7c83c2fb98b6cd1280",
         "date": "2026-10-30",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6433,15 +6412,13 @@
           "name": "基齐尔库姆",
           "team_id": "ast_b87e15a2d67a4e0485a87e04d995af66"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4bb568a716104574824de435963e07f5",
         "date": "2026-10-26",
         "time": "13:30",
-        "status": "Not Started",
+        "status": "13:30",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -6453,9 +6430,7 @@
           "name": "纳夫巴霍尔·纳曼甘",
           "team_id": "ast_3b3eeb063af948dd93f89646cf6c56bc"
         },
-        "ht_score": "-",
-        "venue": "Xorazm Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9d3a0ac5f14045d8b4ce29fdec940196",
@@ -6508,24 +6483,6 @@
         "away": {
           "name": "安吉扬",
           "team_id": "ast_71c2c02ee05641bebf13dc9e73be1d73"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ac80fdff92484bdf94e5aa4cbc940eed",
-        "date": "2026-10-24",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "season": "2026",
-        "home": {
-          "name": "纳萨夫",
-          "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645"
-        },
-        "away": {
-          "name": "索格迪亚纳",
-          "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c"
         },
         "venue": ""
       }
@@ -8411,13 +8368,13 @@
     }
   },
   "stats": {
-    "matches_completed": 195,
-    "total_goals": 520,
+    "matches_completed": 196,
+    "total_goals": 523,
     "avg_goals_per_match": 2.67,
-    "home_wins": 84,
+    "home_wins": 85,
     "draws": 44,
     "away_wins": 67,
-    "home_win_pct": 43.1,
+    "home_win_pct": 43.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9215,7 +9172,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 46
+    "upcoming_matches": 45
   },
-  "updated_at": "2026/10/24"
+  "updated_at": "2026/10/25"
 }
