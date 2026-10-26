@@ -316,6 +316,20 @@
       },
       {
         "position": 10,
+        "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+        "team": "Trencin",
+        "played": 11,
+        "wins": 2,
+        "draws": 3,
+        "losses": 6,
+        "goals_for": 12,
+        "goals_against": 21,
+        "goal_difference": -9,
+        "points": 9,
+        "form": "DWLLL"
+      },
+      {
+        "position": 11,
         "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
         "team": "Ruzomberok",
         "played": 12,
@@ -329,32 +343,18 @@
         "form": "LWDLW"
       },
       {
-        "position": 11,
-        "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-        "team": "Trencin",
-        "played": 10,
-        "wins": 2,
-        "draws": 2,
-        "losses": 6,
-        "goals_for": 12,
-        "goals_against": 21,
-        "goal_difference": -9,
-        "points": 8,
-        "form": "WLLLL"
-      },
-      {
         "position": 12,
         "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
         "team": "Komarno",
-        "played": 11,
+        "played": 12,
         "wins": 0,
-        "draws": 6,
+        "draws": 7,
         "losses": 5,
         "goals_for": 9,
         "goals_against": 16,
         "goal_difference": -7,
-        "points": 6,
-        "form": "LDLDD"
+        "points": 7,
+        "form": "DLDLD"
       }
     ],
     "zh": [
@@ -495,6 +495,21 @@
       },
       {
         "position": 10,
+        "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+        "team": "特伦钦",
+        "played": 11,
+        "wins": 2,
+        "draws": 3,
+        "losses": 6,
+        "goals_for": 12,
+        "goals_against": 21,
+        "goal_difference": -9,
+        "points": 9,
+        "form": "DWLLL",
+        "form_label": "平胜负负负"
+      },
+      {
+        "position": 11,
         "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
         "team": "鲁赞贝罗克",
         "played": 12,
@@ -509,34 +524,19 @@
         "form_label": "负胜平负胜"
       },
       {
-        "position": 11,
-        "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-        "team": "特伦钦",
-        "played": 10,
-        "wins": 2,
-        "draws": 2,
-        "losses": 6,
-        "goals_for": 12,
-        "goals_against": 21,
-        "goal_difference": -9,
-        "points": 8,
-        "form": "WLLLL",
-        "form_label": "胜负负负负"
-      },
-      {
         "position": 12,
         "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
         "team": "科马尔诺",
-        "played": 11,
+        "played": 12,
         "wins": 0,
-        "draws": 6,
+        "draws": 7,
         "losses": 5,
         "goals_for": 9,
         "goals_against": 16,
         "goal_difference": -7,
-        "points": 6,
-        "form": "LDLDD",
-        "form_label": "负平负平平"
+        "points": 7,
+        "form": "DLDLD",
+        "form_label": "平负平负平"
       }
     ]
   },
@@ -3887,7 +3887,7 @@
         "match_id": "as_b391bf5939e74fff97eff5b623f92768",
         "date": "2026-10-25",
         "time": "14:30",
-        "status": "14:30",
+        "status": "FT",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
         "season": "2026/2027",
@@ -3899,13 +3899,16 @@
           "name": "特伦钦",
           "team_id": "ast_98e3df867814417c968fd30d3622d0b2"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a92f4fba6f714017be62668e6bd7205f",
         "date": "2026-10-25",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
         "season": "2026/2027",
@@ -3917,7 +3920,10 @@
           "name": "日利纳",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3049f8259f7a4c6d9b081e2d867cafef",
@@ -5988,42 +5994,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_a92f4fba6f714017be62668e6bd7205f",
-        "date": "2026-10-25",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "科希策",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
-        },
-        "away": {
-          "name": "日利纳",
-          "team_id": "ast_87e23be8ef7441909863bec45722ed1e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b391bf5939e74fff97eff5b623f92768",
-        "date": "2026-10-25",
-        "time": "14:30",
-        "status": "14:30",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "科马尔诺",
-          "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd"
-        },
-        "away": {
-          "name": "特伦钦",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10476,13 +10446,13 @@
     }
   },
   "stats": {
-    "matches_completed": 68,
-    "total_goals": 224,
-    "avg_goals_per_match": 3.29,
+    "matches_completed": 70,
+    "total_goals": 228,
+    "avg_goals_per_match": 3.26,
     "home_wins": 24,
-    "draws": 19,
+    "draws": 21,
     "away_wins": 25,
-    "home_win_pct": 35.3,
+    "home_win_pct": 34.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11286,7 +11256,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 34
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

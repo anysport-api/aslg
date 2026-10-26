@@ -230,15 +230,15 @@
         "position": 2,
         "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3",
         "team": "Vejle",
-        "played": 11,
+        "played": 12,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 1,
         "goals_for": 24,
         "goals_against": 15,
         "goal_difference": 9,
-        "points": 22,
-        "form": "WLDDW"
+        "points": 23,
+        "form": "DWLDD"
       },
       {
         "position": 3,
@@ -270,6 +270,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_7b2cb4ee7d694da6be87614138260619",
+        "team": "Aarhus Fremad",
+        "played": 12,
+        "wins": 3,
+        "draws": 6,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 11,
+        "goal_difference": -1,
+        "points": 15,
+        "form": "DDLLD"
+      },
+      {
+        "position": 6,
         "team_id": "ast_86d69a17c1de47ba8a800cddb1238596",
         "team": "Hobro",
         "played": 12,
@@ -281,20 +295,6 @@
         "goal_difference": -7,
         "points": 15,
         "form": "DLDLD"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_7b2cb4ee7d694da6be87614138260619",
-        "team": "Aarhus Fremad",
-        "played": 11,
-        "wins": 3,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
-        "points": 14,
-        "form": "DLLDW"
       },
       {
         "position": 7,
@@ -401,16 +401,16 @@
         "position": 2,
         "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3",
         "team": "维耶莱",
-        "played": 11,
+        "played": 12,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 1,
         "goals_for": 24,
         "goals_against": 15,
         "goal_difference": 9,
-        "points": 22,
-        "form": "WLDDW",
-        "form_label": "胜负平平胜"
+        "points": 23,
+        "form": "DWLDD",
+        "form_label": "平胜负平平"
       },
       {
         "position": 3,
@@ -444,6 +444,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_7b2cb4ee7d694da6be87614138260619",
+        "team": "奥胡斯弗雷马德",
+        "played": 12,
+        "wins": 3,
+        "draws": 6,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 11,
+        "goal_difference": -1,
+        "points": 15,
+        "form": "DDLLD",
+        "form_label": "平平负负平"
+      },
+      {
+        "position": 6,
         "team_id": "ast_86d69a17c1de47ba8a800cddb1238596",
         "team": "霍布罗",
         "played": 12,
@@ -456,21 +471,6 @@
         "points": 15,
         "form": "DLDLD",
         "form_label": "平负平负平"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_7b2cb4ee7d694da6be87614138260619",
-        "team": "奥胡斯弗雷马德",
-        "played": 11,
-        "wins": 3,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 10,
-        "goals_against": 11,
-        "goal_difference": -1,
-        "points": 14,
-        "form": "DLLDW",
-        "form_label": "平负负平胜"
       },
       {
         "position": 7,
@@ -1705,7 +1705,7 @@
         "match_id": "as_324ab6b86b12413d863295bdcb0a47fd",
         "date": "2026-10-31",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -1717,13 +1717,15 @@
           "name": "赫维多夫IF",
           "team_id": "ast_3eb1c88e0fd04666b51c690cbe031183"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "蓝水竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9c9a5685bf4f4ef3b681ca417dd5d89b",
         "date": "2026-10-31",
         "time": "12:30",
-        "status": "12:30",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -1735,13 +1737,15 @@
           "name": "AB 哥本哈根",
           "team_id": "ast_d508189b76314653afc24444430d2258"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Monjasa 公园",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ba6accf73d5b41c7aedb4a7f28a456c3",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -1753,13 +1757,15 @@
           "name": "科格",
           "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "汽车中心公园",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_dfe250eac414452f86d4976ae18f69ba",
         "date": "2026-10-30",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -1771,7 +1777,9 @@
           "name": "霍布罗",
           "team_id": "ast_86d69a17c1de47ba8a800cddb1238596"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "奥尔堡波特兰公园",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_0de6b43b27f54501ad738afeb797fc10",
@@ -1875,7 +1883,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "DS竞技场",
         "status_label": "完场"
       },
       {
@@ -1896,7 +1904,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Hvidovre Stadium",
         "status_label": "完场"
       },
       {
@@ -3811,7 +3819,7 @@
         "match_id": "as_ba6accf73d5b41c7aedb4a7f28a456c3",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -3823,13 +3831,15 @@
           "name": "科格",
           "team_id": "ast_9fcf150ef4754287ac39ff94d8f7f4a8"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "汽车中心公园",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_9c9a5685bf4f4ef3b681ca417dd5d89b",
         "date": "2026-10-31",
         "time": "12:30",
-        "status": "12:30",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -3841,13 +3851,15 @@
           "name": "AB 哥本哈根",
           "team_id": "ast_d508189b76314653afc24444430d2258"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Monjasa 公园",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_324ab6b86b12413d863295bdcb0a47fd",
         "date": "2026-10-31",
         "time": "15:00",
-        "status": "15:00",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -3859,13 +3871,15 @@
           "name": "赫维多夫IF",
           "team_id": "ast_3eb1c88e0fd04666b51c690cbe031183"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "蓝水竞技场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_dfe250eac414452f86d4976ae18f69ba",
         "date": "2026-10-30",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Not Started",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -3877,7 +3891,9 @@
           "name": "霍布罗",
           "team_id": "ast_86d69a17c1de47ba8a800cddb1238596"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "奥尔堡波特兰公园",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -5695,15 +5711,15 @@
             "position": 2,
             "team_id": "ast_cf2ce60e95c74a42ba6fc829c84ca5b3",
             "team": "Vejle",
-            "played": 11,
+            "played": 12,
             "wins": 6,
-            "draws": 4,
+            "draws": 5,
             "losses": 1,
             "goals_for": 24,
             "goals_against": 15,
             "goal_difference": 9,
-            "points": 22,
-            "form": "WLDDW"
+            "points": 23,
+            "form": "DWLDD"
           },
           {
             "position": 3,
@@ -6369,5 +6385,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 30
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

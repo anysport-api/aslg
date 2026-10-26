@@ -204,6 +204,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
+        "team": "Yverdon",
+        "played": 11,
+        "wins": 6,
+        "draws": 4,
+        "losses": 1,
+        "goals_for": 21,
+        "goals_against": 11,
+        "goal_difference": 10,
+        "points": 22,
+        "form": "WWDLW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
         "team": "Winterthur",
         "played": 11,
@@ -215,20 +229,6 @@
         "goal_difference": 12,
         "points": 21,
         "form": "WLWWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
-        "team": "Yverdon",
-        "played": 10,
-        "wins": 5,
-        "draws": 4,
-        "losses": 1,
-        "goals_for": 16,
-        "goals_against": 9,
-        "goal_difference": 7,
-        "points": 19,
-        "form": "WDLWW"
       },
       {
         "position": 4,
@@ -248,15 +248,15 @@
         "position": 5,
         "team_id": "ast_4b41e604443646059bca14daa382d07b",
         "team": "Kriens",
-        "played": 10,
+        "played": 11,
         "wins": 4,
         "draws": 3,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 12,
-        "goal_difference": 5,
+        "losses": 4,
+        "goals_for": 19,
+        "goals_against": 17,
+        "goal_difference": 2,
         "points": 15,
-        "form": "DWDLD"
+        "form": "LDWDL"
       },
       {
         "position": 6,
@@ -347,6 +347,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
+        "team": "伊夫尔登",
+        "played": 11,
+        "wins": 6,
+        "draws": 4,
+        "losses": 1,
+        "goals_for": 21,
+        "goals_against": 11,
+        "goal_difference": 10,
+        "points": 22,
+        "form": "WWDLW",
+        "form_label": "胜胜平负胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
         "team": "温特图尔",
         "played": 11,
@@ -359,21 +374,6 @@
         "points": 21,
         "form": "WLWWW",
         "form_label": "胜负胜胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
-        "team": "伊夫尔登",
-        "played": 10,
-        "wins": 5,
-        "draws": 4,
-        "losses": 1,
-        "goals_for": 16,
-        "goals_against": 9,
-        "goal_difference": 7,
-        "points": 19,
-        "form": "WDLWW",
-        "form_label": "胜平负胜胜"
       },
       {
         "position": 4,
@@ -394,16 +394,16 @@
         "position": 5,
         "team_id": "ast_4b41e604443646059bca14daa382d07b",
         "team": "克里恩斯",
-        "played": 10,
+        "played": 11,
         "wins": 4,
         "draws": 3,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 12,
-        "goal_difference": 5,
+        "losses": 4,
+        "goals_for": 19,
+        "goals_against": 17,
+        "goal_difference": 2,
         "points": 15,
-        "form": "DWDLD",
-        "form_label": "平胜平负平"
+        "form": "LDWDL",
+        "form_label": "负平胜平负"
       },
       {
         "position": 6,
@@ -1203,7 +1203,7 @@
         "match_id": "as_4293ab07bf70498f9c13a277c128cbfc",
         "date": "2026-10-25",
         "time": "15:30",
-        "status": "15:30",
+        "status": "FT",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1215,7 +1215,10 @@
           "name": "克里恩斯",
           "team_id": "ast_4b41e604443646059bca14daa382d07b"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "5-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_42db04171fa347e89d398c34c18b6004",
@@ -2852,24 +2855,6 @@
         "ht_score": "-",
         "venue": "丰特内特体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_4293ab07bf70498f9c13a277c128cbfc",
-        "date": "2026-10-25",
-        "time": "15:30",
-        "status": "15:30",
-        "league": "瑞士挑战联赛",
-        "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
-        "season": "2026/2027",
-        "home": {
-          "name": "伊夫尔登",
-          "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea"
-        },
-        "away": {
-          "name": "克里恩斯",
-          "team_id": "ast_4b41e604443646059bca14daa382d07b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6228,13 +6213,13 @@
     }
   },
   "stats": {
-    "matches_completed": 54,
-    "total_goals": 160,
-    "avg_goals_per_match": 2.96,
-    "home_wins": 23,
+    "matches_completed": 55,
+    "total_goals": 167,
+    "avg_goals_per_match": 3.04,
+    "home_wins": 24,
     "draws": 15,
     "away_wins": 16,
-    "home_win_pct": 42.6,
+    "home_win_pct": 43.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6371,6 +6356,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
+            "team": "Yverdon",
+            "played": 11,
+            "wins": 6,
+            "draws": 4,
+            "losses": 1,
+            "goals_for": 21,
+            "goals_against": 11,
+            "goal_difference": 10,
+            "points": 22,
+            "form": "WWDLW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
             "team": "Winterthur",
             "played": 11,
@@ -6382,20 +6381,6 @@
             "goal_difference": 12,
             "points": 21,
             "form": "WLWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
-            "team": "Yverdon",
-            "played": 10,
-            "wins": 5,
-            "draws": 4,
-            "losses": 1,
-            "goals_for": 16,
-            "goals_against": 9,
-            "goal_difference": 7,
-            "points": 19,
-            "form": "WDLWW"
           }
         ],
         "meta": {
@@ -7032,7 +7017,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

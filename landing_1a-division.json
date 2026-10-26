@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
@@ -170,29 +170,29 @@
         "position": 2,
         "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
         "team": "Diriangen",
-        "played": 13,
-        "wins": 10,
+        "played": 14,
+        "wins": 11,
         "draws": 2,
         "losses": 1,
-        "goals_for": 28,
-        "goals_against": 12,
-        "goal_difference": 16,
-        "points": 32,
-        "form": "WWLWW"
+        "goals_for": 31,
+        "goals_against": 13,
+        "goal_difference": 18,
+        "points": 35,
+        "form": "WWWLW"
       },
       {
         "position": 3,
         "team_id": "ast_cc7080b99c2342688321977f209ae7a3",
         "team": "UNAN-Managua",
-        "played": 13,
+        "played": 14,
         "wins": 7,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 17,
-        "goals_against": 13,
-        "goal_difference": 4,
+        "goals_against": 15,
+        "goal_difference": 2,
         "points": 24,
-        "form": "WLDWW"
+        "form": "LWLDW"
       },
       {
         "position": 4,
@@ -226,18 +226,33 @@
         "position": 6,
         "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90",
         "team": "Sport Sebaco",
-        "played": 12,
+        "played": 13,
         "wins": 5,
         "draws": 2,
-        "losses": 5,
-        "goals_for": 14,
-        "goals_against": 21,
-        "goal_difference": -7,
+        "losses": 6,
+        "goals_for": 15,
+        "goals_against": 24,
+        "goal_difference": -9,
         "points": 17,
-        "form": "LWWLL"
+        "form": "LLWWL"
       },
       {
         "position": 7,
+        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
+        "team": "Jalapa",
+        "played": 14,
+        "wins": 3,
+        "draws": 3,
+        "losses": 8,
+        "goals_for": 13,
+        "goals_against": 19,
+        "goal_difference": -6,
+        "points": 12,
+        "form": "WWDLD"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
         "team": "San Marcos",
         "played": 14,
         "wins": 3,
@@ -250,7 +265,7 @@
         "form": "DLLLL"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5",
         "team": "Matagalpa",
         "played": 13,
@@ -262,20 +277,6 @@
         "goal_difference": -22,
         "points": 10,
         "form": "DLLLL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
-        "team": "Jalapa",
-        "played": 13,
-        "wins": 2,
-        "draws": 3,
-        "losses": 8,
-        "goals_for": 11,
-        "goals_against": 19,
-        "goal_difference": -8,
-        "points": 9,
-        "form": "WDLDL"
       },
       {
         "position": 10,
@@ -312,31 +313,31 @@
         "position": 2,
         "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
         "team": "迪里安根",
-        "played": 13,
-        "wins": 10,
+        "played": 14,
+        "wins": 11,
         "draws": 2,
         "losses": 1,
-        "goals_for": 28,
-        "goals_against": 12,
-        "goal_difference": 16,
-        "points": 32,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "goals_for": 31,
+        "goals_against": 13,
+        "goal_difference": 18,
+        "points": 35,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
       },
       {
         "position": 3,
         "team_id": "ast_cc7080b99c2342688321977f209ae7a3",
         "team": "马那瓜UNAN",
-        "played": 13,
+        "played": 14,
         "wins": 7,
         "draws": 3,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 17,
-        "goals_against": 13,
-        "goal_difference": 4,
+        "goals_against": 15,
+        "goal_difference": 2,
         "points": 24,
-        "form": "WLDWW",
-        "form_label": "胜负平胜胜"
+        "form": "LWLDW",
+        "form_label": "负胜负平胜"
       },
       {
         "position": 4,
@@ -372,20 +373,36 @@
         "position": 6,
         "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90",
         "team": "塞巴科体育",
-        "played": 12,
+        "played": 13,
         "wins": 5,
         "draws": 2,
-        "losses": 5,
-        "goals_for": 14,
-        "goals_against": 21,
-        "goal_difference": -7,
+        "losses": 6,
+        "goals_for": 15,
+        "goals_against": 24,
+        "goal_difference": -9,
         "points": 17,
-        "form": "LWWLL",
-        "form_label": "负胜胜负负"
+        "form": "LLWWL",
+        "form_label": "负负胜胜负"
       },
       {
         "position": 7,
-        "team": "阿帕雷西达",
+        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
+        "team": "哈拉帕",
+        "played": 14,
+        "wins": 3,
+        "draws": 3,
+        "losses": 8,
+        "goals_for": 13,
+        "goals_against": 19,
+        "goal_difference": -6,
+        "points": 12,
+        "form": "WWDLD",
+        "form_label": "胜胜平负平"
+      },
+      {
+        "position": 8,
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
+        "team": "圣马尔科斯",
         "played": 14,
         "wins": 3,
         "draws": 2,
@@ -398,7 +415,7 @@
         "form_label": "平负负负负"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5",
         "team": "马塔加尔帕",
         "played": 13,
@@ -411,21 +428,6 @@
         "points": 10,
         "form": "DLLLL",
         "form_label": "平负负负负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
-        "team": "哈拉帕",
-        "played": 13,
-        "wins": 2,
-        "draws": 3,
-        "losses": 8,
-        "goals_for": 11,
-        "goals_against": 19,
-        "goal_difference": -8,
-        "points": 9,
-        "form": "WDLDL",
-        "form_label": "胜平负平负"
       },
       {
         "position": 10,
@@ -465,7 +467,7 @@
         "match_id": "as_e40e7320cfa54627b86ee591831704ee",
         "date": "2026-10-26",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -477,7 +479,10 @@
           "name": "马那瓜FC",
           "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d1919fed44704ff0a5a686982b867433",
@@ -504,7 +509,7 @@
         "match_id": "as_102452ab98764ff2abeb44d0a1480630",
         "date": "2026-10-25",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -516,13 +521,16 @@
           "name": "马那瓜UNAN",
           "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_04322464d7194b609bacf221b3c21a2d",
         "date": "2026-10-25",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -534,7 +542,10 @@
           "name": "塞巴科体育",
           "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a77a771f89054811b30d65e8616e6d70",
@@ -1926,7 +1937,7 @@
         "match_id": "as_e40e7320cfa54627b86ee591831704ee",
         "date": "2026-10-26",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -1938,62 +1949,8 @@
           "name": "马那瓜FC",
           "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_04322464d7194b609bacf221b3c21a2d",
-        "date": "2026-10-25",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "迪里安根",
-          "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
-        },
-        "away": {
-          "name": "塞巴科体育",
-          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_102452ab98764ff2abeb44d0a1480630",
-        "date": "2026-10-25",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "哈拉帕",
-          "team_id": "ast_f5f350d2964747d9a882068f4310f396"
-        },
-        "away": {
-          "name": "马那瓜UNAN",
-          "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d1919fed44704ff0a5a686982b867433",
-        "date": "2026-10-25",
-        "time": "00:00",
-        "status": "FT",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "费雷蒂",
-          "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
-        },
-        "away": {
-          "name": "兰乔圣安塔纳",
-          "team_id": "ast_b6cc38c4080a45709e2a901334869ff7"
-        },
-        "ht_score": "2-0",
-        "reg_score": "4-1",
+        "ht_score": "0-0",
+        "reg_score": "2-1",
         "venue": "",
         "status_label": "完场"
       }
@@ -3527,13 +3484,13 @@
     }
   },
   "stats": {
-    "matches_completed": 66,
-    "total_goals": 193,
-    "avg_goals_per_match": 2.92,
-    "home_wins": 23,
+    "matches_completed": 69,
+    "total_goals": 202,
+    "avg_goals_per_match": 2.93,
+    "home_wins": 26,
     "draws": 13,
     "away_wins": 30,
-    "home_win_pct": 34.8,
+    "home_win_pct": 37.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -3672,29 +3629,29 @@
             "position": 2,
             "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
             "team": "Diriangen",
-            "played": 13,
-            "wins": 10,
+            "played": 14,
+            "wins": 11,
             "draws": 2,
             "losses": 1,
-            "goals_for": 28,
-            "goals_against": 12,
-            "goal_difference": 16,
-            "points": 32,
-            "form": "WWLWW"
+            "goals_for": 31,
+            "goals_against": 13,
+            "goal_difference": 18,
+            "points": 35,
+            "form": "WWWLW"
           },
           {
             "position": 3,
             "team_id": "ast_cc7080b99c2342688321977f209ae7a3",
             "team": "UNAN-Managua",
-            "played": 13,
+            "played": 14,
             "wins": 7,
             "draws": 3,
-            "losses": 3,
+            "losses": 4,
             "goals_for": 17,
-            "goals_against": 13,
-            "goal_difference": 4,
+            "goals_against": 15,
+            "goal_difference": 2,
             "points": 24,
-            "form": "WLDWW"
+            "form": "LWLDW"
           }
         ],
         "meta": {
@@ -4331,7 +4288,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 10,
     "matches_current_season": 70,
-    "upcoming_matches": 4
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

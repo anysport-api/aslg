@@ -144,15 +144,15 @@
         "position": 1,
         "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
         "team": "Pruszkow",
-        "played": 12,
-        "wins": 9,
+        "played": 13,
+        "wins": 10,
         "draws": 2,
         "losses": 1,
-        "goals_for": 25,
+        "goals_for": 27,
         "goals_against": 12,
-        "goal_difference": 13,
-        "points": 29,
-        "form": "WWWWD"
+        "goal_difference": 15,
+        "points": 32,
+        "form": "WWWWW"
       },
       {
         "position": 2,
@@ -298,15 +298,15 @@
         "position": 12,
         "team_id": "ast_33a301e935d84137a3e0265a1adcde92",
         "team": "Avia Swidnik",
-        "played": 12,
+        "played": 13,
         "wins": 5,
         "draws": 2,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 16,
-        "goals_against": 18,
-        "goal_difference": -2,
+        "goals_against": 20,
+        "goal_difference": -4,
         "points": 17,
-        "form": "WWDDL"
+        "form": "LWWDD"
       },
       {
         "position": 13,
@@ -398,16 +398,16 @@
         "position": 1,
         "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
         "team": "普鲁什科夫",
-        "played": 12,
-        "wins": 9,
+        "played": 13,
+        "wins": 10,
         "draws": 2,
         "losses": 1,
-        "goals_for": 25,
+        "goals_for": 27,
         "goals_against": 12,
-        "goal_difference": 13,
-        "points": 29,
-        "form": "WWWWD",
-        "form_label": "胜胜胜胜平"
+        "goal_difference": 15,
+        "points": 32,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
       },
       {
         "position": 2,
@@ -563,16 +563,16 @@
         "position": 12,
         "team_id": "ast_33a301e935d84137a3e0265a1adcde92",
         "team": "阿维亚施维德尼克",
-        "played": 12,
+        "played": 13,
         "wins": 5,
         "draws": 2,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 16,
-        "goals_against": 18,
-        "goal_difference": -2,
+        "goals_against": 20,
+        "goal_difference": -4,
         "points": 17,
-        "form": "WWDDL",
-        "form_label": "胜胜平平负"
+        "form": "LWWDD",
+        "form_label": "负胜胜平平"
       },
       {
         "position": 13,
@@ -4467,7 +4467,7 @@
         "match_id": "as_cfa7ee2614da4284bd5dd08cc9b13b02",
         "date": "2026-10-25",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -4479,13 +4479,16 @@
           "name": "普鲁什科夫",
           "team_id": "ast_d903c3b71e49483297569c58ce1d4b07"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3c0449dc773d4f6fba20aa3b3cc2eeaa",
         "date": "2026-10-25",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -4497,7 +4500,10 @@
           "name": "新塔尔格波德哈莱",
           "team_id": "ast_f725bc52b4564d89ba21390dbe5ecb9c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ee2b139390484c459de0d413a65517c8",
@@ -10947,13 +10953,13 @@
     }
   },
   "stats": {
-    "matches_completed": 115,
-    "total_goals": 358,
-    "avg_goals_per_match": 3.11,
+    "matches_completed": 117,
+    "total_goals": 360,
+    "avg_goals_per_match": 3.08,
     "home_wins": 48,
-    "draws": 29,
-    "away_wins": 38,
-    "home_win_pct": 41.7,
+    "draws": 30,
+    "away_wins": 39,
+    "home_win_pct": 41.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10980,8 +10986,8 @@
     },
     "leader": {
       "team": "Pruszkow",
-      "points": 29,
-      "played": 12
+      "points": 32,
+      "played": 13
     }
   },
   "coverage": {
@@ -11078,15 +11084,15 @@
             "position": 1,
             "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
             "team": "Pruszkow",
-            "played": 12,
-            "wins": 9,
+            "played": 13,
+            "wins": 10,
             "draws": 2,
             "losses": 1,
-            "goals_for": 25,
+            "goals_for": 27,
             "goals_against": 12,
-            "goal_difference": 13,
-            "points": 29,
-            "form": "WWWWD"
+            "goal_difference": 15,
+            "points": 32,
+            "form": "WWWWW"
           },
           {
             "position": 2,
@@ -11750,5 +11756,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

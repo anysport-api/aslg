@@ -188,6 +188,20 @@
         "position": 1,
         "team_id": "ast_0e7297d7db7248379bbc957f3af0388b",
         "team": "Carabobo",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 3,
+        "goals_against": 1,
+        "goal_difference": 2,
+        "points": 3,
+        "form": "W"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
+        "team": "La Guaira",
         "played": 0,
         "wins": 0,
         "draws": 0,
@@ -213,23 +227,9 @@
         "form": "W"
       },
       {
-        "position": 2,
-        "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
-        "team": "Portuguesa",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
         "position": 3,
-        "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
-        "team": "La Guaira",
+        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
+        "team": "Metropolitanos",
         "played": 0,
         "wins": 0,
         "draws": 0,
@@ -256,17 +256,17 @@
       },
       {
         "position": 4,
-        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
-        "team": "Metropolitanos",
-        "played": 0,
+        "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
+        "team": "Portuguesa",
+        "played": 1,
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 3,
+        "goal_difference": -2,
         "points": 0,
-        "form": ""
+        "form": "L"
       },
       {
         "position": 4,
@@ -387,6 +387,21 @@
         "position": 1,
         "team_id": "ast_0e7297d7db7248379bbc957f3af0388b",
         "team": "卡拉博博",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 3,
+        "goals_against": 1,
+        "goal_difference": 2,
+        "points": 3,
+        "form": "W",
+        "form_label": "胜"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
+        "team": "拉瓜伊拉体育",
         "played": 0,
         "wins": 0,
         "draws": 0,
@@ -413,23 +428,9 @@
         "form_label": "胜"
       },
       {
-        "position": 2,
-        "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
-        "team": "葡萄牙人",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
         "position": 3,
-        "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
-        "team": "拉瓜伊拉体育",
+        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
+        "team": "大都会竞技",
         "played": 0,
         "wins": 0,
         "draws": 0,
@@ -457,17 +458,18 @@
       },
       {
         "position": 4,
-        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
-        "team": "大都会竞技",
-        "played": 0,
+        "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
+        "team": "葡萄牙人",
+        "played": 1,
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 3,
+        "goal_difference": -2,
         "points": 0,
-        "form": ""
+        "form": "L",
+        "form_label": "负"
       },
       {
         "position": 4,
@@ -1159,7 +1161,7 @@
         "match_id": "as_6e3946bd0c8e479a97731e109cc5d2f2",
         "date": "2026-11-01",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -1171,15 +1173,13 @@
           "name": "葡萄牙人",
           "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438"
         },
-        "ht_score": "-",
-        "venue": "Estadio Olimpico de la UCV",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_dedfc0a619e443fa9b792274328f6cbc",
         "date": "2026-11-01",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -1191,9 +1191,7 @@
           "name": "大都会竞技",
           "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9"
         },
-        "ht_score": "-",
-        "venue": "米萨埃尔·德尔加多多功能体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1856ed9def4045ddb1886a7aaf4cc9d4",
@@ -1307,7 +1305,7 @@
         "match_id": "as_853e680cae664737bafe7883ae4bb01d",
         "date": "2026-10-25",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -1319,13 +1317,16 @@
           "name": "卡拉博博",
           "team_id": "ast_0e7297d7db7248379bbc957f3af0388b"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_de0971862e6a463b913650869915f8d4",
         "date": "2026-10-25",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -1337,7 +1338,10 @@
           "name": "大都会竞技",
           "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b6b0b0a0148d4a638f48e7274bc4ac0c",
@@ -5974,7 +5978,7 @@
         "match_id": "as_dedfc0a619e443fa9b792274328f6cbc",
         "date": "2026-11-01",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -5986,15 +5990,13 @@
           "name": "大都会竞技",
           "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9"
         },
-        "ht_score": "-",
-        "venue": "米萨埃尔·德尔加多多功能体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6e3946bd0c8e479a97731e109cc5d2f2",
         "date": "2026-11-01",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -6006,9 +6008,7 @@
           "name": "葡萄牙人",
           "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438"
         },
-        "ht_score": "-",
-        "venue": "Estadio Olimpico de la UCV",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_073a031a7a514d8ba2b4081a498a1aa0",
@@ -6115,42 +6115,6 @@
         "away": {
           "name": "加拉加斯",
           "team_id": "ast_552d0037d9a54676bcf08bcc89c852b3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_de0971862e6a463b913650869915f8d4",
-        "date": "2026-10-25",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "拉瓜伊拉体育",
-          "team_id": "ast_cf3cb6a1321749f8ba053e4943372620"
-        },
-        "away": {
-          "name": "大都会竞技",
-          "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_853e680cae664737bafe7883ae4bb01d",
-        "date": "2026-10-25",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "葡萄牙人",
-          "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438"
-        },
-        "away": {
-          "name": "卡拉博博",
-          "team_id": "ast_0e7297d7db7248379bbc957f3af0388b"
         },
         "venue": ""
       }
@@ -11750,13 +11714,13 @@
     }
   },
   "stats": {
-    "matches_completed": 209,
-    "total_goals": 537,
-    "avg_goals_per_match": 2.57,
+    "matches_completed": 211,
+    "total_goals": 545,
+    "avg_goals_per_match": 2.58,
     "home_wins": 87,
-    "draws": 60,
-    "away_wins": 62,
-    "home_win_pct": 41.6,
+    "draws": 61,
+    "away_wins": 63,
+    "home_win_pct": 41.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11902,6 +11866,20 @@
             "position": 1,
             "team_id": "ast_0e7297d7db7248379bbc957f3af0388b",
             "team": "Carabobo",
+            "played": 1,
+            "wins": 1,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 3,
+            "goals_against": 1,
+            "goal_difference": 2,
+            "points": 3,
+            "form": "W"
+          },
+          {
+            "position": 2,
+            "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
+            "team": "La Guaira",
             "played": 0,
             "wins": 0,
             "draws": 0,
@@ -11911,20 +11889,6 @@
             "goal_difference": 0,
             "points": 0,
             "form": ""
-          },
-          {
-            "position": 2,
-            "team_id": "ast_459053da836741c89d2b6b65c731e190",
-            "team": "Puerto Cabello",
-            "played": 1,
-            "wins": 1,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 2,
-            "goals_against": 1,
-            "goal_difference": 1,
-            "points": 3,
-            "form": "W"
           }
         ],
         "meta": {
@@ -12570,7 +12534,7 @@
     "teams_all_time": 40,
     "standings_rows_current": 14,
     "matches_current_season": 231,
-    "upcoming_matches": 22
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

@@ -174,6 +174,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_0a9378767ec346e29c44ca1c12c6642d",
+        "team": "Zimbru Chisinau",
+        "played": 16,
+        "wins": 9,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 33,
+        "goals_against": 14,
+        "goal_difference": 19,
+        "points": 31,
+        "form": "WDDLW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_99ff68eea4804f9a8a99c9c8c90d126e",
         "team": "Petrocub",
         "played": 16,
@@ -185,20 +199,6 @@
         "goal_difference": 12,
         "points": 29,
         "form": "WDDWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_0a9378767ec346e29c44ca1c12c6642d",
-        "team": "Zimbru Chisinau",
-        "played": 15,
-        "wins": 8,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 29,
-        "goals_against": 14,
-        "goal_difference": 15,
-        "points": 28,
-        "form": "DDLWW"
       },
       {
         "position": 4,
@@ -260,13 +260,13 @@
         "position": 8,
         "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9",
         "team": "Balti",
-        "played": 15,
+        "played": 16,
         "wins": 1,
         "draws": 2,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 10,
-        "goals_against": 49,
-        "goal_difference": -39,
+        "goals_against": 53,
+        "goal_difference": -43,
         "points": 5,
         "form": "LLLLL"
       }
@@ -289,6 +289,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_0a9378767ec346e29c44ca1c12c6642d",
+        "team": "津布鲁基希讷乌",
+        "played": 16,
+        "wins": 9,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 33,
+        "goals_against": 14,
+        "goal_difference": 19,
+        "points": 31,
+        "form": "WDDLW",
+        "form_label": "胜平平负胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_99ff68eea4804f9a8a99c9c8c90d126e",
         "team": "佩特罗库布",
         "played": 16,
@@ -301,21 +316,6 @@
         "points": 29,
         "form": "WDDWW",
         "form_label": "胜平平胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_0a9378767ec346e29c44ca1c12c6642d",
-        "team": "津布鲁基希讷乌",
-        "played": 15,
-        "wins": 8,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 29,
-        "goals_against": 14,
-        "goal_difference": 15,
-        "points": 28,
-        "form": "DDLWW",
-        "form_label": "平平负胜胜"
       },
       {
         "position": 4,
@@ -381,13 +381,13 @@
         "position": 8,
         "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9",
         "team": "巴尔蒂",
-        "played": 15,
+        "played": 16,
         "wins": 1,
         "draws": 2,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 10,
-        "goals_against": 49,
-        "goal_difference": -39,
+        "goals_against": 53,
+        "goal_difference": -43,
         "points": 5,
         "form": "LLLLL",
         "form_label": "负负负负负"
@@ -815,7 +815,7 @@
         "match_id": "as_f1eadace5a9641f9b2a0db52be0b6691",
         "date": "2026-10-25",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "摩尔多瓦国家联赛",
         "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
         "season": "2026/2027",
@@ -827,7 +827,10 @@
           "name": "巴尔蒂",
           "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c1800624ecf2425385bb3eb1cbab32a1",
@@ -2553,24 +2556,6 @@
         "ht_score": "-",
         "venue": "Stadionul Orasenesc",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f1eadace5a9641f9b2a0db52be0b6691",
-        "date": "2026-10-25",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "摩尔多瓦国家联赛",
-        "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
-        "season": "2026/2027",
-        "home": {
-          "name": "津布鲁基希讷乌",
-          "team_id": "ast_0a9378767ec346e29c44ca1c12c6642d"
-        },
-        "away": {
-          "name": "巴尔蒂",
-          "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3775,13 +3760,13 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
-    "total_goals": 184,
-    "avg_goals_per_match": 2.92,
-    "home_wins": 25,
+    "matches_completed": 64,
+    "total_goals": 188,
+    "avg_goals_per_match": 2.94,
+    "home_wins": 26,
     "draws": 18,
     "away_wins": 20,
-    "home_win_pct": 39.7,
+    "home_win_pct": 40.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -3918,6 +3903,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_0a9378767ec346e29c44ca1c12c6642d",
+            "team": "Zimbru Chisinau",
+            "played": 16,
+            "wins": 9,
+            "draws": 4,
+            "losses": 3,
+            "goals_for": 33,
+            "goals_against": 14,
+            "goal_difference": 19,
+            "points": 31,
+            "form": "WDDLW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_99ff68eea4804f9a8a99c9c8c90d126e",
             "team": "Petrocub",
             "played": 16,
@@ -3929,20 +3928,6 @@
             "goal_difference": 12,
             "points": 29,
             "form": "WDDWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_0a9378767ec346e29c44ca1c12c6642d",
-            "team": "Zimbru Chisinau",
-            "played": 15,
-            "wins": 8,
-            "draws": 4,
-            "losses": 3,
-            "goals_for": 29,
-            "goals_against": 14,
-            "goal_difference": 15,
-            "points": 28,
-            "form": "DDLWW"
           }
         ],
         "meta": {
@@ -4559,7 +4544,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 8,
     "matches_current_season": 84,
-    "upcoming_matches": 21
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

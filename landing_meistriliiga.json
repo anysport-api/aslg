@@ -190,29 +190,29 @@
         "position": 3,
         "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
         "team": "Flora",
-        "played": 33,
+        "played": 34,
         "wins": 19,
         "draws": 1,
-        "losses": 13,
-        "goals_for": 63,
-        "goals_against": 47,
-        "goal_difference": 16,
+        "losses": 14,
+        "goals_for": 64,
+        "goals_against": 49,
+        "goal_difference": 15,
         "points": 58,
-        "form": "LWLLW"
+        "form": "LLWLL"
       },
       {
         "position": 4,
         "team_id": "ast_65c6a522362042f494acbd4a5fea1e48",
         "team": "Kalju",
-        "played": 32,
-        "wins": 15,
+        "played": 33,
+        "wins": 16,
         "draws": 6,
         "losses": 11,
-        "goals_for": 54,
-        "goals_against": 33,
-        "goal_difference": 21,
-        "points": 51,
-        "form": "LDLWW"
+        "goals_for": 56,
+        "goals_against": 34,
+        "goal_difference": 22,
+        "points": 54,
+        "form": "WLDLW"
       },
       {
         "position": 5,
@@ -334,31 +334,31 @@
         "position": 3,
         "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
         "team": "弗洛拉",
-        "played": 33,
+        "played": 34,
         "wins": 19,
         "draws": 1,
-        "losses": 13,
-        "goals_for": 63,
-        "goals_against": 47,
-        "goal_difference": 16,
+        "losses": 14,
+        "goals_for": 64,
+        "goals_against": 49,
+        "goal_difference": 15,
         "points": 58,
-        "form": "LWLLW",
-        "form_label": "负胜负负胜"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 4,
         "team_id": "ast_65c6a522362042f494acbd4a5fea1e48",
         "team": "卡尔朱",
-        "played": 32,
-        "wins": 15,
+        "played": 33,
+        "wins": 16,
         "draws": 6,
         "losses": 11,
-        "goals_for": 54,
-        "goals_against": 33,
-        "goal_difference": 21,
-        "points": 51,
-        "form": "LDLWW",
-        "form_label": "负平负胜胜"
+        "goals_for": 56,
+        "goals_against": 34,
+        "goal_difference": 22,
+        "points": 54,
+        "form": "WLDLW",
+        "form_label": "胜负平负胜"
       },
       {
         "position": 5,
@@ -713,7 +713,7 @@
         "match_id": "as_05c99a7f6a0844c889ad99dc1498c8bf",
         "date": "2026-10-27",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -725,15 +725,13 @@
           "name": "塔梅卡",
           "team_id": "ast_9818a598b4474b469ee63e1892f634fc"
         },
-        "ht_score": "-",
-        "venue": "A. Le Coq竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_18c3434d8fa5437ab87fff1594fe41b0",
         "date": "2026-10-27",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -745,15 +743,13 @@
           "name": "诺梅联",
           "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49"
         },
-        "ht_score": "-",
-        "venue": "Narva Kalev-Fama staadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_df69727b8c8c436e93697ba94df249da",
         "date": "2026-10-25",
         "time": "12:30",
-        "status": "12:30",
+        "status": "FT",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -765,7 +761,10 @@
           "name": "弗洛拉",
           "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_caeac7b77e874b3392ee61776e6de70a",
@@ -848,7 +847,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "5-1",
-        "venue": "",
+        "venue": "Tamme Stadium",
         "status_label": "完场"
       },
       {
@@ -4478,7 +4477,7 @@
         "match_id": "as_18c3434d8fa5437ab87fff1594fe41b0",
         "date": "2026-10-27",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4490,15 +4489,13 @@
           "name": "诺梅联",
           "team_id": "ast_c7f6ab3408a846a29fabe9fb3e4d3a49"
         },
-        "ht_score": "-",
-        "venue": "Narva Kalev-Fama staadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_05c99a7f6a0844c889ad99dc1498c8bf",
         "date": "2026-10-27",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -4509,26 +4506,6 @@
         "away": {
           "name": "塔梅卡",
           "team_id": "ast_9818a598b4474b469ee63e1892f634fc"
-        },
-        "ht_score": "-",
-        "venue": "A. Le Coq竞技场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_df69727b8c8c436e93697ba94df249da",
-        "date": "2026-10-25",
-        "time": "12:30",
-        "status": "12:30",
-        "league": "爱沙尼亚超级联赛",
-        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
-        "season": "2026",
-        "home": {
-          "name": "卡尔朱",
-          "team_id": "ast_65c6a522362042f494acbd4a5fea1e48"
-        },
-        "away": {
-          "name": "弗洛拉",
-          "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52"
         },
         "venue": ""
       }
@@ -8143,13 +8120,13 @@
     }
   },
   "stats": {
-    "matches_completed": 165,
-    "total_goals": 514,
-    "avg_goals_per_match": 3.12,
-    "home_wins": 80,
+    "matches_completed": 166,
+    "total_goals": 517,
+    "avg_goals_per_match": 3.11,
+    "home_wins": 81,
     "draws": 20,
     "away_wins": 65,
-    "home_win_pct": 48.5,
+    "home_win_pct": 48.8,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8302,15 +8279,15 @@
             "position": 3,
             "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
             "team": "Flora",
-            "played": 33,
+            "played": 34,
             "wins": 19,
             "draws": 1,
-            "losses": 13,
-            "goals_for": 63,
-            "goals_against": 47,
-            "goal_difference": 16,
+            "losses": 14,
+            "goals_for": 64,
+            "goals_against": 49,
+            "goal_difference": 15,
             "points": 58,
-            "form": "LWLLW"
+            "form": "LLWLL"
           }
         ],
         "meta": {
@@ -8947,7 +8924,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 15
+    "upcoming_matches": 14
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

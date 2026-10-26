@@ -72,15 +72,15 @@
         "position": 1,
         "team_id": "ast_01c0d7789dff4deb8f88c48cb23ffd17",
         "team": "Santiago City",
-        "played": 7,
+        "played": 8,
         "wins": 4,
-        "draws": 2,
+        "draws": 3,
         "losses": 1,
-        "goals_for": 11,
-        "goals_against": 6,
+        "goals_for": 13,
+        "goals_against": 8,
         "goal_difference": 5,
-        "points": 14,
-        "form": "LDWWW"
+        "points": 15,
+        "form": "DLDWW"
       },
       {
         "position": 2,
@@ -128,15 +128,15 @@
         "position": 5,
         "team_id": "ast_44660de97c11460dbc54ce5e1de3efb4",
         "team": "Brujas Salamanca",
-        "played": 6,
+        "played": 7,
         "wins": 3,
-        "draws": 0,
+        "draws": 1,
         "losses": 3,
-        "goals_for": 5,
-        "goals_against": 7,
+        "goals_for": 7,
+        "goals_against": 9,
         "goal_difference": -2,
-        "points": 9,
-        "form": "WLLWW"
+        "points": 10,
+        "form": "DWLLW"
       },
       {
         "position": 6,
@@ -270,16 +270,16 @@
         "position": 1,
         "team_id": "ast_01c0d7789dff4deb8f88c48cb23ffd17",
         "team": "圣地亚哥城",
-        "played": 7,
+        "played": 8,
         "wins": 4,
-        "draws": 2,
+        "draws": 3,
         "losses": 1,
-        "goals_for": 11,
-        "goals_against": 6,
+        "goals_for": 13,
+        "goals_against": 8,
         "goal_difference": 5,
-        "points": 14,
-        "form": "LDWWW",
-        "form_label": "负平胜胜胜"
+        "points": 15,
+        "form": "DLDWW",
+        "form_label": "平负平胜胜"
       },
       {
         "position": 2,
@@ -330,16 +330,16 @@
         "position": 5,
         "team_id": "ast_44660de97c11460dbc54ce5e1de3efb4",
         "team": "布鲁哈斯萨拉曼卡",
-        "played": 6,
+        "played": 7,
         "wins": 3,
-        "draws": 0,
+        "draws": 1,
         "losses": 3,
-        "goals_for": 5,
-        "goals_against": 7,
+        "goals_for": 7,
+        "goals_against": 9,
         "goal_difference": -2,
-        "points": 9,
-        "form": "WLLWW",
-        "form_label": "胜负负胜胜"
+        "points": 10,
+        "form": "DWLLW",
+        "form_label": "平胜负负胜"
       },
       {
         "position": 6,
@@ -1099,7 +1099,7 @@
         "match_id": "as_e10652c61a304eecab68b2753548886a",
         "date": "2026-10-25",
         "time": "15:30",
-        "status": "15:30",
+        "status": "FT",
         "league": "智利乙级联赛",
         "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
         "season": "2026",
@@ -1111,7 +1111,10 @@
           "name": "圣地亚哥城",
           "team_id": "ast_01c0d7789dff4deb8f88c48cb23ffd17"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1c53a39972354f3595079b1f261649f0",
@@ -4633,24 +4636,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e10652c61a304eecab68b2753548886a",
-        "date": "2026-10-25",
-        "time": "15:30",
-        "status": "15:30",
-        "league": "智利乙级联赛",
-        "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
-        "season": "2026",
-        "home": {
-          "name": "布鲁哈斯萨拉曼卡",
-          "team_id": "ast_44660de97c11460dbc54ce5e1de3efb4"
-        },
-        "away": {
-          "name": "圣地亚哥城",
-          "team_id": "ast_01c0d7789dff4deb8f88c48cb23ffd17"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6215,13 +6200,13 @@
     }
   },
   "stats": {
-    "matches_completed": 139,
-    "total_goals": 332,
-    "avg_goals_per_match": 2.39,
+    "matches_completed": 140,
+    "total_goals": 336,
+    "avg_goals_per_match": 2.4,
     "home_wins": 52,
-    "draws": 40,
+    "draws": 41,
     "away_wins": 47,
-    "home_win_pct": 37.4,
+    "home_win_pct": 37.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6248,8 +6233,8 @@
     },
     "leader": {
       "team": "Santiago City",
-      "points": 14,
-      "played": 7
+      "points": 15,
+      "played": 8
     }
   },
   "coverage": {
@@ -6346,15 +6331,15 @@
             "position": 1,
             "team_id": "ast_01c0d7789dff4deb8f88c48cb23ffd17",
             "team": "Santiago City",
-            "played": 7,
+            "played": 8,
             "wins": 4,
-            "draws": 2,
+            "draws": 3,
             "losses": 1,
-            "goals_for": 11,
-            "goals_against": 6,
+            "goals_for": 13,
+            "goals_against": 8,
             "goal_difference": 5,
-            "points": 14,
-            "form": "LDWWW"
+            "points": 15,
+            "form": "DLDWW"
           },
           {
             "position": 2,
@@ -7019,7 +7004,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 14,
     "matches_current_season": 170,
-    "upcoming_matches": 31
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_5201d28389174ce38a373739cde2a252",
@@ -352,8 +352,8 @@
       {
         "match_id": "as_0143e91238e04d9c86442db1874ad863",
         "date": "2026-10-25",
-        "time": "16:00",
-        "status": "16:00",
+        "time": "14:00",
+        "status": "Pen.",
         "league": "芬兰Ykkosliiga联赛",
         "league_id": "asl_5201d28389174ce38a373739cde2a252",
         "season": "2026",
@@ -365,7 +365,12 @@
           "name": "罗瓦涅米",
           "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "et_score": "0-0",
+        "penalty_score": "4-5",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_51f31d5cf73f4b6ca0ac7b782b3937b3",
@@ -3224,26 +3229,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_0143e91238e04d9c86442db1874ad863",
-        "date": "2026-10-25",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "芬兰Ykkosliiga联赛",
-        "league_id": "asl_5201d28389174ce38a373739cde2a252",
-        "season": "2026",
-        "home": {
-          "name": "KaPa",
-          "team_id": "ast_8ae04188ea5c44fbbbc70cbf49d67d89"
-        },
-        "away": {
-          "name": "罗瓦涅米",
-          "team_id": "ast_d36c5e2df7e84a19a508e13bd3b4412b"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -3790,13 +3776,13 @@
     }
   },
   "stats": {
-    "matches_completed": 136,
-    "total_goals": 362,
+    "matches_completed": 137,
+    "total_goals": 364,
     "avg_goals_per_match": 2.66,
     "home_wins": 58,
-    "draws": 32,
+    "draws": 33,
     "away_wins": 46,
-    "home_win_pct": 42.6,
+    "home_win_pct": 42.3,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -4594,7 +4580,7 @@
     "teams_all_time": 14,
     "standings_rows_current": 10,
     "matches_current_season": 137,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }

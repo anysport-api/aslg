@@ -2433,6 +2433,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_031d47aa319943ba834b53c6fa6b8e65",
+        "date": "2026-12-10",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "印度超级联赛",
+        "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
+        "season": "2026/2027",
+        "home": {
+          "name": "钦奈yin",
+          "team_id": "ast_ceaf13197015470c93162fb5e2a73370"
+        },
+        "away": {
+          "name": "丘吉尔兄弟",
+          "team_id": "ast_e47030e04665433499d1645b6d12affe"
+        },
+        "ht_score": "-",
+        "venue": "贾瓦哈拉尔·尼赫鲁体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0b7366cc69074332a5b20d203271c607",
+        "date": "2026-12-10",
+        "time": "11:30",
+        "status": "Not Started",
+        "league": "印度超级联赛",
+        "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
+        "season": "2026/2027",
+        "home": {
+          "name": "喀拉拉蓝队",
+          "team_id": "ast_26dd361272824e7886f9f608c09745cc"
+        },
+        "away": {
+          "name": "德里",
+          "team_id": "ast_0b85360416ba4ac2ac6e8f29a7b0d585"
+        },
+        "ht_score": "-",
+        "venue": "贾瓦哈拉尔·尼赫鲁体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_4747d70dde834aa89b117d512ff6c3ac",
         "date": "2026-12-09",
         "time": "14:00",
@@ -2936,7 +2976,7 @@
         "match_id": "as_c9d687e5719c414596bfa91af759f933",
         "date": "2026-11-01",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "印度超级联赛",
         "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
         "season": "2026/2027",
@@ -2948,15 +2988,13 @@
           "name": "果阿FT",
           "team_id": "ast_5f245caef1ae473b81be5dec4651591a"
         },
-        "ht_score": "-",
-        "venue": "卡利亚尼体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d840502dc16c4b1fb4eefbc2a1cd414b",
         "date": "2026-11-01",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "印度超级联赛",
         "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
         "season": "2026/2027",
@@ -2968,9 +3006,7 @@
           "name": "德里",
           "team_id": "ast_0b85360416ba4ac2ac6e8f29a7b0d585"
         },
-        "ht_score": "-",
-        "venue": "孟买足球竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3298057ced35433a984e207562f122ee",
@@ -3059,42 +3095,6 @@
         "away": {
           "name": "钦奈yin",
           "team_id": "ast_ceaf13197015470c93162fb5e2a73370"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_fb3e643487e047b0893c019a41a7d7e3",
-        "date": "2026-10-25",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "印度超级联赛",
-        "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
-        "season": "2026/2027",
-        "home": {
-          "name": "喀拉拉蓝队",
-          "team_id": "ast_26dd361272824e7886f9f608c09745cc"
-        },
-        "away": {
-          "name": "孟买城",
-          "team_id": "ast_657df2d7182540f0b9ef51205d05933d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_200a92d41eed40a29744eeda1c7f4e6d",
-        "date": "2026-10-25",
-        "time": "11:30",
-        "status": "11:30",
-        "league": "印度超级联赛",
-        "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
-        "season": "2026/2027",
-        "home": {
-          "name": "丘吉尔兄弟",
-          "team_id": "ast_e47030e04665433499d1645b6d12affe"
-        },
-        "away": {
-          "name": "旁遮普",
-          "team_id": "ast_dbdf65ceac844d22a94f696f897b93f5"
         },
         "venue": ""
       }
@@ -5486,5 +5486,5 @@
     "matches_current_season": 91,
     "upcoming_matches": 34
   },
-  "updated_at": "2026/10/25"
+  "updated_at": "2026/10/26"
 }
