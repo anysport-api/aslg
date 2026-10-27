@@ -236,15 +236,15 @@
         "position": 2,
         "team_id": "ast_70163a1320b44eb7939abb2615088105",
         "team": "Falkenberg",
-        "played": 27,
+        "played": 28,
         "wins": 15,
         "draws": 6,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 52,
-        "goals_against": 37,
-        "goal_difference": 15,
+        "goals_against": 38,
+        "goal_difference": 14,
         "points": 51,
-        "form": "WWDWW"
+        "form": "LWWDW"
       },
       {
         "position": 3,
@@ -388,6 +388,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438",
+        "team": "Orebro",
+        "played": 28,
+        "wins": 6,
+        "draws": 11,
+        "losses": 11,
+        "goals_for": 31,
+        "goals_against": 42,
+        "goal_difference": -11,
+        "points": 29,
+        "form": "WDDLD"
+      },
+      {
+        "position": 14,
         "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516",
         "team": "Norrby",
         "played": 28,
@@ -401,7 +415,7 @@
         "form": "LLWDL"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0",
         "team": "Brage",
         "played": 28,
@@ -413,20 +427,6 @@
         "goal_difference": -10,
         "points": 26,
         "form": "LLWLD"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438",
-        "team": "Orebro",
-        "played": 27,
-        "wins": 5,
-        "draws": 11,
-        "losses": 11,
-        "goals_for": 30,
-        "goals_against": 42,
-        "goal_difference": -12,
-        "points": 26,
-        "form": "DDLDW"
       },
       {
         "position": 16,
@@ -463,16 +463,16 @@
         "position": 2,
         "team_id": "ast_70163a1320b44eb7939abb2615088105",
         "team": "法尔肯堡",
-        "played": 27,
+        "played": 28,
         "wins": 15,
         "draws": 6,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 52,
-        "goals_against": 37,
-        "goal_difference": 15,
+        "goals_against": 38,
+        "goal_difference": 14,
         "points": 51,
-        "form": "WWDWW",
-        "form_label": "胜胜平胜胜"
+        "form": "LWWDW",
+        "form_label": "负胜胜平胜"
       },
       {
         "position": 3,
@@ -626,6 +626,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438",
+        "team": "厄勒布鲁",
+        "played": 28,
+        "wins": 6,
+        "draws": 11,
+        "losses": 11,
+        "goals_for": 31,
+        "goals_against": 42,
+        "goal_difference": -11,
+        "points": 29,
+        "form": "WDDLD",
+        "form_label": "胜平平负平"
+      },
+      {
+        "position": 14,
         "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516",
         "team": "诺尔比",
         "played": 28,
@@ -640,7 +655,7 @@
         "form_label": "负负胜平负"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0",
         "team": "布拉热",
         "played": 28,
@@ -653,21 +668,6 @@
         "points": 26,
         "form": "LLWLD",
         "form_label": "负负胜负平"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438",
-        "team": "厄勒布鲁",
-        "played": 27,
-        "wins": 5,
-        "draws": 11,
-        "losses": 11,
-        "goals_for": 30,
-        "goals_against": 42,
-        "goal_difference": -12,
-        "points": 26,
-        "form": "DDLDW",
-        "form_label": "平平负平胜"
       },
       {
         "position": 16,
@@ -3451,7 +3451,7 @@
         "match_id": "as_2f5ab0f9aea64fa7be9cad4333cbb4ba",
         "date": "2026-10-26",
         "time": "18:05",
-        "status": "18:05",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3463,7 +3463,10 @@
           "name": "法尔肯堡",
           "team_id": "ast_70163a1320b44eb7939abb2615088105"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_326b0c5de06e4bf8adc46c40148deff9",
@@ -3525,7 +3528,7 @@
         },
         "ht_score": "1-4",
         "reg_score": "4-5",
-        "venue": "",
+        "venue": "Domnarvsvallen",
         "status_label": "完场"
       },
       {
@@ -3546,7 +3549,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "4-1",
-        "venue": "",
+        "venue": "Jamtkraft Arena",
         "status_label": "完场"
       },
       {
@@ -3567,7 +3570,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "芬内德瓦伦球场",
         "status_label": "完场"
       },
       {
@@ -8464,24 +8467,6 @@
         "away": {
           "name": "瓦尔贝里",
           "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2f5ab0f9aea64fa7be9cad4333cbb4ba",
-        "date": "2026-10-26",
-        "time": "18:05",
-        "status": "18:05",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "厄勒布鲁",
-          "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
-        },
-        "away": {
-          "name": "法尔肯堡",
-          "team_id": "ast_70163a1320b44eb7939abb2615088105"
         },
         "venue": ""
       }
@@ -14177,13 +14162,13 @@
     }
   },
   "stats": {
-    "matches_completed": 222,
-    "total_goals": 651,
-    "avg_goals_per_match": 2.93,
-    "home_wins": 89,
+    "matches_completed": 223,
+    "total_goals": 652,
+    "avg_goals_per_match": 2.92,
+    "home_wins": 90,
     "draws": 60,
     "away_wins": 73,
-    "home_win_pct": 40.1,
+    "home_win_pct": 40.4,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14329,15 +14314,15 @@
             "position": 2,
             "team_id": "ast_70163a1320b44eb7939abb2615088105",
             "team": "Falkenberg",
-            "played": 27,
+            "played": 28,
             "wins": 15,
             "draws": 6,
-            "losses": 6,
+            "losses": 7,
             "goals_for": 52,
-            "goals_against": 37,
-            "goal_difference": 15,
+            "goals_against": 38,
+            "goal_difference": 14,
             "points": 51,
-            "form": "WWDWW"
+            "form": "LWWDW"
           },
           {
             "position": 3,
@@ -15009,7 +14994,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 18
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

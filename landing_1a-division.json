@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
@@ -156,15 +156,15 @@
         "position": 1,
         "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60",
         "team": "Managua FC",
-        "played": 13,
+        "played": 14,
         "wins": 11,
         "draws": 2,
-        "losses": 0,
-        "goals_for": 41,
-        "goals_against": 13,
-        "goal_difference": 28,
+        "losses": 1,
+        "goals_for": 42,
+        "goals_against": 15,
+        "goal_difference": 27,
         "points": 35,
-        "form": "WWWWD"
+        "form": "LWWWW"
       },
       {
         "position": 2,
@@ -182,6 +182,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_954430cf29394cc9b9f7e28f39156229",
+        "team": "Esteli",
+        "played": 14,
+        "wins": 7,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 25,
+        "goals_against": 13,
+        "goal_difference": 12,
+        "points": 25,
+        "form": "WLDWL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_cc7080b99c2342688321977f209ae7a3",
         "team": "UNAN-Managua",
         "played": 14,
@@ -193,20 +207,6 @@
         "goal_difference": 2,
         "points": 24,
         "form": "LWLDW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_954430cf29394cc9b9f7e28f39156229",
-        "team": "Esteli",
-        "played": 13,
-        "wins": 6,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 23,
-        "goals_against": 12,
-        "goal_difference": 11,
-        "points": 22,
-        "form": "LDWLD"
       },
       {
         "position": 5,
@@ -298,16 +298,16 @@
         "position": 1,
         "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60",
         "team": "马那瓜FC",
-        "played": 13,
+        "played": 14,
         "wins": 11,
         "draws": 2,
-        "losses": 0,
-        "goals_for": 41,
-        "goals_against": 13,
-        "goal_difference": 28,
+        "losses": 1,
+        "goals_for": 42,
+        "goals_against": 15,
+        "goal_difference": 27,
         "points": 35,
-        "form": "WWWWD",
-        "form_label": "胜胜胜胜平"
+        "form": "LWWWW",
+        "form_label": "负胜胜胜胜"
       },
       {
         "position": 2,
@@ -326,6 +326,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_954430cf29394cc9b9f7e28f39156229",
+        "team": "皇家埃斯特利",
+        "played": 14,
+        "wins": 7,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 25,
+        "goals_against": 13,
+        "goal_difference": 12,
+        "points": 25,
+        "form": "WLDWL",
+        "form_label": "胜负平胜负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_cc7080b99c2342688321977f209ae7a3",
         "team": "马那瓜UNAN",
         "played": 14,
@@ -338,21 +353,6 @@
         "points": 24,
         "form": "LWLDW",
         "form_label": "负胜负平胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_954430cf29394cc9b9f7e28f39156229",
-        "team": "皇家埃斯特利",
-        "played": 13,
-        "wins": 6,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 23,
-        "goals_against": 12,
-        "goal_difference": 11,
-        "points": 22,
-        "form": "LDWLD",
-        "form_label": "负平胜负平"
       },
       {
         "position": 5,
@@ -463,6 +463,102 @@
   "fixtures": {
     "season": "2026-2027",
     "matches": [
+      {
+        "match_id": "as_03047172a2324a23814bd8d8b17cbe94",
+        "date": "2026-10-30",
+        "time": "01:00",
+        "status": "Not Started",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "马那瓜UNAN",
+          "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
+        },
+        "away": {
+          "name": "费雷蒂",
+          "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0402d46896f34e4d9b68d31f32302bc7",
+        "date": "2026-10-29",
+        "time": "01:00",
+        "status": "Not Started",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "迪里安根",
+          "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
+        },
+        "away": {
+          "name": "皇家埃斯特利",
+          "team_id": "ast_954430cf29394cc9b9f7e28f39156229"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ccf5dd284d6f4a3aa2b42b518b0f69fe",
+        "date": "2026-10-29",
+        "time": "23:00",
+        "status": "Not Started",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "圣马尔科斯",
+          "team_id": "ast_657001f610c14f49b5af5e28679a27cc"
+        },
+        "away": {
+          "name": "兰乔圣安塔纳",
+          "team_id": "ast_b6cc38c4080a45709e2a901334869ff7"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0105ae4f160248dfacd31cbb11b66d37",
+        "date": "2026-10-28",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "塞巴科体育",
+          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
+        },
+        "away": {
+          "name": "马那瓜FC",
+          "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_7c6d5f6e3e9741eea6e67adc53d9de6c",
+        "date": "2026-10-28",
+        "time": "23:00",
+        "status": "23:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "马塔加尔帕",
+          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
+        },
+        "away": {
+          "name": "哈拉帕",
+          "team_id": "ast_f5f350d2964747d9a882068f4310f396"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_e40e7320cfa54627b86ee591831704ee",
         "date": "2026-10-26",
@@ -1934,25 +2030,100 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_e40e7320cfa54627b86ee591831704ee",
-        "date": "2026-10-26",
+        "match_id": "as_03047172a2324a23814bd8d8b17cbe94",
+        "date": "2026-10-30",
         "time": "01:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
         "home": {
+          "name": "马那瓜UNAN",
+          "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
+        },
+        "away": {
+          "name": "费雷蒂",
+          "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ccf5dd284d6f4a3aa2b42b518b0f69fe",
+        "date": "2026-10-29",
+        "time": "23:00",
+        "status": "Not Started",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "圣马尔科斯",
+          "team_id": "ast_657001f610c14f49b5af5e28679a27cc"
+        },
+        "away": {
+          "name": "兰乔圣安塔纳",
+          "team_id": "ast_b6cc38c4080a45709e2a901334869ff7"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0402d46896f34e4d9b68d31f32302bc7",
+        "date": "2026-10-29",
+        "time": "01:00",
+        "status": "Not Started",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "迪里安根",
+          "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
+        },
+        "away": {
           "name": "皇家埃斯特利",
           "team_id": "ast_954430cf29394cc9b9f7e28f39156229"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7c6d5f6e3e9741eea6e67adc53d9de6c",
+        "date": "2026-10-28",
+        "time": "23:00",
+        "status": "23:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "马塔加尔帕",
+          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
+        },
+        "away": {
+          "name": "哈拉帕",
+          "team_id": "ast_f5f350d2964747d9a882068f4310f396"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_0105ae4f160248dfacd31cbb11b66d37",
+        "date": "2026-10-28",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "塞巴科体育",
+          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
         },
         "away": {
           "name": "马那瓜FC",
           "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
         },
-        "ht_score": "0-0",
-        "reg_score": "2-1",
-        "venue": "",
-        "status_label": "完场"
+        "venue": ""
       }
     ]
   },
@@ -3518,7 +3689,7 @@
     "leader": {
       "team": "Managua FC",
       "points": 35,
-      "played": 13
+      "played": 14
     }
   },
   "coverage": {
@@ -3615,15 +3786,15 @@
             "position": 1,
             "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60",
             "team": "Managua FC",
-            "played": 13,
+            "played": 14,
             "wins": 11,
             "draws": 2,
-            "losses": 0,
-            "goals_for": 41,
-            "goals_against": 13,
-            "goal_difference": 28,
+            "losses": 1,
+            "goals_for": 42,
+            "goals_against": 15,
+            "goal_difference": 27,
             "points": 35,
-            "form": "WWWWD"
+            "form": "LWWWW"
           },
           {
             "position": 2,
@@ -3641,17 +3812,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_cc7080b99c2342688321977f209ae7a3",
-            "team": "UNAN-Managua",
+            "team_id": "ast_954430cf29394cc9b9f7e28f39156229",
+            "team": "Esteli",
             "played": 14,
             "wins": 7,
-            "draws": 3,
-            "losses": 4,
-            "goals_for": 17,
-            "goals_against": 15,
-            "goal_difference": 2,
-            "points": 24,
-            "form": "LWLDW"
+            "draws": 4,
+            "losses": 3,
+            "goals_for": 25,
+            "goals_against": 13,
+            "goal_difference": 12,
+            "points": 25,
+            "form": "WLDWL"
           }
         ],
         "meta": {
@@ -4287,8 +4458,8 @@
     "distinct_title_holders": 4,
     "teams_all_time": 17,
     "standings_rows_current": 10,
-    "matches_current_season": 70,
-    "upcoming_matches": 1
+    "matches_current_season": 75,
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

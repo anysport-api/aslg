@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
@@ -965,7 +965,7 @@
         "match_id": "as_1781a33d71b84d4cbb8ac11d6e08a942",
         "date": "2026-10-26",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Pen.",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -977,13 +977,18 @@
           "name": "Central Cordoba",
           "team_id": "ast_f775114af35d4670b0a1c6930cceb6fa"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "et_score": "0-0",
+        "penalty_score": "3-5",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_117071ce7824405db0ad93e112b69ade",
         "date": "2026-10-26",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Pen.",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -995,13 +1000,18 @@
           "name": "梅赛德斯",
           "team_id": "ast_eb8e61eb08584531919b8dd40ffc2b33"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "et_score": "0-0",
+        "penalty_score": "4-2",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_e0374377a5b5469a86370cd109f8e546",
         "date": "2026-10-26",
         "time": "18:00",
-        "status": "18:00",
+        "status": "Pen.",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -1013,7 +1023,12 @@
           "name": "巴拉卡斯体育",
           "team_id": "ast_3ff5bb719d084de29fbdfba3b864a038"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "et_score": "0-0",
+        "penalty_score": "4-5",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_b7f0ee50c5884fa8ae7dea151ebf4d44",
@@ -10699,62 +10714,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_e0374377a5b5469a86370cd109f8e546",
-        "date": "2026-10-26",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷C级联赛",
-        "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
-        "season": "2026",
-        "home": {
-          "name": "萨卡奇斯帕斯",
-          "team_id": "ast_a15623cae0ac4f6e8fe6aea21fc60916"
-        },
-        "away": {
-          "name": "巴拉卡斯体育",
-          "team_id": "ast_3ff5bb719d084de29fbdfba3b864a038"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_117071ce7824405db0ad93e112b69ade",
-        "date": "2026-10-26",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷C级联赛",
-        "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
-        "season": "2026",
-        "home": {
-          "name": "罗萨里奥狮子队",
-          "team_id": "ast_0d64e870b62147be9b5a3c868418e686"
-        },
-        "away": {
-          "name": "梅赛德斯",
-          "team_id": "ast_eb8e61eb08584531919b8dd40ffc2b33"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1781a33d71b84d4cbb8ac11d6e08a942",
-        "date": "2026-10-26",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷C级联赛",
-        "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
-        "season": "2026",
-        "home": {
-          "name": "西班牙中心",
-          "team_id": "ast_004a7b50e1b04550901b22ccc21e166f"
-        },
-        "away": {
-          "name": "Central Cordoba",
-          "team_id": "ast_f775114af35d4670b0a1c6930cceb6fa"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -13609,13 +13569,13 @@
     }
   },
   "stats": {
-    "matches_completed": 461,
-    "total_goals": 876,
+    "matches_completed": 464,
+    "total_goals": 882,
     "avg_goals_per_match": 1.9,
-    "home_wins": 170,
-    "draws": 159,
+    "home_wins": 172,
+    "draws": 160,
     "away_wins": 132,
-    "home_win_pct": 36.9,
+    "home_win_pct": 37.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14376,7 +14336,7 @@
     "teams_all_time": 46,
     "standings_rows_current": 28,
     "matches_current_season": 464,
-    "upcoming_matches": 3
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

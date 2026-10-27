@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
@@ -240,31 +240,31 @@
       },
       {
         "position": 8,
-        "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
-        "team": "Benjamin Aceval",
-        "played": 29,
-        "wins": 12,
-        "draws": 6,
-        "losses": 11,
-        "goals_for": 43,
-        "goals_against": 39,
-        "goal_difference": 4,
+        "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
+        "team": "Resistencia",
+        "played": 30,
+        "wins": 11,
+        "draws": 9,
+        "losses": 10,
+        "goals_for": 39,
+        "goals_against": 36,
+        "goal_difference": 3,
         "points": 42,
-        "form": "LLLLW"
+        "form": "WWDWL"
       },
       {
         "position": 9,
-        "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
-        "team": "Resistencia",
-        "played": 29,
-        "wins": 10,
-        "draws": 9,
-        "losses": 10,
-        "goals_for": 34,
-        "goals_against": 34,
-        "goal_difference": 0,
-        "points": 39,
-        "form": "WDWLL"
+        "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
+        "team": "Benjamin Aceval",
+        "played": 30,
+        "wins": 12,
+        "draws": 6,
+        "losses": 12,
+        "goals_for": 45,
+        "goals_against": 44,
+        "goal_difference": 1,
+        "points": 42,
+        "form": "LLLLL"
       },
       {
         "position": 10,
@@ -473,33 +473,33 @@
       },
       {
         "position": 8,
-        "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
-        "team": "本杰明·阿塞瓦尔",
-        "played": 29,
-        "wins": 12,
-        "draws": 6,
-        "losses": 11,
-        "goals_for": 43,
-        "goals_against": 39,
-        "goal_difference": 4,
+        "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
+        "team": "雷西斯滕西亚",
+        "played": 30,
+        "wins": 11,
+        "draws": 9,
+        "losses": 10,
+        "goals_for": 39,
+        "goals_against": 36,
+        "goal_difference": 3,
         "points": 42,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
+        "form": "WWDWL",
+        "form_label": "胜胜平胜负"
       },
       {
         "position": 9,
-        "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524",
-        "team": "雷西斯滕西亚",
-        "played": 29,
-        "wins": 10,
-        "draws": 9,
-        "losses": 10,
-        "goals_for": 34,
-        "goals_against": 34,
-        "goal_difference": 0,
-        "points": 39,
-        "form": "WDWLL",
-        "form_label": "胜平胜负负"
+        "team_id": "ast_56c1d708379b42f1925a37e9319eb468",
+        "team": "本杰明·阿塞瓦尔",
+        "played": 30,
+        "wins": 12,
+        "draws": 6,
+        "losses": 12,
+        "goals_for": 45,
+        "goals_against": 44,
+        "goal_difference": 1,
+        "points": 42,
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 10,
@@ -629,7 +629,7 @@
         "match_id": "as_ae284eb73a404b598459b535eab497c2",
         "date": "2026-10-26",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -641,13 +641,16 @@
           "name": "本杰明·阿塞瓦尔",
           "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "5-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7080a7ff060b4bcd8ab103d2b95fe8db",
         "date": "2026-10-26",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴拉圭中级联赛",
         "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
         "season": "2026",
@@ -659,7 +662,10 @@
           "name": "塔库阿里",
           "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0f8f39c22e3d4aba8e9314688859dfca",
@@ -742,7 +748,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Estadio Luis Alfonso Giagni",
         "status_label": "完场"
       },
       {
@@ -5660,44 +5666,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_7080a7ff060b4bcd8ab103d2b95fe8db",
-        "date": "2026-10-26",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "卡皮亚塔体育",
-          "team_id": "ast_35aada81e5ae4757a2f6daa19e4f37ab"
-        },
-        "away": {
-          "name": "塔库阿里",
-          "team_id": "ast_2b1e7e9b965945c98870705a8287d3ea"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ae284eb73a404b598459b535eab497c2",
-        "date": "2026-10-26",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "巴拉圭中级联赛",
-        "league_id": "asl_84b933b59454496b8e7bf7dd553943a6",
-        "season": "2026",
-        "home": {
-          "name": "雷西斯滕西亚",
-          "team_id": "ast_c48ebcb7919244d3b250523e0f1dc524"
-        },
-        "away": {
-          "name": "本杰明·阿塞瓦尔",
-          "team_id": "ast_56c1d708379b42f1925a37e9319eb468"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -10257,13 +10226,13 @@
     }
   },
   "stats": {
-    "matches_completed": 238,
-    "total_goals": 627,
-    "avg_goals_per_match": 2.63,
-    "home_wins": 96,
+    "matches_completed": 240,
+    "total_goals": 637,
+    "avg_goals_per_match": 2.65,
+    "home_wins": 98,
     "draws": 65,
     "away_wins": 77,
-    "home_win_pct": 40.3,
+    "home_win_pct": 40.8,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11006,7 +10975,7 @@
     "teams_all_time": 52,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

@@ -453,7 +453,7 @@
         "match_id": "as_b4c2605cdec044b49d65ff9be039ec45",
         "date": "2026-11-02",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -465,9 +465,7 @@
           "name": "塔尔图卡列夫",
           "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e8010f49274e41eeb0d8857c6e817053",
@@ -545,7 +543,7 @@
         "match_id": "as_cae472ccd65f40fca241554d37b036e7",
         "date": "2026-10-26",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -557,7 +555,10 @@
           "name": "帕尔努JK瓦普鲁斯U21",
           "team_id": "ast_372bd1af36c741f19a8313104520fe6d"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_18e685a5338e4723bbbf153630129f2c",
@@ -4214,7 +4215,7 @@
         "match_id": "as_b4c2605cdec044b49d65ff9be039ec45",
         "date": "2026-11-02",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -4226,9 +4227,7 @@
           "name": "塔尔图卡列夫",
           "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e8010f49274e41eeb0d8857c6e817053",
@@ -4299,24 +4298,6 @@
         "away": {
           "name": "图列维克",
           "team_id": "ast_11c3edd678ff4830806d6a0a813e1a01"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_cae472ccd65f40fca241554d37b036e7",
-        "date": "2026-10-26",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "列瓦迪亚U19",
-          "team_id": "ast_fd2e4e2f929641009528033bcdd1be36"
-        },
-        "away": {
-          "name": "帕尔努JK瓦普鲁斯U21",
-          "team_id": "ast_372bd1af36c741f19a8313104520fe6d"
         },
         "venue": ""
       }
@@ -4698,13 +4679,13 @@
     }
   },
   "stats": {
-    "matches_completed": 169,
-    "total_goals": 734,
-    "avg_goals_per_match": 4.34,
-    "home_wins": 93,
+    "matches_completed": 170,
+    "total_goals": 739,
+    "avg_goals_per_match": 4.35,
+    "home_wins": 94,
     "draws": 19,
     "away_wins": 57,
-    "home_win_pct": 55.0,
+    "home_win_pct": 55.3,
     "biggest_win": {
       "margin": 12,
       "match": {
@@ -5464,7 +5445,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 11
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

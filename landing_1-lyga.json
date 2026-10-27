@@ -1001,7 +1001,7 @@
         "match_id": "as_03f1714c11104293b1f27fceb4676732",
         "date": "2026-10-26",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -1013,7 +1013,10 @@
           "name": "绍乌利艾2",
           "team_id": "ast_ce84688365954203860db764afd42af0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1f91d9239ce94c54856a954fe2bbb545",
@@ -6017,24 +6020,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_03f1714c11104293b1f27fceb4676732",
-        "date": "2026-10-26",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "转投资二队",
-          "team_id": "ast_365789666536459587900ef670c6d2de"
-        },
-        "away": {
-          "name": "绍乌利艾2",
-          "team_id": "ast_ce84688365954203860db764afd42af0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9934,13 +9919,13 @@
     }
   },
   "stats": {
-    "matches_completed": 221,
-    "total_goals": 640,
-    "avg_goals_per_match": 2.9,
-    "home_wins": 108,
+    "matches_completed": 222,
+    "total_goals": 645,
+    "avg_goals_per_match": 2.91,
+    "home_wins": 109,
     "draws": 33,
     "away_wins": 80,
-    "home_win_pct": 48.9,
+    "home_win_pct": 49.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10701,7 +10686,7 @@
     "teams_all_time": 60,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

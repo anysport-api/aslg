@@ -294,30 +294,30 @@
       },
       {
         "position": 11,
-        "team": "Miramar",
-        "played": 29,
-        "wins": 8,
-        "draws": 10,
-        "losses": 11,
-        "goals_for": 28,
-        "goals_against": 34,
-        "goal_difference": -6,
-        "points": 34,
-        "form": "WDWLW"
+        "team_id": "ast_030d77659a864002b94113b3a39d6e24",
+        "team": "La Luz",
+        "played": 62,
+        "wins": 15,
+        "draws": 27,
+        "losses": 20,
+        "goals_for": 62,
+        "goals_against": 77,
+        "goal_difference": -15,
+        "points": 72,
+        "form": "WWDWW"
       },
       {
         "position": 12,
-        "team_id": "ast_030d77659a864002b94113b3a39d6e24",
-        "team": "La Luz",
-        "played": 61,
-        "wins": 14,
-        "draws": 27,
-        "losses": 20,
-        "goals_for": 59,
-        "goals_against": 77,
-        "goal_difference": -18,
-        "points": 69,
-        "form": "WDWWL"
+        "team": "Miramar",
+        "played": 30,
+        "wins": 8,
+        "draws": 10,
+        "losses": 12,
+        "goals_for": 28,
+        "goals_against": 37,
+        "goal_difference": -9,
+        "points": 34,
+        "form": "LWDWL"
       },
       {
         "position": 13,
@@ -501,32 +501,32 @@
       },
       {
         "position": 11,
-        "team": "阿帕雷西达",
-        "played": 29,
-        "wins": 8,
-        "draws": 10,
-        "losses": 11,
-        "goals_for": 28,
-        "goals_against": 34,
-        "goal_difference": -6,
-        "points": 34,
-        "form": "WDWLW",
-        "form_label": "胜平胜负胜"
+        "team_id": "ast_030d77659a864002b94113b3a39d6e24",
+        "team": "光明城",
+        "played": 62,
+        "wins": 15,
+        "draws": 27,
+        "losses": 20,
+        "goals_for": 62,
+        "goals_against": 77,
+        "goal_difference": -15,
+        "points": 72,
+        "form": "WWDWW",
+        "form_label": "胜胜平胜胜"
       },
       {
         "position": 12,
-        "team_id": "ast_030d77659a864002b94113b3a39d6e24",
-        "team": "光明城",
-        "played": 61,
-        "wins": 14,
-        "draws": 27,
-        "losses": 20,
-        "goals_for": 59,
-        "goals_against": 77,
-        "goal_difference": -18,
-        "points": 69,
-        "form": "WDWWL",
-        "form_label": "胜平胜胜负"
+        "team": "阿帕雷西达",
+        "played": 30,
+        "wins": 8,
+        "draws": 10,
+        "losses": 12,
+        "goals_for": 28,
+        "goals_against": 37,
+        "goal_difference": -9,
+        "points": 34,
+        "form": "LWDWL",
+        "form_label": "负胜平胜负"
       },
       {
         "position": 13,
@@ -707,7 +707,7 @@
         "match_id": "as_3ca927db1e7947ee81c72bd406063f36",
         "date": "2026-10-26",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -719,7 +719,10 @@
           "name": "科隆",
           "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8634306edfa043cabde388e298e3775f",
@@ -823,7 +826,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "费德里科·奥马尔·萨罗尔迪公园",
         "status_label": "完场"
       },
       {
@@ -844,7 +847,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Parque Cincuentenario Juan Prandi",
         "status_label": "完场"
       },
       {
@@ -5258,24 +5261,6 @@
           "team_id": "ast_27620bae5d3e489292224c4bc7f6aae0"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_3ca927db1e7947ee81c72bd406063f36",
-        "date": "2026-10-26",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "乌拉圭乙级联赛",
-        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
-        "season": "2026",
-        "home": {
-          "name": "佩桑杜FC",
-          "team_id": "ast_994afc4ff5174e1ba7c3946065465206"
-        },
-        "away": {
-          "name": "科隆",
-          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8831,13 +8816,13 @@
     }
   },
   "stats": {
-    "matches_completed": 210,
-    "total_goals": 491,
-    "avg_goals_per_match": 2.34,
-    "home_wins": 86,
+    "matches_completed": 211,
+    "total_goals": 496,
+    "avg_goals_per_match": 2.35,
+    "home_wins": 87,
     "draws": 65,
     "away_wins": 59,
-    "home_win_pct": 41.0,
+    "home_win_pct": 41.2,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -9601,7 +9586,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 14,
     "matches_current_season": 218,
-    "upcoming_matches": 8
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

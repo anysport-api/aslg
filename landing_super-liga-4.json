@@ -218,6 +218,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
+        "team": "Zilina",
+        "played": 12,
+        "wins": 6,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 29,
+        "goals_against": 24,
+        "goal_difference": 5,
+        "points": 22,
+        "form": "DLDWD"
+      },
+      {
+        "position": 4,
         "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
         "team": "Slovan Bratislava",
         "played": 11,
@@ -229,20 +243,6 @@
         "goal_difference": 14,
         "points": 21,
         "form": "DWDWD"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
-        "team": "Zilina",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 27,
-        "goals_against": 22,
-        "goal_difference": 5,
-        "points": 21,
-        "form": "LDWDW"
       },
       {
         "position": 5,
@@ -262,15 +262,15 @@
         "position": 6,
         "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
         "team": "Kosice",
-        "played": 10,
+        "played": 11,
         "wins": 3,
-        "draws": 5,
+        "draws": 6,
         "losses": 2,
-        "goals_for": 23,
-        "goals_against": 20,
+        "goals_for": 25,
+        "goals_against": 22,
         "goal_difference": 3,
-        "points": 14,
-        "form": "DDWLW"
+        "points": 15,
+        "form": "DDDWL"
       },
       {
         "position": 7,
@@ -390,6 +390,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
+        "team": "日利纳",
+        "played": 12,
+        "wins": 6,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 29,
+        "goals_against": 24,
+        "goal_difference": 5,
+        "points": 22,
+        "form": "DLDWD",
+        "form_label": "平负平胜平"
+      },
+      {
+        "position": 4,
         "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
         "team": "布拉迪斯拉发斯洛伐克",
         "played": 11,
@@ -402,21 +417,6 @@
         "points": 21,
         "form": "DWDWD",
         "form_label": "平胜平胜平"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
-        "team": "日利纳",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 27,
-        "goals_against": 22,
-        "goal_difference": 5,
-        "points": 21,
-        "form": "LDWDW",
-        "form_label": "负平胜平胜"
       },
       {
         "position": 5,
@@ -437,16 +437,16 @@
         "position": 6,
         "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
         "team": "科希策",
-        "played": 10,
+        "played": 11,
         "wins": 3,
-        "draws": 5,
+        "draws": 6,
         "losses": 2,
-        "goals_for": 23,
-        "goals_against": 20,
+        "goals_for": 25,
+        "goals_against": 22,
         "goal_difference": 3,
-        "points": 14,
-        "form": "DDWLW",
-        "form_label": "平平胜负胜"
+        "points": 15,
+        "form": "DDDWL",
+        "form_label": "平平平胜负"
       },
       {
         "position": 7,
@@ -545,70 +545,6 @@
       "en": [
         {
           "rank": 1,
-          "player_id": "asp_6cd9ea1fe3534842bfee0868ab661fc5",
-          "player_name": "R. Čerepkai",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "FK Košice",
-          "value": 2
-        },
-        {
-          "rank": 2,
-          "player_id": "asp_a773c535a3cf45d0a9b00b8df9f4d7ff",
-          "player_name": "T. Kudlicka",
-          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
-          "team_name": "Spartak Trnava",
-          "value": 2
-        },
-        {
-          "rank": 3,
-          "player_id": "asp_7edd0792dda44f779804082a60efc4a0",
-          "player_name": "A. Mustafić",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "Slovan Bratislava",
-          "value": 2
-        },
-        {
-          "rank": 4,
-          "player_id": "asp_eefef9faccfc422dbc62f28bf37cc6be",
-          "player_name": "Ramadan Ammar",
-          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
-          "team_name": "DAC",
-          "value": 2
-        },
-        {
-          "rank": 5,
-          "player_id": "asp_9f742e9b765e4247ba616e3018a97cf3",
-          "player_name": "Homet Dani",
-          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
-          "team_name": "Zilina",
-          "value": 2
-        },
-        {
-          "rank": 6,
-          "player_id": "asp_62fdff0bc4ae4eaa9794ebe367f1b3d5",
-          "player_name": "Onyedika Philip",
-          "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
-          "team_name": "Skalica",
-          "value": 2
-        },
-        {
-          "rank": 7,
-          "player_id": "asp_3a877f8d1fc7453795ba6cb954074038",
-          "player_name": "R. Šiler",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "Podbrezova",
-          "value": 2
-        },
-        {
-          "rank": 8,
-          "player_id": "asp_7279555e262f4f84b16cd2291b6a03dc",
-          "player_name": "Maraš Aleksa",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "FK Košice",
-          "value": 2
-        },
-        {
-          "rank": 9,
           "player_id": "asp_a3ee71d76ac8458c82687ec64ffff2bb",
           "player_name": "P. Kováčik",
           "team_id": "ast_d60de0b22319428d94759c967158e090",
@@ -616,7 +552,15 @@
           "value": 2
         },
         {
-          "rank": 10,
+          "rank": 2,
+          "player_id": "asp_6cd9ea1fe3534842bfee0868ab661fc5",
+          "player_name": "R. Čerepkai",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "FK Košice",
+          "value": 2
+        },
+        {
+          "rank": 3,
           "player_id": "asp_33fc8f4aa3ba4b3781f35a9fb066552e",
           "player_name": "J. Bernát",
           "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
@@ -624,7 +568,47 @@
           "value": 2
         },
         {
-          "rank": 11,
+          "rank": 4,
+          "player_id": "asp_a773c535a3cf45d0a9b00b8df9f4d7ff",
+          "player_name": "T. Kudlicka",
+          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
+          "team_name": "Spartak Trnava",
+          "value": 2
+        },
+        {
+          "rank": 5,
+          "player_id": "asp_7edd0792dda44f779804082a60efc4a0",
+          "player_name": "A. Mustafić",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "Slovan Bratislava",
+          "value": 2
+        },
+        {
+          "rank": 6,
+          "player_id": "asp_7279555e262f4f84b16cd2291b6a03dc",
+          "player_name": "Maraš Aleksa",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "FK Košice",
+          "value": 2
+        },
+        {
+          "rank": 7,
+          "player_id": "asp_62fdff0bc4ae4eaa9794ebe367f1b3d5",
+          "player_name": "Onyedika Philip",
+          "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
+          "team_name": "Skalica",
+          "value": 2
+        },
+        {
+          "rank": 8,
+          "player_id": "asp_3a877f8d1fc7453795ba6cb954074038",
+          "player_name": "R. Šiler",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "Podbrezova",
+          "value": 2
+        },
+        {
+          "rank": 9,
           "player_id": "asp_82b6612623854f929987d6ace35ac942",
           "player_name": "Polťák David",
           "team_id": "ast_2759c2529476440497c0cb4e1104016b",
@@ -632,223 +616,23 @@
           "value": 2
         },
         {
-          "rank": 12,
-          "player_id": "asp_82b993d5b5134ae4b533b1003468e436",
-          "player_name": "J. Hladík",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "Ruzomberok",
-          "value": 1
-        },
-        {
-          "rank": 13,
-          "player_id": "asp_811f503a209f4342a0ecb6431e7d15b4",
-          "player_name": "Mrvaljević Balša",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "Podbrezova",
-          "value": 1
-        },
-        {
-          "rank": 14,
-          "player_id": "asp_b13b88f5b1fb4f66afac2d1b68f15971",
-          "player_name": "P. Azango",
-          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
-          "team_name": "Spartak Trnava",
-          "value": 1
-        },
-        {
-          "rank": 15,
-          "player_id": "asp_fb49320bc5e1460b8a9a31bef212d240",
-          "player_name": "Trello Filip",
-          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
-          "team_name": "Spartak Trnava",
-          "value": 1
-        },
-        {
-          "rank": 16,
-          "player_id": "asp_382a312e57f24f2781c72bf5feb68c50",
-          "player_name": "Fasko Simon",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "Podbrezova",
-          "value": 1
-        },
-        {
-          "rank": 17,
-          "player_id": "asp_6ac44426e8dc4119a2aa2308f0363cc2",
-          "player_name": "M. Kukharevych",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "Slovan Bratislava",
-          "value": 1
-        },
-        {
-          "rank": 18,
-          "player_id": "asp_c122457fa8894858906ed1235ec6bd52",
-          "player_name": "O. Kakay",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "FK Košice",
-          "value": 1
-        },
-        {
-          "rank": 19,
-          "player_id": "asp_4c1154a5ff2f40fa91e392b2a7882736",
-          "player_name": "D. Kostka",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "Ruzomberok",
-          "value": 1
-        },
-        {
-          "rank": 20,
-          "player_id": "asp_dbc5609b434b400786e5a14bd8b905d8",
-          "player_name": "J. Paur",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "Trencin",
-          "value": 1
-        },
-        {
-          "rank": 21,
-          "player_id": "asp_6f75cf0cea654751a5441c3b14803054",
-          "player_name": "T. Barseghyan",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "Slovan Bratislava",
-          "value": 1
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_4ef881f4949b412e8406020af8bec251",
-          "player_name": "Florea Andrei",
-          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
-          "team_name": "Zilina",
-          "value": 1
-        },
-        {
-          "rank": 23,
-          "player_id": "asp_bd226ac62684426d9e4a4d59bfcef5f9",
-          "player_name": "C. Bayemi",
-          "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
-          "team_name": "Komarno",
-          "value": 1
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_b48e39d8f20f479dba7b46d7c28c963b",
-          "player_name": "Yirajang Alasana",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "Slovan Bratislava",
-          "value": 1
-        },
-        {
-          "rank": 25,
-          "player_id": "asp_a25e4fcc643042039e140d39621347ea",
-          "player_name": "M. Gjorgievski",
-          "team_id": "ast_a92bd299af4f46ac8141be3a5e6d51c7",
-          "team_name": "Dukla Banska Bystrica",
-          "value": 1
-        },
-        {
-          "rank": 26,
-          "player_id": "asp_dfd06bc593b64737935b75ecf5f020b9",
-          "player_name": "M. Chrien",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "Podbrezova",
-          "value": 1
-        },
-        {
-          "rank": 27,
-          "player_id": "asp_68bab87b3aa0420fb1feb8a7f1fa9ed6",
-          "player_name": "Soares Eynel",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "Trencin",
-          "value": 1
-        },
-        {
-          "rank": 28,
-          "player_id": "asp_4de6d20dde55492fb97ddb2588b47e44",
-          "player_name": "D. Gallovič",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "FK Košice",
-          "value": 1
-        },
-        {
-          "rank": 29,
-          "player_id": "asp_28549272fa9d424885413c4c0a4f731f",
-          "player_name": "Mikulaj Lukas",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "Trencin",
-          "value": 1
-        },
-        {
-          "rank": 30,
-          "player_id": "asp_2a3548937d1b422b80f2a77474f7da9d",
-          "player_name": "Rehus Milan",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "FK Košice",
-          "value": 1
-        },
-        {
-          "rank": 31,
-          "player_id": "asp_affcb11b352146f581035a445a2e04dc",
-          "player_name": "A. Selecký",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "Ruzomberok",
-          "value": 1
-        },
-        {
-          "rank": 32,
-          "player_id": "asp_ffdebe06b8b94ce080db1e9b495a06ac",
-          "player_name": "M. Boďa",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "Ruzomberok",
-          "value": 1
-        },
-        {
-          "rank": 33,
-          "player_id": "asp_caafa64902944d0599077478c8d38ed2",
-          "player_name": "Ibrahim Rahim",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "Slovan Bratislava",
-          "value": 1
-        },
-        {
-          "rank": 34,
-          "player_id": "asp_a7ad831e7a16476ea42f23c5a5dee614",
-          "player_name": "K. Bajrič",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "Slovan Bratislava",
-          "value": 1
-        },
-        {
-          "rank": 35,
-          "player_id": "asp_d2173d492ad045409a0ba6fc5328ea3a",
-          "player_name": "S. Ouro",
+          "rank": 10,
+          "player_id": "asp_eefef9faccfc422dbc62f28bf37cc6be",
+          "player_name": "Ramadan Ammar",
           "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
           "team_name": "DAC",
-          "value": 1
+          "value": 2
         },
         {
-          "rank": 36,
-          "player_id": "asp_741fa3d380684a5aa3664dddbed8a99c",
-          "player_name": "M. Poom",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "Trencin",
-          "value": 1
-        },
-        {
-          "rank": 37,
-          "player_id": "asp_4eb697c1378f44288831174c2f7de036",
-          "player_name": "Bzdyl Fabian",
+          "rank": 11,
+          "player_id": "asp_9f742e9b765e4247ba616e3018a97cf3",
+          "player_name": "Homet Dani",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
           "team_name": "Zilina",
-          "value": 1
+          "value": 2
         },
         {
-          "rank": 38,
-          "player_id": "asp_e5470e9e6c5a485abd02219a42eac17c",
-          "player_name": "M. Bednár",
-          "team_id": "ast_d86c123d482047e4ab89e1f53dff29b1",
-          "team_name": "Zemplin Michalovce",
-          "value": 1
-        },
-        {
-          "rank": 39,
+          "rank": 12,
           "player_id": "asp_051a7565163747eaae90c6bd68c3c1c1",
           "player_name": "Sylla Alioune",
           "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
@@ -856,7 +640,7 @@
           "value": 1
         },
         {
-          "rank": 40,
+          "rank": 13,
           "player_id": "asp_a4812b10db4746b6aba49ec5306f9c26",
           "player_name": "S. Kóša",
           "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
@@ -864,7 +648,15 @@
           "value": 1
         },
         {
-          "rank": 41,
+          "rank": 14,
+          "player_id": "asp_dfd06bc593b64737935b75ecf5f020b9",
+          "player_name": "M. Chrien",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "Podbrezova",
+          "value": 1
+        },
+        {
+          "rank": 15,
           "player_id": "asp_803f6a79eea84a44a57d8fd88a371034",
           "player_name": "E. Daniel",
           "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
@@ -872,7 +664,71 @@
           "value": 1
         },
         {
-          "rank": 42,
+          "rank": 16,
+          "player_id": "asp_caafa64902944d0599077478c8d38ed2",
+          "player_name": "Ibrahim Rahim",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "Slovan Bratislava",
+          "value": 1
+        },
+        {
+          "rank": 17,
+          "player_id": "asp_68bab87b3aa0420fb1feb8a7f1fa9ed6",
+          "player_name": "Soares Eynel",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "Trencin",
+          "value": 1
+        },
+        {
+          "rank": 18,
+          "player_id": "asp_a7ad831e7a16476ea42f23c5a5dee614",
+          "player_name": "K. Bajrič",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "Slovan Bratislava",
+          "value": 1
+        },
+        {
+          "rank": 19,
+          "player_id": "asp_6f75cf0cea654751a5441c3b14803054",
+          "player_name": "T. Barseghyan",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "Slovan Bratislava",
+          "value": 1
+        },
+        {
+          "rank": 20,
+          "player_id": "asp_4eb697c1378f44288831174c2f7de036",
+          "player_name": "Bzdyl Fabian",
+          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
+          "team_name": "Zilina",
+          "value": 1
+        },
+        {
+          "rank": 21,
+          "player_id": "asp_2a3548937d1b422b80f2a77474f7da9d",
+          "player_name": "Rehus Milan",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "FK Košice",
+          "value": 1
+        },
+        {
+          "rank": 22,
+          "player_id": "asp_affcb11b352146f581035a445a2e04dc",
+          "player_name": "A. Selecký",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "Ruzomberok",
+          "value": 1
+        },
+        {
+          "rank": 23,
+          "player_id": "asp_e5470e9e6c5a485abd02219a42eac17c",
+          "player_name": "M. Bednár",
+          "team_id": "ast_d86c123d482047e4ab89e1f53dff29b1",
+          "team_name": "Zemplin Michalovce",
+          "value": 1
+        },
+        {
+          "rank": 24,
           "player_id": "asp_616e81dfc1f749c4ab9c07bd6aaed60f",
           "player_name": "Khorkheli Luka",
           "team_id": "ast_2759c2529476440497c0cb4e1104016b",
@@ -880,7 +736,7 @@
           "value": 1
         },
         {
-          "rank": 43,
+          "rank": 25,
           "player_id": "asp_87091e0077164d67ba43443056036cbf",
           "player_name": "M. Faško",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
@@ -888,7 +744,111 @@
           "value": 1
         },
         {
-          "rank": 44,
+          "rank": 26,
+          "player_id": "asp_1a8eab350d034795a0c04fc2507fab62",
+          "player_name": "V. Hranoš",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "Ruzomberok",
+          "value": 1
+        },
+        {
+          "rank": 27,
+          "player_id": "asp_82b993d5b5134ae4b533b1003468e436",
+          "player_name": "J. Hladík",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "Ruzomberok",
+          "value": 1
+        },
+        {
+          "rank": 28,
+          "player_id": "asp_2e33ec60c9e0423eaff6cd06afb2d188",
+          "player_name": "Kianga Manasse",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "Slovan Bratislava",
+          "value": 1
+        },
+        {
+          "rank": 29,
+          "player_id": "asp_811f503a209f4342a0ecb6431e7d15b4",
+          "player_name": "Mrvaljević Balša",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "Podbrezova",
+          "value": 1
+        },
+        {
+          "rank": 30,
+          "player_id": "asp_b13b88f5b1fb4f66afac2d1b68f15971",
+          "player_name": "P. Azango",
+          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
+          "team_name": "Spartak Trnava",
+          "value": 1
+        },
+        {
+          "rank": 31,
+          "player_id": "asp_d2173d492ad045409a0ba6fc5328ea3a",
+          "player_name": "S. Ouro",
+          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
+          "team_name": "DAC",
+          "value": 1
+        },
+        {
+          "rank": 32,
+          "player_id": "asp_741fa3d380684a5aa3664dddbed8a99c",
+          "player_name": "M. Poom",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "Trencin",
+          "value": 1
+        },
+        {
+          "rank": 33,
+          "player_id": "asp_28549272fa9d424885413c4c0a4f731f",
+          "player_name": "Mikulaj Lukas",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "Trencin",
+          "value": 1
+        },
+        {
+          "rank": 34,
+          "player_id": "asp_b48e39d8f20f479dba7b46d7c28c963b",
+          "player_name": "Yirajang Alasana",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "Slovan Bratislava",
+          "value": 1
+        },
+        {
+          "rank": 35,
+          "player_id": "asp_a25e4fcc643042039e140d39621347ea",
+          "player_name": "M. Gjorgievski",
+          "team_id": "ast_a92bd299af4f46ac8141be3a5e6d51c7",
+          "team_name": "Dukla Banska Bystrica",
+          "value": 1
+        },
+        {
+          "rank": 36,
+          "player_id": "asp_ffdebe06b8b94ce080db1e9b495a06ac",
+          "player_name": "M. Boďa",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "Ruzomberok",
+          "value": 1
+        },
+        {
+          "rank": 37,
+          "player_id": "asp_dbc5609b434b400786e5a14bd8b905d8",
+          "player_name": "J. Paur",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "Trencin",
+          "value": 1
+        },
+        {
+          "rank": 38,
+          "player_id": "asp_fb49320bc5e1460b8a9a31bef212d240",
+          "player_name": "Trello Filip",
+          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
+          "team_name": "Spartak Trnava",
+          "value": 1
+        },
+        {
+          "rank": 39,
           "player_id": "asp_f66ff19871c146cbb7b6002a3edadcb4",
           "player_name": "Narimanidze Aleksandre",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
@@ -896,7 +856,15 @@
           "value": 1
         },
         {
-          "rank": 45,
+          "rank": 40,
+          "player_id": "asp_bd226ac62684426d9e4a4d59bfcef5f9",
+          "player_name": "C. Bayemi",
+          "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
+          "team_name": "Komarno",
+          "value": 1
+        },
+        {
+          "rank": 41,
           "player_id": "asp_d8934c50d6f94b7381155cfdf0adf57a",
           "player_name": "Hranica Timotej",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
@@ -904,11 +872,43 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 42,
+          "player_id": "asp_4ef881f4949b412e8406020af8bec251",
+          "player_name": "Florea Andrei",
+          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
+          "team_name": "Zilina",
+          "value": 1
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_4de6d20dde55492fb97ddb2588b47e44",
+          "player_name": "D. Gallovič",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "FK Košice",
+          "value": 1
+        },
+        {
+          "rank": 44,
+          "player_id": "asp_382a312e57f24f2781c72bf5feb68c50",
+          "player_name": "Fasko Simon",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "Podbrezova",
+          "value": 1
+        },
+        {
+          "rank": 45,
           "player_id": "asp_98d40a9f30c34da8b8e56cc10b548915",
           "player_name": "P. Guinari",
           "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
           "team_name": "Skalica",
+          "value": 1
+        },
+        {
+          "rank": 46,
+          "player_id": "asp_6ac44426e8dc4119a2aa2308f0363cc2",
+          "player_name": "M. Kukharevych",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "Slovan Bratislava",
           "value": 1
         },
         {
@@ -921,16 +921,16 @@
         },
         {
           "rank": 48,
-          "player_id": "asp_2e33ec60c9e0423eaff6cd06afb2d188",
-          "player_name": "Kianga Manasse",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "Slovan Bratislava",
+          "player_id": "asp_c122457fa8894858906ed1235ec6bd52",
+          "player_name": "O. Kakay",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "FK Košice",
           "value": 1
         },
         {
           "rank": 49,
-          "player_id": "asp_1a8eab350d034795a0c04fc2507fab62",
-          "player_name": "V. Hranoš",
+          "player_id": "asp_4c1154a5ff2f40fa91e392b2a7882736",
+          "player_name": "D. Kostka",
           "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
           "team_name": "Ruzomberok",
           "value": 1
@@ -939,70 +939,6 @@
       "zh": [
         {
           "rank": 1,
-          "player_id": "asp_6cd9ea1fe3534842bfee0868ab661fc5",
-          "player_name": "罗曼·切雷普凯",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "科希策",
-          "value": 2
-        },
-        {
-          "rank": 2,
-          "player_id": "asp_a773c535a3cf45d0a9b00b8df9f4d7ff",
-          "player_name": "季莫特·库德利卡",
-          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
-          "team_name": "特尔纳瓦",
-          "value": 2
-        },
-        {
-          "rank": 3,
-          "player_id": "asp_7edd0792dda44f779804082a60efc4a0",
-          "player_name": "阿伦·穆斯塔菲奇",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "布拉迪斯拉发斯洛伐克",
-          "value": 2
-        },
-        {
-          "rank": 4,
-          "player_id": "asp_eefef9faccfc422dbc62f28bf37cc6be",
-          "player_name": "Ramadan Ammar",
-          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
-          "team_name": "杜纳斯特雷达",
-          "value": 2
-        },
-        {
-          "rank": 5,
-          "player_id": "asp_9f742e9b765e4247ba616e3018a97cf3",
-          "player_name": "丹尼尔·霍梅特·鲁伊斯",
-          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
-          "team_name": "日利纳",
-          "value": 2
-        },
-        {
-          "rank": 6,
-          "player_id": "asp_62fdff0bc4ae4eaa9794ebe367f1b3d5",
-          "player_name": "菲利普·奥尼耶迪卡",
-          "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
-          "team_name": "斯卡利察",
-          "value": 2
-        },
-        {
-          "rank": 7,
-          "player_id": "asp_3a877f8d1fc7453795ba6cb954074038",
-          "player_name": "拉德克·西勒",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "波德布雷佐瓦",
-          "value": 2
-        },
-        {
-          "rank": 8,
-          "player_id": "asp_7279555e262f4f84b16cd2291b6a03dc",
-          "player_name": "阿列克萨·马拉斯",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "科希策",
-          "value": 2
-        },
-        {
-          "rank": 9,
           "player_id": "asp_a3ee71d76ac8458c82687ec64ffff2bb",
           "player_name": "彼得·科瓦奇克",
           "team_id": "ast_d60de0b22319428d94759c967158e090",
@@ -1010,7 +946,15 @@
           "value": 2
         },
         {
-          "rank": 10,
+          "rank": 2,
+          "player_id": "asp_6cd9ea1fe3534842bfee0868ab661fc5",
+          "player_name": "罗曼·切雷普凯",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "科希策",
+          "value": 2
+        },
+        {
+          "rank": 3,
           "player_id": "asp_33fc8f4aa3ba4b3781f35a9fb066552e",
           "player_name": "扬·贝尔纳特",
           "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
@@ -1018,7 +962,47 @@
           "value": 2
         },
         {
-          "rank": 11,
+          "rank": 4,
+          "player_id": "asp_a773c535a3cf45d0a9b00b8df9f4d7ff",
+          "player_name": "季莫特·库德利卡",
+          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
+          "team_name": "特尔纳瓦",
+          "value": 2
+        },
+        {
+          "rank": 5,
+          "player_id": "asp_7edd0792dda44f779804082a60efc4a0",
+          "player_name": "阿伦·穆斯塔菲奇",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "布拉迪斯拉发斯洛伐克",
+          "value": 2
+        },
+        {
+          "rank": 6,
+          "player_id": "asp_7279555e262f4f84b16cd2291b6a03dc",
+          "player_name": "阿列克萨·马拉斯",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "科希策",
+          "value": 2
+        },
+        {
+          "rank": 7,
+          "player_id": "asp_62fdff0bc4ae4eaa9794ebe367f1b3d5",
+          "player_name": "菲利普·奥尼耶迪卡",
+          "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
+          "team_name": "斯卡利察",
+          "value": 2
+        },
+        {
+          "rank": 8,
+          "player_id": "asp_3a877f8d1fc7453795ba6cb954074038",
+          "player_name": "拉德克·西勒",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "波德布雷佐瓦",
+          "value": 2
+        },
+        {
+          "rank": 9,
           "player_id": "asp_82b6612623854f929987d6ace35ac942",
           "player_name": "大卫·波尔塔克",
           "team_id": "ast_2759c2529476440497c0cb4e1104016b",
@@ -1026,223 +1010,23 @@
           "value": 2
         },
         {
-          "rank": 12,
-          "player_id": "asp_82b993d5b5134ae4b533b1003468e436",
-          "player_name": "扬·赫拉迪克",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "鲁赞贝罗克",
-          "value": 1
-        },
-        {
-          "rank": 13,
-          "player_id": "asp_811f503a209f4342a0ecb6431e7d15b4",
-          "player_name": "巴尔萨·姆尔瓦耶维奇",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "波德布雷佐瓦",
-          "value": 1
-        },
-        {
-          "rank": 14,
-          "player_id": "asp_b13b88f5b1fb4f66afac2d1b68f15971",
-          "player_name": "菲利普·阿赞戈",
-          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
-          "team_name": "特尔纳瓦",
-          "value": 1
-        },
-        {
-          "rank": 15,
-          "player_id": "asp_fb49320bc5e1460b8a9a31bef212d240",
-          "player_name": "F. 特雷洛",
-          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
-          "team_name": "特尔纳瓦",
-          "value": 1
-        },
-        {
-          "rank": 16,
-          "player_id": "asp_382a312e57f24f2781c72bf5feb68c50",
-          "player_name": "S. 法什科",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "波德布雷佐瓦",
-          "value": 1
-        },
-        {
-          "rank": 17,
-          "player_id": "asp_6ac44426e8dc4119a2aa2308f0363cc2",
-          "player_name": "米科拉·库哈列维奇",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "布拉迪斯拉发斯洛伐克",
-          "value": 1
-        },
-        {
-          "rank": 18,
-          "player_id": "asp_c122457fa8894858906ed1235ec6bd52",
-          "player_name": "奥. 卡凯",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "科希策",
-          "value": 1
-        },
-        {
-          "rank": 19,
-          "player_id": "asp_4c1154a5ff2f40fa91e392b2a7882736",
-          "player_name": "多米尼克·科斯特卡",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "鲁赞贝罗克",
-          "value": 1
-        },
-        {
-          "rank": 20,
-          "player_id": "asp_dbc5609b434b400786e5a14bd8b905d8",
-          "player_name": "雅库布·保尔",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "特伦钦",
-          "value": 1
-        },
-        {
-          "rank": 21,
-          "player_id": "asp_6f75cf0cea654751a5441c3b14803054",
-          "player_name": "蒂格兰·巴尔塞吉扬",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "布拉迪斯拉发斯洛伐克",
-          "value": 1
-        },
-        {
-          "rank": 22,
-          "player_id": "asp_4ef881f4949b412e8406020af8bec251",
-          "player_name": "Florea Andrei",
-          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
-          "team_name": "日利纳",
-          "value": 1
-        },
-        {
-          "rank": 23,
-          "player_id": "asp_bd226ac62684426d9e4a4d59bfcef5f9",
-          "player_name": "克里斯蒂安·巴耶米",
-          "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
-          "team_name": "科马尔诺",
-          "value": 1
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_b48e39d8f20f479dba7b46d7c28c963b",
-          "player_name": "阿拉萨纳·伊拉贾昂",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "布拉迪斯拉发斯洛伐克",
-          "value": 1
-        },
-        {
-          "rank": 25,
-          "player_id": "asp_a25e4fcc643042039e140d39621347ea",
-          "player_name": "M. 吉奥尔吉耶夫斯基",
-          "team_id": "ast_a92bd299af4f46ac8141be3a5e6d51c7",
-          "team_name": "班斯卡比斯特里察",
-          "value": 1
-        },
-        {
-          "rank": 26,
-          "player_id": "asp_dfd06bc593b64737935b75ecf5f020b9",
-          "player_name": "马丁·赫里恩",
-          "team_id": "ast_d60de0b22319428d94759c967158e090",
-          "team_name": "波德布雷佐瓦",
-          "value": 1
-        },
-        {
-          "rank": 27,
-          "player_id": "asp_68bab87b3aa0420fb1feb8a7f1fa9ed6",
-          "player_name": "索亚雷斯·艾内尔",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "特伦钦",
-          "value": 1
-        },
-        {
-          "rank": 28,
-          "player_id": "asp_4de6d20dde55492fb97ddb2588b47e44",
-          "player_name": "大卫·加洛维奇",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "科希策",
-          "value": 1
-        },
-        {
-          "rank": 29,
-          "player_id": "asp_28549272fa9d424885413c4c0a4f731f",
-          "player_name": "卢卡斯·米库拉伊",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "特伦钦",
-          "value": 1
-        },
-        {
-          "rank": 30,
-          "player_id": "asp_2a3548937d1b422b80f2a77474f7da9d",
-          "player_name": "米兰·雷胡斯",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
-          "team_name": "科希策",
-          "value": 1
-        },
-        {
-          "rank": 31,
-          "player_id": "asp_affcb11b352146f581035a445a2e04dc",
-          "player_name": "亚历山大·塞莱基",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "鲁赞贝罗克",
-          "value": 1
-        },
-        {
-          "rank": 32,
-          "player_id": "asp_ffdebe06b8b94ce080db1e9b495a06ac",
-          "player_name": "马丁·博达",
-          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
-          "team_name": "鲁赞贝罗克",
-          "value": 1
-        },
-        {
-          "rank": 33,
-          "player_id": "asp_caafa64902944d0599077478c8d38ed2",
-          "player_name": "Ibrahim Rahim",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "布拉迪斯拉发斯洛伐克",
-          "value": 1
-        },
-        {
-          "rank": 34,
-          "player_id": "asp_a7ad831e7a16476ea42f23c5a5dee614",
-          "player_name": "肯南·巴伊里奇",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "布拉迪斯拉发斯洛伐克",
-          "value": 1
-        },
-        {
-          "rank": 35,
-          "player_id": "asp_d2173d492ad045409a0ba6fc5328ea3a",
-          "player_name": "萨姆辛丁·乌鲁",
+          "rank": 10,
+          "player_id": "asp_eefef9faccfc422dbc62f28bf37cc6be",
+          "player_name": "Ramadan Ammar",
           "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
           "team_name": "杜纳斯特雷达",
-          "value": 1
+          "value": 2
         },
         {
-          "rank": 36,
-          "player_id": "asp_741fa3d380684a5aa3664dddbed8a99c",
-          "player_name": "马库斯·鲁塞克",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
-          "team_name": "特伦钦",
-          "value": 1
-        },
-        {
-          "rank": 37,
-          "player_id": "asp_4eb697c1378f44288831174c2f7de036",
-          "player_name": "法比安·兹迪尔",
+          "rank": 11,
+          "player_id": "asp_9f742e9b765e4247ba616e3018a97cf3",
+          "player_name": "丹尼尔·霍梅特·鲁伊斯",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
           "team_name": "日利纳",
-          "value": 1
+          "value": 2
         },
         {
-          "rank": 38,
-          "player_id": "asp_e5470e9e6c5a485abd02219a42eac17c",
-          "player_name": "马丁·贝德纳尔",
-          "team_id": "ast_d86c123d482047e4ab89e1f53dff29b1",
-          "team_name": "米哈洛夫采",
-          "value": 1
-        },
-        {
-          "rank": 39,
+          "rank": 12,
           "player_id": "asp_051a7565163747eaae90c6bd68c3c1c1",
           "player_name": "阿利乌内·西拉",
           "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
@@ -1250,7 +1034,7 @@
           "value": 1
         },
         {
-          "rank": 40,
+          "rank": 13,
           "player_id": "asp_a4812b10db4746b6aba49ec5306f9c26",
           "player_name": "塞巴斯蒂安·科萨",
           "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
@@ -1258,7 +1042,15 @@
           "value": 1
         },
         {
-          "rank": 41,
+          "rank": 14,
+          "player_id": "asp_dfd06bc593b64737935b75ecf5f020b9",
+          "player_name": "马丁·赫里恩",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "波德布雷佐瓦",
+          "value": 1
+        },
+        {
+          "rank": 15,
           "player_id": "asp_803f6a79eea84a44a57d8fd88a371034",
           "player_name": "埃里克·丹尼尔",
           "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
@@ -1266,7 +1058,71 @@
           "value": 1
         },
         {
-          "rank": 42,
+          "rank": 16,
+          "player_id": "asp_caafa64902944d0599077478c8d38ed2",
+          "player_name": "Ibrahim Rahim",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "布拉迪斯拉发斯洛伐克",
+          "value": 1
+        },
+        {
+          "rank": 17,
+          "player_id": "asp_68bab87b3aa0420fb1feb8a7f1fa9ed6",
+          "player_name": "索亚雷斯·艾内尔",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "特伦钦",
+          "value": 1
+        },
+        {
+          "rank": 18,
+          "player_id": "asp_a7ad831e7a16476ea42f23c5a5dee614",
+          "player_name": "肯南·巴伊里奇",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "布拉迪斯拉发斯洛伐克",
+          "value": 1
+        },
+        {
+          "rank": 19,
+          "player_id": "asp_6f75cf0cea654751a5441c3b14803054",
+          "player_name": "蒂格兰·巴尔塞吉扬",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "布拉迪斯拉发斯洛伐克",
+          "value": 1
+        },
+        {
+          "rank": 20,
+          "player_id": "asp_4eb697c1378f44288831174c2f7de036",
+          "player_name": "法比安·兹迪尔",
+          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
+          "team_name": "日利纳",
+          "value": 1
+        },
+        {
+          "rank": 21,
+          "player_id": "asp_2a3548937d1b422b80f2a77474f7da9d",
+          "player_name": "米兰·雷胡斯",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "科希策",
+          "value": 1
+        },
+        {
+          "rank": 22,
+          "player_id": "asp_affcb11b352146f581035a445a2e04dc",
+          "player_name": "亚历山大·塞莱基",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "鲁赞贝罗克",
+          "value": 1
+        },
+        {
+          "rank": 23,
+          "player_id": "asp_e5470e9e6c5a485abd02219a42eac17c",
+          "player_name": "马丁·贝德纳尔",
+          "team_id": "ast_d86c123d482047e4ab89e1f53dff29b1",
+          "team_name": "米哈洛夫采",
+          "value": 1
+        },
+        {
+          "rank": 24,
           "player_id": "asp_616e81dfc1f749c4ab9c07bd6aaed60f",
           "player_name": "卢卡·霍尔赫利",
           "team_id": "ast_2759c2529476440497c0cb4e1104016b",
@@ -1274,7 +1130,7 @@
           "value": 1
         },
         {
-          "rank": 43,
+          "rank": 25,
           "player_id": "asp_87091e0077164d67ba43443056036cbf",
           "player_name": "米哈尔·法斯科",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
@@ -1282,7 +1138,111 @@
           "value": 1
         },
         {
-          "rank": 44,
+          "rank": 26,
+          "player_id": "asp_1a8eab350d034795a0c04fc2507fab62",
+          "player_name": "沃伊捷赫·赫拉诺斯",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "鲁赞贝罗克",
+          "value": 1
+        },
+        {
+          "rank": 27,
+          "player_id": "asp_82b993d5b5134ae4b533b1003468e436",
+          "player_name": "扬·赫拉迪克",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "鲁赞贝罗克",
+          "value": 1
+        },
+        {
+          "rank": 28,
+          "player_id": "asp_2e33ec60c9e0423eaff6cd06afb2d188",
+          "player_name": "马纳塞·基安加",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "布拉迪斯拉发斯洛伐克",
+          "value": 1
+        },
+        {
+          "rank": 29,
+          "player_id": "asp_811f503a209f4342a0ecb6431e7d15b4",
+          "player_name": "巴尔萨·姆尔瓦耶维奇",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "波德布雷佐瓦",
+          "value": 1
+        },
+        {
+          "rank": 30,
+          "player_id": "asp_b13b88f5b1fb4f66afac2d1b68f15971",
+          "player_name": "菲利普·阿赞戈",
+          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
+          "team_name": "特尔纳瓦",
+          "value": 1
+        },
+        {
+          "rank": 31,
+          "player_id": "asp_d2173d492ad045409a0ba6fc5328ea3a",
+          "player_name": "萨姆辛丁·乌鲁",
+          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0",
+          "team_name": "杜纳斯特雷达",
+          "value": 1
+        },
+        {
+          "rank": 32,
+          "player_id": "asp_741fa3d380684a5aa3664dddbed8a99c",
+          "player_name": "马库斯·鲁塞克",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "特伦钦",
+          "value": 1
+        },
+        {
+          "rank": 33,
+          "player_id": "asp_28549272fa9d424885413c4c0a4f731f",
+          "player_name": "卢卡斯·米库拉伊",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "特伦钦",
+          "value": 1
+        },
+        {
+          "rank": 34,
+          "player_id": "asp_b48e39d8f20f479dba7b46d7c28c963b",
+          "player_name": "阿拉萨纳·伊拉贾昂",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "布拉迪斯拉发斯洛伐克",
+          "value": 1
+        },
+        {
+          "rank": 35,
+          "player_id": "asp_a25e4fcc643042039e140d39621347ea",
+          "player_name": "M. 吉奥尔吉耶夫斯基",
+          "team_id": "ast_a92bd299af4f46ac8141be3a5e6d51c7",
+          "team_name": "班斯卡比斯特里察",
+          "value": 1
+        },
+        {
+          "rank": 36,
+          "player_id": "asp_ffdebe06b8b94ce080db1e9b495a06ac",
+          "player_name": "马丁·博达",
+          "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
+          "team_name": "鲁赞贝罗克",
+          "value": 1
+        },
+        {
+          "rank": 37,
+          "player_id": "asp_dbc5609b434b400786e5a14bd8b905d8",
+          "player_name": "雅库布·保尔",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2",
+          "team_name": "特伦钦",
+          "value": 1
+        },
+        {
+          "rank": 38,
+          "player_id": "asp_fb49320bc5e1460b8a9a31bef212d240",
+          "player_name": "F. 特雷洛",
+          "team_id": "ast_2759c2529476440497c0cb4e1104016b",
+          "team_name": "特尔纳瓦",
+          "value": 1
+        },
+        {
+          "rank": 39,
           "player_id": "asp_f66ff19871c146cbb7b6002a3edadcb4",
           "player_name": "亚历山德雷·纳里曼尼泽",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
@@ -1290,7 +1250,15 @@
           "value": 1
         },
         {
-          "rank": 45,
+          "rank": 40,
+          "player_id": "asp_bd226ac62684426d9e4a4d59bfcef5f9",
+          "player_name": "克里斯蒂安·巴耶米",
+          "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
+          "team_name": "科马尔诺",
+          "value": 1
+        },
+        {
+          "rank": 41,
           "player_id": "asp_d8934c50d6f94b7381155cfdf0adf57a",
           "player_name": "季莫特·赫拉尼察",
           "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
@@ -1298,11 +1266,43 @@
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 42,
+          "player_id": "asp_4ef881f4949b412e8406020af8bec251",
+          "player_name": "Florea Andrei",
+          "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
+          "team_name": "日利纳",
+          "value": 1
+        },
+        {
+          "rank": 43,
+          "player_id": "asp_4de6d20dde55492fb97ddb2588b47e44",
+          "player_name": "大卫·加洛维奇",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "科希策",
+          "value": 1
+        },
+        {
+          "rank": 44,
+          "player_id": "asp_382a312e57f24f2781c72bf5feb68c50",
+          "player_name": "S. 法什科",
+          "team_id": "ast_d60de0b22319428d94759c967158e090",
+          "team_name": "波德布雷佐瓦",
+          "value": 1
+        },
+        {
+          "rank": 45,
           "player_id": "asp_98d40a9f30c34da8b8e56cc10b548915",
           "player_name": "彼得·圭纳里",
           "team_id": "ast_3037275dd2144918ba29c92031d2ea24",
           "team_name": "斯卡利察",
+          "value": 1
+        },
+        {
+          "rank": 46,
+          "player_id": "asp_6ac44426e8dc4119a2aa2308f0363cc2",
+          "player_name": "米科拉·库哈列维奇",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
+          "team_name": "布拉迪斯拉发斯洛伐克",
           "value": 1
         },
         {
@@ -1315,16 +1315,16 @@
         },
         {
           "rank": 48,
-          "player_id": "asp_2e33ec60c9e0423eaff6cd06afb2d188",
-          "player_name": "马纳塞·基安加",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-          "team_name": "布拉迪斯拉发斯洛伐克",
+          "player_id": "asp_c122457fa8894858906ed1235ec6bd52",
+          "player_name": "奥. 卡凯",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
+          "team_name": "科希策",
           "value": 1
         },
         {
           "rank": 49,
-          "player_id": "asp_1a8eab350d034795a0c04fc2507fab62",
-          "player_name": "沃伊捷赫·赫拉诺斯",
+          "player_id": "asp_4c1154a5ff2f40fa91e392b2a7882736",
+          "player_name": "多米尼克·科斯特卡",
           "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d",
           "team_name": "鲁赞贝罗克",
           "value": 1
@@ -3125,7 +3125,7 @@
       },
       {
         "match_id": "as_7cd58c3309724e1cb9ed6f01eeb97a73",
-        "date": "2026-12-12",
+        "date": "2026-12-13",
         "time": "14:30",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
@@ -3144,9 +3144,29 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_bf15414a1d764d1f8c940ae7dbae5eae",
+        "date": "2026-12-13",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "布拉迪斯拉发斯洛伐克",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f"
+        },
+        "away": {
+          "name": "杜纳斯特雷达",
+          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_9e53309691a640019fc39949100a846b",
         "date": "2026-12-12",
-        "time": "14:30",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -3178,26 +3198,6 @@
         "away": {
           "name": "科马尔诺",
           "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_bf15414a1d764d1f8c940ae7dbae5eae",
-        "date": "2026-12-12",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "布拉迪斯拉发斯洛伐克",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f"
-        },
-        "away": {
-          "name": "杜纳斯特雷达",
-          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
         },
         "ht_score": "-",
         "venue": "",
@@ -3245,7 +3245,7 @@
       },
       {
         "match_id": "as_3e2ca882255d473eb6490ba4c9c54d1e",
-        "date": "2026-12-05",
+        "date": "2026-12-06",
         "time": "14:30",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
@@ -3258,6 +3258,26 @@
         "away": {
           "name": "斯卡利察",
           "team_id": "ast_3037275dd2144918ba29c92031d2ea24"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_786e67ac34774464bd7a53a8fe3de8d0",
+        "date": "2026-12-06",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "科希策",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
+        },
+        "away": {
+          "name": "波德布雷佐瓦",
+          "team_id": "ast_d60de0b22319428d94759c967158e090"
         },
         "ht_score": "-",
         "venue": "",
@@ -3278,26 +3298,6 @@
         "away": {
           "name": "班斯卡比斯特里察",
           "team_id": "ast_a92bd299af4f46ac8141be3a5e6d51c7"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_786e67ac34774464bd7a53a8fe3de8d0",
-        "date": "2026-12-05",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "科希策",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
-        },
-        "away": {
-          "name": "波德布雷佐瓦",
-          "team_id": "ast_d60de0b22319428d94759c967158e090"
         },
         "ht_score": "-",
         "venue": "",
@@ -3346,7 +3346,7 @@
       {
         "match_id": "as_faefaaa867e54e8caf659b1ab5d5c327",
         "date": "2026-12-05",
-        "time": "14:30",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -3361,6 +3361,46 @@
         },
         "ht_score": "-",
         "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_fa8f510408c3454c871caadcea47c579",
+        "date": "2026-11-29",
+        "time": "14:30",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "斯卡利察",
+          "team_id": "ast_3037275dd2144918ba29c92031d2ea24"
+        },
+        "away": {
+          "name": "米哈洛夫采",
+          "team_id": "ast_d86c123d482047e4ab89e1f53dff29b1"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e53fcffaf66d48c0a073b549f9e2c81a",
+        "date": "2026-11-29",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "特尔纳瓦",
+          "team_id": "ast_2759c2529476440497c0cb4e1104016b"
+        },
+        "away": {
+          "name": "特伦钦",
+          "team_id": "ast_98e3df867814417c968fd30d3622d0b2"
+        },
+        "ht_score": "-",
+        "venue": "City Arena Trnava",
         "status_label": "未开赛"
       },
       {
@@ -3424,29 +3464,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_fa8f510408c3454c871caadcea47c579",
-        "date": "2026-11-28",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "斯卡利察",
-          "team_id": "ast_3037275dd2144918ba29c92031d2ea24"
-        },
-        "away": {
-          "name": "米哈洛夫采",
-          "team_id": "ast_d86c123d482047e4ab89e1f53dff29b1"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_39849e22c6374ae8841c2651089d1ab3",
         "date": "2026-11-28",
-        "time": "14:30",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -3464,29 +3484,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_e53fcffaf66d48c0a073b549f9e2c81a",
-        "date": "2026-11-28",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "特尔纳瓦",
-          "team_id": "ast_2759c2529476440497c0cb4e1104016b"
-        },
-        "away": {
-          "name": "特伦钦",
-          "team_id": "ast_98e3df867814417c968fd30d3622d0b2"
-        },
-        "ht_score": "-",
-        "venue": "City Arena Trnava",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_1b875ba524ea4522947e7e986eb38eea",
-        "date": "2026-11-21",
-        "time": "14:30",
+        "date": "2026-11-22",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -3505,7 +3505,7 @@
       },
       {
         "match_id": "as_6ea0413995b64c1fb332587486189510",
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "time": "14:30",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
@@ -3526,7 +3526,7 @@
       {
         "match_id": "as_a9e57315697e48e8b98840f4c03d3644",
         "date": "2026-11-21",
-        "time": "14:30",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -3847,7 +3847,7 @@
         "match_id": "as_354a1346a8c944a2934a950a626ad7ff",
         "date": "2026-10-28",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
         "season": "2026/2027",
@@ -3859,15 +3859,13 @@
           "name": "杜纳斯特雷达",
           "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9eb6628e072f4b5cacc6eb2c23321fec",
         "date": "2026-10-28",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
         "season": "2026/2027",
@@ -3879,9 +3877,7 @@
           "name": "布拉迪斯拉发斯洛伐克",
           "team_id": "ast_98b025e4bd0d4256ab97674809b2173f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b391bf5939e74fff97eff5b623f92768",
@@ -5356,9 +5352,49 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_786e67ac34774464bd7a53a8fe3de8d0",
+        "date": "2026-12-06",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "科希策",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
+        },
+        "away": {
+          "name": "波德布雷佐瓦",
+          "team_id": "ast_d60de0b22319428d94759c967158e090"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3e2ca882255d473eb6490ba4c9c54d1e",
+        "date": "2026-12-06",
+        "time": "14:30",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "杜纳斯特雷达",
+          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
+        },
+        "away": {
+          "name": "斯卡利察",
+          "team_id": "ast_3037275dd2144918ba29c92031d2ea24"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_faefaaa867e54e8caf659b1ab5d5c327",
         "date": "2026-12-05",
-        "time": "14:30",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -5416,26 +5452,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_786e67ac34774464bd7a53a8fe3de8d0",
-        "date": "2026-12-05",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "科希策",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
-        },
-        "away": {
-          "name": "波德布雷佐瓦",
-          "team_id": "ast_d60de0b22319428d94759c967158e090"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_317df4c06c4a496dbbf99eae206bb016",
         "date": "2026-12-05",
         "time": "14:30",
@@ -5456,29 +5472,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_3e2ca882255d473eb6490ba4c9c54d1e",
-        "date": "2026-12-05",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "杜纳斯特雷达",
-          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
-        },
-        "away": {
-          "name": "斯卡利察",
-          "team_id": "ast_3037275dd2144918ba29c92031d2ea24"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_e53fcffaf66d48c0a073b549f9e2c81a",
-        "date": "2026-11-28",
-        "time": "14:30",
+        "date": "2026-11-29",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -5496,28 +5492,8 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_39849e22c6374ae8841c2651089d1ab3",
-        "date": "2026-11-28",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "布拉迪斯拉发斯洛伐克",
-          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f"
-        },
-        "away": {
-          "name": "科希策",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_fa8f510408c3454c871caadcea47c579",
-        "date": "2026-11-28",
+        "date": "2026-11-29",
         "time": "14:30",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
@@ -5530,6 +5506,26 @@
         "away": {
           "name": "米哈洛夫采",
           "team_id": "ast_d86c123d482047e4ab89e1f53dff29b1"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_39849e22c6374ae8841c2651089d1ab3",
+        "date": "2026-11-28",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "布拉迪斯拉发斯洛伐克",
+          "team_id": "ast_98b025e4bd0d4256ab97674809b2173f"
+        },
+        "away": {
+          "name": "科希策",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
         },
         "ht_score": "-",
         "venue": "",
@@ -5590,6 +5586,46 @@
         "away": {
           "name": "鲁赞贝罗克",
           "team_id": "ast_15b1275f7d3f4aab9ff796faeea46e2d"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_6ea0413995b64c1fb332587486189510",
+        "date": "2026-11-22",
+        "time": "14:30",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "科希策",
+          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
+        },
+        "away": {
+          "name": "斯卡利察",
+          "team_id": "ast_3037275dd2144918ba29c92031d2ea24"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1b875ba524ea4522947e7e986eb38eea",
+        "date": "2026-11-22",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "斯洛伐克超级联赛",
+        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
+        "season": "2026/2027",
+        "home": {
+          "name": "杜纳斯特雷达",
+          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
+        },
+        "away": {
+          "name": "科马尔诺",
+          "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd"
         },
         "ht_score": "-",
         "venue": "",
@@ -5658,7 +5694,7 @@
       {
         "match_id": "as_a9e57315697e48e8b98840f4c03d3644",
         "date": "2026-11-21",
-        "time": "14:30",
+        "time": "17:00",
         "status": "Not Started",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
@@ -5670,46 +5706,6 @@
         "away": {
           "name": "特尔纳瓦",
           "team_id": "ast_2759c2529476440497c0cb4e1104016b"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6ea0413995b64c1fb332587486189510",
-        "date": "2026-11-21",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "科希策",
-          "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802"
-        },
-        "away": {
-          "name": "斯卡利察",
-          "team_id": "ast_3037275dd2144918ba29c92031d2ea24"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_1b875ba524ea4522947e7e986eb38eea",
-        "date": "2026-11-21",
-        "time": "14:30",
-        "status": "Not Started",
-        "league": "斯洛伐克超级联赛",
-        "league_id": "asl_60026634f6de4b32a51039428f52b37f",
-        "season": "2026/2027",
-        "home": {
-          "name": "杜纳斯特雷达",
-          "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
-        },
-        "away": {
-          "name": "科马尔诺",
-          "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd"
         },
         "ht_score": "-",
         "venue": "",
@@ -5959,7 +5955,7 @@
         "match_id": "as_9eb6628e072f4b5cacc6eb2c23321fec",
         "date": "2026-10-28",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
         "season": "2026/2027",
@@ -5971,15 +5967,13 @@
           "name": "布拉迪斯拉发斯洛伐克",
           "team_id": "ast_98b025e4bd0d4256ab97674809b2173f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_354a1346a8c944a2934a950a626ad7ff",
         "date": "2026-10-28",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "斯洛伐克超级联赛",
         "league_id": "asl_60026634f6de4b32a51039428f52b37f",
         "season": "2026/2027",
@@ -5991,9 +5985,7 @@
           "name": "杜纳斯特雷达",
           "team_id": "ast_f46691a1160a4d5c995d912e79a843a0"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -10603,17 +10595,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-            "team": "Slovan Bratislava",
-            "played": 11,
+            "team_id": "ast_87e23be8ef7441909863bec45722ed1e",
+            "team": "Zilina",
+            "played": 12,
             "wins": 6,
-            "draws": 3,
+            "draws": 4,
             "losses": 2,
-            "goals_for": 26,
-            "goals_against": 12,
-            "goal_difference": 14,
-            "points": 21,
-            "form": "DWDWD"
+            "goals_for": 29,
+            "goals_against": 24,
+            "goal_difference": 5,
+            "points": 22,
+            "form": "DLDWD"
           }
         ],
         "meta": {
@@ -10811,6 +10803,14 @@
         "data": [
           {
             "rank": 1,
+            "player_id": "asp_a3ee71d76ac8458c82687ec64ffff2bb",
+            "player_name": "P. Kováčik",
+            "team_id": "ast_d60de0b22319428d94759c967158e090",
+            "team_name": "Podbrezova",
+            "value": 2
+          },
+          {
+            "rank": 2,
             "player_id": "asp_6cd9ea1fe3534842bfee0868ab661fc5",
             "player_name": "R. Čerepkai",
             "team_id": "ast_f5adec6e9f00439c91db4d4e4fd8c802",
@@ -10818,19 +10818,11 @@
             "value": 2
           },
           {
-            "rank": 2,
-            "player_id": "asp_a773c535a3cf45d0a9b00b8df9f4d7ff",
-            "player_name": "T. Kudlicka",
-            "team_id": "ast_2759c2529476440497c0cb4e1104016b",
-            "team_name": "Spartak Trnava",
-            "value": 2
-          },
-          {
             "rank": 3,
-            "player_id": "asp_7edd0792dda44f779804082a60efc4a0",
-            "player_name": "A. Mustafić",
-            "team_id": "ast_98b025e4bd0d4256ab97674809b2173f",
-            "team_name": "Slovan Bratislava",
+            "player_id": "asp_33fc8f4aa3ba4b3781f35a9fb066552e",
+            "player_name": "J. Bernát",
+            "team_id": "ast_cc809d3147104ed18ad67de4c4e204bd",
+            "team_name": "Komarno",
             "value": 2
           }
         ],
@@ -11258,5 +11250,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 32
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }

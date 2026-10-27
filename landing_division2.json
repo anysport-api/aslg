@@ -4695,7 +4695,7 @@
         "match_id": "as_0372dee79ce64485ab4247c79acd6f3f",
         "date": "2026-10-26",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -4707,7 +4707,10 @@
           "name": "LKS 罗兹",
           "team_id": "ast_75d40ce70cd048f9929711ef9c2de0c3"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0019e57d0e934f699c36d401c6c6e5dd",
@@ -4790,7 +4793,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Stadion Miejski w Gdyni",
         "status_label": "完场"
       },
       {
@@ -4832,7 +4835,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "城市体育场",
         "status_label": "完场"
       },
       {
@@ -4853,7 +4856,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Stadion Miejski przy Solskiego 1 w Mielcu",
         "status_label": "完场"
       },
       {
@@ -7857,24 +7860,6 @@
         "ht_score": "-",
         "venue": "城市体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_0372dee79ce64485ab4247c79acd6f3f",
-        "date": "2026-10-26",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
-        "season": "2026/2027",
-        "home": {
-          "name": "瓦尔塔波兹南",
-          "team_id": "ast_2a4432d2936541feabc4aa2f7be1907a"
-        },
-        "away": {
-          "name": "LKS 罗兹",
-          "team_id": "ast_75d40ce70cd048f9929711ef9c2de0c3"
-        },
-        "venue": ""
       }
     ]
   },
@@ -14566,13 +14551,13 @@
     }
   },
   "stats": {
-    "matches_completed": 107,
-    "total_goals": 290,
-    "avg_goals_per_match": 2.71,
+    "matches_completed": 108,
+    "total_goals": 291,
+    "avg_goals_per_match": 2.69,
     "home_wins": 48,
     "draws": 26,
-    "away_wins": 33,
-    "home_win_pct": 44.9,
+    "away_wins": 34,
+    "home_win_pct": 44.4,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -15370,7 +15355,7 @@
     "teams_all_time": 78,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 46
+    "upcoming_matches": 45
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/27"
 }
