@@ -140,15 +140,15 @@
         "position": 1,
         "team_id": "ast_49ac68127aab4d088d2297c94af5ead8",
         "team": "Gualaceo",
-        "played": 31,
+        "played": 32,
         "wins": 12,
-        "draws": 12,
+        "draws": 13,
         "losses": 7,
-        "goals_for": 33,
-        "goals_against": 20,
+        "goals_for": 34,
+        "goals_against": 21,
         "goal_difference": 13,
-        "points": 42,
-        "form": "DDDWW"
+        "points": 43,
+        "form": "DDDDW"
       },
       {
         "position": 2,
@@ -252,15 +252,15 @@
         "position": 5,
         "team_id": "ast_3e2a061b58544222bc67c8018f5ff89e",
         "team": "EL Nacional",
-        "played": 31,
+        "played": 32,
         "wins": 4,
-        "draws": 6,
+        "draws": 7,
         "losses": 21,
-        "goals_for": 27,
-        "goals_against": 50,
+        "goals_for": 28,
+        "goals_against": 51,
         "goal_difference": -23,
-        "points": 15,
-        "form": "LLWLL"
+        "points": 16,
+        "form": "DLLWL"
       },
       {
         "position": 6,
@@ -311,16 +311,16 @@
         "position": 1,
         "team_id": "ast_49ac68127aab4d088d2297c94af5ead8",
         "team": "瓜拉塞奥",
-        "played": 31,
+        "played": 32,
         "wins": 12,
-        "draws": 12,
+        "draws": 13,
         "losses": 7,
-        "goals_for": 33,
-        "goals_against": 20,
+        "goals_for": 34,
+        "goals_against": 21,
         "goal_difference": 13,
-        "points": 42,
-        "form": "DDDWW",
-        "form_label": "平平平胜胜"
+        "points": 43,
+        "form": "DDDDW",
+        "form_label": "平平平平胜"
       },
       {
         "position": 2,
@@ -431,16 +431,16 @@
         "position": 5,
         "team_id": "ast_3e2a061b58544222bc67c8018f5ff89e",
         "team": "埃尔纳西奥纳尔",
-        "played": 31,
+        "played": 32,
         "wins": 4,
-        "draws": 6,
+        "draws": 7,
         "losses": 21,
-        "goals_for": 27,
-        "goals_against": 50,
+        "goals_for": 28,
+        "goals_against": 51,
         "goal_difference": -23,
-        "points": 15,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "points": 16,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       },
       {
         "position": 6,
@@ -584,8 +584,8 @@
       {
         "match_id": "as_549e302836d94b7d8289d4f7c2e48389",
         "date": "2026-10-27",
-        "time": "19:00",
-        "status": "19:00",
+        "time": "20:00",
+        "status": "FT",
         "league": "厄瓜多尔B级联赛",
         "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
         "season": "2026",
@@ -597,7 +597,10 @@
           "name": "瓜拉塞奥",
           "team_id": "ast_49ac68127aab4d088d2297c94af5ead8"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_28c9a0b1cd8846619cb612690f72a3cd",
@@ -4596,24 +4599,6 @@
           "team_id": "ast_3fd910f2a5ba48128a2be1a42a4463a9"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_549e302836d94b7d8289d4f7c2e48389",
-        "date": "2026-10-27",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "厄瓜多尔B级联赛",
-        "league_id": "asl_a9846457cb3b4faf8e5313b79c9a85bb",
-        "season": "2026",
-        "home": {
-          "name": "埃尔纳西奥纳尔",
-          "team_id": "ast_3e2a061b58544222bc67c8018f5ff89e"
-        },
-        "away": {
-          "name": "瓜拉塞奥",
-          "team_id": "ast_49ac68127aab4d088d2297c94af5ead8"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6115,13 +6100,13 @@
     }
   },
   "stats": {
-    "matches_completed": 186,
-    "total_goals": 387,
+    "matches_completed": 187,
+    "total_goals": 389,
     "avg_goals_per_match": 2.08,
     "home_wins": 80,
-    "draws": 65,
+    "draws": 66,
     "away_wins": 41,
-    "home_win_pct": 43.0,
+    "home_win_pct": 42.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6260,15 +6245,15 @@
             "position": 1,
             "team_id": "ast_49ac68127aab4d088d2297c94af5ead8",
             "team": "Gualaceo",
-            "played": 31,
+            "played": 32,
             "wins": 12,
-            "draws": 12,
+            "draws": 13,
             "losses": 7,
-            "goals_for": 33,
-            "goals_against": 20,
+            "goals_for": 34,
+            "goals_against": 21,
             "goal_difference": 13,
-            "points": 42,
-            "form": "DDDWW"
+            "points": 43,
+            "form": "DDDDW"
           },
           {
             "position": 2,
@@ -6881,7 +6866,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 12,
     "matches_current_season": 192,
-    "upcoming_matches": 6
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/10/27"
+  "updated_at": "2026/10/28"
 }

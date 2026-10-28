@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
@@ -467,7 +467,7 @@
         "match_id": "as_5293e65895964a0d8ff2ab3a0af74ac8",
         "date": "2026-10-27",
         "time": "19:45",
-        "status": "19:45",
+        "status": "FT",
         "league": "爱尔兰甲级联赛",
         "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
         "season": "2026",
@@ -479,13 +479,16 @@
           "name": "凯里",
           "team_id": "ast_7f54d7650e0d4787bcdb364f29df3be5"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b977fc6d94bb42dfa81fcf02ee97c7f2",
         "date": "2026-10-27",
         "time": "19:45",
-        "status": "19:45",
+        "status": "FT",
         "league": "爱尔兰甲级联赛",
         "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
         "season": "2026",
@@ -497,7 +500,10 @@
           "name": "朗福德镇",
           "team_id": "ast_774f43fd65ea4c0bbb61a85913bd1dd8"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d9776b13684a433aa5b0a82d98e86c16",
@@ -4322,44 +4328,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_b977fc6d94bb42dfa81fcf02ee97c7f2",
-        "date": "2026-10-27",
-        "time": "19:45",
-        "status": "19:45",
-        "league": "爱尔兰甲级联赛",
-        "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
-        "season": "2026",
-        "home": {
-          "name": "UCD",
-          "team_id": "ast_3adf8fe8fff7428e8281943bbc1df3d8"
-        },
-        "away": {
-          "name": "朗福德镇",
-          "team_id": "ast_774f43fd65ea4c0bbb61a85913bd1dd8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5293e65895964a0d8ff2ab3a0af74ac8",
-        "date": "2026-10-27",
-        "time": "19:45",
-        "status": "19:45",
-        "league": "爱尔兰甲级联赛",
-        "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
-        "season": "2026",
-        "home": {
-          "name": "布雷伊流浪者",
-          "team_id": "ast_2be901a957c24a0c8da6b7b6540ed0e8"
-        },
-        "away": {
-          "name": "凯里",
-          "team_id": "ast_7f54d7650e0d4787bcdb364f29df3be5"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -5729,13 +5698,13 @@
     }
   },
   "stats": {
-    "matches_completed": 182,
-    "total_goals": 509,
-    "avg_goals_per_match": 2.8,
-    "home_wins": 89,
+    "matches_completed": 184,
+    "total_goals": 514,
+    "avg_goals_per_match": 2.79,
+    "home_wins": 91,
     "draws": 42,
     "away_wins": 51,
-    "home_win_pct": 48.9,
+    "home_win_pct": 49.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6530,7 +6499,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 10,
     "matches_current_season": 184,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/10/27"
+  "updated_at": "2026/10/28"
 }

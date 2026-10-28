@@ -42,18 +42,32 @@
         "position": 1,
         "team_id": "ast_0cb04a6aa05c456aae456675f2d1d98e",
         "team": "Aral",
-        "played": 23,
+        "played": 24,
         "wins": 18,
         "draws": 4,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 49,
-        "goals_against": 14,
-        "goal_difference": 35,
+        "goals_against": 15,
+        "goal_difference": 34,
         "points": 58,
-        "form": "WWWWW"
+        "form": "LWWWW"
       },
       {
         "position": 2,
+        "team_id": "ast_64ae3bd5e5244710b379983ae00f6379",
+        "team": "Shortan Guzor",
+        "played": 24,
+        "wins": 15,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 41,
+        "goals_against": 23,
+        "goal_difference": 18,
+        "points": 49,
+        "form": "WLDWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_46df40ef2d1a438caca8f31a3adce015",
         "team": "Metallurg Bekabad",
         "played": 24,
@@ -67,7 +81,7 @@
         "form": "DWDWW"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_3d7aa01f06a64905bf50dc058b5a4501",
         "team": "FarDU",
         "played": 25,
@@ -79,20 +93,6 @@
         "goal_difference": 10,
         "points": 46,
         "form": "WWLL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_64ae3bd5e5244710b379983ae00f6379",
-        "team": "Shortan Guzor",
-        "played": 23,
-        "wins": 14,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 40,
-        "goals_against": 23,
-        "goal_difference": 17,
-        "points": 46,
-        "form": "LDWWW"
       },
       {
         "position": 5,
@@ -240,19 +240,34 @@
         "position": 1,
         "team_id": "ast_0cb04a6aa05c456aae456675f2d1d98e",
         "team": "阿拉尔",
-        "played": 23,
+        "played": 24,
         "wins": 18,
         "draws": 4,
-        "losses": 1,
+        "losses": 2,
         "goals_for": 49,
-        "goals_against": 14,
-        "goal_difference": 35,
+        "goals_against": 15,
+        "goal_difference": 34,
         "points": 58,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
+        "form": "LWWWW",
+        "form_label": "负胜胜胜胜"
       },
       {
         "position": 2,
+        "team_id": "ast_64ae3bd5e5244710b379983ae00f6379",
+        "team": "肖尔坦古佐尔",
+        "played": 24,
+        "wins": 15,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 41,
+        "goals_against": 23,
+        "goal_difference": 18,
+        "points": 49,
+        "form": "WLDWW",
+        "form_label": "胜负平胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_46df40ef2d1a438caca8f31a3adce015",
         "team": "梅塔卢尔贝卡巴德",
         "played": 24,
@@ -267,7 +282,7 @@
         "form_label": "平胜平胜胜"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_3d7aa01f06a64905bf50dc058b5a4501",
         "team": "法尔杜",
         "played": 25,
@@ -280,21 +295,6 @@
         "points": 46,
         "form": "WWLL",
         "form_label": "胜胜负负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_64ae3bd5e5244710b379983ae00f6379",
-        "team": "肖尔坦古佐尔",
-        "played": 23,
-        "wins": 14,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 40,
-        "goals_against": 23,
-        "goal_difference": 17,
-        "points": 46,
-        "form": "LDWWW",
-        "form_label": "负平胜胜胜"
       },
       {
         "position": 5,
@@ -609,7 +609,7 @@
         "match_id": "as_49dc6d40adfc416985fe27ffb85f442d",
         "date": "2026-11-02",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -621,13 +621,15 @@
           "name": "贾伊逊",
           "team_id": "ast_219d25d9b43741fc91d83aba98830594"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e1d2f9b06d0f4ea7b92b0f97992c416c",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -639,13 +641,15 @@
           "name": "加扎尔肯特",
           "team_id": "ast_fbfcbeb9292f4fa4a244641d127516f7"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3154cc59ad1a4f50a9e01f92bc2de238",
         "date": "2026-11-01",
         "time": "09:00",
-        "status": "09:00",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -657,13 +661,15 @@
           "name": "雅伊潘",
           "team_id": "ast_2c517dfb0a664f87aee0a84ef124f921"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b7b0481103214b8a902796ae46e2e275",
         "date": "2026-11-01",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -675,13 +681,15 @@
           "name": "梅塔卢尔贝卡巴德",
           "team_id": "ast_46df40ef2d1a438caca8f31a3adce015"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6360c7ba4b13482da7ce65b568cbc8a5",
         "date": "2026-11-01",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -693,7 +701,9 @@
           "name": "肖尔坦古佐尔",
           "team_id": "ast_64ae3bd5e5244710b379983ae00f6379"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c9166e66fa744b39b2def8765290aaa1",
@@ -717,7 +727,7 @@
         "match_id": "as_7592cbbe132e4ebd93a7a398155f47c9",
         "date": "2026-10-27",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -729,7 +739,10 @@
           "name": "阿拉尔",
           "team_id": "ast_0cb04a6aa05c456aae456675f2d1d98e"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_68ac928c23fd47c7bf0f2a4c4d22f4ac",
@@ -789,7 +802,7 @@
           "name": "共和国足球协会",
           "team_id": "ast_25235e5f3bfb4a18b2cd23f9d4adc550"
         },
-        "ht_score": "-",
+        "ht_score": "0-2",
         "reg_score": "2-2",
         "venue": "",
         "status_label": "完场"
@@ -4360,10 +4373,30 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_d509b4871b3a419fa2bd926b42b42d4e",
+        "date": "2026-11-03",
+        "time": "14:00",
+        "status": "Awarded",
+        "league": "乌兹别克斯坦职业联赛",
+        "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
+        "home": {
+          "name": "卡塔库尔贡",
+          "team_id": "ast_e40717de01014c059413c1450aa1fc56"
+        },
+        "away": {
+          "name": "特尔杜",
+          "team_id": "ast_12351e6fc36e413e95ac33b373e33b0d"
+        },
+        "ht_score": "-",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "判定胜负"
+      },
+      {
         "match_id": "as_49dc6d40adfc416985fe27ffb85f442d",
         "date": "2026-11-02",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4375,13 +4408,15 @@
           "name": "贾伊逊",
           "team_id": "ast_219d25d9b43741fc91d83aba98830594"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6360c7ba4b13482da7ce65b568cbc8a5",
         "date": "2026-11-01",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4393,13 +4428,15 @@
           "name": "肖尔坦古佐尔",
           "team_id": "ast_64ae3bd5e5244710b379983ae00f6379"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_b7b0481103214b8a902796ae46e2e275",
         "date": "2026-11-01",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4411,13 +4448,15 @@
           "name": "梅塔卢尔贝卡巴德",
           "team_id": "ast_46df40ef2d1a438caca8f31a3adce015"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3154cc59ad1a4f50a9e01f92bc2de238",
         "date": "2026-11-01",
         "time": "09:00",
-        "status": "09:00",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4429,13 +4468,15 @@
           "name": "雅伊潘",
           "team_id": "ast_2c517dfb0a664f87aee0a84ef124f921"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_e1d2f9b06d0f4ea7b92b0f97992c416c",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4447,7 +4488,9 @@
           "name": "加扎尔肯特",
           "team_id": "ast_fbfcbeb9292f4fa4a244641d127516f7"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_c9166e66fa744b39b2def8765290aaa1",
@@ -4464,24 +4507,6 @@
         "away": {
           "name": "奥林匹克-莫比乌斯",
           "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7592cbbe132e4ebd93a7a398155f47c9",
-        "date": "2026-10-27",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "乌兹别克斯坦职业联赛",
-        "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
-        "season": "2026",
-        "home": {
-          "name": "肖尔坦古佐尔",
-          "team_id": "ast_64ae3bd5e5244710b379983ae00f6379"
-        },
-        "away": {
-          "name": "阿拉尔",
-          "team_id": "ast_0cb04a6aa05c456aae456675f2d1d98e"
         },
         "venue": ""
       }
@@ -4870,13 +4895,13 @@
     }
   },
   "stats": {
-    "matches_completed": 166,
-    "total_goals": 488,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 69,
+    "matches_completed": 167,
+    "total_goals": 489,
+    "avg_goals_per_match": 2.93,
+    "home_wins": 70,
     "draws": 30,
     "away_wins": 67,
-    "home_win_pct": 41.6,
+    "home_win_pct": 41.9,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -4904,7 +4929,7 @@
     "leader": {
       "team": "Aral",
       "points": 58,
-      "played": 23
+      "played": 24
     }
   },
   "coverage": {
@@ -5001,18 +5026,32 @@
             "position": 1,
             "team_id": "ast_0cb04a6aa05c456aae456675f2d1d98e",
             "team": "Aral",
-            "played": 23,
+            "played": 24,
             "wins": 18,
             "draws": 4,
-            "losses": 1,
+            "losses": 2,
             "goals_for": 49,
-            "goals_against": 14,
-            "goal_difference": 35,
+            "goals_against": 15,
+            "goal_difference": 34,
             "points": 58,
-            "form": "WWWWW"
+            "form": "LWWWW"
           },
           {
             "position": 2,
+            "team_id": "ast_64ae3bd5e5244710b379983ae00f6379",
+            "team": "Shortan Guzor",
+            "played": 24,
+            "wins": 15,
+            "draws": 4,
+            "losses": 5,
+            "goals_for": 41,
+            "goals_against": 23,
+            "goal_difference": 18,
+            "points": 49,
+            "form": "WLDWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_46df40ef2d1a438caca8f31a3adce015",
             "team": "Metallurg Bekabad",
             "played": 24,
@@ -5024,20 +5063,6 @@
             "goal_difference": 34,
             "points": 48,
             "form": "DWDWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_3d7aa01f06a64905bf50dc058b5a4501",
-            "team": "FarDU",
-            "played": 25,
-            "wins": 13,
-            "draws": 7,
-            "losses": 5,
-            "goals_for": 44,
-            "goals_against": 34,
-            "goal_difference": 10,
-            "points": 46,
-            "form": "WWLL"
           }
         ],
         "meta": {
@@ -5675,5 +5700,5 @@
     "matches_current_season": 180,
     "upcoming_matches": 14
   },
-  "updated_at": "2026/10/27"
+  "updated_at": "2026/10/28"
 }

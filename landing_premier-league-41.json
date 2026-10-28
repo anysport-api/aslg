@@ -2771,7 +2771,7 @@
         "match_id": "as_c3d53bc587df447688e241735361181c",
         "date": "2026-10-28",
         "time": "08:00",
-        "status": "08:00",
+        "status": "50",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2783,13 +2783,15 @@
           "name": "乌兰戈姆城",
           "team_id": "ast_de0b58c874114e68b7b7a9267cceefc4"
         },
+        "ht_score": "4-1",
+        "reg_score": "5-1",
         "venue": ""
       },
       {
         "match_id": "as_3595161a780b4cbf9d4eb6a6ad4c9ad9",
         "date": "2026-10-28",
         "time": "05:00",
-        "status": "05:00",
+        "status": "FT",
         "league": "蒙古超级联赛",
         "league_id": "asl_e031caef2e6f44e38a451ea6c39924d5",
         "season": "2026",
@@ -2801,7 +2803,10 @@
           "name": "霍夫德",
           "team_id": "ast_6d86ff16ee5a4d7f89dfed6f1873918b"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "5-3",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -4796,5 +4801,5 @@
     "matches_current_season": 99,
     "upcoming_matches": 18
   },
-  "updated_at": "2026/10/27"
+  "updated_at": "2026/10/28"
 }
