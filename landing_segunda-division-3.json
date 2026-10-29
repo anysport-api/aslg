@@ -701,6 +701,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_ce35b59184744afa9bc9f1b98adb9171",
+        "date": "2026-11-08",
+        "time": "22:00",
+        "status": "Not Started",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "away": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Metropolitano de Cabudare",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_39ff35ff254247ed9987ee2143c4a179",
         "date": "2026-11-07",
         "time": "22:00",
@@ -781,10 +801,30 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_18278ed6400440ff974f617233cf954b",
+        "date": "2026-11-01",
+        "time": "19:30",
+        "status": "Not Started",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
+        },
+        "away": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_f5eb7ec1524f419088d3f0b633faaaf1",
         "date": "2026-10-28",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
         "season": "2026",
@@ -796,7 +836,10 @@
           "name": "博利瓦尔",
           "team_id": "ast_0ae3179abae54dd0a6db96b4bcd6ddd3"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_dc3f8967112d4ea9a3a03ca4d225f93d",
@@ -6177,6 +6220,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_ce35b59184744afa9bc9f1b98adb9171",
+        "date": "2026-11-08",
+        "time": "22:00",
+        "status": "Not Started",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "away": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Metropolitano de Cabudare",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_937e79396726462f9952c221c127b3ee",
         "date": "2026-11-08",
         "time": "19:30",
@@ -6231,6 +6294,26 @@
         "away": {
           "name": "米兰达",
           "team_id": "ast_974198b068024a90b1c9b0a812cbe7ae"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_18278ed6400440ff974f617233cf954b",
+        "date": "2026-11-01",
+        "time": "19:30",
+        "status": "Not Started",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
+        },
+        "away": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
         },
         "ht_score": "-",
         "venue": "",
@@ -6295,24 +6378,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f5eb7ec1524f419088d3f0b633faaaf1",
-        "date": "2026-10-28",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "委内瑞拉乙级联赛",
-        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
-        "season": "2026",
-        "home": {
-          "name": "萨莫拉二队",
-          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
-        },
-        "away": {
-          "name": "博利瓦尔",
-          "team_id": "ast_0ae3179abae54dd0a6db96b4bcd6ddd3"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9766,13 +9831,13 @@
     }
   },
   "stats": {
-    "matches_completed": 256,
-    "total_goals": 689,
+    "matches_completed": 257,
+    "total_goals": 692,
     "avg_goals_per_match": 2.69,
-    "home_wins": 116,
+    "home_wins": 117,
     "draws": 63,
     "away_wins": 77,
-    "home_win_pct": 45.3,
+    "home_win_pct": 45.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10369,8 +10434,8 @@
     "distinct_title_holders": 9,
     "teams_all_time": 59,
     "standings_rows_current": 17,
-    "matches_current_season": 263,
-    "upcoming_matches": 7
+    "matches_current_season": 265,
+    "upcoming_matches": 8
   },
-  "updated_at": "2026/10/28"
+  "updated_at": "2026/10/29"
 }

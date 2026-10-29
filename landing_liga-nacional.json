@@ -5444,7 +5444,7 @@
         "match_id": "as_93a1c8e5b2224d78a4ca9442fd755659",
         "date": "2026-10-30",
         "time": "02:10",
-        "status": "Not Started",
+        "status": "02:10",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5456,9 +5456,7 @@
           "name": "Guastatoya",
           "team_id": "ast_878ec8149c33424f99962e2dae50161f"
         },
-        "ht_score": "-",
-        "venue": "Estadio Marquesa de la Ensenada",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_abdbbb36def44d2fb58c29455f13ab8d",
@@ -5482,7 +5480,7 @@
         "match_id": "as_5533169dfd794944aac71d3fcf9fc70d",
         "date": "2026-10-29",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5494,13 +5492,16 @@
           "name": "通讯队",
           "team_id": "ast_637f86a734284586a27a23fd1c80bae2"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_39694b99eb9c4931ac6b25b87efefe09",
         "date": "2026-10-29",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5512,7 +5513,10 @@
           "name": "极光",
           "team_id": "ast_2449f5998be445c5b4bf87b6c26de68d"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_88b8e81070514f25aa2c17916c8f15f2",
@@ -5529,24 +5533,6 @@
         "away": {
           "name": "谢拉胡",
           "team_id": "ast_9269b0cc06e44d8bb990e53b32f711f5"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ecb37abf08df4d6086a3769c2c1aa8ec",
-        "date": "2026-10-28",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "危地马拉甲级联赛",
-        "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
-        "season": "2026/2027",
-        "home": {
-          "name": "Coban Imperial",
-          "team_id": "ast_1776301b6a084f8da95c163ae93c4b11"
-        },
-        "away": {
-          "name": "苏基特佩克斯",
-          "team_id": "ast_2aa8a73f17514d05884d9ca74c452590"
         },
         "venue": ""
       }
@@ -7751,7 +7737,7 @@
     "teams_all_time": 21,
     "standings_rows_current": 12,
     "matches_current_season": 206,
-    "upcoming_matches": 36
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/10/28"
+  "updated_at": "2026/10/29"
 }

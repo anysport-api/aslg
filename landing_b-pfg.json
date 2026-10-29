@@ -228,15 +228,15 @@
         "position": 4,
         "team_id": "ast_b767d7be460d4d3f9453282d506098be",
         "team": "Fratria",
-        "played": 12,
+        "played": 13,
         "wins": 6,
         "draws": 4,
-        "losses": 2,
-        "goals_for": 17,
-        "goals_against": 10,
-        "goal_difference": 7,
+        "losses": 3,
+        "goals_for": 18,
+        "goals_against": 12,
+        "goal_difference": 6,
         "points": 22,
-        "form": "LWWDD"
+        "form": "LLWWD"
       },
       {
         "position": 5,
@@ -380,6 +380,20 @@
       },
       {
         "position": 15,
+        "team_id": "ast_f4ff13021f9e4fca8a5abeeda107a5d1",
+        "team": "Montana",
+        "played": 13,
+        "wins": 4,
+        "draws": 2,
+        "losses": 7,
+        "goals_for": 17,
+        "goals_against": 27,
+        "goal_difference": -10,
+        "points": 14,
+        "form": "WLLLL"
+      },
+      {
+        "position": 16,
         "team_id": "ast_a124b37319cd487584035596d716a468",
         "team": "Svoge",
         "played": 13,
@@ -391,20 +405,6 @@
         "goal_difference": -5,
         "points": 11,
         "form": "DLLWL"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_f4ff13021f9e4fca8a5abeeda107a5d1",
-        "team": "Montana",
-        "played": 12,
-        "wins": 3,
-        "draws": 2,
-        "losses": 7,
-        "goals_for": 15,
-        "goals_against": 26,
-        "goal_difference": -11,
-        "points": 11,
-        "form": "LLLLL"
       },
       {
         "position": 17,
@@ -485,16 +485,16 @@
         "position": 4,
         "team_id": "ast_b767d7be460d4d3f9453282d506098be",
         "team": "弗拉特里亚",
-        "played": 12,
+        "played": 13,
         "wins": 6,
         "draws": 4,
-        "losses": 2,
-        "goals_for": 17,
-        "goals_against": 10,
-        "goal_difference": 7,
+        "losses": 3,
+        "goals_for": 18,
+        "goals_against": 12,
+        "goal_difference": 6,
         "points": 22,
-        "form": "LWWDD",
-        "form_label": "负胜胜平平"
+        "form": "LLWWD",
+        "form_label": "负负胜胜平"
       },
       {
         "position": 5,
@@ -648,6 +648,21 @@
       },
       {
         "position": 15,
+        "team_id": "ast_f4ff13021f9e4fca8a5abeeda107a5d1",
+        "team": "蒙塔纳",
+        "played": 13,
+        "wins": 4,
+        "draws": 2,
+        "losses": 7,
+        "goals_for": 17,
+        "goals_against": 27,
+        "goal_difference": -10,
+        "points": 14,
+        "form": "WLLLL",
+        "form_label": "胜负负负负"
+      },
+      {
+        "position": 16,
         "team_id": "ast_a124b37319cd487584035596d716a468",
         "team": "斯沃热",
         "played": 13,
@@ -660,21 +675,6 @@
         "points": 11,
         "form": "DLLWL",
         "form_label": "平负负胜负"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_f4ff13021f9e4fca8a5abeeda107a5d1",
-        "team": "蒙塔纳",
-        "played": 12,
-        "wins": 3,
-        "draws": 2,
-        "losses": 7,
-        "goals_for": 15,
-        "goals_against": 26,
-        "goal_difference": -11,
-        "points": 11,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
       },
       {
         "position": 17,
@@ -4406,26 +4406,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_70fb7cd9aa8442b0b5dbc3066d6177ed",
-        "date": "2026-10-31",
-        "time": "12:30",
-        "status": "Not Started",
-        "league": "保加利亚B PFG",
-        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
-        "season": "2026/2027",
-        "home": {
-          "name": "马雷克",
-          "team_id": "ast_4d1b491e65ec464a8375e42480d4ec6b"
-        },
-        "away": {
-          "name": "索非亚中央陆军二队",
-          "team_id": "ast_880585898db448548637e909f516b4dd"
-        },
-        "ht_score": "-",
-        "venue": "邦丘克体育场",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_a3c9ff53b9dd469ca50af25f6963b417",
         "date": "2026-10-31",
         "time": "12:30",
@@ -4449,7 +4429,7 @@
         "match_id": "as_622ea9726fad4942bf7dec807631362e",
         "date": "2026-10-30",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -4461,15 +4441,31 @@
           "name": "贝罗",
           "team_id": "ast_61d1af76230f4766a856bc650a8420eb"
         },
-        "ht_score": "-",
-        "venue": "Lokomotiv stadium",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_70fb7cd9aa8442b0b5dbc3066d6177ed",
+        "date": "2026-10-30",
+        "time": "12:30",
+        "status": "12:30",
+        "league": "保加利亚B PFG",
+        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
+        "season": "2026/2027",
+        "home": {
+          "name": "马雷克",
+          "team_id": "ast_4d1b491e65ec464a8375e42480d4ec6b"
+        },
+        "away": {
+          "name": "索非亚中央陆军二队",
+          "team_id": "ast_880585898db448548637e909f516b4dd"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_0d11a0ec37594febac88376ee6cff892",
         "date": "2026-10-30",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -4481,15 +4477,13 @@
           "name": "埃塔尔",
           "team_id": "ast_43e7191852f940c1bf4f3ceb40f6cfdc"
         },
-        "ht_score": "-",
-        "venue": "Hristo Botev",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_21a50b6112274101a756028e8bd81a87",
         "date": "2026-10-30",
         "time": "12:15",
-        "status": "Not Started",
+        "status": "12:15",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -4501,9 +4495,7 @@
           "name": "维赫伦",
           "team_id": "ast_cac01f260c964616b25d89c76717ebc5"
         },
-        "ht_score": "-",
-        "venue": "伊斯克尔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f4e5864d9527446fb22a8d05fd938f2a",
@@ -4527,7 +4519,7 @@
         "match_id": "as_8aa3213cb15e495981c7ad29461ed5b3",
         "date": "2026-10-28",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -4539,7 +4531,10 @@
           "name": "蒙塔纳",
           "team_id": "ast_f4ff13021f9e4fca8a5abeeda107a5d1"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_454cdb4d3af24ebb94e2017a4ae648d7",
@@ -4559,7 +4554,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "5-1",
-        "venue": "",
+        "venue": "PFC Ludogorets 1945 Training Centre",
         "status_label": "完场"
       },
       {
@@ -10371,13 +10366,13 @@
     }
   },
   "stats": {
-    "matches_completed": 115,
-    "total_goals": 312,
-    "avg_goals_per_match": 2.71,
+    "matches_completed": 116,
+    "total_goals": 315,
+    "avg_goals_per_match": 2.72,
     "home_wins": 60,
     "draws": 28,
-    "away_wins": 27,
-    "home_win_pct": 52.2,
+    "away_wins": 28,
+    "home_win_pct": 51.7,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -11177,5 +11172,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/28"
+  "updated_at": "2026/10/29"
 }

@@ -3505,6 +3505,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_2989c2c56ffa4606917002e6a55cf1df",
+        "date": "2026-12-13",
+        "time": "00:30",
+        "status": "Not Started",
+        "league": "阿鲁巴荣誉联赛",
+        "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
+        "season": "2026/2027",
+        "home": {
+          "name": "国家体育",
+          "team_id": "ast_e65fd75c75e54ee991227abf93d4ef6d"
+        },
+        "away": {
+          "name": "埃斯特雷拉",
+          "team_id": "ast_76d9da12b4234f1b8b8b7a4022910814"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_385b300d1e7c45448a02d3c0040b9bf9",
         "date": "2026-12-12",
         "time": "22:30",
@@ -4128,7 +4148,7 @@
         "match_id": "as_ac3ddb04caec40f8a9d608fef366b8fe",
         "date": "2026-10-31",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "00:30",
         "league": "阿鲁巴荣誉联赛",
         "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
         "season": "2026/2027",
@@ -4140,9 +4160,7 @@
           "name": "拉法马",
           "team_id": "ast_a5b77232b93f4b9ba17836de44260d58"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -7549,7 +7567,7 @@
     "teams_all_time": 21,
     "standings_rows_current": 10,
     "matches_current_season": 145,
-    "upcoming_matches": 32
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/10/28"
+  "updated_at": "2026/10/29"
 }
