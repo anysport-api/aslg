@@ -3117,7 +3117,7 @@
         "match_id": "as_31e1d5175e424c1bbffc71de6e97c400",
         "date": "2026-10-29",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3129,13 +3129,16 @@
           "name": "HJK",
           "team_id": "ast_f86e6d4b65ba41898bfffb0803c6171d"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "2-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8a76e32132494337a918fdd6f509f834",
         "date": "2026-10-29",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3147,7 +3150,10 @@
           "name": "格尼斯坦",
           "team_id": "ast_b0e7c67a14bc4f378f17593befac751c"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1683342870ea4be0ac413d9b460415c7",
@@ -6861,42 +6867,6 @@
         "ht_score": "-",
         "venue": "OTC Stadion",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_8a76e32132494337a918fdd6f509f834",
-        "date": "2026-10-29",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "库普斯",
-          "team_id": "ast_069c39eeb4cb428ca0602b0c4ae1c2a3"
-        },
-        "away": {
-          "name": "格尼斯坦",
-          "team_id": "ast_b0e7c67a14bc4f378f17593befac751c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_31e1d5175e424c1bbffc71de6e97c400",
-        "date": "2026-10-29",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "国际图尔库",
-          "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
-        },
-        "away": {
-          "name": "HJK",
-          "team_id": "ast_f86e6d4b65ba41898bfffb0803c6171d"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11321,13 +11291,13 @@
     }
   },
   "stats": {
-    "matches_completed": 171,
-    "total_goals": 430,
-    "avg_goals_per_match": 2.51,
+    "matches_completed": 173,
+    "total_goals": 438,
+    "avg_goals_per_match": 2.53,
     "home_wins": 77,
-    "draws": 47,
-    "away_wins": 47,
-    "home_win_pct": 45.0,
+    "draws": 48,
+    "away_wins": 48,
+    "home_win_pct": 44.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -12132,7 +12102,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 179,
-    "upcoming_matches": 8
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/10/30"
 }

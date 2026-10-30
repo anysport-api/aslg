@@ -2433,6 +2433,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_fe93db835c3445209e49d4cb06e52a3d",
+        "date": "2026-12-14",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "印度超级联赛",
+        "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
+        "season": "2026/2027",
+        "home": {
+          "name": "喀拉拉蓝队",
+          "team_id": "ast_26dd361272824e7886f9f608c09745cc"
+        },
+        "away": {
+          "name": "旁遮普",
+          "team_id": "ast_dbdf65ceac844d22a94f696f897b93f5"
+        },
+        "ht_score": "-",
+        "venue": "贾瓦哈拉尔·尼赫鲁体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_cb3e310c9b9341a8b433a6c022501de0",
         "date": "2026-12-13",
         "time": "14:00",
@@ -3076,7 +3096,7 @@
         "match_id": "as_3298057ced35433a984e207562f122ee",
         "date": "2026-10-31",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "印度超级联赛",
         "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
         "season": "2026/2027",
@@ -3088,15 +3108,13 @@
           "name": "旁遮普",
           "team_id": "ast_dbdf65ceac844d22a94f696f897b93f5"
         },
-        "ht_score": "-",
-        "venue": "Vivekananda Yuba Bharati Krirangan",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5b6800ff341e4c4b9f55e2b28d8040eb",
         "date": "2026-10-31",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "印度超级联赛",
         "league_id": "asl_c9b548cce5dd48f78679d9ed8e8cdd7b",
         "season": "2026/2027",
@@ -3108,9 +3126,7 @@
           "name": "喀拉拉蓝队",
           "team_id": "ast_26dd361272824e7886f9f608c09745cc"
         },
-        "ht_score": "-",
-        "venue": "贾瓦哈拉尔·尼赫鲁体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b959f955dbeb4b77b65de1ef73ce741a",
@@ -5516,7 +5532,7 @@
     "teams_all_time": 18,
     "standings_rows_current": 14,
     "matches_current_season": 91,
-    "upcoming_matches": 35
+    "upcoming_matches": 36
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/10/30"
 }

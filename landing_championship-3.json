@@ -34,6 +34,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_2294e0e9b0b34ee0ad6084f08639ef1c",
+        "team": "Deltras Sidoarjo",
+        "played": 7,
+        "wins": 4,
+        "draws": 3,
+        "losses": 0,
+        "goals_for": 18,
+        "goals_against": 9,
+        "goal_difference": 9,
+        "points": 15,
+        "form": "DDDWW"
+      },
+      {
+        "position": 1,
         "team_id": "ast_1b95e70090984a18b771a10e4455fbc0",
         "team": "PSPS Riau",
         "played": 7,
@@ -47,18 +61,18 @@
         "form": "WWWWW"
       },
       {
-        "position": 1,
-        "team_id": "ast_2294e0e9b0b34ee0ad6084f08639ef1c",
-        "team": "Deltras Sidoarjo",
-        "played": 7,
+        "position": 2,
+        "team_id": "ast_c215210a8b6345959618088269892902",
+        "team": "Tornado Pekanbaru",
+        "played": 8,
         "wins": 4,
-        "draws": 3,
+        "draws": 4,
         "losses": 0,
-        "goals_for": 18,
-        "goals_against": 9,
-        "goal_difference": 9,
+        "goals_for": 16,
+        "goals_against": 4,
+        "goal_difference": 12,
         "points": 15,
-        "form": "DDDWW"
+        "form": "DDWWW"
       },
       {
         "position": 2,
@@ -73,20 +87,6 @@
         "goal_difference": 11,
         "points": 14,
         "form": "WDLWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_c215210a8b6345959618088269892902",
-        "team": "Tornado Pekanbaru",
-        "played": 7,
-        "wins": 4,
-        "draws": 3,
-        "losses": 0,
-        "goals_for": 16,
-        "goals_against": 4,
-        "goal_difference": 12,
-        "points": 14,
-        "form": "DWWWD"
       },
       {
         "position": 3,
@@ -106,15 +106,15 @@
         "position": 3,
         "team_id": "ast_89ce144b75f4464596681eb06adac07c",
         "team": "RANS Nusantara",
-        "played": 7,
+        "played": 8,
         "wins": 4,
-        "draws": 2,
+        "draws": 3,
         "losses": 1,
         "goals_for": 18,
         "goals_against": 11,
         "goal_difference": 7,
-        "points": 14,
-        "form": "DWWWL"
+        "points": 15,
+        "form": "DDWWW"
       },
       {
         "position": 4,
@@ -274,14 +274,14 @@
         "position": 9,
         "team_id": "ast_f2bacc0d1c0640258d1ffee46bbec04e",
         "team": "Balikpapan",
-        "played": 7,
-        "wins": 0,
+        "played": 8,
+        "wins": 1,
         "draws": 0,
         "losses": 7,
-        "goals_for": 3,
-        "goals_against": 17,
-        "goal_difference": -14,
-        "form": "LLLLL"
+        "goals_for": 6,
+        "goals_against": 18,
+        "goal_difference": -12,
+        "form": "WLLLL"
       },
       {
         "position": 10,
@@ -300,32 +300,17 @@
         "position": 10,
         "team_id": "ast_5b0bffbd3de5473fbb9c8c43d9e897b9",
         "team": "PSBS Biak Numfor",
-        "played": 7,
+        "played": 8,
         "wins": 0,
         "draws": 0,
-        "losses": 7,
-        "goals_for": 2,
-        "goals_against": 38,
-        "goal_difference": -36,
+        "losses": 8,
+        "goals_for": 3,
+        "goals_against": 41,
+        "goal_difference": -38,
         "form": "LLLLL"
       }
     ],
     "zh": [
-      {
-        "position": 1,
-        "team_id": "ast_1b95e70090984a18b771a10e4455fbc0",
-        "team": "PSPS 廖内",
-        "played": 7,
-        "wins": 6,
-        "draws": 0,
-        "losses": 1,
-        "goals_for": 15,
-        "goals_against": 8,
-        "goal_difference": 7,
-        "points": 18,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
-      },
       {
         "position": 1,
         "team_id": "ast_2294e0e9b0b34ee0ad6084f08639ef1c",
@@ -342,6 +327,36 @@
         "form_label": "平平平胜胜"
       },
       {
+        "position": 1,
+        "team_id": "ast_1b95e70090984a18b771a10e4455fbc0",
+        "team": "PSPS 廖内",
+        "played": 7,
+        "wins": 6,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 15,
+        "goals_against": 8,
+        "goal_difference": 7,
+        "points": 18,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_c215210a8b6345959618088269892902",
+        "team": "龙卷风佩坎巴鲁",
+        "played": 8,
+        "wins": 4,
+        "draws": 4,
+        "losses": 0,
+        "goals_for": 16,
+        "goals_against": 4,
+        "goal_difference": 12,
+        "points": 15,
+        "form": "DDWWW",
+        "form_label": "平平胜胜胜"
+      },
+      {
         "position": 2,
         "team_id": "ast_4421efff634e42cda314869d854c6d51",
         "team": "PSMS",
@@ -355,21 +370,6 @@
         "points": 14,
         "form": "WDLWW",
         "form_label": "胜平负胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_c215210a8b6345959618088269892902",
-        "team": "龙卷风佩坎巴鲁",
-        "played": 7,
-        "wins": 4,
-        "draws": 3,
-        "losses": 0,
-        "goals_for": 16,
-        "goals_against": 4,
-        "goal_difference": 12,
-        "points": 14,
-        "form": "DWWWD",
-        "form_label": "平胜胜胜平"
       },
       {
         "position": 3,
@@ -390,16 +390,16 @@
         "position": 3,
         "team_id": "ast_89ce144b75f4464596681eb06adac07c",
         "team": "奇勒贡联队",
-        "played": 7,
+        "played": 8,
         "wins": 4,
-        "draws": 2,
+        "draws": 3,
         "losses": 1,
         "goals_for": 18,
         "goals_against": 11,
         "goal_difference": 7,
-        "points": 14,
-        "form": "DWWWL",
-        "form_label": "平胜胜胜负"
+        "points": 15,
+        "form": "DDWWW",
+        "form_label": "平平胜胜胜"
       },
       {
         "position": 4,
@@ -570,15 +570,15 @@
         "position": 9,
         "team_id": "ast_f2bacc0d1c0640258d1ffee46bbec04e",
         "team": "普斯巴巴利克帕潘",
-        "played": 7,
-        "wins": 0,
+        "played": 8,
+        "wins": 1,
         "draws": 0,
         "losses": 7,
-        "goals_for": 3,
-        "goals_against": 17,
-        "goal_difference": -14,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
+        "goals_for": 6,
+        "goals_against": 18,
+        "goal_difference": -12,
+        "form": "WLLLL",
+        "form_label": "胜负负负负"
       },
       {
         "position": 10,
@@ -598,13 +598,13 @@
         "position": 10,
         "team_id": "ast_5b0bffbd3de5473fbb9c8c43d9e897b9",
         "team": "PSBS 比亚克努姆福尔",
-        "played": 7,
+        "played": 8,
         "wins": 0,
         "draws": 0,
-        "losses": 7,
-        "goals_for": 2,
-        "goals_against": 38,
-        "goal_difference": -36,
+        "losses": 8,
+        "goals_for": 3,
+        "goals_against": 41,
+        "goal_difference": -38,
         "form": "LLLLL",
         "form_label": "负负负负负"
       }
@@ -2651,7 +2651,7 @@
         "match_id": "as_53153ea6d3b5493086f6c50c5fe3f200",
         "date": "2026-10-31",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2663,15 +2663,13 @@
           "name": "PSMS",
           "team_id": "ast_4421efff634e42cda314869d854c6d51"
         },
-        "ht_score": "-",
-        "venue": "Stadion Galuh",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7b49bb0ceb334a3e9b0c7d940815f405",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2683,15 +2681,13 @@
           "name": "德扬",
           "team_id": "ast_fa52420233874e2489b5c1112c13a43d"
         },
-        "ht_score": "-",
-        "venue": "格洛拉三角洲体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0b178667b1774b3aadc9c12e3570092d",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2703,15 +2699,13 @@
           "name": "普斯皮乌拉",
           "team_id": "ast_02ff7b7b0a8e4375bfedb4e240716d76"
         },
-        "ht_score": "-",
-        "venue": "Stadion Surajaya",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_32b7a4c5fb5c48d09249c00d95b0eb3d",
         "date": "2026-10-31",
         "time": "08:30",
-        "status": "Not Started",
+        "status": "08:30",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2723,15 +2717,13 @@
           "name": "PSPS 廖内",
           "team_id": "ast_1b95e70090984a18b771a10e4455fbc0"
         },
-        "ht_score": "-",
-        "venue": "Purnawarman Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0cdc24a0bb5f484ea7959f8c2ce909f3",
         "date": "2026-10-30",
         "time": "08:30",
-        "status": "08:30",
+        "status": "17",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2749,7 +2741,7 @@
         "match_id": "as_f095a2247fd04feb9c4155ec9a5bd9a1",
         "date": "2026-10-30",
         "time": "08:30",
-        "status": "08:30",
+        "status": "18",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2785,7 +2777,7 @@
         "match_id": "as_a6d76e1fd10343699b0f0d04b4613b58",
         "date": "2026-10-29",
         "time": "08:30",
-        "status": "18",
+        "status": "FT",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2799,13 +2791,14 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": ""
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ec619142df33451ea120d852a3486560",
         "date": "2026-10-29",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "印度尼西亚冠军联赛",
         "league_id": "asl_087363c393724b0fab497741853da35c",
         "season": "2026/2027",
@@ -2817,7 +2810,10 @@
           "name": "PSBS 比亚克努姆福尔",
           "team_id": "ast_5b0bffbd3de5473fbb9c8c43d9e897b9"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fd87081894d74f1bb9355534f332d0ca",
@@ -6014,13 +6010,13 @@
     }
   },
   "stats": {
-    "matches_completed": 71,
-    "total_goals": 221,
-    "avg_goals_per_match": 3.11,
-    "home_wins": 27,
+    "matches_completed": 72,
+    "total_goals": 225,
+    "avg_goals_per_match": 3.12,
+    "home_wins": 28,
     "draws": 18,
     "away_wins": 26,
-    "home_win_pct": 38.0,
+    "home_win_pct": 38.9,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6046,8 +6042,8 @@
       }
     },
     "leader": {
-      "team": "PSPS Riau",
-      "points": 18,
+      "team": "Deltras Sidoarjo",
+      "points": 15,
       "played": 7
     }
   },
@@ -6123,20 +6119,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_1b95e70090984a18b771a10e4455fbc0",
-            "team": "PSPS Riau",
-            "played": 7,
-            "wins": 6,
-            "draws": 0,
-            "losses": 1,
-            "goals_for": 15,
-            "goals_against": 8,
-            "goal_difference": 7,
-            "points": 18,
-            "form": "WWWWW"
-          },
-          {
-            "position": 1,
             "team_id": "ast_2294e0e9b0b34ee0ad6084f08639ef1c",
             "team": "Deltras Sidoarjo",
             "played": 7,
@@ -6150,18 +6132,32 @@
             "form": "DDDWW"
           },
           {
-            "position": 2,
-            "team_id": "ast_4421efff634e42cda314869d854c6d51",
-            "team": "PSMS Medan",
+            "position": 1,
+            "team_id": "ast_1b95e70090984a18b771a10e4455fbc0",
+            "team": "PSPS Riau",
             "played": 7,
-            "wins": 4,
-            "draws": 2,
+            "wins": 6,
+            "draws": 0,
             "losses": 1,
-            "goals_for": 17,
-            "goals_against": 6,
-            "goal_difference": 11,
-            "points": 14,
-            "form": "WDLWW"
+            "goals_for": 15,
+            "goals_against": 8,
+            "goal_difference": 7,
+            "points": 18,
+            "form": "WWWWW"
+          },
+          {
+            "position": 2,
+            "team_id": "ast_c215210a8b6345959618088269892902",
+            "team": "Tornado Pekanbaru",
+            "played": 8,
+            "wins": 4,
+            "draws": 4,
+            "losses": 0,
+            "goals_for": 16,
+            "goals_against": 4,
+            "goal_difference": 12,
+            "points": 15,
+            "form": "DDWWW"
           }
         ],
         "meta": {
@@ -6803,5 +6799,5 @@
     "matches_current_season": 180,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/10/30"
 }

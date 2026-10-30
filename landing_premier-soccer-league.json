@@ -152,15 +152,15 @@
         "position": 2,
         "team_id": "ast_e2f24d35808f4f2e870f1387dec67793",
         "team": "Scottland",
-        "played": 30,
-        "wins": 17,
+        "played": 31,
+        "wins": 18,
         "draws": 10,
         "losses": 3,
-        "goals_for": 45,
+        "goals_for": 46,
         "goals_against": 11,
-        "goal_difference": 34,
-        "points": 61,
-        "form": "LWDWD"
+        "goal_difference": 35,
+        "points": 64,
+        "form": "WLWDW"
       },
       {
         "position": 3,
@@ -194,15 +194,15 @@
         "position": 5,
         "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
         "team": "CAPS Utd",
-        "played": 31,
+        "played": 32,
         "wins": 13,
         "draws": 12,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 36,
-        "goals_against": 25,
-        "goal_difference": 11,
+        "goals_against": 26,
+        "goal_difference": 10,
         "points": 51,
-        "form": "WDWDD"
+        "form": "LWDWD"
       },
       {
         "position": 6,
@@ -406,16 +406,16 @@
         "position": 2,
         "team_id": "ast_e2f24d35808f4f2e870f1387dec67793",
         "team": "苏格兰",
-        "played": 30,
-        "wins": 17,
+        "played": 31,
+        "wins": 18,
         "draws": 10,
         "losses": 3,
-        "goals_for": 45,
+        "goals_for": 46,
         "goals_against": 11,
-        "goal_difference": 34,
-        "points": 61,
-        "form": "LWDWD",
-        "form_label": "负胜平胜平"
+        "goal_difference": 35,
+        "points": 64,
+        "form": "WLWDW",
+        "form_label": "胜负胜平胜"
       },
       {
         "position": 3,
@@ -451,16 +451,16 @@
         "position": 5,
         "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
         "team": "CAPS联队",
-        "played": 31,
+        "played": 32,
         "wins": 13,
         "draws": 12,
-        "losses": 6,
+        "losses": 7,
         "goals_for": 36,
-        "goals_against": 25,
-        "goal_difference": 11,
+        "goals_against": 26,
+        "goal_difference": 10,
         "points": 51,
-        "form": "WDWDD",
-        "form_label": "胜平胜平平"
+        "form": "LWDWD",
+        "form_label": "负胜平胜平"
       },
       {
         "position": 6,
@@ -879,7 +879,7 @@
         "match_id": "as_eab940ed6c33499391bceaa132ce281d",
         "date": "2026-10-29",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -891,7 +891,10 @@
           "name": "苏格兰",
           "team_id": "ast_e2f24d35808f4f2e870f1387dec67793"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_37b1ac92ab7f448db424a84715c40d90",
@@ -7100,24 +7103,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_eab940ed6c33499391bceaa132ce281d",
-        "date": "2026-10-29",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "CAPS联队",
-          "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43"
-        },
-        "away": {
-          "name": "苏格兰",
-          "team_id": "ast_e2f24d35808f4f2e870f1387dec67793"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9451,13 +9436,13 @@
     }
   },
   "stats": {
-    "matches_completed": 286,
-    "total_goals": 541,
+    "matches_completed": 287,
+    "total_goals": 542,
     "avg_goals_per_match": 1.89,
     "home_wins": 102,
     "draws": 103,
-    "away_wins": 81,
-    "home_win_pct": 35.7,
+    "away_wins": 82,
+    "home_win_pct": 35.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9596,15 +9581,15 @@
             "position": 2,
             "team_id": "ast_e2f24d35808f4f2e870f1387dec67793",
             "team": "Scottland",
-            "played": 30,
-            "wins": 17,
+            "played": 31,
+            "wins": 18,
             "draws": 10,
             "losses": 3,
-            "goals_for": 45,
+            "goals_for": 46,
             "goals_against": 11,
-            "goal_difference": 34,
-            "points": 61,
-            "form": "LWDWD"
+            "goal_difference": 35,
+            "points": 64,
+            "form": "WLWDW"
           },
           {
             "position": 3,
@@ -10180,7 +10165,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 297,
-    "upcoming_matches": 11
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/10/30"
 }

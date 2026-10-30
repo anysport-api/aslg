@@ -226,6 +226,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_7a592757155745858ec008127ae01a40",
+        "team": "Yantra Gabrovo",
+        "played": 14,
+        "wins": 7,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 14,
+        "goal_difference": 5,
+        "points": 23,
+        "form": "WDWLL"
+      },
+      {
+        "position": 5,
         "team_id": "ast_b767d7be460d4d3f9453282d506098be",
         "team": "Fratria",
         "played": 13,
@@ -239,7 +253,7 @@
         "form": "LLWWD"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_61d1af76230f4766a856bc650a8420eb",
         "team": "Beroe",
         "played": 13,
@@ -253,32 +267,18 @@
         "form": "WLWLW"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_12502f66c56549818f2727e78e82b605",
         "team": "Hebar",
-        "played": 13,
+        "played": 14,
         "wins": 6,
         "draws": 2,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 29,
-        "goals_against": 21,
-        "goal_difference": 8,
+        "goals_against": 24,
+        "goal_difference": 5,
         "points": 20,
-        "form": "WWLWW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_7a592757155745858ec008127ae01a40",
-        "team": "Yantra Gabrovo",
-        "played": 13,
-        "wins": 6,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 16,
-        "goals_against": 14,
-        "goal_difference": 2,
-        "points": 20,
-        "form": "DWLLL"
+        "form": "LWWLW"
       },
       {
         "position": 8,
@@ -483,6 +483,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_7a592757155745858ec008127ae01a40",
+        "team": "扬特拉·加布罗沃",
+        "played": 14,
+        "wins": 7,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 14,
+        "goal_difference": 5,
+        "points": 23,
+        "form": "WDWLL",
+        "form_label": "胜平胜负负"
+      },
+      {
+        "position": 5,
         "team_id": "ast_b767d7be460d4d3f9453282d506098be",
         "team": "弗拉特里亚",
         "played": 13,
@@ -497,7 +512,7 @@
         "form_label": "负负胜胜平"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_61d1af76230f4766a856bc650a8420eb",
         "team": "贝罗",
         "played": 13,
@@ -512,34 +527,19 @@
         "form_label": "胜负胜负胜"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_12502f66c56549818f2727e78e82b605",
         "team": "赫巴尔",
-        "played": 13,
+        "played": 14,
         "wins": 6,
         "draws": 2,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 29,
-        "goals_against": 21,
-        "goal_difference": 8,
+        "goals_against": 24,
+        "goal_difference": 5,
         "points": 20,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_7a592757155745858ec008127ae01a40",
-        "team": "扬特拉·加布罗沃",
-        "played": 13,
-        "wins": 6,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 16,
-        "goals_against": 14,
-        "goal_difference": 2,
-        "points": 20,
-        "form": "DWLLL",
-        "form_label": "平胜负负负"
+        "form": "LWWLW",
+        "form_label": "负胜胜负胜"
       },
       {
         "position": 8,
@@ -4409,7 +4409,7 @@
         "match_id": "as_a3c9ff53b9dd469ca50af25f6963b417",
         "date": "2026-10-31",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -4421,9 +4421,7 @@
           "name": "切尔诺莫雷茨1919",
           "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_622ea9726fad4942bf7dec807631362e",
@@ -4501,7 +4499,7 @@
         "match_id": "as_f4e5864d9527446fb22a8d05fd938f2a",
         "date": "2026-10-29",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -4513,7 +4511,10 @@
           "name": "赫巴尔",
           "team_id": "ast_12502f66c56549818f2727e78e82b605"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8aa3213cb15e495981c7ad29461ed5b3",
@@ -7937,7 +7938,7 @@
         "match_id": "as_a3c9ff53b9dd469ca50af25f6963b417",
         "date": "2026-10-31",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -7949,9 +7950,7 @@
           "name": "切尔诺莫雷茨1919",
           "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f"
         },
-        "ht_score": "-",
-        "venue": "城市体育场",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -10366,13 +10365,13 @@
     }
   },
   "stats": {
-    "matches_completed": 116,
-    "total_goals": 315,
+    "matches_completed": 117,
+    "total_goals": 318,
     "avg_goals_per_match": 2.72,
-    "home_wins": 60,
+    "home_wins": 61,
     "draws": 28,
     "away_wins": 28,
-    "home_win_pct": 51.7,
+    "home_win_pct": 52.1,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -11172,5 +11171,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/10/30"
 }

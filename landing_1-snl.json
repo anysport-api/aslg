@@ -244,15 +244,15 @@
         "position": 3,
         "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
         "team": "Bravo",
-        "played": 12,
+        "played": 13,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "losses": 3,
         "goals_for": 14,
         "goals_against": 13,
         "goal_difference": 1,
-        "points": 19,
-        "form": "DLWWD"
+        "points": 20,
+        "form": "DDLWW"
       },
       {
         "position": 4,
@@ -328,15 +328,15 @@
         "position": 9,
         "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706",
         "team": "Grosuplje",
-        "played": 12,
+        "played": 13,
         "wins": 3,
-        "draws": 2,
+        "draws": 3,
         "losses": 7,
         "goals_for": 15,
         "goals_against": 25,
         "goal_difference": -10,
-        "points": 11,
-        "form": "LLWLL"
+        "points": 12,
+        "form": "DLLWL"
       },
       {
         "position": 10,
@@ -388,16 +388,16 @@
         "position": 3,
         "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
         "team": "布拉沃",
-        "played": 12,
+        "played": 13,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "losses": 3,
         "goals_for": 14,
         "goals_against": 13,
         "goal_difference": 1,
-        "points": 19,
-        "form": "DLWWD",
-        "form_label": "平负胜胜平"
+        "points": 20,
+        "form": "DDLWW",
+        "form_label": "平平负胜胜"
       },
       {
         "position": 4,
@@ -478,16 +478,16 @@
         "position": 9,
         "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706",
         "team": "格鲁苏普列",
-        "played": 12,
+        "played": 13,
         "wins": 3,
-        "draws": 2,
+        "draws": 3,
         "losses": 7,
         "goals_for": 15,
         "goals_against": 25,
         "goal_difference": -10,
-        "points": 11,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "points": 12,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       },
       {
         "position": 10,
@@ -2807,7 +2807,7 @@
         "match_id": "as_4b81540d96814543afd3b330c3951329",
         "date": "2026-10-31",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -2819,15 +2819,13 @@
           "name": "拉多姆列",
           "team_id": "ast_041e52aa90df4f758a96723898739b70"
         },
-        "ht_score": "-",
-        "venue": "Sportni park Aluminij",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_af37be8772d74d6199fee4452bb0ac45",
         "date": "2026-10-31",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -2839,15 +2837,13 @@
           "name": "奥林匹亚卢布尔雅那",
           "team_id": "ast_ad4154a760e647edac5e3537d1168d32"
         },
-        "ht_score": "-",
-        "venue": "柳德斯基·弗尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_30040c162b6a4647b374c136773c297b",
         "date": "2026-10-29",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -2859,7 +2855,10 @@
           "name": "布拉沃",
           "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_aa655958730343aaab4bb6e902a4ace9",
@@ -4670,7 +4669,7 @@
         "match_id": "as_af37be8772d74d6199fee4452bb0ac45",
         "date": "2026-10-31",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4682,15 +4681,13 @@
           "name": "奥林匹亚卢布尔雅那",
           "team_id": "ast_ad4154a760e647edac5e3537d1168d32"
         },
-        "ht_score": "-",
-        "venue": "柳德斯基·弗尔特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4b81540d96814543afd3b330c3951329",
         "date": "2026-10-31",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -4701,26 +4698,6 @@
         "away": {
           "name": "拉多姆列",
           "team_id": "ast_041e52aa90df4f758a96723898739b70"
-        },
-        "ht_score": "-",
-        "venue": "Sportni park Aluminij",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_30040c162b6a4647b374c136773c297b",
-        "date": "2026-10-29",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "斯洛文尼亚甲级联赛",
-        "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
-        "season": "2026/2027",
-        "home": {
-          "name": "格鲁苏普列",
-          "team_id": "ast_062ff6db72204d3c9a347e8ffd0c1706"
-        },
-        "away": {
-          "name": "布拉沃",
-          "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c"
         },
         "venue": ""
       }
@@ -8576,13 +8553,13 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
+    "matches_completed": 64,
     "total_goals": 164,
-    "avg_goals_per_match": 2.6,
+    "avg_goals_per_match": 2.56,
     "home_wins": 21,
-    "draws": 22,
+    "draws": 23,
     "away_wins": 20,
-    "home_win_pct": 33.3,
+    "home_win_pct": 32.8,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8735,15 +8712,15 @@
             "position": 3,
             "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
             "team": "Bravo",
-            "played": 12,
+            "played": 13,
             "wins": 5,
-            "draws": 4,
+            "draws": 5,
             "losses": 3,
             "goals_for": 14,
             "goals_against": 13,
             "goal_difference": 1,
-            "points": 19,
-            "form": "DLWWD"
+            "points": 20,
+            "form": "DDLWW"
           }
         ],
         "meta": {
@@ -9377,7 +9354,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 27
+    "upcoming_matches": 26
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/10/30"
 }
