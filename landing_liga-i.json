@@ -240,6 +240,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
+        "team": "FC Rapid Bucuresti",
+        "played": 14,
+        "wins": 9,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 23,
+        "goals_against": 13,
+        "goal_difference": 10,
+        "points": 30,
+        "form": "WLWWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_791f8335799243ecb57d0f917acfa989",
         "team": "Univ. Craiova",
         "played": 13,
@@ -251,20 +265,6 @@
         "goal_difference": 23,
         "points": 29,
         "form": "WWWWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
-        "team": "FC Rapid Bucuresti",
-        "played": 13,
-        "wins": 8,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 21,
-        "goals_against": 13,
-        "goal_difference": 8,
-        "points": 27,
-        "form": "LWWWW"
       },
       {
         "position": 4,
@@ -438,15 +438,15 @@
         "position": 16,
         "team_id": "ast_5d9aec27988b459c8d483b0a5da0d087",
         "team": "Csikszereda M. Ciuc",
-        "played": 13,
+        "played": 14,
         "wins": 1,
         "draws": 2,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 9,
-        "goals_against": 26,
-        "goal_difference": -17,
+        "goals_against": 28,
+        "goal_difference": -19,
         "points": 5,
-        "form": "WDLLL"
+        "form": "LWDLL"
       }
     ],
     "zh": [
@@ -467,6 +467,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
+        "team": "布加勒斯特快速足球俱乐部",
+        "played": 14,
+        "wins": 9,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 23,
+        "goals_against": 13,
+        "goal_difference": 10,
+        "points": 30,
+        "form": "WLWWW",
+        "form_label": "胜负胜胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_791f8335799243ecb57d0f917acfa989",
         "team": "克拉约瓦大学",
         "played": 13,
@@ -479,21 +494,6 @@
         "points": 29,
         "form": "WWWWW",
         "form_label": "胜胜胜胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
-        "team": "布加勒斯特快速足球俱乐部",
-        "played": 13,
-        "wins": 8,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 21,
-        "goals_against": 13,
-        "goal_difference": 8,
-        "points": 27,
-        "form": "LWWWW",
-        "form_label": "负胜胜胜胜"
       },
       {
         "position": 4,
@@ -679,16 +679,16 @@
         "position": 16,
         "team_id": "ast_5d9aec27988b459c8d483b0a5da0d087",
         "team": "奇克谢雷达M.丘克",
-        "played": 13,
+        "played": 14,
         "wins": 1,
         "draws": 2,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 9,
-        "goals_against": 26,
-        "goal_difference": -17,
+        "goals_against": 28,
+        "goal_difference": -19,
         "points": 5,
-        "form": "WDLLL",
-        "form_label": "胜平负负负"
+        "form": "LWDLL",
+        "form_label": "负胜平负负"
       }
     ]
   },
@@ -713,6 +713,14 @@
         },
         {
           "rank": 3,
+          "player_id": "asp_1a892a3e736246bb9beb3c023a0c3f5a",
+          "player_name": "Dobre Mihai-Alexandru",
+          "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
+          "team_name": "Rapid Bucuresti",
+          "value": 6
+        },
+        {
+          "rank": 4,
           "player_id": "asp_9fae36a9ed524b9c91cc5806561ac869",
           "player_name": "A. Cordea",
           "team_id": "ast_dd56fd0633e34ddc8c292e7379db749c",
@@ -720,7 +728,7 @@
           "value": 6
         },
         {
-          "rank": 4,
+          "rank": 5,
           "player_id": "asp_eaa6da5a5882466e98db22b0bcf33256",
           "player_name": "Matteo Ahlinvi",
           "team_id": "ast_e852a01a853c4a8586c5c5b225563c88",
@@ -728,7 +736,7 @@
           "value": 6
         },
         {
-          "rank": 5,
+          "rank": 6,
           "player_id": "asp_e3f82687f5304603a6bef3d521848ac9",
           "player_name": "Aliev Alibek",
           "team_id": "ast_61d49cb7591a479e94cb38463485c9b8",
@@ -736,7 +744,7 @@
           "value": 6
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_0054a23896e34e09a993762c1b9fc0b8",
           "player_name": "S. Dražić",
           "team_id": "ast_dd56fd0633e34ddc8c292e7379db749c",
@@ -744,7 +752,7 @@
           "value": 6
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_28067aa0162c4058aa72c1706b09d70f",
           "player_name": "Al Assad",
           "team_id": "ast_791f8335799243ecb57d0f917acfa989",
@@ -752,19 +760,11 @@
           "value": 6
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_65affff69437484bac429a77dbf7e129",
           "player_name": "Gabriel Eduard",
           "team_id": "ast_e852a01a853c4a8586c5c5b225563c88",
           "team_name": "Farul Constanta 1920",
-          "value": 5
-        },
-        {
-          "rank": 9,
-          "player_id": "asp_1a892a3e736246bb9beb3c023a0c3f5a",
-          "player_name": "Dobre Mihai-Alexandru",
-          "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
-          "team_name": "Rapid Bucuresti",
           "value": 5
         },
         {
@@ -1115,6 +1115,14 @@
         },
         {
           "rank": 3,
+          "player_id": "asp_1a892a3e736246bb9beb3c023a0c3f5a",
+          "player_name": "亚历山德鲁·多布雷",
+          "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
+          "team_name": "布加勒斯特快速足球俱乐部",
+          "value": 6
+        },
+        {
+          "rank": 4,
           "player_id": "asp_9fae36a9ed524b9c91cc5806561ac869",
           "player_name": "安德烈·科尔德亚",
           "team_id": "ast_dd56fd0633e34ddc8c292e7379db749c",
@@ -1122,7 +1130,7 @@
           "value": 6
         },
         {
-          "rank": 4,
+          "rank": 5,
           "player_id": "asp_eaa6da5a5882466e98db22b0bcf33256",
           "player_name": "马泰奥·阿赫林维",
           "team_id": "ast_e852a01a853c4a8586c5c5b225563c88",
@@ -1130,7 +1138,7 @@
           "value": 6
         },
         {
-          "rank": 5,
+          "rank": 6,
           "player_id": "asp_e3f82687f5304603a6bef3d521848ac9",
           "player_name": "Aliev Alibek",
           "team_id": "ast_61d49cb7591a479e94cb38463485c9b8",
@@ -1138,7 +1146,7 @@
           "value": 6
         },
         {
-          "rank": 6,
+          "rank": 7,
           "player_id": "asp_0054a23896e34e09a993762c1b9fc0b8",
           "player_name": "斯特凡·德拉齐奇",
           "team_id": "ast_dd56fd0633e34ddc8c292e7379db749c",
@@ -1146,7 +1154,7 @@
           "value": 6
         },
         {
-          "rank": 7,
+          "rank": 8,
           "player_id": "asp_28067aa0162c4058aa72c1706b09d70f",
           "player_name": "阿萨德·阿尔·哈姆拉维",
           "team_id": "ast_791f8335799243ecb57d0f917acfa989",
@@ -1154,19 +1162,11 @@
           "value": 6
         },
         {
-          "rank": 8,
+          "rank": 9,
           "player_id": "asp_65affff69437484bac429a77dbf7e129",
           "player_name": "Gabriel Eduard",
           "team_id": "ast_e852a01a853c4a8586c5c5b225563c88",
           "team_name": "法鲁尔·康斯坦察",
-          "value": 5
-        },
-        {
-          "rank": 9,
-          "player_id": "asp_1a892a3e736246bb9beb3c023a0c3f5a",
-          "player_name": "亚历山德鲁·多布雷",
-          "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
-          "team_name": "布加勒斯特快速足球俱乐部",
           "value": 5
         },
         {
@@ -5719,7 +5719,7 @@
         "match_id": "as_c8d3db3f283d4ef3a638875d386a6c0c",
         "date": "2026-11-01",
         "time": "18:30",
-        "status": "Not Started",
+        "status": "18:30",
         "league": "罗马尼亚甲级联赛",
         "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
         "season": "2026/2027",
@@ -5731,15 +5731,13 @@
           "name": "阿拉德UTA",
           "team_id": "ast_6d72a98be76448279f924200250a2781"
         },
-        "ht_score": "-",
-        "venue": "Arena Nationala",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7bc035215d0344a29147d40451afead1",
         "date": "2026-11-01",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "罗马尼亚甲级联赛",
         "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
         "season": "2026/2027",
@@ -5751,15 +5749,13 @@
           "name": "塞普西·圣乔治",
           "team_id": "ast_5df53fb2476a4436b343f6d93144b507"
         },
-        "ht_score": "-",
-        "venue": "Stadionul Otelul",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0830cea4b8284831a8b95abb45a74e83",
         "date": "2026-11-01",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "罗马尼亚甲级联赛",
         "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
         "season": "2026/2027",
@@ -5771,9 +5767,7 @@
           "name": "博托沙尼",
           "team_id": "ast_f4211487fe314a47b707f34a414bb685"
         },
-        "ht_score": "-",
-        "venue": "Stadionul Ion Oblemenco",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e7ff7371f9d44aba912a94f2161cc14e",
@@ -5815,7 +5809,7 @@
         "match_id": "as_2ba7681ea64049389aa4f93372201d55",
         "date": "2026-10-30",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "罗马尼亚甲级联赛",
         "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
         "season": "2026/2027",
@@ -5827,7 +5821,10 @@
           "name": "奇克谢雷达M.丘克",
           "team_id": "ast_5d9aec27988b459c8d483b0a5da0d087"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9148a1a23e77466aba8549a99ec59d32",
@@ -8859,7 +8856,7 @@
         "match_id": "as_0830cea4b8284831a8b95abb45a74e83",
         "date": "2026-11-01",
         "time": "15:30",
-        "status": "Not Started",
+        "status": "15:30",
         "league": "罗马尼亚甲级联赛",
         "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
         "season": "2026/2027",
@@ -8871,15 +8868,13 @@
           "name": "博托沙尼",
           "team_id": "ast_f4211487fe314a47b707f34a414bb685"
         },
-        "ht_score": "-",
-        "venue": "Stadionul Ion Oblemenco",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7bc035215d0344a29147d40451afead1",
         "date": "2026-11-01",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "罗马尼亚甲级联赛",
         "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
         "season": "2026/2027",
@@ -8891,15 +8886,13 @@
           "name": "塞普西·圣乔治",
           "team_id": "ast_5df53fb2476a4436b343f6d93144b507"
         },
-        "ht_score": "-",
-        "venue": "Stadionul Otelul",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c8d3db3f283d4ef3a638875d386a6c0c",
         "date": "2026-11-01",
         "time": "18:30",
-        "status": "Not Started",
+        "status": "18:30",
         "league": "罗马尼亚甲级联赛",
         "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
         "season": "2026/2027",
@@ -8911,9 +8904,7 @@
           "name": "阿拉德UTA",
           "team_id": "ast_6d72a98be76448279f924200250a2781"
         },
-        "ht_score": "-",
-        "venue": "Arena Nationala",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_10e1f1ed151e41b5aa2f398d4a445b88",
@@ -8948,24 +8939,6 @@
         "away": {
           "name": "FC阿尔杰什",
           "team_id": "ast_46065d6e829d469f9a50d08017375a00"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2ba7681ea64049389aa4f93372201d55",
-        "date": "2026-10-30",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "罗马尼亚甲级联赛",
-        "league_id": "asl_fda39f4036fc40c2b0a23b25c7754ad2",
-        "season": "2026/2027",
-        "home": {
-          "name": "布加勒斯特快速足球俱乐部",
-          "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121"
-        },
-        "away": {
-          "name": "奇克谢雷达M.丘克",
-          "team_id": "ast_5d9aec27988b459c8d483b0a5da0d087"
         },
         "venue": ""
       }
@@ -14949,13 +14922,13 @@
     }
   },
   "stats": {
-    "matches_completed": 104,
-    "total_goals": 285,
-    "avg_goals_per_match": 2.74,
-    "home_wins": 55,
+    "matches_completed": 105,
+    "total_goals": 287,
+    "avg_goals_per_match": 2.73,
+    "home_wins": 56,
     "draws": 25,
     "away_wins": 24,
-    "home_win_pct": 52.9,
+    "home_win_pct": 53.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -15092,6 +15065,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
+            "team": "FC Rapid Bucuresti",
+            "played": 14,
+            "wins": 9,
+            "draws": 3,
+            "losses": 2,
+            "goals_for": 23,
+            "goals_against": 13,
+            "goal_difference": 10,
+            "points": 30,
+            "form": "WLWWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_791f8335799243ecb57d0f917acfa989",
             "team": "Univ. Craiova",
             "played": 13,
@@ -15103,20 +15090,6 @@
             "goal_difference": 23,
             "points": 29,
             "form": "WWWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
-            "team": "FC Rapid Bucuresti",
-            "played": 13,
-            "wins": 8,
-            "draws": 3,
-            "losses": 2,
-            "goals_for": 21,
-            "goals_against": 13,
-            "goal_difference": 8,
-            "points": 27,
-            "form": "LWWWW"
           }
         ],
         "meta": {
@@ -15324,10 +15297,10 @@
           },
           {
             "rank": 3,
-            "player_id": "asp_9fae36a9ed524b9c91cc5806561ac869",
-            "player_name": "A. Cordea",
-            "team_id": "ast_dd56fd0633e34ddc8c292e7379db749c",
-            "team_name": "CFR Cluj",
+            "player_id": "asp_1a892a3e736246bb9beb3c023a0c3f5a",
+            "player_name": "Dobre Mihai-Alexandru",
+            "team_id": "ast_d0e7cb8a0a0e44e3bf12d8ada244b121",
+            "team_name": "Rapid Bucuresti",
             "value": 6
           }
         ],
@@ -15753,7 +15726,7 @@
     "teams_all_time": 58,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 48
+    "upcoming_matches": 47
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

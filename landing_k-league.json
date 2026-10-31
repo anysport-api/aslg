@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
@@ -160,29 +160,29 @@
         "position": 3,
         "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7",
         "team": "Daejeon",
-        "played": 33,
+        "played": 34,
         "wins": 13,
-        "draws": 10,
+        "draws": 11,
         "losses": 10,
         "goals_for": 53,
         "goals_against": 41,
         "goal_difference": 12,
-        "points": 49,
-        "form": "WWWDD"
+        "points": 50,
+        "form": "DWWWD"
       },
       {
         "position": 4,
         "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a",
         "team": "Jeonbuk",
-        "played": 33,
+        "played": 34,
         "wins": 12,
-        "draws": 12,
+        "draws": 13,
         "losses": 9,
         "goals_for": 43,
         "goals_against": 33,
         "goal_difference": 10,
-        "points": 48,
-        "form": "DWLDL"
+        "points": 49,
+        "form": "DDWLD"
       },
       {
         "position": 5,
@@ -332,31 +332,31 @@
         "position": 3,
         "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7",
         "team": "大田",
-        "played": 33,
+        "played": 34,
         "wins": 13,
-        "draws": 10,
+        "draws": 11,
         "losses": 10,
         "goals_for": 53,
         "goals_against": 41,
         "goal_difference": 12,
-        "points": 49,
-        "form": "WWWDD",
-        "form_label": "胜胜胜平平"
+        "points": 50,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
       },
       {
         "position": 4,
         "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a",
         "team": "全北现代",
-        "played": 33,
+        "played": 34,
         "wins": 12,
-        "draws": 12,
+        "draws": 13,
         "losses": 9,
         "goals_for": 43,
         "goals_against": 33,
         "goal_difference": 10,
-        "points": 48,
-        "form": "DWLDL",
-        "form_label": "平胜负平负"
+        "points": 49,
+        "form": "DDWLD",
+        "form_label": "平平胜负平"
       },
       {
         "position": 5,
@@ -498,6 +498,599 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_fa9a6cafc059487dbd4b62e29fb7009c",
+        "date": "2026-12-06",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "away": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "ht_score": "-",
+        "venue": "大田世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0f48d9dc75964fa5ba3aa550e6d8ed58",
+        "date": "2026-12-06",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "away": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "ht_score": "-",
+        "venue": "春川松岩体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_56d1dc646c784225bdc3c7d96af1ab3d",
+        "date": "2026-12-06",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "away": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "ht_score": "-",
+        "venue": "全州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e71da5d672cc40d8b7c92d4865c8a7e2",
+        "date": "2026-12-05",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "away": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "ht_score": "-",
+        "venue": "安养体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2938c17bb1c44798afd3c07015123e93",
+        "date": "2026-12-05",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "away": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "ht_score": "-",
+        "venue": "金泉体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e33cb5d9272f4ccbaf7e3704e159bb48",
+        "date": "2026-12-05",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "away": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "ht_score": "-",
+        "venue": "济州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_320eb31d213a4167a0d133fe8680965d",
+        "date": "2026-11-29",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "away": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "ht_score": "-",
+        "venue": "蔚山文殊足球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d14d6bfc05e649759f885466dcc1c986",
+        "date": "2026-11-29",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "away": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "ht_score": "-",
+        "venue": "顺希竞技场公园",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b79ed965d8944890b201ca75360d3bd9",
+        "date": "2026-11-28",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "away": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "ht_score": "-",
+        "venue": "安养体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b3143c034695487887f8fbd303a98ca1",
+        "date": "2026-11-28",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "away": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "ht_score": "-",
+        "venue": "首尔世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1be8197802d4456783bc7a951584c619",
+        "date": "2026-11-28",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "away": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "ht_score": "-",
+        "venue": "富川体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7c98e7c0a7ed4bca857afefc01cd91e9",
+        "date": "2026-11-28",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "away": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "ht_score": "-",
+        "venue": "Pohang Steel Yard",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0cfae6880fa546339f8775b37eba5533",
+        "date": "2026-11-22",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "away": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "ht_score": "-",
+        "venue": "金泉体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ae266a9fc14342a89881ae43f5747f49",
+        "date": "2026-11-22",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "away": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "ht_score": "-",
+        "venue": "光州足球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_25fce90a9c764d55aa3316acc6b25670",
+        "date": "2026-11-21",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "away": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "ht_score": "-",
+        "venue": "全州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9682520e49bf4973b6d928effadc4ebb",
+        "date": "2026-11-21",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "away": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "ht_score": "-",
+        "venue": "Pohang Steel Yard",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_658cc6a6f2664481b09255d1c772a3d6",
+        "date": "2026-11-21",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "away": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "ht_score": "-",
+        "venue": "春川松岩体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f05a32106fbf463bb7e38e97ce8f7cdf",
+        "date": "2026-11-21",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "away": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "ht_score": "-",
+        "venue": "顺希竞技场公园",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e454c1bae6b4430c8bd7105d52b52e2b",
+        "date": "2026-11-08",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "away": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "ht_score": "-",
+        "venue": "大田世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cbd0aefbaf7144b48852154f71e8467c",
+        "date": "2026-11-08",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "away": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "ht_score": "-",
+        "venue": "首尔世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_22c6876287b74ea5ab5e5a827a078f35",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "away": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "ht_score": "-",
+        "venue": "富川体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1c0c1e1617124a20bf1feca432893728",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "away": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "ht_score": "-",
+        "venue": "春川松岩体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3cbd75fa94cc4c16a534dc8c78e3ace6",
+        "date": "2026-11-07",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "away": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "ht_score": "-",
+        "venue": "济州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3e851de3881844fcb7335345b286917b",
+        "date": "2026-11-07",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "away": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "ht_score": "-",
+        "venue": "金泉体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f842362510ae4b918f6624e63882e2f9",
+        "date": "2026-11-01",
+        "time": "05:00",
+        "status": "05:00",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "away": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_2719765c14874c90a296c434f789cb7f",
+        "date": "2026-11-01",
+        "time": "05:00",
+        "status": "05:00",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "away": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_5116811b8f0d4912a2eb8827e38e797d",
+        "date": "2026-11-01",
+        "time": "07:30",
+        "status": "07:30",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "away": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_047ef57a23334fdd8ee992e71af9f5a7",
+        "date": "2026-11-01",
+        "time": "07:30",
+        "status": "07:30",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "away": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_e67726f1c6e44f37adc110d5274fe5e1",
+        "date": "2026-10-31",
+        "time": "05:00",
+        "status": "FT",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "away": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
+      },
+      {
+        "match_id": "as_1699dc0816c74e5aa73463957d8ead56",
+        "date": "2026-10-31",
+        "time": "07:30",
+        "status": "76",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "away": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": ""
+      },
+      {
         "match_id": "as_5816b48ea10946d4917259a07c6fcb03",
         "date": "2026-10-24",
         "time": "05:00",
@@ -515,7 +1108,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "安养体育场",
         "status_label": "完场"
       },
       {
@@ -536,7 +1129,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-3",
-        "venue": "",
+        "venue": "富川体育场",
         "status_label": "完场"
       },
       {
@@ -557,7 +1150,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "金泉体育场",
         "status_label": "完场"
       },
       {
@@ -578,7 +1171,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "顺希竞技场公园",
         "status_label": "完场"
       },
       {
@@ -599,7 +1192,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "首尔世界杯体育场",
         "status_label": "完场"
       },
       {
@@ -620,7 +1213,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "蔚山文殊足球场",
         "status_label": "完场"
       },
       {
@@ -4656,7 +5249,601 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_56d1dc646c784225bdc3c7d96af1ab3d",
+        "date": "2026-12-06",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "away": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "ht_score": "-",
+        "venue": "全州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0f48d9dc75964fa5ba3aa550e6d8ed58",
+        "date": "2026-12-06",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "away": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "ht_score": "-",
+        "venue": "春川松岩体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_fa9a6cafc059487dbd4b62e29fb7009c",
+        "date": "2026-12-06",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "away": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "ht_score": "-",
+        "venue": "大田世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e33cb5d9272f4ccbaf7e3704e159bb48",
+        "date": "2026-12-05",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "away": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "ht_score": "-",
+        "venue": "济州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_2938c17bb1c44798afd3c07015123e93",
+        "date": "2026-12-05",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "away": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "ht_score": "-",
+        "venue": "金泉体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e71da5d672cc40d8b7c92d4865c8a7e2",
+        "date": "2026-12-05",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "away": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "ht_score": "-",
+        "venue": "安养体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d14d6bfc05e649759f885466dcc1c986",
+        "date": "2026-11-29",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "away": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "ht_score": "-",
+        "venue": "顺希竞技场公园",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_320eb31d213a4167a0d133fe8680965d",
+        "date": "2026-11-29",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "away": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "ht_score": "-",
+        "venue": "蔚山文殊足球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_7c98e7c0a7ed4bca857afefc01cd91e9",
+        "date": "2026-11-28",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "away": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "ht_score": "-",
+        "venue": "Pohang Steel Yard",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1be8197802d4456783bc7a951584c619",
+        "date": "2026-11-28",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "away": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "ht_score": "-",
+        "venue": "富川体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b3143c034695487887f8fbd303a98ca1",
+        "date": "2026-11-28",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "away": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "ht_score": "-",
+        "venue": "首尔世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b79ed965d8944890b201ca75360d3bd9",
+        "date": "2026-11-28",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "away": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "ht_score": "-",
+        "venue": "安养体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_ae266a9fc14342a89881ae43f5747f49",
+        "date": "2026-11-22",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "away": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "ht_score": "-",
+        "venue": "光州足球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_0cfae6880fa546339f8775b37eba5533",
+        "date": "2026-11-22",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "away": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "ht_score": "-",
+        "venue": "金泉体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_f05a32106fbf463bb7e38e97ce8f7cdf",
+        "date": "2026-11-21",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "away": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "ht_score": "-",
+        "venue": "顺希竞技场公园",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_658cc6a6f2664481b09255d1c772a3d6",
+        "date": "2026-11-21",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "away": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "ht_score": "-",
+        "venue": "春川松岩体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_9682520e49bf4973b6d928effadc4ebb",
+        "date": "2026-11-21",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "away": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "ht_score": "-",
+        "venue": "Pohang Steel Yard",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_25fce90a9c764d55aa3316acc6b25670",
+        "date": "2026-11-21",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "away": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "ht_score": "-",
+        "venue": "全州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_1c0c1e1617124a20bf1feca432893728",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "away": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "ht_score": "-",
+        "venue": "春川松岩体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_22c6876287b74ea5ab5e5a827a078f35",
+        "date": "2026-11-08",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "away": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "ht_score": "-",
+        "venue": "富川体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cbd0aefbaf7144b48852154f71e8467c",
+        "date": "2026-11-08",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "away": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "ht_score": "-",
+        "venue": "首尔世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e454c1bae6b4430c8bd7105d52b52e2b",
+        "date": "2026-11-08",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "away": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "ht_score": "-",
+        "venue": "大田世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3e851de3881844fcb7335345b286917b",
+        "date": "2026-11-07",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "away": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "ht_score": "-",
+        "venue": "金泉体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3cbd75fa94cc4c16a534dc8c78e3ace6",
+        "date": "2026-11-07",
+        "time": "05:00",
+        "status": "Not Started",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "away": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "ht_score": "-",
+        "venue": "济州世界杯体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_047ef57a23334fdd8ee992e71af9f5a7",
+        "date": "2026-11-01",
+        "time": "07:30",
+        "status": "07:30",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "首尔",
+          "team_id": "ast_2c8360dc011f492e95b6f7c6d3141c9b"
+        },
+        "away": {
+          "name": "仁川",
+          "team_id": "ast_09f51549917a4128b1e352c19e44c0c6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_5116811b8f0d4912a2eb8827e38e797d",
+        "date": "2026-11-01",
+        "time": "07:30",
+        "status": "07:30",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "安阳",
+          "team_id": "ast_95f5848754104b95b58715240233b19c"
+        },
+        "away": {
+          "name": "富川FC 1995",
+          "team_id": "ast_33829b20f85b44229158f2de5d65fd77"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_2719765c14874c90a296c434f789cb7f",
+        "date": "2026-11-01",
+        "time": "05:00",
+        "status": "05:00",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "蔚山",
+          "team_id": "ast_4bc751d5ccad4c1687220f08613d6f6f"
+        },
+        "away": {
+          "name": "江原",
+          "team_id": "ast_b574ab9e4600446bac7cc5d8fe37658c"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_f842362510ae4b918f6624e63882e2f9",
+        "date": "2026-11-01",
+        "time": "05:00",
+        "status": "05:00",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "浦项",
+          "team_id": "ast_64a04e903d1d4c6482ec7a440c0aa371"
+        },
+        "away": {
+          "name": "济州联",
+          "team_id": "ast_ebbc54792eca440db9e759b29bd9235d"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_1699dc0816c74e5aa73463957d8ead56",
+        "date": "2026-10-31",
+        "time": "07:30",
+        "status": "76",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "光州FC",
+          "team_id": "ast_ad7deed94ee8405fba5a25898e084553"
+        },
+        "away": {
+          "name": "金泉尚武",
+          "team_id": "ast_4db54c3816ca43beafc377c3b091f1b9"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": ""
+      },
+      {
+        "match_id": "as_e67726f1c6e44f37adc110d5274fe5e1",
+        "date": "2026-10-31",
+        "time": "05:00",
+        "status": "FT",
+        "league": "韩国职业联赛",
+        "league_id": "asl_18a01994129d41ae880a00c3633edd2b",
+        "season": "2026",
+        "home": {
+          "name": "全北现代",
+          "team_id": "ast_d8ab6f2f3952437e8091b544fe65bf0a"
+        },
+        "away": {
+          "name": "大田",
+          "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
+      }
+    ]
   },
   "champions": [
     {
@@ -7302,13 +8489,13 @@
     }
   },
   "stats": {
-    "matches_completed": 198,
-    "total_goals": 496,
-    "avg_goals_per_match": 2.51,
+    "matches_completed": 200,
+    "total_goals": 497,
+    "avg_goals_per_match": 2.48,
     "home_wins": 63,
-    "draws": 67,
-    "away_wins": 68,
-    "home_win_pct": 31.8,
+    "draws": 68,
+    "away_wins": 69,
+    "home_win_pct": 31.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -7461,15 +8648,15 @@
             "position": 3,
             "team_id": "ast_db28a0b196d3442a9c959a6e270e8af7",
             "team": "Daejeon",
-            "played": 33,
+            "played": 34,
             "wins": 13,
-            "draws": 10,
+            "draws": 11,
             "losses": 10,
             "goals_for": 53,
             "goals_against": 41,
             "goal_difference": 12,
-            "points": 49,
-            "form": "WWWDD"
+            "points": 50,
+            "form": "DWWWD"
           }
         ],
         "meta": {
@@ -8117,8 +9304,8 @@
     "distinct_title_holders": 4,
     "teams_all_time": 22,
     "standings_rows_current": 12,
-    "matches_current_season": 198,
-    "upcoming_matches": 0
+    "matches_current_season": 228,
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/10/26"
+  "updated_at": "2026/10/31"
 }

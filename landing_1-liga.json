@@ -5205,7 +5205,7 @@
       {
         "match_id": "as_325707e9146e4064b2834b45984f526a",
         "date": "2026-11-15",
-        "time": "12:30",
+        "time": "12:00",
         "status": "Not Started",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
@@ -5225,7 +5225,7 @@
       {
         "match_id": "as_0fb781998d804234b4805b33e0c9d164",
         "date": "2026-11-14",
-        "time": "12:30",
+        "time": "12:00",
         "status": "Not Started",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
@@ -5245,7 +5245,7 @@
       {
         "match_id": "as_16cf861ba2ea47b280b393a432278369",
         "date": "2026-11-14",
-        "time": "12:30",
+        "time": "12:00",
         "status": "Not Started",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
@@ -5265,7 +5265,7 @@
       {
         "match_id": "as_4ec52adcddd54a09b147ab2beec76f91",
         "date": "2026-11-14",
-        "time": "12:30",
+        "time": "12:00",
         "status": "Not Started",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
@@ -5285,7 +5285,7 @@
       {
         "match_id": "as_b5bfaf28fcc04a89a88ba10131b94c94",
         "date": "2026-11-14",
-        "time": "12:30",
+        "time": "12:00",
         "status": "Not Started",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
@@ -5305,7 +5305,7 @@
       {
         "match_id": "as_6ce0e3fb4be44f178af182dcf7175371",
         "date": "2026-11-14",
-        "time": "12:30",
+        "time": "12:00",
         "status": "Not Started",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
@@ -5325,7 +5325,7 @@
       {
         "match_id": "as_4d6785b062604b39ad6eafd779218d8b",
         "date": "2026-11-14",
-        "time": "12:30",
+        "time": "12:00",
         "status": "Not Started",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
@@ -5337,6 +5337,26 @@
         "away": {
           "name": "内维辛耶",
           "team_id": "ast_aa639c9095a844e0b5262968bad983d8"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_48143c0474bd4ac594c781731c6cb791",
+        "date": "2026-11-11",
+        "time": "12:30",
+        "status": "Not Started",
+        "league": "波黑甲级联赛",
+        "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
+        "season": "2026/2027",
+        "home": {
+          "name": "苏特耶斯卡福卡",
+          "team_id": "ast_5f2245b76f5d438591a28b1ae224f586"
+        },
+        "away": {
+          "name": "莱奥塔尔",
+          "team_id": "ast_e540ef128b49484bb06e0a2203d54b04"
         },
         "ht_score": "-",
         "venue": "",
@@ -5666,7 +5686,7 @@
         "match_id": "as_efa9aed025034d15b7168e95433bfd09",
         "date": "2026-11-01",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
         "season": "2026/2027",
@@ -5678,15 +5698,13 @@
           "name": "Potkozarje",
           "team_id": "ast_5f5ef6109ae94df5abcad841b0af318f"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4ae5e47d53d949b7ba1b6fbc61067860",
         "date": "2026-10-31",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
         "season": "2026/2027",
@@ -5698,15 +5716,13 @@
           "name": "巴诺维奇",
           "team_id": "ast_f2071359cc9c4e10afba2fd188a2fbce"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_759e43d71b2e44c796e5fdc7ec573f93",
         "date": "2026-10-31",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "波黑甲级联赛",
         "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
         "season": "2026/2027",
@@ -5718,29 +5734,7 @@
           "name": "特拉夫尼克",
           "team_id": "ast_dbb991e266fd4f7ab26d8986afa8d820"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e6f4892c74144c7890f7d523a7408d39",
-        "date": "2026-10-31",
-        "time": "12:30",
-        "status": "Not Started",
-        "league": "波黑甲级联赛",
-        "league_id": "asl_a84d2862ef0e429cbd33e9ee44455d8a",
-        "season": "2026/2027",
-        "home": {
-          "name": "波苏耶",
-          "team_id": "ast_04828adeb6264f00b94c8812e6b47435"
-        },
-        "away": {
-          "name": "耶丁斯特沃比哈奇",
-          "team_id": "ast_69b6f46eb9944011a6eeb2a13e88c3dc"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -10012,5 +10006,5 @@
     "matches_current_season": 182,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/27"
+  "updated_at": "2026/10/31"
 }

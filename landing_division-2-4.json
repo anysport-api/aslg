@@ -1110,7 +1110,7 @@
       {
         "match_id": "as_96d3676b566f4d71aaaea8b97b64d4d0",
         "date": "2026-11-07",
-        "time": "16:00",
+        "time": "12:00",
         "status": "Not Started",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
@@ -1131,7 +1131,7 @@
         "match_id": "as_26ea0a60ecfe4704a15430b49637bf5b",
         "date": "2026-11-01",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1143,15 +1143,13 @@
           "name": "Hanvikens SK",
           "team_id": "ast_dfc9e43a0a584dfca8b30cb14a407a26"
         },
-        "ht_score": "-",
-        "venue": "Sodertalje Fotbollsarena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_74202c2dd7714d15b5a53b028f413af0",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1163,9 +1161,7 @@
           "name": "斯莱普尼尔",
           "team_id": "ast_ce7c66f0b2094ff5a1bc85d54862c50b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_833fd33948e9474bbaeca3c9f4e9e69d",
@@ -1261,7 +1257,7 @@
         "match_id": "as_e08cbb803815414a96c0276309cd06d8",
         "date": "2026-10-30",
         "time": "17:30",
-        "status": "17:30",
+        "status": "Pen.",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1273,7 +1269,11 @@
           "name": "Croatia Malmo",
           "team_id": "ast_8f904fa3c4514fbf9718458858004bbb"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "et_score": "0-0",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_77f7c1365bbc461cb230c3506c66ab8b",
@@ -24274,7 +24274,7 @@
       {
         "match_id": "as_96d3676b566f4d71aaaea8b97b64d4d0",
         "date": "2026-11-07",
-        "time": "16:00",
+        "time": "12:00",
         "status": "Not Started",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
@@ -24295,7 +24295,7 @@
         "match_id": "as_74202c2dd7714d15b5a53b028f413af0",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -24307,15 +24307,13 @@
           "name": "斯莱普尼尔",
           "team_id": "ast_ce7c66f0b2094ff5a1bc85d54862c50b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_26ea0a60ecfe4704a15430b49637bf5b",
         "date": "2026-11-01",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -24327,9 +24325,7 @@
           "name": "Hanvikens SK",
           "team_id": "ast_dfc9e43a0a584dfca8b30cb14a407a26"
         },
-        "ht_score": "-",
-        "venue": "Sodertalje Fotbollsarena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3bae0f9064e64c729da12a32b305e0ba",
@@ -24418,24 +24414,6 @@
         "away": {
           "name": "Bergnasets",
           "team_id": "ast_31e33a06ddff438489671f753f0d1a5f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e08cbb803815414a96c0276309cd06d8",
-        "date": "2026-10-30",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "瑞典乙级联赛",
-        "league_id": "asl_12cb75e859aa4779878607b681f351aa",
-        "season": "2026",
-        "home": {
-          "name": "托恩斯",
-          "team_id": "ast_cf57f5e08c4541598e6dbfeb64a6936c"
-        },
-        "away": {
-          "name": "Croatia Malmo",
-          "team_id": "ast_8f904fa3c4514fbf9718458858004bbb"
         },
         "venue": ""
       }
@@ -32253,11 +32231,11 @@
     }
   },
   "stats": {
-    "matches_completed": 1094,
+    "matches_completed": 1095,
     "total_goals": 3710,
     "avg_goals_per_match": 3.39,
     "home_wins": 487,
-    "draws": 218,
+    "draws": 219,
     "away_wins": 389,
     "home_win_pct": 44.5,
     "biggest_win": {
@@ -33019,7 +32997,7 @@
     "teams_all_time": 167,
     "standings_rows_current": 32,
     "matches_current_season": 1104,
-    "upcoming_matches": 10
+    "upcoming_matches": 9
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

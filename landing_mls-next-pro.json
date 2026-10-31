@@ -935,9 +935,9 @@
     "matches": [
       {
         "match_id": "as_c12184c11387463e830942970337c389",
-        "date": "2026-10-31",
-        "time": "21:00",
-        "status": "21:00",
+        "date": "2026-11-01",
+        "time": "22:00",
+        "status": "22:00",
         "league": "美国MLS下一代职业联赛",
         "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
         "season": "2026",
@@ -954,8 +954,8 @@
       {
         "match_id": "as_35ef848163ef4056ac3560e9019cce5a",
         "date": "2026-10-31",
-        "time": "21:00",
-        "status": "21:00",
+        "time": "02:00",
+        "status": "FT",
         "league": "美国MLS下一代职业联赛",
         "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
         "season": "2026",
@@ -967,7 +967,10 @@
           "name": "洛杉矶FC 2",
           "team_id": "ast_2dfa0b586bfe489fb226998a4d07d323"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_11385159551644d9ac9be4710cc35a51",
@@ -987,7 +990,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Parmer Filed",
         "status_label": "完场"
       },
       {
@@ -1008,7 +1011,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "普罗维登斯公园球场",
         "status_label": "完场"
       },
       {
@@ -1050,7 +1053,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Sportsplex at Matthews",
         "status_label": "完场"
       },
       {
@@ -10169,28 +10172,10 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_35ef848163ef4056ac3560e9019cce5a",
-        "date": "2026-10-31",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "美国MLS下一代职业联赛",
-        "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
-        "season": "2026",
-        "home": {
-          "name": "文图拉县",
-          "team_id": "ast_b0fc40b43d3a463fb544df492c941dec"
-        },
-        "away": {
-          "name": "洛杉矶FC 2",
-          "team_id": "ast_2dfa0b586bfe489fb226998a4d07d323"
-        },
-        "venue": ""
-      },
-      {
         "match_id": "as_c12184c11387463e830942970337c389",
-        "date": "2026-10-31",
-        "time": "21:00",
-        "status": "21:00",
+        "date": "2026-11-01",
+        "time": "22:00",
+        "status": "22:00",
         "league": "美国MLS下一代职业联赛",
         "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
         "season": "2026",
@@ -10203,6 +10188,27 @@
           "team_id": "ast_edb7dbfdaf204d10afb3b0cf9629d244"
         },
         "venue": ""
+      },
+      {
+        "match_id": "as_35ef848163ef4056ac3560e9019cce5a",
+        "date": "2026-10-31",
+        "time": "02:00",
+        "status": "FT",
+        "league": "美国MLS下一代职业联赛",
+        "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
+        "season": "2026",
+        "home": {
+          "name": "文图拉县",
+          "team_id": "ast_b0fc40b43d3a463fb544df492c941dec"
+        },
+        "away": {
+          "name": "洛杉矶FC 2",
+          "team_id": "ast_2dfa0b586bfe489fb226998a4d07d323"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -12379,13 +12385,13 @@
     }
   },
   "stats": {
-    "matches_completed": 434,
-    "total_goals": 1540,
-    "avg_goals_per_match": 3.55,
+    "matches_completed": 435,
+    "total_goals": 1541,
+    "avg_goals_per_match": 3.54,
     "home_wins": 250,
     "draws": 3,
-    "away_wins": 181,
-    "home_win_pct": 57.6,
+    "away_wins": 182,
+    "home_win_pct": 57.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13185,5 +13191,5 @@
     "matches_current_season": 436,
     "upcoming_matches": 2
   },
-  "updated_at": "2026/10/28"
+  "updated_at": "2026/10/31"
 }

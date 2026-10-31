@@ -3505,6 +3505,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_75c42f2824f241f6956d26f16627962a",
+        "date": "2026-12-15",
+        "time": "00:30",
+        "status": "Not Started",
+        "league": "阿鲁巴荣誉联赛",
+        "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿鲁巴竞技俱乐部",
+          "team_id": "ast_f645f34b3b5a4bbaa92176a182fbcda3"
+        },
+        "away": {
+          "name": "布巴利",
+          "team_id": "ast_34aea01e7a294f958b3d35a75a8b7d2b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d050a9ab016b42bda5e6276e7e9feb3d",
+        "date": "2026-12-14",
+        "time": "00:00",
+        "status": "Not Started",
+        "league": "阿鲁巴荣誉联赛",
+        "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
+        "season": "2026/2027",
+        "home": {
+          "name": "不列颠尼亚",
+          "team_id": "ast_c5d159a430bc49c89b34b447dc97d299"
+        },
+        "away": {
+          "name": "达科他",
+          "team_id": "ast_c1b4edcfc40b4708b0ab5a5fc836d4b6"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_2989c2c56ffa4606917002e6a55cf1df",
         "date": "2026-12-13",
         "time": "00:30",
@@ -4088,7 +4128,7 @@
         "match_id": "as_dce9c1d316dc4db0ab8894c5b4f988e6",
         "date": "2026-11-02",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "阿鲁巴荣誉联赛",
         "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
         "season": "2026/2027",
@@ -4100,15 +4140,13 @@
           "name": "阿鲁巴竞技俱乐部",
           "team_id": "ast_f645f34b3b5a4bbaa92176a182fbcda3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_99ce907c1dd946b39d641fd879bf37cc",
         "date": "2026-11-01",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "00:30",
         "league": "阿鲁巴荣誉联赛",
         "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
         "season": "2026/2027",
@@ -4120,15 +4158,13 @@
           "name": "体育CP",
           "team_id": "ast_997ba98566324c6da22c2109fdca805a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_294cdba8905546da889bfbf287367fb3",
         "date": "2026-10-31",
         "time": "22:30",
-        "status": "Not Started",
+        "status": "22:30",
         "league": "阿鲁巴荣誉联赛",
         "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
         "season": "2026/2027",
@@ -4140,15 +4176,13 @@
           "name": "河床",
           "team_id": "ast_18666141579349d294380193a262cf45"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ac3ddb04caec40f8a9d608fef366b8fe",
         "date": "2026-10-31",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "阿鲁巴荣誉联赛",
         "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
         "season": "2026/2027",
@@ -4160,7 +4194,10 @@
           "name": "拉法马",
           "team_id": "ast_a5b77232b93f4b9ba17836de44260d58"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7567,7 +7604,7 @@
     "teams_all_time": 21,
     "standings_rows_current": 10,
     "matches_current_season": 145,
-    "upcoming_matches": 33
+    "upcoming_matches": 35
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/10/31"
 }

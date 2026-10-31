@@ -196,6 +196,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7",
+        "team": "Sydney Utd",
+        "played": 6,
+        "wins": 0,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 14,
+        "goal_difference": -9,
+        "points": 1,
+        "form": "LLLLL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_59476f87ba924fd2af7e7c2893e61ac2",
         "team": "Broadmeadow",
         "played": 6,
@@ -235,20 +249,6 @@
         "goal_difference": -6,
         "points": 4,
         "form": "LDLLW"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7",
-        "team": "Sydney Utd",
-        "played": 6,
-        "wins": 0,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 5,
-        "goals_against": 14,
-        "goal_difference": -9,
-        "points": 1,
-        "form": "LLLLL"
       }
     ],
     "zh": [
@@ -434,6 +434,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7",
+        "team": "悉尼联",
+        "played": 6,
+        "wins": 0,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 5,
+        "goals_against": 14,
+        "goal_difference": -9,
+        "points": 1,
+        "form": "LLLLL",
+        "form_label": "负负负负负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_59476f87ba924fd2af7e7c2893e61ac2",
         "team": "布罗德梅多",
         "played": 6,
@@ -476,21 +491,6 @@
         "points": 4,
         "form": "LDLLW",
         "form_label": "负平负负胜"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7",
-        "team": "悉尼联",
-        "played": 6,
-        "wins": 0,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 5,
-        "goals_against": 14,
-        "goal_difference": -9,
-        "points": 1,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
       }
     ]
   },
@@ -2152,7 +2152,7 @@
         "match_id": "as_d5805493f1cb46f48a66e9176f302023",
         "date": "2026-11-01",
         "time": "07:00",
-        "status": "Not Started",
+        "status": "07:00",
         "league": "澳大利亚锦标赛",
         "league_id": "asl_6fb76d7f469d4c6bbdc5279d0ec79797",
         "season": "2026",
@@ -2164,15 +2164,13 @@
           "name": "Oakleigh Cannons",
           "team_id": "ast_e64b1dd5002e43a7be1425f61e982047"
         },
-        "ht_score": "-",
-        "venue": "弗兰克·德拉戈保护区",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_17e439986bd64922a3100479419d2589",
         "date": "2026-11-01",
         "time": "04:00",
-        "status": "Not Started",
+        "status": "04:00",
         "league": "澳大利亚锦标赛",
         "league_id": "asl_6fb76d7f469d4c6bbdc5279d0ec79797",
         "season": "2026",
@@ -2184,15 +2182,13 @@
           "name": "阿冯代尔FC",
           "team_id": "ast_4fc84f51fbe24f60a05f1e8e9df31bea"
         },
-        "ht_score": "-",
-        "venue": "兰伯特公园球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a364c86ecb634503a822bd8bb24e3877",
         "date": "2026-10-31",
         "time": "04:00",
-        "status": "04:00",
+        "status": "FT",
         "league": "澳大利亚锦标赛",
         "league_id": "asl_6fb76d7f469d4c6bbdc5279d0ec79797",
         "season": "2026",
@@ -2204,13 +2200,16 @@
           "name": "昆士兰狮子",
           "team_id": "ast_33bd02f3101141d480c78b7ff5a57952"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_adc9699373f34421a07c57a1002d3dc1",
         "date": "2026-10-31",
         "time": "04:00",
-        "status": "04:00",
+        "status": "FT",
         "league": "澳大利亚锦标赛",
         "league_id": "asl_6fb76d7f469d4c6bbdc5279d0ec79797",
         "season": "2026",
@@ -2222,13 +2221,16 @@
           "name": "悉尼联",
           "team_id": "ast_6a16d80d6af24c318f6e81b49fb5dad7"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_78b983d0e41e4971adb6badc6281f429",
         "date": "2026-10-31",
         "time": "04:00",
-        "status": "04:00",
+        "status": "FT",
         "league": "澳大利亚锦标赛",
         "league_id": "asl_6fb76d7f469d4c6bbdc5279d0ec79797",
         "season": "2026",
@@ -2240,43 +2242,10 @@
           "name": "普雷斯顿狮子",
           "team_id": "ast_bcb0df3fc55e41c7beaf8018e2982202"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_873fc92eaeb64963bcd338d8d8e813e2",
-        "date": "2026-10-30",
-        "time": "08:30",
-        "status": "14",
-        "league": "澳大利亚锦标赛",
-        "league_id": "asl_6fb76d7f469d4c6bbdc5279d0ec79797",
-        "season": "2026",
-        "home": {
-          "name": "悉尼奥林匹克",
-          "team_id": "ast_a95c04dde33849478d8cb1333250018c"
-        },
-        "away": {
-          "name": "马尔科尼公牛",
-          "team_id": "ast_86862125d3c841b79130fd898dca11b3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_69b5889a9d364db4baa452da08ea9293",
-        "date": "2026-10-30",
-        "time": "08:30",
-        "status": "14",
-        "league": "澳大利亚锦标赛",
-        "league_id": "asl_6fb76d7f469d4c6bbdc5279d0ec79797",
-        "season": "2026",
-        "home": {
-          "name": "布罗德梅多",
-          "team_id": "ast_59476f87ba924fd2af7e7c2893e61ac2"
-        },
-        "away": {
-          "name": "阿德莱德城",
-          "team_id": "ast_95749ccec80d4f999246f9ce8749c805"
-        },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -3413,7 +3382,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 55,
-    "upcoming_matches": 31
+    "upcoming_matches": 29
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

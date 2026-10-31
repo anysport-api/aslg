@@ -184,20 +184,34 @@
       },
       {
         "position": 4,
-        "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be",
-        "team": "Ol. Grudziadz",
-        "played": 13,
+        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
+        "team": "Sandecja Nowy S.",
+        "played": 14,
         "wins": 6,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 18,
-        "goal_difference": -1,
+        "losses": 4,
+        "goals_for": 21,
+        "goals_against": 17,
+        "goal_difference": 4,
         "points": 22,
-        "form": "WDWWL"
+        "form": "WLWDL"
       },
       {
         "position": 5,
+        "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be",
+        "team": "Ol. Grudziadz",
+        "played": 14,
+        "wins": 6,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 18,
+        "goals_against": 20,
+        "goal_difference": -2,
+        "points": 22,
+        "form": "LWDWW"
+      },
+      {
+        "position": 6,
         "team_id": "ast_f725bc52b4564d89ba21390dbe5ecb9c",
         "team": "Podhale Nowy Targ",
         "played": 13,
@@ -211,7 +225,7 @@
         "form": "DDDWL"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_a438016db7844fadb2d5ca0a925432d8",
         "team": "Zawisza",
         "played": 13,
@@ -223,20 +237,6 @@
         "goal_difference": 4,
         "points": 19,
         "form": "WLLLD"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
-        "team": "Sandecja Nowy S.",
-        "played": 13,
-        "wins": 5,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 19,
-        "goals_against": 16,
-        "goal_difference": 3,
-        "points": 19,
-        "form": "LWDLD"
       },
       {
         "position": 8,
@@ -441,21 +441,36 @@
       },
       {
         "position": 4,
-        "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be",
-        "team": "格鲁季亚兹奥林匹克",
-        "played": 13,
+        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
+        "team": "桑德恰诺维新",
+        "played": 14,
         "wins": 6,
         "draws": 4,
-        "losses": 3,
-        "goals_for": 17,
-        "goals_against": 18,
-        "goal_difference": -1,
+        "losses": 4,
+        "goals_for": 21,
+        "goals_against": 17,
+        "goal_difference": 4,
         "points": 22,
-        "form": "WDWWL",
-        "form_label": "胜平胜胜负"
+        "form": "WLWDL",
+        "form_label": "胜负胜平负"
       },
       {
         "position": 5,
+        "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be",
+        "team": "格鲁季亚兹奥林匹克",
+        "played": 14,
+        "wins": 6,
+        "draws": 4,
+        "losses": 4,
+        "goals_for": 18,
+        "goals_against": 20,
+        "goal_difference": -2,
+        "points": 22,
+        "form": "LWDWW",
+        "form_label": "负胜平胜胜"
+      },
+      {
+        "position": 6,
         "team_id": "ast_f725bc52b4564d89ba21390dbe5ecb9c",
         "team": "新塔尔格波德哈莱",
         "played": 13,
@@ -470,7 +485,7 @@
         "form_label": "平平平胜负"
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "ast_a438016db7844fadb2d5ca0a925432d8",
         "team": "扎维沙",
         "played": 13,
@@ -483,21 +498,6 @@
         "points": 19,
         "form": "WLLLD",
         "form_label": "胜负负负平"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd",
-        "team": "桑德恰诺维新",
-        "played": 13,
-        "wins": 5,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 19,
-        "goals_against": 16,
-        "goal_difference": 3,
-        "points": 19,
-        "form": "LWDLD",
-        "form_label": "负胜平负平"
       },
       {
         "position": 8,
@@ -4433,7 +4433,7 @@
         "match_id": "as_b427d01be9034cbbbbe800231366c4b4",
         "date": "2026-10-30",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -4445,7 +4445,10 @@
           "name": "格鲁季亚兹奥林匹克",
           "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cfa7ee2614da4284bd5dd08cc9b13b02",
@@ -10929,13 +10932,13 @@
     }
   },
   "stats": {
-    "matches_completed": 117,
-    "total_goals": 360,
+    "matches_completed": 118,
+    "total_goals": 363,
     "avg_goals_per_match": 3.08,
-    "home_wins": 48,
+    "home_wins": 49,
     "draws": 30,
     "away_wins": 39,
-    "home_win_pct": 41.0,
+    "home_win_pct": 41.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -11732,5 +11735,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

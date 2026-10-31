@@ -72,15 +72,15 @@
         "position": 1,
         "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
         "team": "Elfsborg W",
-        "played": 23,
+        "played": 24,
         "wins": 16,
-        "draws": 6,
+        "draws": 7,
         "losses": 1,
         "goals_for": 47,
         "goals_against": 13,
         "goal_difference": 34,
-        "points": 54,
-        "form": "WWWDW"
+        "points": 55,
+        "form": "DWWWD"
       },
       {
         "position": 2,
@@ -212,15 +212,15 @@
         "position": 11,
         "team_id": "ast_6b9020405024460aa08f0bb520fe8d7c",
         "team": "Alingsas W",
-        "played": 23,
+        "played": 24,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 11,
         "goals_for": 20,
         "goals_against": 31,
         "goal_difference": -11,
-        "points": 22,
-        "form": "LWLLD"
+        "points": 23,
+        "form": "DLWLL"
       },
       {
         "position": 12,
@@ -270,16 +270,16 @@
         "position": 1,
         "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
         "team": "埃尔夫斯堡女足",
-        "played": 23,
+        "played": 24,
         "wins": 16,
-        "draws": 6,
+        "draws": 7,
         "losses": 1,
         "goals_for": 47,
         "goals_against": 13,
         "goal_difference": 34,
-        "points": 54,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
+        "points": 55,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
       },
       {
         "position": 2,
@@ -420,16 +420,16 @@
         "position": 11,
         "team_id": "ast_6b9020405024460aa08f0bb520fe8d7c",
         "team": "阿林萨斯女足",
-        "played": 23,
+        "played": 24,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 11,
         "goals_for": 20,
         "goals_against": 31,
         "goal_difference": -11,
-        "points": 22,
-        "form": "LWLLD",
-        "form_label": "负胜负负平"
+        "points": 23,
+        "form": "DLWLL",
+        "form_label": "平负胜负负"
       },
       {
         "position": 12,
@@ -779,7 +779,7 @@
         "match_id": "as_742f30a8e27e4cad8e42613f5b75e190",
         "date": "2026-11-01",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -791,15 +791,13 @@
           "name": "Sandviken W",
           "team_id": "ast_40919db637ac4b5b974786bd9a057a7e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_24951b590f1646e6b4f0bfa46fed8c17",
         "date": "2026-11-01",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -811,9 +809,7 @@
           "name": "厄勒布鲁SK女足",
           "team_id": "ast_8542813752c74bbaa789a73d7a8288f3"
         },
-        "ht_score": "-",
-        "venue": "Umea Energi Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_28f1b0583355458796534ddbea02733a",
@@ -891,7 +887,7 @@
         "match_id": "as_5277b49b566d47ceaabebc7e9920eb28",
         "date": "2026-10-30",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -903,7 +899,10 @@
           "name": "阿林萨斯女足",
           "team_id": "ast_6b9020405024460aa08f0bb520fe8d7c"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_66c5ea15527d42c69a1d22e4e42e2b45",
@@ -4572,7 +4571,7 @@
         "match_id": "as_24951b590f1646e6b4f0bfa46fed8c17",
         "date": "2026-11-01",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4584,15 +4583,13 @@
           "name": "厄勒布鲁SK女足",
           "team_id": "ast_8542813752c74bbaa789a73d7a8288f3"
         },
-        "ht_score": "-",
-        "venue": "Umea Energi Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_742f30a8e27e4cad8e42613f5b75e190",
         "date": "2026-11-01",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -4604,9 +4601,7 @@
           "name": "Sandviken W",
           "team_id": "ast_40919db637ac4b5b974786bd9a057a7e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3990060691fc4d1099ffeffa759d8405",
@@ -4677,24 +4672,6 @@
         "away": {
           "name": "哥德堡女足",
           "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5277b49b566d47ceaabebc7e9920eb28",
-        "date": "2026-10-30",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "埃尔夫斯堡女足",
-          "team_id": "ast_2114baf6efdb406eb620b7be618821e9"
-        },
-        "away": {
-          "name": "阿林萨斯女足",
-          "team_id": "ast_6b9020405024460aa08f0bb520fe8d7c"
         },
         "venue": ""
       }
@@ -6161,13 +6138,13 @@
     }
   },
   "stats": {
-    "matches_completed": 161,
+    "matches_completed": 162,
     "total_goals": 488,
-    "avg_goals_per_match": 3.03,
+    "avg_goals_per_match": 3.01,
     "home_wins": 64,
-    "draws": 34,
+    "draws": 35,
     "away_wins": 63,
-    "home_win_pct": 39.8,
+    "home_win_pct": 39.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6194,8 +6171,8 @@
     },
     "leader": {
       "team": "Elfsborg W",
-      "points": 54,
-      "played": 23
+      "points": 55,
+      "played": 24
     }
   },
   "coverage": {
@@ -6292,15 +6269,15 @@
             "position": 1,
             "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
             "team": "Elfsborg W",
-            "played": 23,
+            "played": 24,
             "wins": 16,
-            "draws": 6,
+            "draws": 7,
             "losses": 1,
             "goals_for": 47,
             "goals_against": 13,
             "goal_difference": 34,
-            "points": 54,
-            "form": "WWWDW"
+            "points": 55,
+            "form": "DWWWD"
           },
           {
             "position": 2,
@@ -6965,7 +6942,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 21
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

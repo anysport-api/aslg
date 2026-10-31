@@ -64,6 +64,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
+        "team": "CSKA Moscow W",
+        "played": 22,
+        "wins": 19,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 59,
+        "goals_against": 12,
+        "goal_difference": 47,
+        "points": 58,
+        "form": "WWWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_58addf18a5ea4d5f9ae6e035b12b5d8a",
         "team": "Zenit W",
         "played": 21,
@@ -75,20 +89,6 @@
         "goal_difference": 47,
         "points": 56,
         "form": "WLWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
-        "team": "CSKA Moscow W",
-        "played": 21,
-        "wins": 18,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 55,
-        "goals_against": 10,
-        "goal_difference": 45,
-        "points": 55,
-        "form": "WWWWW"
       },
       {
         "position": 3,
@@ -192,15 +192,15 @@
         "position": 10,
         "team_id": "ast_684831f0945a4fcf85599611f18b7da1",
         "team": "Krasnodar W",
-        "played": 21,
+        "played": 22,
         "wins": 3,
         "draws": 8,
-        "losses": 10,
-        "goals_for": 16,
-        "goals_against": 30,
-        "goal_difference": -14,
+        "losses": 11,
+        "goals_for": 18,
+        "goals_against": 34,
+        "goal_difference": -16,
         "points": 17,
-        "form": "LWDDD"
+        "form": "LLWDD"
       },
       {
         "position": 11,
@@ -248,6 +248,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
+        "team": "莫斯科CSKA女足",
+        "played": 22,
+        "wins": 19,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 59,
+        "goals_against": 12,
+        "goal_difference": 47,
+        "points": 58,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_58addf18a5ea4d5f9ae6e035b12b5d8a",
         "team": "泽尼特女足",
         "played": 21,
@@ -260,21 +275,6 @@
         "points": 56,
         "form": "WLWWW",
         "form_label": "胜负胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
-        "team": "莫斯科CSKA女足",
-        "played": 21,
-        "wins": 18,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 55,
-        "goals_against": 10,
-        "goal_difference": 45,
-        "points": 55,
-        "form": "WWWWW",
-        "form_label": "胜胜胜胜胜"
       },
       {
         "position": 3,
@@ -385,16 +385,16 @@
         "position": 10,
         "team_id": "ast_684831f0945a4fcf85599611f18b7da1",
         "team": "克拉斯诺达尔女足",
-        "played": 21,
+        "played": 22,
         "wins": 3,
         "draws": 8,
-        "losses": 10,
-        "goals_for": 16,
-        "goals_against": 30,
-        "goal_difference": -14,
+        "losses": 11,
+        "goals_for": 18,
+        "goals_against": 34,
+        "goal_difference": -16,
         "points": 17,
-        "form": "LWDDD",
-        "form_label": "负胜平平平"
+        "form": "LLWDD",
+        "form_label": "负负胜平平"
       },
       {
         "position": 11,
@@ -721,8 +721,8 @@
       {
         "match_id": "as_63f59a8dbd624f4786a319e3bea34b49",
         "date": "2026-10-31",
-        "time": "10:00",
-        "status": "10:00",
+        "time": "15:00",
+        "status": "15:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -794,7 +794,7 @@
         "match_id": "as_23328a78b98345f2b9c6ee00d5371803",
         "date": "2026-10-30",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -806,7 +806,10 @@
           "name": "克拉斯诺达尔女足",
           "team_id": "ast_684831f0945a4fcf85599611f18b7da1"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "4-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ab10010ad31241e5a4429bd95e2ce5a3",
@@ -4005,8 +4008,8 @@
       {
         "match_id": "as_63f59a8dbd624f4786a319e3bea34b49",
         "date": "2026-10-31",
-        "time": "10:00",
-        "status": "10:00",
+        "time": "15:00",
+        "status": "15:00",
         "league": "俄罗斯最高女子联赛",
         "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
         "season": "2026",
@@ -4035,24 +4038,6 @@
         "away": {
           "name": "罗斯托夫女足",
           "team_id": "ast_66c0ef0e7b4b4866a9e7138a02d9ec2c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_23328a78b98345f2b9c6ee00d5371803",
-        "date": "2026-10-30",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "俄罗斯最高女子联赛",
-        "league_id": "asl_7a3ffc892d804569afe4fd1299f71fec",
-        "season": "2026",
-        "home": {
-          "name": "莫斯科CSKA女足",
-          "team_id": "ast_5bc45d2ea298461487db612b709fcbb1"
-        },
-        "away": {
-          "name": "克拉斯诺达尔女足",
-          "team_id": "ast_684831f0945a4fcf85599611f18b7da1"
         },
         "venue": ""
       }
@@ -4514,13 +4499,13 @@
     }
   },
   "stats": {
-    "matches_completed": 138,
-    "total_goals": 352,
-    "avg_goals_per_match": 2.55,
-    "home_wins": 57,
+    "matches_completed": 139,
+    "total_goals": 358,
+    "avg_goals_per_match": 2.58,
+    "home_wins": 58,
     "draws": 29,
     "away_wins": 52,
-    "home_win_pct": 41.3,
+    "home_win_pct": 41.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -4536,19 +4521,19 @@
     "highest_scoring_match": {
       "goals": 6,
       "match": {
-        "match_id": "as_6399c6d616204f51a98a458ba35497d2",
-        "date": "2026-09-05",
-        "home_id": "ast_b7f2a2e6aab247a28183c7c9df8b0d28",
-        "home": "兹维兹达2005女足",
-        "away_id": "ast_5bc45d2ea298461487db612b709fcbb1",
-        "away": "莫斯科CSKA女足",
-        "score": "0-6"
+        "match_id": "as_23328a78b98345f2b9c6ee00d5371803",
+        "date": "2026-10-30",
+        "home_id": "ast_5bc45d2ea298461487db612b709fcbb1",
+        "home": "莫斯科CSKA女足",
+        "away_id": "ast_684831f0945a4fcf85599611f18b7da1",
+        "away": "克拉斯诺达尔女足",
+        "score": "4-2"
       }
     },
     "leader": {
-      "team": "Zenit W",
-      "points": 56,
-      "played": 21
+      "team": "CSKA Moscow W",
+      "points": 58,
+      "played": 22
     }
   },
   "coverage": {
@@ -4643,6 +4628,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
+            "team": "CSKA Moscow W",
+            "played": 22,
+            "wins": 19,
+            "draws": 1,
+            "losses": 2,
+            "goals_for": 59,
+            "goals_against": 12,
+            "goal_difference": 47,
+            "points": 58,
+            "form": "WWWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_58addf18a5ea4d5f9ae6e035b12b5d8a",
             "team": "Zenit W",
             "played": 21,
@@ -4654,20 +4653,6 @@
             "goal_difference": 47,
             "points": 56,
             "form": "WLWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_5bc45d2ea298461487db612b709fcbb1",
-            "team": "CSKA Moscow W",
-            "played": 21,
-            "wins": 18,
-            "draws": 1,
-            "losses": 2,
-            "goals_for": 55,
-            "goals_against": 10,
-            "goal_difference": 45,
-            "points": 55,
-            "form": "WWWWW"
           },
           {
             "position": 3,
@@ -5318,7 +5303,7 @@
     "teams_all_time": 13,
     "standings_rows_current": 13,
     "matches_current_season": 156,
-    "upcoming_matches": 18
+    "upcoming_matches": 17
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

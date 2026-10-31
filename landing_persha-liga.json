@@ -166,6 +166,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
+        "team": "Ahrobiznes Volochysk",
+        "played": 13,
+        "wins": 8,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 22,
+        "goals_against": 14,
+        "goal_difference": 8,
+        "points": 26,
+        "form": "WWWWD"
+      },
+      {
+        "position": 2,
         "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
         "team": "Viktoria",
         "played": 13,
@@ -179,7 +193,7 @@
         "form": "DWDWD"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
         "team": "SC Poltava",
         "played": 13,
@@ -193,7 +207,7 @@
         "form": "WWLWL"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
         "team": "Fenix Mariupol",
         "played": 13,
@@ -205,20 +219,6 @@
         "goal_difference": 7,
         "points": 24,
         "form": "WWWDD"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
-        "team": "Ahrobiznes Volochysk",
-        "played": 12,
-        "wins": 7,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 19,
-        "goals_against": 14,
-        "goal_difference": 5,
-        "points": 23,
-        "form": "WWWDW"
       },
       {
         "position": 5,
@@ -294,15 +294,15 @@
         "position": 10,
         "team_id": "ast_d438a936f87b46cd85b5c05822ea234b",
         "team": "Prykarpattya",
-        "played": 13,
+        "played": 14,
         "wins": 4,
         "draws": 4,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 13,
-        "goals_against": 15,
-        "goal_difference": -2,
+        "goals_against": 18,
+        "goal_difference": -5,
         "points": 16,
-        "form": "DLLDL"
+        "form": "LDLLD"
       },
       {
         "position": 11,
@@ -392,6 +392,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
+        "team": "阿赫罗比兹涅斯沃洛奇斯克",
+        "played": 13,
+        "wins": 8,
+        "draws": 2,
+        "losses": 3,
+        "goals_for": 22,
+        "goals_against": 14,
+        "goal_difference": 8,
+        "points": 26,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
+      },
+      {
+        "position": 2,
         "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
         "team": "维克托利亚",
         "played": 13,
@@ -406,7 +421,7 @@
         "form_label": "平胜平胜平"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
         "team": "波尔塔瓦",
         "played": 13,
@@ -421,7 +436,7 @@
         "form_label": "胜胜负胜负"
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
         "team": "马里乌波尔费尼克斯",
         "played": 13,
@@ -434,21 +449,6 @@
         "points": 24,
         "form": "WWWDD",
         "form_label": "胜胜胜平平"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
-        "team": "阿赫罗比兹涅斯沃洛奇斯克",
-        "played": 12,
-        "wins": 7,
-        "draws": 2,
-        "losses": 3,
-        "goals_for": 19,
-        "goals_against": 14,
-        "goal_difference": 5,
-        "points": 23,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
       },
       {
         "position": 5,
@@ -529,16 +529,16 @@
         "position": 10,
         "team_id": "ast_d438a936f87b46cd85b5c05822ea234b",
         "team": "普里卡尔帕提亚",
-        "played": 13,
+        "played": 14,
         "wins": 4,
         "draws": 4,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 13,
-        "goals_against": 15,
-        "goal_difference": -2,
+        "goals_against": 18,
+        "goal_difference": -5,
         "points": 16,
-        "form": "DLLDL",
-        "form_label": "平负负平负"
+        "form": "LDLLD",
+        "form_label": "负平负负平"
       },
       {
         "position": 11,
@@ -3066,7 +3066,7 @@
           "team_id": "ast_13de837e325f45418b99e2a24bd815a2"
         },
         "ht_score": "-",
-        "venue": "Chernihiv Stadium",
+        "venue": "Chernihiv Arena",
         "status_label": "未开赛"
       },
       {
@@ -3273,7 +3273,7 @@
         "match_id": "as_654ef87d260c4c4894f52cc06e08bb5a",
         "date": "2026-11-01",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "09:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3285,15 +3285,13 @@
           "name": "切尔尼戈夫",
           "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f"
         },
-        "ht_score": "-",
-        "venue": "Kolos Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_58f64fb7ded94a7eb9220da04899a7c5",
         "date": "2026-11-01",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3305,15 +3303,13 @@
           "name": "UCSA",
           "team_id": "ast_dcf38a9aa8ec4d808521702edf4e920b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5143de083c8846f3bad795d75c7ce62d",
         "date": "2026-11-01",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3325,9 +3321,7 @@
           "name": "尼瓦特尔诺皮尔",
           "team_id": "ast_850ad0b585934038bb65b9a8a9136660"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e171f348f73b4ebf85f623c18f9fdb67",
@@ -3369,7 +3363,7 @@
         "match_id": "as_ca5a3656736c416ca6033d1735147683",
         "date": "2026-10-30",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -3381,7 +3375,10 @@
           "name": "普里卡尔帕提亚",
           "team_id": "ast_d438a936f87b46cd85b5c05822ea234b"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d82034e4e6cc4d149f0c114c0b43fde2",
@@ -6043,7 +6040,7 @@
           "team_id": "ast_13de837e325f45418b99e2a24bd815a2"
         },
         "ht_score": "-",
-        "venue": "Chernihiv Stadium",
+        "venue": "Chernihiv Arena",
         "status_label": "未开赛"
       },
       {
@@ -6250,7 +6247,7 @@
         "match_id": "as_5143de083c8846f3bad795d75c7ce62d",
         "date": "2026-11-01",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6262,15 +6259,13 @@
           "name": "尼瓦特尔诺皮尔",
           "team_id": "ast_850ad0b585934038bb65b9a8a9136660"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_58f64fb7ded94a7eb9220da04899a7c5",
         "date": "2026-11-01",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6282,15 +6277,13 @@
           "name": "UCSA",
           "team_id": "ast_dcf38a9aa8ec4d808521702edf4e920b"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_654ef87d260c4c4894f52cc06e08bb5a",
         "date": "2026-11-01",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "09:00",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -6302,9 +6295,7 @@
           "name": "切尔尼戈夫",
           "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f"
         },
-        "ht_score": "-",
-        "venue": "Kolos Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_75973cd0a3544b79a25419d97d999dcc",
@@ -6339,24 +6330,6 @@
         "away": {
           "name": "因胡列茨",
           "team_id": "ast_13de837e325f45418b99e2a24bd815a2"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ca5a3656736c416ca6033d1735147683",
-        "date": "2026-10-30",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "乌克兰甲级联赛",
-        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿赫罗比兹涅斯沃洛奇斯克",
-          "team_id": "ast_edaca8e52e8d4243871a93a209e69834"
-        },
-        "away": {
-          "name": "普里卡尔帕提亚",
-          "team_id": "ast_d438a936f87b46cd85b5c05822ea234b"
         },
         "venue": ""
       }
@@ -8902,13 +8875,13 @@
     }
   },
   "stats": {
-    "matches_completed": 102,
-    "total_goals": 268,
+    "matches_completed": 103,
+    "total_goals": 271,
     "avg_goals_per_match": 2.63,
-    "home_wins": 46,
+    "home_wins": 47,
     "draws": 29,
     "away_wins": 27,
-    "home_win_pct": 45.1,
+    "home_win_pct": 45.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8934,8 +8907,8 @@
       }
     },
     "leader": {
-      "team": "Viktoria",
-      "points": 25,
+      "team": "Ahrobiznes Volochysk",
+      "points": 26,
       "played": 13
     }
   },
@@ -9031,6 +9004,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_edaca8e52e8d4243871a93a209e69834",
+            "team": "Ahrobiznes Volochysk",
+            "played": 13,
+            "wins": 8,
+            "draws": 2,
+            "losses": 3,
+            "goals_for": 22,
+            "goals_against": 14,
+            "goal_difference": 8,
+            "points": 26,
+            "form": "WWWWD"
+          },
+          {
+            "position": 2,
             "team_id": "ast_4a4b0b2aefdf483780dec2eda756d64d",
             "team": "Viktoria",
             "played": 13,
@@ -9044,7 +9031,7 @@
             "form": "DWDWD"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_16fddf7c243247b0bd5879de1d1409a3",
             "team": "SC Poltava",
             "played": 13,
@@ -9056,20 +9043,6 @@
             "goal_difference": 13,
             "points": 24,
             "form": "WWLWL"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_d49d6520ebde4bc0862273a4c6634364",
-            "team": "Fenix Mariupol",
-            "played": 13,
-            "wins": 7,
-            "draws": 3,
-            "losses": 3,
-            "goals_for": 20,
-            "goals_against": 13,
-            "goal_difference": 7,
-            "points": 24,
-            "form": "WWWDD"
           }
         ],
         "meta": {
@@ -9727,7 +9700,7 @@
     "teams_all_time": 54,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 41
+    "upcoming_matches": 40
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

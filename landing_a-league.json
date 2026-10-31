@@ -6353,6 +6353,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_d3f1b9d27bf14754ad54c6b04cfec061",
+        "date": "2026-12-15",
+        "time": "08:30",
+        "status": "Not Started",
+        "league": "澳大利亚甲级联赛",
+        "league_id": "asl_306da156cfed4bca82d286a5407505b2",
+        "season": "2026/2027",
+        "home": {
+          "name": "阿德莱德联",
+          "team_id": "ast_7a21919f88bf460ba9c7582617e2d904"
+        },
+        "away": {
+          "name": "布里斯班狮吼",
+          "team_id": "ast_fd2b577acf3449918fb0acb00981e6ce"
+        },
+        "ht_score": "-",
+        "venue": "库珀斯体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_50334701724f4ee599b9328b05cbedca",
         "date": "2026-12-13",
         "time": "06:00",
@@ -6796,7 +6816,7 @@
         "match_id": "as_9bf2754fc765401590676da47d476676",
         "date": "2026-11-01",
         "time": "08:00",
-        "status": "Not Started",
+        "status": "08:00",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -6808,15 +6828,13 @@
           "name": "阿德莱德联",
           "team_id": "ast_7a21919f88bf460ba9c7582617e2d904"
         },
-        "ht_score": "-",
-        "venue": "HBF公园",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bd76c06e1d704258b8fd2af1206cae75",
         "date": "2026-11-01",
         "time": "04:00",
-        "status": "Not Started",
+        "status": "04:00",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -6828,15 +6846,13 @@
           "name": "中央海岸水手",
           "team_id": "ast_4c7aa7a009a043f6b8afc884b6e777ab"
         },
-        "ht_score": "-",
-        "venue": "AAMI公园球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fccb33c5c54b4a518dfc4c96b9e5a8d4",
         "date": "2026-10-31",
         "time": "08:40",
-        "status": "08:40",
+        "status": "50",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -6848,13 +6864,15 @@
           "name": "WS流浪者",
           "team_id": "ast_7826e60ee53d4d988c740780f907c9c1"
         },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
         "venue": ""
       },
       {
         "match_id": "as_e0b639fa5b024af2b5e4bedd1f8fcdb3",
         "date": "2026-10-31",
         "time": "06:00",
-        "status": "06:00",
+        "status": "FT",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -6866,13 +6884,16 @@
           "name": "悉尼FC",
           "team_id": "ast_dd8e4acdcdc244ce8169c9fdf8b088e0"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_972df0978fb74343a872a51fdbccd59f",
         "date": "2026-10-31",
         "time": "04:00",
-        "status": "04:00",
+        "status": "FT",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -6884,25 +6905,10 @@
           "name": "惠灵顿凤凰",
           "team_id": "ast_777fe8c0fcfb4fd4982e88eee9cef025"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c90f9ef51ad54d37bf1d0e96cff499c6",
-        "date": "2026-10-30",
-        "time": "09:00",
-        "status": "09:00",
-        "league": "澳大利亚甲级联赛",
-        "league_id": "asl_306da156cfed4bca82d286a5407505b2",
-        "season": "2026/2027",
-        "home": {
-          "name": "布里斯班狮吼",
-          "team_id": "ast_fd2b577acf3449918fb0acb00981e6ce"
-        },
-        "away": {
-          "name": "奥克兰FC",
-          "team_id": "ast_0ec944ae64a84087a031adf978a95323"
-        },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -11501,5 +11507,5 @@
     "matches_current_season": 163,
     "upcoming_matches": 28
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

@@ -356,6 +356,20 @@
       },
       {
         "position": 12,
+        "team_id": "ast_cb43279d453a437eb27a35efe7810c4e",
+        "team": "Arsenal Dzerzhinsk",
+        "played": 27,
+        "wins": 6,
+        "draws": 9,
+        "losses": 12,
+        "goals_for": 25,
+        "goals_against": 44,
+        "goal_difference": -19,
+        "points": 27,
+        "form": "WDLLL"
+      },
+      {
+        "position": 13,
         "team_id": "ast_0adfb3c7cd4144e5bad21c25c056cf47",
         "team": "Belshina",
         "played": 26,
@@ -369,32 +383,18 @@
         "form": "LWLLW"
       },
       {
-        "position": 13,
-        "team_id": "ast_cb43279d453a437eb27a35efe7810c4e",
-        "team": "Arsenal Dzerzhinsk",
-        "played": 26,
-        "wins": 5,
-        "draws": 9,
-        "losses": 12,
-        "goals_for": 24,
-        "goals_against": 44,
-        "goal_difference": -20,
-        "points": 24,
-        "form": "DLLLD"
-      },
-      {
         "position": 14,
         "team_id": "ast_e83eb124814d4415a5033aaf657b95ef",
         "team": "BATE",
-        "played": 26,
+        "played": 27,
         "wins": 4,
         "draws": 9,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 19,
-        "goals_against": 33,
-        "goal_difference": -14,
+        "goals_against": 34,
+        "goal_difference": -15,
         "points": 21,
-        "form": "LLLWL"
+        "form": "LLLLW"
       },
       {
         "position": 15,
@@ -593,6 +593,21 @@
       },
       {
         "position": 12,
+        "team_id": "ast_cb43279d453a437eb27a35efe7810c4e",
+        "team": "阿森纳季尔任斯克",
+        "played": 27,
+        "wins": 6,
+        "draws": 9,
+        "losses": 12,
+        "goals_for": 25,
+        "goals_against": 44,
+        "goal_difference": -19,
+        "points": 27,
+        "form": "WDLLL",
+        "form_label": "胜平负负负"
+      },
+      {
+        "position": 13,
         "team_id": "ast_0adfb3c7cd4144e5bad21c25c056cf47",
         "team": "贝尔希纳",
         "played": 26,
@@ -607,34 +622,19 @@
         "form_label": "负胜负负胜"
       },
       {
-        "position": 13,
-        "team_id": "ast_cb43279d453a437eb27a35efe7810c4e",
-        "team": "阿森纳季尔任斯克",
-        "played": 26,
-        "wins": 5,
-        "draws": 9,
-        "losses": 12,
-        "goals_for": 24,
-        "goals_against": 44,
-        "goal_difference": -20,
-        "points": 24,
-        "form": "DLLLD",
-        "form_label": "平负负负平"
-      },
-      {
         "position": 14,
         "team_id": "ast_e83eb124814d4415a5033aaf657b95ef",
         "team": "巴特",
-        "played": 26,
+        "played": 27,
         "wins": 4,
         "draws": 9,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 19,
-        "goals_against": 33,
-        "goal_difference": -14,
+        "goals_against": 34,
+        "goal_difference": -15,
         "points": 21,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
+        "form": "LLLLW",
+        "form_label": "负负负负胜"
       },
       {
         "position": 15,
@@ -1169,7 +1169,7 @@
         "match_id": "as_a44665518c6f4d518a6ffa29ba132b56",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -1181,15 +1181,13 @@
           "name": "涅曼",
           "team_id": "ast_711afb5244134c6992b8124ba3c7453c"
         },
-        "ht_score": "-",
-        "venue": "迪纳摩体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e433374158044a6ea4a0971fe9b02994",
         "date": "2026-11-01",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -1201,15 +1199,13 @@
           "name": "斯拉维亚莫济尔",
           "team_id": "ast_c17e3dbbfa2240bca333e18c95c81177"
         },
-        "ht_score": "-",
-        "venue": "SOK奥林匹克体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0eec34f77d084b4bbbf0ec381fb55a03",
         "date": "2026-11-01",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -1221,15 +1217,13 @@
           "name": "明斯克足球俱乐部",
           "team_id": "ast_5eea4061d4974f2fbc0a8d15188a0901"
         },
-        "ht_score": "-",
-        "venue": "Vitebsk CSK",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_739d0f1162424cb68697faa9a5e79e45",
         "date": "2026-11-01",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -1241,9 +1235,7 @@
           "name": "贝尔希纳",
           "team_id": "ast_0adfb3c7cd4144e5bad21c25c056cf47"
         },
-        "ht_score": "-",
-        "venue": "鱼雷体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_79494c2c9c2d4e9ba6f67c6c1c9dc1a1",
@@ -1303,7 +1295,7 @@
         "match_id": "as_ef29ad06653d48e4b72fde4b40e9f1af",
         "date": "2026-10-30",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -1315,7 +1307,10 @@
           "name": "巴特",
           "team_id": "ast_e83eb124814d4415a5033aaf657b95ef"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1dd68b642d074a169ca2a3eb6276f0db",
@@ -1335,7 +1330,7 @@
         },
         "ht_score": "1-2",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "Spartak Stadium",
         "status_label": "完场"
       },
       {
@@ -1356,7 +1351,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "SOK奥林匹克体育场",
         "status_label": "完场"
       },
       {
@@ -6171,7 +6166,7 @@
         "match_id": "as_739d0f1162424cb68697faa9a5e79e45",
         "date": "2026-11-01",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -6183,15 +6178,13 @@
           "name": "贝尔希纳",
           "team_id": "ast_0adfb3c7cd4144e5bad21c25c056cf47"
         },
-        "ht_score": "-",
-        "venue": "鱼雷体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0eec34f77d084b4bbbf0ec381fb55a03",
         "date": "2026-11-01",
         "time": "16:00",
-        "status": "Not Started",
+        "status": "16:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -6203,15 +6196,13 @@
           "name": "明斯克足球俱乐部",
           "team_id": "ast_5eea4061d4974f2fbc0a8d15188a0901"
         },
-        "ht_score": "-",
-        "venue": "Vitebsk CSK",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e433374158044a6ea4a0971fe9b02994",
         "date": "2026-11-01",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -6223,15 +6214,13 @@
           "name": "斯拉维亚莫济尔",
           "team_id": "ast_c17e3dbbfa2240bca333e18c95c81177"
         },
-        "ht_score": "-",
-        "venue": "SOK奥林匹克体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a44665518c6f4d518a6ffa29ba132b56",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -6243,9 +6232,7 @@
           "name": "涅曼",
           "team_id": "ast_711afb5244134c6992b8124ba3c7453c"
         },
-        "ht_score": "-",
-        "venue": "迪纳摩体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4171abd0b18048f789864e449ba286d5",
@@ -6298,24 +6285,6 @@
         "away": {
           "name": "纳夫坦",
           "team_id": "ast_4c5b799f427e42e6bee8c2f23ea08598"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ef29ad06653d48e4b72fde4b40e9f1af",
-        "date": "2026-10-30",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "白俄罗斯超级联赛",
-        "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
-        "season": "2026",
-        "home": {
-          "name": "阿森纳季尔任斯克",
-          "team_id": "ast_cb43279d453a437eb27a35efe7810c4e"
-        },
-        "away": {
-          "name": "巴特",
-          "team_id": "ast_e83eb124814d4415a5033aaf657b95ef"
         },
         "venue": ""
       }
@@ -10477,13 +10446,13 @@
     }
   },
   "stats": {
-    "matches_completed": 208,
-    "total_goals": 537,
-    "avg_goals_per_match": 2.58,
-    "home_wins": 81,
+    "matches_completed": 209,
+    "total_goals": 538,
+    "avg_goals_per_match": 2.57,
+    "home_wins": 82,
     "draws": 53,
     "away_wins": 74,
-    "home_win_pct": 38.9,
+    "home_win_pct": 39.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -11279,7 +11248,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 32
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

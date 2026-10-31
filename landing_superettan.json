@@ -276,6 +276,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885",
+        "team": "Oddevold",
+        "played": 29,
+        "wins": 12,
+        "draws": 9,
+        "losses": 8,
+        "goals_for": 50,
+        "goals_against": 38,
+        "goal_difference": 12,
+        "points": 45,
+        "form": "WWLWL"
+      },
+      {
+        "position": 6,
         "team_id": "ast_7501e1861481431f843fafbd5a364844",
         "team": "Landskrona",
         "played": 28,
@@ -287,20 +301,6 @@
         "goal_difference": 13,
         "points": 44,
         "form": "DLWWW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885",
-        "team": "Oddevold",
-        "played": 28,
-        "wins": 11,
-        "draws": 9,
-        "losses": 8,
-        "goals_for": 48,
-        "goals_against": 37,
-        "goal_difference": 11,
-        "points": 42,
-        "form": "WLWLD"
       },
       {
         "position": 7,
@@ -418,15 +418,15 @@
         "position": 15,
         "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0",
         "team": "Brage",
-        "played": 28,
+        "played": 29,
         "wins": 6,
         "draws": 8,
-        "losses": 14,
-        "goals_for": 45,
-        "goals_against": 55,
-        "goal_difference": -10,
+        "losses": 15,
+        "goals_for": 46,
+        "goals_against": 57,
+        "goal_difference": -11,
         "points": 26,
-        "form": "LLWLD"
+        "form": "LLLWL"
       },
       {
         "position": 16,
@@ -506,6 +506,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885",
+        "team": "奥德沃尔德",
+        "played": 29,
+        "wins": 12,
+        "draws": 9,
+        "losses": 8,
+        "goals_for": 50,
+        "goals_against": 38,
+        "goal_difference": 12,
+        "points": 45,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
+      },
+      {
+        "position": 6,
         "team_id": "ast_7501e1861481431f843fafbd5a364844",
         "team": "兰斯克罗纳",
         "played": 28,
@@ -518,21 +533,6 @@
         "points": 44,
         "form": "DLWWW",
         "form_label": "平负胜胜胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885",
-        "team": "奥德沃尔德",
-        "played": 28,
-        "wins": 11,
-        "draws": 9,
-        "losses": 8,
-        "goals_for": 48,
-        "goals_against": 37,
-        "goal_difference": 11,
-        "points": 42,
-        "form": "WLWLD",
-        "form_label": "胜负胜负平"
       },
       {
         "position": 7,
@@ -658,16 +658,16 @@
         "position": 15,
         "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0",
         "team": "布拉热",
-        "played": 28,
+        "played": 29,
         "wins": 6,
         "draws": 8,
-        "losses": 14,
-        "goals_for": 45,
-        "goals_against": 55,
-        "goal_difference": -10,
+        "losses": 15,
+        "goals_for": 46,
+        "goals_against": 57,
+        "goal_difference": -11,
         "points": 26,
-        "form": "LLWLD",
-        "form_label": "负负胜负平"
+        "form": "LLLWL",
+        "form_label": "负负负胜负"
       },
       {
         "position": 16,
@@ -3297,7 +3297,7 @@
         "match_id": "as_925d2e98686248ea80c3114a577b5463",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3309,9 +3309,7 @@
           "name": "柳恩斯基莱",
           "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f"
         },
-        "ht_score": "-",
-        "venue": "Paskbergsvallen",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a833bcc92bd748d0a1b56ea9a359774c",
@@ -3389,7 +3387,7 @@
         "match_id": "as_7d609346f72648bb8a8306f35f8e84b6",
         "date": "2026-10-30",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3401,7 +3399,10 @@
           "name": "布拉热",
           "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cdbb4f8460f543afbf6d4f1cd1976515",
@@ -8313,7 +8314,7 @@
         "match_id": "as_925d2e98686248ea80c3114a577b5463",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -8325,9 +8326,7 @@
           "name": "柳恩斯基莱",
           "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f"
         },
-        "ht_score": "-",
-        "venue": "Paskbergsvallen",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_91c7df63e73b4759a6e5c525d8c8fa4d",
@@ -8398,24 +8397,6 @@
         "away": {
           "name": "桑德维肯",
           "team_id": "ast_d0e6bc395c2342e8b6e8dcb700ca2008"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_7d609346f72648bb8a8306f35f8e84b6",
-        "date": "2026-10-30",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "奥德沃尔德",
-          "team_id": "ast_52f8fb76a6a741f8a4efeeec19a9e885"
-        },
-        "away": {
-          "name": "布拉热",
-          "team_id": "ast_c8f94610bdf74769bc1826da78fc8aa0"
         },
         "venue": ""
       }
@@ -14111,13 +14092,13 @@
     }
   },
   "stats": {
-    "matches_completed": 224,
-    "total_goals": 654,
+    "matches_completed": 225,
+    "total_goals": 657,
     "avg_goals_per_match": 2.92,
-    "home_wins": 90,
+    "home_wins": 91,
     "draws": 61,
     "away_wins": 73,
-    "home_win_pct": 40.2,
+    "home_win_pct": 40.4,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14943,7 +14924,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }

@@ -580,7 +580,7 @@
         "match_id": "as_819f1d27bdc1444992538b407e90a7a4",
         "date": "2026-11-02",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -592,9 +592,7 @@
           "name": "那不勒斯足球俱乐部",
           "team_id": "ast_4a0a75cd92ce4527876a94091b4680a6"
         },
-        "ht_score": "-",
-        "venue": "美国退伍军人纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_92e1bf19c0614031bee6abc34054ffae",
@@ -620,7 +618,7 @@
         "match_id": "as_53544935561f4e7c85ac81f4e3d2ea7a",
         "date": "2026-10-30",
         "time": "23:00",
-        "status": "23:00",
+        "status": "Pen.",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -632,13 +630,18 @@
           "name": "查塔努加红狼",
           "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "et_score": "0-0",
+        "penalty_score": "4-5",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_e9bf2f7ae6d74fbba22e700b52968978",
         "date": "2026-10-30",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -650,7 +653,10 @@
           "name": "斯波坎速度",
           "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_12763b3d047f405daa13b1b72e96835e",
@@ -6390,7 +6396,7 @@
         "match_id": "as_819f1d27bdc1444992538b407e90a7a4",
         "date": "2026-11-02",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6401,44 +6407,6 @@
         "away": {
           "name": "那不勒斯足球俱乐部",
           "team_id": "ast_4a0a75cd92ce4527876a94091b4680a6"
-        },
-        "ht_score": "-",
-        "venue": "美国退伍军人纪念体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e9bf2f7ae6d74fbba22e700b52968978",
-        "date": "2026-10-30",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "美国USL联赛一",
-        "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
-        "season": "2026",
-        "home": {
-          "name": "前进者麦迪逊",
-          "team_id": "ast_6774604e4b73463dbebed99d677d8059"
-        },
-        "away": {
-          "name": "斯波坎速度",
-          "team_id": "ast_0ceb646c96fd470592b41d90f58f8087"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_53544935561f4e7c85ac81f4e3d2ea7a",
-        "date": "2026-10-30",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "美国USL联赛一",
-        "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
-        "season": "2026",
-        "home": {
-          "name": "奥马哈联合",
-          "team_id": "ast_fe728db455894a5dae22d922091f3e84"
-        },
-        "away": {
-          "name": "查塔努加红狼",
-          "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0"
         },
         "venue": ""
       }
@@ -7388,11 +7356,11 @@
     }
   },
   "stats": {
-    "matches_completed": 272,
-    "total_goals": 814,
+    "matches_completed": 274,
+    "total_goals": 819,
     "avg_goals_per_match": 2.99,
-    "home_wins": 137,
-    "draws": 60,
+    "home_wins": 138,
+    "draws": 61,
     "away_wins": 75,
     "home_win_pct": 50.4,
     "biggest_win": {
@@ -8191,7 +8159,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 17,
     "matches_current_season": 276,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/10/30"
+  "updated_at": "2026/10/31"
 }
