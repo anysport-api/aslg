@@ -609,7 +609,7 @@
         "match_id": "as_49dc6d40adfc416985fe27ffb85f442d",
         "date": "2026-11-02",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -621,9 +621,7 @@
           "name": "贾伊逊",
           "team_id": "ast_219d25d9b43741fc91d83aba98830594"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e1d2f9b06d0f4ea7b92b0f97992c416c",
@@ -647,7 +645,7 @@
         "match_id": "as_3154cc59ad1a4f50a9e01f92bc2de238",
         "date": "2026-11-01",
         "time": "09:00",
-        "status": "09:00",
+        "status": "63",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -659,6 +657,8 @@
           "name": "雅伊潘",
           "team_id": "ast_2c517dfb0a664f87aee0a84ef124f921"
         },
+        "ht_score": "1-0",
+        "reg_score": "1-0",
         "venue": ""
       },
       {
@@ -4348,6 +4348,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_9d020ae29ee143448f5d22238c190a92",
+        "date": "2026-11-07",
+        "time": "14:00",
+        "status": "Awarded",
+        "league": "乌兹别克斯坦职业联赛",
+        "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
+        "home": {
+          "name": "特尔杜",
+          "team_id": "ast_12351e6fc36e413e95ac33b373e33b0d"
+        },
+        "away": {
+          "name": "法尔杜",
+          "team_id": "ast_3d7aa01f06a64905bf50dc058b5a4501"
+        },
+        "ht_score": "-",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "判定胜负"
+      },
+      {
         "match_id": "as_e97bafbe6a9746d69f30c9aca21b2b73",
         "date": "2026-11-03",
         "time": "09:30",
@@ -4391,7 +4411,7 @@
         "match_id": "as_49dc6d40adfc416985fe27ffb85f442d",
         "date": "2026-11-02",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4403,9 +4423,7 @@
           "name": "贾伊逊",
           "team_id": "ast_219d25d9b43741fc91d83aba98830594"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6360c7ba4b13482da7ce65b568cbc8a5",
@@ -4447,7 +4465,7 @@
         "match_id": "as_3154cc59ad1a4f50a9e01f92bc2de238",
         "date": "2026-11-01",
         "time": "09:00",
-        "status": "09:00",
+        "status": "63",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4459,6 +4477,8 @@
           "name": "雅伊潘",
           "team_id": "ast_2c517dfb0a664f87aee0a84ef124f921"
         },
+        "ht_score": "1-0",
+        "reg_score": "1-0",
         "venue": ""
       },
       {
@@ -4864,13 +4884,13 @@
     }
   },
   "stats": {
-    "matches_completed": 168,
-    "total_goals": 492,
-    "avg_goals_per_match": 2.93,
-    "home_wins": 70,
+    "matches_completed": 169,
+    "total_goals": 493,
+    "avg_goals_per_match": 2.92,
+    "home_wins": 71,
     "draws": 30,
     "away_wins": 68,
-    "home_win_pct": 41.7,
+    "home_win_pct": 42.0,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -5667,7 +5687,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 14,
     "matches_current_season": 180,
-    "upcoming_matches": 13
+    "upcoming_matches": 14
   },
-  "updated_at": "2026/10/31"
+  "updated_at": "2026/11/01"
 }

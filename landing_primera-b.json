@@ -232,29 +232,29 @@
         "position": 12,
         "team_id": "ast_73cb9e1601124d769ec76604c83f0335",
         "team": "Deportes Temuco",
-        "played": 29,
+        "played": 30,
         "wins": 9,
         "draws": 9,
-        "losses": 11,
-        "goals_for": 45,
-        "goals_against": 41,
-        "goal_difference": 4,
+        "losses": 12,
+        "goals_for": 46,
+        "goals_against": 45,
+        "goal_difference": 1,
         "points": 36,
-        "form": "LDWLD"
+        "form": "LLDWL"
       },
       {
         "position": 13,
         "team_id": "ast_52d6f5ae5f76402195ac8eb0e1a1610b",
         "team": "Curico Unido",
-        "played": 29,
-        "wins": 7,
+        "played": 30,
+        "wins": 8,
         "draws": 10,
         "losses": 12,
-        "goals_for": 26,
-        "goals_against": 46,
-        "goal_difference": -20,
-        "points": 28,
-        "form": "LDWLL"
+        "goals_for": 30,
+        "goals_against": 47,
+        "goal_difference": -17,
+        "points": 31,
+        "form": "WLDWL"
       },
       {
         "position": 14,
@@ -469,31 +469,31 @@
         "position": 12,
         "team_id": "ast_73cb9e1601124d769ec76604c83f0335",
         "team": "特木科体育",
-        "played": 29,
+        "played": 30,
         "wins": 9,
         "draws": 9,
-        "losses": 11,
-        "goals_for": 45,
-        "goals_against": 41,
-        "goal_difference": 4,
+        "losses": 12,
+        "goals_for": 46,
+        "goals_against": 45,
+        "goal_difference": 1,
         "points": 36,
-        "form": "LDWLD",
-        "form_label": "负平胜负平"
+        "form": "LLDWL",
+        "form_label": "负负平胜负"
       },
       {
         "position": 13,
         "team_id": "ast_52d6f5ae5f76402195ac8eb0e1a1610b",
         "team": "库里科联合",
-        "played": 29,
-        "wins": 7,
+        "played": 30,
+        "wins": 8,
         "draws": 10,
         "losses": 12,
-        "goals_for": 26,
-        "goals_against": 46,
-        "goal_difference": -20,
-        "points": 28,
-        "form": "LDWLL",
-        "form_label": "负平胜负负"
+        "goals_for": 30,
+        "goals_against": 47,
+        "goal_difference": -17,
+        "points": 31,
+        "form": "WLDWL",
+        "form_label": "胜负平胜负"
       },
       {
         "position": 14,
@@ -639,7 +639,7 @@
         "match_id": "as_f674863c14bb4d2a94c19873899fad32",
         "date": "2026-10-31",
         "time": "00:15",
-        "status": "Postp.",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -651,8 +651,10 @@
           "name": "特木科体育",
           "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
         },
+        "ht_score": "4-0",
+        "reg_score": "4-1",
         "venue": "",
-        "status_label": "延期"
+        "status_label": "完场"
       },
       {
         "match_id": "as_57f4a020b0584ba7ad3745d6bfe31d42",
@@ -5622,120 +5624,6 @@
         },
         "venue": "",
         "status_label": "延期"
-      },
-      {
-        "match_id": "as_9ac417bdcd4f4b95bd7fa23e419b4986",
-        "date": "2026-10-31",
-        "time": "20:30",
-        "status": "Postp.",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "圣马尔科斯德阿里卡",
-          "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
-        },
-        "away": {
-          "name": "圣路易斯",
-          "team_id": "ast_def3eed8eb6b4522934c849bef7b482b"
-        },
-        "venue": "",
-        "status_label": "延期"
-      },
-      {
-        "match_id": "as_dafe47dc5f9b4272a90ec2e361484c3e",
-        "date": "2026-10-31",
-        "time": "15:30",
-        "status": "Postp.",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "圣费利佩",
-          "team_id": "ast_e483bf8fb4824883adf10b6547088ed9"
-        },
-        "away": {
-          "name": "西班牙大学",
-          "team_id": "ast_1ed14f5057d040cebce157a9b8764e7f"
-        },
-        "venue": "",
-        "status_label": "延期"
-      },
-      {
-        "match_id": "as_57f4a020b0584ba7ad3745d6bfe31d42",
-        "date": "2026-10-31",
-        "time": "18:00",
-        "status": "Postp.",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "马加利亚尼斯",
-          "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
-        },
-        "away": {
-          "name": "安托法加斯塔",
-          "team_id": "ast_86faf5a093c04da5a07943234315037a"
-        },
-        "venue": "",
-        "status_label": "延期"
-      },
-      {
-        "match_id": "as_f674863c14bb4d2a94c19873899fad32",
-        "date": "2026-10-31",
-        "time": "00:15",
-        "status": "Postp.",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "库里科联合",
-          "team_id": "ast_52d6f5ae5f76402195ac8eb0e1a1610b"
-        },
-        "away": {
-          "name": "特木科体育",
-          "team_id": "ast_73cb9e1601124d769ec76604c83f0335"
-        },
-        "venue": "",
-        "status_label": "延期"
-      },
-      {
-        "match_id": "as_d1e82dfe75e74876b1557bea483ee7cd",
-        "date": "2026-10-31",
-        "time": "20:30",
-        "status": "Postp.",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "科布雷洛阿",
-          "team_id": "ast_453c81bc1f41408794a3459e5c0ba38b"
-        },
-        "away": {
-          "name": "普埃尔托蒙特",
-          "team_id": "ast_5f280de17c454d3f87c786d813a003c1"
-        },
-        "venue": "",
-        "status_label": "延期"
-      },
-      {
-        "match_id": "as_8a19efd011274ee4bfe2462c7237c93b",
-        "date": "2026-10-31",
-        "time": "15:30",
-        "status": "Postp.",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "圣克鲁斯",
-          "team_id": "ast_579e605d20ef4cc3ae54ef15b8ea093b"
-        },
-        "away": {
-          "name": "流浪者",
-          "team_id": "ast_e8c401a361d14a3b922541b2f53b3bb4"
-        },
-        "venue": "",
-        "status_label": "延期"
       }
     ]
   },
@@ -7846,13 +7734,13 @@
     }
   },
   "stats": {
-    "matches_completed": 232,
-    "total_goals": 611,
-    "avg_goals_per_match": 2.63,
-    "home_wins": 102,
+    "matches_completed": 233,
+    "total_goals": 616,
+    "avg_goals_per_match": 2.64,
+    "home_wins": 103,
     "draws": 68,
     "away_wins": 62,
-    "home_win_pct": 44.0,
+    "home_win_pct": 44.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8650,7 +8538,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 8
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/10/31"
+  "updated_at": "2026/11/01"
 }

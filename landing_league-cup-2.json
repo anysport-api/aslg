@@ -1326,7 +1326,7 @@
         "match_id": "as_4996755a93f745babbbd09de82f62e1d",
         "date": "2026-10-31",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "苏格兰联赛杯",
         "league_id": "asl_38266611643b4c60844d9fbe185c4366",
         "season": "2026/2027",
@@ -1338,7 +1338,10 @@
           "name": "阿伯丁",
           "team_id": "ast_f95b5c2181eb4a47a10202b93dea1a0b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d8abb1cc7d93422a99230baa80328f39",
@@ -3316,24 +3319,6 @@
         "away": {
           "name": "希伯尼安",
           "team_id": "ast_8e62d408016546128aba8644c0a7a678"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4996755a93f745babbbd09de82f62e1d",
-        "date": "2026-10-31",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "苏格兰联赛杯",
-        "league_id": "asl_38266611643b4c60844d9fbe185c4366",
-        "season": "2026/2027",
-        "home": {
-          "name": "流浪者",
-          "team_id": "ast_a9938b3944fd47e5a5d2919799053f36"
-        },
-        "away": {
-          "name": "阿伯丁",
-          "team_id": "ast_f95b5c2181eb4a47a10202b93dea1a0b"
         },
         "venue": ""
       }
@@ -7495,13 +7480,13 @@
     }
   },
   "stats": {
-    "matches_completed": 92,
-    "total_goals": 296,
-    "avg_goals_per_match": 3.22,
-    "home_wins": 52,
+    "matches_completed": 93,
+    "total_goals": 297,
+    "avg_goals_per_match": 3.19,
+    "home_wins": 53,
     "draws": 2,
     "away_wins": 38,
-    "home_win_pct": 56.5,
+    "home_win_pct": 57.0,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8282,7 +8267,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 40,
     "matches_current_season": 94,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/10/31"
+  "updated_at": "2026/11/01"
 }

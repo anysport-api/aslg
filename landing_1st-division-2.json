@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
@@ -463,6 +463,24 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_02de4daa27eb4ce98d1e237f5c14ef63",
+        "date": "2026-11-01",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "爱尔兰甲级联赛",
+        "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
+        "season": "2026",
+        "home": {
+          "name": "布雷伊流浪者",
+          "team_id": "ast_2be901a957c24a0c8da6b7b6540ed0e8"
+        },
+        "away": {
+          "name": "UCD",
+          "team_id": "ast_3adf8fe8fff7428e8281943bbc1df3d8"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_5293e65895964a0d8ff2ab3a0af74ac8",
         "date": "2026-10-27",
@@ -4328,7 +4346,26 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_02de4daa27eb4ce98d1e237f5c14ef63",
+        "date": "2026-11-01",
+        "time": "15:00",
+        "status": "15:00",
+        "league": "爱尔兰甲级联赛",
+        "league_id": "asl_45f5f497f9de4d49a03f1281f0f4d9a6",
+        "season": "2026",
+        "home": {
+          "name": "布雷伊流浪者",
+          "team_id": "ast_2be901a957c24a0c8da6b7b6540ed0e8"
+        },
+        "away": {
+          "name": "UCD",
+          "team_id": "ast_3adf8fe8fff7428e8281943bbc1df3d8"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -6498,8 +6535,8 @@
     "distinct_title_holders": 5,
     "teams_all_time": 18,
     "standings_rows_current": 10,
-    "matches_current_season": 184,
-    "upcoming_matches": 0
+    "matches_current_season": 185,
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/10/29"
+  "updated_at": "2026/11/01"
 }

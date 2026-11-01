@@ -2863,7 +2863,7 @@
         "match_id": "as_1680cd54ad3f4065947fe7eb618454ab",
         "date": "2026-11-01",
         "time": "08:30",
-        "status": "08:30",
+        "status": "53",
         "league": "老挝联赛",
         "league_id": "asl_90c34fd21f1a4370b0327575625f73f6",
         "season": "2026/2027",
@@ -2875,13 +2875,15 @@
           "name": "埃兹拉",
           "team_id": "ast_686a46cdb7d244d38fe9e7c398a57981"
         },
+        "ht_score": "1-2",
+        "reg_score": "1-2",
         "venue": ""
       },
       {
         "match_id": "as_e61a204b61364ca68c1f9b499d6100c2",
         "date": "2026-11-01",
         "time": "08:30",
-        "status": "08:30",
+        "status": "HT",
         "league": "老挝联赛",
         "league_id": "asl_90c34fd21f1a4370b0327575625f73f6",
         "season": "2026/2027",
@@ -2893,7 +2895,10 @@
           "name": "Chanthabouly",
           "team_id": "ast_8b72e2f265bc421cb75bd29f51522448"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "中场"
       },
       {
         "match_id": "as_b0c6b543eaa64027a44d4d57d08c4a94",
@@ -2911,46 +2916,6 @@
           "name": "萨万纳凯特",
           "team_id": "ast_15b61986ef20488bb235abee1e28366d"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_032b638fcb9c43c698772830cc69d834",
-        "date": "2026-10-31",
-        "time": "08:30",
-        "status": "27",
-        "league": "老挝联赛",
-        "league_id": "asl_90c34fd21f1a4370b0327575625f73f6",
-        "season": "2026/2027",
-        "home": {
-          "name": "南塔联合",
-          "team_id": "ast_82064b42d5824e38af1e309341d1e414"
-        },
-        "away": {
-          "name": "Oudomxay Entremets",
-          "team_id": "ast_c6c23eec24ec41ab9356760db10bd8aa"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": ""
-      },
-      {
-        "match_id": "as_f81f2cc29b9342b699d743b2b1c1a105",
-        "date": "2026-10-31",
-        "time": "08:30",
-        "status": "27",
-        "league": "老挝联赛",
-        "league_id": "asl_90c34fd21f1a4370b0327575625f73f6",
-        "season": "2026/2027",
-        "home": {
-          "name": "GB FC",
-          "team_id": "ast_990950a0fba549b8aad90a45567b846f"
-        },
-        "away": {
-          "name": "老挝军队FC",
-          "team_id": "ast_a11339c76b084701960072fbded5d056"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
         "venue": ""
       }
     ]
@@ -3943,7 +3908,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 35
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/10/31"
+  "updated_at": "2026/11/01"
 }

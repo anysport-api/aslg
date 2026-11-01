@@ -170,20 +170,6 @@
       },
       {
         "position": 1,
-        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
-        "team": "Dalstorps",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 2,
-        "goals_against": 1,
-        "goal_difference": 1,
-        "points": 3,
-        "form": "W"
-      },
-      {
-        "position": 1,
         "team_id": "ast_f6dbdbe1662d4751a0c8f460c82346c4",
         "team": "Husqvarna",
         "played": 26,
@@ -240,20 +226,6 @@
       },
       {
         "position": 2,
-        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
-        "team": "IFK Trelleborg",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 2,
         "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6",
         "team": "Skara",
         "played": 26,
@@ -265,6 +237,20 @@
         "goal_difference": 30,
         "points": 59,
         "form": "WWWLW"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
+        "team": "Dalstorps",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 2,
+        "goals_against": 1,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "W"
       },
       {
         "position": 3,
@@ -307,6 +293,20 @@
         "goal_difference": 0,
         "points": 0,
         "form": ""
+      },
+      {
+        "position": 3,
+        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
+        "team": "IFK Trelleborg",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 3,
+        "goal_difference": -2,
+        "points": 0,
+        "form": "L"
       },
       {
         "position": 3,
@@ -622,21 +622,6 @@
       },
       {
         "position": 1,
-        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
-        "team": "达尔斯托普斯",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 2,
-        "goals_against": 1,
-        "goal_difference": 1,
-        "points": 3,
-        "form": "W",
-        "form_label": "胜"
-      },
-      {
-        "position": 1,
         "team_id": "ast_f6dbdbe1662d4751a0c8f460c82346c4",
         "team": "胡斯克瓦尔纳",
         "played": 26,
@@ -697,20 +682,6 @@
       },
       {
         "position": 2,
-        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
-        "team": "IFK特雷勒堡",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 2,
         "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6",
         "team": "斯卡拉",
         "played": 26,
@@ -723,6 +694,21 @@
         "points": 59,
         "form": "WWWLW",
         "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
+        "team": "达尔斯托普斯",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 2,
+        "goals_against": 1,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "W",
+        "form_label": "胜"
       },
       {
         "position": 3,
@@ -767,6 +753,21 @@
         "goal_difference": 0,
         "points": 0,
         "form": ""
+      },
+      {
+        "position": 3,
+        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
+        "team": "IFK特雷勒堡",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 3,
+        "goal_difference": -2,
+        "points": 0,
+        "form": "L",
+        "form_label": "负"
       },
       {
         "position": 3,
@@ -1167,7 +1168,7 @@
         "match_id": "as_833fd33948e9474bbaeca3c9f4e9e69d",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1179,13 +1180,16 @@
           "name": "Bergnasets",
           "team_id": "ast_31e33a06ddff438489671f753f0d1a5f"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cf026ccd3d4242989414e45c00aaad7e",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1197,13 +1201,16 @@
           "name": "Woodys FC",
           "team_id": "ast_5aa0152a107d4fabbf70aafc7090aab0"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "6-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_752009b23a274d38869b08ff94675ca2",
         "date": "2026-10-31",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1215,13 +1222,16 @@
           "name": "Vallentuna",
           "team_id": "ast_f459f3d6c7d74d478b7629b0f766cab5"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ad2240dda1cb4801b0b9e07b1b873d0f",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1233,13 +1243,16 @@
           "name": "Halmia",
           "team_id": "ast_e9ec947b19f84b889eadfcb36afb752a"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3bae0f9064e64c729da12a32b305e0ba",
         "date": "2026-10-31",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1251,7 +1264,10 @@
           "name": "斯卡拉",
           "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e08cbb803815414a96c0276309cd06d8",
@@ -24326,96 +24342,6 @@
           "team_id": "ast_dfc9e43a0a584dfca8b30cb14a407a26"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_3bae0f9064e64c729da12a32b305e0ba",
-        "date": "2026-10-31",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典乙级联赛",
-        "league_id": "asl_12cb75e859aa4779878607b681f351aa",
-        "season": "2026",
-        "home": {
-          "name": "IFK特雷勒堡",
-          "team_id": "ast_410f783fedec4d48960b4f6bbf38321c"
-        },
-        "away": {
-          "name": "斯卡拉",
-          "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ad2240dda1cb4801b0b9e07b1b873d0f",
-        "date": "2026-10-31",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典乙级联赛",
-        "league_id": "asl_12cb75e859aa4779878607b681f351aa",
-        "season": "2026",
-        "home": {
-          "name": "阿斯托普斯",
-          "team_id": "ast_8878de5efdd947f99d8c9699e0cef1ee"
-        },
-        "away": {
-          "name": "Halmia",
-          "team_id": "ast_e9ec947b19f84b889eadfcb36afb752a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_752009b23a274d38869b08ff94675ca2",
-        "date": "2026-10-31",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "瑞典乙级联赛",
-        "league_id": "asl_12cb75e859aa4779878607b681f351aa",
-        "season": "2026",
-        "home": {
-          "name": "利丁戈IFK",
-          "team_id": "ast_e243cc41db8846de9db6883c83122629"
-        },
-        "away": {
-          "name": "Vallentuna",
-          "team_id": "ast_f459f3d6c7d74d478b7629b0f766cab5"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_cf026ccd3d4242989414e45c00aaad7e",
-        "date": "2026-10-31",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典乙级联赛",
-        "league_id": "asl_12cb75e859aa4779878607b681f351aa",
-        "season": "2026",
-        "home": {
-          "name": "托尔德",
-          "team_id": "ast_131240c4ec0a4e8da45fa0f6bbc37d4a"
-        },
-        "away": {
-          "name": "Woodys FC",
-          "team_id": "ast_5aa0152a107d4fabbf70aafc7090aab0"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_833fd33948e9474bbaeca3c9f4e9e69d",
-        "date": "2026-10-31",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典乙级联赛",
-        "league_id": "asl_12cb75e859aa4779878607b681f351aa",
-        "season": "2026",
-        "home": {
-          "name": "弗兰斯塔",
-          "team_id": "ast_e25bdaf454f546fea95c62c20bfd4a32"
-        },
-        "away": {
-          "name": "Bergnasets",
-          "team_id": "ast_31e33a06ddff438489671f753f0d1a5f"
-        },
-        "venue": ""
       }
     ]
   },
@@ -32231,13 +32157,13 @@
     }
   },
   "stats": {
-    "matches_completed": 1095,
-    "total_goals": 3710,
+    "matches_completed": 1100,
+    "total_goals": 3729,
     "avg_goals_per_match": 3.39,
-    "home_wins": 487,
+    "home_wins": 491,
     "draws": 219,
-    "away_wins": 389,
-    "home_win_pct": 44.5,
+    "away_wins": 390,
+    "home_win_pct": 44.6,
     "biggest_win": {
       "margin": 9,
       "match": {
@@ -32388,17 +32314,17 @@
           },
           {
             "position": 1,
-            "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
-            "team": "Dalstorps",
-            "played": 1,
-            "wins": 1,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 2,
-            "goals_against": 1,
-            "goal_difference": 1,
-            "points": 3,
-            "form": "W"
+            "team_id": "ast_f6dbdbe1662d4751a0c8f460c82346c4",
+            "team": "Husqvarna",
+            "played": 26,
+            "wins": 21,
+            "draws": 3,
+            "losses": 2,
+            "goals_for": 59,
+            "goals_against": 20,
+            "goal_difference": 39,
+            "points": 66,
+            "form": "LWWWW"
           }
         ],
         "meta": {
@@ -32997,7 +32923,7 @@
     "teams_all_time": 167,
     "standings_rows_current": 32,
     "matches_current_season": 1104,
-    "upcoming_matches": 9
+    "upcoming_matches": 4
   },
-  "updated_at": "2026/10/31"
+  "updated_at": "2026/11/01"
 }

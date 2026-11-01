@@ -182,15 +182,15 @@
         "position": 11,
         "team_id": "ast_7a421e811c674b2487aace0bb29f1409",
         "team": "Margveti 2006",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 4,
-        "losses": 11,
-        "goals_for": 33,
-        "goals_against": 41,
-        "goal_difference": -8,
+        "losses": 12,
+        "goals_for": 34,
+        "goals_against": 43,
+        "goal_difference": -9,
         "points": 34,
-        "form": "WDLWW"
+        "form": "LWDLW"
       },
       {
         "position": 12,
@@ -210,15 +210,15 @@
         "position": 13,
         "team_id": "ast_5fdfc59f04144e188bfb9febc0cf441a",
         "team": "Iveria Khashuri",
-        "played": 25,
-        "wins": 3,
+        "played": 26,
+        "wins": 4,
         "draws": 11,
         "losses": 11,
-        "goals_for": 34,
-        "goals_against": 48,
-        "goal_difference": -14,
-        "points": 20,
-        "form": "WWDDD"
+        "goals_for": 36,
+        "goals_against": 49,
+        "goal_difference": -13,
+        "points": 23,
+        "form": "WWWDD"
       },
       {
         "position": 14,
@@ -418,16 +418,16 @@
         "position": 11,
         "team_id": "ast_7a421e811c674b2487aace0bb29f1409",
         "team": "马尔格维提2006",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 4,
-        "losses": 11,
-        "goals_for": 33,
-        "goals_against": 41,
-        "goal_difference": -8,
+        "losses": 12,
+        "goals_for": 34,
+        "goals_against": 43,
+        "goal_difference": -9,
         "points": 34,
-        "form": "WDLWW",
-        "form_label": "胜平负胜胜"
+        "form": "LWDLW",
+        "form_label": "负胜平负胜"
       },
       {
         "position": 12,
@@ -448,16 +448,16 @@
         "position": 13,
         "team_id": "ast_5fdfc59f04144e188bfb9febc0cf441a",
         "team": "伊维里亚哈什里",
-        "played": 25,
-        "wins": 3,
+        "played": 26,
+        "wins": 4,
         "draws": 11,
         "losses": 11,
-        "goals_for": 34,
-        "goals_against": 48,
-        "goal_difference": -14,
-        "points": 20,
-        "form": "WWDDD",
-        "form_label": "胜胜平平平"
+        "goals_for": 36,
+        "goals_against": 49,
+        "goal_difference": -13,
+        "points": 23,
+        "form": "WWWDD",
+        "form_label": "胜胜胜平平"
       },
       {
         "position": 14,
@@ -1167,7 +1167,7 @@
         "match_id": "as_dddc5866345c4a439992db52561806fe",
         "date": "2026-10-31",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "格鲁吉亚甲级联赛",
         "league_id": "asl_e7ca9840100049e08ca0d9adedbfa8f5",
         "season": "2026",
@@ -1179,7 +1179,10 @@
           "name": "马尔格维提2006",
           "team_id": "ast_7a421e811c674b2487aace0bb29f1409"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_903910b8548d4b85b18ec7448896cd8d",
@@ -6169,24 +6172,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_dddc5866345c4a439992db52561806fe",
-        "date": "2026-10-31",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "格鲁吉亚甲级联赛",
-        "league_id": "asl_e7ca9840100049e08ca0d9adedbfa8f5",
-        "season": "2026",
-        "home": {
-          "name": "伊维里亚哈什里",
-          "team_id": "ast_5fdfc59f04144e188bfb9febc0cf441a"
-        },
-        "away": {
-          "name": "马尔格维提2006",
-          "team_id": "ast_7a421e811c674b2487aace0bb29f1409"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6764,13 +6749,13 @@
     }
   },
   "stats": {
-    "matches_completed": 207,
-    "total_goals": 623,
+    "matches_completed": 208,
+    "total_goals": 626,
     "avg_goals_per_match": 3.01,
-    "home_wins": 90,
+    "home_wins": 91,
     "draws": 50,
     "away_wins": 67,
-    "home_win_pct": 43.5,
+    "home_win_pct": 43.8,
     "biggest_win": {
       "margin": 9,
       "match": {
@@ -7531,7 +7516,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 33
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/10/31"
+  "updated_at": "2026/11/01"
 }
