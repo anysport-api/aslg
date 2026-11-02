@@ -14,7 +14,7 @@
     "is_cup": true
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_38266611643b4c60844d9fbe185c4366",
@@ -1308,7 +1308,7 @@
         "match_id": "as_5d0d91e77eed4c01b8dcfbfb7628afaf",
         "date": "2026-11-01",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "苏格兰联赛杯",
         "league_id": "asl_38266611643b4c60844d9fbe185c4366",
         "season": "2026/2027",
@@ -1320,7 +1320,10 @@
           "name": "希伯尼安",
           "team_id": "ast_8e62d408016546128aba8644c0a7a678"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4996755a93f745babbbd09de82f62e1d",
@@ -3303,26 +3306,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_5d0d91e77eed4c01b8dcfbfb7628afaf",
-        "date": "2026-11-01",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "苏格兰联赛杯",
-        "league_id": "asl_38266611643b4c60844d9fbe185c4366",
-        "season": "2026/2027",
-        "home": {
-          "name": "哈茨",
-          "team_id": "ast_5f847045e96c49d7bef1ece7eb1dcee2"
-        },
-        "away": {
-          "name": "希伯尼安",
-          "team_id": "ast_8e62d408016546128aba8644c0a7a678"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -7480,13 +7464,13 @@
     }
   },
   "stats": {
-    "matches_completed": 93,
-    "total_goals": 297,
+    "matches_completed": 94,
+    "total_goals": 300,
     "avg_goals_per_match": 3.19,
     "home_wins": 53,
     "draws": 2,
-    "away_wins": 38,
-    "home_win_pct": 57.0,
+    "away_wins": 39,
+    "home_win_pct": 56.4,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8267,7 +8251,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 40,
     "matches_current_season": 94,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

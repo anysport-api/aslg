@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
@@ -470,6 +470,7 @@
       },
       {
         "position": 16,
+        "team_id": "ast_21a4fc4a101b40e0904778f5c551025c",
         "team": "Inter Miami II",
         "played": 28,
         "wins": 4,
@@ -901,7 +902,8 @@
       },
       {
         "position": 16,
-        "team": "阿帕雷西达",
+        "team_id": "ast_21a4fc4a101b40e0904778f5c551025c",
+        "team": "国际迈阿密二队",
         "played": 28,
         "wins": 4,
         "draws": 0,
@@ -935,7 +937,7 @@
         "match_id": "as_c12184c11387463e830942970337c389",
         "date": "2026-11-01",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "美国MLS下一代职业联赛",
         "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
         "season": "2026",
@@ -947,7 +949,10 @@
           "name": "哥伦布机员2",
           "team_id": "ast_edb7dbfdaf204d10afb3b0cf9629d244"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_35ef848163ef4056ac3560e9019cce5a",
@@ -10168,26 +10173,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_c12184c11387463e830942970337c389",
-        "date": "2026-11-01",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "美国MLS下一代职业联赛",
-        "league_id": "asl_aa599c8599314ddba0441bb2ab40e38c",
-        "season": "2026",
-        "home": {
-          "name": "查塔努加",
-          "team_id": "ast_64d9ae8d797d4e87bb494511bcd52914"
-        },
-        "away": {
-          "name": "哥伦布机员2",
-          "team_id": "ast_edb7dbfdaf204d10afb3b0cf9629d244"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -12362,13 +12348,13 @@
     }
   },
   "stats": {
-    "matches_completed": 435,
-    "total_goals": 1541,
-    "avg_goals_per_match": 3.54,
-    "home_wins": 250,
+    "matches_completed": 436,
+    "total_goals": 1546,
+    "avg_goals_per_match": 3.55,
+    "home_wins": 251,
     "draws": 3,
     "away_wins": 182,
-    "home_win_pct": 57.5,
+    "home_win_pct": 57.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13166,7 +13152,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 30,
     "matches_current_season": 436,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

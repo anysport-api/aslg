@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
@@ -848,7 +848,7 @@
         "match_id": "as_2583bba700824ec48dbe04d7544c99aa",
         "date": "2026-11-02",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -860,13 +860,16 @@
           "name": "塔尔萨足球俱乐部",
           "team_id": "ast_2391d43c6cf4473585da4ad9811e373d"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1c104bdb3450479b811962acf4c55dce",
         "date": "2026-11-01",
         "time": "19:00",
-        "status": "19:00",
+        "status": "Pen.",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -878,13 +881,18 @@
           "name": "科罗拉多斯普林斯",
           "team_id": "ast_15740872672942d8b75d79bce66d3c4f"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "et_score": "0-0",
+        "penalty_score": "4-5",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_d4b36d651b774647872ac5e91e385c8b",
         "date": "2026-11-01",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -896,7 +904,10 @@
           "name": "凤凰崛起",
           "team_id": "ast_f0ed9c65306243b2b98a0043ff5fbde7"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_713d6869e543480d9c92f83bc94e64ce",
@@ -959,7 +970,7 @@
         "ht_score": "0-0",
         "reg_score": "0-0",
         "et_score": "1-0",
-        "venue": "",
+        "venue": "林恩家族体育场",
         "status_label": "加时赛后结束"
       },
       {
@@ -8889,7 +8900,7 @@
         "match_id": "as_2583bba700824ec48dbe04d7544c99aa",
         "date": "2026-11-02",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -8901,43 +8912,10 @@
           "name": "塔尔萨足球俱乐部",
           "team_id": "ast_2391d43c6cf4473585da4ad9811e373d"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d4b36d651b774647872ac5e91e385c8b",
-        "date": "2026-11-01",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "新墨西哥",
-          "team_id": "ast_4a05ba5d40dc41dd92fc2fba3253d22e"
-        },
-        "away": {
-          "name": "凤凰崛起",
-          "team_id": "ast_f0ed9c65306243b2b98a0043ff5fbde7"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1c104bdb3450479b811962acf4c55dce",
-        "date": "2026-11-01",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "列克星敦",
-          "team_id": "ast_0ea7f252356745a4a41c26353c8064cd"
-        },
-        "away": {
-          "name": "科罗拉多斯普林斯",
-          "team_id": "ast_15740872672942d8b75d79bce66d3c4f"
-        },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -12199,13 +12177,13 @@
     }
   },
   "stats": {
-    "matches_completed": 380,
-    "total_goals": 1029,
-    "avg_goals_per_match": 2.71,
-    "home_wins": 166,
-    "draws": 107,
+    "matches_completed": 383,
+    "total_goals": 1034,
+    "avg_goals_per_match": 2.7,
+    "home_wins": 168,
+    "draws": 108,
     "away_wins": 107,
-    "home_win_pct": 43.7,
+    "home_win_pct": 43.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -12999,7 +12977,7 @@
     "teams_all_time": 45,
     "standings_rows_current": 25,
     "matches_current_season": 383,
-    "upcoming_matches": 3
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

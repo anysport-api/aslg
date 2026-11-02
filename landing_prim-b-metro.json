@@ -304,6 +304,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89",
+        "team": "Argentino de Merlo",
+        "played": 42,
+        "wins": 13,
+        "draws": 11,
+        "losses": 18,
+        "goals_for": 39,
+        "goals_against": 45,
+        "goal_difference": -6,
+        "points": 50,
+        "form": "WWLLL"
+      },
+      {
+        "position": 14,
         "team_id": "ast_94c46f2a84b643c283490c5be671966b",
         "team": "Flandria",
         "played": 42,
@@ -317,7 +331,7 @@
         "form": "DWWWD"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_b1e4a11cc2ab4dfb8861eecfff046e5b",
         "team": "Dep. Merlo",
         "played": 42,
@@ -329,20 +343,6 @@
         "goal_difference": -15,
         "points": 49,
         "form": "DLWDD"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89",
-        "team": "Argentino de Merlo",
-        "played": 41,
-        "wins": 12,
-        "draws": 11,
-        "losses": 18,
-        "goals_for": 37,
-        "goals_against": 44,
-        "goal_difference": -7,
-        "points": 47,
-        "form": "WLLLL"
       },
       {
         "position": 16,
@@ -362,15 +362,15 @@
         "position": 17,
         "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107",
         "team": "Dock Sud",
-        "played": 41,
+        "played": 42,
         "wins": 11,
         "draws": 14,
-        "losses": 16,
-        "goals_for": 41,
-        "goals_against": 49,
-        "goal_difference": -8,
+        "losses": 17,
+        "goals_for": 42,
+        "goals_against": 51,
+        "goal_difference": -9,
         "points": 47,
-        "form": "LLLLW"
+        "form": "LLLLL"
       },
       {
         "position": 18,
@@ -626,6 +626,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89",
+        "team": "阿根廷梅尔洛",
+        "played": 42,
+        "wins": 13,
+        "draws": 11,
+        "losses": 18,
+        "goals_for": 39,
+        "goals_against": 45,
+        "goal_difference": -6,
+        "points": 50,
+        "form": "WWLLL",
+        "form_label": "胜胜负负负"
+      },
+      {
+        "position": 14,
         "team_id": "ast_94c46f2a84b643c283490c5be671966b",
         "team": "弗兰德里亚",
         "played": 42,
@@ -640,7 +655,7 @@
         "form_label": "平胜胜胜平"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_b1e4a11cc2ab4dfb8861eecfff046e5b",
         "team": "梅尔洛体育",
         "played": 42,
@@ -653,21 +668,6 @@
         "points": 49,
         "form": "DLWDD",
         "form_label": "平负胜平平"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89",
-        "team": "阿根廷梅尔洛",
-        "played": 41,
-        "wins": 12,
-        "draws": 11,
-        "losses": 18,
-        "goals_for": 37,
-        "goals_against": 44,
-        "goal_difference": -7,
-        "points": 47,
-        "form": "WLLLL",
-        "form_label": "胜负负负负"
       },
       {
         "position": 16,
@@ -688,16 +688,16 @@
         "position": 17,
         "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107",
         "team": "多克苏德",
-        "played": 41,
+        "played": 42,
         "wins": 11,
         "draws": 14,
-        "losses": 16,
-        "goals_for": 41,
-        "goals_against": 49,
-        "goal_difference": -8,
+        "losses": 17,
+        "goals_for": 42,
+        "goals_against": 51,
+        "goal_difference": -9,
         "points": 47,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 18,
@@ -887,7 +887,7 @@
         "match_id": "as_b7cdb06d20f440c68ebc858fa0679030",
         "date": "2026-11-01",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "阿根廷B级联赛",
         "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
         "season": "2026",
@@ -899,7 +899,10 @@
           "name": "阿根廷梅尔洛",
           "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_749dda33f2c94fad9aa26f85026b970a",
@@ -10568,24 +10571,6 @@
           "team_id": "ast_92fd0554e8604546830841a957cdb2a6"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_b7cdb06d20f440c68ebc858fa0679030",
-        "date": "2026-11-01",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "阿根廷B级联赛",
-        "league_id": "asl_1dca488a7fb54b3d9f328b6843d6acdb",
-        "season": "2026",
-        "home": {
-          "name": "多克苏德",
-          "team_id": "ast_fd6ea91a66894b8cb330fb3e387d7107"
-        },
-        "away": {
-          "name": "阿根廷梅尔洛",
-          "team_id": "ast_0036a7aa89fd4f139888eb37517d1e89"
-        },
-        "venue": ""
       }
     ]
   },
@@ -13108,13 +13093,13 @@
     }
   },
   "stats": {
-    "matches_completed": 456,
-    "total_goals": 905,
-    "avg_goals_per_match": 1.98,
+    "matches_completed": 457,
+    "total_goals": 908,
+    "avg_goals_per_match": 1.99,
     "home_wins": 174,
     "draws": 152,
-    "away_wins": 130,
-    "home_win_pct": 38.2,
+    "away_wins": 131,
+    "home_win_pct": 38.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13912,7 +13897,7 @@
     "teams_all_time": 40,
     "standings_rows_current": 22,
     "matches_current_season": 462,
-    "upcoming_matches": 6
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

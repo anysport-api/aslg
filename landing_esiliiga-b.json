@@ -70,15 +70,15 @@
         "position": 3,
         "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
         "team": "Tammeka U21",
-        "played": 34,
+        "played": 35,
         "wins": 19,
         "draws": 4,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 93,
-        "goals_against": 64,
-        "goal_difference": 29,
+        "goals_against": 66,
+        "goal_difference": 27,
         "points": 61,
-        "form": "WWWWL"
+        "form": "LWWWW"
       },
       {
         "position": 4,
@@ -112,15 +112,15 @@
         "position": 6,
         "team_id": "ast_372bd1af36c741f19a8313104520fe6d",
         "team": "Parnu JK Vaprus U21",
-        "played": 34,
-        "wins": 15,
+        "played": 35,
+        "wins": 16,
         "draws": 5,
         "losses": 14,
-        "goals_for": 102,
+        "goals_for": 104,
         "goals_against": 70,
-        "goal_difference": 32,
-        "points": 50,
-        "form": "LLWDW"
+        "goal_difference": 34,
+        "points": 53,
+        "form": "WLLWD"
       },
       {
         "position": 7,
@@ -214,16 +214,16 @@
         "position": 3,
         "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
         "team": "塔梅卡U21",
-        "played": 34,
+        "played": 35,
         "wins": 19,
         "draws": 4,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 93,
-        "goals_against": 64,
-        "goal_difference": 29,
+        "goals_against": 66,
+        "goal_difference": 27,
         "points": 61,
-        "form": "WWWWL",
-        "form_label": "胜胜胜胜负"
+        "form": "LWWWW",
+        "form_label": "负胜胜胜胜"
       },
       {
         "position": 4,
@@ -259,16 +259,16 @@
         "position": 6,
         "team_id": "ast_372bd1af36c741f19a8313104520fe6d",
         "team": "帕尔努JK瓦普鲁斯U21",
-        "played": 34,
-        "wins": 15,
+        "played": 35,
+        "wins": 16,
         "draws": 5,
         "losses": 14,
-        "goals_for": 102,
+        "goals_for": 104,
         "goals_against": 70,
-        "goal_difference": 32,
-        "points": 50,
-        "form": "LLWDW",
-        "form_label": "负负胜平胜"
+        "goal_difference": 34,
+        "points": 53,
+        "form": "WLLWD",
+        "form_label": "胜负负胜平"
       },
       {
         "position": 7,
@@ -471,7 +471,7 @@
         "match_id": "as_e8010f49274e41eeb0d8857c6e817053",
         "date": "2026-11-01",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -483,7 +483,10 @@
           "name": "塔梅卡U21",
           "team_id": "ast_8a57aa837eea4807a30321bea5000b14"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_cb5b6f6a15514aa5a1a982166e32fd63",
@@ -4237,24 +4240,6 @@
           "team_id": "ast_87389c21e27e419ba18728b44fec3d57"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_e8010f49274e41eeb0d8857c6e817053",
-        "date": "2026-11-01",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "帕尔努JK瓦普鲁斯U21",
-          "team_id": "ast_372bd1af36c741f19a8313104520fe6d"
-        },
-        "away": {
-          "name": "塔梅卡U21",
-          "team_id": "ast_8a57aa837eea4807a30321bea5000b14"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4634,13 +4619,13 @@
     }
   },
   "stats": {
-    "matches_completed": 173,
-    "total_goals": 751,
-    "avg_goals_per_match": 4.34,
-    "home_wins": 95,
+    "matches_completed": 174,
+    "total_goals": 753,
+    "avg_goals_per_match": 4.33,
+    "home_wins": 96,
     "draws": 20,
     "away_wins": 58,
-    "home_win_pct": 54.9,
+    "home_win_pct": 55.2,
     "biggest_win": {
       "margin": 12,
       "match": {
@@ -4793,15 +4778,15 @@
             "position": 3,
             "team_id": "ast_8a57aa837eea4807a30321bea5000b14",
             "team": "Tammeka U21",
-            "played": 34,
+            "played": 35,
             "wins": 19,
             "draws": 4,
-            "losses": 11,
+            "losses": 12,
             "goals_for": 93,
-            "goals_against": 64,
-            "goal_difference": 29,
+            "goals_against": 66,
+            "goal_difference": 27,
             "points": 61,
-            "form": "WWWWL"
+            "form": "LWWWW"
           }
         ],
         "meta": {
@@ -5400,7 +5385,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 7
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

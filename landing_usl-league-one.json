@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
@@ -580,7 +580,7 @@
         "match_id": "as_819f1d27bdc1444992538b407e90a7a4",
         "date": "2026-11-02",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -592,13 +592,16 @@
           "name": "那不勒斯足球俱乐部",
           "team_id": "ast_4a0a75cd92ce4527876a94091b4680a6"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "5-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_92e1bf19c0614031bee6abc34054ffae",
         "date": "2026-11-02",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -610,7 +613,10 @@
           "name": "一诺克斯维尔",
           "team_id": "ast_67ca191764e34e37b9068676cd68eef8"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_53544935561f4e7c85ac81f4e3d2ea7a",
@@ -632,7 +638,7 @@
         "reg_score": "1-1",
         "et_score": "0-0",
         "penalty_score": "4-5",
-        "venue": "",
+        "venue": "沃纳公园体育场",
         "status_label": "点球决胜"
       },
       {
@@ -653,7 +659,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "布里斯·史蒂文斯球场",
         "status_label": "完场"
       },
       {
@@ -6374,7 +6380,7 @@
         "match_id": "as_92e1bf19c0614031bee6abc34054ffae",
         "date": "2026-11-02",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6386,13 +6392,16 @@
           "name": "一诺克斯维尔",
           "team_id": "ast_67ca191764e34e37b9068676cd68eef8"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_819f1d27bdc1444992538b407e90a7a4",
         "date": "2026-11-02",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6404,7 +6413,10 @@
           "name": "那不勒斯足球俱乐部",
           "team_id": "ast_4a0a75cd92ce4527876a94091b4680a6"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "5-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7352,13 +7364,13 @@
     }
   },
   "stats": {
-    "matches_completed": 274,
-    "total_goals": 819,
-    "avg_goals_per_match": 2.99,
-    "home_wins": 138,
+    "matches_completed": 276,
+    "total_goals": 827,
+    "avg_goals_per_match": 3.0,
+    "home_wins": 140,
     "draws": 61,
     "away_wins": 75,
-    "home_win_pct": 50.4,
+    "home_win_pct": 50.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8157,5 +8169,5 @@
     "matches_current_season": 276,
     "upcoming_matches": 2
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

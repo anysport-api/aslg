@@ -176,20 +176,6 @@
       },
       {
         "position": 2,
-        "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
-        "team": "Cartagena",
-        "played": 1,
-        "wins": 0,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D"
-      },
-      {
-        "position": 2,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "U. Magdalena",
         "played": 1,
@@ -203,9 +189,23 @@
         "form": "D"
       },
       {
-        "position": 3,
+        "position": 2,
         "team_id": "ast_166b06bc75c54d1285e7467bf60419d9",
         "team": "Tigres",
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0,
+        "goal_difference": 0,
+        "points": 2,
+        "form": "DD"
+      },
+      {
+        "position": 3,
+        "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
+        "team": "Cartagena",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -248,15 +248,15 @@
         "position": 4,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "Real Cundinamarca",
-        "played": 1,
+        "played": 2,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 1,
         "goals_for": 0,
         "goals_against": 2,
         "goal_difference": -2,
-        "points": 0,
-        "form": "L"
+        "points": 1,
+        "form": "DL"
       },
       {
         "position": 9,
@@ -403,21 +403,6 @@
       },
       {
         "position": 2,
-        "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
-        "team": "卡塔赫纳",
-        "played": 1,
-        "wins": 0,
-        "draws": 1,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "goal_difference": 0,
-        "points": 1,
-        "form": "D",
-        "form_label": "平"
-      },
-      {
-        "position": 2,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "马格达莱纳大学",
         "played": 1,
@@ -432,9 +417,24 @@
         "form_label": "平"
       },
       {
-        "position": 3,
+        "position": 2,
         "team_id": "ast_166b06bc75c54d1285e7467bf60419d9",
         "team": "老虎队",
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0,
+        "goal_difference": 0,
+        "points": 2,
+        "form": "DD",
+        "form_label": "平平"
+      },
+      {
+        "position": 3,
+        "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
+        "team": "卡塔赫纳",
         "played": 1,
         "wins": 0,
         "draws": 1,
@@ -480,16 +480,16 @@
         "position": 4,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "皇家昆迪纳马卡",
-        "played": 1,
+        "played": 2,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 1,
         "goals_for": 0,
         "goals_against": 2,
         "goal_difference": -2,
-        "points": 0,
-        "form": "L",
-        "form_label": "负"
+        "points": 1,
+        "form": "DL",
+        "form_label": "平负"
       },
       {
         "position": 9,
@@ -849,7 +849,7 @@
         "match_id": "as_a4550a50a7cb4e20b94791b8ae574ed3",
         "date": "2026-11-01",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -861,7 +861,10 @@
           "name": "老虎队",
           "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c3e664860e944435babf2a84230d4bd1",
@@ -6750,24 +6753,6 @@
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_a4550a50a7cb4e20b94791b8ae574ed3",
-        "date": "2026-11-01",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "皇家昆迪纳马卡",
-          "team_id": "ast_4a965a6301994d1791a0acb94ff009f0"
-        },
-        "away": {
-          "name": "老虎队",
-          "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11332,13 +11317,13 @@
     }
   },
   "stats": {
-    "matches_completed": 270,
+    "matches_completed": 271,
     "total_goals": 587,
     "avg_goals_per_match": 2.17,
     "home_wins": 99,
-    "draws": 88,
+    "draws": 89,
     "away_wins": 83,
-    "home_win_pct": 36.7,
+    "home_win_pct": 36.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11489,14 +11474,14 @@
           },
           {
             "position": 2,
-            "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
-            "team": "Cartagena",
+            "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
+            "team": "U. Magdalena",
             "played": 1,
             "wins": 0,
             "draws": 1,
             "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
+            "goals_for": 1,
+            "goals_against": 1,
             "goal_difference": 0,
             "points": 1,
             "form": "D"
@@ -12136,7 +12121,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 282,
-    "upcoming_matches": 12
+    "upcoming_matches": 11
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

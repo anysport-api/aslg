@@ -190,29 +190,29 @@
         "position": 3,
         "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
         "team": "Flora",
-        "played": 34,
-        "wins": 19,
+        "played": 35,
+        "wins": 20,
         "draws": 1,
         "losses": 14,
-        "goals_for": 64,
+        "goals_for": 66,
         "goals_against": 49,
-        "goal_difference": 15,
-        "points": 58,
-        "form": "LLWLL"
+        "goal_difference": 17,
+        "points": 61,
+        "form": "WLLWL"
       },
       {
         "position": 4,
         "team_id": "ast_65c6a522362042f494acbd4a5fea1e48",
         "team": "Kalju",
-        "played": 34,
-        "wins": 17,
+        "played": 35,
+        "wins": 18,
         "draws": 6,
         "losses": 11,
-        "goals_for": 58,
+        "goals_for": 59,
         "goals_against": 34,
-        "goal_difference": 24,
-        "points": 57,
-        "form": "WWLDL"
+        "goal_difference": 25,
+        "points": 60,
+        "form": "WWWLD"
       },
       {
         "position": 5,
@@ -274,29 +274,29 @@
         "position": 9,
         "team_id": "ast_da7e777c45824ec4b67653d7a3016025",
         "team": "Kuressaare",
-        "played": 34,
+        "played": 35,
         "wins": 10,
         "draws": 6,
-        "losses": 18,
+        "losses": 19,
         "goals_for": 35,
-        "goals_against": 53,
-        "goal_difference": -18,
+        "goals_against": 54,
+        "goal_difference": -19,
         "points": 36,
-        "form": "DLLWW"
+        "form": "LDLLW"
       },
       {
         "position": 10,
         "team_id": "ast_7bcbc6c0523644a3b4f0a8d60f5d59ab",
         "team": "Narva",
-        "played": 34,
+        "played": 35,
         "wins": 5,
         "draws": 5,
-        "losses": 24,
+        "losses": 25,
         "goals_for": 26,
-        "goals_against": 76,
-        "goal_difference": -50,
+        "goals_against": 78,
+        "goal_difference": -52,
         "points": 20,
-        "form": "LLLLD"
+        "form": "LLLLL"
       }
     ],
     "zh": [
@@ -334,31 +334,31 @@
         "position": 3,
         "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
         "team": "弗洛拉",
-        "played": 34,
-        "wins": 19,
+        "played": 35,
+        "wins": 20,
         "draws": 1,
         "losses": 14,
-        "goals_for": 64,
+        "goals_for": 66,
         "goals_against": 49,
-        "goal_difference": 15,
-        "points": 58,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "goal_difference": 17,
+        "points": 61,
+        "form": "WLLWL",
+        "form_label": "胜负负胜负"
       },
       {
         "position": 4,
         "team_id": "ast_65c6a522362042f494acbd4a5fea1e48",
         "team": "卡尔朱",
-        "played": 34,
-        "wins": 17,
+        "played": 35,
+        "wins": 18,
         "draws": 6,
         "losses": 11,
-        "goals_for": 58,
+        "goals_for": 59,
         "goals_against": 34,
-        "goal_difference": 24,
-        "points": 57,
-        "form": "WWLDL",
-        "form_label": "胜胜负平负"
+        "goal_difference": 25,
+        "points": 60,
+        "form": "WWWLD",
+        "form_label": "胜胜胜负平"
       },
       {
         "position": 5,
@@ -424,31 +424,31 @@
         "position": 9,
         "team_id": "ast_da7e777c45824ec4b67653d7a3016025",
         "team": "库雷萨雷",
-        "played": 34,
+        "played": 35,
         "wins": 10,
         "draws": 6,
-        "losses": 18,
+        "losses": 19,
         "goals_for": 35,
-        "goals_against": 53,
-        "goal_difference": -18,
+        "goals_against": 54,
+        "goal_difference": -19,
         "points": 36,
-        "form": "DLLWW",
-        "form_label": "平负负胜胜"
+        "form": "LDLLW",
+        "form_label": "负平负负胜"
       },
       {
         "position": 10,
         "team_id": "ast_7bcbc6c0523644a3b4f0a8d60f5d59ab",
         "team": "纳尔瓦",
-        "played": 34,
+        "played": 35,
         "wins": 5,
         "draws": 5,
-        "losses": 24,
+        "losses": 25,
         "goals_for": 26,
-        "goals_against": 76,
-        "goal_difference": -50,
+        "goals_against": 78,
+        "goal_difference": -52,
         "points": 20,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       }
     ]
   },
@@ -573,7 +573,7 @@
         "match_id": "as_9d38333fc3cd4426862db87aa14aeaea",
         "date": "2026-11-01",
         "time": "10:30",
-        "status": "5",
+        "status": "FT",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -586,14 +586,15 @@
           "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
         },
         "ht_score": "0-0",
-        "reg_score": "0-0",
-        "venue": ""
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e7c0384fefcb49b2ae0f70596fbc5f24",
         "date": "2026-11-01",
         "time": "12:30",
-        "status": "12:30",
+        "status": "FT",
         "league": "爱沙尼亚超级联赛",
         "league_id": "asl_63319f32aa084688bf195f0230a542a0",
         "season": "2026",
@@ -605,7 +606,10 @@
           "name": "纳尔瓦",
           "team_id": "ast_7bcbc6c0523644a3b4f0a8d60f5d59ab"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f127081789ef4759b65cd8ee7984c5c9",
@@ -4341,44 +4345,6 @@
         "ht_score": "-",
         "venue": "Kuressaare Linnastaadion",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_e7c0384fefcb49b2ae0f70596fbc5f24",
-        "date": "2026-11-01",
-        "time": "12:30",
-        "status": "12:30",
-        "league": "爱沙尼亚超级联赛",
-        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
-        "season": "2026",
-        "home": {
-          "name": "弗洛拉",
-          "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52"
-        },
-        "away": {
-          "name": "纳尔瓦",
-          "team_id": "ast_7bcbc6c0523644a3b4f0a8d60f5d59ab"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9d38333fc3cd4426862db87aa14aeaea",
-        "date": "2026-11-01",
-        "time": "10:30",
-        "status": "5",
-        "league": "爱沙尼亚超级联赛",
-        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
-        "season": "2026",
-        "home": {
-          "name": "卡尔朱",
-          "team_id": "ast_65c6a522362042f494acbd4a5fea1e48"
-        },
-        "away": {
-          "name": "库雷萨雷",
-          "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-0",
-        "venue": ""
       }
     ]
   },
@@ -7991,13 +7957,13 @@
     }
   },
   "stats": {
-    "matches_completed": 174,
-    "total_goals": 536,
+    "matches_completed": 175,
+    "total_goals": 539,
     "avg_goals_per_match": 3.08,
-    "home_wins": 83,
-    "draws": 22,
+    "home_wins": 85,
+    "draws": 21,
     "away_wins": 69,
-    "home_win_pct": 47.7,
+    "home_win_pct": 48.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8150,15 +8116,15 @@
             "position": 3,
             "team_id": "ast_8828b12d61d34910a38cdca6e1b22e52",
             "team": "Flora",
-            "played": 34,
-            "wins": 19,
+            "played": 35,
+            "wins": 20,
             "draws": 1,
             "losses": 14,
-            "goals_for": 64,
+            "goals_for": 66,
             "goals_against": 49,
-            "goal_difference": 15,
-            "points": 58,
-            "form": "LLWLL"
+            "goal_difference": 17,
+            "points": 61,
+            "form": "WLLWL"
           }
         ],
         "meta": {
@@ -8795,7 +8761,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 7
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

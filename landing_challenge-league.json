@@ -204,6 +204,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
+        "team": "Winterthur",
+        "played": 12,
+        "wins": 7,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 26,
+        "goals_against": 11,
+        "goal_difference": 15,
+        "points": 24,
+        "form": "WWLWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
         "team": "Yverdon",
         "played": 12,
@@ -215,20 +229,6 @@
         "goal_difference": 9,
         "points": 22,
         "form": "LWWDL"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
-        "team": "Winterthur",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 23,
-        "goals_against": 11,
-        "goal_difference": 12,
-        "points": 21,
-        "form": "WLWWW"
       },
       {
         "position": 4,
@@ -288,20 +288,6 @@
       },
       {
         "position": 8,
-        "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833",
-        "team": "Wil",
-        "played": 11,
-        "wins": 2,
-        "draws": 5,
-        "losses": 4,
-        "goals_for": 18,
-        "goals_against": 24,
-        "goal_difference": -6,
-        "points": 11,
-        "form": "DDWLD"
-      },
-      {
-        "position": 9,
         "team_id": "ast_a262ed5c74de47218a0c19296770a244",
         "team": "Rapperswil-Jona",
         "played": 12,
@@ -313,6 +299,20 @@
         "goal_difference": -7,
         "points": 11,
         "form": "LDLWW"
+      },
+      {
+        "position": 9,
+        "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833",
+        "team": "Wil",
+        "played": 12,
+        "wins": 2,
+        "draws": 5,
+        "losses": 5,
+        "goals_for": 18,
+        "goals_against": 27,
+        "goal_difference": -9,
+        "points": 11,
+        "form": "LDDWL"
       },
       {
         "position": 10,
@@ -347,6 +347,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
+        "team": "温特图尔",
+        "played": 12,
+        "wins": 7,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 26,
+        "goals_against": 11,
+        "goal_difference": 15,
+        "points": 24,
+        "form": "WWLWW",
+        "form_label": "胜胜负胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
         "team": "伊夫尔登",
         "played": 12,
@@ -359,21 +374,6 @@
         "points": 22,
         "form": "LWWDL",
         "form_label": "负胜胜平负"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
-        "team": "温特图尔",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "losses": 2,
-        "goals_for": 23,
-        "goals_against": 11,
-        "goal_difference": 12,
-        "points": 21,
-        "form": "WLWWW",
-        "form_label": "胜负胜胜胜"
       },
       {
         "position": 4,
@@ -437,21 +437,6 @@
       },
       {
         "position": 8,
-        "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833",
-        "team": "维尔",
-        "played": 11,
-        "wins": 2,
-        "draws": 5,
-        "losses": 4,
-        "goals_for": 18,
-        "goals_against": 24,
-        "goal_difference": -6,
-        "points": 11,
-        "form": "DDWLD",
-        "form_label": "平平胜负平"
-      },
-      {
-        "position": 9,
         "team_id": "ast_a262ed5c74de47218a0c19296770a244",
         "team": "拉佩斯维尔-约纳",
         "played": 12,
@@ -464,6 +449,21 @@
         "points": 11,
         "form": "LDLWW",
         "form_label": "负平负胜胜"
+      },
+      {
+        "position": 9,
+        "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833",
+        "team": "维尔",
+        "played": 12,
+        "wins": 2,
+        "draws": 5,
+        "losses": 5,
+        "goals_for": 18,
+        "goals_against": 27,
+        "goal_difference": -9,
+        "points": 11,
+        "form": "LDDWL",
+        "form_label": "负平平胜负"
       },
       {
         "position": 10,
@@ -1103,7 +1103,7 @@
         "match_id": "as_efdc67f49454410ead98b73c05a3dbfe",
         "date": "2026-11-01",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1115,7 +1115,10 @@
           "name": "温特图尔",
           "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0468a484733448a29eff4bdeeb08eecc",
@@ -1135,7 +1138,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "丰特内特体育场",
         "status_label": "完场"
       },
       {
@@ -1156,7 +1159,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "3-2",
-        "venue": "",
+        "venue": "拉蓬泰斯奥林匹克体育场",
         "status_label": "完场"
       },
       {
@@ -2857,24 +2860,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_efdc67f49454410ead98b73c05a3dbfe",
-        "date": "2026-11-01",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "瑞士挑战联赛",
-        "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
-        "season": "2026/2027",
-        "home": {
-          "name": "维尔",
-          "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833"
-        },
-        "away": {
-          "name": "温特图尔",
-          "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6233,13 +6218,13 @@
     }
   },
   "stats": {
-    "matches_completed": 59,
-    "total_goals": 185,
-    "avg_goals_per_match": 3.14,
+    "matches_completed": 60,
+    "total_goals": 188,
+    "avg_goals_per_match": 3.13,
     "home_wins": 25,
     "draws": 16,
-    "away_wins": 18,
-    "home_win_pct": 42.4,
+    "away_wins": 19,
+    "home_win_pct": 41.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6376,6 +6361,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
+            "team": "Winterthur",
+            "played": 12,
+            "wins": 7,
+            "draws": 3,
+            "losses": 2,
+            "goals_for": 26,
+            "goals_against": 11,
+            "goal_difference": 15,
+            "points": 24,
+            "form": "WWLWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_9d70bed1241f4e37852bb2ff465c65ea",
             "team": "Yverdon",
             "played": 12,
@@ -6387,20 +6386,6 @@
             "goal_difference": 9,
             "points": 22,
             "form": "LWWDL"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
-            "team": "Winterthur",
-            "played": 11,
-            "wins": 6,
-            "draws": 3,
-            "losses": 2,
-            "goals_for": 23,
-            "goals_against": 11,
-            "goal_difference": 12,
-            "points": 21,
-            "form": "WLWWW"
           }
         ],
         "meta": {
@@ -7037,7 +7022,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

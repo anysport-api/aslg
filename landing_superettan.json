@@ -248,6 +248,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
+        "team": "Varberg",
+        "played": 29,
+        "wins": 13,
+        "draws": 9,
+        "losses": 7,
+        "goals_for": 48,
+        "goals_against": 37,
+        "goal_difference": 11,
+        "points": 48,
+        "form": "DDDDW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7",
         "team": "Ostersund",
         "played": 29,
@@ -259,20 +273,6 @@
         "goal_difference": 9,
         "points": 48,
         "form": "LWDDD"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
-        "team": "Varberg",
-        "played": 28,
-        "wins": 13,
-        "draws": 8,
-        "losses": 7,
-        "goals_for": 46,
-        "goals_against": 35,
-        "goal_difference": 11,
-        "points": 47,
-        "form": "DDDWW"
       },
       {
         "position": 5,
@@ -376,15 +376,15 @@
         "position": 12,
         "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f",
         "team": "Ljungskile",
-        "played": 28,
+        "played": 29,
         "wins": 7,
-        "draws": 9,
+        "draws": 10,
         "losses": 12,
-        "goals_for": 35,
-        "goals_against": 40,
+        "goals_for": 37,
+        "goals_against": 42,
         "goal_difference": -5,
-        "points": 30,
-        "form": "DWDLL"
+        "points": 31,
+        "form": "DDWDL"
       },
       {
         "position": 13,
@@ -476,6 +476,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
+        "team": "瓦尔贝里",
+        "played": 29,
+        "wins": 13,
+        "draws": 9,
+        "losses": 7,
+        "goals_for": 48,
+        "goals_against": 37,
+        "goal_difference": 11,
+        "points": 48,
+        "form": "DDDDW",
+        "form_label": "平平平平胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7",
         "team": "厄斯特松德",
         "played": 29,
@@ -488,21 +503,6 @@
         "points": 48,
         "form": "LWDDD",
         "form_label": "负胜平平平"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
-        "team": "瓦尔贝里",
-        "played": 28,
-        "wins": 13,
-        "draws": 8,
-        "losses": 7,
-        "goals_for": 46,
-        "goals_against": 35,
-        "goal_difference": 11,
-        "points": 47,
-        "form": "DDDWW",
-        "form_label": "平平平胜胜"
       },
       {
         "position": 5,
@@ -613,16 +613,16 @@
         "position": 12,
         "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f",
         "team": "柳恩斯基莱",
-        "played": 28,
+        "played": 29,
         "wins": 7,
-        "draws": 9,
+        "draws": 10,
         "losses": 12,
-        "goals_for": 35,
-        "goals_against": 40,
+        "goals_for": 37,
+        "goals_against": 42,
         "goal_difference": -5,
-        "points": 30,
-        "form": "DWDLL",
-        "form_label": "平胜平负负"
+        "points": 31,
+        "form": "DDWDL",
+        "form_label": "平平胜平负"
       },
       {
         "position": 13,
@@ -3293,7 +3293,7 @@
         "match_id": "as_925d2e98686248ea80c3114a577b5463",
         "date": "2026-11-01",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3305,7 +3305,10 @@
           "name": "柳恩斯基莱",
           "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a833bcc92bd748d0a1b56ea9a359774c",
@@ -3409,7 +3412,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "里姆内什瓦伦球场",
         "status_label": "完场"
       },
       {
@@ -8311,24 +8314,6 @@
         "away": {
           "name": "厄勒布鲁",
           "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_925d2e98686248ea80c3114a577b5463",
-        "date": "2026-11-01",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "瓦尔贝里",
-          "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9"
-        },
-        "away": {
-          "name": "柳恩斯基莱",
-          "team_id": "ast_a5efa8a709b54eafa1aba3bddd9b7f5f"
         },
         "venue": ""
       }
@@ -14024,13 +14009,13 @@
     }
   },
   "stats": {
-    "matches_completed": 229,
-    "total_goals": 672,
-    "avg_goals_per_match": 2.93,
+    "matches_completed": 230,
+    "total_goals": 676,
+    "avg_goals_per_match": 2.94,
     "home_wins": 94,
-    "draws": 61,
+    "draws": 62,
     "away_wins": 74,
-    "home_win_pct": 41.0,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14188,17 +14173,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_db9a27e8568b4c4aa2fb058a0da362b7",
-            "team": "Ostersund",
+            "team_id": "ast_b9e52935906e4ad1ab975cd529b28ef9",
+            "team": "Varberg",
             "played": 29,
-            "wins": 12,
-            "draws": 12,
-            "losses": 5,
-            "goals_for": 38,
-            "goals_against": 29,
-            "goal_difference": 9,
+            "wins": 13,
+            "draws": 9,
+            "losses": 7,
+            "goals_for": 48,
+            "goals_against": 37,
+            "goal_difference": 11,
             "points": 48,
-            "form": "LWDDD"
+            "form": "DDDDW"
           }
         ],
         "meta": {
@@ -14856,7 +14841,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 11
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

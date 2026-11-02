@@ -190,6 +190,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee",
+        "team": "OKMK",
+        "played": 26,
+        "wins": 13,
+        "draws": 6,
+        "losses": 7,
+        "goals_for": 38,
+        "goals_against": 33,
+        "goal_difference": 5,
+        "points": 45,
+        "form": "WWWDW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645",
         "team": "Nasaf Qarshi",
         "played": 26,
@@ -203,7 +217,7 @@
         "form": "DWDWW"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_f0e12c94dee7454bab9e2b5092ef0291",
         "team": "Buxoro",
         "played": 26,
@@ -217,32 +231,18 @@
         "form": "DDWWL"
       },
       {
-        "position": 6,
-        "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee",
-        "team": "OKMK",
-        "played": 25,
-        "wins": 12,
-        "draws": 6,
-        "losses": 7,
-        "goals_for": 36,
-        "goals_against": 32,
-        "goal_difference": 4,
-        "points": 42,
-        "form": "WWDWL"
-      },
-      {
         "position": 7,
         "team_id": "ast_29c221727c7a4d89bebcac38e811f554",
         "team": "Lok. Tashkent",
-        "played": 25,
+        "played": 26,
         "wins": 11,
         "draws": 7,
-        "losses": 7,
-        "goals_for": 40,
-        "goals_against": 31,
-        "goal_difference": 9,
+        "losses": 8,
+        "goals_for": 41,
+        "goals_against": 33,
+        "goal_difference": 8,
         "points": 40,
-        "form": "DDWLW"
+        "form": "LDDWL"
       },
       {
         "position": 8,
@@ -419,6 +419,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee",
+        "team": "OKMK",
+        "played": 26,
+        "wins": 13,
+        "draws": 6,
+        "losses": 7,
+        "goals_for": 38,
+        "goals_against": 33,
+        "goal_difference": 5,
+        "points": 45,
+        "form": "WWWDW",
+        "form_label": "胜胜胜平胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_c2fdb15032aa4222b61d2fd400c7e645",
         "team": "纳萨夫",
         "played": 26,
@@ -433,7 +448,7 @@
         "form_label": "平胜平胜胜"
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "ast_f0e12c94dee7454bab9e2b5092ef0291",
         "team": "布哈拉",
         "played": 26,
@@ -448,34 +463,19 @@
         "form_label": "平平胜胜负"
       },
       {
-        "position": 6,
-        "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee",
-        "team": "OKMK",
-        "played": 25,
-        "wins": 12,
-        "draws": 6,
-        "losses": 7,
-        "goals_for": 36,
-        "goals_against": 32,
-        "goal_difference": 4,
-        "points": 42,
-        "form": "WWDWL",
-        "form_label": "胜胜平胜负"
-      },
-      {
         "position": 7,
         "team_id": "ast_29c221727c7a4d89bebcac38e811f554",
         "team": "塔什干火车头",
-        "played": 25,
+        "played": 26,
         "wins": 11,
         "draws": 7,
-        "losses": 7,
-        "goals_for": 40,
-        "goals_against": 31,
-        "goal_difference": 9,
+        "losses": 8,
+        "goals_for": 41,
+        "goals_against": 33,
+        "goal_difference": 8,
         "points": 40,
-        "form": "DDWLW",
-        "form_label": "平平胜负胜"
+        "form": "LDDWL",
+        "form_label": "负平平胜负"
       },
       {
         "position": 8,
@@ -1295,7 +1295,7 @@
         "match_id": "as_5e4a7aac60344500b11ff6a61a1316c5",
         "date": "2026-11-01",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1307,7 +1307,10 @@
           "name": "OKMK",
           "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b7c9406715d14cd3821ad4e61e8ee268",
@@ -1411,7 +1414,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Sogdiana Sport Complex",
         "status_label": "完场"
       },
       {
@@ -1432,7 +1435,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Xorazm Stadium",
         "status_label": "完场"
       },
       {
@@ -6313,24 +6316,6 @@
         "ht_score": "-",
         "venue": "Milliy Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_5e4a7aac60344500b11ff6a61a1316c5",
-        "date": "2026-11-01",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "season": "2026",
-        "home": {
-          "name": "塔什干火车头",
-          "team_id": "ast_29c221727c7a4d89bebcac38e811f554"
-        },
-        "away": {
-          "name": "OKMK",
-          "team_id": "ast_ee825a3f0c7f4d9999309a5e6b76ccee"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8214,13 +8199,13 @@
     }
   },
   "stats": {
-    "matches_completed": 206,
-    "total_goals": 542,
+    "matches_completed": 207,
+    "total_goals": 545,
     "avg_goals_per_match": 2.63,
     "home_wins": 87,
     "draws": 49,
-    "away_wins": 70,
-    "home_win_pct": 42.2,
+    "away_wins": 71,
+    "home_win_pct": 42.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -9018,7 +9003,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 35
+    "upcoming_matches": 34
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }

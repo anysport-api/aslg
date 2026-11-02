@@ -5324,7 +5324,7 @@
         "match_id": "as_7fdad13189954e3890d3de2daa9d4514",
         "date": "2026-11-03",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5336,15 +5336,13 @@
           "name": "Marquense",
           "team_id": "ast_3501731a2bdc4d71828f4b7bdc29c055"
         },
-        "ht_score": "-",
-        "venue": "马里奥·坎佩斯科体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_51328f8644034b658ab13d476ca51b29",
         "date": "2026-11-03",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5356,33 +5354,13 @@
           "name": "马拉卡特科",
           "team_id": "ast_1da7dd7f7a734b98928c65747892748a"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_9c1d58bab9ed4821a572f94dbdf20b2d",
-        "date": "2026-11-02",
-        "time": "02:00",
-        "status": "02:00",
-        "league": "危地马拉甲级联赛",
-        "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
-        "season": "2026/2027",
-        "home": {
-          "name": "通讯队",
-          "team_id": "ast_637f86a734284586a27a23fd1c80bae2"
-        },
-        "away": {
-          "name": "米克斯科体育",
-          "team_id": "ast_ce970a90023048da809b747014bafbc5"
-        },
         "venue": ""
       },
       {
         "match_id": "as_d0f11fa4c4674d66a20f5067761ef130",
-        "date": "2026-11-01",
-        "time": "23:00",
-        "status": "23:00",
+        "date": "2026-11-02",
+        "time": "00:00",
+        "status": "FT",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5394,43 +5372,31 @@
           "name": "Coban Imperial",
           "team_id": "ast_1776301b6a084f8da95c163ae93c4b11"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
-        "match_id": "as_cb64666a4a464a9a95eef62057d01205",
-        "date": "2026-11-01",
-        "time": "21:00",
-        "status": "21:00",
+        "match_id": "as_9c1d58bab9ed4821a572f94dbdf20b2d",
+        "date": "2026-11-02",
+        "time": "02:00",
+        "status": "FT",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
         "home": {
-          "name": "Deportivo San Pedro",
-          "team_id": "ast_ab573456636d475d9c0600da4136e0c9"
+          "name": "通讯队",
+          "team_id": "ast_637f86a734284586a27a23fd1c80bae2"
         },
         "away": {
-          "name": "市立队",
-          "team_id": "ast_8f97f2f16b10460394aa1a9d47c5f75e"
+          "name": "米克斯科体育",
+          "team_id": "ast_ce970a90023048da809b747014bafbc5"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3732931907c44a1cb4e3d65eef192db5",
-        "date": "2026-11-01",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "危地马拉甲级联赛",
-        "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
-        "season": "2026/2027",
-        "home": {
-          "name": "极光",
-          "team_id": "ast_2449f5998be445c5b4bf87b6c26de68d"
-        },
-        "away": {
-          "name": "安提瓜",
-          "team_id": "ast_9960323dcf924b1892e0dceb3fca1d2a"
-        },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7633,7 +7599,7 @@
     "teams_all_time": 21,
     "standings_rows_current": 12,
     "matches_current_season": 206,
-    "upcoming_matches": 30
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/11/01"
+  "updated_at": "2026/11/02"
 }
