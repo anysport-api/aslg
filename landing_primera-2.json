@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
@@ -220,6 +220,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_ff06a102b72c4cdfb72cfefa888e2cda",
+        "team": "Maldonado",
+        "played": 13,
+        "wins": 6,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 18,
+        "goals_against": 10,
+        "goal_difference": 8,
+        "points": 22,
+        "form": "DWLDW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b",
         "team": "Penarol",
         "played": 13,
@@ -231,20 +245,6 @@
         "goal_difference": 8,
         "points": 22,
         "form": "DDLDW"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_ff06a102b72c4cdfb72cfefa888e2cda",
-        "team": "Maldonado",
-        "played": 12,
-        "wins": 6,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 18,
-        "goals_against": 10,
-        "goal_difference": 8,
-        "points": 21,
-        "form": "WLDWW"
       },
       {
         "position": 6,
@@ -334,15 +334,15 @@
         "position": 12,
         "team_id": "ast_f114328b14054b7faad9326206df767b",
         "team": "Albion",
-        "played": 12,
+        "played": 13,
         "wins": 4,
-        "draws": 0,
+        "draws": 1,
         "losses": 8,
         "goals_for": 15,
         "goals_against": 20,
         "goal_difference": -5,
-        "points": 12,
-        "form": "WWWWL"
+        "points": 13,
+        "form": "DWWWW"
       },
       {
         "position": 13,
@@ -449,6 +449,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_ff06a102b72c4cdfb72cfefa888e2cda",
+        "team": "马尔多纳多",
+        "played": 13,
+        "wins": 6,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 18,
+        "goals_against": 10,
+        "goal_difference": 8,
+        "points": 22,
+        "form": "DWLDW",
+        "form_label": "平胜负平胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_9020ced125d94f0eb8d61d459ae32f7b",
         "team": "佩纳罗尔",
         "played": 13,
@@ -461,21 +476,6 @@
         "points": 22,
         "form": "DDLDW",
         "form_label": "平平负平胜"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_ff06a102b72c4cdfb72cfefa888e2cda",
-        "team": "马尔多纳多",
-        "played": 12,
-        "wins": 6,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 18,
-        "goals_against": 10,
-        "goal_difference": 8,
-        "points": 21,
-        "form": "WLDWW",
-        "form_label": "胜负平胜胜"
       },
       {
         "position": 6,
@@ -571,16 +571,16 @@
         "position": 12,
         "team_id": "ast_f114328b14054b7faad9326206df767b",
         "team": "阿尔比恩",
-        "played": 12,
+        "played": 13,
         "wins": 4,
-        "draws": 0,
+        "draws": 1,
         "losses": 8,
         "goals_for": 15,
         "goals_against": 20,
         "goal_difference": -5,
-        "points": 12,
-        "form": "WWWWL",
-        "form_label": "胜胜胜胜负"
+        "points": 13,
+        "form": "DWWWW",
+        "form_label": "平胜胜胜胜"
       },
       {
         "position": 13,
@@ -665,7 +665,7 @@
         "match_id": "as_1ad097ca11894bc2bb0c3633986ef2db",
         "date": "2026-11-02",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -677,7 +677,10 @@
           "name": "马尔多纳多",
           "team_id": "ast_ff06a102b72c4cdfb72cfefa888e2cda"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_89f95c63983a446b9dedc36f56efdc1b",
@@ -697,7 +700,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "亚伯拉罕·帕拉迪诺公园",
         "status_label": "完场"
       },
       {
@@ -718,7 +721,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Parque Artigas",
         "status_label": "完场"
       },
       {
@@ -781,7 +784,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Estadio Osvaldo Roberto",
         "status_label": "完场"
       },
       {
@@ -6560,26 +6563,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_1ad097ca11894bc2bb0c3633986ef2db",
-        "date": "2026-11-02",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "阿尔比恩",
-          "team_id": "ast_f114328b14054b7faad9326206df767b"
-        },
-        "away": {
-          "name": "马尔多纳多",
-          "team_id": "ast_ff06a102b72c4cdfb72cfefa888e2cda"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -11924,13 +11908,13 @@
     }
   },
   "stats": {
-    "matches_completed": 280,
+    "matches_completed": 281,
     "total_goals": 668,
-    "avg_goals_per_match": 2.39,
+    "avg_goals_per_match": 2.38,
     "home_wins": 118,
-    "draws": 70,
+    "draws": 71,
     "away_wins": 92,
-    "home_win_pct": 42.1,
+    "home_win_pct": 42.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12669,7 +12653,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 281,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/02"
+  "updated_at": "2026/11/03"
 }

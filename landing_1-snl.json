@@ -216,15 +216,15 @@
         "position": 1,
         "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5",
         "team": "Koper",
-        "played": 13,
-        "wins": 7,
+        "played": 14,
+        "wins": 8,
         "draws": 4,
         "losses": 2,
-        "goals_for": 23,
-        "goals_against": 11,
-        "goal_difference": 12,
-        "points": 25,
-        "form": "WWDWL"
+        "goals_for": 25,
+        "goals_against": 12,
+        "goal_difference": 13,
+        "points": 28,
+        "form": "WWWDW"
       },
       {
         "position": 2,
@@ -258,15 +258,15 @@
         "position": 4,
         "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
         "team": "Bravo",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 5,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 13,
-        "goal_difference": 1,
+        "losses": 4,
+        "goals_for": 15,
+        "goals_against": 15,
+        "goal_difference": 0,
         "points": 20,
-        "form": "DDLWW"
+        "form": "LDDLW"
       },
       {
         "position": 5,
@@ -358,16 +358,16 @@
         "position": 1,
         "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5",
         "team": "科佩尔",
-        "played": 13,
-        "wins": 7,
+        "played": 14,
+        "wins": 8,
         "draws": 4,
         "losses": 2,
-        "goals_for": 23,
-        "goals_against": 11,
-        "goal_difference": 12,
-        "points": 25,
-        "form": "WWDWL",
-        "form_label": "胜胜平胜负"
+        "goals_for": 25,
+        "goals_against": 12,
+        "goal_difference": 13,
+        "points": 28,
+        "form": "WWWDW",
+        "form_label": "胜胜胜平胜"
       },
       {
         "position": 2,
@@ -403,16 +403,16 @@
         "position": 4,
         "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c",
         "team": "布拉沃",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 5,
-        "losses": 3,
-        "goals_for": 14,
-        "goals_against": 13,
-        "goal_difference": 1,
+        "losses": 4,
+        "goals_for": 15,
+        "goals_against": 15,
+        "goal_difference": 0,
         "points": 20,
-        "form": "DDLWW",
-        "form_label": "平平负胜胜"
+        "form": "LDDLW",
+        "form_label": "负平平负胜"
       },
       {
         "position": 5,
@@ -2747,7 +2747,7 @@
         "match_id": "as_d47c0a80063a46ce93356b64b0d43b55",
         "date": "2026-11-02",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -2759,7 +2759,10 @@
           "name": "科佩尔",
           "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d0c0eaf1f0034d058eb76f9a3bbef1a4",
@@ -2800,7 +2803,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Mestni stadion Fazanerija",
         "status_label": "完场"
       },
       {
@@ -2821,7 +2824,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "5-0",
-        "venue": "",
+        "venue": "Sportni park Aluminij",
         "status_label": "完场"
       },
       {
@@ -2842,7 +2845,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "柳德斯基·弗尔特体育场",
         "status_label": "完场"
       },
       {
@@ -4610,24 +4613,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_d47c0a80063a46ce93356b64b0d43b55",
-        "date": "2026-11-02",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "斯洛文尼亚甲级联赛",
-        "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
-        "season": "2026/2027",
-        "home": {
-          "name": "布拉沃",
-          "team_id": "ast_e0576bc74a854f54bb881d33c2ac271c"
-        },
-        "away": {
-          "name": "科佩尔",
-          "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8481,13 +8466,13 @@
     }
   },
   "stats": {
-    "matches_completed": 68,
-    "total_goals": 174,
-    "avg_goals_per_match": 2.56,
+    "matches_completed": 69,
+    "total_goals": 177,
+    "avg_goals_per_match": 2.57,
     "home_wins": 23,
     "draws": 24,
-    "away_wins": 21,
-    "home_win_pct": 33.8,
+    "away_wins": 22,
+    "home_win_pct": 33.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8514,8 +8499,8 @@
     },
     "leader": {
       "team": "Koper",
-      "points": 25,
-      "played": 13
+      "points": 28,
+      "played": 14
     }
   },
   "coverage": {
@@ -8612,15 +8597,15 @@
             "position": 1,
             "team_id": "ast_4c78dc1f03a242ddab00a31eb5030ea5",
             "team": "Koper",
-            "played": 13,
-            "wins": 7,
+            "played": 14,
+            "wins": 8,
             "draws": 4,
             "losses": 2,
-            "goals_for": 23,
-            "goals_against": 11,
-            "goal_difference": 12,
-            "points": 25,
-            "form": "WWDWL"
+            "goals_for": 25,
+            "goals_against": 12,
+            "goal_difference": 13,
+            "points": 28,
+            "form": "WWWDW"
           },
           {
             "position": 2,
@@ -9282,7 +9267,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/11/02"
+  "updated_at": "2026/11/03"
 }

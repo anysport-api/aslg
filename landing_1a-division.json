@@ -252,6 +252,7 @@
       },
       {
         "position": 8,
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
         "team": "San Marcos",
         "played": 16,
         "wins": 4,
@@ -400,7 +401,8 @@
       },
       {
         "position": 8,
-        "team": "阿帕雷西达",
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
+        "team": "圣马尔科斯",
         "played": 16,
         "wins": 4,
         "draws": 3,
@@ -461,6 +463,24 @@
   "fixtures": {
     "season": "2026-2027",
     "matches": [
+      {
+        "match_id": "as_2c3cc29971754017bb82d706b8efba55",
+        "date": "2026-11-04",
+        "time": "21:00",
+        "status": "21:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "塞巴科体育",
+          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
+        },
+        "away": {
+          "name": "马塔加尔帕",
+          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_bf05debeefb84f8e84fbf45f0763a534",
         "date": "2026-11-02",
@@ -549,7 +569,7 @@
         "match_id": "as_7491a9d260454b7781e47bd0e10fdcd4",
         "date": "2026-10-31",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -561,7 +581,10 @@
           "name": "迪里安根",
           "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_03047172a2324a23814bd8d8b17cbe94",
@@ -772,25 +795,6 @@
         "reg_score": "0-0",
         "venue": "",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_2c3cc29971754017bb82d706b8efba55",
-        "date": "2026-10-21",
-        "time": "21:00",
-        "status": "Postp.",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "塞巴科体育",
-          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
-        },
-        "away": {
-          "name": "马塔加尔帕",
-          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_4d04d9cb8fd14b94ac1e9b3c7bbe00c9",
@@ -2139,25 +2143,22 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_bf05debeefb84f8e84fbf45f0763a534",
-        "date": "2026-11-02",
-        "time": "01:00",
-        "status": "FT",
+        "match_id": "as_2c3cc29971754017bb82d706b8efba55",
+        "date": "2026-11-04",
+        "time": "21:00",
+        "status": "21:00",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
         "home": {
-          "name": "马那瓜FC",
-          "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
+          "name": "塞巴科体育",
+          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
         },
         "away": {
-          "name": "马那瓜UNAN",
-          "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
+          "name": "马塔加尔帕",
+          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
         },
-        "ht_score": "2-0",
-        "reg_score": "4-0",
-        "venue": "",
-        "status_label": "完场"
+        "venue": ""
       }
     ]
   },
@@ -3689,13 +3690,13 @@
     }
   },
   "stats": {
-    "matches_completed": 78,
-    "total_goals": 230,
-    "avg_goals_per_match": 2.95,
+    "matches_completed": 79,
+    "total_goals": 232,
+    "avg_goals_per_match": 2.94,
     "home_wins": 29,
     "draws": 15,
-    "away_wins": 34,
-    "home_win_pct": 37.2,
+    "away_wins": 35,
+    "home_win_pct": 36.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4495,5 +4496,5 @@
     "matches_current_season": 80,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/11/02"
+  "updated_at": "2026/11/03"
 }

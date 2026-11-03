@@ -335,15 +335,15 @@
         "position": 13,
         "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
         "team": "Orense",
-        "played": 34,
+        "played": 35,
         "wins": 10,
-        "draws": 8,
+        "draws": 9,
         "losses": 16,
-        "goals_for": 42,
-        "goals_against": 50,
+        "goals_for": 43,
+        "goals_against": 51,
         "goal_difference": -8,
-        "points": 38,
-        "form": "WDDLL"
+        "points": 39,
+        "form": "DWDDL"
       },
       {
         "position": 14,
@@ -363,15 +363,15 @@
         "position": 15,
         "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
         "team": "Tecnico U.",
-        "played": 34,
+        "played": 35,
         "wins": 11,
-        "draws": 3,
+        "draws": 4,
         "losses": 20,
-        "goals_for": 33,
-        "goals_against": 46,
+        "goals_for": 34,
+        "goals_against": 47,
         "goal_difference": -13,
-        "points": 36,
-        "form": "WLLDW"
+        "points": 37,
+        "form": "DWLLD"
       },
       {
         "position": 16,
@@ -572,16 +572,16 @@
         "position": 13,
         "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
         "team": "奥伦塞",
-        "played": 34,
+        "played": 35,
         "wins": 10,
-        "draws": 8,
+        "draws": 9,
         "losses": 16,
-        "goals_for": 42,
-        "goals_against": 50,
+        "goals_for": 43,
+        "goals_against": 51,
         "goal_difference": -8,
-        "points": 38,
-        "form": "WDDLL",
-        "form_label": "胜平平负负"
+        "points": 39,
+        "form": "DWDDL",
+        "form_label": "平胜平平负"
       },
       {
         "position": 14,
@@ -602,16 +602,16 @@
         "position": 15,
         "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
         "team": "技术大学队",
-        "played": 34,
+        "played": 35,
         "wins": 11,
-        "draws": 3,
+        "draws": 4,
         "losses": 20,
-        "goals_for": 33,
-        "goals_against": 46,
+        "goals_for": 34,
+        "goals_against": 47,
         "goal_difference": -13,
-        "points": 36,
-        "form": "WLLDW",
-        "form_label": "胜负负平胜"
+        "points": 37,
+        "form": "DWLLD",
+        "form_label": "平胜负负平"
       },
       {
         "position": 16,
@@ -1329,7 +1329,7 @@
         "match_id": "as_93ff1aec117f4aff83e9a26803ac81d5",
         "date": "2026-11-02",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -1341,7 +1341,10 @@
           "name": "技术大学队",
           "team_id": "ast_879e96bef6454562ab9ff79246715ed7"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_20d84f7967914be0a6e30ab90a439127",
@@ -1424,7 +1427,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "何塞球场",
         "status_label": "完场"
       },
       {
@@ -1445,7 +1448,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Estadio George Capwell",
         "status_label": "完场"
       },
       {
@@ -1466,7 +1469,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "Estadio Bellavista",
         "status_label": "完场"
       },
       {
@@ -7839,24 +7842,6 @@
           "team_id": "ast_7d7851a20cff48739670bd26567661a4"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_93ff1aec117f4aff83e9a26803ac81d5",
-        "date": "2026-11-02",
-        "time": "20:30",
-        "status": "20:30",
-        "league": "厄瓜多尔职业联赛",
-        "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
-        "season": "2026",
-        "home": {
-          "name": "奥伦塞",
-          "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
-        },
-        "away": {
-          "name": "技术大学队",
-          "team_id": "ast_879e96bef6454562ab9ff79246715ed7"
-        },
-        "venue": ""
       }
     ]
   },
@@ -12534,13 +12519,13 @@
     }
   },
   "stats": {
-    "matches_completed": 277,
-    "total_goals": 642,
+    "matches_completed": 278,
+    "total_goals": 644,
     "avg_goals_per_match": 2.32,
     "home_wins": 131,
-    "draws": 67,
+    "draws": 68,
     "away_wins": 79,
-    "home_win_pct": 47.3,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13356,7 +13341,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 16,
     "matches_current_season": 312,
-    "upcoming_matches": 35
+    "upcoming_matches": 34
   },
-  "updated_at": "2026/11/02"
+  "updated_at": "2026/11/03"
 }

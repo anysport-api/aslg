@@ -312,20 +312,34 @@
       },
       {
         "position": 5,
-        "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
-        "team": "Dila Gori",
-        "played": 30,
-        "wins": 12,
-        "draws": 4,
-        "losses": 14,
-        "goals_for": 40,
-        "goals_against": 37,
-        "goal_difference": 3,
+        "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
+        "team": "Torpedo Kutaisi",
+        "played": 31,
+        "wins": 10,
+        "draws": 10,
+        "losses": 11,
+        "goals_for": 50,
+        "goals_against": 42,
+        "goal_difference": 8,
         "points": 40,
-        "form": "LLLWL"
+        "form": "WLLDL"
       },
       {
         "position": 6,
+        "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
+        "team": "Dila Gori",
+        "played": 31,
+        "wins": 12,
+        "draws": 4,
+        "losses": 15,
+        "goals_for": 41,
+        "goals_against": 39,
+        "goal_difference": 2,
+        "points": 40,
+        "form": "LLLLW"
+      },
+      {
+        "position": 7,
         "team_id": "ast_593d552c5fb9404eb3a0357ed098135b",
         "team": "Samgurali",
         "played": 31,
@@ -337,20 +351,6 @@
         "goal_difference": -12,
         "points": 39,
         "form": "DLWWL"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
-        "team": "Torpedo Kutaisi",
-        "played": 30,
-        "wins": 9,
-        "draws": 10,
-        "losses": 11,
-        "goals_for": 48,
-        "goals_against": 41,
-        "goal_difference": 7,
-        "points": 37,
-        "form": "LLDLW"
       },
       {
         "position": 8,
@@ -458,21 +458,36 @@
       },
       {
         "position": 5,
-        "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
-        "team": "迪拉",
-        "played": 30,
-        "wins": 12,
-        "draws": 4,
-        "losses": 14,
-        "goals_for": 40,
-        "goals_against": 37,
-        "goal_difference": 3,
+        "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
+        "team": "库塔伊西",
+        "played": 31,
+        "wins": 10,
+        "draws": 10,
+        "losses": 11,
+        "goals_for": 50,
+        "goals_against": 42,
+        "goal_difference": 8,
         "points": 40,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
+        "form": "WLLDL",
+        "form_label": "胜负负平负"
       },
       {
         "position": 6,
+        "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
+        "team": "迪拉",
+        "played": 31,
+        "wins": 12,
+        "draws": 4,
+        "losses": 15,
+        "goals_for": 41,
+        "goals_against": 39,
+        "goal_difference": 2,
+        "points": 40,
+        "form": "LLLLW",
+        "form_label": "负负负负胜"
+      },
+      {
+        "position": 7,
         "team_id": "ast_593d552c5fb9404eb3a0357ed098135b",
         "team": "萨姆古拉利",
         "played": 31,
@@ -485,21 +500,6 @@
         "points": 39,
         "form": "DLWWL",
         "form_label": "平负胜胜负"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9",
-        "team": "库塔伊西",
-        "played": 30,
-        "wins": 9,
-        "draws": 10,
-        "losses": 11,
-        "goals_for": 48,
-        "goals_against": 41,
-        "goal_difference": 7,
-        "points": 37,
-        "form": "LLDLW",
-        "form_label": "负负平负胜"
       },
       {
         "position": 8,
@@ -1008,7 +1008,7 @@
       {
         "match_id": "as_24b4b0466f2e4584b9401838231d72b2",
         "date": "2026-11-07",
-        "time": "11:00",
+        "time": "10:30",
         "status": "Not Started",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
@@ -1069,7 +1069,7 @@
         "match_id": "as_22e42d6e25aa46db808896c421f36e3c",
         "date": "2026-11-02",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -1081,7 +1081,10 @@
           "name": "迪拉",
           "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_22dc283c121b46bfa31c996c91ff4551",
@@ -1143,7 +1146,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "鲍里斯·帕恰泽迪纳摩竞技场",
         "status_label": "完场"
       },
       {
@@ -1164,7 +1167,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "26 May Stadium",
         "status_label": "完场"
       },
       {
@@ -4802,7 +4805,7 @@
       {
         "match_id": "as_24b4b0466f2e4584b9401838231d72b2",
         "date": "2026-11-07",
-        "time": "11:00",
+        "time": "10:30",
         "status": "Not Started",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
@@ -4818,24 +4821,6 @@
         "ht_score": "-",
         "venue": "Agrano Vachadze Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_22e42d6e25aa46db808896c421f36e3c",
-        "date": "2026-11-02",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "库塔伊西",
-          "team_id": "ast_c150416c34e44ff3a44e35d4feb05cd9"
-        },
-        "away": {
-          "name": "迪拉",
-          "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7405,13 +7390,13 @@
     }
   },
   "stats": {
-    "matches_completed": 154,
-    "total_goals": 407,
-    "avg_goals_per_match": 2.64,
-    "home_wins": 63,
+    "matches_completed": 155,
+    "total_goals": 410,
+    "avg_goals_per_match": 2.65,
+    "home_wins": 64,
     "draws": 44,
     "away_wins": 47,
-    "home_win_pct": 40.9,
+    "home_win_pct": 41.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8209,7 +8194,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 26
+    "upcoming_matches": 25
   },
-  "updated_at": "2026/11/02"
+  "updated_at": "2026/11/03"
 }

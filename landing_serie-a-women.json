@@ -128,15 +128,15 @@
         "position": 5,
         "team_id": "ast_234fe22fd43a4255a471f25a54266a04",
         "team": "Fiorentina W",
-        "played": 4,
+        "played": 5,
         "wins": 2,
         "draws": 1,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 4,
-        "goal_difference": 1,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 6,
+        "goal_difference": 0,
         "points": 7,
-        "form": "WDWL"
+        "form": "LWDWL"
       },
       {
         "position": 6,
@@ -168,6 +168,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_2d284290f1124449b661aa61861a62ce",
+        "team": "Juventus W",
+        "played": 5,
+        "wins": 2,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 13,
+        "goal_difference": -3,
+        "points": 6,
+        "form": "WLLLW"
+      },
+      {
+        "position": 9,
         "team_id": "ast_67b8bd75213c4202b652c26f4ac2fb01",
         "team": "Napoli W",
         "played": 5,
@@ -179,20 +193,6 @@
         "goal_difference": -1,
         "points": 4,
         "form": "LDWLL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_2d284290f1124449b661aa61861a62ce",
-        "team": "Juventus W",
-        "played": 4,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 12,
-        "goal_difference": -4,
-        "points": 3,
-        "form": "LLLW"
       },
       {
         "position": 10,
@@ -302,16 +302,16 @@
         "position": 5,
         "team_id": "ast_234fe22fd43a4255a471f25a54266a04",
         "team": "佛罗伦萨",
-        "played": 4,
+        "played": 5,
         "wins": 2,
         "draws": 1,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 4,
-        "goal_difference": 1,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 6,
+        "goal_difference": 0,
         "points": 7,
-        "form": "WDWL",
-        "form_label": "胜平胜负"
+        "form": "LWDWL",
+        "form_label": "负胜平胜负"
       },
       {
         "position": 6,
@@ -345,6 +345,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_2d284290f1124449b661aa61861a62ce",
+        "team": "尤文图斯",
+        "played": 5,
+        "wins": 2,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 13,
+        "goal_difference": -3,
+        "points": 6,
+        "form": "WLLLW",
+        "form_label": "胜负负负胜"
+      },
+      {
+        "position": 9,
         "team_id": "ast_67b8bd75213c4202b652c26f4ac2fb01",
         "team": "那不勒斯",
         "played": 5,
@@ -357,21 +372,6 @@
         "points": 4,
         "form": "LDWLL",
         "form_label": "负平胜负负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_2d284290f1124449b661aa61861a62ce",
-        "team": "尤文图斯",
-        "played": 4,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 8,
-        "goals_against": 12,
-        "goal_difference": -4,
-        "points": 3,
-        "form": "LLLW",
-        "form_label": "负负负胜"
       },
       {
         "position": 10,
@@ -2481,7 +2481,7 @@
         "match_id": "as_671dc9057b5140f88f1de82f6b5d5de8",
         "date": "2026-11-02",
         "time": "19:30",
-        "status": "19:30",
+        "status": "FT",
         "league": "意大利女足甲级联赛",
         "league_id": "asl_f45ade7446d04d69ad22ed205b9259f6",
         "season": "2026/2027",
@@ -2493,7 +2493,10 @@
           "name": "尤文图斯",
           "team_id": "ast_2d284290f1124449b661aa61861a62ce"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1b9556ee8a204c56bd7c671293dab03a",
@@ -2576,7 +2579,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "恩佐·里奇球场",
         "status_label": "完场"
       },
       {
@@ -2597,7 +2600,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "利贝罗·利贝拉蒂体育场",
         "status_label": "完场"
       },
       {
@@ -3585,24 +3588,6 @@
         "ht_score": "-",
         "venue": "Centro Sportivo Peppino Vismara",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_671dc9057b5140f88f1de82f6b5d5de8",
-        "date": "2026-11-02",
-        "time": "19:30",
-        "status": "19:30",
-        "league": "意大利女足甲级联赛",
-        "league_id": "asl_f45ade7446d04d69ad22ed205b9259f6",
-        "season": "2026/2027",
-        "home": {
-          "name": "佛罗伦萨",
-          "team_id": "ast_234fe22fd43a4255a471f25a54266a04"
-        },
-        "away": {
-          "name": "尤文图斯",
-          "team_id": "ast_2d284290f1124449b661aa61861a62ce"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4034,13 +4019,13 @@
     }
   },
   "stats": {
-    "matches_completed": 29,
-    "total_goals": 84,
+    "matches_completed": 30,
+    "total_goals": 87,
     "avg_goals_per_match": 2.9,
     "home_wins": 13,
     "draws": 7,
-    "away_wins": 9,
-    "home_win_pct": 44.8,
+    "away_wins": 10,
+    "home_win_pct": 43.3,
     "biggest_win": {
       "margin": 3,
       "match": {
@@ -4857,7 +4842,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/11/02"
+  "updated_at": "2026/11/03"
 }
