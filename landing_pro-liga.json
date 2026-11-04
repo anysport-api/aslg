@@ -96,6 +96,20 @@
       },
       {
         "position": 5,
+        "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd",
+        "team": "Olimpik-Mobiuz",
+        "played": 25,
+        "wins": 13,
+        "draws": 6,
+        "losses": 6,
+        "goals_for": 51,
+        "goals_against": 30,
+        "goal_difference": 21,
+        "points": 45,
+        "form": "WWWWD"
+      },
+      {
+        "position": 6,
         "team_id": "ast_e40717de01014c059413c1450aa1fc56",
         "team": "Kattaqurgon",
         "played": 25,
@@ -107,20 +121,6 @@
         "goal_difference": 10,
         "points": 43,
         "form": "WLWDW"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd",
-        "team": "Olimpik-Mobiuz",
-        "played": 24,
-        "wins": 12,
-        "draws": 6,
-        "losses": 6,
-        "goals_for": 48,
-        "goals_against": 29,
-        "goal_difference": 19,
-        "points": 42,
-        "form": "WWWDL"
       },
       {
         "position": 7,
@@ -210,15 +210,15 @@
         "position": 13,
         "team_id": "ast_72d40a3ebd1f413783aaf6428052dbbc",
         "team": "Pakhtakor II",
-        "played": 24,
+        "played": 25,
         "wins": 4,
         "draws": 1,
-        "losses": 19,
-        "goals_for": 18,
-        "goals_against": 54,
-        "goal_difference": -36,
+        "losses": 20,
+        "goals_for": 19,
+        "goals_against": 57,
+        "goal_difference": -38,
         "points": 13,
-        "form": "LWLLL"
+        "form": "LLWLL"
       },
       {
         "position": 14,
@@ -298,6 +298,21 @@
       },
       {
         "position": 5,
+        "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd",
+        "team": "奥林匹克-莫比乌斯",
+        "played": 25,
+        "wins": 13,
+        "draws": 6,
+        "losses": 6,
+        "goals_for": 51,
+        "goals_against": 30,
+        "goal_difference": 21,
+        "points": 45,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
+      },
+      {
+        "position": 6,
         "team_id": "ast_e40717de01014c059413c1450aa1fc56",
         "team": "卡塔库尔贡",
         "played": 25,
@@ -310,21 +325,6 @@
         "points": 43,
         "form": "WLWDW",
         "form_label": "胜负胜平胜"
-      },
-      {
-        "position": 6,
-        "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd",
-        "team": "奥林匹克-莫比乌斯",
-        "played": 24,
-        "wins": 12,
-        "draws": 6,
-        "losses": 6,
-        "goals_for": 48,
-        "goals_against": 29,
-        "goal_difference": 19,
-        "points": 42,
-        "form": "WWWDL",
-        "form_label": "胜胜胜平负"
       },
       {
         "position": 7,
@@ -420,16 +420,16 @@
         "position": 13,
         "team_id": "ast_72d40a3ebd1f413783aaf6428052dbbc",
         "team": "帕赫塔科尔二队",
-        "played": 24,
+        "played": 25,
         "wins": 4,
         "draws": 1,
-        "losses": 19,
-        "goals_for": 18,
-        "goals_against": 54,
-        "goal_difference": -36,
+        "losses": 20,
+        "goals_for": 19,
+        "goals_against": 57,
+        "goal_difference": -38,
         "points": 13,
-        "form": "LWLLL",
-        "form_label": "负胜负负负"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 14,
@@ -602,7 +602,7 @@
           "team_id": "ast_12351e6fc36e413e95ac33b373e33b0d"
         },
         "ht_score": "-",
-        "reg_score": "0-0",
+        "reg_score": "3-0",
         "venue": "",
         "status_label": "判定胜负"
       },
@@ -610,7 +610,7 @@
         "match_id": "as_e97bafbe6a9746d69f30c9aca21b2b73",
         "date": "2026-11-03",
         "time": "09:30",
-        "status": "16",
+        "status": "FT",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -622,9 +622,10 @@
           "name": "帕赫塔科尔二队",
           "team_id": "ast_72d40a3ebd1f413783aaf6428052dbbc"
         },
-        "ht_score": "0-0",
-        "reg_score": "0-0",
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_49dc6d40adfc416985fe27ffb85f442d",
@@ -4400,47 +4401,6 @@
         "reg_score": "0-3",
         "venue": "",
         "status_label": "判定胜负"
-      },
-      {
-        "match_id": "as_e97bafbe6a9746d69f30c9aca21b2b73",
-        "date": "2026-11-03",
-        "time": "09:30",
-        "status": "16",
-        "league": "乌兹别克斯坦职业联赛",
-        "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
-        "season": "2026",
-        "home": {
-          "name": "奥林匹克-莫比乌斯",
-          "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd"
-        },
-        "away": {
-          "name": "帕赫塔科尔二队",
-          "team_id": "ast_72d40a3ebd1f413783aaf6428052dbbc"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-0",
-        "venue": ""
-      },
-      {
-        "match_id": "as_d509b4871b3a419fa2bd926b42b42d4e",
-        "date": "2026-11-03",
-        "time": "14:00",
-        "status": "Awarded",
-        "league": "乌兹别克斯坦职业联赛",
-        "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
-        "season": "2026",
-        "home": {
-          "name": "卡塔库尔贡",
-          "team_id": "ast_e40717de01014c059413c1450aa1fc56"
-        },
-        "away": {
-          "name": "特尔杜",
-          "team_id": "ast_12351e6fc36e413e95ac33b373e33b0d"
-        },
-        "ht_score": "-",
-        "reg_score": "0-0",
-        "venue": "",
-        "status_label": "判定胜负"
       }
     ]
   },
@@ -4828,12 +4788,12 @@
   },
   "stats": {
     "matches_completed": 175,
-    "total_goals": 506,
-    "avg_goals_per_match": 2.89,
-    "home_wins": 72,
-    "draws": 34,
+    "total_goals": 513,
+    "avg_goals_per_match": 2.93,
+    "home_wins": 74,
+    "draws": 32,
     "away_wins": 69,
-    "home_win_pct": 41.1,
+    "home_win_pct": 42.3,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -5630,7 +5590,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 14,
     "matches_current_season": 181,
-    "upcoming_matches": 9
+    "upcoming_matches": 7
   },
-  "updated_at": "2026/11/03"
+  "updated_at": "2026/11/04"
 }

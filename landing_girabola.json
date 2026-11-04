@@ -5650,6 +5650,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_3cb443d89f0e48fbbb1b9e78bf545c28",
+        "date": "2026-12-19",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "安哥拉联赛",
+        "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
+        "season": "2026/2027",
+        "home": {
+          "name": "圣加德",
+          "team_id": "ast_ecc4daf4bd934a8faa6a77a73031f172"
+        },
+        "away": {
+          "name": "学术队",
+          "team_id": "ast_5a19c65d3a754c2589455feafcaecf9d"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_c299d9418a55420d9d356732d0e57f4e",
+        "date": "2026-12-19",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "安哥拉联赛",
+        "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
+        "season": "2026/2027",
+        "home": {
+          "name": "Cabinda",
+          "team_id": "ast_449e2c31368e4ba08a6c3e2b9ea32d41"
+        },
+        "away": {
+          "name": "Caala",
+          "team_id": "ast_fb77665f1f9d40068fd23f280d137573"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_8ba7ca42dd8048d3beea4c20564d99d2",
         "date": "2026-12-16",
         "time": "17:00",
@@ -6372,7 +6412,7 @@
       {
         "match_id": "as_01fa377d2a4841469487967fad38e83d",
         "date": "2026-11-08",
-        "time": "14:00",
+        "time": "14:30",
         "status": "Not Started",
         "league": "安哥拉联赛",
         "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
@@ -6452,7 +6492,7 @@
       {
         "match_id": "as_4129d13e4ac64a14bf28de5eeaa985a9",
         "date": "2026-11-08",
-        "time": "14:00",
+        "time": "14:30",
         "status": "Not Started",
         "league": "安哥拉联赛",
         "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
@@ -6513,7 +6553,7 @@
         "match_id": "as_13f38f25ce2546eeb160662aef14b4c3",
         "date": "2026-11-04",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "安哥拉联赛",
         "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
         "season": "2026/2027",
@@ -6525,7 +6565,9 @@
           "name": "卡布斯科尔普",
           "team_id": "ast_9afcaa0bdd3b4ed2a71becc75636640b"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_11d9f6a50a0041ff8c864b22b1398491",
@@ -6542,24 +6584,6 @@
         "away": {
           "name": "维利特",
           "team_id": "ast_7d186e52845847f29f1d439679d88e27"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f0dac16dffa84224889730fb869aa573",
-        "date": "2026-11-03",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "安哥拉联赛",
-        "league_id": "asl_0b7ef4331f3041e7b14e9e770ba43e74",
-        "season": "2026/2027",
-        "home": {
-          "name": "佩特罗卢安达",
-          "team_id": "ast_cc59ea5c25334662a8e85195202e1bda"
-        },
-        "away": {
-          "name": "德斯波尔蒂沃维拉",
-          "team_id": "ast_3383b59ea2f04db5a0e3fe8ec2f32d25"
         },
         "venue": ""
       }
@@ -9447,7 +9471,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 46
+    "upcoming_matches": 47
   },
-  "updated_at": "2026/11/03"
+  "updated_at": "2026/11/04"
 }

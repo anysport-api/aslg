@@ -182,29 +182,29 @@
         "position": 2,
         "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c",
         "team": "Nacional Asuncion",
-        "played": 17,
+        "played": 18,
         "wins": 9,
         "draws": 5,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 26,
-        "goals_against": 9,
-        "goal_difference": 17,
+        "goals_against": 11,
+        "goal_difference": 15,
         "points": 32,
-        "form": "WLWWD"
+        "form": "LWLWW"
       },
       {
         "position": 3,
         "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0",
         "team": "Sportivo Trinidense",
-        "played": 17,
+        "played": 18,
         "wins": 9,
-        "draws": 3,
+        "draws": 4,
         "losses": 5,
         "goals_for": 28,
         "goals_against": 18,
         "goal_difference": 10,
-        "points": 30,
-        "form": "LWWDW"
+        "points": 31,
+        "form": "DLWWD"
       },
       {
         "position": 4,
@@ -224,15 +224,15 @@
         "position": 5,
         "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb",
         "team": "2 de Mayo",
-        "played": 17,
+        "played": 18,
         "wins": 8,
-        "draws": 5,
+        "draws": 6,
         "losses": 4,
         "goals_for": 18,
         "goals_against": 18,
         "goal_difference": 0,
-        "points": 29,
-        "form": "LDLWW"
+        "points": 30,
+        "form": "DLDLW"
       },
       {
         "position": 6,
@@ -322,15 +322,15 @@
         "position": 12,
         "team_id": "ast_6f96396a823b4ec1a21914ccee5eac3f",
         "team": "San Lorenzo",
-        "played": 17,
-        "wins": 1,
+        "played": 18,
+        "wins": 2,
         "draws": 4,
         "losses": 12,
-        "goals_for": 10,
+        "goals_for": 12,
         "goals_against": 30,
-        "goal_difference": -20,
-        "points": 7,
-        "form": "WLLDD"
+        "goal_difference": -18,
+        "points": 10,
+        "form": "WWLLD"
       }
     ],
     "zh": [
@@ -353,31 +353,31 @@
         "position": 2,
         "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c",
         "team": "国家亚松森",
-        "played": 17,
+        "played": 18,
         "wins": 9,
         "draws": 5,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 26,
-        "goals_against": 9,
-        "goal_difference": 17,
+        "goals_against": 11,
+        "goal_difference": 15,
         "points": 32,
-        "form": "WLWWD",
-        "form_label": "胜负胜胜平"
+        "form": "LWLWW",
+        "form_label": "负胜负胜胜"
       },
       {
         "position": 3,
         "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0",
         "team": "特里尼登斯体育",
-        "played": 17,
+        "played": 18,
         "wins": 9,
-        "draws": 3,
+        "draws": 4,
         "losses": 5,
         "goals_for": 28,
         "goals_against": 18,
         "goal_difference": 10,
-        "points": 30,
-        "form": "LWWDW",
-        "form_label": "负胜胜平胜"
+        "points": 31,
+        "form": "DLWWD",
+        "form_label": "平负胜胜平"
       },
       {
         "position": 4,
@@ -398,16 +398,16 @@
         "position": 5,
         "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb",
         "team": "5月2日",
-        "played": 17,
+        "played": 18,
         "wins": 8,
-        "draws": 5,
+        "draws": 6,
         "losses": 4,
         "goals_for": 18,
         "goals_against": 18,
         "goal_difference": 0,
-        "points": 29,
-        "form": "LDLWW",
-        "form_label": "负平负胜胜"
+        "points": 30,
+        "form": "DLDLW",
+        "form_label": "平负平负胜"
       },
       {
         "position": 6,
@@ -503,16 +503,16 @@
         "position": 12,
         "team_id": "ast_6f96396a823b4ec1a21914ccee5eac3f",
         "team": "圣洛伦索",
-        "played": 17,
-        "wins": 1,
+        "played": 18,
+        "wins": 2,
         "draws": 4,
         "losses": 12,
-        "goals_for": 10,
+        "goals_for": 12,
         "goals_against": 30,
-        "goal_difference": -20,
-        "points": 7,
-        "form": "WLLDD",
-        "form_label": "胜负负平平"
+        "goal_difference": -18,
+        "points": 10,
+        "form": "WWLLD",
+        "form_label": "胜胜负负平"
       }
     ]
   },
@@ -745,6 +745,14 @@
         },
         {
           "rank": 30,
+          "player_id": "asp_d6eaf25b027142118672c1503fa02dda",
+          "player_name": "Augusto Marcelo",
+          "team_id": "ast_1326f7cf8c7d468aac73c86b7cb963b8",
+          "team_name": "Sportivo Iteno",
+          "value": 4
+        },
+        {
+          "rank": 31,
           "player_id": "asp_9b8c65f5b86441f285511e6648ca6f3f",
           "player_name": "Federico Carrizo",
           "team_id": "ast_8c626113d13b47b9b7e904680db9d57d",
@@ -752,7 +760,7 @@
           "value": 4
         },
         {
-          "rank": 31,
+          "rank": 32,
           "player_id": "asp_3645f0b9866945edb2864ee8eff192c4",
           "player_name": "W. Baez",
           "team_id": "ast_601351189aab40b0beefdb417a63e630",
@@ -760,7 +768,7 @@
           "value": 4
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_ffd4e590efc54c50ae132c23255c0807",
           "player_name": "William Mendieta",
           "team_id": "ast_18f560d58a164c27a9245caf57d2d7e1",
@@ -768,7 +776,7 @@
           "value": 4
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_a46beaead4a740d3902562515776d641",
           "player_name": "Juan Iturbe",
           "team_id": "ast_22af90edab57462cbd2f20a33cd31406",
@@ -776,7 +784,7 @@
           "value": 4
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_4a2ca206dd434967a426da7190ef6ef3",
           "player_name": "G. Aguilar",
           "team_id": "ast_8c626113d13b47b9b7e904680db9d57d",
@@ -784,7 +792,7 @@
           "value": 4
         },
         {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_8704f5547583457fa1f63caa8e734a65",
           "player_name": "Ignacio Raúl",
           "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca",
@@ -792,7 +800,7 @@
           "value": 4
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_129dec1914234e5bb82b209a16337933",
           "player_name": "D. Acosta",
           "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb",
@@ -800,7 +808,7 @@
           "value": 4
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_2b91afb0996b4c419ff1c516e3881b25",
           "player_name": "G. Servio",
           "team_id": "ast_f3af5695b777400796349480769e732e",
@@ -808,7 +816,7 @@
           "value": 3
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_38cf2e1aa8a3418ca953482686dafdcd",
           "player_name": "Richard Torales",
           "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca",
@@ -816,7 +824,7 @@
           "value": 3
         },
         {
-          "rank": 39,
+          "rank": 40,
           "player_id": "asp_eef385b6a80748138c9038acd7cb34b5",
           "player_name": "Benítez Romeo",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -824,7 +832,7 @@
           "value": 3
         },
         {
-          "rank": 40,
+          "rank": 41,
           "player_id": "asp_d3af74d8fd084c6b844abff9344104a2",
           "player_name": "G. Viera",
           "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0",
@@ -832,7 +840,7 @@
           "value": 3
         },
         {
-          "rank": 41,
+          "rank": 42,
           "player_id": "asp_12bc207908d344f4b860fb64e37612d7",
           "player_name": "T. Rayer",
           "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0",
@@ -840,7 +848,7 @@
           "value": 3
         },
         {
-          "rank": 42,
+          "rank": 43,
           "player_id": "asp_363632deee3b404f9a637c7aea52a171",
           "player_name": "Barrios José",
           "team_id": "ast_1326f7cf8c7d468aac73c86b7cb963b8",
@@ -848,7 +856,7 @@
           "value": 3
         },
         {
-          "rank": 43,
+          "rank": 44,
           "player_id": "asp_55edccefc2774fb2ba34c7f2f73b4c47",
           "player_name": "I. Bailone",
           "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c",
@@ -856,7 +864,7 @@
           "value": 3
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_055847926861454eb6f20c102c93d1e1",
           "player_name": "Manuel Juan",
           "team_id": "ast_f3af5695b777400796349480769e732e",
@@ -864,7 +872,7 @@
           "value": 3
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_476b8dcf1a7e4c50bf9983b4aaefc046",
           "player_name": "A. Gomez",
           "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb",
@@ -872,7 +880,7 @@
           "value": 3
         },
         {
-          "rank": 46,
+          "rank": 47,
           "player_id": "asp_45889db0c5d945699d3272b0df855029",
           "player_name": "Mateo Gamarra",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -880,7 +888,7 @@
           "value": 3
         },
         {
-          "rank": 47,
+          "rank": 48,
           "player_id": "asp_051f0e58cd3648c49f76f4dd8b4e7f92",
           "player_name": "Ávalos Gabriel",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -888,7 +896,7 @@
           "value": 3
         },
         {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_a3f82af10ac04e39bb30a3d8ce327dc2",
           "player_name": "Rafael Richard",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -896,17 +904,9 @@
           "value": 3
         },
         {
-          "rank": 49,
-          "player_id": "asp_3a76d52fa0d1458ba9ae513ef6d82659",
-          "player_name": "N. Giménez",
-          "team_id": "ast_8c626113d13b47b9b7e904680db9d57d",
-          "team_name": "Libertad",
-          "value": 3
-        },
-        {
           "rank": 50,
-          "player_id": "asp_6a7710330fcf4369b466d4bf13300028",
-          "player_name": "Fernando Galeano Axel",
+          "player_id": "asp_eccab66e00f64fd78baf08dab3047ae2",
+          "player_name": "F. Aragón",
           "team_id": "ast_1326f7cf8c7d468aac73c86b7cb963b8",
           "team_name": "Sportivo Iteno",
           "value": 3
@@ -1139,6 +1139,14 @@
         },
         {
           "rank": 30,
+          "player_id": "asp_d6eaf25b027142118672c1503fa02dda",
+          "player_name": "Augusto Marcelo",
+          "team_id": "ast_1326f7cf8c7d468aac73c86b7cb963b8",
+          "team_name": "Sportivo Iteno",
+          "value": 4
+        },
+        {
+          "rank": 31,
           "player_id": "asp_9b8c65f5b86441f285511e6648ca6f3f",
           "player_name": "费德里科·卡里索",
           "team_id": "ast_8c626113d13b47b9b7e904680db9d57d",
@@ -1146,7 +1154,7 @@
           "value": 4
         },
         {
-          "rank": 31,
+          "rank": 32,
           "player_id": "asp_3645f0b9866945edb2864ee8eff192c4",
           "player_name": "威尔弗里多·巴耶斯",
           "team_id": "ast_601351189aab40b0beefdb417a63e630",
@@ -1154,7 +1162,7 @@
           "value": 4
         },
         {
-          "rank": 32,
+          "rank": 33,
           "player_id": "asp_ffd4e590efc54c50ae132c23255c0807",
           "player_name": "威廉·门迪塔",
           "team_id": "ast_18f560d58a164c27a9245caf57d2d7e1",
@@ -1162,7 +1170,7 @@
           "value": 4
         },
         {
-          "rank": 33,
+          "rank": 34,
           "player_id": "asp_a46beaead4a740d3902562515776d641",
           "player_name": "胡安·伊图尔贝",
           "team_id": "ast_22af90edab57462cbd2f20a33cd31406",
@@ -1170,7 +1178,7 @@
           "value": 4
         },
         {
-          "rank": 34,
+          "rank": 35,
           "player_id": "asp_4a2ca206dd434967a426da7190ef6ef3",
           "player_name": "古斯塔沃·阿吉拉尔",
           "team_id": "ast_8c626113d13b47b9b7e904680db9d57d",
@@ -1178,7 +1186,7 @@
           "value": 4
         },
         {
-          "rank": 35,
+          "rank": 36,
           "player_id": "asp_8704f5547583457fa1f63caa8e734a65",
           "player_name": "R. 卡布拉尔",
           "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca",
@@ -1186,7 +1194,7 @@
           "value": 4
         },
         {
-          "rank": 36,
+          "rank": 37,
           "player_id": "asp_129dec1914234e5bb82b209a16337933",
           "player_name": "迭戈·阿科斯塔",
           "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb",
@@ -1194,7 +1202,7 @@
           "value": 4
         },
         {
-          "rank": 37,
+          "rank": 38,
           "player_id": "asp_2b91afb0996b4c419ff1c516e3881b25",
           "player_name": "加斯帕尔·塞尔维奥",
           "team_id": "ast_f3af5695b777400796349480769e732e",
@@ -1202,7 +1210,7 @@
           "value": 3
         },
         {
-          "rank": 38,
+          "rank": 39,
           "player_id": "asp_38cf2e1aa8a3418ca953482686dafdcd",
           "player_name": "理查德·托拉莱斯",
           "team_id": "ast_0b15c16117a3464998ee3c3c706dbfca",
@@ -1210,7 +1218,7 @@
           "value": 3
         },
         {
-          "rank": 39,
+          "rank": 40,
           "player_id": "asp_eef385b6a80748138c9038acd7cb34b5",
           "player_name": "罗密欧·贝尼特斯",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -1218,7 +1226,7 @@
           "value": 3
         },
         {
-          "rank": 40,
+          "rank": 41,
           "player_id": "asp_d3af74d8fd084c6b844abff9344104a2",
           "player_name": "古斯塔沃·维埃拉",
           "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0",
@@ -1226,7 +1234,7 @@
           "value": 3
         },
         {
-          "rank": 41,
+          "rank": 42,
           "player_id": "asp_12bc207908d344f4b860fb64e37612d7",
           "player_name": "托马斯·雷耶尔",
           "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0",
@@ -1234,7 +1242,7 @@
           "value": 3
         },
         {
-          "rank": 42,
+          "rank": 43,
           "player_id": "asp_363632deee3b404f9a637c7aea52a171",
           "player_name": "何塞·巴里奥斯",
           "team_id": "ast_1326f7cf8c7d468aac73c86b7cb963b8",
@@ -1242,7 +1250,7 @@
           "value": 3
         },
         {
-          "rank": 43,
+          "rank": 44,
           "player_id": "asp_55edccefc2774fb2ba34c7f2f73b4c47",
           "player_name": "伊格纳西奥·拜隆",
           "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c",
@@ -1250,7 +1258,7 @@
           "value": 3
         },
         {
-          "rank": 44,
+          "rank": 45,
           "player_id": "asp_055847926861454eb6f20c102c93d1e1",
           "player_name": "胡安·加西亚",
           "team_id": "ast_f3af5695b777400796349480769e732e",
@@ -1258,7 +1266,7 @@
           "value": 3
         },
         {
-          "rank": 45,
+          "rank": 46,
           "player_id": "asp_476b8dcf1a7e4c50bf9983b4aaefc046",
           "player_name": "阿兰·戈麦斯",
           "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb",
@@ -1266,7 +1274,7 @@
           "value": 3
         },
         {
-          "rank": 46,
+          "rank": 47,
           "player_id": "asp_45889db0c5d945699d3272b0df855029",
           "player_name": "马特奥·加马拉",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -1274,7 +1282,7 @@
           "value": 3
         },
         {
-          "rank": 47,
+          "rank": 48,
           "player_id": "asp_051f0e58cd3648c49f76f4dd8b4e7f92",
           "player_name": "加布里埃尔·阿瓦洛斯",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -1282,7 +1290,7 @@
           "value": 3
         },
         {
-          "rank": 48,
+          "rank": 49,
           "player_id": "asp_a3f82af10ac04e39bb30a3d8ce327dc2",
           "player_name": "理查德·桑切斯",
           "team_id": "ast_2d7fb62bca044f519e4767338f7d0557",
@@ -1290,17 +1298,9 @@
           "value": 3
         },
         {
-          "rank": 49,
-          "player_id": "asp_3a76d52fa0d1458ba9ae513ef6d82659",
-          "player_name": "拉斐尔·吉梅内斯·弗洛伦丁·内斯特尔",
-          "team_id": "ast_8c626113d13b47b9b7e904680db9d57d",
-          "team_name": "亚松森自由",
-          "value": 3
-        },
-        {
           "rank": 50,
-          "player_id": "asp_6a7710330fcf4369b466d4bf13300028",
-          "player_name": "阿克塞尔·加莱亚诺",
+          "player_id": "asp_eccab66e00f64fd78baf08dab3047ae2",
+          "player_name": "F. Aragón",
           "team_id": "ast_1326f7cf8c7d468aac73c86b7cb963b8",
           "team_name": "Sportivo Iteno",
           "value": 3
@@ -3425,7 +3425,7 @@
         "match_id": "as_844f07cfdb824725b3abd133f226400c",
         "date": "2026-11-05",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
         "season": "2026",
@@ -3437,9 +3437,7 @@
           "name": "卢奎诺体育",
           "team_id": "ast_dc69c491da244bc584c7ceaaa2db3acf"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_30b15894982b4e7680b059dc6c7e8b08",
@@ -3481,7 +3479,7 @@
         "match_id": "as_88783f7cf4314746a1b0b045a55a4693",
         "date": "2026-11-03",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
         "season": "2026",
@@ -3493,13 +3491,16 @@
           "name": "特里尼登斯体育",
           "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_64b8e518b889488fb7a84ef5b7156f3d",
         "date": "2026-11-03",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
         "season": "2026",
@@ -3511,7 +3512,10 @@
           "name": "圣洛伦索",
           "team_id": "ast_6f96396a823b4ec1a21914ccee5eac3f"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_066a4af6a433480b844456239d378199",
@@ -3531,7 +3535,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "Estadio General Pablo Rojas",
         "status_label": "完场"
       },
       {
@@ -8913,7 +8917,7 @@
         "match_id": "as_844f07cfdb824725b3abd133f226400c",
         "date": "2026-11-05",
         "time": "22:00",
-        "status": "Not Started",
+        "status": "22:00",
         "league": "巴拉圭甲级联赛",
         "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
         "season": "2026",
@@ -8925,9 +8929,7 @@
           "name": "卢奎诺体育",
           "team_id": "ast_dc69c491da244bc584c7ceaaa2db3acf"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6f3a8c28011d4e23a29de107851b0649",
@@ -8980,42 +8982,6 @@
         "away": {
           "name": "瓜拉尼",
           "team_id": "ast_f3af5695b777400796349480769e732e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_64b8e518b889488fb7a84ef5b7156f3d",
-        "date": "2026-11-03",
-        "time": "22:30",
-        "status": "22:30",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "国家亚松森",
-          "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c"
-        },
-        "away": {
-          "name": "圣洛伦索",
-          "team_id": "ast_6f96396a823b4ec1a21914ccee5eac3f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_88783f7cf4314746a1b0b045a55a4693",
-        "date": "2026-11-03",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "巴拉圭甲级联赛",
-        "league_id": "asl_4f1a72b9df0e4f3aa27f17c58f65db4e",
-        "season": "2026",
-        "home": {
-          "name": "5月2日",
-          "team_id": "ast_ff8d46d2b95243b0a1fcd6d08025babb"
-        },
-        "away": {
-          "name": "特里尼登斯体育",
-          "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0"
         },
         "venue": ""
       }
@@ -10608,13 +10574,13 @@
     }
   },
   "stats": {
-    "matches_completed": 234,
-    "total_goals": 575,
-    "avg_goals_per_match": 2.46,
+    "matches_completed": 236,
+    "total_goals": 577,
+    "avg_goals_per_match": 2.44,
     "home_wins": 100,
-    "draws": 61,
-    "away_wins": 73,
-    "home_win_pct": 42.7,
+    "draws": 62,
+    "away_wins": 74,
+    "home_win_pct": 42.4,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -10760,29 +10726,29 @@
             "position": 2,
             "team_id": "ast_e0e7fe63de7c4867a965e1e5a5c35a2c",
             "team": "Nacional Asuncion",
-            "played": 17,
+            "played": 18,
             "wins": 9,
             "draws": 5,
-            "losses": 3,
+            "losses": 4,
             "goals_for": 26,
-            "goals_against": 9,
-            "goal_difference": 17,
+            "goals_against": 11,
+            "goal_difference": 15,
             "points": 32,
-            "form": "WLWWD"
+            "form": "LWLWW"
           },
           {
             "position": 3,
             "team_id": "ast_b01ba9e9a0a34f24b06f4f3b818d5fc0",
             "team": "Sportivo Trinidense",
-            "played": 17,
+            "played": 18,
             "wins": 9,
-            "draws": 3,
+            "draws": 4,
             "losses": 5,
             "goals_for": 28,
             "goals_against": 18,
             "goal_difference": 10,
-            "points": 30,
-            "form": "LWWDW"
+            "points": 31,
+            "form": "DLWWD"
           }
         ],
         "meta": {
@@ -11425,7 +11391,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 12,
     "matches_current_season": 264,
-    "upcoming_matches": 30
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/11/03"
+  "updated_at": "2026/11/04"
 }

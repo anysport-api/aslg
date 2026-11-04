@@ -172,6 +172,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
+        "team": "Sporting FC",
+        "played": 15,
+        "wins": 9,
+        "draws": 3,
+        "losses": 3,
+        "goals_for": 30,
+        "goals_against": 21,
+        "goal_difference": 9,
+        "points": 30,
+        "form": "WWWDL"
+      },
+      {
+        "position": 2,
         "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
         "team": "Cartagines",
         "played": 14,
@@ -183,20 +197,6 @@
         "goal_difference": 10,
         "points": 27,
         "form": "WLWWL"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
-        "team": "Sporting FC",
-        "played": 14,
-        "wins": 8,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 27,
-        "goals_against": 20,
-        "goal_difference": 7,
-        "points": 27,
-        "form": "WWDLW"
       },
       {
         "position": 3,
@@ -300,20 +300,35 @@
         "position": 10,
         "team_id": "ast_de8814fb0ed6470f85cec0ddece769a3",
         "team": "Zeledon",
-        "played": 14,
+        "played": 15,
         "wins": 2,
         "draws": 4,
-        "losses": 8,
-        "goals_for": 10,
-        "goals_against": 24,
-        "goal_difference": -14,
+        "losses": 9,
+        "goals_for": 11,
+        "goals_against": 27,
+        "goal_difference": -16,
         "points": 10,
-        "form": "DLLLD"
+        "form": "LDLLL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
+        "team": "圣荷西体育",
+        "played": 15,
+        "wins": 9,
+        "draws": 3,
+        "losses": 3,
+        "goals_for": 30,
+        "goals_against": 21,
+        "goal_difference": 9,
+        "points": 30,
+        "form": "WWWDL",
+        "form_label": "胜胜胜平负"
+      },
+      {
+        "position": 2,
         "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
         "team": "卡塔吉内斯",
         "played": 14,
@@ -326,21 +341,6 @@
         "points": 27,
         "form": "WLWWL",
         "form_label": "胜负胜胜负"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
-        "team": "圣荷西体育",
-        "played": 14,
-        "wins": 8,
-        "draws": 3,
-        "losses": 3,
-        "goals_for": 27,
-        "goals_against": 20,
-        "goal_difference": 7,
-        "points": 27,
-        "form": "WWDLW",
-        "form_label": "胜胜平负胜"
       },
       {
         "position": 3,
@@ -451,16 +451,16 @@
         "position": 10,
         "team_id": "ast_de8814fb0ed6470f85cec0ddece769a3",
         "team": "泽莱东",
-        "played": 14,
+        "played": 15,
         "wins": 2,
         "draws": 4,
-        "losses": 8,
-        "goals_for": 10,
-        "goals_against": 24,
-        "goal_difference": -14,
+        "losses": 9,
+        "goals_for": 11,
+        "goals_against": 27,
+        "goal_difference": -16,
         "points": 10,
-        "form": "DLLLD",
-        "form_label": "平负负负平"
+        "form": "LDLLL",
+        "form_label": "负平负负负"
       }
     ]
   },
@@ -805,7 +805,7 @@
         "match_id": "as_e425bd8044ce43a1b20f98154040e0c5",
         "date": "2026-11-05",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -817,9 +817,7 @@
           "name": "卡塔吉内斯",
           "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8cac70ecbb41496b8eedb5bdafd28c0a",
@@ -843,7 +841,7 @@
         "match_id": "as_4973b46967e240be8fcc3b95e8d08108",
         "date": "2026-11-05",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -855,15 +853,13 @@
           "name": "阿拉胡埃伦斯",
           "team_id": "ast_362ecce906604e098df706316bc6ac47"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f1f28f25f85044b387ae787601b78e86",
         "date": "2026-11-04",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -875,7 +871,10 @@
           "name": "泽莱东",
           "team_id": "ast_de8814fb0ed6470f85cec0ddece769a3"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_db7920671b0540d2956d5d10890636b6",
@@ -937,7 +936,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Estadio Puente de Piedra",
         "status_label": "完场"
       },
       {
@@ -2811,7 +2810,7 @@
         "match_id": "as_4973b46967e240be8fcc3b95e8d08108",
         "date": "2026-11-05",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -2823,9 +2822,7 @@
           "name": "阿拉胡埃伦斯",
           "team_id": "ast_362ecce906604e098df706316bc6ac47"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8cac70ecbb41496b8eedb5bdafd28c0a",
@@ -2849,7 +2846,7 @@
         "match_id": "as_e425bd8044ce43a1b20f98154040e0c5",
         "date": "2026-11-05",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -2861,15 +2858,13 @@
           "name": "卡塔吉内斯",
           "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f1f28f25f85044b387ae787601b78e86",
         "date": "2026-11-04",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -2881,7 +2876,10 @@
           "name": "泽莱东",
           "team_id": "ast_de8814fb0ed6470f85cec0ddece769a3"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7329,13 +7327,13 @@
     }
   },
   "stats": {
-    "matches_completed": 70,
-    "total_goals": 191,
-    "avg_goals_per_match": 2.73,
-    "home_wins": 34,
+    "matches_completed": 71,
+    "total_goals": 195,
+    "avg_goals_per_match": 2.75,
+    "home_wins": 35,
     "draws": 13,
     "away_wins": 23,
-    "home_win_pct": 48.6,
+    "home_win_pct": 49.3,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7361,9 +7359,9 @@
       }
     },
     "leader": {
-      "team": "Cartagines",
-      "points": 27,
-      "played": 14
+      "team": "Sporting FC",
+      "points": 30,
+      "played": 15
     }
   },
   "coverage": {
@@ -7458,6 +7456,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
+            "team": "Sporting FC",
+            "played": 15,
+            "wins": 9,
+            "draws": 3,
+            "losses": 3,
+            "goals_for": 30,
+            "goals_against": 21,
+            "goal_difference": 9,
+            "points": 30,
+            "form": "WWWDL"
+          },
+          {
+            "position": 2,
             "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
             "team": "Cartagines",
             "played": 14,
@@ -7469,20 +7481,6 @@
             "goal_difference": 10,
             "points": 27,
             "form": "WLWWL"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
-            "team": "Sporting FC",
-            "played": 14,
-            "wins": 8,
-            "draws": 3,
-            "losses": 3,
-            "goals_for": 27,
-            "goals_against": 20,
-            "goal_difference": 7,
-            "points": 27,
-            "form": "WWDLW"
           },
           {
             "position": 3,
@@ -8135,5 +8133,5 @@
     "matches_current_season": 97,
     "upcoming_matches": 20
   },
-  "updated_at": "2026/11/03"
+  "updated_at": "2026/11/04"
 }
