@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
@@ -226,15 +226,15 @@
         "position": 6,
         "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90",
         "team": "Sport Sebaco",
-        "played": 15,
-        "wins": 5,
+        "played": 16,
+        "wins": 6,
         "draws": 2,
         "losses": 8,
-        "goals_for": 17,
-        "goals_against": 31,
-        "goal_difference": -14,
-        "points": 17,
-        "form": "LLLLW"
+        "goals_for": 20,
+        "goals_against": 32,
+        "goal_difference": -12,
+        "points": 20,
+        "form": "WLLLL"
       },
       {
         "position": 7,
@@ -282,15 +282,15 @@
         "position": 10,
         "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5",
         "team": "Matagalpa",
-        "played": 15,
+        "played": 16,
         "wins": 3,
         "draws": 1,
-        "losses": 11,
-        "goals_for": 7,
-        "goals_against": 32,
-        "goal_difference": -25,
+        "losses": 12,
+        "goals_for": 8,
+        "goals_against": 35,
+        "goal_difference": -27,
         "points": 10,
-        "form": "LLDLL"
+        "form": "LLLDL"
       }
     ],
     "zh": [
@@ -373,16 +373,16 @@
         "position": 6,
         "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90",
         "team": "塞巴科体育",
-        "played": 15,
-        "wins": 5,
+        "played": 16,
+        "wins": 6,
         "draws": 2,
         "losses": 8,
-        "goals_for": 17,
-        "goals_against": 31,
-        "goal_difference": -14,
-        "points": 17,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
+        "goals_for": 20,
+        "goals_against": 32,
+        "goal_difference": -12,
+        "points": 20,
+        "form": "WLLLL",
+        "form_label": "胜负负负负"
       },
       {
         "position": 7,
@@ -433,16 +433,16 @@
         "position": 10,
         "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5",
         "team": "马塔加尔帕",
-        "played": 15,
+        "played": 16,
         "wins": 3,
         "draws": 1,
-        "losses": 11,
-        "goals_for": 7,
-        "goals_against": 32,
-        "goal_difference": -25,
+        "losses": 12,
+        "goals_for": 8,
+        "goals_against": 35,
+        "goal_difference": -27,
         "points": 10,
-        "form": "LLDLL",
-        "form_label": "负负平负负"
+        "form": "LLLDL",
+        "form_label": "负负负平负"
       }
     ]
   },
@@ -467,7 +467,7 @@
         "match_id": "as_2c3cc29971754017bb82d706b8efba55",
         "date": "2026-11-04",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -479,7 +479,10 @@
           "name": "马塔加尔帕",
           "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_bf05debeefb84f8e84fbf45f0763a534",
@@ -2141,26 +2144,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_2c3cc29971754017bb82d706b8efba55",
-        "date": "2026-11-04",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "塞巴科体育",
-          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
-        },
-        "away": {
-          "name": "马塔加尔帕",
-          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -3690,13 +3674,13 @@
     }
   },
   "stats": {
-    "matches_completed": 79,
-    "total_goals": 232,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 29,
+    "matches_completed": 80,
+    "total_goals": 236,
+    "avg_goals_per_match": 2.95,
+    "home_wins": 30,
     "draws": 15,
     "away_wins": 35,
-    "home_win_pct": 36.7,
+    "home_win_pct": 37.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4494,7 +4478,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 10,
     "matches_current_season": 80,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/04"
+  "updated_at": "2026/11/05"
 }

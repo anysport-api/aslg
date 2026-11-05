@@ -310,15 +310,15 @@
         "position": 12,
         "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
         "team": "Din. Minsk 2",
-        "played": 29,
+        "played": 30,
         "wins": 11,
         "draws": 5,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 43,
-        "goals_against": 43,
-        "goal_difference": 0,
+        "goals_against": 45,
+        "goal_difference": -2,
         "points": 38,
-        "form": "LWLLW"
+        "form": "LLWLL"
       },
       {
         "position": 13,
@@ -336,6 +336,20 @@
       },
       {
         "position": 14,
+        "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
+        "team": "Uni X Labs",
+        "played": 31,
+        "wins": 8,
+        "draws": 9,
+        "losses": 14,
+        "goals_for": 32,
+        "goals_against": 40,
+        "goal_difference": -8,
+        "points": 33,
+        "form": "WLDWL"
+      },
+      {
+        "position": 15,
         "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
         "team": "Orsha",
         "played": 31,
@@ -347,20 +361,6 @@
         "goal_difference": -20,
         "points": 33,
         "form": "WWLLD"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
-        "team": "Uni X Labs",
-        "played": 30,
-        "wins": 7,
-        "draws": 9,
-        "losses": 14,
-        "goals_for": 30,
-        "goals_against": 40,
-        "goal_difference": -10,
-        "points": 30,
-        "form": "LDWLD"
       },
       {
         "position": 16,
@@ -575,16 +575,16 @@
         "position": 12,
         "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
         "team": "明斯克迪纳摩二队",
-        "played": 29,
+        "played": 30,
         "wins": 11,
         "draws": 5,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 43,
-        "goals_against": 43,
-        "goal_difference": 0,
+        "goals_against": 45,
+        "goal_difference": -2,
         "points": 38,
-        "form": "LWLLW",
-        "form_label": "负胜负负胜"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       },
       {
         "position": 13,
@@ -603,6 +603,21 @@
       },
       {
         "position": 14,
+        "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
+        "team": "X实验室",
+        "played": 31,
+        "wins": 8,
+        "draws": 9,
+        "losses": 14,
+        "goals_for": 32,
+        "goals_against": 40,
+        "goal_difference": -8,
+        "points": 33,
+        "form": "WLDWL",
+        "form_label": "胜负平胜负"
+      },
+      {
+        "position": 15,
         "team_id": "ast_8b56fac9ec2446beae2d371cccb19115",
         "team": "奥尔沙",
         "played": 31,
@@ -615,21 +630,6 @@
         "points": 33,
         "form": "WWLLD",
         "form_label": "胜胜负负平"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_eab27c240f114d06adbcc40952218ff2",
-        "team": "X实验室",
-        "played": 30,
-        "wins": 7,
-        "draws": 9,
-        "losses": 14,
-        "goals_for": 30,
-        "goals_against": 40,
-        "goal_difference": -10,
-        "points": 30,
-        "form": "LDWLD",
-        "form_label": "负平胜负平"
       },
       {
         "position": 16,
@@ -1239,7 +1239,7 @@
         "match_id": "as_9b77d47349c7440fad83ec76f4c50036",
         "date": "2026-11-04",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -1251,7 +1251,10 @@
           "name": "明斯克迪纳摩二队",
           "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_570da2f65c2743f582ecc0182e7ee16f",
@@ -7630,24 +7633,6 @@
         "ht_score": "-",
         "venue": "SDYuShOR-6 Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_9b77d47349c7440fad83ec76f4c50036",
-        "date": "2026-11-04",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "白俄罗斯甲级联赛",
-        "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
-        "season": "2026",
-        "home": {
-          "name": "X实验室",
-          "team_id": "ast_eab27c240f114d06adbcc40952218ff2"
-        },
-        "away": {
-          "name": "明斯克迪纳摩二队",
-          "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1"
-        },
-        "venue": ""
       }
     ]
   },
@@ -13041,13 +13026,13 @@
     }
   },
   "stats": {
-    "matches_completed": 277,
-    "total_goals": 889,
+    "matches_completed": 278,
+    "total_goals": 891,
     "avg_goals_per_match": 3.21,
-    "home_wins": 118,
+    "home_wins": 119,
     "draws": 52,
     "away_wins": 107,
-    "home_win_pct": 42.6,
+    "home_win_pct": 42.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13845,7 +13830,7 @@
     "teams_all_time": 62,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 28
+    "upcoming_matches": 27
   },
-  "updated_at": "2026/11/04"
+  "updated_at": "2026/11/05"
 }

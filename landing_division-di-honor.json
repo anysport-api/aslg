@@ -3505,6 +3505,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_02c1324487ec41a6b846949e4d1d8031",
+        "date": "2026-12-20",
+        "time": "00:30",
+        "status": "Not Started",
+        "league": "阿鲁巴荣誉联赛",
+        "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
+        "season": "2026/2027",
+        "home": {
+          "name": "凯基提奥",
+          "team_id": "ast_69f7142fdcc94832b7e791a7337a8a5f"
+        },
+        "away": {
+          "name": "不列颠尼亚",
+          "team_id": "ast_c5d159a430bc49c89b34b447dc97d299"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_4042799a8bc549a98e99a408d307a09f",
         "date": "2026-12-19",
         "time": "22:30",
@@ -4128,7 +4148,7 @@
         "match_id": "as_5ec8ce568ef44431b9581fe3961eace7",
         "date": "2026-11-07",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "00:30",
         "league": "阿鲁巴荣誉联赛",
         "league_id": "asl_c9bc1d47fb814f3f99ae91656ccb818a",
         "season": "2026/2027",
@@ -4140,9 +4160,7 @@
           "name": "不列颠尼亚",
           "team_id": "ast_c5d159a430bc49c89b34b447dc97d299"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -7549,7 +7567,7 @@
     "teams_all_time": 21,
     "standings_rows_current": 10,
     "matches_current_season": 145,
-    "upcoming_matches": 32
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/11/04"
+  "updated_at": "2026/11/05"
 }

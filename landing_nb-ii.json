@@ -300,15 +300,15 @@
         "position": 10,
         "team_id": "ast_d785e5b4f2564e5681e7356d445eddbe",
         "team": "BVSC-Zuglo",
-        "played": 11,
+        "played": 12,
         "wins": 4,
         "draws": 2,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 14,
-        "goals_against": 14,
-        "goal_difference": 0,
+        "goals_against": 17,
+        "goal_difference": -3,
         "points": 14,
-        "form": "WDWWL"
+        "form": "LWDWW"
       },
       {
         "position": 11,
@@ -326,6 +326,20 @@
       },
       {
         "position": 12,
+        "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3",
+        "team": "Szeged",
+        "played": 12,
+        "wins": 3,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 13,
+        "goals_against": 15,
+        "goal_difference": -2,
+        "points": 13,
+        "form": "WLLWD"
+      },
+      {
+        "position": 13,
         "team_id": "ast_2618f23c868b44c59b9a7824235dcaa4",
         "team": "Nagykanizsa",
         "played": 12,
@@ -339,7 +353,7 @@
         "form": "WLLLW"
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc",
         "team": "Karcagi",
         "played": 12,
@@ -353,7 +367,7 @@
         "form": "LLLLD"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_5f4fecae6c884d95887ca0d6d0092b5b",
         "team": "Kozarmisleny SE",
         "played": 12,
@@ -365,20 +379,6 @@
         "goal_difference": -10,
         "points": 10,
         "form": "WLWLD"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3",
-        "team": "Szeged",
-        "played": 11,
-        "wins": 2,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 10,
-        "goals_against": 15,
-        "goal_difference": -5,
-        "points": 10,
-        "form": "LLWDL"
       },
       {
         "position": 16,
@@ -535,16 +535,16 @@
         "position": 10,
         "team_id": "ast_d785e5b4f2564e5681e7356d445eddbe",
         "team": "BVSC-祖格洛",
-        "played": 11,
+        "played": 12,
         "wins": 4,
         "draws": 2,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 14,
-        "goals_against": 14,
-        "goal_difference": 0,
+        "goals_against": 17,
+        "goal_difference": -3,
         "points": 14,
-        "form": "WDWWL",
-        "form_label": "胜平胜胜负"
+        "form": "LWDWW",
+        "form_label": "负胜平胜胜"
       },
       {
         "position": 11,
@@ -563,6 +563,21 @@
       },
       {
         "position": 12,
+        "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3",
+        "team": "塞格德",
+        "played": 12,
+        "wins": 3,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 13,
+        "goals_against": 15,
+        "goal_difference": -2,
+        "points": 13,
+        "form": "WLLWD",
+        "form_label": "胜负负胜平"
+      },
+      {
+        "position": 13,
         "team_id": "ast_2618f23c868b44c59b9a7824235dcaa4",
         "team": "纳吉坎尼扎",
         "played": 12,
@@ -577,7 +592,7 @@
         "form_label": "胜负负负胜"
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc",
         "team": "卡尔卡吉",
         "played": 12,
@@ -592,7 +607,7 @@
         "form_label": "负负负负平"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_5f4fecae6c884d95887ca0d6d0092b5b",
         "team": "科扎尔米斯伦",
         "played": 12,
@@ -605,21 +620,6 @@
         "points": 10,
         "form": "WLWLD",
         "form_label": "胜负胜负平"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3",
-        "team": "塞格德",
-        "played": 11,
-        "wins": 2,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 10,
-        "goals_against": 15,
-        "goal_difference": -5,
-        "points": 10,
-        "form": "LLWDL",
-        "form_label": "负负胜平负"
       },
       {
         "position": 16,
@@ -3216,6 +3216,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_fa98c005fc554f9789b8492f9635ef2f",
+        "date": "2026-11-23",
+        "time": "18:30",
+        "status": "Not Started",
+        "league": "匈牙利Nb II联赛",
+        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
+        "season": "2026/2027",
+        "home": {
+          "name": "DVTK",
+          "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640"
+        },
+        "away": {
+          "name": "卡尔卡吉",
+          "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_811cef3eb90c418da6dca838fa42250c",
         "date": "2026-11-22",
         "time": "16:00",
@@ -3290,26 +3310,6 @@
         "away": {
           "name": "吉尔莫特",
           "team_id": "ast_40911e0fa48f41838e9637ab820322d9"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fa98c005fc554f9789b8492f9635ef2f",
-        "date": "2026-11-21",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "匈牙利Nb II联赛",
-        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
-        "season": "2026/2027",
-        "home": {
-          "name": "DVTK",
-          "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640"
-        },
-        "away": {
-          "name": "卡尔卡吉",
-          "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
         },
         "ht_score": "-",
         "venue": "",
@@ -3539,7 +3539,7 @@
         "match_id": "as_472627694abc4f15a4bc7a6bdd6697e6",
         "date": "2026-11-04",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "匈牙利Nb II联赛",
         "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
         "season": "2026/2027",
@@ -3551,7 +3551,10 @@
           "name": "BVSC-祖格洛",
           "team_id": "ast_d785e5b4f2564e5681e7356d445eddbe"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fbb53f12febc491c9013de81c72398fa",
@@ -5711,6 +5714,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_fa98c005fc554f9789b8492f9635ef2f",
+        "date": "2026-11-23",
+        "time": "18:30",
+        "status": "Not Started",
+        "league": "匈牙利Nb II联赛",
+        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
+        "season": "2026/2027",
+        "home": {
+          "name": "DVTK",
+          "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640"
+        },
+        "away": {
+          "name": "卡尔卡吉",
+          "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_138be8dc2e4147da97a584bbe09f18eb",
         "date": "2026-11-22",
         "time": "12:00",
@@ -5805,26 +5828,6 @@
         "away": {
           "name": "梅佐科维什德-佐尔",
           "team_id": "ast_2ff5ead2e6ca42c3ae079081ba3edf80"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fa98c005fc554f9789b8492f9635ef2f",
-        "date": "2026-11-21",
-        "time": "12:00",
-        "status": "Not Started",
-        "league": "匈牙利Nb II联赛",
-        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
-        "season": "2026/2027",
-        "home": {
-          "name": "DVTK",
-          "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640"
-        },
-        "away": {
-          "name": "卡尔卡吉",
-          "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
         },
         "ht_score": "-",
         "venue": "",
@@ -6029,24 +6032,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_472627694abc4f15a4bc7a6bdd6697e6",
-        "date": "2026-11-04",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "匈牙利Nb II联赛",
-        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
-        "season": "2026/2027",
-        "home": {
-          "name": "塞格德",
-          "team_id": "ast_d835eb4ba12f4d9ea7a7fa27508acfb3"
-        },
-        "away": {
-          "name": "BVSC-祖格洛",
-          "team_id": "ast_d785e5b4f2564e5681e7356d445eddbe"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8450,13 +8435,13 @@
     }
   },
   "stats": {
-    "matches_completed": 95,
-    "total_goals": 276,
+    "matches_completed": 96,
+    "total_goals": 279,
     "avg_goals_per_match": 2.91,
-    "home_wins": 44,
+    "home_wins": 45,
     "draws": 21,
     "away_wins": 30,
-    "home_win_pct": 46.3,
+    "home_win_pct": 46.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9251,7 +9236,7 @@
     "teams_all_time": 38,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/11/04"
+  "updated_at": "2026/11/05"
 }
