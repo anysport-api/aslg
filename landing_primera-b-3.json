@@ -206,15 +206,15 @@
         "position": 3,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "U. Magdalena",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
-        "goals_for": 2,
-        "goals_against": 2,
+        "goals_for": 3,
+        "goals_against": 3,
         "goal_difference": 0,
-        "points": 2,
-        "form": "DD"
+        "points": 3,
+        "form": "DDD"
       },
       {
         "position": 3,
@@ -234,15 +234,15 @@
         "position": 4,
         "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
         "team": "Ind. Valle del Cauca",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 2,
-        "goals_for": 2,
-        "goals_against": 6,
+        "goals_for": 3,
+        "goals_against": 7,
         "goal_difference": -4,
-        "points": 0,
-        "form": "LL"
+        "points": 1,
+        "form": "DLL"
       },
       {
         "position": 4,
@@ -435,16 +435,16 @@
         "position": 3,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "马格达莱纳大学",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "losses": 0,
-        "goals_for": 2,
-        "goals_against": 2,
+        "goals_for": 3,
+        "goals_against": 3,
         "goal_difference": 0,
-        "points": 2,
-        "form": "DD",
-        "form_label": "平平"
+        "points": 3,
+        "form": "DDD",
+        "form_label": "平平平"
       },
       {
         "position": 3,
@@ -465,16 +465,16 @@
         "position": 4,
         "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
         "team": "尤姆博独立",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 2,
-        "goals_for": 2,
-        "goals_against": 6,
+        "goals_for": 3,
+        "goals_against": 7,
         "goal_difference": -4,
-        "points": 0,
-        "form": "LL",
-        "form_label": "负负"
+        "points": 1,
+        "form": "DLL",
+        "form_label": "平负负"
       },
       {
         "position": 4,
@@ -783,7 +783,7 @@
         "match_id": "as_3e3edb3ea0324f05b360cbcf1894ac7c",
         "date": "2026-11-06",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -795,7 +795,10 @@
           "name": "尤姆博独立",
           "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_35560fd0d9f0480d912734d889052a48",
@@ -875,7 +878,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "内华达山脉体育场",
         "status_label": "完场"
       },
       {
@@ -6743,7 +6746,7 @@
         "match_id": "as_3e3edb3ea0324f05b360cbcf1894ac7c",
         "date": "2026-11-06",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6755,7 +6758,10 @@
           "name": "尤姆博独立",
           "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -11320,13 +11326,13 @@
     }
   },
   "stats": {
-    "matches_completed": 274,
-    "total_goals": 600,
+    "matches_completed": 275,
+    "total_goals": 602,
     "avg_goals_per_match": 2.19,
     "home_wins": 99,
-    "draws": 90,
+    "draws": 91,
     "away_wins": 85,
-    "home_win_pct": 36.1,
+    "home_win_pct": 36.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12126,5 +12132,5 @@
     "matches_current_season": 284,
     "upcoming_matches": 10
   },
-  "updated_at": "2026/11/05"
+  "updated_at": "2026/11/06"
 }

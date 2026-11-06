@@ -126,15 +126,15 @@
         "position": 1,
         "team_id": "ast_f318c556063f40e68a678415dad44278",
         "team": "Regar-TadAZ",
-        "played": 20,
+        "played": 21,
         "wins": 12,
-        "draws": 6,
+        "draws": 7,
         "losses": 2,
-        "goals_for": 27,
-        "goals_against": 11,
+        "goals_for": 28,
+        "goals_against": 12,
         "goal_difference": 16,
-        "points": 42,
-        "form": "DDWWD"
+        "points": 43,
+        "form": "DDDWW"
       },
       {
         "position": 2,
@@ -238,15 +238,15 @@
         "position": 9,
         "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d",
         "team": "Eskhata",
-        "played": 20,
+        "played": 21,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 8,
-        "goals_for": 25,
-        "goals_against": 35,
+        "goals_for": 26,
+        "goals_against": 36,
         "goal_difference": -10,
-        "points": 22,
-        "form": "DDDWL"
+        "points": 23,
+        "form": "DDDDW"
       },
       {
         "position": 10,
@@ -296,16 +296,16 @@
         "position": 1,
         "team_id": "ast_f318c556063f40e68a678415dad44278",
         "team": "雷加尔-塔达兹",
-        "played": 20,
+        "played": 21,
         "wins": 12,
-        "draws": 6,
+        "draws": 7,
         "losses": 2,
-        "goals_for": 27,
-        "goals_against": 11,
+        "goals_for": 28,
+        "goals_against": 12,
         "goal_difference": 16,
-        "points": 42,
-        "form": "DDWWD",
-        "form_label": "平平胜胜平"
+        "points": 43,
+        "form": "DDDWW",
+        "form_label": "平平平胜胜"
       },
       {
         "position": 2,
@@ -416,16 +416,16 @@
         "position": 9,
         "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d",
         "team": "埃斯克哈塔",
-        "played": 20,
+        "played": 21,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 8,
-        "goals_for": 25,
-        "goals_against": 35,
+        "goals_for": 26,
+        "goals_against": 36,
         "goal_difference": -10,
-        "points": 22,
-        "form": "DDDWL",
-        "form_label": "平平平胜负"
+        "points": 23,
+        "form": "DDDDW",
+        "form_label": "平平平平胜"
       },
       {
         "position": 10,
@@ -492,6 +492,44 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_9e00a6150ecd4e92b140dba2585b8170",
+        "date": "2026-11-23",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "塔吉克斯坦Vysshaya Liga",
+        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
+        "season": "2026",
+        "home": {
+          "name": "巴尔基奇希索尔",
+          "team_id": "ast_6457475ae9194c228f139f98870a95ab"
+        },
+        "away": {
+          "name": "伊斯提克洛尔·杜尚别",
+          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_14f6e61079ad4c838962d183c3ce871d",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "11:00",
+        "league": "塔吉克斯坦Vysshaya Liga",
+        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
+        "season": "2026",
+        "home": {
+          "name": "伊斯提克洛尔·杜尚别",
+          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
+        },
+        "away": {
+          "name": "瓦赫什",
+          "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_8aa2a9ede424405d810a74c23078e72d",
         "date": "2026-11-07",
         "time": "12:00",
@@ -514,7 +552,7 @@
         "match_id": "as_8c0538efd48a49adbaa17a17ae250c9d",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -526,13 +564,14 @@
           "name": "埃斯克哈塔",
           "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_4cd553899ba047db8d1a0ba0068655a6",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -544,13 +583,14 @@
           "name": "巴尔基奇希索尔",
           "team_id": "ast_6457475ae9194c228f139f98870a95ab"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_1b29dc6c5ebc4ac6b540f83bafd4de3f",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -562,7 +602,8 @@
           "name": "杜尚别CSKA Pomir",
           "team_id": "ast_a0a0dc9a14ce4822ac4f7c8e39f21ef9"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_2e6f59a49bcc4e5b84143c817eb739f8",
@@ -587,7 +628,7 @@
         "match_id": "as_dd7f8d4b1385477d95eb0a7581ccfa9f",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -599,7 +640,8 @@
           "name": "萨尔多尔·图尔孙佐达",
           "team_id": "ast_ed5e7f70ea9f45ff9117b58ec0a4cccc"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_07451542b45b4b99bba35b4cf8beefed",
@@ -641,7 +683,7 @@
         "match_id": "as_88ed7709e8544d63833a352d0271092d",
         "date": "2026-11-05",
         "time": "09:45",
-        "status": "09:45",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -653,7 +695,10 @@
           "name": "雷加尔-塔达兹",
           "team_id": "ast_f318c556063f40e68a678415dad44278"
         },
-        "venue": ""
+        "ht_score": "-",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_59d4e0f46c214598ba1415bc88663fa2",
@@ -713,7 +758,7 @@
           "name": "拉夫尚",
           "team_id": "ast_d5023a2bae474a7c8ba3d442863d5512"
         },
-        "ht_score": "-",
+        "ht_score": "0-0",
         "reg_score": "1-1",
         "venue": "",
         "status_label": "完场"
@@ -950,25 +995,6 @@
         "status_label": "完场"
       },
       {
-        "match_id": "as_9e00a6150ecd4e92b140dba2585b8170",
-        "date": "2026-10-18",
-        "time": "12:00",
-        "status": "Postp.",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "巴尔基奇希索尔",
-          "team_id": "ast_6457475ae9194c228f139f98870a95ab"
-        },
-        "away": {
-          "name": "伊斯提克洛尔·杜尚别",
-          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
-        },
-        "venue": "",
-        "status_label": "延期"
-      },
-      {
         "match_id": "as_ee87b49d40b44445a0416b92275a3dd1",
         "date": "2026-10-17",
         "time": "10:00",
@@ -1072,25 +1098,6 @@
         "reg_score": "0-1",
         "venue": "",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_14f6e61079ad4c838962d183c3ce871d",
-        "date": "2026-10-10",
-        "time": "12:30",
-        "status": "Postp.",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "伊斯提克洛尔·杜尚别",
-          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
-        },
-        "away": {
-          "name": "瓦赫什",
-          "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_b53995966e954bc9a7eb8ca38ba8e202",
@@ -3237,10 +3244,30 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_9e00a6150ecd4e92b140dba2585b8170",
+        "date": "2026-11-23",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "塔吉克斯坦Vysshaya Liga",
+        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
+        "season": "2026",
+        "home": {
+          "name": "巴尔基奇希索尔",
+          "team_id": "ast_6457475ae9194c228f139f98870a95ab"
+        },
+        "away": {
+          "name": "伊斯提克洛尔·杜尚别",
+          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_dd7f8d4b1385477d95eb0a7581ccfa9f",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3252,7 +3279,8 @@
           "name": "萨尔多尔·图尔孙佐达",
           "team_id": "ast_ed5e7f70ea9f45ff9117b58ec0a4cccc"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_2e6f59a49bcc4e5b84143c817eb739f8",
@@ -3277,7 +3305,7 @@
         "match_id": "as_1b29dc6c5ebc4ac6b540f83bafd4de3f",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3289,13 +3317,14 @@
           "name": "杜尚别CSKA Pomir",
           "team_id": "ast_a0a0dc9a14ce4822ac4f7c8e39f21ef9"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_4cd553899ba047db8d1a0ba0068655a6",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3307,13 +3336,14 @@
           "name": "巴尔基奇希索尔",
           "team_id": "ast_6457475ae9194c228f139f98870a95ab"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_8c0538efd48a49adbaa17a17ae250c9d",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3325,7 +3355,8 @@
           "name": "埃斯克哈塔",
           "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_8aa2a9ede424405d810a74c23078e72d",
@@ -3345,6 +3376,24 @@
         },
         "venue": "",
         "status_label": "延期"
+      },
+      {
+        "match_id": "as_14f6e61079ad4c838962d183c3ce871d",
+        "date": "2026-11-07",
+        "time": "11:00",
+        "status": "11:00",
+        "league": "塔吉克斯坦Vysshaya Liga",
+        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
+        "season": "2026",
+        "home": {
+          "name": "伊斯提克洛尔·杜尚别",
+          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
+        },
+        "away": {
+          "name": "瓦赫什",
+          "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1"
+        },
+        "venue": ""
       },
       {
         "match_id": "as_2c38a85dea3d420a80b235ee4a68d910",
@@ -3379,24 +3428,6 @@
         "away": {
           "name": "萨尔多尔·图尔孙佐达",
           "team_id": "ast_ed5e7f70ea9f45ff9117b58ec0a4cccc"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_88ed7709e8544d63833a352d0271092d",
-        "date": "2026-11-05",
-        "time": "09:45",
-        "status": "09:45",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "埃斯克哈塔",
-          "team_id": "ast_bec35d4ffce44d559058708b1a1ca19d"
-        },
-        "away": {
-          "name": "雷加尔-塔达兹",
-          "team_id": "ast_f318c556063f40e68a678415dad44278"
         },
         "venue": ""
       }
@@ -4801,13 +4832,13 @@
     }
   },
   "stats": {
-    "matches_completed": 121,
-    "total_goals": 296,
-    "avg_goals_per_match": 2.45,
+    "matches_completed": 122,
+    "total_goals": 298,
+    "avg_goals_per_match": 2.44,
     "home_wins": 45,
-    "draws": 38,
+    "draws": 39,
     "away_wins": 38,
-    "home_win_pct": 37.2,
+    "home_win_pct": 36.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4834,8 +4865,8 @@
     },
     "leader": {
       "team": "Regar-TadAZ",
-      "points": 42,
-      "played": 20
+      "points": 43,
+      "played": 21
     }
   },
   "coverage": {
@@ -4932,15 +4963,15 @@
             "position": 1,
             "team_id": "ast_f318c556063f40e68a678415dad44278",
             "team": "Regar-TadAZ",
-            "played": 20,
+            "played": 21,
             "wins": 12,
-            "draws": 6,
+            "draws": 7,
             "losses": 2,
-            "goals_for": 27,
-            "goals_against": 11,
+            "goals_for": 28,
+            "goals_against": 12,
             "goal_difference": 16,
-            "points": 42,
-            "form": "DDWWD"
+            "points": 43,
+            "form": "DDDWW"
           },
           {
             "position": 2,
@@ -5568,7 +5599,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 9
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/11/05"
+  "updated_at": "2026/11/06"
 }

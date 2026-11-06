@@ -316,20 +316,34 @@
       },
       {
         "position": 13,
-        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
-        "team": "Bunyodkor",
-        "played": 25,
-        "wins": 8,
-        "draws": 2,
-        "losses": 15,
-        "goals_for": 26,
-        "goals_against": 41,
+        "team_id": "ast_37c7b4e902464fed8a40867876ed09a7",
+        "team": "Xorazm Urganch",
+        "played": 27,
+        "wins": 6,
+        "draws": 8,
+        "losses": 13,
+        "goals_for": 23,
+        "goals_against": 38,
         "goal_difference": -15,
         "points": 26,
-        "form": "WDLWL"
+        "form": "WLLDD"
       },
       {
         "position": 14,
+        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
+        "team": "Bunyodkor",
+        "played": 26,
+        "wins": 8,
+        "draws": 2,
+        "losses": 16,
+        "goals_for": 27,
+        "goals_against": 43,
+        "goal_difference": -16,
+        "points": 26,
+        "form": "LWDLW"
+      },
+      {
+        "position": 15,
         "team_id": "ast_68e30855de3c48089677835afb30692a",
         "team": "Kokand 1912",
         "played": 26,
@@ -341,20 +355,6 @@
         "goal_difference": -11,
         "points": 24,
         "form": "DLLWL"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_37c7b4e902464fed8a40867876ed09a7",
-        "team": "Xorazm Urganch",
-        "played": 26,
-        "wins": 5,
-        "draws": 8,
-        "losses": 13,
-        "goals_for": 21,
-        "goals_against": 37,
-        "goal_difference": -16,
-        "points": 23,
-        "form": "LLDDL"
       },
       {
         "position": 16,
@@ -554,21 +554,36 @@
       },
       {
         "position": 13,
-        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
-        "team": "布纽德科尔",
-        "played": 25,
-        "wins": 8,
-        "draws": 2,
-        "losses": 15,
-        "goals_for": 26,
-        "goals_against": 41,
+        "team_id": "ast_37c7b4e902464fed8a40867876ed09a7",
+        "team": "霍拉兹姆乌尔甘奇",
+        "played": 27,
+        "wins": 6,
+        "draws": 8,
+        "losses": 13,
+        "goals_for": 23,
+        "goals_against": 38,
         "goal_difference": -15,
         "points": 26,
-        "form": "WDLWL",
-        "form_label": "胜平负胜负"
+        "form": "WLLDD",
+        "form_label": "胜负负平平"
       },
       {
         "position": 14,
+        "team_id": "ast_8dd53582da4549eab8b50427784dda97",
+        "team": "布纽德科尔",
+        "played": 26,
+        "wins": 8,
+        "draws": 2,
+        "losses": 16,
+        "goals_for": 27,
+        "goals_against": 43,
+        "goal_difference": -16,
+        "points": 26,
+        "form": "LWDLW",
+        "form_label": "负胜平负胜"
+      },
+      {
+        "position": 15,
         "team_id": "ast_68e30855de3c48089677835afb30692a",
         "team": "科汗1912",
         "played": 26,
@@ -581,21 +596,6 @@
         "points": 24,
         "form": "DLLWL",
         "form_label": "平负负胜负"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_37c7b4e902464fed8a40867876ed09a7",
-        "team": "霍拉兹姆乌尔甘奇",
-        "played": 26,
-        "wins": 5,
-        "draws": 8,
-        "losses": 13,
-        "goals_for": 21,
-        "goals_against": 37,
-        "goal_difference": -16,
-        "points": 23,
-        "form": "LLDDL",
-        "form_label": "负负平平负"
       },
       {
         "position": 16,
@@ -1261,7 +1261,7 @@
         "match_id": "as_14158e8f82ce4c1687b9d286d134a3f4",
         "date": "2026-11-05",
         "time": "13:30",
-        "status": "13:30",
+        "status": "FT",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1273,7 +1273,10 @@
           "name": "霍拉兹姆乌尔甘奇",
           "team_id": "ast_37c7b4e902464fed8a40867876ed09a7"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5e4a7aac60344500b11ff6a61a1316c5",
@@ -6266,24 +6269,6 @@
           "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_14158e8f82ce4c1687b9d286d134a3f4",
-        "date": "2026-11-05",
-        "time": "13:30",
-        "status": "13:30",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "season": "2026",
-        "home": {
-          "name": "布纽德科尔",
-          "team_id": "ast_8dd53582da4549eab8b50427784dda97"
-        },
-        "away": {
-          "name": "霍拉兹姆乌尔甘奇",
-          "team_id": "ast_37c7b4e902464fed8a40867876ed09a7"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8167,13 +8152,13 @@
     }
   },
   "stats": {
-    "matches_completed": 207,
-    "total_goals": 545,
+    "matches_completed": 208,
+    "total_goals": 548,
     "avg_goals_per_match": 2.63,
     "home_wins": 87,
     "draws": 49,
-    "away_wins": 71,
-    "home_win_pct": 42.0,
+    "away_wins": 72,
+    "home_win_pct": 41.8,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8971,7 +8956,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 34
+    "upcoming_matches": 33
   },
-  "updated_at": "2026/11/05"
+  "updated_at": "2026/11/06"
 }
