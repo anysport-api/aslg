@@ -70,6 +70,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
+        "team": "KIF Orebro W",
+        "played": 25,
+        "wins": 18,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 63,
+        "goals_against": 29,
+        "goal_difference": 34,
+        "points": 56,
+        "form": "WLWWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
         "team": "Elfsborg W",
         "played": 24,
@@ -83,7 +97,7 @@
         "form": "DWWWD"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
         "team": "Goteborg W",
         "played": 24,
@@ -95,20 +109,6 @@
         "goal_difference": 37,
         "points": 54,
         "form": "WWWWD"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
-        "team": "KIF Orebro W",
-        "played": 24,
-        "wins": 17,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 59,
-        "goals_against": 29,
-        "goal_difference": 30,
-        "points": 53,
-        "form": "LWWWW"
       },
       {
         "position": 4,
@@ -128,15 +128,15 @@
         "position": 5,
         "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
         "team": "Linkoping W",
-        "played": 24,
+        "played": 25,
         "wins": 13,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 41,
-        "goals_against": 33,
-        "goal_difference": 8,
+        "goals_against": 37,
+        "goal_difference": 4,
         "points": 43,
-        "form": "LLDLL"
+        "form": "LLLDL"
       },
       {
         "position": 6,
@@ -268,6 +268,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
+        "team": "KIF厄勒布鲁女足",
+        "played": 25,
+        "wins": 18,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 63,
+        "goals_against": 29,
+        "goal_difference": 34,
+        "points": 56,
+        "form": "WLWWW",
+        "form_label": "胜负胜胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
         "team": "埃尔夫斯堡女足",
         "played": 24,
@@ -282,7 +297,7 @@
         "form_label": "平胜胜胜平"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
         "team": "哥德堡女足",
         "played": 24,
@@ -295,21 +310,6 @@
         "points": 54,
         "form": "WWWWD",
         "form_label": "胜胜胜胜平"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
-        "team": "KIF厄勒布鲁女足",
-        "played": 24,
-        "wins": 17,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 59,
-        "goals_against": 29,
-        "goal_difference": 30,
-        "points": 53,
-        "form": "LWWWW",
-        "form_label": "负胜胜胜胜"
       },
       {
         "position": 4,
@@ -330,16 +330,16 @@
         "position": 5,
         "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed",
         "team": "林雪平女足",
-        "played": 24,
+        "played": 25,
         "wins": 13,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "goals_for": 41,
-        "goals_against": 33,
-        "goal_difference": 8,
+        "goals_against": 37,
+        "goal_difference": 4,
         "points": 43,
-        "form": "LLDLL",
-        "form_label": "负负平负负"
+        "form": "LLLDL",
+        "form_label": "负负负平负"
       },
       {
         "position": 6,
@@ -747,7 +747,7 @@
         "match_id": "as_bb1ce5c59ec44617948ac6762de703a6",
         "date": "2026-11-06",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -759,7 +759,10 @@
           "name": "林雪平女足",
           "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_742f30a8e27e4cad8e42613f5b75e190",
@@ -4538,24 +4541,6 @@
           "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_bb1ce5c59ec44617948ac6762de703a6",
-        "date": "2026-11-06",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "KIF厄勒布鲁女足",
-          "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8"
-        },
-        "away": {
-          "name": "林雪平女足",
-          "team_id": "ast_c6cae18b820c4b0fb1fb47619ad880ed"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6020,13 +6005,13 @@
     }
   },
   "stats": {
-    "matches_completed": 168,
-    "total_goals": 508,
-    "avg_goals_per_match": 3.02,
-    "home_wins": 66,
+    "matches_completed": 169,
+    "total_goals": 512,
+    "avg_goals_per_match": 3.03,
+    "home_wins": 67,
     "draws": 36,
     "away_wins": 66,
-    "home_win_pct": 39.3,
+    "home_win_pct": 39.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6052,9 +6037,9 @@
       }
     },
     "leader": {
-      "team": "Elfsborg W",
-      "points": 55,
-      "played": 24
+      "team": "KIF Orebro W",
+      "points": 56,
+      "played": 25
     }
   },
   "coverage": {
@@ -6149,6 +6134,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
+            "team": "KIF Orebro W",
+            "played": 25,
+            "wins": 18,
+            "draws": 2,
+            "losses": 5,
+            "goals_for": 63,
+            "goals_against": 29,
+            "goal_difference": 34,
+            "points": 56,
+            "form": "WLWWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
             "team": "Elfsborg W",
             "played": 24,
@@ -6162,7 +6161,7 @@
             "form": "DWWWD"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
             "team": "Goteborg W",
             "played": 24,
@@ -6174,20 +6173,6 @@
             "goal_difference": 37,
             "points": 54,
             "form": "WWWWD"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
-            "team": "KIF Orebro W",
-            "played": 24,
-            "wins": 17,
-            "draws": 2,
-            "losses": 5,
-            "goals_for": 59,
-            "goals_against": 29,
-            "goal_difference": 30,
-            "points": 53,
-            "form": "LWWWW"
           }
         ],
         "meta": {
@@ -6824,7 +6809,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 14
+    "upcoming_matches": 13
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }

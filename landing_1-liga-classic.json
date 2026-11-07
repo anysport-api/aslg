@@ -160,20 +160,6 @@
     "en": [
       {
         "position": 1,
-        "team_id": "ast_ae50c082fe8c40149ab72879d90d1bd4",
-        "team": "Grasshopper II",
-        "played": 30,
-        "wins": 19,
-        "draws": 7,
-        "losses": 4,
-        "goals_for": 71,
-        "goals_against": 27,
-        "goal_difference": 44,
-        "points": 64,
-        "form": "WWWLL"
-      },
-      {
-        "position": 1,
         "team_id": "ast_7378fa2d44b04d21a018ebc0ed11c7d6",
         "team": "Kreuzlingen",
         "played": 30,
@@ -199,6 +185,20 @@
         "goal_difference": 48,
         "points": 61,
         "form": "WWDWL"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_ae50c082fe8c40149ab72879d90d1bd4",
+        "team": "Grasshopper II",
+        "played": 30,
+        "wins": 19,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 71,
+        "goals_against": 27,
+        "goal_difference": 44,
+        "points": 64,
+        "form": "WWWLL"
       },
       {
         "position": 2,
@@ -834,21 +834,6 @@
     "zh": [
       {
         "position": 1,
-        "team_id": "ast_ae50c082fe8c40149ab72879d90d1bd4",
-        "team": "草蜢二队",
-        "played": 30,
-        "wins": 19,
-        "draws": 7,
-        "losses": 4,
-        "goals_for": 71,
-        "goals_against": 27,
-        "goal_difference": 44,
-        "points": 64,
-        "form": "WWWLL",
-        "form_label": "胜胜胜负负"
-      },
-      {
-        "position": 1,
         "team_id": "ast_7378fa2d44b04d21a018ebc0ed11c7d6",
         "team": "克罗伊茨林根",
         "played": 30,
@@ -876,6 +861,21 @@
         "points": 61,
         "form": "WWDWL",
         "form_label": "胜胜平胜负"
+      },
+      {
+        "position": 1,
+        "team_id": "ast_ae50c082fe8c40149ab72879d90d1bd4",
+        "team": "草蜢二队",
+        "played": 30,
+        "wins": 19,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 71,
+        "goals_against": 27,
+        "goal_difference": 44,
+        "points": 64,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
       },
       {
         "position": 2,
@@ -16937,7 +16937,7 @@
         "match_id": "as_53223798f8584f95b9399d7e0bb0d1ff",
         "date": "2026-11-08",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "瑞士甲级联赛经典",
         "league_id": "asl_f0c7f61021ba4c669099ede6b8e32c89",
         "season": "2026/2027",
@@ -16949,15 +16949,13 @@
           "name": "洛卡尔诺",
           "team_id": "ast_8c0f0750cdbe4769ba1c7e4686cb3d77"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_78a11e1b16c64e0a99e4ee91c74bb695",
         "date": "2026-11-08",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "瑞士甲级联赛经典",
         "league_id": "asl_f0c7f61021ba4c669099ede6b8e32c89",
         "season": "2026/2027",
@@ -16969,9 +16967,7 @@
           "name": "图根",
           "team_id": "ast_ae12a9bfd30448fcbeaba47498eab3fe"
         },
-        "ht_score": "-",
-        "venue": "Sportpark Eschen-Mauren",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -21254,8 +21250,8 @@
       }
     },
     "leader": {
-      "team": "Grasshopper II",
-      "points": 64,
+      "team": "Kreuzlingen",
+      "points": 56,
       "played": 30
     }
   },
@@ -21350,20 +21346,6 @@
         "data": [
           {
             "position": 1,
-            "team_id": "ast_ae50c082fe8c40149ab72879d90d1bd4",
-            "team": "Grasshopper II",
-            "played": 30,
-            "wins": 19,
-            "draws": 7,
-            "losses": 4,
-            "goals_for": 71,
-            "goals_against": 27,
-            "goal_difference": 44,
-            "points": 64,
-            "form": "WWWLL"
-          },
-          {
-            "position": 1,
             "team_id": "ast_7378fa2d44b04d21a018ebc0ed11c7d6",
             "team": "Kreuzlingen",
             "played": 30,
@@ -21389,6 +21371,20 @@
             "goal_difference": 48,
             "points": 61,
             "form": "WWDWL"
+          },
+          {
+            "position": 1,
+            "team_id": "ast_ae50c082fe8c40149ab72879d90d1bd4",
+            "team": "Grasshopper II",
+            "played": 30,
+            "wins": 19,
+            "draws": 7,
+            "losses": 4,
+            "goals_for": 71,
+            "goals_against": 27,
+            "goal_difference": 44,
+            "points": 64,
+            "form": "WWWLL"
           }
         ],
         "meta": {
@@ -21990,5 +21986,5 @@
     "matches_current_season": 720,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/11/03"
+  "updated_at": "2026/11/07"
 }

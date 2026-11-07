@@ -208,15 +208,15 @@
         "position": 3,
         "team_id": "ast_632effbea9504a4895b736e294fbff3b",
         "team": "Metapan",
-        "played": 18,
+        "played": 19,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "losses": 5,
-        "goals_for": 24,
-        "goals_against": 19,
+        "goals_for": 25,
+        "goals_against": 20,
         "goal_difference": 5,
-        "points": 31,
-        "form": "DLDWL"
+        "points": 32,
+        "form": "DDLDW"
       },
       {
         "position": 4,
@@ -304,6 +304,20 @@
       },
       {
         "position": 10,
+        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
+        "team": "Inca Aruba",
+        "played": 19,
+        "wins": 4,
+        "draws": 5,
+        "losses": 10,
+        "goals_for": 14,
+        "goals_against": 33,
+        "goal_difference": -19,
+        "points": 17,
+        "form": "DLLLL"
+      },
+      {
+        "position": 11,
         "team_id": "ast_f80a1054ba594238b80831a157b6b5c4",
         "team": "Cacahuatique",
         "played": 18,
@@ -315,20 +329,6 @@
         "goal_difference": -10,
         "points": 16,
         "form": "WDDLL"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
-        "team": "Inca Aruba",
-        "played": 18,
-        "wins": 4,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 13,
-        "goals_against": 32,
-        "goal_difference": -19,
-        "points": 16,
-        "form": "LLLLD"
       },
       {
         "position": 12,
@@ -380,16 +380,16 @@
         "position": 3,
         "team_id": "ast_632effbea9504a4895b736e294fbff3b",
         "team": "梅塔潘",
-        "played": 18,
+        "played": 19,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "losses": 5,
-        "goals_for": 24,
-        "goals_against": 19,
+        "goals_for": 25,
+        "goals_against": 20,
         "goal_difference": 5,
-        "points": 31,
-        "form": "DLDWL",
-        "form_label": "平负平胜负"
+        "points": 32,
+        "form": "DDLDW",
+        "form_label": "平平负平胜"
       },
       {
         "position": 4,
@@ -483,6 +483,21 @@
       },
       {
         "position": 10,
+        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
+        "team": "Inca Aruba",
+        "played": 19,
+        "wins": 4,
+        "draws": 5,
+        "losses": 10,
+        "goals_for": 14,
+        "goals_against": 33,
+        "goal_difference": -19,
+        "points": 17,
+        "form": "DLLLL",
+        "form_label": "平负负负负"
+      },
+      {
+        "position": 11,
         "team_id": "ast_f80a1054ba594238b80831a157b6b5c4",
         "team": "卡卡瓦提克",
         "played": 18,
@@ -495,21 +510,6 @@
         "points": 16,
         "form": "WDDLL",
         "form_label": "胜平平负负"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
-        "team": "Inca Aruba",
-        "played": 18,
-        "wins": 4,
-        "draws": 4,
-        "losses": 10,
-        "goals_for": 13,
-        "goals_against": 32,
-        "goal_difference": -19,
-        "points": 16,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
       },
       {
         "position": 12,
@@ -769,7 +769,7 @@
         "match_id": "as_fc61b88d320348ce803721ec668538dc",
         "date": "2026-11-12",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -781,13 +781,15 @@
           "name": "国际F.A.",
           "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2c36c62f64d146a99991d3752e715cef",
         "date": "2026-11-12",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -799,13 +801,15 @@
           "name": "利梅诺市立队",
           "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_66c8c8431de44b84918d246d7842c529",
         "date": "2026-11-12",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -817,13 +821,15 @@
           "name": "Inca Aruba",
           "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_263cae4ceda54377a02e22fd96e42541",
         "date": "2026-11-11",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -835,13 +841,15 @@
           "name": "普拉滕塞市",
           "team_id": "ast_1c88b3d537fc417f920ed25d00041d3c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_7c3841b30c2142baaedd077f50504269",
         "date": "2026-11-11",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -853,13 +861,15 @@
           "name": "阿利安萨",
           "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_18e0b56a8fd444f98fb29734c10e45b3",
         "date": "2026-11-10",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -871,13 +881,15 @@
           "name": "路易斯·安赫尔·菲尔波",
           "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d31230beac4349eba7e98079d58d4872",
         "date": "2026-11-09",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -889,7 +901,9 @@
           "name": "富尔特圣弗朗西斯科",
           "team_id": "ast_a22f732498a3448d8fa302992408de2c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_41740e3c539b4fd897c21f9e31bcb5e9",
@@ -930,8 +944,8 @@
       {
         "match_id": "as_6e7b154e49264081ae58098125e0e5ca",
         "date": "2026-11-08",
-        "time": "01:00",
-        "status": "01:00",
+        "time": "02:00",
+        "status": "02:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -949,7 +963,7 @@
         "match_id": "as_e5d38546e7b54e80ba966ac7e8980750",
         "date": "2026-11-07",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -961,7 +975,10 @@
           "name": "梅塔潘",
           "team_id": "ast_632effbea9504a4895b736e294fbff3b"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6259a0ea6ace4210b2ba83cb823ddca9",
@@ -3496,7 +3513,7 @@
         "match_id": "as_66c8c8431de44b84918d246d7842c529",
         "date": "2026-11-12",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3508,13 +3525,15 @@
           "name": "Inca Aruba",
           "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_2c36c62f64d146a99991d3752e715cef",
         "date": "2026-11-12",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3526,13 +3545,15 @@
           "name": "利梅诺市立队",
           "team_id": "ast_46a6ff979b504d4bb9fef17561832858"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_fc61b88d320348ce803721ec668538dc",
         "date": "2026-11-12",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3544,13 +3565,15 @@
           "name": "国际F.A.",
           "team_id": "ast_47bf194e25094efa85f0cc3f7741d5cd"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_7c3841b30c2142baaedd077f50504269",
         "date": "2026-11-11",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3562,13 +3585,15 @@
           "name": "阿利安萨",
           "team_id": "ast_dfbb9d34d1cb40c78bada0e07b4402a5"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_263cae4ceda54377a02e22fd96e42541",
         "date": "2026-11-11",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3580,13 +3605,15 @@
           "name": "普拉滕塞市",
           "team_id": "ast_1c88b3d537fc417f920ed25d00041d3c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_18e0b56a8fd444f98fb29734c10e45b3",
         "date": "2026-11-10",
         "time": "21:30",
-        "status": "21:30",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3598,13 +3625,15 @@
           "name": "路易斯·安赫尔·菲尔波",
           "team_id": "ast_c24f4dc9936f4e8e823b54ad9c1488d1"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d31230beac4349eba7e98079d58d4872",
         "date": "2026-11-09",
         "time": "01:00",
-        "status": "01:00",
+        "status": "Not Started",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3616,13 +3645,15 @@
           "name": "富尔特圣弗朗西斯科",
           "team_id": "ast_a22f732498a3448d8fa302992408de2c"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6e7b154e49264081ae58098125e0e5ca",
         "date": "2026-11-08",
-        "time": "01:00",
-        "status": "01:00",
+        "time": "02:00",
+        "status": "02:00",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3694,7 +3725,7 @@
         "match_id": "as_e5d38546e7b54e80ba966ac7e8980750",
         "date": "2026-11-07",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -3706,7 +3737,10 @@
           "name": "梅塔潘",
           "team_id": "ast_632effbea9504a4895b736e294fbff3b"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7522,13 +7556,13 @@
     }
   },
   "stats": {
-    "matches_completed": 109,
-    "total_goals": 287,
+    "matches_completed": 110,
+    "total_goals": 289,
     "avg_goals_per_match": 2.63,
     "home_wins": 45,
-    "draws": 36,
+    "draws": 37,
     "away_wins": 28,
-    "home_win_pct": 41.3,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7681,15 +7715,15 @@
             "position": 3,
             "team_id": "ast_632effbea9504a4895b736e294fbff3b",
             "team": "Metapan",
-            "played": 18,
+            "played": 19,
             "wins": 9,
-            "draws": 4,
+            "draws": 5,
             "losses": 5,
-            "goals_for": 24,
-            "goals_against": 19,
+            "goals_for": 25,
+            "goals_against": 20,
             "goal_difference": 5,
-            "points": 31,
-            "form": "DLDWL"
+            "points": 32,
+            "form": "DDLDW"
           }
         ],
         "meta": {
@@ -8319,5 +8353,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 23
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }

@@ -208,6 +208,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
+        "team": "Pohronie",
+        "played": 16,
+        "wins": 8,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 28,
+        "goals_against": 20,
+        "goal_difference": 8,
+        "points": 27,
+        "form": "WDLDW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6",
         "team": "Presov",
         "played": 15,
@@ -219,20 +233,6 @@
         "goal_difference": 5,
         "points": 25,
         "form": "WWDDW"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
-        "team": "Pohronie",
-        "played": 15,
-        "wins": 7,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 23,
-        "goals_against": 19,
-        "goal_difference": 4,
-        "points": 24,
-        "form": "DLDWW"
       },
       {
         "position": 6,
@@ -280,15 +280,15 @@
         "position": 9,
         "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55",
         "team": "Lehota p. V.",
-        "played": 15,
+        "played": 16,
         "wins": 6,
         "draws": 4,
-        "losses": 5,
-        "goals_for": 22,
-        "goals_against": 22,
-        "goal_difference": 0,
+        "losses": 6,
+        "goals_for": 23,
+        "goals_against": 27,
+        "goal_difference": -4,
         "points": 22,
-        "form": "WWLWL"
+        "form": "LWWLW"
       },
       {
         "position": 10,
@@ -437,6 +437,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
+        "team": "波赫罗尼",
+        "played": 16,
+        "wins": 8,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 28,
+        "goals_against": 20,
+        "goal_difference": 8,
+        "points": 27,
+        "form": "WDLDW",
+        "form_label": "胜平负平胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6",
         "team": "普雷绍夫",
         "played": 15,
@@ -449,21 +464,6 @@
         "points": 25,
         "form": "WWDDW",
         "form_label": "胜胜平平胜"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d",
-        "team": "波赫罗尼",
-        "played": 15,
-        "wins": 7,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 23,
-        "goals_against": 19,
-        "goal_difference": 4,
-        "points": 24,
-        "form": "DLDWW",
-        "form_label": "平负平胜胜"
       },
       {
         "position": 6,
@@ -514,16 +514,16 @@
         "position": 9,
         "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55",
         "team": "莱霍塔",
-        "played": 15,
+        "played": 16,
         "wins": 6,
         "draws": 4,
-        "losses": 5,
-        "goals_for": 22,
-        "goals_against": 22,
-        "goal_difference": 0,
+        "losses": 6,
+        "goals_for": 23,
+        "goals_against": 27,
+        "goal_difference": -4,
         "points": 22,
-        "form": "WWLWL",
-        "form_label": "胜胜负胜负"
+        "form": "LWWLW",
+        "form_label": "负胜胜负胜"
       },
       {
         "position": 10,
@@ -2893,7 +2893,7 @@
         "match_id": "as_cc226f8d074f41b5b8555d23bcea19a5",
         "date": "2026-11-09",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -2905,7 +2905,9 @@
           "name": "MFK 比特察",
           "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Mestsky futbalovy stadion Milana Janeka",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4145dfc6cb9e409e8464d4119fe3fd65",
@@ -3019,7 +3021,7 @@
         "match_id": "as_5036bf2b83d743849c0eb37037ada03e",
         "date": "2026-11-06",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -3031,7 +3033,10 @@
           "name": "莱霍塔",
           "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "5-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ecac92960f27470f903edaff3737421e",
@@ -5719,7 +5724,7 @@
         "match_id": "as_cc226f8d074f41b5b8555d23bcea19a5",
         "date": "2026-11-09",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Not Started",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -5731,7 +5736,9 @@
           "name": "MFK 比特察",
           "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Mestsky futbalovy stadion Milana Janeka",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_4145dfc6cb9e409e8464d4119fe3fd65",
@@ -5838,24 +5845,6 @@
         "away": {
           "name": "波瓦兹斯卡比斯特里察",
           "team_id": "ast_e669d1d0130d4c1599f3f62877433408"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5036bf2b83d743849c0eb37037ada03e",
-        "date": "2026-11-06",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "波赫罗尼",
-          "team_id": "ast_af17443badf34296a84f2e47e3cb9c3d"
-        },
-        "away": {
-          "name": "莱霍塔",
-          "team_id": "ast_800e9113a16e468e8e8cae20cbebcb55"
         },
         "venue": ""
       }
@@ -7956,13 +7945,13 @@
     }
   },
   "stats": {
-    "matches_completed": 120,
-    "total_goals": 347,
-    "avg_goals_per_match": 2.89,
-    "home_wins": 57,
+    "matches_completed": 121,
+    "total_goals": 353,
+    "avg_goals_per_match": 2.92,
+    "home_wins": 58,
     "draws": 28,
     "away_wins": 35,
-    "home_win_pct": 47.5,
+    "home_win_pct": 47.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8760,7 +8749,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 16
+    "upcoming_matches": 15
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }

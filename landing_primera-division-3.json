@@ -244,15 +244,15 @@
         "position": 9,
         "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
         "team": "Independiente",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 6,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 32,
-        "goals_against": 40,
-        "goal_difference": -8,
+        "goals_against": 42,
+        "goal_difference": -10,
         "points": 30,
-        "form": "DWDLL"
+        "form": "LDWDL"
       },
       {
         "position": 10,
@@ -298,6 +298,20 @@
       },
       {
         "position": 13,
+        "team_id": "ast_9168e0117f3d4701bfe650cddcc10e10",
+        "team": "Tomayapo",
+        "played": 25,
+        "wins": 6,
+        "draws": 5,
+        "losses": 14,
+        "goals_for": 19,
+        "goals_against": 42,
+        "goal_difference": -23,
+        "points": 23,
+        "form": "WLLWD"
+      },
+      {
+        "position": 14,
         "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67",
         "team": "Universitario de Vinto",
         "played": 24,
@@ -311,7 +325,7 @@
         "form": "LLWLD"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_64dc4d28917d4dccb3759193f1c64d03",
         "team": "GV San Jose",
         "played": 24,
@@ -325,7 +339,7 @@
         "form": "LWLWL"
       },
       {
-        "position": 15,
+        "position": 16,
         "team_id": "ast_f36065d57014472bb97549fd7953a395",
         "team": "Academia del Balompie",
         "played": 24,
@@ -337,20 +351,6 @@
         "goal_difference": -19,
         "points": 20,
         "form": "LLLLL"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_9168e0117f3d4701bfe650cddcc10e10",
-        "team": "Tomayapo",
-        "played": 24,
-        "wins": 5,
-        "draws": 5,
-        "losses": 14,
-        "goals_for": 17,
-        "goals_against": 42,
-        "goal_difference": -25,
-        "points": 20,
-        "form": "LLWDL"
       }
     ],
     "zh": [
@@ -478,16 +478,16 @@
         "position": 9,
         "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f",
         "team": "独立队",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 6,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 32,
-        "goals_against": 40,
-        "goal_difference": -8,
+        "goals_against": 42,
+        "goal_difference": -10,
         "points": 30,
-        "form": "DWDLL",
-        "form_label": "平胜平负负"
+        "form": "LDWDL",
+        "form_label": "负平胜平负"
       },
       {
         "position": 10,
@@ -536,6 +536,21 @@
       },
       {
         "position": 13,
+        "team_id": "ast_9168e0117f3d4701bfe650cddcc10e10",
+        "team": "托马亚波",
+        "played": 25,
+        "wins": 6,
+        "draws": 5,
+        "losses": 14,
+        "goals_for": 19,
+        "goals_against": 42,
+        "goal_difference": -23,
+        "points": 23,
+        "form": "WLLWD",
+        "form_label": "胜负负胜平"
+      },
+      {
+        "position": 14,
         "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67",
         "team": "温托大学生队",
         "played": 24,
@@ -550,7 +565,7 @@
         "form_label": "负负胜负平"
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "ast_64dc4d28917d4dccb3759193f1c64d03",
         "team": "GV圣荷西",
         "played": 24,
@@ -565,7 +580,7 @@
         "form_label": "负胜负胜负"
       },
       {
-        "position": 15,
+        "position": 16,
         "team_id": "ast_f36065d57014472bb97549fd7953a395",
         "team": "巴隆皮学院",
         "played": 24,
@@ -578,21 +593,6 @@
         "points": 20,
         "form": "LLLLL",
         "form_label": "负负负负负"
-      },
-      {
-        "position": 16,
-        "team_id": "ast_9168e0117f3d4701bfe650cddcc10e10",
-        "team": "托马亚波",
-        "played": 24,
-        "wins": 5,
-        "draws": 5,
-        "losses": 14,
-        "goals_for": 17,
-        "goals_against": 42,
-        "goal_difference": -25,
-        "points": 20,
-        "form": "LLWDL",
-        "form_label": "负负胜平负"
       }
     ]
   },
@@ -1097,7 +1097,7 @@
         "match_id": "as_1f7235b3cc004aecbef7cd54170a1016",
         "date": "2026-11-10",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Not Started",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1109,7 +1109,9 @@
           "name": "温托大学生队",
           "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_39938ff601c64f5388a22aea2fa99b99",
@@ -1223,7 +1225,7 @@
         "match_id": "as_38d1dd2f4eaf482aa293479dfb764057",
         "date": "2026-11-06",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1235,7 +1237,10 @@
           "name": "托马亚波",
           "team_id": "ast_9168e0117f3d4701bfe650cddcc10e10"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d8750bc2806e4e76ab66b5e4e1b7f808",
@@ -5755,7 +5760,7 @@
         "match_id": "as_1f7235b3cc004aecbef7cd54170a1016",
         "date": "2026-11-10",
         "time": "00:30",
-        "status": "00:30",
+        "status": "Not Started",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -5767,7 +5772,9 @@
           "name": "温托大学生队",
           "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_a04e34870d5d469494346a2747588921",
@@ -5874,24 +5881,6 @@
         "away": {
           "name": "皇家奥鲁罗",
           "team_id": "ast_3b94e37ae826445a80a1e2b1274fb07c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_38d1dd2f4eaf482aa293479dfb764057",
-        "date": "2026-11-06",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "玻利维亚甲级联赛",
-        "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
-        "season": "2026",
-        "home": {
-          "name": "独立队",
-          "team_id": "ast_551cf741afc24a5c8ff566b14b9b7c83"
-        },
-        "away": {
-          "name": "托马亚波",
-          "team_id": "ast_9168e0117f3d4701bfe650cddcc10e10"
         },
         "venue": ""
       }
@@ -7929,13 +7918,13 @@
     }
   },
   "stats": {
-    "matches_completed": 192,
-    "total_goals": 584,
+    "matches_completed": 193,
+    "total_goals": 586,
     "avg_goals_per_match": 3.04,
     "home_wins": 96,
     "draws": 46,
-    "away_wins": 50,
-    "home_win_pct": 50.0,
+    "away_wins": 51,
+    "home_win_pct": 49.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8751,7 +8740,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 224,
-    "upcoming_matches": 32
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }

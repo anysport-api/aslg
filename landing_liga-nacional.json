@@ -5224,7 +5224,7 @@
         "match_id": "as_2d18e98177494c238798fe434a43bae8",
         "date": "2026-11-09",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5236,15 +5236,13 @@
           "name": "马拉卡特科",
           "team_id": "ast_1da7dd7f7a734b98928c65747892748a"
         },
-        "ht_score": "-",
-        "venue": "彭萨蒂沃体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f8f3a86f9d9b40d9b7dafc4aa5346ec8",
         "date": "2026-11-08",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "02:00",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5256,15 +5254,13 @@
           "name": "通讯队",
           "team_id": "ast_637f86a734284586a27a23fd1c80bae2"
         },
-        "ht_score": "-",
-        "venue": "Estadio Marquesa de la Ensenada",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9c1b341f535a41b59ff9b42f7925ed73",
         "date": "2026-11-08",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5276,15 +5272,13 @@
           "name": "谢拉胡",
           "team_id": "ast_9269b0cc06e44d8bb990e53b32f711f5"
         },
-        "ht_score": "-",
-        "venue": "Estadio Verapaz",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_51b05f858dd843fb9a719b24ca57d99e",
         "date": "2026-11-07",
-        "time": "01:00",
-        "status": "Not Started",
+        "time": "02:00",
+        "status": "FT",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5296,15 +5290,16 @@
           "name": "苏基特佩克斯",
           "team_id": "ast_2aa8a73f17514d05884d9ca74c452590"
         },
-        "ht_score": "-",
+        "ht_score": "1-0",
+        "reg_score": "4-0",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_e9898e777e54411287da993a7f6333fb",
         "date": "2026-11-07",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "危地马拉甲级联赛",
         "league_id": "asl_8ecfb99a98a24f999b7f8c90f24488d8",
         "season": "2026/2027",
@@ -5316,9 +5311,7 @@
           "name": "Deportivo San Pedro",
           "team_id": "ast_ab573456636d475d9c0600da4136e0c9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -7523,5 +7516,5 @@
     "matches_current_season": 206,
     "upcoming_matches": 24
   },
-  "updated_at": "2026/11/05"
+  "updated_at": "2026/11/07"
 }

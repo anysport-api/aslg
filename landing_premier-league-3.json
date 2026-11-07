@@ -272,6 +272,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_bd770c03a6c24ce881849e16bee4131b",
+        "team": "FC Gomel",
+        "played": 28,
+        "wins": 12,
+        "draws": 7,
+        "losses": 9,
+        "goals_for": 40,
+        "goals_against": 29,
+        "goal_difference": 11,
+        "points": 43,
+        "form": "WLLDL"
+      },
+      {
+        "position": 7,
         "team_id": "ast_a6968e3b17ba4d74bad3a87a0ef73c46",
         "team": "Vitebsk",
         "played": 27,
@@ -283,20 +297,6 @@
         "goal_difference": 4,
         "points": 40,
         "form": "LLWDW"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_bd770c03a6c24ce881849e16bee4131b",
-        "team": "FC Gomel",
-        "played": 27,
-        "wins": 11,
-        "draws": 7,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 29,
-        "goal_difference": 9,
-        "points": 40,
-        "form": "LLDLW"
       },
       {
         "position": 8,
@@ -358,15 +358,15 @@
         "position": 12,
         "team_id": "ast_cb43279d453a437eb27a35efe7810c4e",
         "team": "Arsenal Dzerzhinsk",
-        "played": 27,
+        "played": 28,
         "wins": 6,
         "draws": 9,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 25,
-        "goals_against": 44,
-        "goal_difference": -19,
+        "goals_against": 46,
+        "goal_difference": -21,
         "points": 27,
-        "form": "WDLLL"
+        "form": "LWDLL"
       },
       {
         "position": 13,
@@ -503,6 +503,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_bd770c03a6c24ce881849e16bee4131b",
+        "team": "戈梅尔",
+        "played": 28,
+        "wins": 12,
+        "draws": 7,
+        "losses": 9,
+        "goals_for": 40,
+        "goals_against": 29,
+        "goal_difference": 11,
+        "points": 43,
+        "form": "WLLDL",
+        "form_label": "胜负负平负"
+      },
+      {
+        "position": 7,
         "team_id": "ast_a6968e3b17ba4d74bad3a87a0ef73c46",
         "team": "维捷布斯克",
         "played": 27,
@@ -515,21 +530,6 @@
         "points": 40,
         "form": "LLWDW",
         "form_label": "负负胜平胜"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_bd770c03a6c24ce881849e16bee4131b",
-        "team": "戈梅尔",
-        "played": 27,
-        "wins": 11,
-        "draws": 7,
-        "losses": 9,
-        "goals_for": 38,
-        "goals_against": 29,
-        "goal_difference": 9,
-        "points": 40,
-        "form": "LLDLW",
-        "form_label": "负负平负胜"
       },
       {
         "position": 8,
@@ -595,16 +595,16 @@
         "position": 12,
         "team_id": "ast_cb43279d453a437eb27a35efe7810c4e",
         "team": "阿森纳季尔任斯克",
-        "played": 27,
+        "played": 28,
         "wins": 6,
         "draws": 9,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 25,
-        "goals_against": 44,
-        "goal_difference": -19,
+        "goals_against": 46,
+        "goal_difference": -21,
         "points": 27,
-        "form": "WDLLL",
-        "form_label": "胜平负负负"
+        "form": "LWDLL",
+        "form_label": "负胜平负负"
       },
       {
         "position": 13,
@@ -1135,7 +1135,7 @@
         "match_id": "as_8a5a3feb765249d48b970f9ded9d3f88",
         "date": "2026-11-06",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "白俄罗斯超级联赛",
         "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
         "season": "2026",
@@ -1147,7 +1147,10 @@
           "name": "阿森纳季尔任斯克",
           "team_id": "ast_cb43279d453a437eb27a35efe7810c4e"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a44665518c6f4d518a6ffa29ba132b56",
@@ -6132,24 +6135,6 @@
           "team_id": "ast_fb6d820410c64d66bebfbc6c3c6f8b06"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_8a5a3feb765249d48b970f9ded9d3f88",
-        "date": "2026-11-06",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "白俄罗斯超级联赛",
-        "league_id": "asl_e756d0575fef46dd9ddc5de5a5db0d3b",
-        "season": "2026",
-        "home": {
-          "name": "戈梅尔",
-          "team_id": "ast_bd770c03a6c24ce881849e16bee4131b"
-        },
-        "away": {
-          "name": "阿森纳季尔任斯克",
-          "team_id": "ast_cb43279d453a437eb27a35efe7810c4e"
-        },
-        "venue": ""
       }
     ]
   },
@@ -10309,13 +10294,13 @@
     }
   },
   "stats": {
-    "matches_completed": 216,
-    "total_goals": 560,
+    "matches_completed": 217,
+    "total_goals": 562,
     "avg_goals_per_match": 2.59,
-    "home_wins": 88,
+    "home_wins": 89,
     "draws": 53,
     "away_wins": 75,
-    "home_win_pct": 40.7,
+    "home_win_pct": 41.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -11111,7 +11096,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 24
+    "upcoming_matches": 23
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }

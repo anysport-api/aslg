@@ -246,6 +246,20 @@
       },
       {
         "position": 8,
+        "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44",
+        "team": "Din. Samarkand",
+        "played": 27,
+        "wins": 10,
+        "draws": 7,
+        "losses": 10,
+        "goals_for": 42,
+        "goals_against": 40,
+        "goal_difference": 2,
+        "points": 37,
+        "form": "WWDLL"
+      },
+      {
+        "position": 9,
         "team_id": "ast_b87e15a2d67a4e0485a87e04d995af66",
         "team": "Qizilqum",
         "played": 26,
@@ -257,20 +271,6 @@
         "goal_difference": -6,
         "points": 35,
         "form": "DDWDW"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44",
-        "team": "Din. Samarkand",
-        "played": 26,
-        "wins": 9,
-        "draws": 7,
-        "losses": 10,
-        "goals_for": 39,
-        "goals_against": 39,
-        "goal_difference": 0,
-        "points": 34,
-        "form": "WDLLL"
       },
       {
         "position": 10,
@@ -290,15 +290,15 @@
         "position": 11,
         "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c",
         "team": "Sogdiana",
-        "played": 26,
+        "played": 27,
         "wins": 8,
         "draws": 6,
-        "losses": 12,
-        "goals_for": 43,
-        "goals_against": 50,
-        "goal_difference": -7,
+        "losses": 13,
+        "goals_for": 44,
+        "goals_against": 53,
+        "goal_difference": -9,
         "points": 30,
-        "form": "DLDLL"
+        "form": "LDLDL"
       },
       {
         "position": 12,
@@ -479,6 +479,21 @@
       },
       {
         "position": 8,
+        "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44",
+        "team": "撒马尔罕迪纳摩",
+        "played": 27,
+        "wins": 10,
+        "draws": 7,
+        "losses": 10,
+        "goals_for": 42,
+        "goals_against": 40,
+        "goal_difference": 2,
+        "points": 37,
+        "form": "WWDLL",
+        "form_label": "胜胜平负负"
+      },
+      {
+        "position": 9,
         "team_id": "ast_b87e15a2d67a4e0485a87e04d995af66",
         "team": "基齐尔库姆",
         "played": 26,
@@ -491,21 +506,6 @@
         "points": 35,
         "form": "DDWDW",
         "form_label": "平平胜平胜"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44",
-        "team": "撒马尔罕迪纳摩",
-        "played": 26,
-        "wins": 9,
-        "draws": 7,
-        "losses": 10,
-        "goals_for": 39,
-        "goals_against": 39,
-        "goal_difference": 0,
-        "points": 34,
-        "form": "WDLLL",
-        "form_label": "胜平负负负"
       },
       {
         "position": 10,
@@ -526,16 +526,16 @@
         "position": 11,
         "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c",
         "team": "索格迪亚纳",
-        "played": 26,
+        "played": 27,
         "wins": 8,
         "draws": 6,
-        "losses": 12,
-        "goals_for": 43,
-        "goals_against": 50,
-        "goal_difference": -7,
+        "losses": 13,
+        "goals_for": 44,
+        "goals_against": 53,
+        "goal_difference": -9,
         "points": 30,
-        "form": "DLDLL",
-        "form_label": "平负平负负"
+        "form": "LDLDL",
+        "form_label": "负平负平负"
       },
       {
         "position": 12,
@@ -1243,7 +1243,7 @@
         "match_id": "as_e31d5cf69aa84eb8b3e0a1c7122322f7",
         "date": "2026-11-06",
         "time": "13:30",
-        "status": "13:30",
+        "status": "FT",
         "league": "乌兹别克斯坦Oliy Liga",
         "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
         "season": "2026",
@@ -1255,7 +1255,10 @@
           "name": "撒马尔罕迪纳摩",
           "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_14158e8f82ce4c1687b9d286d134a3f4",
@@ -6251,24 +6254,6 @@
           "team_id": "ast_29c221727c7a4d89bebcac38e811f554"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_e31d5cf69aa84eb8b3e0a1c7122322f7",
-        "date": "2026-11-06",
-        "time": "13:30",
-        "status": "13:30",
-        "league": "乌兹别克斯坦Oliy Liga",
-        "league_id": "asl_e08c5d7125d2469290a30cab4af5a162",
-        "season": "2026",
-        "home": {
-          "name": "索格迪亚纳",
-          "team_id": "ast_242a7082ed7a478c9f1e517ab55be14c"
-        },
-        "away": {
-          "name": "撒马尔罕迪纳摩",
-          "team_id": "ast_ef8ad7ac85934909b1e00eee9d311f44"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8152,13 +8137,13 @@
     }
   },
   "stats": {
-    "matches_completed": 208,
-    "total_goals": 548,
-    "avg_goals_per_match": 2.63,
+    "matches_completed": 209,
+    "total_goals": 552,
+    "avg_goals_per_match": 2.64,
     "home_wins": 87,
     "draws": 49,
-    "away_wins": 72,
-    "home_win_pct": 41.8,
+    "away_wins": 73,
+    "home_win_pct": 41.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8956,7 +8941,7 @@
     "teams_all_time": 22,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 33
+    "upcoming_matches": 32
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }

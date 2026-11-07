@@ -244,15 +244,15 @@
         "position": 3,
         "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
         "team": "O. Ljubljana",
-        "played": 14,
+        "played": 15,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 16,
-        "goals_against": 12,
+        "goals_for": 17,
+        "goals_against": 13,
         "goal_difference": 4,
-        "points": 22,
-        "form": "WDWDL"
+        "points": 23,
+        "form": "DWDWD"
       },
       {
         "position": 4,
@@ -286,15 +286,15 @@
         "position": 6,
         "team_id": "ast_530b373d32ce4e00a3d4173642579707",
         "team": "Nafta",
-        "played": 14,
+        "played": 15,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 6,
-        "goals_for": 18,
-        "goals_against": 20,
+        "goals_for": 19,
+        "goals_against": 21,
         "goal_difference": -2,
-        "points": 18,
-        "form": "LDDWL"
+        "points": 19,
+        "form": "DLDDW"
       },
       {
         "position": 7,
@@ -388,16 +388,16 @@
         "position": 3,
         "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
         "team": "奥林匹亚卢布尔雅那",
-        "played": 14,
+        "played": 15,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 16,
-        "goals_against": 12,
+        "goals_for": 17,
+        "goals_against": 13,
         "goal_difference": 4,
-        "points": 22,
-        "form": "WDWDL",
-        "form_label": "胜平胜平负"
+        "points": 23,
+        "form": "DWDWD",
+        "form_label": "平胜平胜平"
       },
       {
         "position": 4,
@@ -433,16 +433,16 @@
         "position": 6,
         "team_id": "ast_530b373d32ce4e00a3d4173642579707",
         "team": "纳夫塔",
-        "played": 14,
+        "played": 15,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 6,
-        "goals_for": 18,
-        "goals_against": 20,
+        "goals_for": 19,
+        "goals_against": 21,
         "goal_difference": -2,
-        "points": 18,
-        "form": "LDDWL",
-        "form_label": "负平平胜负"
+        "points": 19,
+        "form": "DLDDW",
+        "form_label": "平负平平胜"
       },
       {
         "position": 7,
@@ -2719,7 +2719,7 @@
         "match_id": "as_09995bf772f443fa8c2e10466c49d1c8",
         "date": "2026-11-06",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "斯洛文尼亚甲级联赛",
         "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
         "season": "2026/2027",
@@ -2731,7 +2731,10 @@
           "name": "奥林匹亚卢布尔雅那",
           "team_id": "ast_ad4154a760e647edac5e3537d1168d32"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d47c0a80063a46ce93356b64b0d43b55",
@@ -4573,24 +4576,6 @@
         "away": {
           "name": "马里博尔",
           "team_id": "ast_44a75787d4dd47218fa39b779fe4717d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_09995bf772f443fa8c2e10466c49d1c8",
-        "date": "2026-11-06",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "斯洛文尼亚甲级联赛",
-        "league_id": "asl_82a5b8020c1e4fa69851d468af0100c6",
-        "season": "2026/2027",
-        "home": {
-          "name": "纳夫塔",
-          "team_id": "ast_530b373d32ce4e00a3d4173642579707"
-        },
-        "away": {
-          "name": "奥林匹亚卢布尔雅那",
-          "team_id": "ast_ad4154a760e647edac5e3537d1168d32"
         },
         "venue": ""
       }
@@ -8446,13 +8431,13 @@
     }
   },
   "stats": {
-    "matches_completed": 69,
-    "total_goals": 177,
-    "avg_goals_per_match": 2.57,
+    "matches_completed": 70,
+    "total_goals": 179,
+    "avg_goals_per_match": 2.56,
     "home_wins": 23,
-    "draws": 24,
+    "draws": 25,
     "away_wins": 22,
-    "home_win_pct": 33.3,
+    "home_win_pct": 32.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8605,15 +8590,15 @@
             "position": 3,
             "team_id": "ast_ad4154a760e647edac5e3537d1168d32",
             "team": "O. Ljubljana",
-            "played": 14,
+            "played": 15,
             "wins": 6,
-            "draws": 4,
+            "draws": 5,
             "losses": 4,
-            "goals_for": 16,
-            "goals_against": 12,
+            "goals_for": 17,
+            "goals_against": 13,
             "goal_difference": 4,
-            "points": 22,
-            "form": "WDWDL"
+            "points": 23,
+            "form": "DWDWD"
           }
         ],
         "meta": {
@@ -9247,7 +9232,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 21
+    "upcoming_matches": 20
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }

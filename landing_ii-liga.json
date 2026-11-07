@@ -156,6 +156,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f",
+        "team": "Leczna",
+        "played": 15,
+        "wins": 9,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 33,
+        "goals_against": 15,
+        "goal_difference": 18,
+        "points": 29,
+        "form": "WWWLL"
+      },
+      {
+        "position": 3,
         "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2",
         "team": "Tychy",
         "played": 14,
@@ -167,20 +181,6 @@
         "goal_difference": 11,
         "points": 27,
         "form": "LDWWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f",
-        "team": "Leczna",
-        "played": 14,
-        "wins": 8,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 31,
-        "goals_against": 15,
-        "goal_difference": 16,
-        "points": 26,
-        "form": "WWLLW"
       },
       {
         "position": 4,
@@ -382,15 +382,15 @@
         "position": 18,
         "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb",
         "team": "R. Rzeszow",
-        "played": 14,
+        "played": 15,
         "wins": 0,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 9,
-        "goals_against": 23,
-        "goal_difference": -14,
+        "goals_against": 25,
+        "goal_difference": -16,
         "points": 6,
-        "form": "LDDLD"
+        "form": "LLDDL"
       }
     ],
     "zh": [
@@ -411,6 +411,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f",
+        "team": "莱赫兹纳",
+        "played": 15,
+        "wins": 9,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 33,
+        "goals_against": 15,
+        "goal_difference": 18,
+        "points": 29,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
+      },
+      {
+        "position": 3,
         "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2",
         "team": "蒂希",
         "played": 14,
@@ -423,21 +438,6 @@
         "points": 27,
         "form": "LDWWW",
         "form_label": "负平胜胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f",
-        "team": "莱赫兹纳",
-        "played": 14,
-        "wins": 8,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 31,
-        "goals_against": 15,
-        "goal_difference": 16,
-        "points": 26,
-        "form": "WWLLW",
-        "form_label": "胜胜负负胜"
       },
       {
         "position": 4,
@@ -653,16 +653,16 @@
         "position": 18,
         "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb",
         "team": "R. 热什佐夫",
-        "played": 14,
+        "played": 15,
         "wins": 0,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 9,
-        "goals_against": 23,
-        "goal_difference": -14,
+        "goals_against": 25,
+        "goal_difference": -16,
         "points": 6,
-        "form": "LDDLD",
-        "form_label": "负平平负平"
+        "form": "LLDDL",
+        "form_label": "负负平平负"
       }
     ]
   },
@@ -3584,6 +3584,66 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_fbb8f4472c774b7f84373066a054965d",
+        "date": "2026-11-29",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "波兰乙级联赛",
+        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
+        "season": "2026/2027",
+        "home": {
+          "name": "胡特尼克克拉科夫",
+          "team_id": "ast_d6bbf072968d4c348c9485283f8e9cb9"
+        },
+        "away": {
+          "name": "桑德恰诺维新",
+          "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cabface8db5c47abbeb476e6675ba72e",
+        "date": "2026-11-29",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "波兰乙级联赛",
+        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
+        "season": "2026/2027",
+        "home": {
+          "name": "克莱切夫",
+          "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee"
+        },
+        "away": {
+          "name": "扎维沙",
+          "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_833a006ded4542e8ad656aaa33f6be97",
+        "date": "2026-11-29",
+        "time": "14:30",
+        "status": "Not Started",
+        "league": "波兰乙级联赛",
+        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
+        "season": "2026/2027",
+        "home": {
+          "name": "R. 热什佐夫",
+          "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
+        },
+        "away": {
+          "name": "普鲁什科夫",
+          "team_id": "ast_d903c3b71e49483297569c58ce1d4b07"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_d3bb17ed3734471491cfcf06c9ad9ae3",
         "date": "2026-11-28",
         "time": "16:00",
@@ -3604,49 +3664,9 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_fbb8f4472c774b7f84373066a054965d",
-        "date": "2026-11-28",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "胡特尼克克拉科夫",
-          "team_id": "ast_d6bbf072968d4c348c9485283f8e9cb9"
-        },
-        "away": {
-          "name": "桑德恰诺维新",
-          "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
-        },
-        "ht_score": "-",
-        "venue": "苏赫斯塔维体育场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_cabface8db5c47abbeb476e6675ba72e",
-        "date": "2026-11-28",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "克莱切夫",
-          "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee"
-        },
-        "away": {
-          "name": "扎维沙",
-          "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_a3510b72362341c1af310fc6a245d646",
         "date": "2026-11-28",
-        "time": "16:00",
+        "time": "11:00",
         "status": "Not Started",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
@@ -3684,26 +3704,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_833a006ded4542e8ad656aaa33f6be97",
-        "date": "2026-11-28",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "R. 热什佐夫",
-          "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
-        },
-        "away": {
-          "name": "普鲁什科夫",
-          "team_id": "ast_d903c3b71e49483297569c58ce1d4b07"
-        },
-        "ht_score": "-",
-        "venue": "Stadion Miejski w Rzeszowie",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_d8e93261b5144699a1a516cb9a747bdd",
         "date": "2026-11-28",
         "time": "11:30",
@@ -3724,26 +3724,6 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_e2ffa87b354b47b79764da7952783e8e",
-        "date": "2026-11-28",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "蒂希",
-          "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2"
-        },
-        "away": {
-          "name": "霍伊尼茨卡",
-          "team_id": "ast_94fc953b100b4c559fb2f0691a5db666"
-        },
-        "ht_score": "-",
-        "venue": "Tychy City Stadium",
-        "status_label": "未开赛"
-      },
-      {
         "match_id": "as_2d4922d1ed7a4e66a8adf4c66bf84dea",
         "date": "2026-11-27",
         "time": "16:30",
@@ -3758,6 +3738,26 @@
         "away": {
           "name": "莱吉亚二队",
           "team_id": "ast_6068e14e2e9b40daa991d60ec339992f"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e2ffa87b354b47b79764da7952783e8e",
+        "date": "2026-11-27",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "波兰乙级联赛",
+        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
+        "season": "2026/2027",
+        "home": {
+          "name": "蒂希",
+          "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2"
+        },
+        "away": {
+          "name": "霍伊尼茨卡",
+          "team_id": "ast_94fc953b100b4c559fb2f0691a5db666"
         },
         "ht_score": "-",
         "venue": "",
@@ -4251,7 +4251,7 @@
         "match_id": "as_dfc05ba7ddd34bb0af9eef33d183d3e1",
         "date": "2026-11-06",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -4263,7 +4263,10 @@
           "name": "莱赫兹纳",
           "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_eac184ff86e74681866d43e039f206ba",
@@ -7114,23 +7117,63 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_e2ffa87b354b47b79764da7952783e8e",
-        "date": "2026-11-28",
-        "time": "16:00",
+        "match_id": "as_833a006ded4542e8ad656aaa33f6be97",
+        "date": "2026-11-29",
+        "time": "14:30",
         "status": "Not Started",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
         "home": {
-          "name": "蒂希",
-          "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2"
+          "name": "R. 热什佐夫",
+          "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
         },
         "away": {
-          "name": "霍伊尼茨卡",
-          "team_id": "ast_94fc953b100b4c559fb2f0691a5db666"
+          "name": "普鲁什科夫",
+          "team_id": "ast_d903c3b71e49483297569c58ce1d4b07"
         },
         "ht_score": "-",
-        "venue": "Tychy City Stadium",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cabface8db5c47abbeb476e6675ba72e",
+        "date": "2026-11-29",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "波兰乙级联赛",
+        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
+        "season": "2026/2027",
+        "home": {
+          "name": "克莱切夫",
+          "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee"
+        },
+        "away": {
+          "name": "扎维沙",
+          "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_fbb8f4472c774b7f84373066a054965d",
+        "date": "2026-11-29",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "波兰乙级联赛",
+        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
+        "season": "2026/2027",
+        "home": {
+          "name": "胡特尼克克拉科夫",
+          "team_id": "ast_d6bbf072968d4c348c9485283f8e9cb9"
+        },
+        "away": {
+          "name": "桑德恰诺维新",
+          "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
+        },
+        "ht_score": "-",
+        "venue": "",
         "status_label": "未开赛"
       },
       {
@@ -7151,26 +7194,6 @@
         },
         "ht_score": "-",
         "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_833a006ded4542e8ad656aaa33f6be97",
-        "date": "2026-11-28",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "R. 热什佐夫",
-          "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
-        },
-        "away": {
-          "name": "普鲁什科夫",
-          "team_id": "ast_d903c3b71e49483297569c58ce1d4b07"
-        },
-        "ht_score": "-",
-        "venue": "Stadion Miejski w Rzeszowie",
         "status_label": "未开赛"
       },
       {
@@ -7196,7 +7219,7 @@
       {
         "match_id": "as_a3510b72362341c1af310fc6a245d646",
         "date": "2026-11-28",
-        "time": "16:00",
+        "time": "11:00",
         "status": "Not Started",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
@@ -7211,46 +7234,6 @@
         },
         "ht_score": "-",
         "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_cabface8db5c47abbeb476e6675ba72e",
-        "date": "2026-11-28",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "克莱切夫",
-          "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee"
-        },
-        "away": {
-          "name": "扎维沙",
-          "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_fbb8f4472c774b7f84373066a054965d",
-        "date": "2026-11-28",
-        "time": "16:00",
-        "status": "Not Started",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "胡特尼克克拉科夫",
-          "team_id": "ast_d6bbf072968d4c348c9485283f8e9cb9"
-        },
-        "away": {
-          "name": "桑德恰诺维新",
-          "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
-        },
-        "ht_score": "-",
-        "venue": "苏赫斯塔维体育场",
         "status_label": "未开赛"
       },
       {
@@ -7271,6 +7254,26 @@
         },
         "ht_score": "-",
         "venue": "BTS雷科尔德体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_e2ffa87b354b47b79764da7952783e8e",
+        "date": "2026-11-27",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "波兰乙级联赛",
+        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
+        "season": "2026/2027",
+        "home": {
+          "name": "蒂希",
+          "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2"
+        },
+        "away": {
+          "name": "霍伊尼茨卡",
+          "team_id": "ast_94fc953b100b4c559fb2f0691a5db666"
+        },
+        "ht_score": "-",
+        "venue": "",
         "status_label": "未开赛"
       },
       {
@@ -7774,24 +7777,6 @@
         "away": {
           "name": "桑德恰诺维新",
           "team_id": "ast_939c2a41b3f74b35b8bd8c1f72d942dd"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_dfc05ba7ddd34bb0af9eef33d183d3e1",
-        "date": "2026-11-06",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "R. 热什佐夫",
-          "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
-        },
-        "away": {
-          "name": "莱赫兹纳",
-          "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f"
         },
         "venue": ""
       }
@@ -10826,13 +10811,13 @@
     }
   },
   "stats": {
-    "matches_completed": 126,
-    "total_goals": 387,
-    "avg_goals_per_match": 3.07,
+    "matches_completed": 127,
+    "total_goals": 389,
+    "avg_goals_per_match": 3.06,
     "home_wins": 53,
     "draws": 31,
-    "away_wins": 42,
-    "home_win_pct": 42.1,
+    "away_wins": 43,
+    "home_win_pct": 41.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10969,6 +10954,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f",
+            "team": "Leczna",
+            "played": 15,
+            "wins": 9,
+            "draws": 2,
+            "losses": 4,
+            "goals_for": 33,
+            "goals_against": 15,
+            "goal_difference": 18,
+            "points": 29,
+            "form": "WWWLL"
+          },
+          {
+            "position": 3,
             "team_id": "ast_c6397805e7dd4d3490b3854edc1ec9c2",
             "team": "Tychy",
             "played": 14,
@@ -10980,20 +10979,6 @@
             "goal_difference": 11,
             "points": 27,
             "form": "LDWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_4d116fa5e8f84a4d9fa1ac90781a9e9f",
-            "team": "Leczna",
-            "played": 14,
-            "wins": 8,
-            "draws": 2,
-            "losses": 4,
-            "goals_for": 31,
-            "goals_against": 15,
-            "goal_difference": 16,
-            "points": 26,
-            "form": "WWLLW"
           }
         ],
         "meta": {
@@ -11627,7 +11612,7 @@
     "teams_all_time": 72,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 45
+    "upcoming_matches": 44
   },
-  "updated_at": "2026/11/06"
+  "updated_at": "2026/11/07"
 }
