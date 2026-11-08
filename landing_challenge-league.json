@@ -206,15 +206,15 @@
         "position": 2,
         "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
         "team": "Winterthur",
-        "played": 12,
+        "played": 13,
         "wins": 7,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
-        "goals_for": 26,
-        "goals_against": 11,
+        "goals_for": 28,
+        "goals_against": 13,
         "goal_difference": 15,
-        "points": 24,
-        "form": "WWLWW"
+        "points": 25,
+        "form": "DWWLW"
       },
       {
         "position": 3,
@@ -274,6 +274,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_0f35821bd22940cc93bd9ffd9fec449e",
+        "team": "Etoile-Carouge",
+        "played": 13,
+        "wins": 3,
+        "draws": 5,
+        "losses": 5,
+        "goals_for": 14,
+        "goals_against": 19,
+        "goal_difference": -5,
+        "points": 14,
+        "form": "DDWLL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833",
         "team": "Wil",
         "played": 13,
@@ -285,20 +299,6 @@
         "goal_difference": -6,
         "points": 14,
         "form": "WLDDW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_0f35821bd22940cc93bd9ffd9fec449e",
-        "team": "Etoile-Carouge",
-        "played": 12,
-        "wins": 3,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 12,
-        "goals_against": 17,
-        "goal_difference": -5,
-        "points": 13,
-        "form": "DWLLL"
       },
       {
         "position": 9,
@@ -349,16 +349,16 @@
         "position": 2,
         "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
         "team": "温特图尔",
-        "played": 12,
+        "played": 13,
         "wins": 7,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
-        "goals_for": 26,
-        "goals_against": 11,
+        "goals_for": 28,
+        "goals_against": 13,
         "goal_difference": 15,
-        "points": 24,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "points": 25,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 3,
@@ -422,6 +422,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_0f35821bd22940cc93bd9ffd9fec449e",
+        "team": "卡鲁日星星",
+        "played": 13,
+        "wins": 3,
+        "draws": 5,
+        "losses": 5,
+        "goals_for": 14,
+        "goals_against": 19,
+        "goal_difference": -5,
+        "points": 14,
+        "form": "DDWLL",
+        "form_label": "平平胜负负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_16089911d3ba41a7a66eb93a0c9da833",
         "team": "维尔",
         "played": 13,
@@ -434,21 +449,6 @@
         "points": 14,
         "form": "WLDDW",
         "form_label": "胜负平平胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_0f35821bd22940cc93bd9ffd9fec449e",
-        "team": "卡鲁日星星",
-        "played": 12,
-        "wins": 3,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 12,
-        "goals_against": 17,
-        "goal_difference": -5,
-        "points": 13,
-        "form": "DWLLL",
-        "form_label": "平胜负负负"
       },
       {
         "position": 9,
@@ -1021,7 +1021,7 @@
         "match_id": "as_d3b193dceb3a412a9b03eebd72f5c060",
         "date": "2026-11-07",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "瑞士挑战联赛",
         "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
         "season": "2026/2027",
@@ -1033,7 +1033,10 @@
           "name": "卡鲁日星星",
           "team_id": "ast_0f35821bd22940cc93bd9ffd9fec449e"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d7abbb83a6db4a2db4605175ba6653d0",
@@ -1074,7 +1077,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "小田野体育场",
         "status_label": "完场"
       },
       {
@@ -1095,7 +1098,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "1-5",
-        "venue": "",
+        "venue": "Colovray Sports Centre",
         "status_label": "完场"
       },
       {
@@ -2875,24 +2878,6 @@
         "away": {
           "name": "夏马克",
           "team_id": "ast_fca8ce4dd0dc46c3b0618e71e296b2b9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d3b193dceb3a412a9b03eebd72f5c060",
-        "date": "2026-11-07",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "瑞士挑战联赛",
-        "league_id": "asl_70003de48bdc4801b518927b6f4aeed9",
-        "season": "2026/2027",
-        "home": {
-          "name": "温特图尔",
-          "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d"
-        },
-        "away": {
-          "name": "卡鲁日星星",
-          "team_id": "ast_0f35821bd22940cc93bd9ffd9fec449e"
         },
         "venue": ""
       }
@@ -6253,13 +6238,13 @@
     }
   },
   "stats": {
-    "matches_completed": 63,
-    "total_goals": 198,
-    "avg_goals_per_match": 3.14,
+    "matches_completed": 64,
+    "total_goals": 202,
+    "avg_goals_per_match": 3.16,
     "home_wins": 26,
-    "draws": 16,
+    "draws": 17,
     "away_wins": 21,
-    "home_win_pct": 41.3,
+    "home_win_pct": 40.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6398,15 +6383,15 @@
             "position": 2,
             "team_id": "ast_bb605e0721ea42a8aa31201a7d37222d",
             "team": "Winterthur",
-            "played": 12,
+            "played": 13,
             "wins": 7,
-            "draws": 3,
+            "draws": 4,
             "losses": 2,
-            "goals_for": 26,
-            "goals_against": 11,
+            "goals_for": 28,
+            "goals_against": 13,
             "goal_difference": 15,
-            "points": 24,
-            "form": "WWLWW"
+            "points": 25,
+            "form": "DWWLW"
           },
           {
             "position": 3,
@@ -7057,7 +7042,7 @@
     "teams_all_time": 30,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 27
+    "upcoming_matches": 26
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

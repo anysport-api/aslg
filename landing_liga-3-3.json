@@ -140,15 +140,15 @@
         "position": 8,
         "team_id": "ast_f7cf1fc252ce496487cb994deedac774",
         "team": "Loco. Tbilisi",
-        "played": 26,
-        "wins": 10,
+        "played": 27,
+        "wins": 11,
         "draws": 7,
         "losses": 9,
-        "goals_for": 37,
-        "goals_against": 31,
-        "goal_difference": 6,
-        "points": 37,
-        "form": "WWLWW"
+        "goals_for": 39,
+        "goals_against": 32,
+        "goal_difference": 7,
+        "points": 40,
+        "form": "WWWLW"
       },
       {
         "position": 9,
@@ -182,15 +182,15 @@
         "position": 11,
         "team_id": "ast_7a421e811c674b2487aace0bb29f1409",
         "team": "Margveti 2006",
-        "played": 26,
+        "played": 27,
         "wins": 10,
         "draws": 4,
-        "losses": 12,
-        "goals_for": 34,
-        "goals_against": 43,
-        "goal_difference": -9,
+        "losses": 13,
+        "goals_for": 35,
+        "goals_against": 45,
+        "goal_difference": -10,
         "points": 34,
-        "form": "LWDLW"
+        "form": "LLWDL"
       },
       {
         "position": 12,
@@ -373,16 +373,16 @@
         "position": 8,
         "team_id": "ast_f7cf1fc252ce496487cb994deedac774",
         "team": "第比利斯火车头",
-        "played": 26,
-        "wins": 10,
+        "played": 27,
+        "wins": 11,
         "draws": 7,
         "losses": 9,
-        "goals_for": 37,
-        "goals_against": 31,
-        "goal_difference": 6,
-        "points": 37,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
+        "goals_for": 39,
+        "goals_against": 32,
+        "goal_difference": 7,
+        "points": 40,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
       },
       {
         "position": 9,
@@ -418,16 +418,16 @@
         "position": 11,
         "team_id": "ast_7a421e811c674b2487aace0bb29f1409",
         "team": "马尔格维提2006",
-        "played": 26,
+        "played": 27,
         "wins": 10,
         "draws": 4,
-        "losses": 12,
-        "goals_for": 34,
-        "goals_against": 43,
-        "goal_difference": -9,
+        "losses": 13,
+        "goals_for": 35,
+        "goals_against": 45,
+        "goal_difference": -10,
         "points": 34,
-        "form": "LWDLW",
-        "form_label": "负胜平负胜"
+        "form": "LLWDL",
+        "form_label": "负负胜平负"
       },
       {
         "position": 12,
@@ -1007,7 +1007,7 @@
         "match_id": "as_491df18501674ae1820f62bf0439c2b6",
         "date": "2026-11-07",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "格鲁吉亚甲级联赛",
         "league_id": "asl_e7ca9840100049e08ca0d9adedbfa8f5",
         "season": "2026",
@@ -1019,7 +1019,10 @@
           "name": "第比利斯火车头",
           "team_id": "ast_f7cf1fc252ce496487cb994deedac774"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_58b096e79f1b4b3e97ef520fccdbd093",
@@ -1102,7 +1105,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "4-3",
-        "venue": "",
+        "venue": "Paata Tatarishvili Stadioni",
         "status_label": "完场"
       },
       {
@@ -1144,7 +1147,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Grigol Jomartidze Stadium",
         "status_label": "完场"
       },
       {
@@ -6017,24 +6020,6 @@
         "ht_score": "-",
         "venue": "Vitali Daraselia Academy",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_491df18501674ae1820f62bf0439c2b6",
-        "date": "2026-11-07",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "格鲁吉亚甲级联赛",
-        "league_id": "asl_e7ca9840100049e08ca0d9adedbfa8f5",
-        "season": "2026",
-        "home": {
-          "name": "马尔格维提2006",
-          "team_id": "ast_7a421e811c674b2487aace0bb29f1409"
-        },
-        "away": {
-          "name": "第比利斯火车头",
-          "team_id": "ast_f7cf1fc252ce496487cb994deedac774"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6612,13 +6597,13 @@
     }
   },
   "stats": {
-    "matches_completed": 215,
-    "total_goals": 662,
+    "matches_completed": 216,
+    "total_goals": 665,
     "avg_goals_per_match": 3.08,
     "home_wins": 92,
     "draws": 51,
-    "away_wins": 72,
-    "home_win_pct": 42.8,
+    "away_wins": 73,
+    "home_win_pct": 42.6,
     "biggest_win": {
       "margin": 9,
       "match": {
@@ -7379,7 +7364,7 @@
     "teams_all_time": 23,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

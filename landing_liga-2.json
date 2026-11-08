@@ -304,18 +304,32 @@
         "position": 9,
         "team_id": "ast_c7c7fee154d84aa8811461f4da80be8b",
         "team": "FK Ceska Lipa",
-        "played": 13,
+        "played": 14,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "losses": 5,
-        "goals_for": 19,
-        "goals_against": 23,
+        "goals_for": 20,
+        "goals_against": 24,
         "goal_difference": -4,
-        "points": 16,
-        "form": "WDWLL"
+        "points": 17,
+        "form": "DWDWL"
       },
       {
         "position": 10,
+        "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873",
+        "team": "Taborsko",
+        "played": 14,
+        "wins": 3,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 17,
+        "goals_against": 20,
+        "goal_difference": -3,
+        "points": 16,
+        "form": "DLDDL"
+      },
+      {
+        "position": 11,
         "team_id": "ast_c004d6c6675449bdb9be642fa91d32ac",
         "team": "Ostrava B",
         "played": 13,
@@ -327,20 +341,6 @@
         "goal_difference": 1,
         "points": 15,
         "form": "LDWLL"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873",
-        "team": "Taborsko",
-        "played": 13,
-        "wins": 3,
-        "draws": 6,
-        "losses": 4,
-        "goals_for": 16,
-        "goals_against": 19,
-        "goal_difference": -3,
-        "points": 15,
-        "form": "LDDLL"
       },
       {
         "position": 12,
@@ -538,19 +538,34 @@
         "position": 9,
         "team_id": "ast_c7c7fee154d84aa8811461f4da80be8b",
         "team": "捷克利帕足球俱乐部",
-        "played": 13,
+        "played": 14,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "losses": 5,
-        "goals_for": 19,
-        "goals_against": 23,
+        "goals_for": 20,
+        "goals_against": 24,
         "goal_difference": -4,
-        "points": 16,
-        "form": "WDWLL",
-        "form_label": "胜平胜负负"
+        "points": 17,
+        "form": "DWDWL",
+        "form_label": "平胜平胜负"
       },
       {
         "position": 10,
+        "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873",
+        "team": "塔博尔斯科",
+        "played": 14,
+        "wins": 3,
+        "draws": 7,
+        "losses": 4,
+        "goals_for": 17,
+        "goals_against": 20,
+        "goal_difference": -3,
+        "points": 16,
+        "form": "DLDDL",
+        "form_label": "平负平平负"
+      },
+      {
+        "position": 11,
         "team_id": "ast_c004d6c6675449bdb9be642fa91d32ac",
         "team": "奥斯特拉瓦B队",
         "played": 13,
@@ -563,21 +578,6 @@
         "points": 15,
         "form": "LDWLL",
         "form_label": "负平胜负负"
-      },
-      {
-        "position": 11,
-        "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873",
-        "team": "塔博尔斯科",
-        "played": 13,
-        "wins": 3,
-        "draws": 6,
-        "losses": 4,
-        "goals_for": 16,
-        "goals_against": 19,
-        "goal_difference": -3,
-        "points": 15,
-        "form": "LDDLL",
-        "form_label": "负平平负负"
       },
       {
         "position": 12,
@@ -3273,7 +3273,7 @@
         "match_id": "as_5b7f5b80bc6f489882ff80e63c89b394",
         "date": "2026-11-07",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -3285,13 +3285,16 @@
           "name": "塔博尔斯科",
           "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
         "date": "2026-11-07",
         "time": "16:00",
-        "status": "16:00",
+        "status": "Postp.",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -3303,7 +3306,8 @@
           "name": "特里涅茨",
           "team_id": "ast_dbeeaef6052842828e7862e084bda317"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_3bfe962186e0414fb719c6fb18c60785",
@@ -6075,42 +6079,6 @@
         "away": {
           "name": "普罗斯捷约夫",
           "team_id": "ast_90a814d5e6e9410b81c8b4275d03201c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
-        "date": "2026-11-07",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "克罗梅日",
-          "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
-        },
-        "away": {
-          "name": "特里涅茨",
-          "team_id": "ast_dbeeaef6052842828e7862e084bda317"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5b7f5b80bc6f489882ff80e63c89b394",
-        "date": "2026-11-07",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "捷克利帕足球俱乐部",
-          "team_id": "ast_c7c7fee154d84aa8811461f4da80be8b"
-        },
-        "away": {
-          "name": "塔博尔斯科",
-          "team_id": "ast_f3555440425c4f1a9a63d4e1e66e8873"
         },
         "venue": ""
       }
@@ -10715,13 +10683,13 @@
     }
   },
   "stats": {
-    "matches_completed": 108,
-    "total_goals": 326,
-    "avg_goals_per_match": 3.02,
+    "matches_completed": 109,
+    "total_goals": 328,
+    "avg_goals_per_match": 3.01,
     "home_wins": 42,
-    "draws": 34,
+    "draws": 35,
     "away_wins": 32,
-    "home_win_pct": 38.9,
+    "home_win_pct": 38.5,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11526,7 +11494,7 @@
     "teams_all_time": 44,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 20
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

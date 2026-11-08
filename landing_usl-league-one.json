@@ -580,7 +580,7 @@
         "match_id": "as_e8db3d5c884c49d39676b8b18bcb2ed0",
         "date": "2026-11-09",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -592,15 +592,13 @@
           "name": "前进者麦迪逊",
           "team_id": "ast_6774604e4b73463dbebed99d677d8059"
         },
-        "ht_score": "-",
-        "venue": "美国退伍军人纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4b3ca66c2dab4524a6123a6ca3c52fe6",
         "date": "2026-11-08",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "AET",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -612,9 +610,11 @@
           "name": "查塔努加红狼",
           "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0"
         },
-        "ht_score": "-",
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "et_score": "1-0",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "加时赛后结束"
       },
       {
         "match_id": "as_819f1d27bdc1444992538b407e90a7a4",
@@ -6420,7 +6420,7 @@
         "match_id": "as_e8db3d5c884c49d39676b8b18bcb2ed0",
         "date": "2026-11-09",
         "time": "00:00",
-        "status": "Not Started",
+        "status": "00:00",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6432,15 +6432,13 @@
           "name": "前进者麦迪逊",
           "team_id": "ast_6774604e4b73463dbebed99d677d8059"
         },
-        "ht_score": "-",
-        "venue": "美国退伍军人纪念体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4b3ca66c2dab4524a6123a6ca3c52fe6",
         "date": "2026-11-08",
         "time": "02:00",
-        "status": "Not Started",
+        "status": "AET",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6452,9 +6450,11 @@
           "name": "查塔努加红狼",
           "team_id": "ast_fc8f98df514347b0b3c0f5b379876ab0"
         },
-        "ht_score": "-",
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "et_score": "1-0",
         "venue": "",
-        "status_label": "未开赛"
+        "status_label": "加时赛后结束"
       }
     ]
   },
@@ -7402,13 +7402,13 @@
     }
   },
   "stats": {
-    "matches_completed": 276,
+    "matches_completed": 277,
     "total_goals": 827,
-    "avg_goals_per_match": 3.0,
+    "avg_goals_per_match": 2.99,
     "home_wins": 140,
-    "draws": 61,
+    "draws": 62,
     "away_wins": 75,
-    "home_win_pct": 50.7,
+    "home_win_pct": 50.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8207,5 +8207,5 @@
     "matches_current_season": 278,
     "upcoming_matches": 2
   },
-  "updated_at": "2026/11/04"
+  "updated_at": "2026/11/08"
 }

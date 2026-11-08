@@ -614,7 +614,7 @@
         "match_id": "as_d991ac010abd4e8a87b9341d16a8d399",
         "date": "2026-11-07",
         "time": "17:00",
-        "status": "17:00",
+        "status": "AET",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -626,7 +626,11 @@
           "name": "天使城女足",
           "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "et_score": "1-0",
+        "venue": "",
+        "status_label": "加时赛后结束"
       },
       {
         "match_id": "as_cad95b416f394ec4be79582c9e3c8e61",
@@ -5705,45 +5709,6 @@
           "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_d991ac010abd4e8a87b9341d16a8d399",
-        "date": "2026-11-07",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "堪萨斯城当前女足",
-          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
-        },
-        "away": {
-          "name": "天使城女足",
-          "team_id": "ast_32ee789d02ed4a1ea21753c76f63fda8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8d5e7ba4181b453d88ac373e56e76759",
-        "date": "2026-11-07",
-        "time": "03:00",
-        "status": "FT",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "圣地亚哥波浪女足",
-          "team_id": "ast_ed7c28e1f9204e618ac9ea8eda9f08d0"
-        },
-        "away": {
-          "name": "犹他皇家女足",
-          "team_id": "ast_573fa1501b2e4eb29b903455eeb6ad06"
-        },
-        "ht_score": "0-1",
-        "reg_score": "0-1",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -6892,13 +6857,13 @@
     }
   },
   "stats": {
-    "matches_completed": 241,
+    "matches_completed": 242,
     "total_goals": 675,
-    "avg_goals_per_match": 2.8,
+    "avg_goals_per_match": 2.79,
     "home_wins": 111,
-    "draws": 41,
+    "draws": 42,
     "away_wins": 89,
-    "home_win_pct": 46.1,
+    "home_win_pct": 45.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7714,7 +7679,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 244,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

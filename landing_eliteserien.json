@@ -188,6 +188,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_4d4919984528467d993f5779cba1770e",
+        "team": "Rosenborg",
+        "played": 26,
+        "wins": 14,
+        "draws": 4,
+        "losses": 8,
+        "goals_for": 53,
+        "goals_against": 32,
+        "goal_difference": 21,
+        "points": 46,
+        "form": "WWWWD"
+      },
+      {
+        "position": 4,
         "team_id": "ast_822e9321d74d455480d0678ae71284d0",
         "team": "Molde",
         "played": 25,
@@ -199,20 +213,6 @@
         "goal_difference": 20,
         "points": 43,
         "form": "LWWDL"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_4d4919984528467d993f5779cba1770e",
-        "team": "Rosenborg",
-        "played": 25,
-        "wins": 13,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 49,
-        "goals_against": 31,
-        "goal_difference": 18,
-        "points": 43,
-        "form": "WWWDW"
       },
       {
         "position": 5,
@@ -372,15 +372,15 @@
         "position": 16,
         "team_id": "ast_c59e31a0807b4da0a0dea19d2e60537a",
         "team": "Start",
-        "played": 25,
+        "played": 26,
         "wins": 5,
         "draws": 4,
-        "losses": 16,
-        "goals_for": 26,
-        "goals_against": 55,
-        "goal_difference": -29,
+        "losses": 17,
+        "goals_for": 27,
+        "goals_against": 59,
+        "goal_difference": -32,
         "points": 19,
-        "form": "LWLLL"
+        "form": "LLWLL"
       }
     ],
     "zh": [
@@ -416,6 +416,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_4d4919984528467d993f5779cba1770e",
+        "team": "罗森博格",
+        "played": 26,
+        "wins": 14,
+        "draws": 4,
+        "losses": 8,
+        "goals_for": 53,
+        "goals_against": 32,
+        "goal_difference": 21,
+        "points": 46,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
+      },
+      {
+        "position": 4,
         "team_id": "ast_822e9321d74d455480d0678ae71284d0",
         "team": "莫尔德",
         "played": 25,
@@ -428,21 +443,6 @@
         "points": 43,
         "form": "LWWDL",
         "form_label": "负胜胜平负"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_4d4919984528467d993f5779cba1770e",
-        "team": "罗森博格",
-        "played": 25,
-        "wins": 13,
-        "draws": 4,
-        "losses": 8,
-        "goals_for": 49,
-        "goals_against": 31,
-        "goal_difference": 18,
-        "points": 43,
-        "form": "WWWDW",
-        "form_label": "胜胜胜平胜"
       },
       {
         "position": 5,
@@ -613,16 +613,16 @@
         "position": 16,
         "team_id": "ast_c59e31a0807b4da0a0dea19d2e60537a",
         "team": "斯塔特",
-        "played": 25,
+        "played": 26,
         "wins": 5,
         "draws": 4,
-        "losses": 16,
-        "goals_for": 26,
-        "goals_against": 55,
-        "goal_difference": -29,
+        "losses": 17,
+        "goals_for": 27,
+        "goals_against": 59,
+        "goal_difference": -32,
         "points": 19,
-        "form": "LWLLL",
-        "form_label": "负胜负负负"
+        "form": "LLWLL",
+        "form_label": "负负胜负负"
       }
     ]
   },
@@ -3674,6 +3674,24 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_f9a09c607a37427fab6dfb4b59814808",
+        "date": "2026-11-09",
+        "time": "18:00",
+        "status": "18:00",
+        "league": "挪威超级联赛",
+        "league_id": "asl_f8ab555940a444639795e64518520ed4",
+        "season": "2026",
+        "home": {
+          "name": "克里斯蒂安松",
+          "team_id": "ast_f4a3fb1be04e4c32bcf7322b56d496f6"
+        },
+        "away": {
+          "name": "瓦勒伦加",
+          "team_id": "ast_dcd913dd608e4eceb7865e24df096256"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_88016ef8d8114f8d96d5ac2a4d89f788",
         "date": "2026-11-08",
         "time": "18:15",
@@ -3782,28 +3800,10 @@
         "venue": ""
       },
       {
-        "match_id": "as_f9a09c607a37427fab6dfb4b59814808",
-        "date": "2026-11-07",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "挪威超级联赛",
-        "league_id": "asl_f8ab555940a444639795e64518520ed4",
-        "season": "2026",
-        "home": {
-          "name": "克里斯蒂安松",
-          "team_id": "ast_f4a3fb1be04e4c32bcf7322b56d496f6"
-        },
-        "away": {
-          "name": "瓦勒伦加",
-          "team_id": "ast_dcd913dd608e4eceb7865e24df096256"
-        },
-        "venue": ""
-      },
-      {
         "match_id": "as_3f639ef5d7ae45c080b2fe1cef2cc433",
         "date": "2026-11-07",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "挪威超级联赛",
         "league_id": "asl_f8ab555940a444639795e64518520ed4",
         "season": "2026",
@@ -3815,7 +3815,10 @@
           "name": "斯塔特",
           "team_id": "ast_c59e31a0807b4da0a0dea19d2e60537a"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "4-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fcbdef88a0ea4b84a2a3a6d8f8bdd775",
@@ -8660,6 +8663,24 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_f9a09c607a37427fab6dfb4b59814808",
+        "date": "2026-11-09",
+        "time": "18:00",
+        "status": "18:00",
+        "league": "挪威超级联赛",
+        "league_id": "asl_f8ab555940a444639795e64518520ed4",
+        "season": "2026",
+        "home": {
+          "name": "克里斯蒂安松",
+          "team_id": "ast_f4a3fb1be04e4c32bcf7322b56d496f6"
+        },
+        "away": {
+          "name": "瓦勒伦加",
+          "team_id": "ast_dcd913dd608e4eceb7865e24df096256"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_9d63631247e649408ab2e19322c76993",
         "date": "2026-11-08",
         "time": "16:00",
@@ -8764,42 +8785,6 @@
         "away": {
           "name": "布兰恩",
           "team_id": "ast_635bbde8bca94c8aade251530eb71983"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3f639ef5d7ae45c080b2fe1cef2cc433",
-        "date": "2026-11-07",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "挪威超级联赛",
-        "league_id": "asl_f8ab555940a444639795e64518520ed4",
-        "season": "2026",
-        "home": {
-          "name": "罗森博格",
-          "team_id": "ast_4d4919984528467d993f5779cba1770e"
-        },
-        "away": {
-          "name": "斯塔特",
-          "team_id": "ast_c59e31a0807b4da0a0dea19d2e60537a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f9a09c607a37427fab6dfb4b59814808",
-        "date": "2026-11-07",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "挪威超级联赛",
-        "league_id": "asl_f8ab555940a444639795e64518520ed4",
-        "season": "2026",
-        "home": {
-          "name": "克里斯蒂安松",
-          "team_id": "ast_f4a3fb1be04e4c32bcf7322b56d496f6"
-        },
-        "away": {
-          "name": "瓦勒伦加",
-          "team_id": "ast_dcd913dd608e4eceb7865e24df096256"
         },
         "venue": ""
       }
@@ -10375,13 +10360,13 @@
     }
   },
   "stats": {
-    "matches_completed": 200,
-    "total_goals": 652,
-    "avg_goals_per_match": 3.26,
-    "home_wins": 99,
+    "matches_completed": 201,
+    "total_goals": 657,
+    "avg_goals_per_match": 3.27,
+    "home_wins": 100,
     "draws": 39,
     "away_wins": 62,
-    "home_win_pct": 49.5,
+    "home_win_pct": 49.8,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -10539,17 +10524,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_822e9321d74d455480d0678ae71284d0",
-            "team": "Molde",
-            "played": 25,
-            "wins": 13,
+            "team_id": "ast_4d4919984528467d993f5779cba1770e",
+            "team": "Rosenborg",
+            "played": 26,
+            "wins": 14,
             "draws": 4,
             "losses": 8,
-            "goals_for": 59,
-            "goals_against": 39,
-            "goal_difference": 20,
-            "points": 43,
-            "form": "LWWDL"
+            "goals_for": 53,
+            "goals_against": 32,
+            "goal_difference": 21,
+            "points": 46,
+            "form": "WWWWD"
           }
         ],
         "meta": {
@@ -11199,7 +11184,7 @@
     "teams_all_time": 24,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 40
+    "upcoming_matches": 39
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

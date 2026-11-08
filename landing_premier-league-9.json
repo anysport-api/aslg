@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
@@ -2947,7 +2947,7 @@
         "match_id": "as_9c00c8a3f64e42588175ba06e76f4c39",
         "date": "2026-11-07",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "爱尔兰超级联赛",
         "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
         "season": "2026",
@@ -2959,7 +2959,10 @@
           "name": "德罗赫达",
           "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_a233d6fd6dcc49458f1acae177f1de17",
@@ -6742,26 +6745,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_9c00c8a3f64e42588175ba06e76f4c39",
-        "date": "2026-11-07",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "爱尔兰超级联赛",
-        "league_id": "asl_82d444e8441e4e869f0a0c7eb8739c63",
-        "season": "2026",
-        "home": {
-          "name": "UCD",
-          "team_id": "ast_3adf8fe8fff7428e8281943bbc1df3d8"
-        },
-        "away": {
-          "name": "德罗赫达",
-          "team_id": "ast_12f7081ae4d24f65a75fd3fee11c787d"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -10654,13 +10638,13 @@
     }
   },
   "stats": {
-    "matches_completed": 180,
-    "total_goals": 506,
+    "matches_completed": 181,
+    "total_goals": 509,
     "avg_goals_per_match": 2.81,
-    "home_wins": 73,
+    "home_wins": 74,
     "draws": 55,
     "away_wins": 52,
-    "home_win_pct": 40.6,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11465,7 +11449,7 @@
     "teams_all_time": 20,
     "standings_rows_current": 10,
     "matches_current_season": 181,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

@@ -70,6 +70,34 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
+        "team": "Elfsborg W",
+        "played": 25,
+        "wins": 17,
+        "draws": 7,
+        "losses": 1,
+        "goals_for": 48,
+        "goals_against": 13,
+        "goal_difference": 35,
+        "points": 58,
+        "form": "WDWWW"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
+        "team": "Goteborg W",
+        "played": 25,
+        "wins": 17,
+        "draws": 6,
+        "losses": 2,
+        "goals_for": 66,
+        "goals_against": 27,
+        "goal_difference": 39,
+        "points": 57,
+        "form": "WWWWW"
+      },
+      {
+        "position": 3,
         "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
         "team": "KIF Orebro W",
         "played": 25,
@@ -81,34 +109,6 @@
         "goal_difference": 34,
         "points": 56,
         "form": "WLWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
-        "team": "Elfsborg W",
-        "played": 24,
-        "wins": 16,
-        "draws": 7,
-        "losses": 1,
-        "goals_for": 47,
-        "goals_against": 13,
-        "goal_difference": 34,
-        "points": 55,
-        "form": "DWWWD"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
-        "team": "Goteborg W",
-        "played": 24,
-        "wins": 16,
-        "draws": 6,
-        "losses": 2,
-        "goals_for": 62,
-        "goals_against": 25,
-        "goal_difference": 37,
-        "points": 54,
-        "form": "WWWWD"
       },
       {
         "position": 4,
@@ -156,29 +156,29 @@
         "position": 7,
         "team_id": "ast_c7d24b7064854e6a9bdcd347ffd60707",
         "team": "Husqvarna W",
-        "played": 24,
+        "played": 25,
         "wins": 9,
-        "draws": 6,
+        "draws": 7,
         "losses": 9,
-        "goals_for": 32,
-        "goals_against": 34,
+        "goals_for": 33,
+        "goals_against": 35,
         "goal_difference": -2,
-        "points": 33,
-        "form": "DDWLW"
+        "points": 34,
+        "form": "DDDWL"
       },
       {
         "position": 8,
         "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3",
         "team": "Jitex W",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 7,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 35,
-        "goals_against": 38,
-        "goal_difference": -3,
+        "goals_against": 39,
+        "goal_difference": -4,
         "points": 31,
-        "form": "WDLWD"
+        "form": "LWDLW"
       },
       {
         "position": 9,
@@ -210,20 +210,6 @@
       },
       {
         "position": 11,
-        "team_id": "ast_b4b4ffb4333447caac2ed33683497d82",
-        "team": "Gamla Upsala W",
-        "played": 24,
-        "wins": 6,
-        "draws": 5,
-        "losses": 13,
-        "goals_for": 27,
-        "goals_against": 37,
-        "goal_difference": -10,
-        "points": 23,
-        "form": "WWLLL"
-      },
-      {
-        "position": 12,
         "team_id": "ast_6b9020405024460aa08f0bb520fe8d7c",
         "team": "Alingsas W",
         "played": 24,
@@ -235,6 +221,20 @@
         "goal_difference": -11,
         "points": 23,
         "form": "DLWLL"
+      },
+      {
+        "position": 12,
+        "team_id": "ast_b4b4ffb4333447caac2ed33683497d82",
+        "team": "Gamla Upsala W",
+        "played": 25,
+        "wins": 6,
+        "draws": 5,
+        "losses": 14,
+        "goals_for": 29,
+        "goals_against": 41,
+        "goal_difference": -12,
+        "points": 23,
+        "form": "LWWLL"
       },
       {
         "position": 13,
@@ -254,20 +254,50 @@
         "position": 14,
         "team_id": "ast_e2c915f557484f0db53ddf52bd07bd23",
         "team": "Hacken B W",
-        "played": 24,
+        "played": 25,
         "wins": 2,
-        "draws": 2,
+        "draws": 3,
         "losses": 20,
-        "goals_for": 23,
-        "goals_against": 54,
+        "goals_for": 24,
+        "goals_against": 55,
         "goal_difference": -31,
-        "points": 8,
-        "form": "LLLLD"
+        "points": 9,
+        "form": "DLLLL"
       }
     ],
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
+        "team": "埃尔夫斯堡女足",
+        "played": 25,
+        "wins": 17,
+        "draws": 7,
+        "losses": 1,
+        "goals_for": 48,
+        "goals_against": 13,
+        "goal_difference": 35,
+        "points": 58,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
+        "team": "哥德堡女足",
+        "played": 25,
+        "wins": 17,
+        "draws": 6,
+        "losses": 2,
+        "goals_for": 66,
+        "goals_against": 27,
+        "goal_difference": 39,
+        "points": 57,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
+      },
+      {
+        "position": 3,
         "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
         "team": "KIF厄勒布鲁女足",
         "played": 25,
@@ -280,36 +310,6 @@
         "points": 56,
         "form": "WLWWW",
         "form_label": "胜负胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
-        "team": "埃尔夫斯堡女足",
-        "played": 24,
-        "wins": 16,
-        "draws": 7,
-        "losses": 1,
-        "goals_for": 47,
-        "goals_against": 13,
-        "goal_difference": 34,
-        "points": 55,
-        "form": "DWWWD",
-        "form_label": "平胜胜胜平"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
-        "team": "哥德堡女足",
-        "played": 24,
-        "wins": 16,
-        "draws": 6,
-        "losses": 2,
-        "goals_for": 62,
-        "goals_against": 25,
-        "goal_difference": 37,
-        "points": 54,
-        "form": "WWWWD",
-        "form_label": "胜胜胜胜平"
       },
       {
         "position": 4,
@@ -360,31 +360,31 @@
         "position": 7,
         "team_id": "ast_c7d24b7064854e6a9bdcd347ffd60707",
         "team": "胡斯克瓦尔纳女队",
-        "played": 24,
+        "played": 25,
         "wins": 9,
-        "draws": 6,
+        "draws": 7,
         "losses": 9,
-        "goals_for": 32,
-        "goals_against": 34,
+        "goals_for": 33,
+        "goals_against": 35,
         "goal_difference": -2,
-        "points": 33,
-        "form": "DDWLW",
-        "form_label": "平平胜负胜"
+        "points": 34,
+        "form": "DDDWL",
+        "form_label": "平平平胜负"
       },
       {
         "position": 8,
         "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3",
         "team": "吉特克斯女队",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 7,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 35,
-        "goals_against": 38,
-        "goal_difference": -3,
+        "goals_against": 39,
+        "goal_difference": -4,
         "points": 31,
-        "form": "WDLWD",
-        "form_label": "胜平负胜平"
+        "form": "LWDLW",
+        "form_label": "负胜平负胜"
       },
       {
         "position": 9,
@@ -418,21 +418,6 @@
       },
       {
         "position": 11,
-        "team_id": "ast_b4b4ffb4333447caac2ed33683497d82",
-        "team": "古姆拉乌普萨拉女足",
-        "played": 24,
-        "wins": 6,
-        "draws": 5,
-        "losses": 13,
-        "goals_for": 27,
-        "goals_against": 37,
-        "goal_difference": -10,
-        "points": 23,
-        "form": "WWLLL",
-        "form_label": "胜胜负负负"
-      },
-      {
-        "position": 12,
         "team_id": "ast_6b9020405024460aa08f0bb520fe8d7c",
         "team": "阿林萨斯女足",
         "played": 24,
@@ -445,6 +430,21 @@
         "points": 23,
         "form": "DLWLL",
         "form_label": "平负胜负负"
+      },
+      {
+        "position": 12,
+        "team_id": "ast_b4b4ffb4333447caac2ed33683497d82",
+        "team": "古姆拉乌普萨拉女足",
+        "played": 25,
+        "wins": 6,
+        "draws": 5,
+        "losses": 14,
+        "goals_for": 29,
+        "goals_against": 41,
+        "goal_difference": -12,
+        "points": 23,
+        "form": "LWWLL",
+        "form_label": "负胜胜负负"
       },
       {
         "position": 13,
@@ -465,16 +465,16 @@
         "position": 14,
         "team_id": "ast_e2c915f557484f0db53ddf52bd07bd23",
         "team": "哈肯 B W",
-        "played": 24,
+        "played": 25,
         "wins": 2,
-        "draws": 2,
+        "draws": 3,
         "losses": 20,
-        "goals_for": 23,
-        "goals_against": 54,
+        "goals_for": 24,
+        "goals_against": 55,
         "goal_difference": -31,
-        "points": 8,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
+        "points": 9,
+        "form": "DLLLL",
+        "form_label": "平负负负负"
       }
     ]
   },
@@ -693,7 +693,7 @@
         "match_id": "as_ff40ef63dbca4cff8ed575cf1d5507ef",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -705,13 +705,16 @@
           "name": "哥德堡女足",
           "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_376d36c237524d7c890c8ba7f63e5747",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -723,13 +726,16 @@
           "name": "哈肯 B W",
           "team_id": "ast_e2c915f557484f0db53ddf52bd07bd23"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_11d68cb3c8e948b1978607ab650de0e3",
         "date": "2026-11-07",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典女子超级联赛",
         "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
         "season": "2026",
@@ -741,7 +747,10 @@
           "name": "埃尔夫斯堡女足",
           "team_id": "ast_2114baf6efdb406eb620b7be618821e9"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_bb1ce5c59ec44617948ac6762de703a6",
@@ -761,7 +770,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "4-0",
-        "venue": "",
+        "venue": "贝恩竞技场",
         "status_label": "完场"
       },
       {
@@ -4487,60 +4496,6 @@
           "team_id": "ast_b440608db11f43e7ba3294248d881446"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_11d68cb3c8e948b1978607ab650de0e3",
-        "date": "2026-11-07",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "吉特克斯女队",
-          "team_id": "ast_ceb1d41a2e0a44bfa6d3684f6e110ef3"
-        },
-        "away": {
-          "name": "埃尔夫斯堡女足",
-          "team_id": "ast_2114baf6efdb406eb620b7be618821e9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_376d36c237524d7c890c8ba7f63e5747",
-        "date": "2026-11-07",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "胡斯克瓦尔纳女队",
-          "team_id": "ast_c7d24b7064854e6a9bdcd347ffd60707"
-        },
-        "away": {
-          "name": "哈肯 B W",
-          "team_id": "ast_e2c915f557484f0db53ddf52bd07bd23"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ff40ef63dbca4cff8ed575cf1d5507ef",
-        "date": "2026-11-07",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典女子超级联赛",
-        "league_id": "asl_8ceab790367d42faa5950f7da3ef1ac9",
-        "season": "2026",
-        "home": {
-          "name": "古姆拉乌普萨拉女足",
-          "team_id": "ast_b4b4ffb4333447caac2ed33683497d82"
-        },
-        "away": {
-          "name": "哥德堡女足",
-          "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6005,13 +5960,13 @@
     }
   },
   "stats": {
-    "matches_completed": 169,
-    "total_goals": 512,
+    "matches_completed": 172,
+    "total_goals": 521,
     "avg_goals_per_match": 3.03,
     "home_wins": 67,
-    "draws": 36,
-    "away_wins": 66,
-    "home_win_pct": 39.6,
+    "draws": 37,
+    "away_wins": 68,
+    "home_win_pct": 39.0,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -6037,8 +5992,8 @@
       }
     },
     "leader": {
-      "team": "KIF Orebro W",
-      "points": 56,
+      "team": "Elfsborg W",
+      "points": 58,
       "played": 25
     }
   },
@@ -6134,6 +6089,34 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
+            "team": "Elfsborg W",
+            "played": 25,
+            "wins": 17,
+            "draws": 7,
+            "losses": 1,
+            "goals_for": 48,
+            "goals_against": 13,
+            "goal_difference": 35,
+            "points": 58,
+            "form": "WDWWW"
+          },
+          {
+            "position": 2,
+            "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
+            "team": "Goteborg W",
+            "played": 25,
+            "wins": 17,
+            "draws": 6,
+            "losses": 2,
+            "goals_for": 66,
+            "goals_against": 27,
+            "goal_difference": 39,
+            "points": 57,
+            "form": "WWWWW"
+          },
+          {
+            "position": 3,
             "team_id": "ast_ae73e7efeadc4313bfb45b2dd10908d8",
             "team": "KIF Orebro W",
             "played": 25,
@@ -6145,34 +6128,6 @@
             "goal_difference": 34,
             "points": 56,
             "form": "WLWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_2114baf6efdb406eb620b7be618821e9",
-            "team": "Elfsborg W",
-            "played": 24,
-            "wins": 16,
-            "draws": 7,
-            "losses": 1,
-            "goals_for": 47,
-            "goals_against": 13,
-            "goal_difference": 34,
-            "points": 55,
-            "form": "DWWWD"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_6a06ed3356b64d3e94cc6532805f699a",
-            "team": "Goteborg W",
-            "played": 24,
-            "wins": 16,
-            "draws": 6,
-            "losses": 2,
-            "goals_for": 62,
-            "goals_against": 25,
-            "goal_difference": 37,
-            "points": 54,
-            "form": "WWWWD"
           }
         ],
         "meta": {
@@ -6809,7 +6764,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 13
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

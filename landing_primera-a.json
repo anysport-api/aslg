@@ -641,7 +641,7 @@
         "match_id": "as_6430b932bfac43c4a35ffdfc1cc74f3a",
         "date": "2026-11-09",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -653,15 +653,13 @@
           "name": "坎昆",
           "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_617a8066235a4a6fa1fc169e260e1807",
         "date": "2026-11-08",
         "time": "03:05",
-        "status": "03:05",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -673,13 +671,16 @@
           "name": "特拉斯卡拉",
           "team_id": "ast_459c1549712c47b3959abd4c70e97f89"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ffcbca78ef7c47e584e71b85d081dd07",
         "date": "2026-11-08",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -691,7 +692,10 @@
           "name": "维纳多斯",
           "team_id": "ast_4895b318140c4a23a33c95ccca00ed22"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_322507965ae24c65bce5effd82ffaff5",
@@ -729,7 +733,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "弗朗西斯科·萨尔科体育场",
         "status_label": "完场"
       },
       {
@@ -771,7 +775,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "特拉维科莱体育场",
         "status_label": "完场"
       },
       {
@@ -792,7 +796,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Estadio Carlos Iturralde Rivero",
         "status_label": "完场"
       },
       {
@@ -3321,7 +3325,7 @@
         "match_id": "as_6430b932bfac43c4a35ffdfc1cc74f3a",
         "date": "2026-11-09",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "01:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3333,9 +3337,7 @@
           "name": "坎昆",
           "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_322507965ae24c65bce5effd82ffaff5",
@@ -3359,7 +3361,7 @@
         "match_id": "as_ffcbca78ef7c47e584e71b85d081dd07",
         "date": "2026-11-08",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3371,13 +3373,16 @@
           "name": "维纳多斯",
           "team_id": "ast_4895b318140c4a23a33c95ccca00ed22"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_617a8066235a4a6fa1fc169e260e1807",
         "date": "2026-11-08",
         "time": "03:05",
-        "status": "03:05",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3389,7 +3394,10 @@
           "name": "特拉斯卡拉",
           "team_id": "ast_459c1549712c47b3959abd4c70e97f89"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -5464,11 +5472,11 @@
     }
   },
   "stats": {
-    "matches_completed": 124,
-    "total_goals": 392,
-    "avg_goals_per_match": 3.16,
-    "home_wins": 60,
-    "draws": 27,
+    "matches_completed": 126,
+    "total_goals": 401,
+    "avg_goals_per_match": 3.18,
+    "home_wins": 61,
+    "draws": 28,
     "away_wins": 37,
     "home_win_pct": 48.4,
     "biggest_win": {
@@ -6270,5 +6278,5 @@
     "matches_current_season": 128,
     "upcoming_matches": 4
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

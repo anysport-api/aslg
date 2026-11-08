@@ -718,7 +718,7 @@
         "match_id": "as_39ff35ff254247ed9987ee2143c4a179",
         "date": "2026-11-07",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
         "season": "2026",
@@ -730,7 +730,10 @@
           "name": "米兰达",
           "team_id": "ast_974198b068024a90b1c9b0a812cbe7ae"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f51c7fa6573340f8b72eb46fe9bceed4",
@@ -6266,24 +6269,6 @@
           "team_id": "ast_932c5aec63ac4ccfb54e0dd1ed4a14af"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_39ff35ff254247ed9987ee2143c4a179",
-        "date": "2026-11-07",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "委内瑞拉乙级联赛",
-        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
-        "season": "2026",
-        "home": {
-          "name": "巴尔基西梅托",
-          "team_id": "ast_1581060c5f2247988c92fb690d9a2443"
-        },
-        "away": {
-          "name": "米兰达",
-          "team_id": "ast_974198b068024a90b1c9b0a812cbe7ae"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9737,13 +9722,13 @@
     }
   },
   "stats": {
-    "matches_completed": 260,
-    "total_goals": 696,
-    "avg_goals_per_match": 2.68,
+    "matches_completed": 261,
+    "total_goals": 697,
+    "avg_goals_per_match": 2.67,
     "home_wins": 117,
     "draws": 65,
-    "away_wins": 78,
-    "home_win_pct": 45.0,
+    "away_wins": 79,
+    "home_win_pct": 44.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10341,7 +10326,7 @@
     "teams_all_time": 59,
     "standings_rows_current": 17,
     "matches_current_season": 265,
-    "upcoming_matches": 4
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }

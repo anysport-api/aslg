@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
@@ -325,7 +325,7 @@
         "match_id": "as_ac7b1d2110f44551826eccb301ef417c",
         "date": "2026-11-07",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -337,13 +337,16 @@
           "name": "渥太华竞技",
           "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9f1632162b3e4de383f4a217e73cf5d7",
         "date": "2026-11-07",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -355,7 +358,10 @@
           "name": "魁北克超越",
           "team_id": "ast_eaee4847fb6f4636806d5070cb08014c"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_00ea9ace9c2a4b9fa0c9d57a973040e1",
@@ -2752,44 +2758,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_9f1632162b3e4de383f4a217e73cf5d7",
-        "date": "2026-11-07",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "骑兵",
-          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
-        },
-        "away": {
-          "name": "魁北克超越",
-          "team_id": "ast_eaee4847fb6f4636806d5070cb08014c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ac7b1d2110f44551826eccb301ef417c",
-        "date": "2026-11-07",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "福尔吉",
-          "team_id": "ast_1e7a6eeae41147c0ac02796dfe9a5cb0"
-        },
-        "away": {
-          "name": "渥太华竞技",
-          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -3768,13 +3737,13 @@
     }
   },
   "stats": {
-    "matches_completed": 114,
-    "total_goals": 361,
+    "matches_completed": 116,
+    "total_goals": 368,
     "avg_goals_per_match": 3.17,
-    "home_wins": 53,
+    "home_wins": 54,
     "draws": 28,
-    "away_wins": 33,
-    "home_win_pct": 46.5,
+    "away_wins": 34,
+    "home_win_pct": 46.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -4584,7 +4553,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 116,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/07"
+  "updated_at": "2026/11/08"
 }
