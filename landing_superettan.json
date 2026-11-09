@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
@@ -3110,6 +3110,46 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_78ec401078c24759b7f83081553d460c",
+        "date": "2026-11-28",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
+        "season": "2026",
+        "home": {
+          "name": "诺尔比",
+          "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
+        },
+        "away": {
+          "name": "伦兹",
+          "team_id": "ast_fb969a87be844cb9b140274a5b9da7bb"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b9fd174c5842469a938cfe93c17e0584",
+        "date": "2026-11-21",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
+        "season": "2026",
+        "home": {
+          "name": "伦兹",
+          "team_id": "ast_fb969a87be844cb9b140274a5b9da7bb"
+        },
+        "away": {
+          "name": "诺尔比",
+          "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
+        },
+        "ht_score": "-",
+        "venue": "Klostergardens Idrottsplats",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_905d1809a7bd4e7e87ad00d67da4cfd0",
         "date": "2026-11-07",
         "time": "14:00",
@@ -3127,7 +3167,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Domnarvsvallen",
         "status_label": "完场"
       },
       {
@@ -3148,7 +3188,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "奥林匹亚球场",
         "status_label": "完场"
       },
       {
@@ -3190,7 +3230,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "贝恩竞技场",
         "status_label": "完场"
       },
       {
@@ -3211,7 +3251,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "Jamtkraft Arena",
         "status_label": "完场"
       },
       {
@@ -3232,7 +3272,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Jernvallen",
         "status_label": "完场"
       },
       {
@@ -3253,7 +3293,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "NP3竞技场",
         "status_label": "完场"
       },
       {
@@ -3274,7 +3314,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "芬内德瓦伦球场",
         "status_label": "完场"
       },
       {
@@ -8150,7 +8190,48 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_78ec401078c24759b7f83081553d460c",
+        "date": "2026-11-28",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
+        "season": "2026",
+        "home": {
+          "name": "诺尔比",
+          "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
+        },
+        "away": {
+          "name": "伦兹",
+          "team_id": "ast_fb969a87be844cb9b140274a5b9da7bb"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b9fd174c5842469a938cfe93c17e0584",
+        "date": "2026-11-21",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "瑞典超级联赛",
+        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
+        "season": "2026",
+        "home": {
+          "name": "伦兹",
+          "team_id": "ast_fb969a87be844cb9b140274a5b9da7bb"
+        },
+        "away": {
+          "name": "诺尔比",
+          "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
+        },
+        "ht_score": "-",
+        "venue": "Klostergardens Idrottsplats",
+        "status_label": "未开赛"
+      }
+    ]
   },
   "champions": [
     {
@@ -13839,6 +13920,9 @@
     },
     "ast_48384ecf41994a44bf092762e1377cb1": {
       "en": "Vastra Frolunda"
+    },
+    "ast_fb969a87be844cb9b140274a5b9da7bb": {
+      "en": "伦兹"
     }
   },
   "stats": {
@@ -14673,8 +14757,8 @@
     "distinct_title_holders": 17,
     "teams_all_time": 53,
     "standings_rows_current": 16,
-    "matches_current_season": 240,
-    "upcoming_matches": 0
+    "matches_current_season": 242,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

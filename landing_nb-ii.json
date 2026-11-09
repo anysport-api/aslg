@@ -370,29 +370,29 @@
         "position": 15,
         "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc",
         "team": "Karcagi",
-        "played": 12,
+        "played": 13,
         "wins": 2,
         "draws": 5,
-        "losses": 5,
-        "goals_for": 16,
-        "goals_against": 24,
-        "goal_difference": -8,
+        "losses": 6,
+        "goals_for": 18,
+        "goals_against": 28,
+        "goal_difference": -10,
         "points": 11,
-        "form": "LLLLD"
+        "form": "LLLLL"
       },
       {
         "position": 16,
         "team_id": "ast_fcefad25a3df4472a610f75e053060c4",
         "team": "Csakvari",
-        "played": 12,
-        "wins": 1,
+        "played": 13,
+        "wins": 2,
         "draws": 1,
         "losses": 10,
-        "goals_for": 9,
-        "goals_against": 27,
-        "goal_difference": -18,
-        "points": 4,
-        "form": "LLLLL"
+        "goals_for": 13,
+        "goals_against": 29,
+        "goal_difference": -16,
+        "points": 7,
+        "form": "WLLLL"
       }
     ],
     "zh": [
@@ -610,31 +610,31 @@
         "position": 15,
         "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc",
         "team": "卡尔卡吉",
-        "played": 12,
+        "played": 13,
         "wins": 2,
         "draws": 5,
-        "losses": 5,
-        "goals_for": 16,
-        "goals_against": 24,
-        "goal_difference": -8,
+        "losses": 6,
+        "goals_for": 18,
+        "goals_against": 28,
+        "goal_difference": -10,
         "points": 11,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       },
       {
         "position": 16,
         "team_id": "ast_fcefad25a3df4472a610f75e053060c4",
         "team": "查克瓦里",
-        "played": 12,
-        "wins": 1,
+        "played": 13,
+        "wins": 2,
         "draws": 1,
         "losses": 10,
-        "goals_for": 9,
-        "goals_against": 27,
-        "goal_difference": -18,
-        "points": 4,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
+        "goals_for": 13,
+        "goals_against": 29,
+        "goal_difference": -16,
+        "points": 7,
+        "form": "WLLLL",
+        "form_label": "胜负负负负"
       }
     ]
   },
@@ -3379,7 +3379,7 @@
         "match_id": "as_6e729bcbd52f43b4841b40448b994f58",
         "date": "2026-11-08",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "匈牙利Nb II联赛",
         "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
         "season": "2026/2027",
@@ -3391,7 +3391,10 @@
           "name": "卡尔卡吉",
           "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "4-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4608d049d4c04405b5d97d29347eacb8",
@@ -5877,24 +5880,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6e729bcbd52f43b4841b40448b994f58",
-        "date": "2026-11-08",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "匈牙利Nb II联赛",
-        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
-        "season": "2026/2027",
-        "home": {
-          "name": "查克瓦里",
-          "team_id": "ast_fcefad25a3df4472a610f75e053060c4"
-        },
-        "away": {
-          "name": "卡尔卡吉",
-          "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8298,13 +8283,13 @@
     }
   },
   "stats": {
-    "matches_completed": 103,
-    "total_goals": 295,
-    "avg_goals_per_match": 2.86,
-    "home_wins": 48,
+    "matches_completed": 104,
+    "total_goals": 301,
+    "avg_goals_per_match": 2.89,
+    "home_wins": 49,
     "draws": 23,
     "away_wins": 32,
-    "home_win_pct": 46.6,
+    "home_win_pct": 47.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9099,7 +9084,7 @@
     "teams_all_time": 38,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 17
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

@@ -204,43 +204,43 @@
         "position": 4,
         "team_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452",
         "team": "Dacia Buiucani",
-        "played": 17,
-        "wins": 7,
+        "played": 18,
+        "wins": 8,
         "draws": 3,
         "losses": 7,
-        "goals_for": 22,
+        "goals_for": 24,
         "goals_against": 23,
-        "goal_difference": -1,
-        "points": 24,
-        "form": "LWDLW"
+        "goal_difference": 1,
+        "points": 27,
+        "form": "WLWDL"
       },
       {
         "position": 5,
         "team_id": "ast_08397deef4d347a6801a566cf7e398e3",
         "team": "Milsami",
-        "played": 17,
-        "wins": 5,
+        "played": 18,
+        "wins": 6,
         "draws": 7,
         "losses": 5,
-        "goals_for": 19,
-        "goals_against": 23,
-        "goal_difference": -4,
-        "points": 22,
-        "form": "WLDDW"
+        "goals_for": 25,
+        "goals_against": 24,
+        "goal_difference": 1,
+        "points": 25,
+        "form": "WWLDD"
       },
       {
         "position": 6,
         "team_id": "ast_0b18c64342da4b0faa6f71b595f18c6e",
         "team": "Politehnica UTM",
-        "played": 17,
+        "played": 18,
         "wins": 5,
         "draws": 4,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 26,
-        "goals_against": 27,
-        "goal_difference": -1,
+        "goals_against": 29,
+        "goal_difference": -3,
         "points": 19,
-        "form": "LLWDL"
+        "form": "LLLWD"
       },
       {
         "position": 7,
@@ -260,13 +260,13 @@
         "position": 8,
         "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9",
         "team": "Balti",
-        "played": 17,
+        "played": 18,
         "wins": 1,
         "draws": 2,
-        "losses": 14,
-        "goals_for": 10,
-        "goals_against": 59,
-        "goal_difference": -49,
+        "losses": 15,
+        "goals_for": 11,
+        "goals_against": 65,
+        "goal_difference": -54,
         "points": 5,
         "form": "LLLLL"
       }
@@ -321,46 +321,46 @@
         "position": 4,
         "team_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452",
         "team": "达契亚布尤坎尼",
-        "played": 17,
-        "wins": 7,
+        "played": 18,
+        "wins": 8,
         "draws": 3,
         "losses": 7,
-        "goals_for": 22,
+        "goals_for": 24,
         "goals_against": 23,
-        "goal_difference": -1,
-        "points": 24,
-        "form": "LWDLW",
-        "form_label": "负胜平负胜"
+        "goal_difference": 1,
+        "points": 27,
+        "form": "WLWDL",
+        "form_label": "胜负胜平负"
       },
       {
         "position": 5,
         "team_id": "ast_08397deef4d347a6801a566cf7e398e3",
         "team": "米尔萨米",
-        "played": 17,
-        "wins": 5,
+        "played": 18,
+        "wins": 6,
         "draws": 7,
         "losses": 5,
-        "goals_for": 19,
-        "goals_against": 23,
-        "goal_difference": -4,
-        "points": 22,
-        "form": "WLDDW",
-        "form_label": "胜负平平胜"
+        "goals_for": 25,
+        "goals_against": 24,
+        "goal_difference": 1,
+        "points": 25,
+        "form": "WWLDD",
+        "form_label": "胜胜负平平"
       },
       {
         "position": 6,
         "team_id": "ast_0b18c64342da4b0faa6f71b595f18c6e",
         "team": "理工大学UTM",
-        "played": 17,
+        "played": 18,
         "wins": 5,
         "draws": 4,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 26,
-        "goals_against": 27,
-        "goal_difference": -1,
+        "goals_against": 29,
+        "goal_difference": -3,
         "points": 19,
-        "form": "LLWDL",
-        "form_label": "负负胜平负"
+        "form": "LLLWD",
+        "form_label": "负负负胜平"
       },
       {
         "position": 7,
@@ -381,13 +381,13 @@
         "position": 8,
         "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9",
         "team": "巴尔蒂",
-        "played": 17,
+        "played": 18,
         "wins": 1,
         "draws": 2,
-        "losses": 14,
-        "goals_for": 10,
-        "goals_against": 59,
-        "goal_difference": -49,
+        "losses": 15,
+        "goals_for": 11,
+        "goals_against": 65,
+        "goal_difference": -54,
         "points": 5,
         "form": "LLLLL",
         "form_label": "负负负负负"
@@ -655,7 +655,7 @@
         "match_id": "as_f79e97b47fb6476a8ee118083e67c904",
         "date": "2026-11-08",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "摩尔多瓦国家联赛",
         "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
         "season": "2026/2027",
@@ -667,13 +667,16 @@
           "name": "巴尔蒂",
           "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "6-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6f8d6ff967924ffc8e353b8dad4ce44a",
         "date": "2026-11-08",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "摩尔多瓦国家联赛",
         "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
         "season": "2026/2027",
@@ -685,7 +688,10 @@
           "name": "理工大学UTM",
           "team_id": "ast_0b18c64342da4b0faa6f71b595f18c6e"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c101cd77069a4c5099eb2f99b9d6477c",
@@ -705,7 +711,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "4-0",
-        "venue": "",
+        "venue": "津布鲁体育场",
         "status_label": "完场"
       },
       {
@@ -726,7 +732,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "市政体育场",
         "status_label": "完场"
       },
       {
@@ -2398,42 +2404,6 @@
         "ht_score": "-",
         "venue": "",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_6f8d6ff967924ffc8e353b8dad4ce44a",
-        "date": "2026-11-08",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "摩尔多瓦国家联赛",
-        "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
-        "season": "2026/2027",
-        "home": {
-          "name": "达契亚布尤坎尼",
-          "team_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452"
-        },
-        "away": {
-          "name": "理工大学UTM",
-          "team_id": "ast_0b18c64342da4b0faa6f71b595f18c6e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f79e97b47fb6476a8ee118083e67c904",
-        "date": "2026-11-08",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "摩尔多瓦国家联赛",
-        "league_id": "asl_0fb80ecf099c4da28f41f108718a8dad",
-        "season": "2026/2027",
-        "home": {
-          "name": "米尔萨米",
-          "team_id": "ast_08397deef4d347a6801a566cf7e398e3"
-        },
-        "away": {
-          "name": "巴尔蒂",
-          "team_id": "ast_e8ee90099cbe4c4687f763685c42e0a9"
-        },
-        "venue": ""
       }
     ]
   },
@@ -3638,13 +3608,13 @@
     }
   },
   "stats": {
-    "matches_completed": 70,
-    "total_goals": 206,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 29,
+    "matches_completed": 72,
+    "total_goals": 215,
+    "avg_goals_per_match": 2.99,
+    "home_wins": 31,
     "draws": 20,
     "away_wins": 21,
-    "home_win_pct": 41.4,
+    "home_win_pct": 43.1,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -3660,13 +3630,13 @@
     "highest_scoring_match": {
       "goals": 7,
       "match": {
-        "match_id": "as_1c5d2687219c4c07a6285e6fb80cedf5",
-        "date": "2026-10-10",
-        "home_id": "ast_8a49c31f9b444fd5a4420c27bd3c1452",
-        "home": "达契亚布尤坎尼",
-        "away_id": "ast_51eb86f27e6a43be9b27201ef32e21a2",
-        "away": "特拉斯波尔警长",
-        "score": "2-5"
+        "match_id": "as_f79e97b47fb6476a8ee118083e67c904",
+        "date": "2026-11-08",
+        "home_id": "ast_08397deef4d347a6801a566cf7e398e3",
+        "home": "米尔萨米",
+        "away_id": "ast_e8ee90099cbe4c4687f763685c42e0a9",
+        "away": "巴尔蒂",
+        "score": "6-1"
       }
     },
     "leader": {
@@ -4422,7 +4392,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 8,
     "matches_current_season": 84,
-    "upcoming_matches": 14
+    "upcoming_matches": 12
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

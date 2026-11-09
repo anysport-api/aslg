@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
@@ -2981,7 +2981,7 @@
         "match_id": "as_e20203da528543d38d4dec1a53a28309",
         "date": "2026-11-08",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -2993,13 +2993,16 @@
           "name": "VPS",
           "team_id": "ast_d68d155d554a4e65855d70cdec8228df"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "5-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8d221653a39345ebb6a6883bfae3edc3",
         "date": "2026-11-08",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3011,13 +3014,16 @@
           "name": "AC 奥卢",
           "team_id": "ast_5b00cb64d9f746b4b66bbdf7f1dbc81f"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "3-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_65974588637a4c869d5f3d25c089f602",
         "date": "2026-11-08",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "芬兰Veikkausliiga",
         "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
         "season": "2026",
@@ -3029,7 +3035,10 @@
           "name": "国际图尔库",
           "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3062fb2f761e483082ddf3e24e33976a",
@@ -6728,62 +6737,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_65974588637a4c869d5f3d25c089f602",
-        "date": "2026-11-08",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "库普斯",
-          "team_id": "ast_069c39eeb4cb428ca0602b0c4ae1c2a3"
-        },
-        "away": {
-          "name": "国际图尔库",
-          "team_id": "ast_ce13e8a7728f4b59872a3d5f307f91e1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8d221653a39345ebb6a6883bfae3edc3",
-        "date": "2026-11-08",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "HJK",
-          "team_id": "ast_f86e6d4b65ba41898bfffb0803c6171d"
-        },
-        "away": {
-          "name": "AC 奥卢",
-          "team_id": "ast_5b00cb64d9f746b4b66bbdf7f1dbc81f"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e20203da528543d38d4dec1a53a28309",
-        "date": "2026-11-08",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "芬兰Veikkausliiga",
-        "league_id": "asl_e6afb193d7d3459eaf5b4d0703b4a1cb",
-        "season": "2026",
-        "home": {
-          "name": "格尼斯坦",
-          "team_id": "ast_b0e7c67a14bc4f378f17593befac751c"
-        },
-        "away": {
-          "name": "VPS",
-          "team_id": "ast_d68d155d554a4e65855d70cdec8228df"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -11206,13 +11160,13 @@
     }
   },
   "stats": {
-    "matches_completed": 176,
-    "total_goals": 451,
-    "avg_goals_per_match": 2.56,
-    "home_wins": 79,
-    "draws": 48,
-    "away_wins": 49,
-    "home_win_pct": 44.9,
+    "matches_completed": 179,
+    "total_goals": 465,
+    "avg_goals_per_match": 2.6,
+    "home_wins": 80,
+    "draws": 49,
+    "away_wins": 50,
+    "home_win_pct": 44.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -12017,7 +11971,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 179,
-    "upcoming_matches": 3
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_f291671fc16749498646a9b7f70a6814",
@@ -432,6 +432,46 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_035f650f70f745e28daa520651518e3a",
+        "date": "2026-11-21",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "挪威女子顶级联赛",
+        "league_id": "asl_f291671fc16749498646a9b7f70a6814",
+        "season": "2026",
+        "home": {
+          "name": "罗阿",
+          "team_id": "ast_320cbdec36874ab89f2dbedc749c8305"
+        },
+        "away": {
+          "name": "阿尔纳-比约纳尔",
+          "team_id": "ast_d75efa020c48425aa52468df2f81857b"
+        },
+        "ht_score": "-",
+        "venue": "Roabanen",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cb9daec8ba6a4b519b64a0757ad61eed",
+        "date": "2026-11-14",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "挪威女子顶级联赛",
+        "league_id": "asl_f291671fc16749498646a9b7f70a6814",
+        "season": "2026",
+        "home": {
+          "name": "阿尔纳-比约纳尔",
+          "team_id": "ast_d75efa020c48425aa52468df2f81857b"
+        },
+        "away": {
+          "name": "罗阿",
+          "team_id": "ast_320cbdec36874ab89f2dbedc749c8305"
+        },
+        "ht_score": "-",
+        "venue": "阿尔纳体育公园",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_4eb66053f94e46cdb5f7a61efe2d4ae2",
         "date": "2026-11-07",
         "time": "12:00",
@@ -449,7 +489,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-3",
-        "venue": "",
+        "venue": "彩色线条体育场",
         "status_label": "完场"
       },
       {
@@ -470,7 +510,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-2",
-        "venue": "",
+        "venue": "阿斯普米拉体育场",
         "status_label": "完场"
       },
       {
@@ -491,7 +531,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "布兰体育场",
         "status_label": "完场"
       },
       {
@@ -533,7 +573,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "3-1",
-        "venue": "",
+        "venue": "Kringsja kunstgress",
         "status_label": "完场"
       },
       {
@@ -554,7 +594,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Roabanen",
         "status_label": "完场"
       },
       {
@@ -575,7 +615,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Lyse球场",
         "status_label": "完场"
       },
       {
@@ -3246,7 +3286,48 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_035f650f70f745e28daa520651518e3a",
+        "date": "2026-11-21",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "挪威女子顶级联赛",
+        "league_id": "asl_f291671fc16749498646a9b7f70a6814",
+        "season": "2026",
+        "home": {
+          "name": "罗阿",
+          "team_id": "ast_320cbdec36874ab89f2dbedc749c8305"
+        },
+        "away": {
+          "name": "阿尔纳-比约纳尔",
+          "team_id": "ast_d75efa020c48425aa52468df2f81857b"
+        },
+        "ht_score": "-",
+        "venue": "Roabanen",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_cb9daec8ba6a4b519b64a0757ad61eed",
+        "date": "2026-11-14",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "挪威女子顶级联赛",
+        "league_id": "asl_f291671fc16749498646a9b7f70a6814",
+        "season": "2026",
+        "home": {
+          "name": "阿尔纳-比约纳尔",
+          "team_id": "ast_d75efa020c48425aa52468df2f81857b"
+        },
+        "away": {
+          "name": "罗阿",
+          "team_id": "ast_320cbdec36874ab89f2dbedc749c8305"
+        },
+        "ht_score": "-",
+        "venue": "阿尔纳体育公园",
+        "status_label": "未开赛"
+      }
+    ]
   },
   "champions": [
     {
@@ -4793,8 +4874,8 @@
     "distinct_title_holders": 2,
     "teams_all_time": 17,
     "standings_rows_current": 12,
-    "matches_current_season": 134,
-    "upcoming_matches": 0
+    "matches_current_season": 136,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

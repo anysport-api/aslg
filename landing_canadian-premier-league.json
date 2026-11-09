@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
@@ -322,6 +322,26 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_5b5dbdfeb54140b680d90b0dff8d4550",
+        "date": "2026-11-21",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "加拿大超级联赛",
+        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
+        "season": "2026",
+        "home": {
+          "name": "骑兵",
+          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
+        },
+        "away": {
+          "name": "渥太华竞技",
+          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
+        },
+        "ht_score": "-",
+        "venue": "ATCO球场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_ac7b1d2110f44551826eccb301ef417c",
         "date": "2026-11-07",
         "time": "18:00",
@@ -339,7 +359,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "Tim Hortons Field",
         "status_label": "完场"
       },
       {
@@ -360,7 +380,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-0",
-        "venue": "",
+        "venue": "ATCO球场",
         "status_label": "完场"
       },
       {
@@ -2758,7 +2778,28 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_5b5dbdfeb54140b680d90b0dff8d4550",
+        "date": "2026-11-21",
+        "time": "20:00",
+        "status": "Not Started",
+        "league": "加拿大超级联赛",
+        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
+        "season": "2026",
+        "home": {
+          "name": "骑兵",
+          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
+        },
+        "away": {
+          "name": "渥太华竞技",
+          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
+        },
+        "ht_score": "-",
+        "venue": "ATCO球场",
+        "status_label": "未开赛"
+      }
+    ]
   },
   "champions": [
     {
@@ -4552,8 +4593,8 @@
     "distinct_title_holders": 3,
     "teams_all_time": 10,
     "standings_rows_current": 8,
-    "matches_current_season": 116,
-    "upcoming_matches": 0
+    "matches_current_season": 117,
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

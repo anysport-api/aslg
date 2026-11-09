@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_12cb75e859aa4779878607b681f351aa",
@@ -142,6 +142,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_e64247344da348b79c87775587568968",
+        "team": "Kubikenborgs",
+        "played": 14,
+        "wins": 11,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 38,
+        "goals_against": 13,
+        "goal_difference": 25,
+        "points": 56,
+        "form": "WWWLW"
+      },
+      {
+        "position": 1,
         "team_id": "ast_51db000df2a54fcf84f9fc819ff43ce2",
         "team": "Friska Viljor",
         "played": 10,
@@ -183,48 +197,6 @@
         "form": "LWWWW"
       },
       {
-        "position": 1,
-        "team_id": "ast_e64247344da348b79c87775587568968",
-        "team": "Kubikenborgs",
-        "played": 14,
-        "wins": 11,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 38,
-        "goals_against": 13,
-        "goal_difference": 25,
-        "points": 56,
-        "form": "WWWLW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6",
-        "team": "Skara",
-        "played": 26,
-        "wins": 18,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 58,
-        "goals_against": 28,
-        "goal_difference": 30,
-        "points": 59,
-        "form": "WWWLW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
-        "team": "Dalstorps",
-        "played": 2,
-        "wins": 1,
-        "draws": 0,
-        "losses": 1,
-        "goals_for": 4,
-        "goals_against": 4,
-        "goal_difference": 0,
-        "points": 3,
-        "form": "LW"
-      },
-      {
         "position": 2,
         "team_id": "ast_58ddae32892a49e98288535cd8f6c4ca",
         "team": "IFK Lulea",
@@ -253,32 +225,46 @@
         "form": "LWLWW"
       },
       {
-        "position": 3,
+        "position": 2,
         "team_id": "ast_ce7c66f0b2094ff5a1bc85d54862c50b",
         "team": "Sleipner",
-        "played": 1,
-        "wins": 0,
+        "played": 2,
+        "wins": 1,
         "draws": 0,
         "losses": 1,
-        "goals_for": 0,
-        "goals_against": 1,
-        "goal_difference": -1,
-        "points": 0,
-        "form": "L"
+        "goals_for": 3,
+        "goals_against": 2,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "WL"
       },
       {
-        "position": 3,
-        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
-        "team": "IFK Trelleborg",
+        "position": 2,
+        "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6",
+        "team": "Skara",
+        "played": 26,
+        "wins": 18,
+        "draws": 5,
+        "losses": 3,
+        "goals_for": 58,
+        "goals_against": 28,
+        "goal_difference": 30,
+        "points": 59,
+        "form": "WWWLW"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
+        "team": "Dalstorps",
         "played": 2,
         "wins": 1,
         "draws": 0,
         "losses": 1,
         "goals_for": 4,
-        "goals_against": 5,
-        "goal_difference": -1,
+        "goals_against": 4,
+        "goal_difference": 0,
         "points": 3,
-        "form": "WL"
+        "form": "LW"
       },
       {
         "position": 3,
@@ -323,6 +309,34 @@
         "form": "WWLDW"
       },
       {
+        "position": 3,
+        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
+        "team": "IFK Trelleborg",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 4,
+        "goals_against": 5,
+        "goal_difference": -1,
+        "points": 3,
+        "form": "WL"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_3acbfea1e61e4ad09726a3d7a4daa836",
+        "team": "Ahlafors IF",
+        "played": 26,
+        "wins": 13,
+        "draws": 7,
+        "losses": 6,
+        "goals_for": 62,
+        "goals_against": 33,
+        "goal_difference": 29,
+        "points": 46,
+        "form": "WLWWL"
+      },
+      {
         "position": 4,
         "team_id": "ast_93feb51b482b4abab40164c07d4e6e1d",
         "team": "IFK Ostersund",
@@ -351,34 +365,6 @@
         "form": "DLWLW"
       },
       {
-        "position": 4,
-        "team_id": "ast_3acbfea1e61e4ad09726a3d7a4daa836",
-        "team": "Ahlafors IF",
-        "played": 26,
-        "wins": 13,
-        "draws": 7,
-        "losses": 6,
-        "goals_for": 62,
-        "goals_against": 33,
-        "goal_difference": 29,
-        "points": 46,
-        "form": "WLWWL"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_666178c739e74745ab16bd5f46ab60e8",
-        "team": "Umea FF",
-        "played": 10,
-        "wins": 4,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 21,
-        "goals_against": 23,
-        "goal_difference": -2,
-        "points": 24,
-        "form": "DLWLL"
-      },
-      {
         "position": 5,
         "team_id": "ast_5d89c3ac04784f0084d85d6dc6630cef",
         "team": "Grebbestad",
@@ -405,6 +391,20 @@
         "goal_difference": -13,
         "points": 40,
         "form": "LLLWW"
+      },
+      {
+        "position": 5,
+        "team_id": "ast_666178c739e74745ab16bd5f46ab60e8",
+        "team": "Umea FF",
+        "played": 10,
+        "wins": 4,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 21,
+        "goals_against": 23,
+        "goal_difference": -2,
+        "points": 24,
+        "form": "DLWLL"
       },
       {
         "position": 6,
@@ -592,6 +592,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_e64247344da348b79c87775587568968",
+        "team": "库比肯堡",
+        "played": 14,
+        "wins": 11,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 38,
+        "goals_against": 13,
+        "goal_difference": 25,
+        "points": 56,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 1,
         "team_id": "ast_51db000df2a54fcf84f9fc819ff43ce2",
         "team": "弗里斯卡维尔约尔",
         "played": 10,
@@ -636,51 +651,6 @@
         "form_label": "负胜胜胜胜"
       },
       {
-        "position": 1,
-        "team_id": "ast_e64247344da348b79c87775587568968",
-        "team": "库比肯堡",
-        "played": 14,
-        "wins": 11,
-        "draws": 0,
-        "losses": 3,
-        "goals_for": 38,
-        "goals_against": 13,
-        "goal_difference": 25,
-        "points": 56,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6",
-        "team": "斯卡拉",
-        "played": 26,
-        "wins": 18,
-        "draws": 5,
-        "losses": 3,
-        "goals_for": 58,
-        "goals_against": 28,
-        "goal_difference": 30,
-        "points": 59,
-        "form": "WWWLW",
-        "form_label": "胜胜胜负胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
-        "team": "达尔斯托普斯",
-        "played": 2,
-        "wins": 1,
-        "draws": 0,
-        "losses": 1,
-        "goals_for": 4,
-        "goals_against": 4,
-        "goal_difference": 0,
-        "points": 3,
-        "form": "LW",
-        "form_label": "负胜"
-      },
-      {
         "position": 2,
         "team_id": "ast_58ddae32892a49e98288535cd8f6c4ca",
         "team": "IFK吕勒奥",
@@ -711,34 +681,49 @@
         "form_label": "负胜负胜胜"
       },
       {
-        "position": 3,
+        "position": 2,
         "team_id": "ast_ce7c66f0b2094ff5a1bc85d54862c50b",
         "team": "斯莱普尼尔",
-        "played": 1,
-        "wins": 0,
+        "played": 2,
+        "wins": 1,
         "draws": 0,
         "losses": 1,
-        "goals_for": 0,
-        "goals_against": 1,
-        "goal_difference": -1,
-        "points": 0,
-        "form": "L",
-        "form_label": "负"
+        "goals_for": 3,
+        "goals_against": 2,
+        "goal_difference": 1,
+        "points": 3,
+        "form": "WL",
+        "form_label": "胜负"
       },
       {
-        "position": 3,
-        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
-        "team": "IFK特雷勒堡",
+        "position": 2,
+        "team_id": "ast_c58af1ed69b94bfd9c42b8ae2bba56f6",
+        "team": "斯卡拉",
+        "played": 26,
+        "wins": 18,
+        "draws": 5,
+        "losses": 3,
+        "goals_for": 58,
+        "goals_against": 28,
+        "goal_difference": 30,
+        "points": 59,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 2,
+        "team_id": "ast_5cd9851a6d874f0bb5d1b118f352a01e",
+        "team": "达尔斯托普斯",
         "played": 2,
         "wins": 1,
         "draws": 0,
         "losses": 1,
         "goals_for": 4,
-        "goals_against": 5,
-        "goal_difference": -1,
+        "goals_against": 4,
+        "goal_difference": 0,
         "points": 3,
-        "form": "WL",
-        "form_label": "胜负"
+        "form": "LW",
+        "form_label": "负胜"
       },
       {
         "position": 3,
@@ -786,6 +771,36 @@
         "form_label": "胜胜负平胜"
       },
       {
+        "position": 3,
+        "team_id": "ast_410f783fedec4d48960b4f6bbf38321c",
+        "team": "IFK特雷勒堡",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 4,
+        "goals_against": 5,
+        "goal_difference": -1,
+        "points": 3,
+        "form": "WL",
+        "form_label": "胜负"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_3acbfea1e61e4ad09726a3d7a4daa836",
+        "team": "阿赫拉福斯IF",
+        "played": 26,
+        "wins": 13,
+        "draws": 7,
+        "losses": 6,
+        "goals_for": 62,
+        "goals_against": 33,
+        "goal_difference": 29,
+        "points": 46,
+        "form": "WLWWL",
+        "form_label": "胜负胜胜负"
+      },
+      {
         "position": 4,
         "team_id": "ast_93feb51b482b4abab40164c07d4e6e1d",
         "team": "IFK厄斯特松德",
@@ -816,36 +831,6 @@
         "form_label": "平负胜负胜"
       },
       {
-        "position": 4,
-        "team_id": "ast_3acbfea1e61e4ad09726a3d7a4daa836",
-        "team": "阿赫拉福斯IF",
-        "played": 26,
-        "wins": 13,
-        "draws": 7,
-        "losses": 6,
-        "goals_for": 62,
-        "goals_against": 33,
-        "goal_difference": 29,
-        "points": 46,
-        "form": "WLWWL",
-        "form_label": "胜负胜胜负"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_666178c739e74745ab16bd5f46ab60e8",
-        "team": "乌梅亚FF",
-        "played": 10,
-        "wins": 4,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 21,
-        "goals_against": 23,
-        "goal_difference": -2,
-        "points": 24,
-        "form": "DLWLL",
-        "form_label": "平负胜负负"
-      },
-      {
         "position": 5,
         "team_id": "ast_5d89c3ac04784f0084d85d6dc6630cef",
         "team": "格雷比斯塔德",
@@ -874,6 +859,21 @@
         "points": 40,
         "form": "LLLWW",
         "form_label": "负负负胜胜"
+      },
+      {
+        "position": 5,
+        "team_id": "ast_666178c739e74745ab16bd5f46ab60e8",
+        "team": "乌梅亚FF",
+        "played": 10,
+        "wins": 4,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 21,
+        "goals_against": 23,
+        "goal_difference": -2,
+        "points": 24,
+        "form": "DLWLL",
+        "form_label": "平负胜负负"
       },
       {
         "position": 6,
@@ -1093,7 +1093,7 @@
         "match_id": "as_48aaa584c0974d93a00aa66ede335e49",
         "date": "2026-11-08",
         "time": "13:30",
-        "status": "13:30",
+        "status": "FT",
         "league": "瑞典乙级联赛",
         "league_id": "asl_12cb75e859aa4779878607b681f351aa",
         "season": "2026",
@@ -1105,7 +1105,10 @@
           "name": "IFK吕勒奥",
           "team_id": "ast_58ddae32892a49e98288535cd8f6c4ca"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_96d3676b566f4d71aaaea8b97b64d4d0",
@@ -24273,26 +24276,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_48aaa584c0974d93a00aa66ede335e49",
-        "date": "2026-11-08",
-        "time": "13:30",
-        "status": "13:30",
-        "league": "瑞典乙级联赛",
-        "league_id": "asl_12cb75e859aa4779878607b681f351aa",
-        "season": "2026",
-        "home": {
-          "name": "斯莱普尼尔",
-          "team_id": "ast_ce7c66f0b2094ff5a1bc85d54862c50b"
-        },
-        "away": {
-          "name": "IFK吕勒奥",
-          "team_id": "ast_58ddae32892a49e98288535cd8f6c4ca"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -32106,10 +32090,10 @@
     }
   },
   "stats": {
-    "matches_completed": 1103,
-    "total_goals": 3747,
+    "matches_completed": 1104,
+    "total_goals": 3751,
     "avg_goals_per_match": 3.4,
-    "home_wins": 493,
+    "home_wins": 494,
     "draws": 219,
     "away_wins": 391,
     "home_win_pct": 44.7,
@@ -32138,9 +32122,9 @@
       }
     },
     "leader": {
-      "team": "Friska Viljor",
-      "points": 34,
-      "played": 10
+      "team": "Kubikenborgs",
+      "points": 56,
+      "played": 14
     }
   },
   "coverage": {
@@ -32235,6 +32219,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_e64247344da348b79c87775587568968",
+            "team": "Kubikenborgs",
+            "played": 14,
+            "wins": 11,
+            "draws": 0,
+            "losses": 3,
+            "goals_for": 38,
+            "goals_against": 13,
+            "goal_difference": 25,
+            "points": 56,
+            "form": "WWWLW"
+          },
+          {
+            "position": 1,
             "team_id": "ast_51db000df2a54fcf84f9fc819ff43ce2",
             "team": "Friska Viljor",
             "played": 10,
@@ -32260,20 +32258,6 @@
             "goal_difference": 1,
             "points": 4,
             "form": "WD"
-          },
-          {
-            "position": 1,
-            "team_id": "ast_f6dbdbe1662d4751a0c8f460c82346c4",
-            "team": "Husqvarna",
-            "played": 26,
-            "wins": 21,
-            "draws": 3,
-            "losses": 2,
-            "goals_for": 59,
-            "goals_against": 20,
-            "goal_difference": 39,
-            "points": 66,
-            "form": "LWWWW"
           }
         ],
         "meta": {
@@ -32872,7 +32856,7 @@
     "teams_all_time": 167,
     "standings_rows_current": 32,
     "matches_current_season": 1104,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

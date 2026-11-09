@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
@@ -178,6 +178,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
+        "team": "Dynamos",
+        "played": 33,
+        "wins": 13,
+        "draws": 16,
+        "losses": 4,
+        "goals_for": 42,
+        "goals_against": 24,
+        "goal_difference": 18,
+        "points": 55,
+        "form": "WDLDW"
+      },
+      {
+        "position": 5,
         "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
         "team": "CAPS Utd",
         "played": 33,
@@ -189,20 +203,6 @@
         "goal_difference": 11,
         "points": 54,
         "form": "WLWDW"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
-        "team": "Dynamos",
-        "played": 32,
-        "wins": 12,
-        "draws": 16,
-        "losses": 4,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
-        "points": 52,
-        "form": "DLDWD"
       },
       {
         "position": 6,
@@ -264,15 +264,15 @@
         "position": 10,
         "team_id": "ast_e260138477464ca9bd4d505d46f508d3",
         "team": "Highlanders",
-        "played": 32,
+        "played": 33,
         "wins": 9,
-        "draws": 17,
+        "draws": 18,
         "losses": 6,
-        "goals_for": 27,
-        "goals_against": 23,
+        "goals_for": 29,
+        "goals_against": 25,
         "goal_difference": 4,
-        "points": 44,
-        "form": "DDLLD"
+        "points": 45,
+        "form": "DDDLL"
       },
       {
         "position": 11,
@@ -361,29 +361,29 @@
         "position": 17,
         "team_id": "ast_488be09cf3864b5d8ed0a1bbf585bfc9",
         "team": "TelOne",
-        "played": 32,
+        "played": 33,
         "wins": 4,
-        "draws": 10,
+        "draws": 11,
         "losses": 18,
-        "goals_for": 24,
-        "goals_against": 48,
+        "goals_for": 26,
+        "goals_against": 50,
         "goal_difference": -24,
-        "points": 22,
-        "form": "LLDDL"
+        "points": 23,
+        "form": "DLLDD"
       },
       {
         "position": 18,
         "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0",
         "team": "Manica",
-        "played": 32,
+        "played": 33,
         "wins": 4,
         "draws": 9,
-        "losses": 19,
+        "losses": 20,
         "goals_for": 14,
-        "goals_against": 45,
-        "goal_difference": -31,
+        "goals_against": 46,
+        "goal_difference": -32,
         "points": 21,
-        "form": "LDDLL"
+        "form": "LLDDL"
       }
     ],
     "zh": [
@@ -434,6 +434,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
+        "team": "迪纳摩斯",
+        "played": 33,
+        "wins": 13,
+        "draws": 16,
+        "losses": 4,
+        "goals_for": 42,
+        "goals_against": 24,
+        "goal_difference": 18,
+        "points": 55,
+        "form": "WDLDW",
+        "form_label": "胜平负平胜"
+      },
+      {
+        "position": 5,
         "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
         "team": "CAPS联队",
         "played": 33,
@@ -446,21 +461,6 @@
         "points": 54,
         "form": "WLWDW",
         "form_label": "胜负胜平胜"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
-        "team": "迪纳摩斯",
-        "played": 32,
-        "wins": 12,
-        "draws": 16,
-        "losses": 4,
-        "goals_for": 41,
-        "goals_against": 24,
-        "goal_difference": 17,
-        "points": 52,
-        "form": "DLDWD",
-        "form_label": "平负平胜平"
       },
       {
         "position": 6,
@@ -526,16 +526,16 @@
         "position": 10,
         "team_id": "ast_e260138477464ca9bd4d505d46f508d3",
         "team": "高地人",
-        "played": 32,
+        "played": 33,
         "wins": 9,
-        "draws": 17,
+        "draws": 18,
         "losses": 6,
-        "goals_for": 27,
-        "goals_against": 23,
+        "goals_for": 29,
+        "goals_against": 25,
         "goal_difference": 4,
-        "points": 44,
-        "form": "DDLLD",
-        "form_label": "平平负负平"
+        "points": 45,
+        "form": "DDDLL",
+        "form_label": "平平平负负"
       },
       {
         "position": 11,
@@ -630,31 +630,31 @@
         "position": 17,
         "team_id": "ast_488be09cf3864b5d8ed0a1bbf585bfc9",
         "team": "电信一号",
-        "played": 32,
+        "played": 33,
         "wins": 4,
-        "draws": 10,
+        "draws": 11,
         "losses": 18,
-        "goals_for": 24,
-        "goals_against": 48,
+        "goals_for": 26,
+        "goals_against": 50,
         "goal_difference": -24,
-        "points": 22,
-        "form": "LLDDL",
-        "form_label": "负负平平负"
+        "points": 23,
+        "form": "DLLDD",
+        "form_label": "平负负平平"
       },
       {
         "position": 18,
         "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0",
         "team": "马尼卡",
-        "played": 32,
+        "played": 33,
         "wins": 4,
         "draws": 9,
-        "losses": 19,
+        "losses": 20,
         "goals_for": 14,
-        "goals_against": 45,
-        "goal_difference": -31,
+        "goals_against": 46,
+        "goal_difference": -32,
         "points": 21,
-        "form": "LDDLL",
-        "form_label": "负平平负负"
+        "form": "LLDDL",
+        "form_label": "负负平平负"
       }
     ]
   },
@@ -679,7 +679,7 @@
         "match_id": "as_af2d508b0ab54676b4eca26a7fcf604a",
         "date": "2026-11-08",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -691,13 +691,16 @@
           "name": "马尼卡",
           "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b8c70b81acb344308cf74df311b0c7b2",
         "date": "2026-11-08",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -709,7 +712,10 @@
           "name": "电信一号",
           "team_id": "ast_488be09cf3864b5d8ed0a1bbf585bfc9"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e8577dd3a3b7481ca06cc19d6b5b4009",
@@ -6907,44 +6913,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_b8c70b81acb344308cf74df311b0c7b2",
-        "date": "2026-11-08",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "高地人",
-          "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
-        },
-        "away": {
-          "name": "电信一号",
-          "team_id": "ast_488be09cf3864b5d8ed0a1bbf585bfc9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_af2d508b0ab54676b4eca26a7fcf604a",
-        "date": "2026-11-08",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "迪纳摩斯",
-          "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873"
-        },
-        "away": {
-          "name": "马尼卡",
-          "team_id": "ast_835582b48eec4406a9bf3ba5fae616e0"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -9276,13 +9245,13 @@
     }
   },
   "stats": {
-    "matches_completed": 295,
-    "total_goals": 561,
-    "avg_goals_per_match": 1.9,
-    "home_wins": 106,
-    "draws": 105,
+    "matches_completed": 297,
+    "total_goals": 566,
+    "avg_goals_per_match": 1.91,
+    "home_wins": 107,
+    "draws": 106,
     "away_wins": 84,
-    "home_win_pct": 35.9,
+    "home_win_pct": 36.0,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10005,7 +9974,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 297,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

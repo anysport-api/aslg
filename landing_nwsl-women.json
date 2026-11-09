@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_cc4a219a68b94190a89693055df4317d",
@@ -557,7 +557,7 @@
         "match_id": "as_0733485e2e2a4d94b8dbc4487356f833",
         "date": "2026-11-08",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -569,13 +569,16 @@
           "name": "西雅图雷恩女足",
           "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1511237a606c425bb6e1c77120d8b70c",
         "date": "2026-11-08",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -587,7 +590,10 @@
           "name": "波特兰荆棘",
           "team_id": "ast_e19fd8cfd77942559f8156bcb9b66ec4"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "4-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8d5e7ba4181b453d88ac373e56e76759",
@@ -607,7 +613,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "骁龙体育场",
         "status_label": "完场"
       },
       {
@@ -629,7 +635,7 @@
         "ht_score": "0-0",
         "reg_score": "0-0",
         "et_score": "1-0",
-        "venue": "",
+        "venue": "CPKC球场",
         "status_label": "加时赛后结束"
       },
       {
@@ -5673,44 +5679,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_1511237a606c425bb6e1c77120d8b70c",
-        "date": "2026-11-08",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "华盛顿精神女足",
-          "team_id": "ast_f7e6993871a4493ba90c0e184564a687"
-        },
-        "away": {
-          "name": "波特兰荆棘",
-          "team_id": "ast_e19fd8cfd77942559f8156bcb9b66ec4"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0733485e2e2a4d94b8dbc4487356f833",
-        "date": "2026-11-08",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "哥谭女足",
-          "team_id": "ast_d7fc8b26b0c445259a29da45d82bcd0a"
-        },
-        "away": {
-          "name": "西雅图雷恩女足",
-          "team_id": "ast_1acca9d01e3e4c73b00342d961050ea0"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -6857,13 +6826,13 @@
     }
   },
   "stats": {
-    "matches_completed": 242,
-    "total_goals": 675,
+    "matches_completed": 244,
+    "total_goals": 681,
     "avg_goals_per_match": 2.79,
-    "home_wins": 111,
+    "home_wins": 113,
     "draws": 42,
     "away_wins": 89,
-    "home_win_pct": 45.9,
+    "home_win_pct": 46.3,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7679,7 +7648,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 244,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }

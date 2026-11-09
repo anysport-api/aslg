@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
@@ -641,7 +641,7 @@
         "match_id": "as_6430b932bfac43c4a35ffdfc1cc74f3a",
         "date": "2026-11-09",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -653,7 +653,10 @@
           "name": "坎昆",
           "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_617a8066235a4a6fa1fc169e260e1807",
@@ -701,7 +704,7 @@
         "match_id": "as_322507965ae24c65bce5effd82ffaff5",
         "date": "2026-11-08",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -713,7 +716,10 @@
           "name": "杜兰戈阿拉克兰斯",
           "team_id": "ast_e124e8f0060149b596865fb9feb1cdc3"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1d9dcddf078643fdadff34e990613853",
@@ -3325,7 +3331,7 @@
         "match_id": "as_6430b932bfac43c4a35ffdfc1cc74f3a",
         "date": "2026-11-09",
         "time": "01:00",
-        "status": "01:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3337,65 +3343,8 @@
           "name": "坎昆",
           "team_id": "ast_23865cd1d78c49ae927cdce302a14d1d"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_322507965ae24c65bce5effd82ffaff5",
-        "date": "2026-11-08",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "黑狮队UdeG",
-          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
-        },
-        "away": {
-          "name": "杜兰戈阿拉克兰斯",
-          "team_id": "ast_e124e8f0060149b596865fb9feb1cdc3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ffcbca78ef7c47e584e71b85d081dd07",
-        "date": "2026-11-08",
-        "time": "01:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "莫雷利亚竞技",
-          "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
-        },
-        "away": {
-          "name": "维纳多斯",
-          "team_id": "ast_4895b318140c4a23a33c95ccca00ed22"
-        },
         "ht_score": "1-1",
-        "reg_score": "2-1",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_617a8066235a4a6fa1fc169e260e1807",
-        "date": "2026-11-08",
-        "time": "03:05",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "拉巴斯竞技",
-          "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
-        },
-        "away": {
-          "name": "特拉斯卡拉",
-          "team_id": "ast_459c1549712c47b3959abd4c70e97f89"
-        },
-        "ht_score": "2-0",
-        "reg_score": "3-3",
+        "reg_score": "1-1",
         "venue": "",
         "status_label": "完场"
       }
@@ -5472,11 +5421,11 @@
     }
   },
   "stats": {
-    "matches_completed": 126,
-    "total_goals": 401,
-    "avg_goals_per_match": 3.18,
-    "home_wins": 61,
-    "draws": 28,
+    "matches_completed": 128,
+    "total_goals": 406,
+    "avg_goals_per_match": 3.17,
+    "home_wins": 62,
+    "draws": 29,
     "away_wins": 37,
     "home_win_pct": 48.4,
     "biggest_win": {
@@ -6276,7 +6225,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 128,
-    "upcoming_matches": 4
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/08"
+  "updated_at": "2026/11/09"
 }
