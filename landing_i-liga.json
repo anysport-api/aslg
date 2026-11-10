@@ -250,6 +250,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816",
+        "team": "L. Mikulas",
+        "played": 16,
+        "wins": 7,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 26,
+        "goals_against": 18,
+        "goal_difference": 8,
+        "points": 25,
+        "form": "WWLWL"
+      },
+      {
+        "position": 8,
         "team_id": "ast_5840142cc7714654ad901c71fe019139",
         "team": "I. Bratislava",
         "played": 16,
@@ -263,7 +277,7 @@
         "form": "WLDDW"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
         "team": "Zilina B",
         "played": 16,
@@ -275,20 +289,6 @@
         "goal_difference": 2,
         "points": 24,
         "form": "LLWDL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816",
-        "team": "L. Mikulas",
-        "played": 15,
-        "wins": 6,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 22,
-        "goals_against": 18,
-        "goal_difference": 4,
-        "points": 22,
-        "form": "WLWLW"
       },
       {
         "position": 10,
@@ -378,15 +378,15 @@
         "position": 16,
         "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e",
         "team": "MFK Bytca",
-        "played": 15,
+        "played": 16,
         "wins": 3,
         "draws": 0,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 14,
-        "goals_against": 41,
-        "goal_difference": -27,
+        "goals_against": 45,
+        "goal_difference": -31,
         "points": 9,
-        "form": "LLLWL"
+        "form": "LLLLW"
       }
     ],
     "zh": [
@@ -482,6 +482,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816",
+        "team": "L. 米库拉什",
+        "played": 16,
+        "wins": 7,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 26,
+        "goals_against": 18,
+        "goal_difference": 8,
+        "points": 25,
+        "form": "WWLWL",
+        "form_label": "胜胜负胜负"
+      },
+      {
+        "position": 8,
         "team_id": "ast_5840142cc7714654ad901c71fe019139",
         "team": "布拉迪斯拉发I队",
         "played": 16,
@@ -496,7 +511,7 @@
         "form_label": "胜负平平胜"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_03de54b888154cd9a67cfa8cbefee450",
         "team": "日利纳B队",
         "played": 16,
@@ -509,21 +524,6 @@
         "points": 24,
         "form": "LLWDL",
         "form_label": "负负胜平负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816",
-        "team": "L. 米库拉什",
-        "played": 15,
-        "wins": 6,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 22,
-        "goals_against": 18,
-        "goal_difference": 4,
-        "points": 22,
-        "form": "WLWLW",
-        "form_label": "胜负胜负胜"
       },
       {
         "position": 10,
@@ -619,16 +619,16 @@
         "position": 16,
         "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e",
         "team": "MFK 比特察",
-        "played": 15,
+        "played": 16,
         "wins": 3,
         "draws": 0,
-        "losses": 12,
+        "losses": 13,
         "goals_for": 14,
-        "goals_against": 41,
-        "goal_difference": -27,
+        "goals_against": 45,
+        "goal_difference": -31,
         "points": 9,
-        "form": "LLLWL",
-        "form_label": "负负负胜负"
+        "form": "LLLLW",
+        "form_label": "负负负负胜"
       }
     ]
   },
@@ -2893,7 +2893,7 @@
         "match_id": "as_cc226f8d074f41b5b8555d23bcea19a5",
         "date": "2026-11-09",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -2905,7 +2905,10 @@
           "name": "MFK 比特察",
           "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4145dfc6cb9e409e8464d4119fe3fd65",
@@ -5735,24 +5738,6 @@
         "ht_score": "-",
         "venue": "Humenne Football Stadium",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_cc226f8d074f41b5b8555d23bcea19a5",
-        "date": "2026-11-09",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "L. 米库拉什",
-          "team_id": "ast_7646d94e24e7420ca5d6f7a639e4e816"
-        },
-        "away": {
-          "name": "MFK 比特察",
-          "team_id": "ast_7bf71699f48c4f39a8af3aa8b3db936e"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7851,13 +7836,13 @@
     }
   },
   "stats": {
-    "matches_completed": 127,
-    "total_goals": 376,
-    "avg_goals_per_match": 2.96,
-    "home_wins": 61,
+    "matches_completed": 128,
+    "total_goals": 380,
+    "avg_goals_per_match": 2.97,
+    "home_wins": 62,
     "draws": 28,
     "away_wins": 38,
-    "home_win_pct": 48.0,
+    "home_win_pct": 48.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8655,7 +8640,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 9
+    "upcoming_matches": 8
   },
-  "updated_at": "2026/11/09"
+  "updated_at": "2026/11/10"
 }

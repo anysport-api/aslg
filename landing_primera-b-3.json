@@ -220,29 +220,29 @@
         "position": 3,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "U. Magdalena",
-        "played": 3,
+        "played": 4,
         "wins": 0,
-        "draws": 3,
+        "draws": 4,
         "losses": 0,
         "goals_for": 3,
         "goals_against": 3,
         "goal_difference": 0,
-        "points": 3,
-        "form": "DDD"
+        "points": 4,
+        "form": "DDDD"
       },
       {
         "position": 4,
         "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
         "team": "Ind. Valle del Cauca",
-        "played": 3,
+        "played": 4,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
         "goals_for": 3,
         "goals_against": 7,
         "goal_difference": -4,
-        "points": 1,
-        "form": "DLL"
+        "points": 2,
+        "form": "DDLL"
       },
       {
         "position": 4,
@@ -302,6 +302,7 @@
       },
       {
         "position": 12,
+        "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6",
         "team": "Patriotas",
         "played": 15,
         "wins": 5,
@@ -450,31 +451,31 @@
         "position": 3,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "马格达莱纳大学",
-        "played": 3,
+        "played": 4,
         "wins": 0,
-        "draws": 3,
+        "draws": 4,
         "losses": 0,
         "goals_for": 3,
         "goals_against": 3,
         "goal_difference": 0,
-        "points": 3,
-        "form": "DDD",
-        "form_label": "平平平"
+        "points": 4,
+        "form": "DDDD",
+        "form_label": "平平平平"
       },
       {
         "position": 4,
         "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
         "team": "尤姆博独立",
-        "played": 3,
+        "played": 4,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
         "goals_for": 3,
         "goals_against": 7,
         "goal_difference": -4,
-        "points": 1,
-        "form": "DLL",
-        "form_label": "平负负"
+        "points": 2,
+        "form": "DDLL",
+        "form_label": "平平负负"
       },
       {
         "position": 4,
@@ -538,7 +539,8 @@
       },
       {
         "position": 12,
-        "team": "阿帕雷西达",
+        "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6",
+        "team": "爱国者",
         "played": 15,
         "wins": 5,
         "draws": 3,
@@ -733,7 +735,7 @@
         "match_id": "as_0fd19df694864798af48412213482d60",
         "date": "2026-11-11",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -745,9 +747,7 @@
           "name": "卡塔赫纳",
           "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
         },
-        "ht_score": "-",
-        "venue": "Estadio Municipal de Mosquera",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4981529116be47e9aaa36053b54b9c90",
@@ -791,7 +791,7 @@
         "match_id": "as_813fec0edd324ab289a2933e2a2196c0",
         "date": "2026-11-11",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -803,15 +803,13 @@
           "name": "尤姆博独立",
           "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c6b05bc905d745eea77a4a2e92cd68e1",
         "date": "2026-11-11",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -823,9 +821,7 @@
           "name": "马格达莱纳大学",
           "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
         },
-        "ht_score": "-",
-        "venue": "南部多功能体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7c6a58b582714d52b4441573280ae0d5",
@@ -849,7 +845,7 @@
         "match_id": "as_4e37b186a44640c2a6373e471087d717",
         "date": "2026-11-09",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -861,7 +857,10 @@
           "name": "马格达莱纳大学",
           "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_87917b9db7714f7aafac5757f906d441",
@@ -6807,7 +6806,7 @@
         "match_id": "as_c6b05bc905d745eea77a4a2e92cd68e1",
         "date": "2026-11-11",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6819,15 +6818,13 @@
           "name": "马格达莱纳大学",
           "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
         },
-        "ht_score": "-",
-        "venue": "南部多功能体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_813fec0edd324ab289a2933e2a2196c0",
         "date": "2026-11-11",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6839,9 +6836,7 @@
           "name": "尤姆博独立",
           "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_31d52ee94d7649ce940ab2f16fb01f01",
@@ -6885,7 +6880,7 @@
         "match_id": "as_0fd19df694864798af48412213482d60",
         "date": "2026-11-11",
         "time": "23:00",
-        "status": "Not Started",
+        "status": "23:00",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6897,9 +6892,7 @@
           "name": "卡塔赫纳",
           "team_id": "ast_3560427e4dc34e6c9278a287e0074a54"
         },
-        "ht_score": "-",
-        "venue": "Estadio Municipal de Mosquera",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7c6a58b582714d52b4441573280ae0d5",
@@ -6916,24 +6909,6 @@
         "away": {
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4e37b186a44640c2a6373e471087d717",
-        "date": "2026-11-09",
-        "time": "20:30",
-        "status": "20:30",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "尤姆博独立",
-          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
-        },
-        "away": {
-          "name": "马格达莱纳大学",
-          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
         },
         "venue": ""
       }
@@ -11500,13 +11475,13 @@
     }
   },
   "stats": {
-    "matches_completed": 278,
+    "matches_completed": 279,
     "total_goals": 606,
-    "avg_goals_per_match": 2.18,
+    "avg_goals_per_match": 2.17,
     "home_wins": 102,
-    "draws": 91,
+    "draws": 92,
     "away_wins": 85,
-    "home_win_pct": 36.7,
+    "home_win_pct": 36.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12304,7 +12279,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 290,
-    "upcoming_matches": 12
+    "upcoming_matches": 11
   },
-  "updated_at": "2026/11/09"
+  "updated_at": "2026/11/10"
 }

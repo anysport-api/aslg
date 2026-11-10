@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_cc4a219a68b94190a89693055df4317d",
@@ -554,6 +554,46 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_064c1687aa984a1398be983381cfbef2",
+        "date": "2026-11-13",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "美国NWSL女足联赛",
+        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
+        "season": "2026",
+        "home": {
+          "name": "哥谭女足",
+          "team_id": "ast_d7fc8b26b0c445259a29da45d82bcd0a"
+        },
+        "away": {
+          "name": "堪萨斯城当前女足",
+          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
+        },
+        "ht_score": "-",
+        "venue": "《体育画报》体育场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_af7f37b98b4142708044c7baa205ec1b",
+        "date": "2026-11-13",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "美国NWSL女足联赛",
+        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
+        "season": "2026",
+        "home": {
+          "name": "犹他皇家女足",
+          "team_id": "ast_573fa1501b2e4eb29b903455eeb6ad06"
+        },
+        "away": {
+          "name": "华盛顿精神女足",
+          "team_id": "ast_f7e6993871a4493ba90c0e184564a687"
+        },
+        "ht_score": "-",
+        "venue": "美国第一球场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_0733485e2e2a4d94b8dbc4487356f833",
         "date": "2026-11-08",
         "time": "17:30",
@@ -571,7 +611,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "《体育画报》体育场",
         "status_label": "完场"
       },
       {
@@ -592,7 +632,7 @@
         },
         "ht_score": "3-0",
         "reg_score": "4-1",
-        "venue": "",
+        "venue": "奥迪球场",
         "status_label": "完场"
       },
       {
@@ -5679,7 +5719,48 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_af7f37b98b4142708044c7baa205ec1b",
+        "date": "2026-11-13",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "美国NWSL女足联赛",
+        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
+        "season": "2026",
+        "home": {
+          "name": "犹他皇家女足",
+          "team_id": "ast_573fa1501b2e4eb29b903455eeb6ad06"
+        },
+        "away": {
+          "name": "华盛顿精神女足",
+          "team_id": "ast_f7e6993871a4493ba90c0e184564a687"
+        },
+        "ht_score": "-",
+        "venue": "美国第一球场",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_064c1687aa984a1398be983381cfbef2",
+        "date": "2026-11-13",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "美国NWSL女足联赛",
+        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
+        "season": "2026",
+        "home": {
+          "name": "哥谭女足",
+          "team_id": "ast_d7fc8b26b0c445259a29da45d82bcd0a"
+        },
+        "away": {
+          "name": "堪萨斯城当前女足",
+          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
+        },
+        "ht_score": "-",
+        "venue": "《体育画报》体育场",
+        "status_label": "未开赛"
+      }
+    ]
   },
   "champions": [
     {
@@ -7647,8 +7728,8 @@
     "distinct_title_holders": 4,
     "teams_all_time": 16,
     "standings_rows_current": 16,
-    "matches_current_season": 244,
-    "upcoming_matches": 0
+    "matches_current_season": 246,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/09"
+  "updated_at": "2026/11/10"
 }

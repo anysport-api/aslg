@@ -202,15 +202,15 @@
         "position": 6,
         "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec",
         "team": "Aurora",
-        "played": 24,
+        "played": 25,
         "wins": 8,
-        "draws": 11,
+        "draws": 12,
         "losses": 5,
-        "goals_for": 35,
-        "goals_against": 31,
+        "goals_for": 36,
+        "goals_against": 32,
         "goal_difference": 4,
-        "points": 35,
-        "form": "DWLDL"
+        "points": 36,
+        "form": "DDWLD"
       },
       {
         "position": 7,
@@ -314,15 +314,15 @@
         "position": 14,
         "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67",
         "team": "Universitario de Vinto",
-        "played": 24,
+        "played": 25,
         "wins": 6,
-        "draws": 3,
+        "draws": 4,
         "losses": 15,
-        "goals_for": 31,
-        "goals_against": 48,
+        "goals_for": 32,
+        "goals_against": 49,
         "goal_difference": -17,
-        "points": 21,
-        "form": "LLWLD"
+        "points": 22,
+        "form": "DLLWL"
       },
       {
         "position": 15,
@@ -433,16 +433,16 @@
         "position": 6,
         "team_id": "ast_1b6a726a513e4d2b96a4242adeb555ec",
         "team": "极光",
-        "played": 24,
+        "played": 25,
         "wins": 8,
-        "draws": 11,
+        "draws": 12,
         "losses": 5,
-        "goals_for": 35,
-        "goals_against": 31,
+        "goals_for": 36,
+        "goals_against": 32,
         "goal_difference": 4,
-        "points": 35,
-        "form": "DWLDL",
-        "form_label": "平胜负平负"
+        "points": 36,
+        "form": "DDWLD",
+        "form_label": "平平胜负平"
       },
       {
         "position": 7,
@@ -553,16 +553,16 @@
         "position": 14,
         "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67",
         "team": "温托大学生队",
-        "played": 24,
+        "played": 25,
         "wins": 6,
-        "draws": 3,
+        "draws": 4,
         "losses": 15,
-        "goals_for": 31,
-        "goals_against": 48,
+        "goals_for": 32,
+        "goals_against": 49,
         "goal_difference": -17,
-        "points": 21,
-        "form": "LLWLD",
-        "form_label": "负负胜负平"
+        "points": 22,
+        "form": "DLLWL",
+        "form_label": "平负负胜负"
       },
       {
         "position": 15,
@@ -1097,7 +1097,7 @@
         "match_id": "as_1f7235b3cc004aecbef7cd54170a1016",
         "date": "2026-11-10",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -1109,7 +1109,10 @@
           "name": "温托大学生队",
           "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_39938ff601c64f5388a22aea2fa99b99",
@@ -1150,7 +1153,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "埃尔南多·西莱斯体育场",
         "status_label": "完场"
       },
       {
@@ -1234,7 +1237,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "5-1",
-        "venue": "",
+        "venue": "吉尔伯托·帕拉达体育场",
         "status_label": "完场"
       },
       {
@@ -5776,7 +5779,7 @@
         "match_id": "as_1f7235b3cc004aecbef7cd54170a1016",
         "date": "2026-11-10",
         "time": "00:30",
-        "status": "00:30",
+        "status": "FT",
         "league": "玻利维亚甲级联赛",
         "league_id": "asl_a343256bd12c4c1482e32ac6f9bfff2d",
         "season": "2026",
@@ -5788,7 +5791,10 @@
           "name": "温托大学生队",
           "team_id": "ast_c90529dbbac74581b96ad5c8c499ac67"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7824,13 +7830,13 @@
     }
   },
   "stats": {
-    "matches_completed": 199,
-    "total_goals": 605,
+    "matches_completed": 200,
+    "total_goals": 607,
     "avg_goals_per_match": 3.04,
     "home_wins": 99,
-    "draws": 47,
+    "draws": 48,
     "away_wins": 53,
-    "home_win_pct": 49.7,
+    "home_win_pct": 49.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8648,5 +8654,5 @@
     "matches_current_season": 224,
     "upcoming_matches": 25
   },
-  "updated_at": "2026/11/09"
+  "updated_at": "2026/11/10"
 }

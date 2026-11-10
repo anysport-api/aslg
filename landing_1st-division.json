@@ -216,15 +216,15 @@
         "position": 1,
         "team_id": "ast_3eb1c88e0fd04666b51c690cbe031183",
         "team": "Hvidovre IF",
-        "played": 13,
-        "wins": 8,
+        "played": 14,
+        "wins": 9,
         "draws": 5,
         "losses": 0,
-        "goals_for": 24,
+        "goals_for": 27,
         "goals_against": 13,
-        "goal_difference": 11,
-        "points": 29,
-        "form": "DDWWW"
+        "goal_difference": 14,
+        "points": 32,
+        "form": "WDDWW"
       },
       {
         "position": 2,
@@ -272,15 +272,15 @@
         "position": 5,
         "team_id": "ast_7b2cb4ee7d694da6be87614138260619",
         "team": "Aarhus Fremad",
-        "played": 13,
+        "played": 14,
         "wins": 4,
         "draws": 6,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 12,
-        "goals_against": 11,
-        "goal_difference": 1,
+        "goals_against": 14,
+        "goal_difference": -2,
         "points": 18,
-        "form": "WDDLL"
+        "form": "LWDDL"
       },
       {
         "position": 6,
@@ -386,16 +386,16 @@
         "position": 1,
         "team_id": "ast_3eb1c88e0fd04666b51c690cbe031183",
         "team": "赫维多夫IF",
-        "played": 13,
-        "wins": 8,
+        "played": 14,
+        "wins": 9,
         "draws": 5,
         "losses": 0,
-        "goals_for": 24,
+        "goals_for": 27,
         "goals_against": 13,
-        "goal_difference": 11,
-        "points": 29,
-        "form": "DDWWW",
-        "form_label": "平平胜胜胜"
+        "goal_difference": 14,
+        "points": 32,
+        "form": "WDDWW",
+        "form_label": "胜平平胜胜"
       },
       {
         "position": 2,
@@ -446,16 +446,16 @@
         "position": 5,
         "team_id": "ast_7b2cb4ee7d694da6be87614138260619",
         "team": "奥胡斯弗雷马德",
-        "played": 13,
+        "played": 14,
         "wins": 4,
         "draws": 6,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 12,
-        "goals_against": 11,
-        "goal_difference": 1,
+        "goals_against": 14,
+        "goal_difference": -2,
         "points": 18,
-        "form": "WDDLL",
-        "form_label": "胜平平负负"
+        "form": "LWDDL",
+        "form_label": "负胜平平负"
       },
       {
         "position": 6,
@@ -1545,7 +1545,7 @@
         "match_id": "as_50b0dab58394461c98f507daf297cd9c",
         "date": "2026-11-09",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "丹麦甲级联赛",
         "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
         "season": "2026/2027",
@@ -1557,7 +1557,10 @@
           "name": "奥胡斯弗雷马德",
           "team_id": "ast_7b2cb4ee7d694da6be87614138260619"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "3-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9ebcd45f39634fb8adf05590bc8ace6a",
@@ -3663,24 +3666,6 @@
         "ht_score": "-",
         "venue": "Monjasa 公园",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_50b0dab58394461c98f507daf297cd9c",
-        "date": "2026-11-09",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "丹麦甲级联赛",
-        "league_id": "asl_fe373d10610148608ab08f201f61a9c1",
-        "season": "2026/2027",
-        "home": {
-          "name": "赫维多夫IF",
-          "team_id": "ast_3eb1c88e0fd04666b51c690cbe031183"
-        },
-        "away": {
-          "name": "奥胡斯弗雷马德",
-          "team_id": "ast_7b2cb4ee7d694da6be87614138260619"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5353,22 +5338,22 @@
     }
   },
   "stats": {
-    "matches_completed": 83,
-    "total_goals": 223,
+    "matches_completed": 84,
+    "total_goals": 226,
     "avg_goals_per_match": 2.69,
-    "home_wins": 31,
+    "home_wins": 32,
     "draws": 31,
     "away_wins": 21,
-    "home_win_pct": 37.3,
+    "home_win_pct": 38.1,
     "biggest_win": {
       "margin": 3,
       "match": {
-        "match_id": "as_0d4229deeef94f0595650b8ae24f20e8",
-        "date": "2026-11-06",
-        "home_id": "ast_d508189b76314653afc24444430d2258",
-        "home": "AB 哥本哈根",
-        "away_id": "ast_6b9e72cc6ec34586a3097d28474094b4",
-        "away": "文德西塞尔",
+        "match_id": "as_50b0dab58394461c98f507daf297cd9c",
+        "date": "2026-11-09",
+        "home_id": "ast_3eb1c88e0fd04666b51c690cbe031183",
+        "home": "赫维多夫IF",
+        "away_id": "ast_7b2cb4ee7d694da6be87614138260619",
+        "away": "奥胡斯弗雷马德",
         "score": "3-0"
       }
     },
@@ -5386,8 +5371,8 @@
     },
     "leader": {
       "team": "Hvidovre IF",
-      "points": 29,
-      "played": 13
+      "points": 32,
+      "played": 14
     }
   },
   "coverage": {
@@ -5484,15 +5469,15 @@
             "position": 1,
             "team_id": "ast_3eb1c88e0fd04666b51c690cbe031183",
             "team": "Hvidovre IF",
-            "played": 13,
-            "wins": 8,
+            "played": 14,
+            "wins": 9,
             "draws": 5,
             "losses": 0,
-            "goals_for": 24,
+            "goals_for": 27,
             "goals_against": 13,
-            "goal_difference": 11,
-            "points": 29,
-            "form": "DDWWW"
+            "goal_difference": 14,
+            "points": 32,
+            "form": "WDDWW"
           },
           {
             "position": 2,
@@ -6170,7 +6155,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/11/09"
+  "updated_at": "2026/11/10"
 }
