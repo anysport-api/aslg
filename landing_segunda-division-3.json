@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
@@ -661,6 +661,24 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_18278ed6400440ff974f617233cf954b",
+        "date": "2026-11-11",
+        "time": "19:00",
+        "status": "19:00",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
+        },
+        "away": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_f268d5ee303c4c0ca4f9abe6bfa9e928",
         "date": "2026-11-08",
         "time": "19:30",
@@ -808,25 +826,6 @@
         "reg_score": "0-0",
         "venue": "Estadio Florentino Oropeza",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_18278ed6400440ff974f617233cf954b",
-        "date": "2026-11-01",
-        "time": "19:30",
-        "status": "Postp.",
-        "league": "委内瑞拉乙级联赛",
-        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
-        "season": "2026",
-        "home": {
-          "name": "萨莫拉二队",
-          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
-        },
-        "away": {
-          "name": "拉拉",
-          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_f5eb7ec1524f419088d3f0b633faaaf1",
@@ -6226,7 +6225,26 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_18278ed6400440ff974f617233cf954b",
+        "date": "2026-11-11",
+        "time": "19:00",
+        "status": "19:00",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
+        },
+        "away": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -10282,7 +10300,7 @@
     "teams_all_time": 59,
     "standings_rows_current": 17,
     "matches_current_season": 265,
-    "upcoming_matches": 0
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/10"
+  "updated_at": "2026/11/11"
 }

@@ -640,7 +640,7 @@
       {
         "match_id": "as_dba1efa410cb488eba4927f4cb6f3f92",
         "date": "2026-11-14",
-        "time": "21:00",
+        "time": "00:00",
         "status": "Not Started",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
@@ -660,7 +660,7 @@
       {
         "match_id": "as_f3ee01dd26c94fd98985dfcd044a017b",
         "date": "2026-11-14",
-        "time": "21:00",
+        "time": "00:00",
         "status": "Not Started",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
@@ -678,28 +678,10 @@
         "status_label": "未开赛"
       },
       {
-        "match_id": "as_15446954053341c18fddbdf09404f5c9",
-        "date": "2026-11-11",
-        "time": "00:00",
-        "status": "00:00",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "莫雷利亚竞技",
-          "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
-        },
-        "away": {
-          "name": "黑狮队UdeG",
-          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
-        },
-        "venue": ""
-      },
-      {
         "match_id": "as_ac672b22832c4602b05928a9110c7540",
-        "date": "2026-11-11",
-        "time": "21:00",
-        "status": "Not Started",
+        "date": "2026-11-12",
+        "time": "02:00",
+        "status": "02:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -711,8 +693,26 @@
           "name": "拉巴斯竞技",
           "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
         },
+        "venue": ""
+      },
+      {
+        "match_id": "as_15446954053341c18fddbdf09404f5c9",
+        "date": "2026-11-11",
+        "time": "00:00",
+        "status": "Not Started",
+        "league": "墨西哥甲级联赛",
+        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
+        "season": "2026/2027",
+        "home": {
+          "name": "莫雷利亚竞技",
+          "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
+        },
+        "away": {
+          "name": "黑狮队UdeG",
+          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
+        },
         "ht_score": "-",
-        "venue": "",
+        "venue": "Estadio Morelos",
         "status_label": "未开赛"
       },
       {
@@ -3408,7 +3408,7 @@
       {
         "match_id": "as_f3ee01dd26c94fd98985dfcd044a017b",
         "date": "2026-11-14",
-        "time": "21:00",
+        "time": "00:00",
         "status": "Not Started",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
@@ -3428,7 +3428,7 @@
       {
         "match_id": "as_dba1efa410cb488eba4927f4cb6f3f92",
         "date": "2026-11-14",
-        "time": "21:00",
+        "time": "00:00",
         "status": "Not Started",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
@@ -3447,9 +3447,9 @@
       },
       {
         "match_id": "as_ac672b22832c4602b05928a9110c7540",
-        "date": "2026-11-11",
-        "time": "21:00",
-        "status": "Not Started",
+        "date": "2026-11-12",
+        "time": "02:00",
+        "status": "02:00",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3461,15 +3461,13 @@
           "name": "拉巴斯竞技",
           "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_15446954053341c18fddbdf09404f5c9",
         "date": "2026-11-11",
         "time": "00:00",
-        "status": "00:00",
+        "status": "Not Started",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3481,7 +3479,9 @@
           "name": "黑狮队UdeG",
           "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Estadio Morelos",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -6362,5 +6362,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 4
   },
-  "updated_at": "2026/11/10"
+  "updated_at": "2026/11/11"
 }
