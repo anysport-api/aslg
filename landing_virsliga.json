@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
@@ -487,6 +487,47 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_1b97e5ad704947e49cfb02319045de0d",
+        "date": "2026-11-14",
+        "time": "11:00",
+        "status": "Not Started",
+        "league": "拉脱维亚Virsliga",
+        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
+        "season": "2026",
+        "home": {
+          "name": "瓦尔米耶拉",
+          "team_id": "ast_b00b8cd6c3bf40798707f690d0a19ab3"
+        },
+        "away": {
+          "name": "图库姆斯2000",
+          "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
+        },
+        "ht_score": "-",
+        "venue": "维德泽梅奥林匹克中心",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_006add9376fb4907a813107775ce7a1f",
+        "date": "2026-11-11",
+        "time": "12:00",
+        "status": "FT",
+        "league": "拉脱维亚Virsliga",
+        "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
+        "season": "2026",
+        "home": {
+          "name": "图库姆斯2000",
+          "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
+        },
+        "away": {
+          "name": "瓦尔米耶拉",
+          "team_id": "ast_b00b8cd6c3bf40798707f690d0a19ab3"
+        },
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
+      },
       {
         "match_id": "as_8417946a9ce3442e8729c3cbde6e2589",
         "date": "2026-11-08",
@@ -4268,21 +4309,24 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_006add9376fb4907a813107775ce7a1f",
-        "date": "2026-11-11",
-        "time": "12:00",
-        "status": "12:00",
+        "match_id": "as_1b97e5ad704947e49cfb02319045de0d",
+        "date": "2026-11-14",
+        "time": "11:00",
+        "status": "Not Started",
         "league": "拉脱维亚Virsliga",
         "league_id": "asl_b13f4d85673245789ad52bf219b8686a",
+        "season": "2026",
         "home": {
-          "name": "图库姆斯2000",
-          "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
-        },
-        "away": {
           "name": "瓦尔米耶拉",
           "team_id": "ast_b00b8cd6c3bf40798707f690d0a19ab3"
         },
-        "venue": ""
+        "away": {
+          "name": "图库姆斯2000",
+          "team_id": "ast_4596f07daac649c28b5474b96edad1b7"
+        },
+        "ht_score": "-",
+        "venue": "维德泽梅奥林匹克中心",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -7711,13 +7755,13 @@
     }
   },
   "stats": {
-    "matches_completed": 179,
-    "total_goals": 523,
-    "avg_goals_per_match": 2.92,
-    "home_wins": 76,
+    "matches_completed": 180,
+    "total_goals": 524,
+    "avg_goals_per_match": 2.91,
+    "home_wins": 77,
     "draws": 41,
     "away_wins": 62,
-    "home_win_pct": 42.5,
+    "home_win_pct": 42.8,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8514,8 +8558,8 @@
     "distinct_title_holders": 9,
     "teams_all_time": 33,
     "standings_rows_current": 10,
-    "matches_current_season": 180,
+    "matches_current_season": 182,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/11/11"
+  "updated_at": "2026/11/12"
 }

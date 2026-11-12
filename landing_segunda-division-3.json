@@ -661,10 +661,28 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_ce35b59184744afa9bc9f1b98adb9171",
+        "date": "2026-11-13",
+        "time": "19:00",
+        "status": "19:00",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "away": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_18278ed6400440ff974f617233cf954b",
         "date": "2026-11-11",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
         "season": "2026",
@@ -676,7 +694,10 @@
           "name": "拉拉",
           "team_id": "ast_09c51ff0526844f783fa96304f32628d"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f268d5ee303c4c0ca4f9abe6bfa9e928",
@@ -723,25 +744,6 @@
         "penalty_score": "3-4",
         "venue": "",
         "status_label": "点球决胜"
-      },
-      {
-        "match_id": "as_ce35b59184744afa9bc9f1b98adb9171",
-        "date": "2026-11-08",
-        "time": "22:00",
-        "status": "Postp.",
-        "league": "委内瑞拉乙级联赛",
-        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
-        "season": "2026",
-        "home": {
-          "name": "拉拉",
-          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
-        },
-        "away": {
-          "name": "萨莫拉二队",
-          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_39ff35ff254247ed9987ee2143c4a179",
@@ -6227,20 +6229,20 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_18278ed6400440ff974f617233cf954b",
-        "date": "2026-11-11",
+        "match_id": "as_ce35b59184744afa9bc9f1b98adb9171",
+        "date": "2026-11-13",
         "time": "19:00",
         "status": "19:00",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
         "season": "2026",
         "home": {
-          "name": "萨莫拉二队",
-          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
-        },
-        "away": {
           "name": "拉拉",
           "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "away": {
+          "name": "萨莫拉二队",
+          "team_id": "ast_037951f340ce47d285130bd2a7a9fe11"
         },
         "venue": ""
       }
@@ -9696,13 +9698,13 @@
     }
   },
   "stats": {
-    "matches_completed": 263,
-    "total_goals": 705,
+    "matches_completed": 264,
+    "total_goals": 708,
     "avg_goals_per_match": 2.68,
     "home_wins": 118,
     "draws": 65,
-    "away_wins": 80,
-    "home_win_pct": 44.9,
+    "away_wins": 81,
+    "home_win_pct": 44.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10302,5 +10304,5 @@
     "matches_current_season": 265,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/11/11"
+  "updated_at": "2026/11/12"
 }

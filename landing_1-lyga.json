@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_03b36627a26c4f568479d59fde54d517",
@@ -641,7 +641,7 @@
         "match_id": "as_7f81b48559b94aa89264f4c84a3a92c8",
         "date": "2026-11-11",
         "time": "16:30",
-        "status": "16:30",
+        "status": "Pen.",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -653,7 +653,12 @@
           "name": "米尼亚足球俱乐部",
           "team_id": "ast_5419c7290c3540429d88c60449f8f538"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "et_score": "1-1",
+        "penalty_score": "10-9",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_06ec1a8244e443ebacd13f0afb484d6f",
@@ -5696,26 +5701,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_7f81b48559b94aa89264f4c84a3a92c8",
-        "date": "2026-11-11",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "巴布伦加斯",
-          "team_id": "ast_75a55856788c41c9a07da395dab5123e"
-        },
-        "away": {
-          "name": "米尼亚足球俱乐部",
-          "team_id": "ast_5419c7290c3540429d88c60449f8f538"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -9613,13 +9599,13 @@
     }
   },
   "stats": {
-    "matches_completed": 240,
+    "matches_completed": 241,
     "total_goals": 706,
-    "avg_goals_per_match": 2.94,
+    "avg_goals_per_match": 2.93,
     "home_wins": 117,
-    "draws": 41,
+    "draws": 42,
     "away_wins": 82,
-    "home_win_pct": 48.8,
+    "home_win_pct": 48.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10380,7 +10366,7 @@
     "teams_all_time": 60,
     "standings_rows_current": 16,
     "matches_current_season": 241,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/11"
+  "updated_at": "2026/11/12"
 }
