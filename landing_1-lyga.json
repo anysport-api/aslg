@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_03b36627a26c4f568479d59fde54d517",
@@ -638,6 +638,46 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_0868464b0f9a4f1f97484af4f5ab670e",
+        "date": "2026-11-22",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "黑格尔曼立陶宛二队",
+          "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
+        },
+        "away": {
+          "name": "斯维卡塔",
+          "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_98e1a8ea03bb4ddd9923081efcfeec3b",
+        "date": "2026-11-19",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "斯维卡塔",
+          "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
+        },
+        "away": {
+          "name": "黑格尔曼立陶宛二队",
+          "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_7f81b48559b94aa89264f4c84a3a92c8",
         "date": "2026-11-11",
         "time": "16:30",
@@ -654,10 +694,10 @@
           "team_id": "ast_5419c7290c3540429d88c60449f8f538"
         },
         "ht_score": "0-0",
-        "reg_score": "0-0",
+        "reg_score": "1-1",
         "et_score": "1-1",
         "penalty_score": "10-9",
-        "venue": "",
+        "venue": "Gargzdu arena",
         "status_label": "点球决胜"
       },
       {
@@ -5701,7 +5741,48 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_0868464b0f9a4f1f97484af4f5ab670e",
+        "date": "2026-11-22",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "黑格尔曼立陶宛二队",
+          "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
+        },
+        "away": {
+          "name": "斯维卡塔",
+          "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_98e1a8ea03bb4ddd9923081efcfeec3b",
+        "date": "2026-11-19",
+        "time": "17:00",
+        "status": "Not Started",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
+        "season": "2026",
+        "home": {
+          "name": "斯维卡塔",
+          "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
+        },
+        "away": {
+          "name": "黑格尔曼立陶宛二队",
+          "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      }
+    ]
   },
   "champions": [
     {
@@ -9596,12 +9677,15 @@
     },
     "ast_0ee22a9e95f14eda9339e7130ada2568": {
       "en": "Zalgiris"
+    },
+    "ast_ecd9b23ddd6441e4a3ae265373c118f9": {
+      "en": "斯维卡塔"
     }
   },
   "stats": {
     "matches_completed": 241,
-    "total_goals": 706,
-    "avg_goals_per_match": 2.93,
+    "total_goals": 708,
+    "avg_goals_per_match": 2.94,
     "home_wins": 117,
     "draws": 42,
     "away_wins": 82,
@@ -10365,8 +10449,8 @@
     "distinct_title_holders": 12,
     "teams_all_time": 60,
     "standings_rows_current": 16,
-    "matches_current_season": 241,
-    "upcoming_matches": 0
+    "matches_current_season": 243,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/12"
+  "updated_at": "2026/11/13"
 }

@@ -244,15 +244,15 @@
         "position": 3,
         "team_id": "ast_459053da836741c89d2b6b65c731e190",
         "team": "Puerto Cabello",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 0,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
+        "goals_against": 8,
+        "goal_difference": -2,
         "points": 6,
-        "form": "WLLLW"
+        "form": "LWLLL"
       },
       {
         "position": 4,
@@ -272,15 +272,15 @@
         "position": 4,
         "team_id": "ast_f4546447d8e446d4aff3701307f61c01",
         "team": "Monagas",
-        "played": 5,
-        "wins": 1,
+        "played": 6,
+        "wins": 2,
         "draws": 0,
         "losses": 4,
-        "goals_for": 4,
+        "goals_for": 5,
         "goals_against": 10,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LLWLL"
+        "goal_difference": -5,
+        "points": 6,
+        "form": "WLLWL"
       },
       {
         "position": 9,
@@ -447,16 +447,16 @@
         "position": 3,
         "team_id": "ast_459053da836741c89d2b6b65c731e190",
         "team": "普埃尔托·卡贝略",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 0,
-        "losses": 3,
+        "losses": 4,
         "goals_for": 6,
-        "goals_against": 7,
-        "goal_difference": -1,
+        "goals_against": 8,
+        "goal_difference": -2,
         "points": 6,
-        "form": "WLLLW",
-        "form_label": "胜负负负胜"
+        "form": "LWLLL",
+        "form_label": "负胜负负负"
       },
       {
         "position": 4,
@@ -477,16 +477,16 @@
         "position": 4,
         "team_id": "ast_f4546447d8e446d4aff3701307f61c01",
         "team": "莫纳加斯",
-        "played": 5,
-        "wins": 1,
+        "played": 6,
+        "wins": 2,
         "draws": 0,
         "losses": 4,
-        "goals_for": 4,
+        "goals_for": 5,
         "goals_against": 10,
-        "goal_difference": -6,
-        "points": 3,
-        "form": "LLWLL",
-        "form_label": "负负胜负负"
+        "goal_difference": -5,
+        "points": 6,
+        "form": "WLLWL",
+        "form_label": "胜负负胜负"
       },
       {
         "position": 9,
@@ -983,7 +983,7 @@
         "match_id": "as_27a0afbbc2d24130bcef68e52dd75370",
         "date": "2026-11-12",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -995,7 +995,10 @@
           "name": "莫纳加斯",
           "team_id": "ast_f4546447d8e446d4aff3701307f61c01"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_59ba86b86dc347c5856d9135912fdeef",
@@ -5825,41 +5828,6 @@
         "ht_score": "-",
         "venue": "新普韦布洛多功能体育场",
         "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_b7ba26af7a4543ed883a035fa878a20a",
-        "date": "2026-11-12",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "home": {
-          "name": "普埃尔托·卡贝略",
-          "team_id": "ast_459053da836741c89d2b6b65c731e190"
-        },
-        "away": {
-          "name": "莫纳加斯",
-          "team_id": "ast_f4546447d8e446d4aff3701307f61c01"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_27a0afbbc2d24130bcef68e52dd75370",
-        "date": "2026-11-12",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "委内瑞拉甲级联赛",
-        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
-        "home": {
-          "name": "普埃尔托·卡贝略",
-          "team_id": "ast_459053da836741c89d2b6b65c731e190"
-        },
-        "away": {
-          "name": "莫纳加斯",
-          "team_id": "ast_f4546447d8e446d4aff3701307f61c01"
-        },
-        "venue": ""
       }
     ]
   },
@@ -11457,13 +11425,13 @@
     }
   },
   "stats": {
-    "matches_completed": 227,
-    "total_goals": 585,
-    "avg_goals_per_match": 2.58,
+    "matches_completed": 228,
+    "total_goals": 586,
+    "avg_goals_per_match": 2.57,
     "home_wins": 90,
     "draws": 66,
-    "away_wins": 71,
-    "home_win_pct": 39.6,
+    "away_wins": 72,
+    "home_win_pct": 39.5,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12277,7 +12245,7 @@
     "teams_all_time": 40,
     "standings_rows_current": 14,
     "matches_current_season": 231,
-    "upcoming_matches": 5
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/11/12"
+  "updated_at": "2026/11/13"
 }

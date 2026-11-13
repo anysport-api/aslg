@@ -681,7 +681,7 @@
         "match_id": "as_15446954053341c18fddbdf09404f5c9",
         "date": "2026-11-13",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -693,7 +693,10 @@
           "name": "黑狮队UdeG",
           "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ac672b22832c4602b05928a9110c7540",
@@ -3450,7 +3453,7 @@
         "match_id": "as_15446954053341c18fddbdf09404f5c9",
         "date": "2026-11-13",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3462,26 +3465,8 @@
           "name": "黑狮队UdeG",
           "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ac672b22832c4602b05928a9110c7540",
-        "date": "2026-11-12",
-        "time": "02:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "海盗队",
-          "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
-        },
-        "away": {
-          "name": "拉巴斯竞技",
-          "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
-        },
         "ht_score": "0-0",
-        "reg_score": "1-1",
+        "reg_score": "1-0",
         "venue": "",
         "status_label": "完场"
       }
@@ -5558,13 +5543,13 @@
     }
   },
   "stats": {
-    "matches_completed": 129,
-    "total_goals": 408,
-    "avg_goals_per_match": 3.16,
-    "home_wins": 62,
+    "matches_completed": 130,
+    "total_goals": 409,
+    "avg_goals_per_match": 3.15,
+    "home_wins": 63,
     "draws": 30,
     "away_wins": 37,
-    "home_win_pct": 48.1,
+    "home_win_pct": 48.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6362,7 +6347,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 132,
-    "upcoming_matches": 4
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/11/12"
+  "updated_at": "2026/11/13"
 }
