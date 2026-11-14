@@ -144,15 +144,15 @@
         "position": 1,
         "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
         "team": "Pruszkow",
-        "played": 15,
+        "played": 16,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
-        "goals_for": 29,
-        "goals_against": 17,
+        "goals_for": 31,
+        "goals_against": 19,
         "goal_difference": 12,
-        "points": 33,
-        "form": "DLWWW"
+        "points": 34,
+        "form": "DDLWW"
       },
       {
         "position": 2,
@@ -324,6 +324,20 @@
       },
       {
         "position": 14,
+        "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee",
+        "team": "Kleczew",
+        "played": 16,
+        "wins": 4,
+        "draws": 7,
+        "losses": 5,
+        "goals_for": 23,
+        "goals_against": 32,
+        "goal_difference": -9,
+        "points": 19,
+        "form": "DWWWD"
+      },
+      {
+        "position": 15,
         "team_id": "ast_7df47cf870754692be548c6096556cb6",
         "team": "Bielsko-Biala",
         "played": 15,
@@ -335,20 +349,6 @@
         "goal_difference": 1,
         "points": 18,
         "form": "LLDLD"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee",
-        "team": "Kleczew",
-        "played": 15,
-        "wins": 4,
-        "draws": 6,
-        "losses": 5,
-        "goals_for": 21,
-        "goals_against": 30,
-        "goal_difference": -9,
-        "points": 18,
-        "form": "WWWDL"
       },
       {
         "position": 16,
@@ -398,16 +398,16 @@
         "position": 1,
         "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
         "team": "普鲁什科夫",
-        "played": 15,
+        "played": 16,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 2,
-        "goals_for": 29,
-        "goals_against": 17,
+        "goals_for": 31,
+        "goals_against": 19,
         "goal_difference": 12,
-        "points": 33,
-        "form": "DLWWW",
-        "form_label": "平负胜胜胜"
+        "points": 34,
+        "form": "DDLWW",
+        "form_label": "平平负胜胜"
       },
       {
         "position": 2,
@@ -591,6 +591,21 @@
       },
       {
         "position": 14,
+        "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee",
+        "team": "克莱切夫",
+        "played": 16,
+        "wins": 4,
+        "draws": 7,
+        "losses": 5,
+        "goals_for": 23,
+        "goals_against": 32,
+        "goal_difference": -9,
+        "points": 19,
+        "form": "DWWWD",
+        "form_label": "平胜胜胜平"
+      },
+      {
+        "position": 15,
         "team_id": "ast_7df47cf870754692be548c6096556cb6",
         "team": "比尔斯科-比亚瓦",
         "played": 15,
@@ -603,21 +618,6 @@
         "points": 18,
         "form": "LLDLD",
         "form_label": "负负平负平"
-      },
-      {
-        "position": 15,
-        "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee",
-        "team": "克莱切夫",
-        "played": 15,
-        "wins": 4,
-        "draws": 6,
-        "losses": 5,
-        "goals_for": 21,
-        "goals_against": 30,
-        "goal_difference": -9,
-        "points": 18,
-        "form": "WWWDL",
-        "form_label": "胜胜胜平负"
       },
       {
         "position": 16,
@@ -3546,18 +3546,18 @@
       {
         "match_id": "as_04b2281fe58045a793a54bb5d04d7f80",
         "date": "2026-12-05",
-        "time": "16:00",
+        "time": "11:30",
         "status": "Not Started",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
         "home": {
-          "name": "齐尔农戈拉",
-          "team_id": "ast_2fe961690fb648d693ef0f0327c9dad2"
-        },
-        "away": {
           "name": "格鲁季亚兹奥林匹克",
           "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be"
+        },
+        "away": {
+          "name": "齐尔农戈拉",
+          "team_id": "ast_2fe961690fb648d693ef0f0327c9dad2"
         },
         "ht_score": "-",
         "venue": "",
@@ -3686,7 +3686,7 @@
       {
         "match_id": "as_c2bd07c3c41945bb8e311d2f1fd66fb5",
         "date": "2026-11-28",
-        "time": "16:00",
+        "time": "11:30",
         "status": "Not Started",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
@@ -3907,7 +3907,7 @@
         "match_id": "as_71bd7c2f8701433396da64913ca43c1c",
         "date": "2026-11-20",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -3919,15 +3919,13 @@
           "name": "沃拉",
           "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_ce175d6b653143749591dd000c497ab1",
         "date": "2026-11-20",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -3939,15 +3937,13 @@
           "name": "霍伊尼茨卡",
           "team_id": "ast_94fc953b100b4c559fb2f0691a5db666"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a904bb39ba294071a1ce1aa78e3ecdf3",
         "date": "2026-11-15",
         "time": "18:30",
-        "status": "Not Started",
+        "status": "18:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -3959,15 +3955,13 @@
           "name": "格鲁季亚兹奥林匹克",
           "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6fe76d93f6bd444bae6eadd91ba0032e",
         "date": "2026-11-15",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -3979,9 +3973,7 @@
           "name": "比尔斯科-比亚瓦",
           "team_id": "ast_7df47cf870754692be548c6096556cb6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_839edc8478d24f17a4e088078d1ffcd7",
@@ -4059,7 +4051,7 @@
         "match_id": "as_afb2872342714e0ab0308accad02a92d",
         "date": "2026-11-13",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -4071,13 +4063,16 @@
           "name": "克莱切夫",
           "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_8337f546f2cb4433a073a490df322474",
         "date": "2026-11-13",
         "time": "17:00",
-        "status": "Postp.",
+        "status": "17:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -4089,8 +4084,7 @@
           "name": "斯维特什切青",
           "team_id": "ast_51d0641e51304be08ae792ce5bfe7bf3"
         },
-        "venue": "",
-        "status_label": "延期"
+        "venue": ""
       },
       {
         "match_id": "as_d520094c84c54395ab19215cb3c98c6c",
@@ -6990,18 +6984,18 @@
       {
         "match_id": "as_04b2281fe58045a793a54bb5d04d7f80",
         "date": "2026-12-05",
-        "time": "16:00",
+        "time": "11:30",
         "status": "Not Started",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
         "home": {
-          "name": "齐尔农戈拉",
-          "team_id": "ast_2fe961690fb648d693ef0f0327c9dad2"
-        },
-        "away": {
           "name": "格鲁季亚兹奥林匹克",
           "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be"
+        },
+        "away": {
+          "name": "齐尔农戈拉",
+          "team_id": "ast_2fe961690fb648d693ef0f0327c9dad2"
         },
         "ht_score": "-",
         "venue": "",
@@ -7230,7 +7224,7 @@
       {
         "match_id": "as_c2bd07c3c41945bb8e311d2f1fd66fb5",
         "date": "2026-11-28",
-        "time": "16:00",
+        "time": "11:30",
         "status": "Not Started",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
@@ -7451,7 +7445,7 @@
         "match_id": "as_ce175d6b653143749591dd000c497ab1",
         "date": "2026-11-20",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7463,15 +7457,13 @@
           "name": "霍伊尼茨卡",
           "team_id": "ast_94fc953b100b4c559fb2f0691a5db666"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_71bd7c2f8701433396da64913ca43c1c",
         "date": "2026-11-20",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7483,15 +7475,13 @@
           "name": "沃拉",
           "team_id": "ast_10fe21b099774a4e8fdbc47acfb7e9e1"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6fe76d93f6bd444bae6eadd91ba0032e",
         "date": "2026-11-15",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7503,15 +7493,13 @@
           "name": "比尔斯科-比亚瓦",
           "team_id": "ast_7df47cf870754692be548c6096556cb6"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a904bb39ba294071a1ce1aa78e3ecdf3",
         "date": "2026-11-15",
         "time": "18:30",
-        "status": "Not Started",
+        "status": "18:30",
         "league": "波兰乙级联赛",
         "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
         "season": "2026/2027",
@@ -7523,9 +7511,7 @@
           "name": "格鲁季亚兹奥林匹克",
           "team_id": "ast_20eb646f708c4ac9b453bce57f17c3be"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_13d416bb870a4a9bae2634298ac036e1",
@@ -7596,43 +7582,6 @@
         "away": {
           "name": "扎维沙",
           "team_id": "ast_a438016db7844fadb2d5ca0a925432d8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_8337f546f2cb4433a073a490df322474",
-        "date": "2026-11-13",
-        "time": "17:00",
-        "status": "Postp.",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "R. 热什佐夫",
-          "team_id": "ast_abef4f5e7f444d85aa2c565c1f56ebcb"
-        },
-        "away": {
-          "name": "斯维特什切青",
-          "team_id": "ast_51d0641e51304be08ae792ce5bfe7bf3"
-        },
-        "venue": "",
-        "status_label": "延期"
-      },
-      {
-        "match_id": "as_afb2872342714e0ab0308accad02a92d",
-        "date": "2026-11-13",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_883d37ac528b47a88b7842ecffaf0a67",
-        "season": "2026/2027",
-        "home": {
-          "name": "普鲁什科夫",
-          "team_id": "ast_d903c3b71e49483297569c58ce1d4b07"
-        },
-        "away": {
-          "name": "克莱切夫",
-          "team_id": "ast_6cb05acf3e554030806f7ec2df4252ee"
         },
         "venue": ""
       }
@@ -10667,13 +10616,13 @@
     }
   },
   "stats": {
-    "matches_completed": 134,
-    "total_goals": 413,
-    "avg_goals_per_match": 3.08,
+    "matches_completed": 135,
+    "total_goals": 417,
+    "avg_goals_per_match": 3.09,
     "home_wins": 58,
-    "draws": 32,
+    "draws": 33,
     "away_wins": 44,
-    "home_win_pct": 43.3,
+    "home_win_pct": 43.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10700,8 +10649,8 @@
     },
     "leader": {
       "team": "Pruszkow",
-      "points": 33,
-      "played": 15
+      "points": 34,
+      "played": 16
     }
   },
   "coverage": {
@@ -10798,15 +10747,15 @@
             "position": 1,
             "team_id": "ast_d903c3b71e49483297569c58ce1d4b07",
             "team": "Pruszkow",
-            "played": 15,
+            "played": 16,
             "wins": 10,
-            "draws": 3,
+            "draws": 4,
             "losses": 2,
-            "goals_for": 29,
-            "goals_against": 17,
+            "goals_for": 31,
+            "goals_against": 19,
             "goal_difference": 12,
-            "points": 33,
-            "form": "DLWWW"
+            "points": 34,
+            "form": "DDLWW"
           },
           {
             "position": 2,
@@ -11468,7 +11417,7 @@
     "teams_all_time": 72,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 36
+    "upcoming_matches": 34
   },
-  "updated_at": "2026/11/13"
+  "updated_at": "2026/11/14"
 }

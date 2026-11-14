@@ -188,6 +188,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_344e8de6baa8495a803963313b5b7d0c",
+        "team": "Santa Fe",
+        "played": 19,
+        "wins": 10,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 30,
+        "goals_against": 18,
+        "goal_difference": 12,
+        "points": 34,
+        "form": "WWLLW"
+      },
+      {
+        "position": 4,
         "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
         "team": "America De Cali",
         "played": 18,
@@ -201,7 +215,7 @@
         "form": "DDWWD"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
         "team": "Bucaramanga",
         "played": 18,
@@ -213,20 +227,6 @@
         "goal_difference": 13,
         "points": 32,
         "form": "WDWLL"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_344e8de6baa8495a803963313b5b7d0c",
-        "team": "Santa Fe",
-        "played": 18,
-        "wins": 9,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 28,
-        "goals_against": 18,
-        "goal_difference": 10,
-        "points": 31,
-        "form": "WLLWW"
       },
       {
         "position": 6,
@@ -330,15 +330,15 @@
         "position": 13,
         "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
         "team": "Inter Bogotá",
-        "played": 18,
+        "played": 19,
         "wins": 5,
         "draws": 8,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 23,
-        "goal_difference": 2,
+        "goals_against": 25,
+        "goal_difference": 0,
         "points": 23,
-        "form": "LWLWD"
+        "form": "LLWLW"
       },
       {
         "position": 14,
@@ -472,6 +472,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_344e8de6baa8495a803963313b5b7d0c",
+        "team": "圣菲",
+        "played": 19,
+        "wins": 10,
+        "draws": 4,
+        "losses": 5,
+        "goals_for": 30,
+        "goals_against": 18,
+        "goal_difference": 12,
+        "points": 34,
+        "form": "WWLLW",
+        "form_label": "胜胜负负胜"
+      },
+      {
+        "position": 4,
         "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
         "team": "美洲队（卡利）",
         "played": 18,
@@ -486,7 +501,7 @@
         "form_label": "平平胜胜平"
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "ast_e6d5effd82284f2f9766fdcdbf79510c",
         "team": "布卡拉曼加",
         "played": 18,
@@ -499,21 +514,6 @@
         "points": 32,
         "form": "WDWLL",
         "form_label": "胜平胜负负"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_344e8de6baa8495a803963313b5b7d0c",
-        "team": "圣菲",
-        "played": 18,
-        "wins": 9,
-        "draws": 4,
-        "losses": 5,
-        "goals_for": 28,
-        "goals_against": 18,
-        "goal_difference": 10,
-        "points": 31,
-        "form": "WLLWW",
-        "form_label": "胜负负胜胜"
       },
       {
         "position": 6,
@@ -624,16 +624,16 @@
         "position": 13,
         "team_id": "ast_1105ed1453fa4f0d8b914bf0253d7e6c",
         "team": "国际波哥大",
-        "played": 18,
+        "played": 19,
         "wins": 5,
         "draws": 8,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 23,
-        "goal_difference": 2,
+        "goals_against": 25,
+        "goal_difference": 0,
         "points": 23,
-        "form": "LWLWD",
-        "form_label": "负胜负胜平"
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 14,
@@ -3259,7 +3259,7 @@
         "match_id": "as_c46d9849f0cf45e2bd883fa1a53e825b",
         "date": "2026-11-14",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -3271,7 +3271,10 @@
           "name": "圣菲",
           "team_id": "ast_344e8de6baa8495a803963313b5b7d0c"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_5701fcb212ad460690464b333e561a2b",
@@ -11457,7 +11460,7 @@
         "match_id": "as_c46d9849f0cf45e2bd883fa1a53e825b",
         "date": "2026-11-14",
         "time": "01:30",
-        "status": "01:30",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -11469,7 +11472,10 @@
           "name": "圣菲",
           "team_id": "ast_344e8de6baa8495a803963313b5b7d0c"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b63eb30ef80f45f489fb3d4ed0c7d4d2",
@@ -11560,27 +11566,6 @@
           "team_id": "ast_e90f52fb079b43f9ac0c32bf7e877f7a"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_b8367ceef0184b3d80a5d099dfd4353e",
-        "date": "2026-11-13",
-        "time": "00:00",
-        "status": "FT",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "兰内罗斯",
-          "team_id": "ast_9deb16c39d3047e5ad23faf51ca6303a"
-        },
-        "away": {
-          "name": "奇科",
-          "team_id": "ast_0550cfe57592457190742383da011612"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-0",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -13678,13 +13663,13 @@
     }
   },
   "stats": {
-    "matches_completed": 386,
-    "total_goals": 973,
+    "matches_completed": 387,
+    "total_goals": 975,
     "avg_goals_per_match": 2.52,
     "home_wins": 181,
     "draws": 115,
-    "away_wins": 90,
-    "home_win_pct": 46.9,
+    "away_wins": 91,
+    "home_win_pct": 46.8,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -13842,17 +13827,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_829c97ff50444a71ac8269c744ec46d0",
-            "team": "America De Cali",
-            "played": 18,
-            "wins": 9,
-            "draws": 6,
-            "losses": 3,
-            "goals_for": 29,
-            "goals_against": 15,
-            "goal_difference": 14,
-            "points": 33,
-            "form": "DDWWD"
+            "team_id": "ast_344e8de6baa8495a803963313b5b7d0c",
+            "team": "Santa Fe",
+            "played": 19,
+            "wins": 10,
+            "draws": 4,
+            "losses": 5,
+            "goals_for": 30,
+            "goals_against": 18,
+            "goal_difference": 12,
+            "points": 34,
+            "form": "WWLLW"
           }
         ],
         "meta": {
@@ -14486,7 +14471,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 20,
     "matches_current_season": 394,
-    "upcoming_matches": 9
+    "upcoming_matches": 8
   },
-  "updated_at": "2026/11/13"
+  "updated_at": "2026/11/14"
 }

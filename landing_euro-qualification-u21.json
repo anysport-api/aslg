@@ -1620,7 +1620,7 @@
         "match_id": "as_5c223a0df4964c14900a2cf182539c3b",
         "date": "2026-11-13",
         "time": "17:30",
-        "status": "17:30",
+        "status": "FT",
         "league": "国际U21欧洲杯预选赛",
         "league_id": "asl_87ad8caec0d143b49b1c129cb7cf161d",
         "season": "2027",
@@ -1632,13 +1632,16 @@
           "name": "荷兰U21",
           "team_id": "ast_9cf1b9be21b4406da20c5f5f6c2ed1d0"
         },
-        "venue": ""
+        "ht_score": "0-3",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ae1ea70546794168be35125f4b44701d",
         "date": "2026-11-13",
         "time": "16:15",
-        "status": "16:15",
+        "status": "FT",
         "league": "国际U21欧洲杯预选赛",
         "league_id": "asl_87ad8caec0d143b49b1c129cb7cf161d",
         "season": "2027",
@@ -1650,13 +1653,16 @@
           "name": "爱尔兰U21",
           "team_id": "ast_958963cf74cd4610b5259c66574b3249"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7a5ad5877e31476fb994f394eea2038a",
         "date": "2026-11-13",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "国际U21欧洲杯预选赛",
         "league_id": "asl_87ad8caec0d143b49b1c129cb7cf161d",
         "season": "2027",
@@ -1668,7 +1674,10 @@
           "name": "捷克共和国U21",
           "team_id": "ast_b6b61f8ce1c64a6393adaa9e5c6c9d43"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3d52b55ed69143da839ecb39f05807c2",
@@ -6804,60 +6813,6 @@
           "team_id": "ast_ea6a8e96517a4929a175e7ac18ce7214"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_7a5ad5877e31476fb994f394eea2038a",
-        "date": "2026-11-13",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "国际U21欧洲杯预选赛",
-        "league_id": "asl_87ad8caec0d143b49b1c129cb7cf161d",
-        "season": "2027",
-        "home": {
-          "name": "土耳其U21",
-          "team_id": "ast_a64fb43e7f9f4e58b825e6d0f27ec4da"
-        },
-        "away": {
-          "name": "捷克共和国U21",
-          "team_id": "ast_b6b61f8ce1c64a6393adaa9e5c6c9d43"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ae1ea70546794168be35125f4b44701d",
-        "date": "2026-11-13",
-        "time": "16:15",
-        "status": "16:15",
-        "league": "国际U21欧洲杯预选赛",
-        "league_id": "asl_87ad8caec0d143b49b1c129cb7cf161d",
-        "season": "2027",
-        "home": {
-          "name": "芬兰U21",
-          "team_id": "ast_bb6778ec57404d858bd4d94aa9ff492c"
-        },
-        "away": {
-          "name": "爱尔兰U21",
-          "team_id": "ast_958963cf74cd4610b5259c66574b3249"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5c223a0df4964c14900a2cf182539c3b",
-        "date": "2026-11-13",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "国际U21欧洲杯预选赛",
-        "league_id": "asl_87ad8caec0d143b49b1c129cb7cf161d",
-        "season": "2027",
-        "home": {
-          "name": "丹麦U21",
-          "team_id": "ast_b9d24d3622944a3a8995891e5c5c5962"
-        },
-        "away": {
-          "name": "荷兰U21",
-          "team_id": "ast_9cf1b9be21b4406da20c5f5f6c2ed1d0"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9321,13 +9276,13 @@
     }
   },
   "stats": {
-    "matches_completed": 241,
-    "total_goals": 767,
-    "avg_goals_per_match": 3.18,
-    "home_wins": 111,
+    "matches_completed": 244,
+    "total_goals": 772,
+    "avg_goals_per_match": 3.16,
+    "home_wins": 112,
     "draws": 47,
-    "away_wins": 83,
-    "home_win_pct": 46.1,
+    "away_wins": 85,
+    "home_win_pct": 45.9,
     "biggest_win": {
       "margin": 13,
       "match": {
@@ -10101,7 +10056,7 @@
     "teams_all_time": 55,
     "standings_rows_current": 51,
     "matches_current_season": 248,
-    "upcoming_matches": 7
+    "upcoming_matches": 4
   },
-  "updated_at": "2026/11/13"
+  "updated_at": "2026/11/14"
 }

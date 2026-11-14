@@ -194,15 +194,15 @@
         "position": 2,
         "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
         "team": "Montevideo City",
-        "played": 13,
+        "played": 14,
         "wins": 9,
-        "draws": 1,
+        "draws": 2,
         "losses": 3,
-        "goals_for": 26,
-        "goals_against": 14,
+        "goals_for": 28,
+        "goals_against": 16,
         "goal_difference": 12,
-        "points": 28,
-        "form": "WWLWL"
+        "points": 29,
+        "form": "DWWLW"
       },
       {
         "position": 3,
@@ -248,6 +248,20 @@
       },
       {
         "position": 6,
+        "team_id": "ast_d00746fec114471880772005ba79dfab",
+        "team": "Racing Montevideo",
+        "played": 14,
+        "wins": 5,
+        "draws": 5,
+        "losses": 4,
+        "goals_for": 20,
+        "goals_against": 16,
+        "goal_difference": 4,
+        "points": 20,
+        "form": "DWDWL"
+      },
+      {
+        "position": 7,
         "team_id": "ast_07bb5e567e8143278864181fe0daafa9",
         "team": "Progreso",
         "played": 14,
@@ -259,20 +273,6 @@
         "goal_difference": -2,
         "points": 20,
         "form": "DLWWD"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_d00746fec114471880772005ba79dfab",
-        "team": "Racing Montevideo",
-        "played": 13,
-        "wins": 5,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 18,
-        "goals_against": 14,
-        "goal_difference": 4,
-        "points": 19,
-        "form": "WDWLL"
       },
       {
         "position": 8,
@@ -421,16 +421,16 @@
         "position": 2,
         "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
         "team": "蒙得维的亚城",
-        "played": 13,
+        "played": 14,
         "wins": 9,
-        "draws": 1,
+        "draws": 2,
         "losses": 3,
-        "goals_for": 26,
-        "goals_against": 14,
+        "goals_for": 28,
+        "goals_against": 16,
         "goal_difference": 12,
-        "points": 28,
-        "form": "WWLWL",
-        "form_label": "胜胜负胜负"
+        "points": 29,
+        "form": "DWWLW",
+        "form_label": "平胜胜负胜"
       },
       {
         "position": 3,
@@ -479,6 +479,21 @@
       },
       {
         "position": 6,
+        "team_id": "ast_d00746fec114471880772005ba79dfab",
+        "team": "蒙得维的亚竞技",
+        "played": 14,
+        "wins": 5,
+        "draws": 5,
+        "losses": 4,
+        "goals_for": 20,
+        "goals_against": 16,
+        "goal_difference": 4,
+        "points": 20,
+        "form": "DWDWL",
+        "form_label": "平胜平胜负"
+      },
+      {
+        "position": 7,
         "team_id": "ast_07bb5e567e8143278864181fe0daafa9",
         "team": "进步",
         "played": 14,
@@ -491,21 +506,6 @@
         "points": 20,
         "form": "DLWWD",
         "form_label": "平负胜胜平"
-      },
-      {
-        "position": 7,
-        "team_id": "ast_d00746fec114471880772005ba79dfab",
-        "team": "蒙得维的亚竞技",
-        "played": 13,
-        "wins": 5,
-        "draws": 4,
-        "losses": 4,
-        "goals_for": 18,
-        "goals_against": 14,
-        "goal_difference": 4,
-        "points": 19,
-        "form": "WDWLL",
-        "form_label": "胜平胜负负"
       },
       {
         "position": 8,
@@ -665,7 +665,7 @@
         "match_id": "as_abc8f3fc28674a67af03fe6bf65c5510",
         "date": "2026-11-16",
         "time": "23:00",
-        "status": "23:00",
+        "status": "Not Started",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -677,7 +677,9 @@
           "name": "青年队",
           "team_id": "ast_f6f4bc4d8c9748758a96daf2f5be9fdf"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_a25cb8e3b72f4cd09042f49729ce42af",
@@ -772,8 +774,8 @@
       {
         "match_id": "as_1168870108c145eeae9b76d97c6cded4",
         "date": "2026-11-13",
-        "time": "20:00",
-        "status": "20:00",
+        "time": "19:30",
+        "status": "FT",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -785,7 +787,10 @@
           "name": "蒙得维的亚竞技",
           "team_id": "ast_d00746fec114471880772005ba79dfab"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4e0fd747d62949e38824d14d4ef77144",
@@ -6715,7 +6720,7 @@
         "match_id": "as_abc8f3fc28674a67af03fe6bf65c5510",
         "date": "2026-11-16",
         "time": "23:00",
-        "status": "23:00",
+        "status": "Not Started",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
@@ -6727,7 +6732,9 @@
           "name": "青年队",
           "team_id": "ast_f6f4bc4d8c9748758a96daf2f5be9fdf"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_d618f793255844089f62f2f848e306fc",
@@ -6816,24 +6823,6 @@
         "away": {
           "name": "波士顿河流",
           "team_id": "ast_1a91500d583b4746a66396631b75c6fa"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1168870108c145eeae9b76d97c6cded4",
-        "date": "2026-11-13",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "蒙得维的亚城",
-          "team_id": "ast_dbe3d181fa20437fb0b6160396983299"
-        },
-        "away": {
-          "name": "蒙得维的亚竞技",
-          "team_id": "ast_d00746fec114471880772005ba79dfab"
         },
         "venue": ""
       }
@@ -12182,13 +12171,13 @@
     }
   },
   "stats": {
-    "matches_completed": 282,
-    "total_goals": 672,
-    "avg_goals_per_match": 2.38,
+    "matches_completed": 283,
+    "total_goals": 676,
+    "avg_goals_per_match": 2.39,
     "home_wins": 118,
-    "draws": 72,
+    "draws": 73,
     "away_wins": 92,
-    "home_win_pct": 41.8,
+    "home_win_pct": 41.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -12327,15 +12316,15 @@
             "position": 2,
             "team_id": "ast_dbe3d181fa20437fb0b6160396983299",
             "team": "Montevideo City",
-            "played": 13,
+            "played": 14,
             "wins": 9,
-            "draws": 1,
+            "draws": 2,
             "losses": 3,
-            "goals_for": 26,
-            "goals_against": 14,
+            "goals_for": 28,
+            "goals_against": 16,
             "goal_difference": 12,
-            "points": 28,
-            "form": "WWLWL"
+            "points": 29,
+            "form": "DWWLW"
           },
           {
             "position": 3,
@@ -12927,7 +12916,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 289,
-    "upcoming_matches": 7
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/11/13"
+  "updated_at": "2026/11/14"
 }
