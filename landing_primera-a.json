@@ -641,7 +641,7 @@
         "match_id": "as_dba1efa410cb488eba4927f4cb6f3f92",
         "date": "2026-11-15",
         "time": "03:00",
-        "status": "03:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -653,7 +653,10 @@
           "name": "海盗队",
           "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f3ee01dd26c94fd98985dfcd044a017b",
@@ -3427,7 +3430,7 @@
         "match_id": "as_dba1efa410cb488eba4927f4cb6f3f92",
         "date": "2026-11-15",
         "time": "03:00",
-        "status": "03:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -3439,7 +3442,10 @@
           "name": "海盗队",
           "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -5514,13 +5520,13 @@
     }
   },
   "stats": {
-    "matches_completed": 130,
-    "total_goals": 409,
-    "avg_goals_per_match": 3.15,
+    "matches_completed": 131,
+    "total_goals": 411,
+    "avg_goals_per_match": 3.14,
     "home_wins": 63,
-    "draws": 30,
+    "draws": 31,
     "away_wins": 37,
-    "home_win_pct": 48.5,
+    "home_win_pct": 48.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6320,5 +6326,5 @@
     "matches_current_season": 132,
     "upcoming_matches": 2
   },
-  "updated_at": "2026/11/14"
+  "updated_at": "2026/11/15"
 }

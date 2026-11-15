@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
@@ -580,7 +580,7 @@
         "match_id": "as_740e5ddda4924f2781870a91696b4808",
         "date": "2026-11-15",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -592,9 +592,10 @@
           "name": "博伊西",
           "team_id": "ast_87dc1679b3c94e458d1b280f97103850"
         },
-        "ht_score": "-",
-        "venue": "Sportsplex at Matthews",
-        "status_label": "未开赛"
+        "ht_score": "0-1",
+        "reg_score": "4-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e8db3d5c884c49d39676b8b18bcb2ed0",
@@ -6443,7 +6444,7 @@
         "match_id": "as_740e5ddda4924f2781870a91696b4808",
         "date": "2026-11-15",
         "time": "00:30",
-        "status": "Not Started",
+        "status": "FT",
         "league": "美国USL联赛一",
         "league_id": "asl_311c49b0fd1c4d1bab0a0c0f82de0777",
         "season": "2026",
@@ -6455,9 +6456,10 @@
           "name": "博伊西",
           "team_id": "ast_87dc1679b3c94e458d1b280f97103850"
         },
-        "ht_score": "-",
-        "venue": "Sportsplex at Matthews",
-        "status_label": "未开赛"
+        "ht_score": "0-1",
+        "reg_score": "4-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7405,13 +7407,13 @@
     }
   },
   "stats": {
-    "matches_completed": 278,
-    "total_goals": 830,
-    "avg_goals_per_match": 2.99,
-    "home_wins": 141,
+    "matches_completed": 279,
+    "total_goals": 836,
+    "avg_goals_per_match": 3.0,
+    "home_wins": 142,
     "draws": 62,
     "away_wins": 75,
-    "home_win_pct": 50.7,
+    "home_win_pct": 50.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8210,5 +8212,5 @@
     "matches_current_season": 279,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/11/11"
+  "updated_at": "2026/11/15"
 }

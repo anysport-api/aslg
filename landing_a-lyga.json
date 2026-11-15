@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
@@ -468,6 +468,42 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_2df0e7d44d414b1fbdbea1901d7df2e4",
+        "date": "2026-11-21",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "FA绍利艾",
+          "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
+        },
+        "away": {
+          "name": "米尼亚足球俱乐部",
+          "team_id": "ast_5419c7290c3540429d88c60449f8f538"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4e6d6583a6964bbd8975038e7ff3426b",
+        "date": "2026-11-15",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "米尼亚足球俱乐部",
+          "team_id": "ast_5419c7290c3540429d88c60449f8f538"
+        },
+        "away": {
+          "name": "FA绍利艾",
+          "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_18b93a3d7a584d548c043c6a9acfbe25",
         "date": "2026-11-08",
@@ -3850,7 +3886,44 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_2df0e7d44d414b1fbdbea1901d7df2e4",
+        "date": "2026-11-21",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "FA绍利艾",
+          "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
+        },
+        "away": {
+          "name": "米尼亚足球俱乐部",
+          "team_id": "ast_5419c7290c3540429d88c60449f8f538"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4e6d6583a6964bbd8975038e7ff3426b",
+        "date": "2026-11-15",
+        "time": "12:00",
+        "status": "12:00",
+        "league": "立陶宛甲级联赛",
+        "league_id": "asl_44bfaf50c5e94a05ac083070020f97a3",
+        "season": "2026",
+        "home": {
+          "name": "米尼亚足球俱乐部",
+          "team_id": "ast_5419c7290c3540429d88c60449f8f538"
+        },
+        "away": {
+          "name": "FA绍利艾",
+          "team_id": "ast_f93dd31847584768a3a8f3ec269348a5"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -7274,6 +7347,9 @@
     },
     "ast_44adac2f5a024cceb8584807831e079d": {
       "en": "Interas Visaginas"
+    },
+    "ast_5419c7290c3540429d88c60449f8f538": {
+      "en": "米尼亚足球俱乐部"
     }
   },
   "stats": {
@@ -8080,8 +8156,8 @@
     "distinct_title_holders": 6,
     "teams_all_time": 30,
     "standings_rows_current": 10,
-    "matches_current_season": 161,
-    "upcoming_matches": 0
+    "matches_current_season": 163,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/10"
+  "updated_at": "2026/11/15"
 }

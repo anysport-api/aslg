@@ -866,7 +866,7 @@
         "match_id": "as_83c4941cdbcd457991c02dbcf62f989e",
         "date": "2026-11-14",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -878,7 +878,10 @@
           "name": "路易斯维尔城",
           "team_id": "ast_390b1db3056242bb9a98447f3fb9cfac"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ce22f943c584460fa3c34bbaf46d33f5",
@@ -9035,24 +9038,6 @@
           "team_id": "ast_7c9e4748b5f8487cb6d4d21ea96890e0"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_83c4941cdbcd457991c02dbcf62f989e",
-        "date": "2026-11-14",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "查尔斯顿",
-          "team_id": "ast_ee81cc7c946b4ca5af66282f26292b39"
-        },
-        "away": {
-          "name": "路易斯维尔城",
-          "team_id": "ast_390b1db3056242bb9a98447f3fb9cfac"
-        },
-        "venue": ""
       }
     ]
   },
@@ -12314,13 +12299,13 @@
     }
   },
   "stats": {
-    "matches_completed": 387,
-    "total_goals": 1052,
+    "matches_completed": 388,
+    "total_goals": 1054,
     "avg_goals_per_match": 2.72,
     "home_wins": 171,
     "draws": 109,
-    "away_wins": 107,
-    "home_win_pct": 44.2,
+    "away_wins": 108,
+    "home_win_pct": 44.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13114,7 +13099,7 @@
     "teams_all_time": 45,
     "standings_rows_current": 25,
     "matches_current_season": 389,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/14"
+  "updated_at": "2026/11/15"
 }

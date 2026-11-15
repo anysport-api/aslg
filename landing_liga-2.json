@@ -386,31 +386,31 @@
       },
       {
         "position": 15,
-        "team_id": "ast_703778ab450247b6979dc54ceeabbe4a",
-        "team": "Kromeriz",
-        "played": 13,
+        "team_id": "ast_dbeeaef6052842828e7862e084bda317",
+        "team": "Trinec",
+        "played": 14,
         "wins": 3,
-        "draws": 3,
-        "losses": 7,
-        "goals_for": 14,
-        "goals_against": 25,
-        "goal_difference": -11,
-        "points": 12,
-        "form": "WWLLL"
+        "draws": 5,
+        "losses": 6,
+        "goals_for": 16,
+        "goals_against": 24,
+        "goal_difference": -8,
+        "points": 14,
+        "form": "WLDWL"
       },
       {
         "position": 16,
-        "team_id": "ast_dbeeaef6052842828e7862e084bda317",
-        "team": "Trinec",
-        "played": 13,
-        "wins": 2,
-        "draws": 5,
-        "losses": 6,
-        "goals_for": 15,
-        "goals_against": 24,
-        "goal_difference": -9,
-        "points": 11,
-        "form": "LDWLL"
+        "team_id": "ast_703778ab450247b6979dc54ceeabbe4a",
+        "team": "Kromeriz",
+        "played": 14,
+        "wins": 3,
+        "draws": 3,
+        "losses": 8,
+        "goals_for": 14,
+        "goals_against": 26,
+        "goal_difference": -12,
+        "points": 12,
+        "form": "LWWLL"
       }
     ],
     "zh": [
@@ -626,33 +626,33 @@
       },
       {
         "position": 15,
-        "team_id": "ast_703778ab450247b6979dc54ceeabbe4a",
-        "team": "克罗梅日",
-        "played": 13,
+        "team_id": "ast_dbeeaef6052842828e7862e084bda317",
+        "team": "特里涅茨",
+        "played": 14,
         "wins": 3,
-        "draws": 3,
-        "losses": 7,
-        "goals_for": 14,
-        "goals_against": 25,
-        "goal_difference": -11,
-        "points": 12,
-        "form": "WWLLL",
-        "form_label": "胜胜负负负"
+        "draws": 5,
+        "losses": 6,
+        "goals_for": 16,
+        "goals_against": 24,
+        "goal_difference": -8,
+        "points": 14,
+        "form": "WLDWL",
+        "form_label": "胜负平胜负"
       },
       {
         "position": 16,
-        "team_id": "ast_dbeeaef6052842828e7862e084bda317",
-        "team": "特里涅茨",
-        "played": 13,
-        "wins": 2,
-        "draws": 5,
-        "losses": 6,
-        "goals_for": 15,
-        "goals_against": 24,
-        "goal_difference": -9,
-        "points": 11,
-        "form": "LDWLL",
-        "form_label": "负平胜负负"
+        "team_id": "ast_703778ab450247b6979dc54ceeabbe4a",
+        "team": "克罗梅日",
+        "played": 14,
+        "wins": 3,
+        "draws": 3,
+        "losses": 8,
+        "goals_for": 14,
+        "goals_against": 26,
+        "goal_difference": -12,
+        "points": 12,
+        "form": "LWWLL",
+        "form_label": "负胜胜负负"
       }
     ]
   },
@@ -3137,7 +3137,7 @@
         "match_id": "as_747e6e1cb0d143be821cd92f587a08ff",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -3149,15 +3149,13 @@
           "name": "克罗梅日",
           "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
         },
-        "ht_score": "-",
-        "venue": "Mestsky Stadion Ceska Lipa",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8df9954b766144d9ba36386113d9b006",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -3169,9 +3167,7 @@
           "name": "杜克拉布拉格",
           "team_id": "ast_11e05cca972841289da334fbd41ae42e"
         },
-        "ht_score": "-",
-        "venue": "鲁道夫·拉巴耶体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f3d996cfc9ef4942b1bc8e405840128a",
@@ -3231,7 +3227,7 @@
         "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
         "date": "2026-11-14",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -3243,7 +3239,10 @@
           "name": "特里涅茨",
           "team_id": "ast_dbeeaef6052842828e7862e084bda317"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_71d63857cf4a4db0beae9b4f81ac15af",
@@ -5949,7 +5948,7 @@
         "match_id": "as_8df9954b766144d9ba36386113d9b006",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -5961,15 +5960,13 @@
           "name": "杜克拉布拉格",
           "team_id": "ast_11e05cca972841289da334fbd41ae42e"
         },
-        "ht_score": "-",
-        "venue": "鲁道夫·拉巴耶体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_747e6e1cb0d143be821cd92f587a08ff",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "捷克甲级联赛",
         "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
         "season": "2026/2027",
@@ -5981,9 +5978,7 @@
           "name": "克罗梅日",
           "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
         },
-        "ht_score": "-",
-        "venue": "Mestsky Stadion Ceska Lipa",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_54a4546c00aa4538b007ce9615fa37fc",
@@ -6036,24 +6031,6 @@
         "away": {
           "name": "乌斯季纳德拉贝姆",
           "team_id": "ast_466fa14a738f4e1fa52b1d57aa2fd2c1"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c43bd17e5ab54106a12551cfeda4de65",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克甲级联赛",
-        "league_id": "asl_4c7d956871c24d699b613cfdf493341c",
-        "season": "2026/2027",
-        "home": {
-          "name": "克罗梅日",
-          "team_id": "ast_703778ab450247b6979dc54ceeabbe4a"
-        },
-        "away": {
-          "name": "特里涅茨",
-          "team_id": "ast_dbeeaef6052842828e7862e084bda317"
         },
         "venue": ""
       }
@@ -10658,13 +10635,13 @@
     }
   },
   "stats": {
-    "matches_completed": 111,
-    "total_goals": 335,
-    "avg_goals_per_match": 3.02,
+    "matches_completed": 112,
+    "total_goals": 336,
+    "avg_goals_per_match": 3.0,
     "home_wins": 42,
     "draws": 35,
-    "away_wins": 34,
-    "home_win_pct": 37.8,
+    "away_wins": 35,
+    "home_win_pct": 37.5,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -11469,7 +11446,7 @@
     "teams_all_time": 44,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 17
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/11/14"
+  "updated_at": "2026/11/15"
 }

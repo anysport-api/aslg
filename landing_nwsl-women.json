@@ -575,7 +575,7 @@
         "match_id": "as_af7f37b98b4142708044c7baa205ec1b",
         "date": "2026-11-14",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
@@ -587,7 +587,10 @@
           "name": "犹他皇家女足",
           "team_id": "ast_573fa1501b2e4eb29b903455eeb6ad06"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0733485e2e2a4d94b8dbc4487356f833",
@@ -5733,24 +5736,6 @@
           "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_af7f37b98b4142708044c7baa205ec1b",
-        "date": "2026-11-14",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "美国NWSL女足联赛",
-        "league_id": "asl_cc4a219a68b94190a89693055df4317d",
-        "season": "2026",
-        "home": {
-          "name": "华盛顿精神女足",
-          "team_id": "ast_f7e6993871a4493ba90c0e184564a687"
-        },
-        "away": {
-          "name": "犹他皇家女足",
-          "team_id": "ast_573fa1501b2e4eb29b903455eeb6ad06"
-        },
-        "venue": ""
       }
     ]
   },
@@ -6899,13 +6884,13 @@
     }
   },
   "stats": {
-    "matches_completed": 244,
-    "total_goals": 681,
+    "matches_completed": 245,
+    "total_goals": 684,
     "avg_goals_per_match": 2.79,
-    "home_wins": 113,
+    "home_wins": 114,
     "draws": 42,
     "away_wins": 89,
-    "home_win_pct": 46.3,
+    "home_win_pct": 46.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7721,7 +7706,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 16,
     "matches_current_season": 246,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/14"
+  "updated_at": "2026/11/15"
 }

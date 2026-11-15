@@ -252,20 +252,6 @@
       },
       {
         "position": 8,
-        "team_id": "ast_994afc4ff5174e1ba7c3946065465206",
-        "team": "Paysandu FC",
-        "played": 31,
-        "wins": 11,
-        "draws": 6,
-        "losses": 14,
-        "goals_for": 37,
-        "goals_against": 39,
-        "goal_difference": -2,
-        "points": 39,
-        "form": "DWWWL"
-      },
-      {
-        "position": 9,
         "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01",
         "team": "Tacuarembo",
         "played": 64,
@@ -277,6 +263,20 @@
         "goal_difference": -8,
         "points": 80,
         "form": "LDDLL"
+      },
+      {
+        "position": 9,
+        "team_id": "ast_994afc4ff5174e1ba7c3946065465206",
+        "team": "Paysandu FC",
+        "played": 32,
+        "wins": 11,
+        "draws": 6,
+        "losses": 15,
+        "goals_for": 38,
+        "goals_against": 41,
+        "goal_difference": -3,
+        "points": 39,
+        "form": "LDWWW"
       },
       {
         "position": 10,
@@ -337,15 +337,15 @@
         "position": 14,
         "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41",
         "team": "Uruguay Montevideo",
-        "played": 63,
-        "wins": 14,
+        "played": 64,
+        "wins": 15,
         "draws": 15,
         "losses": 34,
-        "goals_for": 54,
-        "goals_against": 91,
-        "goal_difference": -37,
-        "points": 57,
-        "form": "DWDLL"
+        "goals_for": 56,
+        "goals_against": 92,
+        "goal_difference": -36,
+        "points": 60,
+        "form": "WDWDL"
       }
     ],
     "zh": [
@@ -456,21 +456,6 @@
       },
       {
         "position": 8,
-        "team_id": "ast_994afc4ff5174e1ba7c3946065465206",
-        "team": "佩桑杜FC",
-        "played": 31,
-        "wins": 11,
-        "draws": 6,
-        "losses": 14,
-        "goals_for": 37,
-        "goals_against": 39,
-        "goal_difference": -2,
-        "points": 39,
-        "form": "DWWWL",
-        "form_label": "平胜胜胜负"
-      },
-      {
-        "position": 9,
         "team_id": "ast_75de8d6b54d54635adc2f8ed9041fc01",
         "team": "塔库阿伦博",
         "played": 64,
@@ -483,6 +468,21 @@
         "points": 80,
         "form": "LDDLL",
         "form_label": "负平平负负"
+      },
+      {
+        "position": 9,
+        "team_id": "ast_994afc4ff5174e1ba7c3946065465206",
+        "team": "佩桑杜FC",
+        "played": 32,
+        "wins": 11,
+        "draws": 6,
+        "losses": 15,
+        "goals_for": 38,
+        "goals_against": 41,
+        "goal_difference": -3,
+        "points": 39,
+        "form": "LDWWW",
+        "form_label": "负平胜胜胜"
       },
       {
         "position": 10,
@@ -547,16 +547,16 @@
         "position": 14,
         "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41",
         "team": "乌拉圭蒙得维的亚",
-        "played": 63,
-        "wins": 14,
+        "played": 64,
+        "wins": 15,
         "draws": 15,
         "losses": 34,
-        "goals_for": 54,
-        "goals_against": 91,
-        "goal_difference": -37,
-        "points": 57,
-        "form": "DWDLL",
-        "form_label": "平胜平负负"
+        "goals_for": 56,
+        "goals_against": 92,
+        "goal_difference": -36,
+        "points": 60,
+        "form": "WDWDL",
+        "form_label": "胜平胜平负"
       }
     ]
   },
@@ -578,10 +578,86 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_8c3054f053304dd99e4c6b9648a1948c",
+        "date": "2026-11-18",
+        "time": "19:30",
+        "status": "Not Started",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "阿特纳斯",
+          "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
+        },
+        "away": {
+          "name": "费尼克斯",
+          "team_id": "ast_cc3ff83cd6c14c9c91d517b7856239bc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d8aaf1c04a3d4a5cbbda7946dcb33507",
+        "date": "2026-11-18",
+        "time": "22:30",
+        "status": "Not Started",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "科隆",
+          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
+        },
+        "away": {
+          "name": "东方",
+          "team_id": "ast_68ab3fea95e04209890f31b008f31d7b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_b9a125bc859a4f0fb2e6a539a11d9a25",
+        "date": "2026-11-15",
+        "time": "19:30",
+        "status": "19:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "费尼克斯",
+          "team_id": "ast_cc3ff83cd6c14c9c91d517b7856239bc"
+        },
+        "away": {
+          "name": "阿特纳斯",
+          "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_5ffba4cd2cf94cb89037925ef30a4407",
+        "date": "2026-11-15",
+        "time": "23:30",
+        "status": "23:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "东方",
+          "team_id": "ast_68ab3fea95e04209890f31b008f31d7b"
+        },
+        "away": {
+          "name": "科隆",
+          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_d22ebb7c007f4a898f6821da19cdd18e",
         "date": "2026-11-14",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
@@ -593,7 +669,10 @@
           "name": "乌拉圭蒙得维的亚",
           "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6b957f3937c54d1ba3c65361c324f0e6",
@@ -655,7 +734,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Parque Cincuentenario Juan Prandi",
         "status_label": "完场"
       },
       {
@@ -5302,20 +5381,78 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_d22ebb7c007f4a898f6821da19cdd18e",
-        "date": "2026-11-14",
+        "match_id": "as_d8aaf1c04a3d4a5cbbda7946dcb33507",
+        "date": "2026-11-18",
         "time": "22:30",
-        "status": "22:30",
+        "status": "Not Started",
         "league": "乌拉圭乙级联赛",
         "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
         "season": "2026",
         "home": {
-          "name": "佩桑杜FC",
-          "team_id": "ast_994afc4ff5174e1ba7c3946065465206"
+          "name": "科隆",
+          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
         },
         "away": {
-          "name": "乌拉圭蒙得维的亚",
-          "team_id": "ast_b9e693e6bd5444f9a51be5e42d4f5d41"
+          "name": "东方",
+          "team_id": "ast_68ab3fea95e04209890f31b008f31d7b"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_8c3054f053304dd99e4c6b9648a1948c",
+        "date": "2026-11-18",
+        "time": "19:30",
+        "status": "Not Started",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "阿特纳斯",
+          "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
+        },
+        "away": {
+          "name": "费尼克斯",
+          "team_id": "ast_cc3ff83cd6c14c9c91d517b7856239bc"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_5ffba4cd2cf94cb89037925ef30a4407",
+        "date": "2026-11-15",
+        "time": "23:30",
+        "status": "23:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "东方",
+          "team_id": "ast_68ab3fea95e04209890f31b008f31d7b"
+        },
+        "away": {
+          "name": "科隆",
+          "team_id": "ast_131e6abb24374e5aaa8bff3e138d1dd1"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_b9a125bc859a4f0fb2e6a539a11d9a25",
+        "date": "2026-11-15",
+        "time": "19:30",
+        "status": "19:30",
+        "league": "乌拉圭乙级联赛",
+        "league_id": "asl_aa4d98548adc49fbbaebe22a46b261db",
+        "season": "2026",
+        "home": {
+          "name": "费尼克斯",
+          "team_id": "ast_cc3ff83cd6c14c9c91d517b7856239bc"
+        },
+        "away": {
+          "name": "阿特纳斯",
+          "team_id": "ast_ed004bd5651946339e7caa485f4eda48"
         },
         "venue": ""
       }
@@ -8873,13 +9010,13 @@
     }
   },
   "stats": {
-    "matches_completed": 224,
-    "total_goals": 517,
+    "matches_completed": 225,
+    "total_goals": 520,
     "avg_goals_per_match": 2.31,
     "home_wins": 92,
     "draws": 70,
-    "away_wins": 62,
-    "home_win_pct": 41.1,
+    "away_wins": 63,
+    "home_win_pct": 40.9,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -9642,8 +9779,8 @@
     "distinct_title_holders": 12,
     "teams_all_time": 39,
     "standings_rows_current": 14,
-    "matches_current_season": 225,
-    "upcoming_matches": 1
+    "matches_current_season": 229,
+    "upcoming_matches": 4
   },
-  "updated_at": "2026/11/14"
+  "updated_at": "2026/11/15"
 }

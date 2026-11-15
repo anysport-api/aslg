@@ -184,6 +184,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
+        "team": "Chernomorets 1919",
+        "played": 16,
+        "wins": 9,
+        "draws": 5,
+        "losses": 2,
+        "goals_for": 30,
+        "goals_against": 14,
+        "goal_difference": 16,
+        "points": 32,
+        "form": "WDWDW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_880585898db448548637e909f516b4dd",
         "team": "CSKA Sofia II",
         "played": 15,
@@ -197,7 +211,7 @@
         "form": "WWDDW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_cac01f260c964616b25d89c76717ebc5",
         "team": "Vihren",
         "played": 15,
@@ -209,20 +223,6 @@
         "goal_difference": 15,
         "points": 29,
         "form": "WDDLW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
-        "team": "Chernomorets 1919",
-        "played": 15,
-        "wins": 8,
-        "draws": 5,
-        "losses": 2,
-        "goals_for": 27,
-        "goals_against": 13,
-        "goal_difference": 14,
-        "points": 29,
-        "form": "DWDWW"
       },
       {
         "position": 4,
@@ -354,15 +354,15 @@
         "position": 13,
         "team_id": "ast_4d1b491e65ec464a8375e42480d4ec6b",
         "team": "Marek",
-        "played": 15,
+        "played": 16,
         "wins": 5,
         "draws": 3,
-        "losses": 7,
-        "goals_for": 17,
-        "goals_against": 21,
-        "goal_difference": -4,
+        "losses": 8,
+        "goals_for": 18,
+        "goals_against": 24,
+        "goal_difference": -6,
         "points": 18,
-        "form": "LLDWD"
+        "form": "LLLDW"
       },
       {
         "position": 14,
@@ -438,6 +438,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
+        "team": "切尔诺莫雷茨1919",
+        "played": 16,
+        "wins": 9,
+        "draws": 5,
+        "losses": 2,
+        "goals_for": 30,
+        "goals_against": 14,
+        "goal_difference": 16,
+        "points": 32,
+        "form": "WDWDW",
+        "form_label": "胜平胜平胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_880585898db448548637e909f516b4dd",
         "team": "索非亚中央陆军二队",
         "played": 15,
@@ -452,7 +467,7 @@
         "form_label": "胜胜平平胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_cac01f260c964616b25d89c76717ebc5",
         "team": "维赫伦",
         "played": 15,
@@ -465,21 +480,6 @@
         "points": 29,
         "form": "WDDLW",
         "form_label": "胜平平负胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
-        "team": "切尔诺莫雷茨1919",
-        "played": 15,
-        "wins": 8,
-        "draws": 5,
-        "losses": 2,
-        "goals_for": 27,
-        "goals_against": 13,
-        "goal_difference": 14,
-        "points": 29,
-        "form": "DWDWW",
-        "form_label": "平胜平胜胜"
       },
       {
         "position": 4,
@@ -620,16 +620,16 @@
         "position": 13,
         "team_id": "ast_4d1b491e65ec464a8375e42480d4ec6b",
         "team": "马雷克",
-        "played": 15,
+        "played": 16,
         "wins": 5,
         "draws": 3,
-        "losses": 7,
-        "goals_for": 17,
-        "goals_against": 21,
-        "goal_difference": -4,
+        "losses": 8,
+        "goals_for": 18,
+        "goals_against": 24,
+        "goal_difference": -6,
         "points": 18,
-        "form": "LLDWD",
-        "form_label": "负负平胜平"
+        "form": "LLLDW",
+        "form_label": "负负负平胜"
       },
       {
         "position": 14,
@@ -3869,7 +3869,7 @@
         "match_id": "as_95d345af43284a25a3a23a6a628c3d5b",
         "date": "2026-11-21",
         "time": "10:15",
-        "status": "Not Started",
+        "status": "10:15",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3881,15 +3881,13 @@
           "name": "里尔斯基体育",
           "team_id": "ast_e74bacd24f1c43669f70827a9464028e"
         },
-        "ht_score": "-",
-        "venue": "efbet Arena",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a52bc8a4efce424da9bab4df5efa2658",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3901,15 +3899,13 @@
           "name": "斯沃热",
           "team_id": "ast_a124b37319cd487584035596d716a468"
         },
-        "ht_score": "-",
-        "venue": "Ivajlo Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_df69cb60128a435ca878539a16bca18b",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3921,15 +3917,13 @@
           "name": "戈尔纳火车头",
           "team_id": "ast_22e5df9558c74c3ba40e1fb0e63f8d68"
         },
-        "ht_score": "-",
-        "venue": "格奥尔基·本科夫斯基体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e9b6d8cfb8fd4e7187a285ebea760954",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3941,15 +3935,13 @@
           "name": "马雷克",
           "team_id": "ast_4d1b491e65ec464a8375e42480d4ec6b"
         },
-        "ht_score": "-",
-        "venue": "PFC Ludogorets 1945 Training Centre",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bbaf754cbe6249b3873e1984f5a1ecb7",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3961,15 +3953,13 @@
           "name": "内塞巴尔",
           "team_id": "ast_f5a29576040a43598add6285b2cc0731"
         },
-        "ht_score": "-",
-        "venue": "Stadion Pleven",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_63074871a6714f10bcd17ec8376be000",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3981,8 +3971,26 @@
           "name": "皮林布拉戈耶夫格勒",
           "team_id": "ast_f8ac669576144b7bbf1a9712059620fe"
         },
+        "venue": ""
+      },
+      {
+        "match_id": "as_edd027aea1a44f4e9b73afbebc2768bf",
+        "date": "2026-11-19",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "保加利亚B PFG",
+        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
+        "season": "2026/2027",
+        "home": {
+          "name": "多布鲁贾",
+          "team_id": "ast_3d832ab0e581492e823d29878c6470f9"
+        },
+        "away": {
+          "name": "弗拉特里亚",
+          "team_id": "ast_b767d7be460d4d3f9453282d506098be"
+        },
         "ht_score": "-",
-        "venue": "Spartak Stadium",
+        "venue": "Druzhba",
         "status_label": "未开赛"
       },
       {
@@ -4133,7 +4141,7 @@
         "match_id": "as_483f65c8eb144fce92c321dfeacb1ad5",
         "date": "2026-11-14",
         "time": "12:30",
-        "status": "12:30",
+        "status": "FT",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -4145,7 +4153,10 @@
           "name": "切尔诺莫雷茨1919",
           "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f"
         },
-        "venue": ""
+        "ht_score": "1-3",
+        "reg_score": "1-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0b5cdc0531054976ab1cc3fd2c2b8773",
@@ -4335,25 +4346,6 @@
         "reg_score": "3-1",
         "venue": "Spartak Stadium",
         "status_label": "完场"
-      },
-      {
-        "match_id": "as_edd027aea1a44f4e9b73afbebc2768bf",
-        "date": "2026-11-02",
-        "time": "15:30",
-        "status": "Postp.",
-        "league": "保加利亚B PFG",
-        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
-        "season": "2026/2027",
-        "home": {
-          "name": "多布鲁贾",
-          "team_id": "ast_3d832ab0e581492e823d29878c6470f9"
-        },
-        "away": {
-          "name": "弗拉特里亚",
-          "team_id": "ast_b767d7be460d4d3f9453282d506098be"
-        },
-        "venue": "",
-        "status_label": "延期"
       },
       {
         "match_id": "as_14d1e4cc9c4643678053ce1c8923d7ea",
@@ -7405,7 +7397,7 @@
         "match_id": "as_63074871a6714f10bcd17ec8376be000",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -7417,15 +7409,13 @@
           "name": "皮林布拉戈耶夫格勒",
           "team_id": "ast_f8ac669576144b7bbf1a9712059620fe"
         },
-        "ht_score": "-",
-        "venue": "Spartak Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bbaf754cbe6249b3873e1984f5a1ecb7",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -7437,15 +7427,13 @@
           "name": "内塞巴尔",
           "team_id": "ast_f5a29576040a43598add6285b2cc0731"
         },
-        "ht_score": "-",
-        "venue": "Stadion Pleven",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e9b6d8cfb8fd4e7187a285ebea760954",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -7457,15 +7445,13 @@
           "name": "马雷克",
           "team_id": "ast_4d1b491e65ec464a8375e42480d4ec6b"
         },
-        "ht_score": "-",
-        "venue": "PFC Ludogorets 1945 Training Centre",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_df69cb60128a435ca878539a16bca18b",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -7477,15 +7463,13 @@
           "name": "戈尔纳火车头",
           "team_id": "ast_22e5df9558c74c3ba40e1fb0e63f8d68"
         },
-        "ht_score": "-",
-        "venue": "格奥尔基·本科夫斯基体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a52bc8a4efce424da9bab4df5efa2658",
         "date": "2026-11-21",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -7497,15 +7481,13 @@
           "name": "斯沃热",
           "team_id": "ast_a124b37319cd487584035596d716a468"
         },
-        "ht_score": "-",
-        "venue": "Ivajlo Stadion",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_95d345af43284a25a3a23a6a628c3d5b",
         "date": "2026-11-21",
         "time": "10:15",
-        "status": "Not Started",
+        "status": "10:15",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -7517,8 +7499,26 @@
           "name": "里尔斯基体育",
           "team_id": "ast_e74bacd24f1c43669f70827a9464028e"
         },
+        "venue": ""
+      },
+      {
+        "match_id": "as_edd027aea1a44f4e9b73afbebc2768bf",
+        "date": "2026-11-19",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "保加利亚B PFG",
+        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
+        "season": "2026/2027",
+        "home": {
+          "name": "多布鲁贾",
+          "team_id": "ast_3d832ab0e581492e823d29878c6470f9"
+        },
+        "away": {
+          "name": "弗拉特里亚",
+          "team_id": "ast_b767d7be460d4d3f9453282d506098be"
+        },
         "ht_score": "-",
-        "venue": "efbet Arena",
+        "venue": "Druzhba",
         "status_label": "未开赛"
       },
       {
@@ -7662,24 +7662,6 @@
         "away": {
           "name": "维赫伦",
           "team_id": "ast_cac01f260c964616b25d89c76717ebc5"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_483f65c8eb144fce92c321dfeacb1ad5",
-        "date": "2026-11-14",
-        "time": "12:30",
-        "status": "12:30",
-        "league": "保加利亚B PFG",
-        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
-        "season": "2026/2027",
-        "home": {
-          "name": "马雷克",
-          "team_id": "ast_4d1b491e65ec464a8375e42480d4ec6b"
-        },
-        "away": {
-          "name": "切尔诺莫雷茨1919",
-          "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f"
         },
         "venue": ""
       }
@@ -10096,13 +10078,13 @@
     }
   },
   "stats": {
-    "matches_completed": 133,
-    "total_goals": 372,
-    "avg_goals_per_match": 2.8,
+    "matches_completed": 134,
+    "total_goals": 376,
+    "avg_goals_per_match": 2.81,
     "home_wins": 67,
     "draws": 34,
-    "away_wins": 32,
-    "home_win_pct": 50.4,
+    "away_wins": 33,
+    "home_win_pct": 50.0,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -10128,9 +10110,9 @@
       }
     },
     "leader": {
-      "team": "CSKA Sofia II",
-      "points": 31,
-      "played": 15
+      "team": "Chernomorets 1919",
+      "points": 32,
+      "played": 16
     }
   },
   "coverage": {
@@ -10225,6 +10207,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
+            "team": "Chernomorets 1919",
+            "played": 16,
+            "wins": 9,
+            "draws": 5,
+            "losses": 2,
+            "goals_for": 30,
+            "goals_against": 14,
+            "goal_difference": 16,
+            "points": 32,
+            "form": "WDWDW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_880585898db448548637e909f516b4dd",
             "team": "CSKA Sofia II",
             "played": 15,
@@ -10238,7 +10234,7 @@
             "form": "WWDDW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_cac01f260c964616b25d89c76717ebc5",
             "team": "Vihren",
             "played": 15,
@@ -10250,20 +10246,6 @@
             "goal_difference": 15,
             "points": 29,
             "form": "WDDLW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
-            "team": "Chernomorets 1919",
-            "played": 15,
-            "wins": 8,
-            "draws": 5,
-            "losses": 2,
-            "goals_for": 27,
-            "goals_against": 13,
-            "goal_difference": 14,
-            "points": 29,
-            "form": "DWDWW"
           }
         ],
         "meta": {
@@ -10902,5 +10884,5 @@
     "matches_current_season": 306,
     "upcoming_matches": 37
   },
-  "updated_at": "2026/11/14"
+  "updated_at": "2026/11/15"
 }

@@ -18344,7 +18344,7 @@
         "match_id": "as_591962567a0443fc98d6c50ef143c3c5",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "捷克乙级联赛",
         "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
         "season": "2026/2027",
@@ -18356,9 +18356,7 @@
           "name": "斯巴达布拉格B队",
           "team_id": "ast_4a2bac602e1a4ffdb34f0deb3b5f1155"
         },
-        "ht_score": "-",
-        "venue": "Strelecky ostrov",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_268cec993d9c4aabaa46bc1b33446a02",
@@ -18382,7 +18380,7 @@
         "match_id": "as_6f0db65a83b74e84be36234252c40de7",
         "date": "2026-11-15",
         "time": "09:15",
-        "status": "09:15",
+        "status": "HT",
         "league": "捷克乙级联赛",
         "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
         "season": "2026/2027",
@@ -18394,13 +18392,16 @@
           "name": "布兰斯科",
           "team_id": "ast_0d4228d25409427fac3c6edb6915fcda"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "中场"
       },
       {
         "match_id": "as_a16fad5a9fc44d388d4ee28e081c8db9",
         "date": "2026-11-15",
         "time": "09:15",
-        "status": "09:15",
+        "status": "HT",
         "league": "捷克乙级联赛",
         "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
         "season": "2026/2027",
@@ -18412,7 +18413,10 @@
           "name": "赫拉德茨克拉洛维B队",
           "team_id": "ast_dbbaff6172124c5391b32e5f87df7cc8"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "中场"
       },
       {
         "match_id": "as_7b4ceebd46524908a05a39839fa8f10a",
@@ -18454,7 +18458,7 @@
         "match_id": "as_f00fa4640a46443e9457582a8c574487",
         "date": "2026-11-15",
         "time": "09:15",
-        "status": "09:15",
+        "status": "45",
         "league": "捷克乙级联赛",
         "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
         "season": "2026/2027",
@@ -18466,13 +18470,15 @@
           "name": "克拉卢夫·德夫尔",
           "team_id": "ast_867df1fec463400c948a0296a57e8169"
         },
+        "ht_score": "1-0",
+        "reg_score": "1-0",
         "venue": ""
       },
       {
         "match_id": "as_60b6d89d20d540478df8e68196bbe1fa",
         "date": "2026-11-15",
         "time": "09:15",
-        "status": "09:15",
+        "status": "45",
         "league": "捷克乙级联赛",
         "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
         "season": "2026/2027",
@@ -18484,294 +18490,8 @@
           "name": "布拉格斯拉维亚U20",
           "team_id": "ast_3645520949b741af98f042aaf1e6b35e"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_974036622d3a4f329d4b2c54b512bf2b",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "弗谢廷",
-          "team_id": "ast_5ea823d7eaf544af9f1ece64f970577f"
-        },
-        "away": {
-          "name": "SK赫拉尼采",
-          "team_id": "ast_c0ce0eba8fc64e97ae90f1806fdf2ae6"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d16c8f872515405998d4aad4a322fe6e",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌尼科夫",
-          "team_id": "ast_fa0d7e541d30422e99c57e71d2d11cee"
-        },
-        "away": {
-          "name": "兹林B队",
-          "team_id": "ast_e65931a9aa6e44b9901c93f6bd9c978c"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ba03d4864a93443c90709a27ea0a6fc2",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "乌赫尔斯基布罗德",
-          "team_id": "ast_9d296edbbed54511ac3d64c5c8331b99"
-        },
-        "away": {
-          "name": "阿尔蒂斯布尔诺B队",
-          "team_id": "ast_8c3d53ec8c55422b8075f5b210dfa20e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_33d51627d7974648b72667a7bf8320ab",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "波兰卡·纳德·奥德鲁",
-          "team_id": "ast_ed7f000f4d564da0a513a44ea69f1a37"
-        },
-        "away": {
-          "name": "斯洛伐克B队",
-          "team_id": "ast_216a58aad6b74bfa9f496eeab1ac6870"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e1f87e26141b4bcba3b058d5c3fe715b",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "新梅斯托纳莫拉维",
-          "team_id": "ast_e31ba9c002b44162a601e25f95110af5"
-        },
-        "away": {
-          "name": "霍多宁",
-          "team_id": "ast_054deedfaa5b43c8887cddbc057f209a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_159fe06a2cf7444eaa37226e3fcb6b08",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "弗里德克-米斯特克足球俱乐部",
-          "team_id": "ast_c3c30c200b244045b5b7678f05ee5afe"
-        },
-        "away": {
-          "name": "维特科维采",
-          "team_id": "ast_c51fe9a511ce4186b9ab853a6c423766"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d572c4a0f3b64848ab37208c6ca731b3",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "赫鲁比纳",
-          "team_id": "ast_7105d30eda3146ad9fb66144cb62a46a"
-        },
-        "away": {
-          "name": "卡尔维纳B队",
-          "team_id": "ast_651580a80a1c483db348e72ce6a4b72e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4178f2d4057040f187e856597127bcc6",
-        "date": "2026-11-14",
-        "time": "09:15",
-        "status": "09:15",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "帕尔杜比采B队",
-          "team_id": "ast_450d1f8dd4324a55bb843a90fd56d334"
-        },
-        "away": {
-          "name": "瓦尔斯多夫",
-          "team_id": "ast_bf14a101038c4c97ab29136229f2bb56"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0fa52a7fc32f49a28ca6e3d69175c8a0",
-        "date": "2026-11-14",
-        "time": "09:15",
-        "status": "09:15",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "内拉托维采",
-          "team_id": "ast_976fb481672249659d4f12664de560a9"
-        },
-        "away": {
-          "name": "维尔克哈姆里",
-          "team_id": "ast_87fe910e721c4ab3b7d1bd912f112312"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a5872376d4404b0a8416e75c917ea5c2",
-        "date": "2026-11-14",
-        "time": "09:15",
-        "status": "09:15",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "霍尔尼·雷迪采",
-          "team_id": "ast_02c9d49ebf37426e9e65eab83808f50c"
-        },
-        "away": {
-          "name": "扎皮",
-          "team_id": "ast_9d00c0133d52419e97d3266599bb44d8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f4b9b0c7a79b4ae1bf3b4292dbe115ec",
-        "date": "2026-11-14",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "赫鲁季姆",
-          "team_id": "ast_d99bf8b9e4a0403f8bb04a54f1a568b4"
-        },
-        "away": {
-          "name": "亚布洛内茨B队",
-          "team_id": "ast_599ae91cc1624a72981b7b8399a8d18a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_42bb5c46f6144554b1aaeb5839ab0f1a",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "布罗扎尼",
-          "team_id": "ast_7d473d3fd1314878bdb47b79f79dabbc"
-        },
-        "away": {
-          "name": "利贝雷茨B队",
-          "team_id": "ast_a14921eafc004a98a7f77a4ad632e090"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_31574bc0104a40eabcd9bb6ebca6c8e4",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "本纳特基",
-          "team_id": "ast_3e5db677aeb846118ae2483e9fc41128"
-        },
-        "away": {
-          "name": "姆拉达博莱斯拉夫B队",
-          "team_id": "ast_cad7d450a43546a181568fb0c170fc07"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0b43a632fbfa49aeb25e3089e86bb758",
-        "date": "2026-11-14",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "普里布拉姆B",
-          "team_id": "ast_d26b6a4352384b87bd16be6858390c19"
-        },
-        "away": {
-          "name": "摩托列特·布拉格",
-          "team_id": "ast_38fb53e645a14d02812f33f81fd738c0"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_df77016241474546834cbe096f4d65ba",
-        "date": "2026-11-14",
-        "time": "11:30",
-        "status": "11:30",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "杜克拉布拉格B队",
-          "team_id": "ast_b0f0c2ab7af54eeeb17d008037fb8c38"
-        },
-        "away": {
-          "name": "波夫尔塔夫斯卡足球协会",
-          "team_id": "ast_d1efa111141a4cb0ad98fcfe96cdefd3"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_dd375d4896dd4485b2d359bf098ce3ec",
-        "date": "2026-11-14",
-        "time": "09:15",
-        "status": "09:15",
-        "league": "捷克乙级联赛",
-        "league_id": "asl_b411fc1195f645efbd4cd74d8328d707",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿里特玛布拉格",
-          "team_id": "ast_0c273b01d6ed47eca1183090870601d6"
-        },
-        "away": {
-          "name": "多马日采",
-          "team_id": "ast_be336d204fe04da79f65da7e6a5a1d86"
-        },
+        "ht_score": "1-1",
+        "reg_score": "1-1",
         "venue": ""
       }
     ]
@@ -24262,7 +23982,7 @@
     "teams_all_time": 79,
     "standings_rows_current": 52,
     "matches_current_season": 834,
-    "upcoming_matches": 25
+    "upcoming_matches": 9
   },
-  "updated_at": "2026/11/14"
+  "updated_at": "2026/11/15"
 }

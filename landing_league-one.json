@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
@@ -607,6 +607,47 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_78de6de5cb894e37b13aae62d1a41772",
+        "date": "2026-11-22",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国甲级联赛",
+        "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
+        "season": "2026",
+        "home": {
+          "name": "丁南·甘连",
+          "team_id": "ast_88affc4ffd7b4868b499c70552d1970c"
+        },
+        "away": {
+          "name": "Guizhou Guiyang",
+          "team_id": "ast_0252cb552ae449f1b51204c69c163513"
+        },
+        "ht_score": "-",
+        "venue": "Dingnan Football Youth Training Center",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d7d555e761a542e08ad8cd9ec5fbf9a1",
+        "date": "2026-11-15",
+        "time": "07:00",
+        "status": "FT",
+        "league": "中国甲级联赛",
+        "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
+        "season": "2026",
+        "home": {
+          "name": "Guizhou Guiyang",
+          "team_id": "ast_0252cb552ae449f1b51204c69c163513"
+        },
+        "away": {
+          "name": "丁南·甘连",
+          "team_id": "ast_88affc4ffd7b4868b499c70552d1970c"
+        },
+        "ht_score": "3-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
+      },
       {
         "match_id": "as_941b0c4c89e4492dbf1a74fb2b84241e",
         "date": "2026-11-07",
@@ -5648,7 +5689,49 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_78de6de5cb894e37b13aae62d1a41772",
+        "date": "2026-11-22",
+        "time": "07:30",
+        "status": "Not Started",
+        "league": "中国甲级联赛",
+        "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
+        "season": "2026",
+        "home": {
+          "name": "丁南·甘连",
+          "team_id": "ast_88affc4ffd7b4868b499c70552d1970c"
+        },
+        "away": {
+          "name": "Guizhou Guiyang",
+          "team_id": "ast_0252cb552ae449f1b51204c69c163513"
+        },
+        "ht_score": "-",
+        "venue": "Dingnan Football Youth Training Center",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_d7d555e761a542e08ad8cd9ec5fbf9a1",
+        "date": "2026-11-15",
+        "time": "07:00",
+        "status": "FT",
+        "league": "中国甲级联赛",
+        "league_id": "asl_e1c314e6ad1f479b932751e670483e2b",
+        "season": "2026",
+        "home": {
+          "name": "Guizhou Guiyang",
+          "team_id": "ast_0252cb552ae449f1b51204c69c163513"
+        },
+        "away": {
+          "name": "丁南·甘连",
+          "team_id": "ast_88affc4ffd7b4868b499c70552d1970c"
+        },
+        "ht_score": "3-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
+      }
+    ]
   },
   "champions": [
     {
@@ -7904,16 +7987,19 @@
     },
     "ast_57330aee7b4549a4a49f80961bef6973": {
       "en": "Shanghai Shenxin"
+    },
+    "ast_0252cb552ae449f1b51204c69c163513": {
+      "en": "Guizhou Guiyang"
     }
   },
   "stats": {
-    "matches_completed": 240,
-    "total_goals": 646,
-    "avg_goals_per_match": 2.69,
-    "home_wins": 101,
+    "matches_completed": 241,
+    "total_goals": 650,
+    "avg_goals_per_match": 2.7,
+    "home_wins": 102,
     "draws": 68,
     "away_wins": 71,
-    "home_win_pct": 42.1,
+    "home_win_pct": 42.3,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8710,8 +8796,8 @@
     "distinct_title_holders": 7,
     "teams_all_time": 49,
     "standings_rows_current": 16,
-    "matches_current_season": 240,
-    "upcoming_matches": 0
+    "matches_current_season": 242,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/09"
+  "updated_at": "2026/11/15"
 }
