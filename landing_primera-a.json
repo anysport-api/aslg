@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
@@ -662,7 +662,7 @@
         "match_id": "as_f3ee01dd26c94fd98985dfcd044a017b",
         "date": "2026-11-15",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "墨西哥甲级联赛",
         "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
         "season": "2026/2027",
@@ -674,7 +674,10 @@
           "name": "莫雷利亚竞技",
           "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_15446954053341c18fddbdf09404f5c9",
@@ -694,7 +697,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-0",
-        "venue": "",
+        "venue": "Estadio Morelos",
         "status_label": "完场"
       },
       {
@@ -3407,47 +3410,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_f3ee01dd26c94fd98985dfcd044a017b",
-        "date": "2026-11-15",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "黑狮队UdeG",
-          "team_id": "ast_286062b3c5cc469883e776ba7e103f19"
-        },
-        "away": {
-          "name": "莫雷利亚竞技",
-          "team_id": "ast_11b65ce50e894b799251d4d4e515f08e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_dba1efa410cb488eba4927f4cb6f3f92",
-        "date": "2026-11-15",
-        "time": "03:00",
-        "status": "FT",
-        "league": "墨西哥甲级联赛",
-        "league_id": "asl_e82b5ec05d3545c98c43e6cc1a7ce9f7",
-        "season": "2026/2027",
-        "home": {
-          "name": "拉巴斯竞技",
-          "team_id": "ast_5fcbf1e76c9048d2985893da336adb56"
-        },
-        "away": {
-          "name": "海盗队",
-          "team_id": "ast_e5e92a72234f4af8b3631c917bcce171"
-        },
-        "ht_score": "0-1",
-        "reg_score": "1-1",
-        "venue": "",
-        "status_label": "完场"
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -5520,13 +5483,13 @@
     }
   },
   "stats": {
-    "matches_completed": 131,
+    "matches_completed": 132,
     "total_goals": 411,
-    "avg_goals_per_match": 3.14,
+    "avg_goals_per_match": 3.11,
     "home_wins": 63,
-    "draws": 31,
+    "draws": 32,
     "away_wins": 37,
-    "home_win_pct": 48.1,
+    "home_win_pct": 47.7,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6324,7 +6287,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 132,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/15"
+  "updated_at": "2026/11/16"
 }

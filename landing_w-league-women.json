@@ -2862,6 +2862,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_dd15f59e9579445c8b10a804bb4fafec",
+        "date": "2026-12-31",
+        "time": "05:50",
+        "status": "Not Started",
+        "league": "澳大利亚女足W联赛",
+        "league_id": "asl_4c42e65535204bf1b9819d06061bc2ce",
+        "season": "2026/2027",
+        "home": {
+          "name": "中央海岸水手女足",
+          "team_id": "ast_81fd98684cbd4b788d93eb9ab673158f"
+        },
+        "away": {
+          "name": "墨尔本城女足",
+          "team_id": "ast_876ed01087de444795cb5eec13099505"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_e2c670128a3a47869c94974bfbe845bc",
         "date": "2026-12-30",
         "time": "05:50",
@@ -3165,7 +3185,7 @@
         "match_id": "as_529d61ba9b15406abfb33049a8074c38",
         "date": "2026-11-22",
         "time": "04:00",
-        "status": "Not Started",
+        "status": "04:00",
         "league": "澳大利亚女足W联赛",
         "league_id": "asl_4c42e65535204bf1b9819d06061bc2ce",
         "season": "2026/2027",
@@ -3177,9 +3197,7 @@
           "name": "珀斯女队",
           "team_id": "ast_edcf04afbddc40c3af53cbe870ac7306"
         },
-        "ht_score": "-",
-        "venue": "湖滨体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bfe91e70b7bb41cd8bd47d78a5ff6f0a",
@@ -3250,42 +3268,6 @@
         "away": {
           "name": "惠灵顿凤凰女足",
           "team_id": "ast_acc68924341a4debbb3fc25f41f5f337"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b9e682d344f04eb09416747f053f1768",
-        "date": "2026-11-15",
-        "time": "04:00",
-        "status": "04:00",
-        "league": "澳大利亚女足W联赛",
-        "league_id": "asl_4c42e65535204bf1b9819d06061bc2ce",
-        "season": "2026/2027",
-        "home": {
-          "name": "堪培拉女足",
-          "team_id": "ast_857ebb648fd84d7386c628c527e860c0"
-        },
-        "away": {
-          "name": "布里斯班狮吼女足",
-          "team_id": "ast_2f34347dbe4344b3823ede9f642edcbe"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_077468256e3b42b699b907b7d0fe3bc6",
-        "date": "2026-11-15",
-        "time": "01:00",
-        "status": "01:00",
-        "league": "澳大利亚女足W联赛",
-        "league_id": "asl_4c42e65535204bf1b9819d06061bc2ce",
-        "season": "2026/2027",
-        "home": {
-          "name": "惠灵顿凤凰女足",
-          "team_id": "ast_acc68924341a4debbb3fc25f41f5f337"
-        },
-        "away": {
-          "name": "悉尼女足",
-          "team_id": "ast_04ccab9bc3aa41bfa263ccf57124ca9e"
         },
         "venue": ""
       }
@@ -4706,7 +4688,7 @@
     "teams_all_time": 12,
     "standings_rows_current": 11,
     "matches_current_season": 117,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/11/15"
+  "updated_at": "2026/11/16"
 }

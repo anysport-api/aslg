@@ -644,10 +644,30 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_5cf994a27c3240fcbc4e736e850c6f2a",
+        "date": "2026-11-28",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "挪威甲级联赛",
+        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
+        "season": "2026",
+        "home": {
+          "name": "比亚尔格",
+          "team_id": "ast_72b9fbb4f9d34912ac54bc467fa23a6f"
+        },
+        "away": {
+          "name": "索格达尔",
+          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
+        },
+        "ht_score": "-",
+        "venue": "Stavollen kunstgress",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_a300fa7c4d9c4c74855869c6cf62b47c",
         "date": "2026-11-22",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "挪威甲级联赛",
         "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
         "season": "2026",
@@ -659,15 +679,33 @@
           "name": "布赖恩",
           "team_id": "ast_1b3bcb1575554466a0e974d2c7f002a1"
         },
+        "venue": ""
+      },
+      {
+        "match_id": "as_c1141efcfc2846a3a10f30b8dceda801",
+        "date": "2026-11-21",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "挪威甲级联赛",
+        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
+        "season": "2026",
+        "home": {
+          "name": "索格达尔",
+          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
+        },
+        "away": {
+          "name": "比亚尔格",
+          "team_id": "ast_72b9fbb4f9d34912ac54bc467fa23a6f"
+        },
         "ht_score": "-",
-        "venue": "斯卡格拉克球场",
+        "venue": "Fosshaugane训练基地",
         "status_label": "未开赛"
       },
       {
         "match_id": "as_dbaaee199db749fbb4b82589f8c2d537",
         "date": "2026-11-14",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "挪威甲级联赛",
         "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
         "season": "2026",
@@ -679,9 +717,10 @@
           "name": "比亚尔格",
           "team_id": "ast_72b9fbb4f9d34912ac54bc467fa23a6f"
         },
-        "ht_score": "-",
+        "ht_score": "1-1",
+        "reg_score": "2-3",
         "venue": "格雷夫森体育场",
-        "status_label": "未开赛"
+        "status_label": "完场"
       },
       {
         "match_id": "as_8b8c1f73fa4f444ab9a4c29f3ed50b83",
@@ -5747,10 +5786,30 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_5cf994a27c3240fcbc4e736e850c6f2a",
+        "date": "2026-11-28",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "挪威甲级联赛",
+        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
+        "season": "2026",
+        "home": {
+          "name": "比亚尔格",
+          "team_id": "ast_72b9fbb4f9d34912ac54bc467fa23a6f"
+        },
+        "away": {
+          "name": "索格达尔",
+          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
+        },
+        "ht_score": "-",
+        "venue": "Stavollen kunstgress",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_a300fa7c4d9c4c74855869c6cf62b47c",
         "date": "2026-11-22",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "挪威甲级联赛",
         "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
         "season": "2026",
@@ -5762,8 +5821,26 @@
           "name": "布赖恩",
           "team_id": "ast_1b3bcb1575554466a0e974d2c7f002a1"
         },
+        "venue": ""
+      },
+      {
+        "match_id": "as_c1141efcfc2846a3a10f30b8dceda801",
+        "date": "2026-11-21",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "挪威甲级联赛",
+        "league_id": "asl_8066e8ad4a51404b8c72e33bddd842ae",
+        "season": "2026",
+        "home": {
+          "name": "索格达尔",
+          "team_id": "ast_b31094e66b794bdd86a65d4e4edf419a"
+        },
+        "away": {
+          "name": "比亚尔格",
+          "team_id": "ast_72b9fbb4f9d34912ac54bc467fa23a6f"
+        },
         "ht_score": "-",
-        "venue": "斯卡格拉克球场",
+        "venue": "Fosshaugane训练基地",
         "status_label": "未开赛"
       }
     ]
@@ -7659,13 +7736,13 @@
     }
   },
   "stats": {
-    "matches_completed": 241,
-    "total_goals": 911,
-    "avg_goals_per_match": 3.78,
+    "matches_completed": 242,
+    "total_goals": 916,
+    "avg_goals_per_match": 3.79,
     "home_wins": 123,
     "draws": 41,
-    "away_wins": 77,
-    "home_win_pct": 51.0,
+    "away_wins": 78,
+    "home_win_pct": 50.8,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -8462,8 +8539,8 @@
     "distinct_title_holders": 6,
     "teams_all_time": 36,
     "standings_rows_current": 16,
-    "matches_current_season": 243,
-    "upcoming_matches": 1
+    "matches_current_season": 245,
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/11/15"
+  "updated_at": "2026/11/16"
 }

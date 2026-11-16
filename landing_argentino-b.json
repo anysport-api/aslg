@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_a797e1532e1a4a63b0a8b50480f38715",
@@ -1209,7 +1209,7 @@
         "match_id": "as_000850d164f942bb922f31e4903c4f82",
         "date": "2026-11-15",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷甲级联赛B组",
         "league_id": "asl_a797e1532e1a4a63b0a8b50480f38715",
         "season": "2026",
@@ -1221,13 +1221,16 @@
           "name": "科莱吉亚莱斯",
           "team_id": "ast_476ed26113594ca48ee9d3d21fdf92a1"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f327a179ec2f4a9c9bf59232c12dbe67",
         "date": "2026-11-15",
         "time": "23:30",
-        "status": "23:30",
+        "status": "FT",
         "league": "阿根廷甲级联赛B组",
         "league_id": "asl_a797e1532e1a4a63b0a8b50480f38715",
         "season": "2026",
@@ -1239,13 +1242,16 @@
           "name": "吉姆纳西亚与提罗",
           "team_id": "ast_5158a20d7a784ea8a7da29f0919737f6"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c185281fec53446c88cd838b3b40c9d9",
         "date": "2026-11-15",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "阿根廷甲级联赛B组",
         "league_id": "asl_a797e1532e1a4a63b0a8b50480f38715",
         "season": "2026",
@@ -1257,7 +1263,10 @@
           "name": "特里斯坦·苏亚雷斯",
           "team_id": "ast_5d46c26afa85429a8096c7a7b192d012"
         },
-        "venue": ""
+        "ht_score": "2-1",
+        "reg_score": "3-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_774c315b4771486d8025a903f0ed9c35",
@@ -14971,62 +14980,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_c185281fec53446c88cd838b3b40c9d9",
-        "date": "2026-11-15",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "阿根廷甲级联赛B组",
-        "league_id": "asl_a797e1532e1a4a63b0a8b50480f38715",
-        "season": "2026",
-        "home": {
-          "name": "戈多伊克鲁斯",
-          "team_id": "ast_6a6f43f49d7d4269b41c531ac645a178"
-        },
-        "away": {
-          "name": "特里斯坦·苏亚雷斯",
-          "team_id": "ast_5d46c26afa85429a8096c7a7b192d012"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_f327a179ec2f4a9c9bf59232c12dbe67",
-        "date": "2026-11-15",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "阿根廷甲级联赛B组",
-        "league_id": "asl_a797e1532e1a4a63b0a8b50480f38715",
-        "season": "2026",
-        "home": {
-          "name": "费罗",
-          "team_id": "ast_539cfd4430e6434d9eb427b94cdef528"
-        },
-        "away": {
-          "name": "吉姆纳西亚与提罗",
-          "team_id": "ast_5158a20d7a784ea8a7da29f0919737f6"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_000850d164f942bb922f31e4903c4f82",
-        "date": "2026-11-15",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷甲级联赛B组",
-        "league_id": "asl_a797e1532e1a4a63b0a8b50480f38715",
-        "season": "2026",
-        "home": {
-          "name": "莫龙体育",
-          "team_id": "ast_a8d5b59fba65468d96085301bb953b5f"
-        },
-        "away": {
-          "name": "科莱吉亚莱斯",
-          "team_id": "ast_476ed26113594ca48ee9d3d21fdf92a1"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -18805,12 +18759,12 @@
     }
   },
   "stats": {
-    "matches_completed": 652,
-    "total_goals": 1274,
-    "avg_goals_per_match": 1.95,
-    "home_wins": 304,
-    "draws": 207,
-    "away_wins": 141,
+    "matches_completed": 655,
+    "total_goals": 1281,
+    "avg_goals_per_match": 1.96,
+    "home_wins": 305,
+    "draws": 208,
+    "away_wins": 142,
     "home_win_pct": 46.6,
     "biggest_win": {
       "margin": 5,
@@ -19609,7 +19563,7 @@
     "teams_all_time": 59,
     "standings_rows_current": 36,
     "matches_current_season": 656,
-    "upcoming_matches": 3
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/15"
+  "updated_at": "2026/11/16"
 }
