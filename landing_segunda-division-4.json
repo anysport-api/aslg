@@ -184,15 +184,15 @@
         "position": 9,
         "team_id": "ast_4f89aee940e647c5a00d2da459d48967",
         "team": "Deportes Rengo",
-        "played": 10,
+        "played": 11,
         "wins": 5,
         "draws": 3,
-        "losses": 2,
-        "goals_for": 21,
-        "goals_against": 16,
-        "goal_difference": 5,
+        "losses": 3,
+        "goals_for": 22,
+        "goals_against": 18,
+        "goal_difference": 4,
         "points": 18,
-        "form": "DLLWW"
+        "form": "LDLLW"
       },
       {
         "position": 10,
@@ -210,6 +210,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
+        "team": "S. Morning",
+        "played": 11,
+        "wins": 2,
+        "draws": 6,
+        "losses": 3,
+        "goals_for": 13,
+        "goals_against": 16,
+        "goal_difference": -3,
+        "points": 12,
+        "form": "WLLDL"
+      },
+      {
+        "position": 12,
         "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
         "team": "Provincial Ovalle",
         "played": 10,
@@ -223,7 +237,7 @@
         "form": "LWDLL"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
         "team": "Atletico Colina",
         "played": 10,
@@ -235,20 +249,6 @@
         "goal_difference": -2,
         "points": 11,
         "form": "WLDLW"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
-        "team": "S. Morning",
-        "played": 10,
-        "wins": 1,
-        "draws": 6,
-        "losses": 3,
-        "goals_for": 11,
-        "goals_against": 15,
-        "goal_difference": -4,
-        "points": 9,
-        "form": "LLDLD"
       },
       {
         "position": 14,
@@ -390,16 +390,16 @@
         "position": 9,
         "team_id": "ast_4f89aee940e647c5a00d2da459d48967",
         "team": "伦戈体育",
-        "played": 10,
+        "played": 11,
         "wins": 5,
         "draws": 3,
-        "losses": 2,
-        "goals_for": 21,
-        "goals_against": 16,
-        "goal_difference": 5,
+        "losses": 3,
+        "goals_for": 22,
+        "goals_against": 18,
+        "goal_difference": 4,
         "points": 18,
-        "form": "DLLWW",
-        "form_label": "平负负胜胜"
+        "form": "LDLLW",
+        "form_label": "负平负负胜"
       },
       {
         "position": 10,
@@ -418,6 +418,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
+        "team": "早晨队",
+        "played": 11,
+        "wins": 2,
+        "draws": 6,
+        "losses": 3,
+        "goals_for": 13,
+        "goals_against": 16,
+        "goal_difference": -3,
+        "points": 12,
+        "form": "WLLDL",
+        "form_label": "胜负负平负"
+      },
+      {
+        "position": 12,
         "team_id": "ast_1924b0ed267940228ac7a46f59e7ab24",
         "team": "省级奥瓦列",
         "played": 10,
@@ -432,7 +447,7 @@
         "form_label": "负胜平负负"
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
         "team": "科利纳竞技",
         "played": 10,
@@ -445,21 +460,6 @@
         "points": 11,
         "form": "WLDLW",
         "form_label": "胜负平负胜"
-      },
-      {
-        "position": 13,
-        "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
-        "team": "早晨队",
-        "played": 10,
-        "wins": 1,
-        "draws": 6,
-        "losses": 3,
-        "goals_for": 11,
-        "goals_against": 15,
-        "goal_difference": -4,
-        "points": 9,
-        "form": "LLDLD",
-        "form_label": "负负平负平"
       },
       {
         "position": 14,
@@ -727,7 +727,7 @@
         "match_id": "as_6b1611639e304735b1331f578a9ed07f",
         "date": "2026-11-16",
         "time": "20:30",
-        "status": "20:30",
+        "status": "FT",
         "league": "智利乙级联赛",
         "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
         "season": "2026",
@@ -739,7 +739,10 @@
           "name": "伦戈体育",
           "team_id": "ast_4f89aee940e647c5a00d2da459d48967"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3173d2c1d7294ad58d203103d545f3ce",
@@ -4267,24 +4270,6 @@
           "team_id": "ast_4cb2fcf6473d4c3189cf15751d0a9553"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_6b1611639e304735b1331f578a9ed07f",
-        "date": "2026-11-16",
-        "time": "20:30",
-        "status": "20:30",
-        "league": "智利乙级联赛",
-        "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
-        "season": "2026",
-        "home": {
-          "name": "早晨队",
-          "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd"
-        },
-        "away": {
-          "name": "伦戈体育",
-          "team_id": "ast_4f89aee940e647c5a00d2da459d48967"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5849,13 +5834,13 @@
     }
   },
   "stats": {
-    "matches_completed": 157,
-    "total_goals": 381,
+    "matches_completed": 158,
+    "total_goals": 384,
     "avg_goals_per_match": 2.43,
-    "home_wins": 58,
+    "home_wins": 59,
     "draws": 46,
     "away_wins": 53,
-    "home_win_pct": 36.9,
+    "home_win_pct": 37.3,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6653,7 +6638,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 14,
     "matches_current_season": 170,
-    "upcoming_matches": 13
+    "upcoming_matches": 12
   },
-  "updated_at": "2026/11/16"
+  "updated_at": "2026/11/17"
 }

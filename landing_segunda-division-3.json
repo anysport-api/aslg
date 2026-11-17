@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
@@ -660,6 +660,88 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_de758a7d16484fdfa19758edc5f5beb7",
+        "date": "2026-11-21",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "巴尔基西梅托",
+          "team_id": "ast_1581060c5f2247988c92fb690d9a2443"
+        },
+        "away": {
+          "name": "乌雷纳",
+          "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_aa07dcf97b6a4cd4ad03ed3c894d9ca2",
+        "date": "2026-11-21",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "away": {
+          "name": "阿拉瓜",
+          "team_id": "ast_c13e26229ffb4cfb92a89a27298bcce0"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Metropolitano de Cabudare",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_3c8373ba39ea44c6befa6b0829bd7146",
+        "date": "2026-11-16",
+        "time": "19:30",
+        "status": "FT",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "阿拉瓜",
+          "team_id": "ast_c13e26229ffb4cfb92a89a27298bcce0"
+        },
+        "away": {
+          "name": "拉拉",
+          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
+        },
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
+      },
+      {
+        "match_id": "as_6efb9cacc03440dfa07fc3c6d8091dbd",
+        "date": "2026-11-15",
+        "time": "19:30",
+        "status": "FT",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "乌雷纳",
+          "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072"
+        },
+        "away": {
+          "name": "巴尔基西梅托",
+          "team_id": "ast_1581060c5f2247988c92fb690d9a2443"
+        },
+        "ht_score": "1-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
+      },
       {
         "match_id": "as_ce35b59184744afa9bc9f1b98adb9171",
         "date": "2026-11-13",
@@ -6232,21 +6314,44 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_3c8373ba39ea44c6befa6b0829bd7146",
-        "date": "2026-11-16",
-        "time": "19:30",
-        "status": "19:30",
+        "match_id": "as_aa07dcf97b6a4cd4ad03ed3c894d9ca2",
+        "date": "2026-11-21",
+        "time": "21:00",
+        "status": "Not Started",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
         "home": {
-          "name": "阿拉瓜",
-          "team_id": "ast_c13e26229ffb4cfb92a89a27298bcce0"
-        },
-        "away": {
           "name": "拉拉",
           "team_id": "ast_09c51ff0526844f783fa96304f32628d"
         },
-        "venue": ""
+        "away": {
+          "name": "阿拉瓜",
+          "team_id": "ast_c13e26229ffb4cfb92a89a27298bcce0"
+        },
+        "ht_score": "-",
+        "venue": "Estadio Metropolitano de Cabudare",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_de758a7d16484fdfa19758edc5f5beb7",
+        "date": "2026-11-21",
+        "time": "21:00",
+        "status": "Not Started",
+        "league": "委内瑞拉乙级联赛",
+        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
+        "season": "2026",
+        "home": {
+          "name": "巴尔基西梅托",
+          "team_id": "ast_1581060c5f2247988c92fb690d9a2443"
+        },
+        "away": {
+          "name": "乌雷纳",
+          "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -9700,11 +9805,11 @@
     }
   },
   "stats": {
-    "matches_completed": 265,
-    "total_goals": 711,
-    "avg_goals_per_match": 2.68,
-    "home_wins": 119,
-    "draws": 65,
+    "matches_completed": 267,
+    "total_goals": 717,
+    "avg_goals_per_match": 2.69,
+    "home_wins": 120,
+    "draws": 66,
     "away_wins": 81,
     "home_win_pct": 44.9,
     "biggest_win": {
@@ -10303,8 +10408,8 @@
     "distinct_title_holders": 9,
     "teams_all_time": 59,
     "standings_rows_current": 17,
-    "matches_current_season": 265,
-    "upcoming_matches": 1
+    "matches_current_season": 269,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/16"
+  "updated_at": "2026/11/17"
 }

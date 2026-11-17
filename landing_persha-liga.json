@@ -294,15 +294,15 @@
         "position": 10,
         "team_id": "ast_13de837e325f45418b99e2a24bd815a2",
         "team": "Inhulets",
-        "played": 14,
+        "played": 15,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 6,
-        "goals_for": 15,
-        "goals_against": 19,
+        "goals_for": 16,
+        "goals_against": 20,
         "goal_difference": -4,
-        "points": 18,
-        "form": "DLWLL"
+        "points": 19,
+        "form": "DDLWL"
       },
       {
         "position": 11,
@@ -350,15 +350,15 @@
         "position": 14,
         "team_id": "ast_b73716c503144997aaa07d0c4abc0cb4",
         "team": "Probiy Horodenka",
-        "played": 15,
+        "played": 16,
         "wins": 2,
-        "draws": 5,
+        "draws": 6,
         "losses": 8,
-        "goals_for": 15,
-        "goals_against": 35,
+        "goals_for": 16,
+        "goals_against": 36,
         "goal_difference": -20,
-        "points": 11,
-        "form": "DDLDW"
+        "points": 12,
+        "form": "DDDLD"
       },
       {
         "position": 15,
@@ -529,16 +529,16 @@
         "position": 10,
         "team_id": "ast_13de837e325f45418b99e2a24bd815a2",
         "team": "因胡列茨",
-        "played": 14,
+        "played": 15,
         "wins": 5,
-        "draws": 3,
+        "draws": 4,
         "losses": 6,
-        "goals_for": 15,
-        "goals_against": 19,
+        "goals_for": 16,
+        "goals_against": 20,
         "goal_difference": -4,
-        "points": 18,
-        "form": "DLWLL",
-        "form_label": "平负胜负负"
+        "points": 19,
+        "form": "DDLWL",
+        "form_label": "平平负胜负"
       },
       {
         "position": 11,
@@ -589,16 +589,16 @@
         "position": 14,
         "team_id": "ast_b73716c503144997aaa07d0c4abc0cb4",
         "team": "霍罗登卡",
-        "played": 15,
+        "played": 16,
         "wins": 2,
-        "draws": 5,
+        "draws": 6,
         "losses": 8,
-        "goals_for": 15,
-        "goals_against": 35,
+        "goals_for": 16,
+        "goals_against": 36,
         "goal_difference": -20,
-        "points": 11,
-        "form": "DDLDW",
-        "form_label": "平平负平胜"
+        "points": 12,
+        "form": "DDDLD",
+        "form_label": "平平平负平"
       },
       {
         "position": 15,
@@ -2894,10 +2894,29 @@
         "venue": ""
       },
       {
+        "match_id": "as_0e6671f5c3c5416ca57b2375ec297ab1",
+        "date": "2026-11-17",
+        "time": "10:00",
+        "status": "Delayed",
+        "league": "乌克兰甲级联赛",
+        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
+        "season": "2026/2027",
+        "home": {
+          "name": "UCSA",
+          "team_id": "ast_dcf38a9aa8ec4d808521702edf4e920b"
+        },
+        "away": {
+          "name": "日托米尔二队",
+          "team_id": "ast_557919d442cc44aeada729042883a610"
+        },
+        "venue": "",
+        "status_label": "推迟"
+      },
+      {
         "match_id": "as_59b5cdd8a983453db1896ec2d2e9a24c",
         "date": "2026-11-16",
-        "time": "10:00",
-        "status": "10:00",
+        "time": "10:30",
+        "status": "Postp.",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -2909,13 +2928,14 @@
           "name": "基辅火车头",
           "team_id": "ast_027a6d3e34e94621be7cf6e56f525e0c"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_78e826e3d6e64cb68fb7adb52f5fed49",
         "date": "2026-11-16",
         "time": "09:00",
-        "status": "29",
+        "status": "FT",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -2928,26 +2948,9 @@
           "team_id": "ast_b73716c503144997aaa07d0c4abc0cb4"
         },
         "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": ""
-      },
-      {
-        "match_id": "as_0e6671f5c3c5416ca57b2375ec297ab1",
-        "date": "2026-11-16",
-        "time": "10:00",
-        "status": "0",
-        "league": "乌克兰甲级联赛",
-        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
-        "season": "2026/2027",
-        "home": {
-          "name": "UCSA",
-          "team_id": "ast_dcf38a9aa8ec4d808521702edf4e920b"
-        },
-        "away": {
-          "name": "日托米尔二队",
-          "team_id": "ast_557919d442cc44aeada729042883a610"
-        },
-        "venue": ""
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_adb3371289d549a9b9fbbc3291e0f4c0",
@@ -2972,9 +2975,9 @@
       },
       {
         "match_id": "as_64f580e13e1547299844eb6a8b343ce4",
-        "date": "2026-11-14",
-        "time": "10:00",
-        "status": "Susp.",
+        "date": "2026-11-15",
+        "time": "09:00",
+        "status": "FT",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -2988,8 +2991,8 @@
         },
         "ht_score": "1-2",
         "reg_score": "1-4",
-        "venue": "",
-        "status_label": "暂停"
+        "venue": "Lokomotyv Stadium",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b1abb3299d994d678b4297ffe7a94bd0",
@@ -3009,7 +3012,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-1",
-        "venue": "",
+        "venue": "Yuvileiny Stadium",
         "status_label": "完场"
       },
       {
@@ -5875,9 +5878,9 @@
       },
       {
         "match_id": "as_0e6671f5c3c5416ca57b2375ec297ab1",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "time": "10:00",
-        "status": "0",
+        "status": "Delayed",
         "league": "乌克兰甲级联赛",
         "league_id": "asl_5ac438ae525a485ab245db30856fb833",
         "season": "2026/2027",
@@ -5889,45 +5892,8 @@
           "name": "日托米尔二队",
           "team_id": "ast_557919d442cc44aeada729042883a610"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_78e826e3d6e64cb68fb7adb52f5fed49",
-        "date": "2026-11-16",
-        "time": "09:00",
-        "status": "29",
-        "league": "乌克兰甲级联赛",
-        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
-        "season": "2026/2027",
-        "home": {
-          "name": "因胡列茨",
-          "team_id": "ast_13de837e325f45418b99e2a24bd815a2"
-        },
-        "away": {
-          "name": "霍罗登卡",
-          "team_id": "ast_b73716c503144997aaa07d0c4abc0cb4"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
-        "venue": ""
-      },
-      {
-        "match_id": "as_59b5cdd8a983453db1896ec2d2e9a24c",
-        "date": "2026-11-16",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "乌克兰甲级联赛",
-        "league_id": "asl_5ac438ae525a485ab245db30856fb833",
-        "season": "2026/2027",
-        "home": {
-          "name": "切尔尼戈夫",
-          "team_id": "ast_9b8d511d8c9449eca4f71ee6e5ddf87f"
-        },
-        "away": {
-          "name": "基辅火车头",
-          "team_id": "ast_027a6d3e34e94621be7cf6e56f525e0c"
-        },
-        "venue": ""
+        "venue": "",
+        "status_label": "推迟"
       }
     ]
   },
@@ -8472,12 +8438,12 @@
   },
   "stats": {
     "matches_completed": 122,
-    "total_goals": 321,
-    "avg_goals_per_match": 2.63,
-    "home_wins": 56,
-    "draws": 36,
+    "total_goals": 322,
+    "avg_goals_per_match": 2.64,
+    "home_wins": 55,
+    "draws": 37,
     "away_wins": 30,
-    "home_win_pct": 45.9,
+    "home_win_pct": 45.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -9296,7 +9262,7 @@
     "teams_all_time": 54,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 20
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/11/16"
+  "updated_at": "2026/11/17"
 }

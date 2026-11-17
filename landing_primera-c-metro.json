@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
@@ -965,7 +965,7 @@
         "match_id": "as_6d4b367cdcca43978cb110be875dd30f",
         "date": "2026-11-16",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷C级联赛",
         "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
         "season": "2026",
@@ -977,7 +977,10 @@
           "name": "巴拉卡斯体育",
           "team_id": "ast_3ff5bb719d084de29fbdfba3b864a038"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_48f7af2f7bac4040a4fe0a73c377154a",
@@ -1019,7 +1022,7 @@
           "team_id": "ast_f775114af35d4670b0a1c6930cceb6fa"
         },
         "ht_score": "0-0",
-        "reg_score": "0-0",
+        "reg_score": "1-0",
         "et_score": "0-0",
         "penalty_score": "6-5",
         "venue": "",
@@ -10862,26 +10865,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_6d4b367cdcca43978cb110be875dd30f",
-        "date": "2026-11-16",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷C级联赛",
-        "league_id": "asl_5f0534f617bd4ffcafebdef889fa93be",
-        "season": "2026",
-        "home": {
-          "name": "罗萨里奥狮子队",
-          "team_id": "ast_0d64e870b62147be9b5a3c868418e686"
-        },
-        "away": {
-          "name": "巴拉卡斯体育",
-          "team_id": "ast_3ff5bb719d084de29fbdfba3b864a038"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -13736,13 +13720,13 @@
     }
   },
   "stats": {
-    "matches_completed": 470,
-    "total_goals": 897,
+    "matches_completed": 471,
+    "total_goals": 898,
     "avg_goals_per_match": 1.91,
-    "home_wins": 173,
+    "home_wins": 174,
     "draws": 164,
     "away_wins": 133,
-    "home_win_pct": 36.8,
+    "home_win_pct": 36.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14503,7 +14487,7 @@
     "teams_all_time": 46,
     "standings_rows_current": 28,
     "matches_current_season": 471,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/16"
+  "updated_at": "2026/11/17"
 }

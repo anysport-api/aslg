@@ -210,15 +210,15 @@
         "position": 4,
         "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6",
         "team": "Presov",
-        "played": 16,
-        "wins": 8,
+        "played": 17,
+        "wins": 9,
         "draws": 4,
         "losses": 4,
-        "goals_for": 25,
+        "goals_for": 26,
         "goals_against": 19,
-        "goal_difference": 6,
-        "points": 28,
-        "form": "WWWDD"
+        "goal_difference": 7,
+        "points": 31,
+        "form": "WWWWD"
       },
       {
         "position": 5,
@@ -364,15 +364,15 @@
         "position": 15,
         "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed",
         "team": "Zvolen",
-        "played": 16,
+        "played": 17,
         "wins": 2,
         "draws": 3,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 16,
-        "goals_against": 29,
-        "goal_difference": -13,
+        "goals_against": 30,
+        "goal_difference": -14,
         "points": 9,
-        "form": "LWLWL"
+        "form": "LLWLW"
       },
       {
         "position": 16,
@@ -439,16 +439,16 @@
         "position": 4,
         "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6",
         "team": "普雷绍夫",
-        "played": 16,
-        "wins": 8,
+        "played": 17,
+        "wins": 9,
         "draws": 4,
         "losses": 4,
-        "goals_for": 25,
+        "goals_for": 26,
         "goals_against": 19,
-        "goal_difference": 6,
-        "points": 28,
-        "form": "WWWDD",
-        "form_label": "胜胜胜平平"
+        "goal_difference": 7,
+        "points": 31,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
       },
       {
         "position": 5,
@@ -604,16 +604,16 @@
         "position": 15,
         "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed",
         "team": "兹沃伦",
-        "played": 16,
+        "played": 17,
         "wins": 2,
         "draws": 3,
-        "losses": 11,
+        "losses": 12,
         "goals_for": 16,
-        "goals_against": 29,
-        "goal_difference": -13,
+        "goals_against": 30,
+        "goal_difference": -14,
         "points": 9,
-        "form": "LWLWL",
-        "form_label": "负胜负胜负"
+        "form": "LLWLW",
+        "form_label": "负负胜负胜"
       },
       {
         "position": 16,
@@ -2733,7 +2733,7 @@
         "match_id": "as_10829966c4b449ddb6360edbbd30e3ea",
         "date": "2026-11-16",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "斯洛伐克甲级联赛",
         "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
         "season": "2026/2027",
@@ -2745,7 +2745,10 @@
           "name": "兹沃伦",
           "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_dc0986f95ad44a51a7af77f97f89d8a4",
@@ -2807,7 +2810,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-4",
-        "venue": "",
+        "venue": "Humenne Football Stadium",
         "status_label": "完场"
       },
       {
@@ -2828,7 +2831,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Mestsky futbalovy stadion Galanta",
         "status_label": "完场"
       },
       {
@@ -2849,7 +2852,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "Futbalovy stadion OFK Banik",
         "status_label": "完场"
       },
       {
@@ -2870,7 +2873,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Mestsky stadion Bytca",
         "status_label": "完场"
       },
       {
@@ -5583,26 +5586,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_10829966c4b449ddb6360edbbd30e3ea",
-        "date": "2026-11-16",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "斯洛伐克甲级联赛",
-        "league_id": "asl_27d57a47f745411383a86f1c8dc0fdfc",
-        "season": "2026/2027",
-        "home": {
-          "name": "普雷绍夫",
-          "team_id": "ast_f1530c04b24e4daea49e4e30f3196ee6"
-        },
-        "away": {
-          "name": "兹沃伦",
-          "team_id": "ast_a5df1e7c69ee47e7b4463aa38bb261ed"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -7699,13 +7683,13 @@
     }
   },
   "stats": {
-    "matches_completed": 135,
-    "total_goals": 401,
-    "avg_goals_per_match": 2.97,
-    "home_wins": 64,
+    "matches_completed": 136,
+    "total_goals": 402,
+    "avg_goals_per_match": 2.96,
+    "home_wins": 65,
     "draws": 30,
     "away_wins": 41,
-    "home_win_pct": 47.4,
+    "home_win_pct": 47.8,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8503,7 +8487,7 @@
     "teams_all_time": 35,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/16"
+  "updated_at": "2026/11/17"
 }
