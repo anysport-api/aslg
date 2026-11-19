@@ -224,15 +224,15 @@
         "position": 5,
         "team_id": "ast_74e1c57acc7f444a868f1d3d75ac834b",
         "team": "FBC Melgar",
-        "played": 16,
+        "played": 17,
         "wins": 8,
-        "draws": 5,
+        "draws": 6,
         "losses": 3,
-        "goals_for": 27,
-        "goals_against": 18,
+        "goals_for": 28,
+        "goals_against": 19,
         "goal_difference": 9,
-        "points": 29,
-        "form": "WLDWW"
+        "points": 30,
+        "form": "DWLDW"
       },
       {
         "position": 6,
@@ -252,15 +252,15 @@
         "position": 7,
         "team_id": "ast_d52549c3394c4cb982058d97d1e07564",
         "team": "Alianza Atl.",
-        "played": 16,
+        "played": 17,
         "wins": 9,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 29,
-        "goals_against": 30,
+        "goals_for": 30,
+        "goals_against": 31,
         "goal_difference": -1,
-        "points": 28,
-        "form": "LWWLL"
+        "points": 29,
+        "form": "DLWWL"
       },
       {
         "position": 8,
@@ -482,16 +482,16 @@
         "position": 5,
         "team_id": "ast_74e1c57acc7f444a868f1d3d75ac834b",
         "team": "梅尔加尔",
-        "played": 16,
+        "played": 17,
         "wins": 8,
-        "draws": 5,
+        "draws": 6,
         "losses": 3,
-        "goals_for": 27,
-        "goals_against": 18,
+        "goals_for": 28,
+        "goals_against": 19,
         "goal_difference": 9,
-        "points": 29,
-        "form": "WLDWW",
-        "form_label": "胜负平胜胜"
+        "points": 30,
+        "form": "DWLDW",
+        "form_label": "平胜负平胜"
       },
       {
         "position": 6,
@@ -512,16 +512,16 @@
         "position": 7,
         "team_id": "ast_d52549c3394c4cb982058d97d1e07564",
         "team": "阿利安萨竞技",
-        "played": 16,
+        "played": 17,
         "wins": 9,
-        "draws": 1,
+        "draws": 2,
         "losses": 6,
-        "goals_for": 29,
-        "goals_against": 30,
+        "goals_for": 30,
+        "goals_against": 31,
         "goal_difference": -1,
-        "points": 28,
-        "form": "LWWLL",
-        "form_label": "负胜胜负负"
+        "points": 29,
+        "form": "DLWWL",
+        "form_label": "平负胜胜负"
       },
       {
         "position": 8,
@@ -3155,7 +3155,7 @@
         "match_id": "as_4d0d26831b1b40a1aa7ef24014ce152d",
         "date": "2026-11-18",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "秘鲁甲级联赛",
         "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
         "season": "2026",
@@ -3167,7 +3167,10 @@
           "name": "梅尔加尔",
           "team_id": "ast_74e1c57acc7f444a868f1d3d75ac834b"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_89a7986bc48442b2a5f0505b7b80929a",
@@ -3187,7 +3190,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "5-3",
-        "venue": "",
+        "venue": "Estadio Heroes de San Ramon",
         "status_label": "完场"
       },
       {
@@ -3208,7 +3211,7 @@
         },
         "ht_score": "2-1",
         "reg_score": "2-2",
-        "venue": "",
+        "venue": "印加·加西拉索·德拉维加体育场",
         "status_label": "完场"
       },
       {
@@ -3229,7 +3232,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "十一月二十五日体育场",
         "status_label": "完场"
       },
       {
@@ -9566,24 +9569,6 @@
           "team_id": "ast_92f38b12a44145cfa2c561494d222120"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_4d0d26831b1b40a1aa7ef24014ce152d",
-        "date": "2026-11-18",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "秘鲁甲级联赛",
-        "league_id": "asl_4b04d7a821fd40dfaaa9053c24929f9b",
-        "season": "2026",
-        "home": {
-          "name": "阿利安萨竞技",
-          "team_id": "ast_d52549c3394c4cb982058d97d1e07564"
-        },
-        "away": {
-          "name": "梅尔加尔",
-          "team_id": "ast_74e1c57acc7f444a868f1d3d75ac834b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -15048,13 +15033,13 @@
     }
   },
   "stats": {
-    "matches_completed": 302,
-    "total_goals": 852,
+    "matches_completed": 303,
+    "total_goals": 854,
     "avg_goals_per_match": 2.82,
     "home_wins": 155,
-    "draws": 75,
+    "draws": 76,
     "away_wins": 72,
-    "home_win_pct": 51.3,
+    "home_win_pct": 51.2,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -15859,7 +15844,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 4
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/11/18"
+  "updated_at": "2026/11/19"
 }

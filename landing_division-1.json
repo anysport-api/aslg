@@ -294,6 +294,20 @@
       },
       {
         "position": 11,
+        "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
+        "team": "Din. Minsk 2",
+        "played": 33,
+        "wins": 11,
+        "draws": 6,
+        "losses": 16,
+        "goals_for": 46,
+        "goals_against": 52,
+        "goal_difference": -6,
+        "points": 39,
+        "form": "DLLLL"
+      },
+      {
+        "position": 12,
         "team_id": "ast_4a578ee0188f4247994c2426ca80561b",
         "team": "Smorgon",
         "played": 33,
@@ -304,20 +318,6 @@
         "goals_against": 47,
         "goal_difference": -9,
         "points": 39,
-        "form": "LLLLW"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
-        "team": "Din. Minsk 2",
-        "played": 32,
-        "wins": 11,
-        "draws": 5,
-        "losses": 16,
-        "goals_for": 44,
-        "goals_against": 50,
-        "goal_difference": -6,
-        "points": 38,
         "form": "LLLLW"
       },
       {
@@ -394,15 +394,15 @@
         "position": 18,
         "team_id": "ast_7317a8665d3e43a5b11852f42f8e52ff",
         "team": "BATE 2",
-        "played": 32,
+        "played": 33,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 20,
-        "goals_for": 40,
-        "goals_against": 75,
+        "goals_for": 42,
+        "goals_against": 77,
         "goal_difference": -35,
-        "points": 22,
-        "form": "LLLLL"
+        "points": 23,
+        "form": "DLLLL"
       }
     ],
     "zh": [
@@ -558,6 +558,21 @@
       },
       {
         "position": 11,
+        "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
+        "team": "明斯克迪纳摩二队",
+        "played": 33,
+        "wins": 11,
+        "draws": 6,
+        "losses": 16,
+        "goals_for": 46,
+        "goals_against": 52,
+        "goal_difference": -6,
+        "points": 39,
+        "form": "DLLLL",
+        "form_label": "平负负负负"
+      },
+      {
+        "position": 12,
         "team_id": "ast_4a578ee0188f4247994c2426ca80561b",
         "team": "斯莫尔贡",
         "played": 33,
@@ -568,21 +583,6 @@
         "goals_against": 47,
         "goal_difference": -9,
         "points": 39,
-        "form": "LLLLW",
-        "form_label": "负负负负胜"
-      },
-      {
-        "position": 12,
-        "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1",
-        "team": "明斯克迪纳摩二队",
-        "played": 32,
-        "wins": 11,
-        "draws": 5,
-        "losses": 16,
-        "goals_for": 44,
-        "goals_against": 50,
-        "goal_difference": -6,
-        "points": 38,
         "form": "LLLLW",
         "form_label": "负负负负胜"
       },
@@ -665,16 +665,16 @@
         "position": 18,
         "team_id": "ast_7317a8665d3e43a5b11852f42f8e52ff",
         "team": "巴特二队",
-        "played": 32,
+        "played": 33,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 20,
-        "goals_for": 40,
-        "goals_against": 75,
+        "goals_for": 42,
+        "goals_against": 77,
         "goal_difference": -35,
-        "points": 22,
-        "form": "LLLLL",
-        "form_label": "负负负负负"
+        "points": 23,
+        "form": "DLLLL",
+        "form_label": "平负负负负"
       }
     ]
   },
@@ -861,7 +861,7 @@
         "match_id": "as_1fb7d034b5084afab84944fcc1c5613b",
         "date": "2026-11-18",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "白俄罗斯甲级联赛",
         "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
         "season": "2026",
@@ -873,7 +873,10 @@
           "name": "巴特二队",
           "team_id": "ast_7317a8665d3e43a5b11852f42f8e52ff"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_09a7351e382a49b6a9ec1945b6261bbf",
@@ -7254,24 +7257,6 @@
           "team_id": "ast_eab27c240f114d06adbcc40952218ff2"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_1fb7d034b5084afab84944fcc1c5613b",
-        "date": "2026-11-18",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "白俄罗斯甲级联赛",
-        "league_id": "asl_64f2813fa03c4ba2ae2bc6dce5607847",
-        "season": "2026",
-        "home": {
-          "name": "明斯克迪纳摩二队",
-          "team_id": "ast_39bb58c122ea4c0f9f27fa824b26cdf1"
-        },
-        "away": {
-          "name": "巴特二队",
-          "team_id": "ast_7317a8665d3e43a5b11852f42f8e52ff"
-        },
-        "venue": ""
       }
     ]
   },
@@ -12665,13 +12650,13 @@
     }
   },
   "stats": {
-    "matches_completed": 296,
-    "total_goals": 950,
+    "matches_completed": 297,
+    "total_goals": 954,
     "avg_goals_per_match": 3.21,
     "home_wins": 125,
-    "draws": 55,
+    "draws": 56,
     "away_wins": 116,
-    "home_win_pct": 42.2,
+    "home_win_pct": 42.1,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13469,7 +13454,7 @@
     "teams_all_time": 62,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 10
+    "upcoming_matches": 9
   },
-  "updated_at": "2026/11/18"
+  "updated_at": "2026/11/19"
 }
