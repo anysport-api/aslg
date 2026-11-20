@@ -641,7 +641,7 @@
         "match_id": "as_0868464b0f9a4f1f97484af4f5ab670e",
         "date": "2026-11-22",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -653,13 +653,15 @@
           "name": "斯维卡塔",
           "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_98e1a8ea03bb4ddd9923081efcfeec3b",
         "date": "2026-11-19",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -671,7 +673,10 @@
           "name": "黑格尔曼立陶宛二队",
           "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-3",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_7f81b48559b94aa89264f4c84a3a92c8",
@@ -5742,7 +5747,7 @@
         "match_id": "as_0868464b0f9a4f1f97484af4f5ab670e",
         "date": "2026-11-22",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -5754,25 +5759,9 @@
           "name": "斯维卡塔",
           "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_98e1a8ea03bb4ddd9923081efcfeec3b",
-        "date": "2026-11-19",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "斯维卡塔",
-          "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
-        },
-        "away": {
-          "name": "黑格尔曼立陶宛二队",
-          "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
-        },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -9675,13 +9664,13 @@
     }
   },
   "stats": {
-    "matches_completed": 241,
-    "total_goals": 708,
+    "matches_completed": 242,
+    "total_goals": 711,
     "avg_goals_per_match": 2.94,
     "home_wins": 117,
     "draws": 42,
-    "away_wins": 82,
-    "home_win_pct": 48.5,
+    "away_wins": 83,
+    "home_win_pct": 48.3,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10442,7 +10431,7 @@
     "teams_all_time": 60,
     "standings_rows_current": 16,
     "matches_current_season": 243,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/19"
+  "updated_at": "2026/11/20"
 }

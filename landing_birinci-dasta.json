@@ -3595,7 +3595,7 @@
         "match_id": "as_860368d3f384451984e47e6af089f7ba",
         "date": "2026-11-27",
         "time": "10:30",
-        "status": "Not Started",
+        "status": "10:30",
         "league": "阿塞拜疆甲级联赛",
         "league_id": "asl_2db9b478bede46e6b2397dbf67d23eb2",
         "season": "2026/2027",
@@ -3607,15 +3607,13 @@
           "name": "汗肯迪",
           "team_id": "ast_e61749ca7af64e8e9a33704e9256f656"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1b209c0c6e274844994dd1842e20ce7b",
         "date": "2026-11-27",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "阿塞拜疆甲级联赛",
         "league_id": "asl_2db9b478bede46e6b2397dbf67d23eb2",
         "season": "2026/2027",
@@ -3627,9 +3625,7 @@
           "name": "希马尔",
           "team_id": "ast_1ad0166a63024916a545a738a9a708ac"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8d15d968b355449d832a91700bde04a6",
@@ -3689,7 +3685,7 @@
         "match_id": "as_85b3592a54964ae4ab9680bd056d3da3",
         "date": "2026-11-20",
         "time": "10:00",
-        "status": "10:00",
+        "status": "HT",
         "league": "阿塞拜疆甲级联赛",
         "league_id": "asl_2db9b478bede46e6b2397dbf67d23eb2",
         "season": "2026/2027",
@@ -3701,13 +3697,16 @@
           "name": "扎卡塔拉",
           "team_id": "ast_3ecaccf1e68b481382d275d79d822341"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "中场"
       },
       {
         "match_id": "as_94248172db4e4e77b6a3e6d14a2ca9fe",
         "date": "2026-11-20",
         "time": "10:00",
-        "status": "10:00",
+        "status": "HT",
         "league": "阿塞拜疆甲级联赛",
         "league_id": "asl_2db9b478bede46e6b2397dbf67d23eb2",
         "season": "2026/2027",
@@ -3719,63 +3718,10 @@
           "name": "切布雷伊尔",
           "team_id": "ast_d52d7154d7ef407eb0a5b013b048414a"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0d0593506eb2417c988ffc02497c9d30",
-        "date": "2026-11-19",
-        "time": "10:00",
-        "status": "45",
-        "league": "阿塞拜疆甲级联赛",
-        "league_id": "asl_2db9b478bede46e6b2397dbf67d23eb2",
-        "season": "2026/2027",
-        "home": {
-          "name": "MOIK 巴库",
-          "team_id": "ast_8d822285389a4a6286618a94e2c6a2af"
-        },
-        "away": {
-          "name": "萨拜尔",
-          "team_id": "ast_1b48a0e6aec54383917434400170c97d"
-        },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": ""
-      },
-      {
-        "match_id": "as_be9628ed13034eef838211425c5ea21a",
-        "date": "2026-11-19",
-        "time": "10:30",
-        "status": "10:30",
-        "league": "阿塞拜疆甲级联赛",
-        "league_id": "asl_2db9b478bede46e6b2397dbf67d23eb2",
-        "season": "2026/2027",
-        "home": {
-          "name": "明戈切维尔",
-          "team_id": "ast_07905d5e2d1e44159319998413d48a69"
-        },
-        "away": {
-          "name": "巴库体育",
-          "team_id": "ast_12aa52dce24c4b6c9459094be798b932"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a8941ee47b2045de91d78de7caccfa65",
-        "date": "2026-11-19",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "阿塞拜疆甲级联赛",
-        "league_id": "asl_2db9b478bede46e6b2397dbf67d23eb2",
-        "season": "2026/2027",
-        "home": {
-          "name": "汗肯迪",
-          "team_id": "ast_e61749ca7af64e8e9a33704e9256f656"
-        },
-        "away": {
-          "name": "卡尔万",
-          "team_id": "ast_1df30ee7c7904fb5bfd5f4132b9a2714"
-        },
-        "venue": ""
+        "venue": "",
+        "status_label": "中场"
       }
     ]
   },
@@ -6234,7 +6180,7 @@
     "teams_all_time": 33,
     "standings_rows_current": 10,
     "matches_current_season": 136,
-    "upcoming_matches": 25
+    "upcoming_matches": 22
   },
-  "updated_at": "2026/11/19"
+  "updated_at": "2026/11/20"
 }

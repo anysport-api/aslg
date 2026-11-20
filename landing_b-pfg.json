@@ -228,15 +228,15 @@
         "position": 4,
         "team_id": "ast_b767d7be460d4d3f9453282d506098be",
         "team": "Fratria",
-        "played": 15,
-        "wins": 8,
+        "played": 16,
+        "wins": 9,
         "draws": 4,
         "losses": 3,
-        "goals_for": 27,
+        "goals_for": 32,
         "goals_against": 16,
-        "goal_difference": 11,
-        "points": 28,
-        "form": "WWLLW"
+        "goal_difference": 16,
+        "points": 31,
+        "form": "WWWLL"
       },
       {
         "position": 5,
@@ -410,15 +410,15 @@
         "position": 17,
         "team_id": "ast_3d832ab0e581492e823d29878c6470f9",
         "team": "Dobrudzha",
-        "played": 15,
+        "played": 16,
         "wins": 2,
         "draws": 5,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 16,
-        "goals_against": 29,
-        "goal_difference": -13,
+        "goals_against": 34,
+        "goal_difference": -18,
         "points": 11,
-        "form": "DDLLW"
+        "form": "LDDLL"
       },
       {
         "position": 18,
@@ -485,16 +485,16 @@
         "position": 4,
         "team_id": "ast_b767d7be460d4d3f9453282d506098be",
         "team": "弗拉特里亚",
-        "played": 15,
-        "wins": 8,
+        "played": 16,
+        "wins": 9,
         "draws": 4,
         "losses": 3,
-        "goals_for": 27,
+        "goals_for": 32,
         "goals_against": 16,
-        "goal_difference": 11,
-        "points": 28,
-        "form": "WWLLW",
-        "form_label": "胜胜负负胜"
+        "goal_difference": 16,
+        "points": 31,
+        "form": "WWWLL",
+        "form_label": "胜胜胜负负"
       },
       {
         "position": 5,
@@ -680,16 +680,16 @@
         "position": 17,
         "team_id": "ast_3d832ab0e581492e823d29878c6470f9",
         "team": "多布鲁贾",
-        "played": 15,
+        "played": 16,
         "wins": 2,
         "draws": 5,
-        "losses": 8,
+        "losses": 9,
         "goals_for": 16,
-        "goals_against": 29,
-        "goal_difference": -13,
+        "goals_against": 34,
+        "goal_difference": -18,
         "points": 11,
-        "form": "DDLLW",
-        "form_label": "平平负负胜"
+        "form": "LDDLL",
+        "form_label": "负平平负负"
       },
       {
         "position": 18,
@@ -3969,7 +3969,7 @@
         "match_id": "as_edd027aea1a44f4e9b73afbebc2768bf",
         "date": "2026-11-19",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3981,7 +3981,10 @@
           "name": "弗拉特里亚",
           "team_id": "ast_b767d7be460d4d3f9453282d506098be"
         },
-        "venue": ""
+        "ht_score": "0-4",
+        "reg_score": "0-5",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_48eb2e5e7e89489e9e2b4cb42d83dac3",
@@ -7506,24 +7509,6 @@
           "team_id": "ast_e74bacd24f1c43669f70827a9464028e"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_edd027aea1a44f4e9b73afbebc2768bf",
-        "date": "2026-11-19",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "保加利亚B PFG",
-        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
-        "season": "2026/2027",
-        "home": {
-          "name": "多布鲁贾",
-          "team_id": "ast_3d832ab0e581492e823d29878c6470f9"
-        },
-        "away": {
-          "name": "弗拉特里亚",
-          "team_id": "ast_b767d7be460d4d3f9453282d506098be"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9938,13 +9923,13 @@
     }
   },
   "stats": {
-    "matches_completed": 142,
-    "total_goals": 397,
-    "avg_goals_per_match": 2.8,
+    "matches_completed": 143,
+    "total_goals": 402,
+    "avg_goals_per_match": 2.81,
     "home_wins": 68,
     "draws": 37,
-    "away_wins": 37,
-    "home_win_pct": 47.9,
+    "away_wins": 38,
+    "home_win_pct": 47.6,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -10742,7 +10727,7 @@
     "teams_all_time": 42,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 29
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/11/19"
+  "updated_at": "2026/11/20"
 }

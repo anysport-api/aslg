@@ -2332,6 +2332,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_6a08c850650746ec9d2ad7d591124a79",
+        "date": "2027-01-03",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "葡萄牙女子甲级联赛",
+        "league_id": "asl_16f80cec1815480d98fde94bb2fa63de",
+        "season": "2026/2027",
+        "home": {
+          "name": "本菲卡女足",
+          "team_id": "ast_cd3308b9e9be498fa18772c401c1ffd5"
+        },
+        "away": {
+          "name": "吉马良斯维多利亚女足",
+          "team_id": "ast_17034f7ad8b84384869525705b02ded5"
+        },
+        "ht_score": "-",
+        "venue": "凯什足球训练基地",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_7313ac3314a141c699c5e323228e03c6",
         "date": "2026-12-20",
         "time": "15:00",
@@ -2435,7 +2455,7 @@
         "match_id": "as_a1e7b6f8ed4147008c69d565b7f9afc1",
         "date": "2026-11-23",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "葡萄牙女子甲级联赛",
         "league_id": "asl_16f80cec1815480d98fde94bb2fa63de",
         "season": "2026/2027",
@@ -2447,15 +2467,13 @@
           "name": "本菲卡女足",
           "team_id": "ast_cd3308b9e9be498fa18772c401c1ffd5"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_bb5d1366e6454369a37b3d0043fe68f4",
         "date": "2026-11-22",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "葡萄牙女子甲级联赛",
         "league_id": "asl_16f80cec1815480d98fde94bb2fa63de",
         "season": "2026/2027",
@@ -2467,35 +2485,13 @@
           "name": "托雷恩斯女足",
           "team_id": "ast_164c9e65048a4163bbf352e9ab8ef959"
         },
-        "ht_score": "-",
-        "venue": "Estadio Dr. Jorge Sampaio",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_38515729fca249ae9002e0b9cb104b7c",
-        "date": "2026-11-22",
-        "time": "15:00",
-        "status": "Not Started",
-        "league": "葡萄牙女子甲级联赛",
-        "league_id": "asl_16f80cec1815480d98fde94bb2fa63de",
-        "season": "2026/2027",
-        "home": {
-          "name": "里奥阿维女足",
-          "team_id": "ast_7b7d4b42d5b94b3aa4705f9d75505ec4"
-        },
-        "away": {
-          "name": "吉马良斯维多利亚女足",
-          "team_id": "ast_17034f7ad8b84384869525705b02ded5"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8e00a39489804d09afc7b361aae13ae8",
         "date": "2026-11-22",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "葡萄牙女子甲级联赛",
         "league_id": "asl_16f80cec1815480d98fde94bb2fa63de",
         "season": "2026/2027",
@@ -2507,15 +2503,13 @@
           "name": "马里蒂莫女足",
           "team_id": "ast_a6f1f49b24e04368a5889708982614fd"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9f878ff7b9194ac8b463c45667280770",
         "date": "2026-11-22",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "葡萄牙女子甲级联赛",
         "league_id": "asl_16f80cec1815480d98fde94bb2fa63de",
         "season": "2026/2027",
@@ -2527,9 +2521,25 @@
           "name": "体育W",
           "team_id": "ast_b5997088e1db4da781f16a779605b366"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
+      },
+      {
+        "match_id": "as_38515729fca249ae9002e0b9cb104b7c",
+        "date": "2026-11-20",
+        "time": "19:30",
+        "status": "19:30",
+        "league": "葡萄牙女子甲级联赛",
+        "league_id": "asl_16f80cec1815480d98fde94bb2fa63de",
+        "season": "2026/2027",
+        "home": {
+          "name": "里奥阿维女足",
+          "team_id": "ast_7b7d4b42d5b94b3aa4705f9d75505ec4"
+        },
+        "away": {
+          "name": "吉马良斯维多利亚女足",
+          "team_id": "ast_17034f7ad8b84384869525705b02ded5"
+        },
+        "venue": ""
       }
     ]
   },
@@ -3576,7 +3586,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 10,
     "matches_current_season": 94,
-    "upcoming_matches": 10
+    "upcoming_matches": 11
   },
-  "updated_at": "2026/11/05"
+  "updated_at": "2026/11/20"
 }

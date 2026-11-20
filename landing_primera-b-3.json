@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
@@ -150,113 +150,113 @@
         "position": 1,
         "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
         "team": "Quindio",
-        "played": 5,
-        "wins": 3,
+        "played": 6,
+        "wins": 4,
         "draws": 0,
         "losses": 2,
-        "goals_for": 6,
+        "goals_for": 8,
         "goals_against": 5,
-        "goal_difference": 1,
-        "points": 9,
-        "form": "LWLWW"
+        "goal_difference": 3,
+        "points": 12,
+        "form": "WLWLW"
       },
       {
         "position": 1,
-        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
-        "team": "Envigado",
-        "played": 5,
-        "wins": 2,
+        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
+        "team": "Boca Juniors",
+        "played": 6,
+        "wins": 3,
         "draws": 1,
         "losses": 2,
-        "goals_for": 7,
-        "goals_against": 5,
-        "goal_difference": 2,
-        "points": 7,
-        "form": "LWLDW"
+        "goals_for": 9,
+        "goals_against": 8,
+        "goal_difference": 1,
+        "points": 10,
+        "form": "WLLWW"
       },
       {
         "position": 2,
         "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
         "team": "Cartagena",
-        "played": 5,
-        "wins": 2,
+        "played": 6,
+        "wins": 3,
         "draws": 2,
         "losses": 1,
-        "goals_for": 6,
+        "goals_for": 11,
         "goals_against": 5,
-        "goal_difference": 1,
-        "points": 8,
-        "form": "WDWLD"
+        "goal_difference": 6,
+        "points": 11,
+        "form": "WWDWL"
       },
       {
         "position": 2,
+        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
+        "team": "Envigado",
+        "played": 6,
+        "wins": 2,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 8,
+        "goals_against": 6,
+        "goal_difference": 2,
+        "points": 8,
+        "form": "DLWLD"
+      },
+      {
+        "position": 3,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "U. Magdalena",
-        "played": 5,
+        "played": 6,
         "wins": 1,
         "draws": 4,
-        "losses": 0,
-        "goals_for": 6,
-        "goals_against": 5,
-        "goal_difference": 1,
+        "losses": 1,
+        "goals_for": 7,
+        "goals_against": 7,
+        "goal_difference": 0,
         "points": 7,
-        "form": "WDDDD"
+        "form": "LWDDD"
       },
       {
         "position": 3,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "Real Cundinamarca",
-        "played": 5,
+        "played": 6,
         "wins": 1,
         "draws": 2,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 4,
-        "goals_against": 5,
-        "goal_difference": -1,
-        "points": 5,
-        "form": "WDLDL"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
-        "team": "Boca Juniors",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 7,
         "goals_against": 7,
-        "goal_difference": 0,
-        "points": 7,
-        "form": "LLWWD"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_166b06bc75c54d1285e7467bf60419d9",
-        "team": "Tigres",
-        "played": 5,
-        "wins": 1,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 2,
-        "goals_against": 3,
-        "goal_difference": -1,
+        "goal_difference": -3,
         "points": 5,
-        "form": "LLWDD"
+        "form": "LWDLD"
       },
       {
         "position": 4,
         "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
         "team": "Ind. Valle del Cauca",
-        "played": 5,
+        "played": 6,
+        "wins": 1,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 9,
+        "goal_difference": -3,
+        "points": 6,
+        "form": "DWDDL"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_166b06bc75c54d1285e7467bf60419d9",
+        "team": "Tigres",
+        "played": 6,
         "wins": 1,
         "draws": 2,
-        "losses": 2,
-        "goals_for": 5,
+        "losses": 3,
+        "goals_for": 2,
         "goals_against": 8,
-        "goal_difference": -3,
+        "goal_difference": -6,
         "points": 5,
-        "form": "WDDLL"
+        "form": "LLLWD"
       },
       {
         "position": 9,
@@ -302,6 +302,7 @@
       },
       {
         "position": 12,
+        "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6",
         "team": "Patriotas",
         "played": 15,
         "wins": 5,
@@ -375,121 +376,121 @@
         "position": 1,
         "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
         "team": "昆迪奥",
-        "played": 5,
-        "wins": 3,
+        "played": 6,
+        "wins": 4,
         "draws": 0,
         "losses": 2,
-        "goals_for": 6,
+        "goals_for": 8,
         "goals_against": 5,
-        "goal_difference": 1,
-        "points": 9,
-        "form": "LWLWW",
-        "form_label": "负胜负胜胜"
+        "goal_difference": 3,
+        "points": 12,
+        "form": "WLWLW",
+        "form_label": "胜负胜负胜"
       },
       {
         "position": 1,
-        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
-        "team": "恩维加多",
-        "played": 5,
-        "wins": 2,
+        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
+        "team": "博卡青年",
+        "played": 6,
+        "wins": 3,
         "draws": 1,
         "losses": 2,
-        "goals_for": 7,
-        "goals_against": 5,
-        "goal_difference": 2,
-        "points": 7,
-        "form": "LWLDW",
-        "form_label": "负胜负平胜"
+        "goals_for": 9,
+        "goals_against": 8,
+        "goal_difference": 1,
+        "points": 10,
+        "form": "WLLWW",
+        "form_label": "胜负负胜胜"
       },
       {
         "position": 2,
         "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
         "team": "卡塔赫纳",
-        "played": 5,
-        "wins": 2,
+        "played": 6,
+        "wins": 3,
         "draws": 2,
         "losses": 1,
-        "goals_for": 6,
+        "goals_for": 11,
         "goals_against": 5,
-        "goal_difference": 1,
-        "points": 8,
-        "form": "WDWLD",
-        "form_label": "胜平胜负平"
+        "goal_difference": 6,
+        "points": 11,
+        "form": "WWDWL",
+        "form_label": "胜胜平胜负"
       },
       {
         "position": 2,
+        "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
+        "team": "恩维加多",
+        "played": 6,
+        "wins": 2,
+        "draws": 2,
+        "losses": 2,
+        "goals_for": 8,
+        "goals_against": 6,
+        "goal_difference": 2,
+        "points": 8,
+        "form": "DLWLD",
+        "form_label": "平负胜负平"
+      },
+      {
+        "position": 3,
         "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8",
         "team": "马格达莱纳大学",
-        "played": 5,
+        "played": 6,
         "wins": 1,
         "draws": 4,
-        "losses": 0,
-        "goals_for": 6,
-        "goals_against": 5,
-        "goal_difference": 1,
+        "losses": 1,
+        "goals_for": 7,
+        "goals_against": 7,
+        "goal_difference": 0,
         "points": 7,
-        "form": "WDDDD",
-        "form_label": "胜平平平平"
+        "form": "LWDDD",
+        "form_label": "负胜平平平"
       },
       {
         "position": 3,
         "team_id": "ast_4a965a6301994d1791a0acb94ff009f0",
         "team": "皇家昆迪纳马卡",
-        "played": 5,
+        "played": 6,
         "wins": 1,
         "draws": 2,
-        "losses": 2,
+        "losses": 3,
         "goals_for": 4,
-        "goals_against": 5,
-        "goal_difference": -1,
-        "points": 5,
-        "form": "WDLDL",
-        "form_label": "胜平负平负"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
-        "team": "博卡青年",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goals_for": 7,
         "goals_against": 7,
-        "goal_difference": 0,
-        "points": 7,
-        "form": "LLWWD",
-        "form_label": "负负胜胜平"
-      },
-      {
-        "position": 4,
-        "team_id": "ast_166b06bc75c54d1285e7467bf60419d9",
-        "team": "老虎队",
-        "played": 5,
-        "wins": 1,
-        "draws": 2,
-        "losses": 2,
-        "goals_for": 2,
-        "goals_against": 3,
-        "goal_difference": -1,
+        "goal_difference": -3,
         "points": 5,
-        "form": "LLWDD",
-        "form_label": "负负胜平平"
+        "form": "LWDLD",
+        "form_label": "负胜平负平"
       },
       {
         "position": 4,
         "team_id": "ast_e9bc7b387147456fa93c587abc2d4119",
         "team": "尤姆博独立",
-        "played": 5,
+        "played": 6,
+        "wins": 1,
+        "draws": 3,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 9,
+        "goal_difference": -3,
+        "points": 6,
+        "form": "DWDDL",
+        "form_label": "平胜平平负"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_166b06bc75c54d1285e7467bf60419d9",
+        "team": "老虎队",
+        "played": 6,
         "wins": 1,
         "draws": 2,
-        "losses": 2,
-        "goals_for": 5,
+        "losses": 3,
+        "goals_for": 2,
         "goals_against": 8,
-        "goal_difference": -3,
+        "goal_difference": -6,
         "points": 5,
-        "form": "WDDLL",
-        "form_label": "胜平平负负"
+        "form": "LLLWD",
+        "form_label": "负负负胜平"
       },
       {
         "position": 9,
@@ -538,7 +539,8 @@
       },
       {
         "position": 12,
-        "team": "阿帕雷西达",
+        "team_id": "ast_668ce532dfa1445f9630eddb3f3520f6",
+        "team": "爱国者",
         "played": 15,
         "wins": 5,
         "draws": 3,
@@ -633,7 +635,7 @@
         "match_id": "as_e3a7fafd56a34f9abc529fe38b5bfbd8",
         "date": "2026-11-20",
         "time": "00:45",
-        "status": "00:45",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -645,13 +647,16 @@
           "name": "老虎队",
           "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "5-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_0de61c86fd294eed9c3821318fd24e57",
         "date": "2026-11-20",
         "time": "00:45",
-        "status": "00:45",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -663,13 +668,16 @@
           "name": "昆迪奥",
           "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_092585a96e804674bcbef11e85f17ba9",
         "date": "2026-11-19",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -681,13 +689,16 @@
           "name": "恩维加多",
           "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d9a08c7b6aa84b089ed0e2736d770f9c",
         "date": "2026-11-19",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -699,7 +710,10 @@
           "name": "博卡青年",
           "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4981529116be47e9aaa36053b54b9c90",
@@ -6713,7 +6727,7 @@
         "match_id": "as_0de61c86fd294eed9c3821318fd24e57",
         "date": "2026-11-20",
         "time": "00:45",
-        "status": "00:45",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6725,13 +6739,16 @@
           "name": "昆迪奥",
           "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e3a7fafd56a34f9abc529fe38b5bfbd8",
         "date": "2026-11-20",
         "time": "00:45",
-        "status": "00:45",
+        "status": "FT",
         "league": "哥伦比亚B级联赛",
         "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
         "season": "2026",
@@ -6743,43 +6760,10 @@
           "name": "老虎队",
           "team_id": "ast_166b06bc75c54d1285e7467bf60419d9"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d9a08c7b6aa84b089ed0e2736d770f9c",
-        "date": "2026-11-19",
-        "time": "22:30",
-        "status": "22:30",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "马格达莱纳大学",
-          "team_id": "ast_da39b8fc931f49c9a9977824fa7469a8"
-        },
-        "away": {
-          "name": "博卡青年",
-          "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_092585a96e804674bcbef11e85f17ba9",
-        "date": "2026-11-19",
-        "time": "22:30",
-        "status": "22:30",
-        "league": "哥伦比亚B级联赛",
-        "league_id": "asl_c610176969bf4912bab3d9f4874fb30f",
-        "season": "2026",
-        "home": {
-          "name": "尤姆博独立",
-          "team_id": "ast_e9bc7b387147456fa93c587abc2d4119"
-        },
-        "away": {
-          "name": "恩维加多",
-          "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12"
-        },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "5-0",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -11344,23 +11328,23 @@
     }
   },
   "stats": {
-    "matches_completed": 286,
-    "total_goals": 624,
-    "avg_goals_per_match": 2.18,
-    "home_wins": 104,
-    "draws": 93,
-    "away_wins": 89,
-    "home_win_pct": 36.4,
+    "matches_completed": 290,
+    "total_goals": 636,
+    "avg_goals_per_match": 2.19,
+    "home_wins": 105,
+    "draws": 94,
+    "away_wins": 91,
+    "home_win_pct": 36.2,
     "biggest_win": {
       "margin": 5,
       "match": {
-        "match_id": "as_cdaeac76bcb34809a8a791b67538a856",
-        "date": "2026-08-24",
-        "home_id": "ast_085a191e13db4e78b6d3336db119d5ab",
-        "home": "狮子队",
-        "away_id": "ast_3560427e4dc34e6c9278a287e0074a54",
-        "away": "卡塔赫纳",
-        "score": "1-6"
+        "match_id": "as_e3a7fafd56a34f9abc529fe38b5bfbd8",
+        "date": "2026-11-20",
+        "home_id": "ast_3560427e4dc34e6c9278a287e0074a54",
+        "home": "卡塔赫纳",
+        "away_id": "ast_166b06bc75c54d1285e7467bf60419d9",
+        "away": "老虎队",
+        "score": "5-0"
       }
     },
     "highest_scoring_match": {
@@ -11377,8 +11361,8 @@
     },
     "leader": {
       "team": "Quindio",
-      "points": 9,
-      "played": 5
+      "points": 12,
+      "played": 6
     }
   },
   "coverage": {
@@ -11475,43 +11459,43 @@
             "position": 1,
             "team_id": "ast_8feb78c8d9bd484982d5399eb1c2e3e2",
             "team": "Quindio",
-            "played": 5,
-            "wins": 3,
+            "played": 6,
+            "wins": 4,
             "draws": 0,
             "losses": 2,
-            "goals_for": 6,
+            "goals_for": 8,
             "goals_against": 5,
-            "goal_difference": 1,
-            "points": 9,
-            "form": "LWLWW"
+            "goal_difference": 3,
+            "points": 12,
+            "form": "WLWLW"
           },
           {
             "position": 1,
-            "team_id": "ast_0124bee95a3e42de9c45188b58cb0a12",
-            "team": "Envigado",
-            "played": 5,
-            "wins": 2,
+            "team_id": "ast_25f0505a18de429cbf0f7e5a604c4898",
+            "team": "Boca Juniors",
+            "played": 6,
+            "wins": 3,
             "draws": 1,
             "losses": 2,
-            "goals_for": 7,
-            "goals_against": 5,
-            "goal_difference": 2,
-            "points": 7,
-            "form": "LWLDW"
+            "goals_for": 9,
+            "goals_against": 8,
+            "goal_difference": 1,
+            "points": 10,
+            "form": "WLLWW"
           },
           {
             "position": 2,
             "team_id": "ast_3560427e4dc34e6c9278a287e0074a54",
             "team": "Cartagena",
-            "played": 5,
-            "wins": 2,
+            "played": 6,
+            "wins": 3,
             "draws": 2,
             "losses": 1,
-            "goals_for": 6,
+            "goals_for": 11,
             "goals_against": 5,
-            "goal_difference": 1,
-            "points": 8,
-            "form": "WDWLD"
+            "goal_difference": 6,
+            "points": 11,
+            "form": "WWDWL"
           }
         ],
         "meta": {
@@ -12148,7 +12132,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 290,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/19"
+  "updated_at": "2026/11/20"
 }
