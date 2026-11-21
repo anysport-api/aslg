@@ -2994,7 +2994,7 @@
         "match_id": "as_9c10dcbf164c4a6090d15754e65b4190",
         "date": "2026-11-28",
         "time": "07:00",
-        "status": "Not Started",
+        "status": "07:00",
         "league": "中国香港甲级联赛",
         "league_id": "asl_f5d0f344100c487197a1a3d7a6233f61",
         "season": "2026/2027",
@@ -3006,9 +3006,7 @@
           "name": "南区",
           "team_id": "ast_c5c001700e43426e86ae009aeec5ff37"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_289767cfe78f4acd8398cd3510ece236",
@@ -3032,7 +3030,7 @@
         "match_id": "as_ed7f05f78dc84d82855c7e0b0498222c",
         "date": "2026-11-21",
         "time": "07:00",
-        "status": "07:00",
+        "status": "FT",
         "league": "中国香港甲级联赛",
         "league_id": "asl_f5d0f344100c487197a1a3d7a6233f61",
         "season": "2026/2027",
@@ -3044,13 +3042,16 @@
           "name": "杰志",
           "team_id": "ast_27ac7dcb0d0944518fb353c885f69b9e"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_aa326f782f614f529a732a8d2c31e9e2",
         "date": "2026-11-21",
         "time": "07:00",
-        "status": "07:00",
+        "status": "FT",
         "league": "中国香港甲级联赛",
         "league_id": "asl_f5d0f344100c487197a1a3d7a6233f61",
         "season": "2026/2027",
@@ -3062,25 +3063,10 @@
           "name": "香港流浪者",
           "team_id": "ast_2940fbec545644119be4049b5febcf49"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_38dab781b60f4d998f8bf4f4adeb426f",
-        "date": "2026-11-20",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "中国香港甲级联赛",
-        "league_id": "asl_f5d0f344100c487197a1a3d7a6233f61",
-        "season": "2026/2027",
-        "home": {
-          "name": "李文曼勇士",
-          "team_id": "ast_a542355687cf4b1b8e08b247817f7785"
-        },
-        "away": {
-          "name": "北区",
-          "team_id": "ast_17fd4270bb0343f194e421835fbc0e9f"
-        },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7400,7 +7386,7 @@
     "teams_all_time": 36,
     "standings_rows_current": 9,
     "matches_current_season": 108,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/11/20"
+  "updated_at": "2026/11/21"
 }

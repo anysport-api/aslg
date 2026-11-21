@@ -6916,7 +6916,7 @@
         "match_id": "as_643673f6922240588842c20ea9154919",
         "date": "2026-11-28",
         "time": "08:40",
-        "status": "Not Started",
+        "status": "08:40",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -6928,9 +6928,7 @@
           "name": "奥克兰FC",
           "team_id": "ast_0ec944ae64a84087a031adf978a95323"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_77e6ca0984294fdc9b218ebddd2768dd",
@@ -6972,7 +6970,7 @@
         "match_id": "as_0b3d6f9564aa4244a29ab0720b602c5c",
         "date": "2026-11-21",
         "time": "08:40",
-        "status": "08:40",
+        "status": "60",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -6984,13 +6982,15 @@
           "name": "悉尼FC",
           "team_id": "ast_dd8e4acdcdc244ce8169c9fdf8b088e0"
         },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
         "venue": ""
       },
       {
         "match_id": "as_1c2ffc770d1144d8a6d76474760189f7",
         "date": "2026-11-21",
         "time": "06:00",
-        "status": "06:00",
+        "status": "FT",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -7002,13 +7002,16 @@
           "name": "珀斯光辉",
           "team_id": "ast_e8c0b12def2e4b5f92598fb0784b8829"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_b0b21f36d81545738c76d0b76b2d24c7",
         "date": "2026-11-21",
         "time": "04:00",
-        "status": "04:00",
+        "status": "FT",
         "league": "澳大利亚甲级联赛",
         "league_id": "asl_306da156cfed4bca82d286a5407505b2",
         "season": "2026/2027",
@@ -7020,27 +7023,10 @@
           "name": "墨尔本胜利",
           "team_id": "ast_3c59275cee564d91a898e377905db431"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d2b43aea508a4f2082b356667492da30",
-        "date": "2026-11-20",
-        "time": "08:40",
-        "status": "92",
-        "league": "澳大利亚甲级联赛",
-        "league_id": "asl_306da156cfed4bca82d286a5407505b2",
-        "season": "2026/2027",
-        "home": {
-          "name": "WS流浪者",
-          "team_id": "ast_7826e60ee53d4d988c740780f907c9c1"
-        },
-        "away": {
-          "name": "阿德莱德联",
-          "team_id": "ast_7a21919f88bf460ba9c7582617e2d904"
-        },
         "ht_score": "0-1",
-        "reg_score": "3-2",
-        "venue": ""
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -11637,7 +11623,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 12,
     "matches_current_season": 163,
-    "upcoming_matches": 35
+    "upcoming_matches": 34
   },
-  "updated_at": "2026/11/20"
+  "updated_at": "2026/11/21"
 }

@@ -160,6 +160,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_2165cc625a10478a8b3957350880a31a",
+        "team": "Bodo/Glimt",
+        "played": 27,
+        "wins": 21,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 67,
+        "goals_against": 25,
+        "goal_difference": 42,
+        "points": 65,
+        "form": "WWWLW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_26a0e48973d346d18d8ea1a8038a48dd",
         "team": "Viking",
         "played": 26,
@@ -171,20 +185,6 @@
         "goal_difference": 42,
         "points": 62,
         "form": "WLWWW"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_2165cc625a10478a8b3957350880a31a",
-        "team": "Bodo/Glimt",
-        "played": 26,
-        "wins": 20,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 63,
-        "goals_against": 23,
-        "goal_difference": 40,
-        "points": 62,
-        "form": "WWLWW"
       },
       {
         "position": 3,
@@ -218,15 +218,15 @@
         "position": 5,
         "team_id": "ast_822e9321d74d455480d0678ae71284d0",
         "team": "Molde",
-        "played": 26,
+        "played": 27,
         "wins": 13,
         "draws": 5,
-        "losses": 8,
-        "goals_for": 64,
-        "goals_against": 44,
-        "goal_difference": 20,
+        "losses": 9,
+        "goals_for": 66,
+        "goals_against": 48,
+        "goal_difference": 18,
         "points": 44,
-        "form": "DLWWD"
+        "form": "LDLWW"
       },
       {
         "position": 6,
@@ -386,6 +386,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_2165cc625a10478a8b3957350880a31a",
+        "team": "博多/格林特",
+        "played": 27,
+        "wins": 21,
+        "draws": 2,
+        "losses": 4,
+        "goals_for": 67,
+        "goals_against": 25,
+        "goal_difference": 42,
+        "points": 65,
+        "form": "WWWLW",
+        "form_label": "胜胜胜负胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_26a0e48973d346d18d8ea1a8038a48dd",
         "team": "维京",
         "played": 26,
@@ -398,21 +413,6 @@
         "points": 62,
         "form": "WLWWW",
         "form_label": "胜负胜胜胜"
-      },
-      {
-        "position": 2,
-        "team_id": "ast_2165cc625a10478a8b3957350880a31a",
-        "team": "博多/格林特",
-        "played": 26,
-        "wins": 20,
-        "draws": 2,
-        "losses": 4,
-        "goals_for": 63,
-        "goals_against": 23,
-        "goal_difference": 40,
-        "points": 62,
-        "form": "WWLWW",
-        "form_label": "胜胜负胜胜"
       },
       {
         "position": 3,
@@ -448,16 +448,16 @@
         "position": 5,
         "team_id": "ast_822e9321d74d455480d0678ae71284d0",
         "team": "莫尔德",
-        "played": 26,
+        "played": 27,
         "wins": 13,
         "draws": 5,
-        "losses": 8,
-        "goals_for": 64,
-        "goals_against": 44,
-        "goal_difference": 20,
+        "losses": 9,
+        "goals_for": 66,
+        "goals_against": 48,
+        "goal_difference": 18,
         "points": 44,
-        "form": "DLWWD",
-        "form_label": "平负胜胜平"
+        "form": "LDLWW",
+        "form_label": "负平负胜胜"
       },
       {
         "position": 6,
@@ -3477,7 +3477,7 @@
         "match_id": "as_0021557a814247a68893528e813c8f39",
         "date": "2026-11-28",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "挪威超级联赛",
         "league_id": "asl_f8ab555940a444639795e64518520ed4",
         "season": "2026",
@@ -3489,15 +3489,13 @@
           "name": "KFUM奥斯陆",
           "team_id": "ast_870c4bbaa626428f88a1344545cd764b"
         },
-        "ht_score": "-",
-        "venue": "阿斯普米拉体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c191ce1ca33e4e66987895733fcda76f",
         "date": "2026-11-28",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "挪威超级联赛",
         "league_id": "asl_f8ab555940a444639795e64518520ed4",
         "season": "2026",
@@ -3509,9 +3507,7 @@
           "name": "莫尔德",
           "team_id": "ast_822e9321d74d455480d0678ae71284d0"
         },
-        "ht_score": "-",
-        "venue": "莱尔肯达尔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d86eed1a7674420aa6061352cec2ddf6",
@@ -3643,7 +3639,7 @@
         "match_id": "as_1ef2f179c8fc40deb40f56f7ec025160",
         "date": "2026-11-20",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "挪威超级联赛",
         "league_id": "asl_f8ab555940a444639795e64518520ed4",
         "season": "2026",
@@ -3655,7 +3651,10 @@
           "name": "博多/格林特",
           "team_id": "ast_2165cc625a10478a8b3957350880a31a"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "2-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f9a09c607a37427fab6dfb4b59814808",
@@ -8471,7 +8470,7 @@
         "match_id": "as_c191ce1ca33e4e66987895733fcda76f",
         "date": "2026-11-28",
         "time": "17:00",
-        "status": "Not Started",
+        "status": "17:00",
         "league": "挪威超级联赛",
         "league_id": "asl_f8ab555940a444639795e64518520ed4",
         "season": "2026",
@@ -8483,15 +8482,13 @@
           "name": "莫尔德",
           "team_id": "ast_822e9321d74d455480d0678ae71284d0"
         },
-        "ht_score": "-",
-        "venue": "莱尔肯达尔体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0021557a814247a68893528e813c8f39",
         "date": "2026-11-28",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "挪威超级联赛",
         "league_id": "asl_f8ab555940a444639795e64518520ed4",
         "season": "2026",
@@ -8503,9 +8500,7 @@
           "name": "KFUM奥斯陆",
           "team_id": "ast_870c4bbaa626428f88a1344545cd764b"
         },
-        "ht_score": "-",
-        "venue": "阿斯普米拉体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d546873ad85f46cba03f0b0d8589a072",
@@ -8630,24 +8625,6 @@
         "away": {
           "name": "弗雷德里克斯塔",
           "team_id": "ast_b6e1a38ca26e492fbe603c0a6e37244e"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_1ef2f179c8fc40deb40f56f7ec025160",
-        "date": "2026-11-20",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "挪威超级联赛",
-        "league_id": "asl_f8ab555940a444639795e64518520ed4",
-        "season": "2026",
-        "home": {
-          "name": "莫尔德",
-          "team_id": "ast_822e9321d74d455480d0678ae71284d0"
-        },
-        "away": {
-          "name": "博多/格林特",
-          "team_id": "ast_2165cc625a10478a8b3957350880a31a"
         },
         "venue": ""
       }
@@ -10223,13 +10200,13 @@
     }
   },
   "stats": {
-    "matches_completed": 208,
-    "total_goals": 688,
-    "avg_goals_per_match": 3.31,
+    "matches_completed": 209,
+    "total_goals": 694,
+    "avg_goals_per_match": 3.32,
     "home_wins": 104,
     "draws": 41,
-    "away_wins": 63,
-    "home_win_pct": 50.0,
+    "away_wins": 64,
+    "home_win_pct": 49.8,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -10255,9 +10232,9 @@
       }
     },
     "leader": {
-      "team": "Viking",
-      "points": 62,
-      "played": 26
+      "team": "Bodo/Glimt",
+      "points": 65,
+      "played": 27
     }
   },
   "coverage": {
@@ -10359,6 +10336,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_2165cc625a10478a8b3957350880a31a",
+            "team": "Bodo/Glimt",
+            "played": 27,
+            "wins": 21,
+            "draws": 2,
+            "losses": 4,
+            "goals_for": 67,
+            "goals_against": 25,
+            "goal_difference": 42,
+            "points": 65,
+            "form": "WWWLW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_26a0e48973d346d18d8ea1a8038a48dd",
             "team": "Viking",
             "played": 26,
@@ -10370,20 +10361,6 @@
             "goal_difference": 42,
             "points": 62,
             "form": "WLWWW"
-          },
-          {
-            "position": 2,
-            "team_id": "ast_2165cc625a10478a8b3957350880a31a",
-            "team": "Bodo/Glimt",
-            "played": 26,
-            "wins": 20,
-            "draws": 2,
-            "losses": 4,
-            "goals_for": 63,
-            "goals_against": 23,
-            "goal_difference": 40,
-            "points": 62,
-            "form": "WWLWW"
           },
           {
             "position": 3,
@@ -11047,7 +11024,7 @@
     "teams_all_time": 24,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 32
+    "upcoming_matches": 31
   },
-  "updated_at": "2026/11/20"
+  "updated_at": "2026/11/21"
 }

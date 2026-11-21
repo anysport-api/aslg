@@ -168,29 +168,29 @@
         "position": 1,
         "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
         "team": "Ind. del Valle",
-        "played": 35,
+        "played": 36,
         "wins": 27,
         "draws": 3,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 81,
-        "goals_against": 37,
-        "goal_difference": 44,
+        "goals_against": 38,
+        "goal_difference": 43,
         "points": 84,
-        "form": "WWDLW"
+        "form": "LWWDL"
       },
       {
         "position": 2,
         "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
         "team": "Macara",
-        "played": 36,
-        "wins": 20,
+        "played": 37,
+        "wins": 21,
         "draws": 7,
         "losses": 9,
-        "goals_for": 52,
+        "goals_for": 53,
         "goals_against": 37,
-        "goal_difference": 15,
-        "points": 67,
-        "form": "DWWWW"
+        "goal_difference": 16,
+        "points": 70,
+        "form": "WDWWW"
       },
       {
         "position": 3,
@@ -250,6 +250,7 @@
       },
       {
         "position": 7,
+        "team_id": "ast_58812e22c29f430dbbe975f627d43664",
         "team": "Libertad",
         "played": 36,
         "wins": 14,
@@ -393,31 +394,31 @@
         "position": 1,
         "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
         "team": "独立谷",
-        "played": 35,
+        "played": 36,
         "wins": 27,
         "draws": 3,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 81,
-        "goals_against": 37,
-        "goal_difference": 44,
+        "goals_against": 38,
+        "goal_difference": 43,
         "points": 84,
-        "form": "WWDLW",
-        "form_label": "胜胜平负胜"
+        "form": "LWWDL",
+        "form_label": "负胜胜平负"
       },
       {
         "position": 2,
         "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
         "team": "马卡拉",
-        "played": 36,
-        "wins": 20,
+        "played": 37,
+        "wins": 21,
         "draws": 7,
         "losses": 9,
-        "goals_for": 52,
+        "goals_for": 53,
         "goals_against": 37,
-        "goal_difference": 15,
-        "points": 67,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
+        "goal_difference": 16,
+        "points": 70,
+        "form": "WDWWW",
+        "form_label": "胜平胜胜胜"
       },
       {
         "position": 3,
@@ -481,7 +482,8 @@
       },
       {
         "position": 7,
-        "team": "阿帕雷西达",
+        "team_id": "ast_58812e22c29f430dbbe975f627d43664",
+        "team": "自由FC",
         "played": 36,
         "wins": 14,
         "draws": 9,
@@ -3399,9 +3401,9 @@
       },
       {
         "match_id": "as_c548c76ed57f4a0182d7da708bda977c",
-        "date": "2026-11-25",
-        "time": "21:00",
-        "status": "Not Started",
+        "date": "2026-11-26",
+        "time": "00:00",
+        "status": "00:00",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -3413,9 +3415,7 @@
           "name": "独立谷",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
         },
-        "ht_score": "-",
-        "venue": "皮钦查银行纪念碑体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_029e5301fa2441908eff797572d3adea",
@@ -3511,7 +3511,7 @@
         "match_id": "as_d24e80e198234604aee40079efd57385",
         "date": "2026-11-20",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -3523,7 +3523,10 @@
           "name": "马卡拉",
           "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_d27429c5bb60487c85f9f5aa7bcd1f63",
@@ -9916,9 +9919,9 @@
       },
       {
         "match_id": "as_c548c76ed57f4a0182d7da708bda977c",
-        "date": "2026-11-25",
-        "time": "21:00",
-        "status": "Not Started",
+        "date": "2026-11-26",
+        "time": "00:00",
+        "status": "00:00",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -9930,9 +9933,7 @@
           "name": "独立谷",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
         },
-        "ht_score": "-",
-        "venue": "皮钦查银行纪念碑体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1b0ed16666db4d55ab8f4d381f2ba813",
@@ -10021,24 +10022,6 @@
         "away": {
           "name": "昆卡体育",
           "team_id": "ast_86fc9bae2a07488d9228f0cf0dfb975d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d24e80e198234604aee40079efd57385",
-        "date": "2026-11-20",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "厄瓜多尔职业联赛",
-        "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
-        "season": "2026",
-        "home": {
-          "name": "独立谷",
-          "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
-        },
-        "away": {
-          "name": "马卡拉",
-          "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae"
         },
         "venue": ""
       }
@@ -14718,13 +14701,13 @@
     }
   },
   "stats": {
-    "matches_completed": 287,
-    "total_goals": 672,
+    "matches_completed": 288,
+    "total_goals": 673,
     "avg_goals_per_match": 2.34,
     "home_wins": 133,
     "draws": 71,
-    "away_wins": 83,
-    "home_win_pct": 46.3,
+    "away_wins": 84,
+    "home_win_pct": 46.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -14752,7 +14735,7 @@
     "leader": {
       "team": "Ind. del Valle",
       "points": 84,
-      "played": 35
+      "played": 36
     }
   },
   "coverage": {
@@ -14849,29 +14832,29 @@
             "position": 1,
             "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
             "team": "Ind. del Valle",
-            "played": 35,
+            "played": 36,
             "wins": 27,
             "draws": 3,
-            "losses": 5,
+            "losses": 6,
             "goals_for": 81,
-            "goals_against": 37,
-            "goal_difference": 44,
+            "goals_against": 38,
+            "goal_difference": 43,
             "points": 84,
-            "form": "WWDLW"
+            "form": "LWWDL"
           },
           {
             "position": 2,
             "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
             "team": "Macara",
-            "played": 36,
-            "wins": 20,
+            "played": 37,
+            "wins": 21,
             "draws": 7,
             "losses": 9,
-            "goals_for": 52,
+            "goals_for": 53,
             "goals_against": 37,
-            "goal_difference": 15,
-            "points": 67,
-            "form": "DWWWW"
+            "goal_difference": 16,
+            "points": 70,
+            "form": "WDWWW"
           },
           {
             "position": 3,
@@ -15540,7 +15523,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 16,
     "matches_current_season": 312,
-    "upcoming_matches": 25
+    "upcoming_matches": 24
   },
-  "updated_at": "2026/11/20"
+  "updated_at": "2026/11/21"
 }

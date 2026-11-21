@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
@@ -349,6 +349,42 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_ded7247cbbaf49d88ffb3db160d21e02",
+        "date": "2026-11-27",
+        "time": "17:30",
+        "status": "17:30",
+        "league": "爱沙尼亚乙级联赛B组",
+        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
+        "season": "2026",
+        "home": {
+          "name": "塔林卡列夫U21",
+          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
+        },
+        "away": {
+          "name": "Viimsi JK U21",
+          "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_53d666859eff40d8a6592f4633ba3c4e",
+        "date": "2026-11-21",
+        "time": "11:00",
+        "status": "11:00",
+        "league": "爱沙尼亚乙级联赛B组",
+        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
+        "season": "2026",
+        "home": {
+          "name": "Viimsi JK U21",
+          "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
+        },
+        "away": {
+          "name": "塔林卡列夫U21",
+          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_453fdb89d021408a95380436c2e0b0b8",
         "date": "2026-11-08",
@@ -4130,7 +4166,44 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_ded7247cbbaf49d88ffb3db160d21e02",
+        "date": "2026-11-27",
+        "time": "17:30",
+        "status": "17:30",
+        "league": "爱沙尼亚乙级联赛B组",
+        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
+        "season": "2026",
+        "home": {
+          "name": "塔林卡列夫U21",
+          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
+        },
+        "away": {
+          "name": "Viimsi JK U21",
+          "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_53d666859eff40d8a6592f4633ba3c4e",
+        "date": "2026-11-21",
+        "time": "11:00",
+        "status": "11:00",
+        "league": "爱沙尼亚乙级联赛B组",
+        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
+        "season": "2026",
+        "home": {
+          "name": "Viimsi JK U21",
+          "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
+        },
+        "away": {
+          "name": "塔林卡列夫U21",
+          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -4505,6 +4578,9 @@
     },
     "ast_a2f514503d23499a92135d832b3906ee": {
       "en": "Haapsalu"
+    },
+    "ast_73b5f1efe5084be6975d68c9352e8a8f": {
+      "en": "Viimsi JK U21"
     }
   },
   "stats": {
@@ -5273,8 +5349,8 @@
     "distinct_title_holders": 1,
     "teams_all_time": 15,
     "standings_rows_current": 10,
-    "matches_current_season": 180,
-    "upcoming_matches": 0
+    "matches_current_season": 182,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/10"
+  "updated_at": "2026/11/21"
 }
