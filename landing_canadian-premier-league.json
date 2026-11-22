@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
@@ -325,7 +325,7 @@
         "match_id": "as_5b5dbdfeb54140b680d90b0dff8d4550",
         "date": "2026-11-21",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "加拿大超级联赛",
         "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
         "season": "2026",
@@ -337,7 +337,10 @@
           "name": "渥太华竞技",
           "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "3-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ac7b1d2110f44551826eccb301ef417c",
@@ -2776,26 +2779,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_5b5dbdfeb54140b680d90b0dff8d4550",
-        "date": "2026-11-21",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "加拿大超级联赛",
-        "league_id": "asl_d0ceffd8ae2e490e97ef68ce986d33ef",
-        "season": "2026",
-        "home": {
-          "name": "骑兵",
-          "team_id": "ast_80f4fefd9bfb4ed6946abec66e0beb33"
-        },
-        "away": {
-          "name": "渥太华竞技",
-          "team_id": "ast_231c3a5bee3145b285d4b9117c667c1d"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -3774,13 +3758,13 @@
     }
   },
   "stats": {
-    "matches_completed": 116,
-    "total_goals": 368,
-    "avg_goals_per_match": 3.17,
-    "home_wins": 54,
+    "matches_completed": 117,
+    "total_goals": 373,
+    "avg_goals_per_match": 3.19,
+    "home_wins": 55,
     "draws": 28,
     "away_wins": 34,
-    "home_win_pct": 46.6,
+    "home_win_pct": 47.0,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -4590,7 +4574,7 @@
     "teams_all_time": 10,
     "standings_rows_current": 8,
     "matches_current_season": 117,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }

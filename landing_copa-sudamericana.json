@@ -14,7 +14,7 @@
     "is_cup": true
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
@@ -1099,7 +1099,7 @@
         "match_id": "as_7364f20efa674c05816eeefeeffe2d5e",
         "date": "2026-11-21",
         "time": "22:30",
-        "status": "22:30",
+        "status": "FT",
         "league": "南美杯",
         "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
         "season": "2026",
@@ -1111,7 +1111,10 @@
           "name": "博卡青年",
           "team_id": "ast_09dc9f7c6ffb4813b85967ca02b544e3"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_ff480322f05c4aee9851e553588927d2",
@@ -4396,26 +4399,7 @@
         "status_label": "点球决胜"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_7364f20efa674c05816eeefeeffe2d5e",
-        "date": "2026-11-21",
-        "time": "22:30",
-        "status": "22:30",
-        "league": "南美杯",
-        "league_id": "asl_74e394dfab6c4e43af97311ae3329a80",
-        "season": "2026",
-        "home": {
-          "name": "米内罗竞技",
-          "team_id": "ast_6034686b882844f494c4ecf824610276"
-        },
-        "away": {
-          "name": "博卡青年",
-          "team_id": "ast_09dc9f7c6ffb4813b85967ca02b544e3"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -7144,13 +7128,13 @@
     }
   },
   "stats": {
-    "matches_completed": 156,
-    "total_goals": 369,
-    "avg_goals_per_match": 2.37,
+    "matches_completed": 157,
+    "total_goals": 371,
+    "avg_goals_per_match": 2.36,
     "home_wins": 73,
     "draws": 43,
-    "away_wins": 40,
-    "home_win_pct": 46.8,
+    "away_wins": 41,
+    "home_win_pct": 46.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7914,7 +7898,7 @@
     "teams_all_time": 97,
     "standings_rows_current": 32,
     "matches_current_season": 157,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }

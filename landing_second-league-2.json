@@ -346,20 +346,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_feba9f1f362645dd97d5957b0556b93d",
-        "team": "Penuel Kryvyi Rih",
-        "played": 30,
-        "wins": 3,
-        "draws": 8,
-        "losses": 19,
-        "goals_for": 27,
-        "goals_against": 64,
-        "goal_difference": -37,
-        "points": 17,
-        "form": "LLWWL"
-      },
-      {
-        "position": 10,
         "team_id": "ast_a4d0fb574dd741a7962c56590859013a",
         "team": "Real Pharma",
         "played": 30,
@@ -373,18 +359,18 @@
         "form": "LLDWL"
       },
       {
-        "position": 11,
-        "team_id": "ast_cd4fc55b0eab4c589c05dbc1429b76d5",
-        "team": "Hirnyk-Sport",
+        "position": 10,
+        "team_id": "ast_feba9f1f362645dd97d5957b0556b93d",
+        "team": "Penuel Kryvyi Rih",
         "played": 30,
         "wins": 3,
-        "draws": 5,
-        "losses": 22,
-        "goals_for": 20,
-        "goals_against": 73,
-        "goal_difference": -53,
-        "points": 14,
-        "form": "DLDLL"
+        "draws": 8,
+        "losses": 19,
+        "goals_for": 27,
+        "goals_against": 64,
+        "goal_difference": -37,
+        "points": 17,
+        "form": "LLWWL"
       },
       {
         "position": 11,
@@ -399,6 +385,20 @@
         "goal_difference": 2,
         "points": 27,
         "form": "LLLLL"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_cd4fc55b0eab4c589c05dbc1429b76d5",
+        "team": "Hirnyk-Sport",
+        "played": 30,
+        "wins": 3,
+        "draws": 5,
+        "losses": 22,
+        "goals_for": 20,
+        "goals_against": 73,
+        "goal_difference": -53,
+        "points": 14,
+        "form": "DLDLL"
       }
     ],
     "zh": [
@@ -674,21 +674,6 @@
       },
       {
         "position": 10,
-        "team_id": "ast_feba9f1f362645dd97d5957b0556b93d",
-        "team": "克里维里佩纽尔",
-        "played": 30,
-        "wins": 3,
-        "draws": 8,
-        "losses": 19,
-        "goals_for": 27,
-        "goals_against": 64,
-        "goal_difference": -37,
-        "points": 17,
-        "form": "LLWWL",
-        "form_label": "负负胜胜负"
-      },
-      {
-        "position": 10,
         "team_id": "ast_a4d0fb574dd741a7962c56590859013a",
         "team": "皇家制药",
         "played": 30,
@@ -703,19 +688,19 @@
         "form_label": "负负平胜负"
       },
       {
-        "position": 11,
-        "team_id": "ast_cd4fc55b0eab4c589c05dbc1429b76d5",
-        "team": "赫尔尼克-斯波特",
+        "position": 10,
+        "team_id": "ast_feba9f1f362645dd97d5957b0556b93d",
+        "team": "克里维里佩纽尔",
         "played": 30,
         "wins": 3,
-        "draws": 5,
-        "losses": 22,
-        "goals_for": 20,
-        "goals_against": 73,
-        "goal_difference": -53,
-        "points": 14,
-        "form": "DLDLL",
-        "form_label": "平负平负负"
+        "draws": 8,
+        "losses": 19,
+        "goals_for": 27,
+        "goals_against": 64,
+        "goal_difference": -37,
+        "points": 17,
+        "form": "LLWWL",
+        "form_label": "负负胜胜负"
       },
       {
         "position": 11,
@@ -731,6 +716,21 @@
         "points": 27,
         "form": "LLLLL",
         "form_label": "负负负负负"
+      },
+      {
+        "position": 11,
+        "team_id": "ast_cd4fc55b0eab4c589c05dbc1429b76d5",
+        "team": "赫尔尼克-斯波特",
+        "played": 30,
+        "wins": 3,
+        "draws": 5,
+        "losses": 22,
+        "goals_for": 20,
+        "goals_against": 73,
+        "goal_difference": -53,
+        "points": 14,
+        "form": "DLDLL",
+        "form_label": "平负平负负"
       }
     ]
   },
@@ -7716,7 +7716,7 @@
         "match_id": "as_06479f44f90e4e87b72c962083106bde",
         "date": "2026-11-29",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "乌克兰第二级联赛",
         "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
         "season": "2026/2027",
@@ -7728,15 +7728,13 @@
           "name": "布拉茨拉夫·文尼察",
           "team_id": "ast_91136cc47ac74f6d9c3a13e9c6b61e00"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_0bc23b4958f8418e930fe5bf66d5204c",
         "date": "2026-11-29",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "乌克兰第二级联赛",
         "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
         "season": "2026/2027",
@@ -7748,9 +7746,7 @@
           "name": "维尔基夫茨足球俱乐部",
           "team_id": "ast_54315e9607de49429f13d451a8bfb198"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d1260a7ac39647d6b457245f522df4fa",
@@ -7864,7 +7860,7 @@
         "match_id": "as_fe0cbf20e7c1479a9f84efd7a2a79d72",
         "date": "2026-11-22",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Delayed",
         "league": "乌克兰第二级联赛",
         "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
         "season": "2026/2027",
@@ -7876,7 +7872,8 @@
           "name": "SK梅塔卢赫",
           "team_id": "ast_2a359232eee04f238e2db740ddabba9c"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "推迟"
       },
       {
         "match_id": "as_6939cf0bec6646dc8f7e5a196f5e41d3",
@@ -7893,96 +7890,6 @@
         "away": {
           "name": "斯卡拉1911",
           "team_id": "ast_01234eb04ee946199f06c437fb03da0a"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c04bd39900cf47668561cee50acca6f0",
-        "date": "2026-11-21",
-        "time": "09:00",
-        "status": "09:00",
-        "league": "乌克兰第二级联赛",
-        "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
-        "season": "2026/2027",
-        "home": {
-          "name": "特罗斯季亚涅茨",
-          "team_id": "ast_00bb61769e254354bc57b9241dd030b9"
-        },
-        "away": {
-          "name": "克里维里佩纽尔",
-          "team_id": "ast_feba9f1f362645dd97d5957b0556b93d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_242a479e86e8432fab5661961ef78cd9",
-        "date": "2026-11-21",
-        "time": "10:45",
-        "status": "10:45",
-        "league": "乌克兰第二级联赛",
-        "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
-        "season": "2026/2027",
-        "home": {
-          "name": "赫梅利尼茨基波迪利亚",
-          "team_id": "ast_61add37d7b074bc9a62c63819d47c6de"
-        },
-        "away": {
-          "name": "鲁赫利维夫",
-          "team_id": "ast_349d5dbc2a544567a1a941c67c635c20"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_909782db5a8e475e9c73680d170835ba",
-        "date": "2026-11-21",
-        "time": "09:45",
-        "status": "09:45",
-        "league": "乌克兰第二级联赛",
-        "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
-        "season": "2026/2027",
-        "home": {
-          "name": "奥列克桑德里亚2",
-          "team_id": "ast_364ac38c40bf4159b86a4b98ac0e74a2"
-        },
-        "away": {
-          "name": "卡尔本切尔卡西",
-          "team_id": "ast_bc5268a3ce284d8cad20fab64c1504c9"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e2639251fd034d9c8ae5e756312e8a76",
-        "date": "2026-11-21",
-        "time": "10:15",
-        "status": "10:15",
-        "league": "乌克兰第二级联赛",
-        "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
-        "season": "2026/2027",
-        "home": {
-          "name": "尼瓦文尼察",
-          "team_id": "ast_5fe2ddaa133c42a09ce88b8cc795fb28"
-        },
-        "away": {
-          "name": "维什戈罗德迪纳兹",
-          "team_id": "ast_5cad3a25dcbd4119ab7bcf8a5b5aae54"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e690a3e8fbab4fdfb18b1b4461b1becf",
-        "date": "2026-11-21",
-        "time": "09:30",
-        "status": "09:30",
-        "league": "乌克兰第二级联赛",
-        "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
-        "season": "2026/2027",
-        "home": {
-          "name": "布拉茨拉夫·文尼察",
-          "team_id": "ast_91136cc47ac74f6d9c3a13e9c6b61e00"
-        },
-        "away": {
-          "name": "德涅斯特扎利什奇基",
-          "team_id": "ast_8ed61f49df934700bb7489c253b2e587"
         },
         "venue": ""
       }
@@ -11557,7 +11464,7 @@
     "teams_all_time": 83,
     "standings_rows_current": 22,
     "matches_current_season": 332,
-    "upcoming_matches": 15
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }

@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
@@ -848,7 +848,7 @@
         "match_id": "as_e027f8cb20564bfa8cef7eee3cdae765",
         "date": "2026-11-21",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Pen.",
         "league": "美国USL甲级联赛",
         "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
         "season": "2026",
@@ -860,7 +860,12 @@
           "name": "路易斯维尔城",
           "team_id": "ast_390b1db3056242bb9a98447f3fb9cfac"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "et_score": "0-0",
+        "penalty_score": "4-3",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_8de8a6d178bf447ca1e772ff88337e96",
@@ -9042,26 +9047,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_e027f8cb20564bfa8cef7eee3cdae765",
-        "date": "2026-11-21",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "美国USL甲级联赛",
-        "league_id": "asl_0f435779a24d4982bcf6573ee04ad9bd",
-        "season": "2026",
-        "home": {
-          "name": "萨克拉门托共和国",
-          "team_id": "ast_7c9e4748b5f8487cb6d4d21ea96890e0"
-        },
-        "away": {
-          "name": "路易斯维尔城",
-          "team_id": "ast_390b1db3056242bb9a98447f3fb9cfac"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -12321,13 +12307,13 @@
     }
   },
   "stats": {
-    "matches_completed": 389,
-    "total_goals": 1056,
+    "matches_completed": 390,
+    "total_goals": 1058,
     "avg_goals_per_match": 2.71,
     "home_wins": 171,
-    "draws": 110,
+    "draws": 111,
     "away_wins": 108,
-    "home_win_pct": 44.0,
+    "home_win_pct": 43.8,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13121,7 +13107,7 @@
     "teams_all_time": 45,
     "standings_rows_current": 25,
     "matches_current_season": 390,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }

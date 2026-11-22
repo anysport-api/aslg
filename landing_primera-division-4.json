@@ -3265,7 +3265,7 @@
         "match_id": "as_21fb49cca2374184a08c8fdcd82e443f",
         "date": "2026-11-29",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -3277,9 +3277,7 @@
           "name": "翁斯卡尔达斯",
           "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4"
         },
-        "ht_score": "-",
-        "venue": "阿塔纳西奥·吉拉多特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_3e09937c4f2c42fcb3968dd621dd9996",
@@ -3393,7 +3391,7 @@
         "match_id": "as_5b9390e639264a78aa7ff68475f5a283",
         "date": "2026-11-22",
         "time": "01:15",
-        "status": "01:15",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -3405,7 +3403,10 @@
           "name": "国民竞技",
           "team_id": "ast_456335a042874375864b6bbe473786d2"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_580941c8dc5f43b080ab301fdb7777a7",
@@ -11830,7 +11831,7 @@
         "match_id": "as_21fb49cca2374184a08c8fdcd82e443f",
         "date": "2026-11-29",
         "time": "23:30",
-        "status": "Not Started",
+        "status": "23:30",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -11842,9 +11843,7 @@
           "name": "翁斯卡尔达斯",
           "team_id": "ast_63a202e1a79c4259aa5f785753fb11b4"
         },
-        "ht_score": "-",
-        "venue": "阿塔纳西奥·吉拉多特体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c4393a9ef7d7483096f0f1c21e32d98d",
@@ -11976,7 +11975,7 @@
         "match_id": "as_5b9390e639264a78aa7ff68475f5a283",
         "date": "2026-11-22",
         "time": "01:15",
-        "status": "01:15",
+        "status": "FT",
         "league": "哥伦比亚甲级联赛",
         "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
         "season": "2026",
@@ -11987,24 +11986,6 @@
         "away": {
           "name": "国民竞技",
           "team_id": "ast_456335a042874375864b6bbe473786d2"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_580941c8dc5f43b080ab301fdb7777a7",
-        "date": "2026-11-21",
-        "time": "01:40",
-        "status": "FT",
-        "league": "哥伦比亚甲级联赛",
-        "league_id": "asl_423ed4f5865d4e779a17c1a0d5263b0d",
-        "season": "2026",
-        "home": {
-          "name": "卡利体育",
-          "team_id": "ast_f7a9559f489d49a990829229b659d955"
-        },
-        "away": {
-          "name": "米隆纳里奥斯",
-          "team_id": "ast_9758a7ff84e342f3a2fee88c2e3e6461"
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
@@ -14107,13 +14088,13 @@
     }
   },
   "stats": {
-    "matches_completed": 397,
+    "matches_completed": 398,
     "total_goals": 994,
     "avg_goals_per_match": 2.5,
     "home_wins": 185,
-    "draws": 119,
+    "draws": 120,
     "away_wins": 93,
-    "home_win_pct": 46.6,
+    "home_win_pct": 46.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14915,7 +14896,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 20,
     "matches_current_season": 410,
-    "upcoming_matches": 14
+    "upcoming_matches": 13
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }

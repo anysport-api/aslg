@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
@@ -469,6 +469,42 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_ba80250f63f44425b8b5f02ad86ce9ac",
+        "date": "2026-11-28",
+        "time": "10:30",
+        "status": "10:30",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "塔林足球俱乐部",
+          "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
+        },
+        "away": {
+          "name": "图列维克",
+          "team_id": "ast_11c3edd678ff4830806d6a0a813e1a01"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_ad1dc36161c74d61afe2a3bd3509e641",
+        "date": "2026-11-22",
+        "time": "16:00",
+        "status": "16:00",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "图列维克",
+          "team_id": "ast_11c3edd678ff4830806d6a0a813e1a01"
+        },
+        "away": {
+          "name": "塔林足球俱乐部",
+          "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_390f2fbc66a5445bb6b96ace5946876f",
         "date": "2026-11-08",
@@ -4242,7 +4278,44 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_ba80250f63f44425b8b5f02ad86ce9ac",
+        "date": "2026-11-28",
+        "time": "10:30",
+        "status": "10:30",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "塔林足球俱乐部",
+          "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
+        },
+        "away": {
+          "name": "图列维克",
+          "team_id": "ast_11c3edd678ff4830806d6a0a813e1a01"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_ad1dc36161c74d61afe2a3bd3509e641",
+        "date": "2026-11-22",
+        "time": "16:00",
+        "status": "16:00",
+        "league": "爱沙尼亚甲级联赛",
+        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
+        "season": "2026",
+        "home": {
+          "name": "图列维克",
+          "team_id": "ast_11c3edd678ff4830806d6a0a813e1a01"
+        },
+        "away": {
+          "name": "塔林足球俱乐部",
+          "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
+        },
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -8113,8 +8186,8 @@
     "distinct_title_holders": 10,
     "teams_all_time": 37,
     "standings_rows_current": 10,
-    "matches_current_season": 180,
-    "upcoming_matches": 0
+    "matches_current_season": 182,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/10"
+  "updated_at": "2026/11/22"
 }

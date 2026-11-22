@@ -371,7 +371,7 @@
         "match_id": "as_53d666859eff40d8a6592f4633ba3c4e",
         "date": "2026-11-21",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -383,7 +383,10 @@
           "name": "塔林卡列夫U21",
           "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "2-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_453fdb89d021408a95380436c2e0b0b8",
@@ -4184,24 +4187,6 @@
           "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_53d666859eff40d8a6592f4633ba3c4e",
-        "date": "2026-11-21",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "Viimsi JK U21",
-          "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
-        },
-        "away": {
-          "name": "塔林卡列夫U21",
-          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
-        },
-        "venue": ""
       }
     ]
   },
@@ -4584,13 +4569,13 @@
     }
   },
   "stats": {
-    "matches_completed": 180,
-    "total_goals": 779,
+    "matches_completed": 181,
+    "total_goals": 783,
     "avg_goals_per_match": 4.33,
     "home_wins": 100,
-    "draws": 20,
+    "draws": 21,
     "away_wins": 60,
-    "home_win_pct": 55.6,
+    "home_win_pct": 55.2,
     "biggest_win": {
       "margin": 12,
       "match": {
@@ -5350,7 +5335,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 10,
     "matches_current_season": 182,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }

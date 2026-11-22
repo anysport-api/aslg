@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_cc4a219a68b94190a89693055df4317d",
@@ -557,21 +557,22 @@
         "match_id": "as_577d533b0fdb4f9d8481661f528ca727",
         "date": "2026-11-22",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
         "home": {
-          "name": "堪萨斯城当前女足",
-          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
-        },
-        "away": {
           "name": "华盛顿精神女足",
           "team_id": "ast_f7e6993871a4493ba90c0e184564a687"
         },
-        "ht_score": "-",
-        "venue": "奥迪球场",
-        "status_label": "未开赛"
+        "away": {
+          "name": "堪萨斯城当前女足",
+          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
+        },
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_064c1687aa984a1398be983381cfbef2",
@@ -591,7 +592,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Icahn Stadium",
         "status_label": "完场"
       },
       {
@@ -5746,21 +5747,22 @@
         "match_id": "as_577d533b0fdb4f9d8481661f528ca727",
         "date": "2026-11-22",
         "time": "01:00",
-        "status": "Not Started",
+        "status": "FT",
         "league": "美国NWSL女足联赛",
         "league_id": "asl_cc4a219a68b94190a89693055df4317d",
         "season": "2026",
         "home": {
-          "name": "堪萨斯城当前女足",
-          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
-        },
-        "away": {
           "name": "华盛顿精神女足",
           "team_id": "ast_f7e6993871a4493ba90c0e184564a687"
         },
-        "ht_score": "-",
-        "venue": "奥迪球场",
-        "status_label": "未开赛"
+        "away": {
+          "name": "堪萨斯城当前女足",
+          "team_id": "ast_544e9bf2fd414ae6846bbf9991b2e859"
+        },
+        "ht_score": "0-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -6909,13 +6911,13 @@
     }
   },
   "stats": {
-    "matches_completed": 246,
-    "total_goals": 687,
+    "matches_completed": 247,
+    "total_goals": 690,
     "avg_goals_per_match": 2.79,
     "home_wins": 114,
     "draws": 42,
-    "away_wins": 90,
-    "home_win_pct": 46.3,
+    "away_wins": 91,
+    "home_win_pct": 46.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7733,5 +7735,5 @@
     "matches_current_season": 247,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/11/17"
+  "updated_at": "2026/11/22"
 }

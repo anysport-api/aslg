@@ -3615,7 +3615,7 @@
         "match_id": "as_18f137e398ba4feca9ceed3698a04a8e",
         "date": "2026-11-21",
         "time": "20:00",
-        "status": "20:00",
+        "status": "FT",
         "league": "阿根廷甲级联赛",
         "league_id": "asl_feda5bb98ffa451788eba5c86add450a",
         "season": "2026",
@@ -3627,13 +3627,16 @@
           "name": "独立队",
           "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9bbbc06760d14bf59ac365f4210e4345",
         "date": "2026-11-21",
         "time": "18:00",
-        "status": "18:00",
+        "status": "FT",
         "league": "阿根廷甲级联赛",
         "league_id": "asl_feda5bb98ffa451788eba5c86add450a",
         "season": "2026",
@@ -3645,7 +3648,10 @@
           "name": "巴拉卡斯中央",
           "team_id": "ast_f135f0a55782452191cf464f44dc37a8"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_fef92025dbe24f8382d319b1fd2cb532",
@@ -14156,42 +14162,6 @@
           "team_id": "ast_39358655fdb548a5a3652c76b85d07e6"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_9bbbc06760d14bf59ac365f4210e4345",
-        "date": "2026-11-21",
-        "time": "18:00",
-        "status": "18:00",
-        "league": "阿根廷甲级联赛",
-        "league_id": "asl_feda5bb98ffa451788eba5c86add450a",
-        "season": "2026",
-        "home": {
-          "name": "德芬萨与公正",
-          "team_id": "ast_21b54edad95b4bd99dbdf004b8e4ff9d"
-        },
-        "away": {
-          "name": "巴拉卡斯中央",
-          "team_id": "ast_f135f0a55782452191cf464f44dc37a8"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_18f137e398ba4feca9ceed3698a04a8e",
-        "date": "2026-11-21",
-        "time": "20:00",
-        "status": "20:00",
-        "league": "阿根廷甲级联赛",
-        "league_id": "asl_feda5bb98ffa451788eba5c86add450a",
-        "season": "2026",
-        "home": {
-          "name": "阿根廷青年队",
-          "team_id": "ast_7737fd90fbfe41f0a8ddb6a839fa4e1d"
-        },
-        "away": {
-          "name": "独立队",
-          "team_id": "ast_575b9943afbd4a4d9e3d6f2301b4871f"
-        },
-        "venue": ""
       }
     ]
   },
@@ -21808,13 +21778,13 @@
     }
   },
   "stats": {
-    "matches_completed": 496,
-    "total_goals": 1086,
+    "matches_completed": 498,
+    "total_goals": 1090,
     "avg_goals_per_match": 2.19,
     "home_wins": 211,
     "draws": 145,
-    "away_wins": 140,
-    "home_win_pct": 42.5,
+    "away_wins": 142,
+    "home_win_pct": 42.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -22637,7 +22607,7 @@
     "teams_all_time": 45,
     "standings_rows_current": 30,
     "matches_current_season": 503,
-    "upcoming_matches": 7
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }

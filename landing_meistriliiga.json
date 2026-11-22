@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_63319f32aa084688bf195f0230a542a0",
@@ -469,6 +469,44 @@
   "fixtures": {
     "season": "2026",
     "matches": [
+      {
+        "match_id": "as_9e5da36e07df4652be7d25e53f28bdb3",
+        "date": "2026-11-28",
+        "time": "10:30",
+        "status": "10:30",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "库雷萨雷",
+          "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
+        },
+        "away": {
+          "name": "维姆西洛维德",
+          "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_83ac5d06483948db89ef6612584447e1",
+        "date": "2026-11-22",
+        "time": "10:30",
+        "status": "30",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "维姆西洛维德",
+          "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
+        },
+        "away": {
+          "name": "库雷萨雷",
+          "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": ""
+      },
       {
         "match_id": "as_e0f6231a3d074231b735f6a377cfa260",
         "date": "2026-11-07",
@@ -4250,7 +4288,46 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "match_id": "as_9e5da36e07df4652be7d25e53f28bdb3",
+        "date": "2026-11-28",
+        "time": "10:30",
+        "status": "10:30",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "库雷萨雷",
+          "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
+        },
+        "away": {
+          "name": "维姆西洛维德",
+          "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_83ac5d06483948db89ef6612584447e1",
+        "date": "2026-11-22",
+        "time": "10:30",
+        "status": "30",
+        "league": "爱沙尼亚超级联赛",
+        "league_id": "asl_63319f32aa084688bf195f0230a542a0",
+        "season": "2026",
+        "home": {
+          "name": "维姆西洛维德",
+          "team_id": "ast_3952a9108dfc4ca9b5bb36dcb212b3f6"
+        },
+        "away": {
+          "name": "库雷萨雷",
+          "team_id": "ast_da7e777c45824ec4b67653d7a3016025"
+        },
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": ""
+      }
+    ]
   },
   "champions": [
     {
@@ -7858,16 +7935,19 @@
     },
     "ast_6746c2e467874fec9b0778673c31333e": {
       "en": "Dunamo"
+    },
+    "ast_3952a9108dfc4ca9b5bb36dcb212b3f6": {
+      "en": "维姆西洛维德"
     }
   },
   "stats": {
-    "matches_completed": 180,
+    "matches_completed": 181,
     "total_goals": 558,
-    "avg_goals_per_match": 3.1,
+    "avg_goals_per_match": 3.08,
     "home_wins": 86,
-    "draws": 24,
+    "draws": 25,
     "away_wins": 70,
-    "home_win_pct": 47.8,
+    "home_win_pct": 47.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -8664,8 +8744,8 @@
     "distinct_title_holders": 5,
     "teams_all_time": 26,
     "standings_rows_current": 10,
-    "matches_current_season": 180,
-    "upcoming_matches": 0
+    "matches_current_season": 182,
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/09"
+  "updated_at": "2026/11/22"
 }

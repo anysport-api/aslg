@@ -3149,7 +3149,7 @@
         "match_id": "as_b9fd174c5842469a938cfe93c17e0584",
         "date": "2026-11-21",
         "time": "14:00",
-        "status": "14:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3161,13 +3161,16 @@
           "name": "诺尔比",
           "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e6d601e4d078451597dcb578d76c1a0d",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "瑞典超级联赛",
         "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
         "season": "2026",
@@ -3179,7 +3182,10 @@
           "name": "厄勒布鲁",
           "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "2-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_905d1809a7bd4e7e87ad00d67da4cfd0",
@@ -8256,42 +8262,6 @@
         "away": {
           "name": "伦兹",
           "team_id": "ast_fb969a87be844cb9b140274a5b9da7bb"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_e6d601e4d078451597dcb578d76c1a0d",
-        "date": "2026-11-21",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "恩科平SK",
-          "team_id": "ast_852d2bf22d5c44f8bd4f9cd4e864051e"
-        },
-        "away": {
-          "name": "厄勒布鲁",
-          "team_id": "ast_5271b603422a4cfab2a1f62bcf8de438"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_b9fd174c5842469a938cfe93c17e0584",
-        "date": "2026-11-21",
-        "time": "14:00",
-        "status": "14:00",
-        "league": "瑞典超级联赛",
-        "league_id": "asl_386d6d6532dc48b48bf8deb8fc2c3c93",
-        "season": "2026",
-        "home": {
-          "name": "伦兹",
-          "team_id": "ast_fb969a87be844cb9b140274a5b9da7bb"
-        },
-        "away": {
-          "name": "诺尔比",
-          "team_id": "ast_0ef7d609ac2f4aa99283e0d0bb68a516"
         },
         "venue": ""
       }
@@ -13990,13 +13960,13 @@
     }
   },
   "stats": {
-    "matches_completed": 240,
-    "total_goals": 697,
-    "avg_goals_per_match": 2.9,
+    "matches_completed": 242,
+    "total_goals": 705,
+    "avg_goals_per_match": 2.91,
     "home_wins": 98,
-    "draws": 66,
-    "away_wins": 76,
-    "home_win_pct": 40.8,
+    "draws": 67,
+    "away_wins": 77,
+    "home_win_pct": 40.5,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -14822,7 +14792,7 @@
     "teams_all_time": 53,
     "standings_rows_current": 16,
     "matches_current_season": 244,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/21"
+  "updated_at": "2026/11/22"
 }
