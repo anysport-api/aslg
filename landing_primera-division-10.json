@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
@@ -202,15 +202,15 @@
         "position": 2,
         "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
         "team": "La Guaira",
-        "played": 5,
-        "wins": 1,
+        "played": 6,
+        "wins": 2,
         "draws": 3,
         "losses": 1,
-        "goals_for": 8,
-        "goals_against": 7,
-        "goal_difference": 1,
-        "points": 6,
-        "form": "DWDLD"
+        "goals_for": 13,
+        "goals_against": 8,
+        "goal_difference": 5,
+        "points": 9,
+        "form": "WDWDL"
       },
       {
         "position": 2,
@@ -228,20 +228,6 @@
       },
       {
         "position": 3,
-        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
-        "team": "Metropolitanos",
-        "played": 5,
-        "wins": 0,
-        "draws": 4,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 7,
-        "goal_difference": -2,
-        "points": 4,
-        "form": "DLDDD"
-      },
-      {
-        "position": 3,
         "team_id": "ast_459053da836741c89d2b6b65c731e190",
         "team": "Puerto Cabello",
         "played": 6,
@@ -255,7 +241,7 @@
         "form": "LWLLL"
       },
       {
-        "position": 4,
+        "position": 3,
         "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
         "team": "Portuguesa",
         "played": 6,
@@ -267,6 +253,20 @@
         "goal_difference": -5,
         "points": 4,
         "form": "DDLDD"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
+        "team": "Metropolitanos",
+        "played": 6,
+        "wins": 0,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 12,
+        "goal_difference": -6,
+        "points": 4,
+        "form": "LDLDD"
       },
       {
         "position": 4,
@@ -402,16 +402,16 @@
         "position": 2,
         "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
         "team": "拉瓜伊拉体育",
-        "played": 5,
-        "wins": 1,
+        "played": 6,
+        "wins": 2,
         "draws": 3,
         "losses": 1,
-        "goals_for": 8,
-        "goals_against": 7,
-        "goal_difference": 1,
-        "points": 6,
-        "form": "DWDLD",
-        "form_label": "平胜平负平"
+        "goals_for": 13,
+        "goals_against": 8,
+        "goal_difference": 5,
+        "points": 9,
+        "form": "WDWDL",
+        "form_label": "胜平胜平负"
       },
       {
         "position": 2,
@@ -430,21 +430,6 @@
       },
       {
         "position": 3,
-        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
-        "team": "大都会竞技",
-        "played": 5,
-        "wins": 0,
-        "draws": 4,
-        "losses": 1,
-        "goals_for": 5,
-        "goals_against": 7,
-        "goal_difference": -2,
-        "points": 4,
-        "form": "DLDDD",
-        "form_label": "平负平平平"
-      },
-      {
-        "position": 3,
         "team_id": "ast_459053da836741c89d2b6b65c731e190",
         "team": "普埃尔托·卡贝略",
         "played": 6,
@@ -459,7 +444,7 @@
         "form_label": "负胜负负负"
       },
       {
-        "position": 4,
+        "position": 3,
         "team_id": "ast_0f61d4622d354cdf984ef39b46c1a438",
         "team": "葡萄牙人",
         "played": 6,
@@ -472,6 +457,21 @@
         "points": 4,
         "form": "DDLDD",
         "form_label": "平平负平平"
+      },
+      {
+        "position": 4,
+        "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9",
+        "team": "大都会竞技",
+        "played": 6,
+        "wins": 0,
+        "draws": 4,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 12,
+        "goal_difference": -6,
+        "points": 4,
+        "form": "LDLDD",
+        "form_label": "负平负平平"
       },
       {
         "position": 4,
@@ -923,7 +923,7 @@
         "match_id": "as_ad60c1252c4e43d5a965b918d1d63061",
         "date": "2026-11-22",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
         "season": "2026",
@@ -935,7 +935,10 @@
           "name": "拉瓜伊拉体育",
           "team_id": "ast_cf3cb6a1321749f8ba053e4943372620"
         },
-        "venue": ""
+        "ht_score": "1-2",
+        "reg_score": "1-5",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6c03d66581344536bb3b6f5448ebf36f",
@@ -955,7 +958,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "新普韦布洛多功能体育场",
         "status_label": "完场"
       },
       {
@@ -976,7 +979,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "米萨埃尔·德尔加多多功能体育场",
         "status_label": "完场"
       },
       {
@@ -5770,20 +5773,19 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_ad60c1252c4e43d5a965b918d1d63061",
-        "date": "2026-11-22",
-        "time": "21:30",
-        "status": "21:30",
+        "match_id": "as_d37347b01dfb4047b9f4cda12de70424",
+        "date": "2026-11-29",
+        "time": "21:00",
+        "status": "21:00",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
-        "season": "2026",
         "home": {
-          "name": "大都会竞技",
-          "team_id": "ast_9c932961eb1e41e98bd60ee9a839bbb9"
+          "name": "塔奇拉体育",
+          "team_id": "ast_8475930ee8764d0e91a795c75a6b6b2f"
         },
         "away": {
-          "name": "拉瓜伊拉体育",
-          "team_id": "ast_cf3cb6a1321749f8ba053e4943372620"
+          "name": "卡拉博博",
+          "team_id": "ast_0e7297d7db7248379bbc957f3af0388b"
         },
         "venue": ""
       }
@@ -11383,13 +11385,13 @@
     }
   },
   "stats": {
-    "matches_completed": 230,
-    "total_goals": 591,
-    "avg_goals_per_match": 2.57,
+    "matches_completed": 231,
+    "total_goals": 597,
+    "avg_goals_per_match": 2.58,
     "home_wins": 91,
     "draws": 67,
-    "away_wins": 72,
-    "home_win_pct": 39.6,
+    "away_wins": 73,
+    "home_win_pct": 39.4,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -11549,15 +11551,15 @@
             "position": 2,
             "team_id": "ast_cf3cb6a1321749f8ba053e4943372620",
             "team": "La Guaira",
-            "played": 5,
-            "wins": 1,
+            "played": 6,
+            "wins": 2,
             "draws": 3,
             "losses": 1,
-            "goals_for": 8,
-            "goals_against": 7,
-            "goal_difference": 1,
-            "points": 6,
-            "form": "DWDLD"
+            "goals_for": 13,
+            "goals_against": 8,
+            "goal_difference": 5,
+            "points": 9,
+            "form": "WDWDL"
           }
         ],
         "meta": {
@@ -12205,5 +12207,5 @@
     "matches_current_season": 231,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

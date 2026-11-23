@@ -204,15 +204,15 @@
         "position": 1,
         "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
         "team": "Struga",
-        "played": 13,
-        "wins": 9,
+        "played": 14,
+        "wins": 10,
         "draws": 2,
         "losses": 2,
-        "goals_for": 28,
-        "goals_against": 7,
-        "goal_difference": 21,
-        "points": 29,
-        "form": "WWWWL"
+        "goals_for": 30,
+        "goals_against": 8,
+        "goal_difference": 22,
+        "points": 32,
+        "form": "WWWWW"
       },
       {
         "position": 2,
@@ -288,15 +288,15 @@
         "position": 7,
         "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2",
         "team": "Bregalnica Stip",
-        "played": 13,
+        "played": 14,
         "wins": 4,
         "draws": 2,
-        "losses": 7,
-        "goals_for": 17,
-        "goals_against": 23,
-        "goal_difference": -6,
+        "losses": 8,
+        "goals_for": 18,
+        "goals_against": 25,
+        "goal_difference": -7,
         "points": 14,
-        "form": "DLWLL"
+        "form": "LDLWL"
       },
       {
         "position": 8,
@@ -346,16 +346,16 @@
         "position": 1,
         "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
         "team": "斯特鲁加",
-        "played": 13,
-        "wins": 9,
+        "played": 14,
+        "wins": 10,
         "draws": 2,
         "losses": 2,
-        "goals_for": 28,
-        "goals_against": 7,
-        "goal_difference": 21,
-        "points": 29,
-        "form": "WWWWL",
-        "form_label": "胜胜胜胜负"
+        "goals_for": 30,
+        "goals_against": 8,
+        "goal_difference": 22,
+        "points": 32,
+        "form": "WWWWW",
+        "form_label": "胜胜胜胜胜"
       },
       {
         "position": 2,
@@ -436,16 +436,16 @@
         "position": 7,
         "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2",
         "team": "斯蒂普布雷加尔尼察",
-        "played": 13,
+        "played": 14,
         "wins": 4,
         "draws": 2,
-        "losses": 7,
-        "goals_for": 17,
-        "goals_against": 23,
-        "goal_difference": -6,
+        "losses": 8,
+        "goals_for": 18,
+        "goals_against": 25,
+        "goal_difference": -7,
         "points": 14,
-        "form": "DLWLL",
-        "form_label": "平负胜负负"
+        "form": "LDLWL",
+        "form_label": "负平负胜负"
       },
       {
         "position": 8,
@@ -923,7 +923,7 @@
         "match_id": "as_a981376caaa14ae8aa987898a51358bf",
         "date": "2026-11-22",
         "time": "11:00",
-        "status": "11:00",
+        "status": "FT",
         "league": "北马其顿甲级联赛",
         "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
         "season": "2026/2027",
@@ -935,7 +935,10 @@
           "name": "斯特鲁加",
           "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_78b044d6690346f69ad7866cd9d0840a",
@@ -2772,24 +2775,6 @@
         "away": {
           "name": "西莱克斯",
           "team_id": "ast_2ccb80939ca744f899eab89afe738e64"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_a981376caaa14ae8aa987898a51358bf",
-        "date": "2026-11-22",
-        "time": "11:00",
-        "status": "11:00",
-        "league": "北马其顿甲级联赛",
-        "league_id": "asl_acaed9447d6243ef8e01f892857edab2",
-        "season": "2026/2027",
-        "home": {
-          "name": "斯蒂普布雷加尔尼察",
-          "team_id": "ast_6c7858bb520742bc8d1d3b66c179b0c2"
-        },
-        "away": {
-          "name": "斯特鲁加",
-          "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a"
         },
         "venue": ""
       }
@@ -6870,13 +6855,13 @@
     }
   },
   "stats": {
-    "matches_completed": 68,
-    "total_goals": 181,
-    "avg_goals_per_match": 2.66,
+    "matches_completed": 69,
+    "total_goals": 184,
+    "avg_goals_per_match": 2.67,
     "home_wins": 30,
     "draws": 17,
-    "away_wins": 21,
-    "home_win_pct": 44.1,
+    "away_wins": 22,
+    "home_win_pct": 43.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -6903,8 +6888,8 @@
     },
     "leader": {
       "team": "Struga",
-      "points": 29,
-      "played": 13
+      "points": 32,
+      "played": 14
     }
   },
   "coverage": {
@@ -7001,15 +6986,15 @@
             "position": 1,
             "team_id": "ast_965619c16f2b4b74afad18c4ed693e7a",
             "team": "Struga",
-            "played": 13,
-            "wins": 9,
+            "played": 14,
+            "wins": 10,
             "draws": 2,
             "losses": 2,
-            "goals_for": 28,
-            "goals_against": 7,
-            "goal_difference": 21,
-            "points": 29,
-            "form": "WWWWL"
+            "goals_for": 30,
+            "goals_against": 8,
+            "goal_difference": 22,
+            "points": 32,
+            "form": "WWWWW"
           },
           {
             "position": 2,
@@ -7674,7 +7659,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 22
+    "upcoming_matches": 21
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

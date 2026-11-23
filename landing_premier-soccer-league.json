@@ -178,6 +178,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
+        "team": "CAPS Utd",
+        "played": 34,
+        "wins": 15,
+        "draws": 12,
+        "losses": 7,
+        "goals_for": 38,
+        "goals_against": 26,
+        "goal_difference": 12,
+        "points": 57,
+        "form": "WWLWD"
+      },
+      {
+        "position": 5,
         "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
         "team": "Dynamos",
         "played": 34,
@@ -189,20 +203,6 @@
         "goal_difference": 18,
         "points": 56,
         "form": "DWDLD"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
-        "team": "CAPS Utd",
-        "played": 33,
-        "wins": 14,
-        "draws": 12,
-        "losses": 7,
-        "goals_for": 37,
-        "goals_against": 26,
-        "goal_difference": 11,
-        "points": 54,
-        "form": "WLWDW"
       },
       {
         "position": 6,
@@ -222,15 +222,15 @@
         "position": 7,
         "team_id": "ast_4adefed352524b81a876669551341046",
         "team": "Chicken Inn",
-        "played": 33,
+        "played": 34,
         "wins": 12,
         "draws": 11,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 26,
-        "goals_against": 25,
-        "goal_difference": 1,
+        "goals_against": 26,
+        "goal_difference": 0,
         "points": 47,
-        "form": "WDDDW"
+        "form": "LWDDD"
       },
       {
         "position": 8,
@@ -304,6 +304,7 @@
       },
       {
         "position": 13,
+        "team_id": "ast_396032a2439d443eaa1d5d288fe1fe67",
         "team": "Hunters",
         "played": 34,
         "wins": 8,
@@ -434,6 +435,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
+        "team": "CAPS联队",
+        "played": 34,
+        "wins": 15,
+        "draws": 12,
+        "losses": 7,
+        "goals_for": 38,
+        "goals_against": 26,
+        "goal_difference": 12,
+        "points": 57,
+        "form": "WWLWD",
+        "form_label": "胜胜负胜平"
+      },
+      {
+        "position": 5,
         "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873",
         "team": "迪纳摩斯",
         "played": 34,
@@ -446,21 +462,6 @@
         "points": 56,
         "form": "DWDLD",
         "form_label": "平胜平负平"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43",
-        "team": "CAPS联队",
-        "played": 33,
-        "wins": 14,
-        "draws": 12,
-        "losses": 7,
-        "goals_for": 37,
-        "goals_against": 26,
-        "goal_difference": 11,
-        "points": 54,
-        "form": "WLWDW",
-        "form_label": "胜负胜平胜"
       },
       {
         "position": 6,
@@ -481,16 +482,16 @@
         "position": 7,
         "team_id": "ast_4adefed352524b81a876669551341046",
         "team": "鸡肉店",
-        "played": 33,
+        "played": 34,
         "wins": 12,
         "draws": 11,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 26,
-        "goals_against": 25,
-        "goal_difference": 1,
+        "goals_against": 26,
+        "goal_difference": 0,
         "points": 47,
-        "form": "WDDDW",
-        "form_label": "胜平平平胜"
+        "form": "LWDDD",
+        "form_label": "负胜平平平"
       },
       {
         "position": 8,
@@ -569,7 +570,8 @@
       },
       {
         "position": 13,
-        "team": "阿帕雷西达",
+        "team_id": "ast_396032a2439d443eaa1d5d288fe1fe67",
+        "team": "猎人队",
         "played": 34,
         "wins": 8,
         "draws": 15,
@@ -715,7 +717,7 @@
         "match_id": "as_6c5b326abd724d3d989bb3bccd759df8",
         "date": "2026-11-22",
         "time": "13:00",
-        "status": "13:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -727,13 +729,16 @@
           "name": "鸡肉店",
           "team_id": "ast_4adefed352524b81a876669551341046"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_32530a7cfaca4267951a0d4dba00637d",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -745,16 +750,15 @@
           "name": "铂金",
           "team_id": "ast_0d4f284934d94e1f983eee062c6e8ebd"
         },
-        "ht_score": "1-0",
-        "reg_score": "1-0",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_be1ca7729e0f4c3882c7533a95798e7e",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -766,16 +770,15 @@
           "name": "迪纳摩斯",
           "team_id": "ast_80f411ca4d534d5a84c274cc33f7b873"
         },
-        "ht_score": "1-1",
-        "reg_score": "1-1",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_5347b516f38947e9ad3b18441c0f9d3e",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "Postp.",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -787,14 +790,15 @@
           "name": "MWOS",
           "team_id": "ast_9e08c22fc15c4100af5d454b9ad8a77d"
         },
+        "ht_score": "-",
         "venue": "",
-        "status_label": "延期"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_27fc31956e3c426d80b7252e17ca79a4",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -806,16 +810,15 @@
           "name": "辛巴·博拉",
           "team_id": "ast_a2c1061af5c54957a6e8fa6a20343452"
         },
-        "ht_score": "1-0",
-        "reg_score": "1-1",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_61b70653362a4b6a8bac7f7e035eeac7",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -827,16 +830,15 @@
           "name": "布拉瓦约首领",
           "team_id": "ast_516c7275729042cf9b38bdadfd9456fc"
         },
-        "ht_score": "0-1",
-        "reg_score": "0-1",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_92c1232c0db3461e976b3ee134cfac7f",
         "date": "2026-11-21",
         "time": "12:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -848,10 +850,9 @@
           "name": "苏格兰",
           "team_id": "ast_e2f24d35808f4f2e870f1387dec67793"
         },
-        "ht_score": "0-1",
-        "reg_score": "1-2",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_af2d508b0ab54676b4eca26a7fcf604a",
@@ -7127,24 +7128,6 @@
           "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_6c5b326abd724d3d989bb3bccd759df8",
-        "date": "2026-11-22",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "CAPS联队",
-          "team_id": "ast_c63c9ea719cb4136a11ee64dc5bb1c43"
-        },
-        "away": {
-          "name": "鸡肉店",
-          "team_id": "ast_4adefed352524b81a876669551341046"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9478,13 +9461,13 @@
     }
   },
   "stats": {
-    "matches_completed": 302,
-    "total_goals": 575,
+    "matches_completed": 298,
+    "total_goals": 567,
     "avg_goals_per_match": 1.9,
     "home_wins": 108,
-    "draws": 108,
-    "away_wins": 86,
-    "home_win_pct": 35.8,
+    "draws": 106,
+    "away_wins": 84,
+    "home_win_pct": 36.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10207,7 +10190,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 3
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

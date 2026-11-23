@@ -3253,7 +3253,7 @@
         "match_id": "as_3069a8c513f74c3a873f456e59e9ba75",
         "date": "2026-11-22",
         "time": "21:30",
-        "status": "21:30",
+        "status": "FT",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -3265,13 +3265,16 @@
           "name": "维拉·诺瓦",
           "team_id": "ast_9fbdd69cc4464294bf40c62e1a8ae3cf"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_bb430fbd8db04b22b74ba99e36fde941",
         "date": "2026-11-22",
         "time": "19:00",
-        "status": "19:00",
+        "status": "FT",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -3283,7 +3286,10 @@
           "name": "福塔雷萨",
           "team_id": "ast_237aa65f4e3a4034a1b798938f91b735"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_66df72741d4e439585ae394d70893e9a",
@@ -11302,42 +11308,6 @@
           "team_id": "ast_c65e94732e264ce29a255721f7943550"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_bb430fbd8db04b22b74ba99e36fde941",
-        "date": "2026-11-22",
-        "time": "19:00",
-        "status": "19:00",
-        "league": "巴西乙级联赛",
-        "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
-        "season": "2026",
-        "home": {
-          "name": "克里西乌马",
-          "team_id": "ast_7e8eeb7e823749dd8109dc41f2f0730f"
-        },
-        "away": {
-          "name": "福塔雷萨",
-          "team_id": "ast_237aa65f4e3a4034a1b798938f91b735"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3069a8c513f74c3a873f456e59e9ba75",
-        "date": "2026-11-22",
-        "time": "21:30",
-        "status": "21:30",
-        "league": "巴西乙级联赛",
-        "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
-        "season": "2026",
-        "home": {
-          "name": "GO竞技",
-          "team_id": "ast_c65e94732e264ce29a255721f7943550"
-        },
-        "away": {
-          "name": "维拉·诺瓦",
-          "team_id": "ast_9fbdd69cc4464294bf40c62e1a8ae3cf"
-        },
-        "venue": ""
       }
     ]
   },
@@ -18408,11 +18378,11 @@
     }
   },
   "stats": {
-    "matches_completed": 380,
-    "total_goals": 892,
-    "avg_goals_per_match": 2.35,
-    "home_wins": 172,
-    "draws": 99,
+    "matches_completed": 382,
+    "total_goals": 895,
+    "avg_goals_per_match": 2.34,
+    "home_wins": 173,
+    "draws": 100,
     "away_wins": 109,
     "home_win_pct": 45.3,
     "biggest_win": {
@@ -19238,7 +19208,7 @@
     "teams_all_time": 82,
     "standings_rows_current": 20,
     "matches_current_season": 384,
-    "upcoming_matches": 4
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

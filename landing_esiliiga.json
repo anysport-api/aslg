@@ -491,7 +491,7 @@
         "match_id": "as_ad1dc36161c74d61afe2a3bd3509e641",
         "date": "2026-11-22",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "爱沙尼亚甲级联赛",
         "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
         "season": "2026",
@@ -503,7 +503,10 @@
           "name": "塔林足球俱乐部",
           "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_390f2fbc66a5445bb6b96ace5946876f",
@@ -4296,24 +4299,6 @@
           "team_id": "ast_11c3edd678ff4830806d6a0a813e1a01"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_ad1dc36161c74d61afe2a3bd3509e641",
-        "date": "2026-11-22",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "爱沙尼亚甲级联赛",
-        "league_id": "asl_4f49d9b59e7d45e8b19f811e6c9776f2",
-        "season": "2026",
-        "home": {
-          "name": "图列维克",
-          "team_id": "ast_11c3edd678ff4830806d6a0a813e1a01"
-        },
-        "away": {
-          "name": "塔林足球俱乐部",
-          "team_id": "ast_a8bbaab0aa4c48b18fdb54b4e3dda7b8"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7383,13 +7368,13 @@
     }
   },
   "stats": {
-    "matches_completed": 172,
-    "total_goals": 622,
-    "avg_goals_per_match": 3.62,
-    "home_wins": 78,
+    "matches_completed": 173,
+    "total_goals": 625,
+    "avg_goals_per_match": 3.61,
+    "home_wins": 79,
     "draws": 31,
     "away_wins": 63,
-    "home_win_pct": 45.3,
+    "home_win_pct": 45.7,
     "biggest_win": {
       "margin": 10,
       "match": {
@@ -8187,7 +8172,7 @@
     "teams_all_time": 37,
     "standings_rows_current": 10,
     "matches_current_season": 182,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

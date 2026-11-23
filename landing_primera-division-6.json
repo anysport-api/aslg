@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
@@ -320,29 +320,29 @@
         "position": 11,
         "team_id": "ast_a22f732498a3448d8fa302992408de2c",
         "team": "Fuerte San Francisco",
-        "played": 21,
+        "played": 22,
         "wins": 3,
-        "draws": 8,
+        "draws": 9,
         "losses": 10,
         "goals_for": 21,
         "goals_against": 36,
         "goal_difference": -15,
-        "points": 17,
-        "form": "WDDLL"
+        "points": 18,
+        "form": "DWDDL"
       },
       {
         "position": 12,
         "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
         "team": "Inca Aruba",
-        "played": 21,
+        "played": 22,
         "wins": 4,
-        "draws": 5,
+        "draws": 6,
         "losses": 12,
         "goals_for": 15,
         "goals_against": 38,
         "goal_difference": -23,
-        "points": 17,
-        "form": "LLDLL"
+        "points": 18,
+        "form": "DLLDL"
       }
     ],
     "zh": [
@@ -500,31 +500,31 @@
         "position": 11,
         "team_id": "ast_a22f732498a3448d8fa302992408de2c",
         "team": "富尔特圣弗朗西斯科",
-        "played": 21,
+        "played": 22,
         "wins": 3,
-        "draws": 8,
+        "draws": 9,
         "losses": 10,
         "goals_for": 21,
         "goals_against": 36,
         "goal_difference": -15,
-        "points": 17,
-        "form": "WDDLL",
-        "form_label": "胜平平负负"
+        "points": 18,
+        "form": "DWDDL",
+        "form_label": "平胜平平负"
       },
       {
         "position": 12,
         "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc",
         "team": "Inca Aruba",
-        "played": 21,
+        "played": 22,
         "wins": 4,
-        "draws": 5,
+        "draws": 6,
         "losses": 12,
         "goals_for": 15,
         "goals_against": 38,
         "goal_difference": -23,
-        "points": 17,
-        "form": "LLDLL",
-        "form_label": "负负平负负"
+        "points": 18,
+        "form": "DLLDL",
+        "form_label": "平负负平负"
       }
     ]
   },
@@ -549,7 +549,7 @@
         "match_id": "as_6c65b1a8a85041678e3961c6469c5f1a",
         "date": "2026-11-22",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "萨尔瓦多甲级联赛",
         "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
         "season": "2026/2027",
@@ -561,7 +561,10 @@
           "name": "Inca Aruba",
           "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_765b7b4f1ffd4bb7ba8d4e40bd05e184",
@@ -3315,26 +3318,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_6c65b1a8a85041678e3961c6469c5f1a",
-        "date": "2026-11-22",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "萨尔瓦多甲级联赛",
-        "league_id": "asl_692eab646c2d42639680c51f5ae0571b",
-        "season": "2026/2027",
-        "home": {
-          "name": "富尔特圣弗朗西斯科",
-          "team_id": "ast_a22f732498a3448d8fa302992408de2c"
-        },
-        "away": {
-          "name": "Inca Aruba",
-          "team_id": "ast_d136cd2c5ecb4d038abbe88e5c5019dc"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -7148,13 +7132,13 @@
     }
   },
   "stats": {
-    "matches_completed": 131,
+    "matches_completed": 132,
     "total_goals": 351,
-    "avg_goals_per_match": 2.68,
+    "avg_goals_per_match": 2.66,
     "home_wins": 52,
-    "draws": 45,
+    "draws": 46,
     "away_wins": 34,
-    "home_win_pct": 39.7,
+    "home_win_pct": 39.4,
     "biggest_win": {
       "margin": 4,
       "match": {
@@ -7943,7 +7927,7 @@
     "teams_all_time": 31,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

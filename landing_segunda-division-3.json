@@ -664,7 +664,7 @@
         "match_id": "as_aa07dcf97b6a4cd4ad03ed3c894d9ca2",
         "date": "2026-11-22",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
         "season": "2026",
@@ -676,13 +676,16 @@
           "name": "阿拉瓜",
           "team_id": "ast_c13e26229ffb4cfb92a89a27298bcce0"
         },
-        "venue": ""
+        "ht_score": "3-1",
+        "reg_score": "4-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_de758a7d16484fdfa19758edc5f5beb7",
         "date": "2026-11-21",
         "time": "22:00",
-        "status": "FT",
+        "status": "Not Started",
         "league": "委内瑞拉乙级联赛",
         "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
         "season": "2026",
@@ -694,10 +697,9 @@
           "name": "乌雷纳",
           "team_id": "ast_ffc7519c7ed9489fb21409267cc8f072"
         },
-        "ht_score": "1-0",
-        "reg_score": "3-1",
+        "ht_score": "-",
         "venue": "",
-        "status_label": "完场"
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_3c8373ba39ea44c6befa6b0829bd7146",
@@ -6311,26 +6313,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_aa07dcf97b6a4cd4ad03ed3c894d9ca2",
-        "date": "2026-11-22",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "委内瑞拉乙级联赛",
-        "league_id": "asl_e5e650d02d534c0fb607bc168472ea99",
-        "season": "2026",
-        "home": {
-          "name": "拉拉",
-          "team_id": "ast_09c51ff0526844f783fa96304f32628d"
-        },
-        "away": {
-          "name": "阿拉瓜",
-          "team_id": "ast_c13e26229ffb4cfb92a89a27298bcce0"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -9783,7 +9766,7 @@
   },
   "stats": {
     "matches_completed": 268,
-    "total_goals": 721,
+    "total_goals": 722,
     "avg_goals_per_match": 2.69,
     "home_wins": 121,
     "draws": 66,
@@ -10386,7 +10369,7 @@
     "teams_all_time": 59,
     "standings_rows_current": 17,
     "matches_current_season": 269,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

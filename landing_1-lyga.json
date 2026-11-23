@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_03b36627a26c4f568479d59fde54d517",
@@ -641,7 +641,7 @@
         "match_id": "as_0868464b0f9a4f1f97484af4f5ab670e",
         "date": "2026-11-22",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "立陶宛甲级联赛",
         "league_id": "asl_03b36627a26c4f568479d59fde54d517",
         "season": "2026",
@@ -653,7 +653,10 @@
           "name": "斯维卡塔",
           "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "5-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_98e1a8ea03bb4ddd9923081efcfeec3b",
@@ -5740,26 +5743,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_0868464b0f9a4f1f97484af4f5ab670e",
-        "date": "2026-11-22",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "立陶宛甲级联赛",
-        "league_id": "asl_03b36627a26c4f568479d59fde54d517",
-        "season": "2026",
-        "home": {
-          "name": "黑格尔曼立陶宛二队",
-          "team_id": "ast_ea210ca6763c487a936d1bbddb449c9a"
-        },
-        "away": {
-          "name": "斯维卡塔",
-          "team_id": "ast_ecd9b23ddd6441e4a3ae265373c118f9"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -9660,13 +9644,13 @@
     }
   },
   "stats": {
-    "matches_completed": 242,
-    "total_goals": 711,
-    "avg_goals_per_match": 2.94,
-    "home_wins": 117,
+    "matches_completed": 243,
+    "total_goals": 718,
+    "avg_goals_per_match": 2.95,
+    "home_wins": 118,
     "draws": 42,
     "away_wins": 83,
-    "home_win_pct": 48.3,
+    "home_win_pct": 48.6,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -10427,7 +10411,7 @@
     "teams_all_time": 60,
     "standings_rows_current": 16,
     "matches_current_season": 243,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }

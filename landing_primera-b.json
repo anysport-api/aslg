@@ -638,7 +638,7 @@
         "match_id": "as_44067b1f67824bcdb33c867ccccde0ea",
         "date": "2026-11-22",
         "time": "15:00",
-        "status": "15:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -650,7 +650,10 @@
           "name": "马加利亚尼斯",
           "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6148f3ad57ea4d6e9e7c45d6d074ceae",
@@ -669,10 +672,10 @@
           "team_id": "ast_def3eed8eb6b4522934c849bef7b482b"
         },
         "ht_score": "0-0",
-        "reg_score": "0-0",
+        "reg_score": "1-0",
         "et_score": "0-0",
         "penalty_score": "5-4",
-        "venue": "",
+        "venue": "圣劳拉-SEK大学体育场",
         "status_label": "点球决胜"
       },
       {
@@ -5791,45 +5794,6 @@
           "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_44067b1f67824bcdb33c867ccccde0ea",
-        "date": "2026-11-22",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "圣马尔科斯德阿里卡",
-          "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
-        },
-        "away": {
-          "name": "马加利亚尼斯",
-          "team_id": "ast_1bd181cc0a9c4673a4a45d0bceb74a3d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_2abf44556dd3485aa02498c029415355",
-        "date": "2026-11-22",
-        "time": "00:00",
-        "status": "FT",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "科皮亚波",
-          "team_id": "ast_fc71ad129ad74b5a8f86f35f48f062c2"
-        },
-        "away": {
-          "name": "安托法加斯塔",
-          "team_id": "ast_86faf5a093c04da5a07943234315037a"
-        },
-        "ht_score": "1-0",
-        "reg_score": "1-1",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -7940,13 +7904,13 @@
     }
   },
   "stats": {
-    "matches_completed": 243,
-    "total_goals": 642,
+    "matches_completed": 244,
+    "total_goals": 645,
     "avg_goals_per_match": 2.64,
-    "home_wins": 105,
-    "draws": 73,
+    "home_wins": 107,
+    "draws": 72,
     "away_wins": 65,
-    "home_win_pct": 43.2,
+    "home_win_pct": 43.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8744,7 +8708,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 5
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/11/22"
+  "updated_at": "2026/11/23"
 }
