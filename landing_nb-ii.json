@@ -256,6 +256,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640",
+        "team": "DVTK",
+        "played": 14,
+        "wins": 6,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 23,
+        "goals_against": 24,
+        "goal_difference": -1,
+        "points": 21,
+        "form": "WWLWD"
+      },
+      {
+        "position": 8,
         "team_id": "ast_88d42d0b286d42babb19b072d09c934b",
         "team": "Ajka",
         "played": 14,
@@ -269,7 +283,7 @@
         "form": "LLDWL"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_6856a36f26264fce95762c1a9a8e819b",
         "team": "Videoton",
         "played": 14,
@@ -281,20 +295,6 @@
         "goal_difference": 2,
         "points": 18,
         "form": "WLWLL"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640",
-        "team": "DVTK",
-        "played": 13,
-        "wins": 5,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 21,
-        "goals_against": 23,
-        "goal_difference": -2,
-        "points": 18,
-        "form": "WLWDD"
       },
       {
         "position": 10,
@@ -370,13 +370,13 @@
         "position": 15,
         "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc",
         "team": "Karcagi",
-        "played": 13,
+        "played": 14,
         "wins": 2,
         "draws": 5,
-        "losses": 6,
-        "goals_for": 18,
-        "goals_against": 28,
-        "goal_difference": -10,
+        "losses": 7,
+        "goals_for": 19,
+        "goals_against": 30,
+        "goal_difference": -11,
         "points": 11,
         "form": "LLLLL"
       },
@@ -488,6 +488,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640",
+        "team": "DVTK",
+        "played": 14,
+        "wins": 6,
+        "draws": 3,
+        "losses": 5,
+        "goals_for": 23,
+        "goals_against": 24,
+        "goal_difference": -1,
+        "points": 21,
+        "form": "WWLWD",
+        "form_label": "胜胜负胜平"
+      },
+      {
+        "position": 8,
         "team_id": "ast_88d42d0b286d42babb19b072d09c934b",
         "team": "阿伊卡",
         "played": 14,
@@ -502,7 +517,7 @@
         "form_label": "负负平胜负"
       },
       {
-        "position": 8,
+        "position": 9,
         "team_id": "ast_6856a36f26264fce95762c1a9a8e819b",
         "team": "维德顿",
         "played": 14,
@@ -515,21 +530,6 @@
         "points": 18,
         "form": "WLWLL",
         "form_label": "胜负胜负负"
-      },
-      {
-        "position": 9,
-        "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640",
-        "team": "DVTK",
-        "played": 13,
-        "wins": 5,
-        "draws": 3,
-        "losses": 5,
-        "goals_for": 21,
-        "goals_against": 23,
-        "goal_difference": -2,
-        "points": 18,
-        "form": "WLWDD",
-        "form_label": "胜负胜平平"
       },
       {
         "position": 10,
@@ -610,13 +610,13 @@
         "position": 15,
         "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc",
         "team": "卡尔卡吉",
-        "played": 13,
+        "played": 14,
         "wins": 2,
         "draws": 5,
-        "losses": 6,
-        "goals_for": 18,
-        "goals_against": 28,
-        "goal_difference": -10,
+        "losses": 7,
+        "goals_for": 19,
+        "goals_against": 30,
+        "goal_difference": -11,
         "points": 11,
         "form": "LLLLL",
         "form_label": "负负负负负"
@@ -3203,7 +3203,7 @@
         "match_id": "as_fa98c005fc554f9789b8492f9635ef2f",
         "date": "2026-11-23",
         "time": "18:30",
-        "status": "18:30",
+        "status": "FT",
         "league": "匈牙利Nb II联赛",
         "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
         "season": "2026/2027",
@@ -3215,7 +3215,10 @@
           "name": "卡尔卡吉",
           "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_811cef3eb90c418da6dca838fa42250c",
@@ -5693,24 +5696,6 @@
           "team_id": "ast_6856a36f26264fce95762c1a9a8e819b"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_fa98c005fc554f9789b8492f9635ef2f",
-        "date": "2026-11-23",
-        "time": "18:30",
-        "status": "18:30",
-        "league": "匈牙利Nb II联赛",
-        "league_id": "asl_0a292821c36644dba06f0cd21b6c7498",
-        "season": "2026/2027",
-        "home": {
-          "name": "DVTK",
-          "team_id": "ast_4a0f3f33d77d449ca3b946bd6921a640"
-        },
-        "away": {
-          "name": "卡尔卡吉",
-          "team_id": "ast_1f2ad889a5f143e4851c2cd4d74a81bc"
-        },
-        "venue": ""
       }
     ]
   },
@@ -8114,13 +8099,13 @@
     }
   },
   "stats": {
-    "matches_completed": 111,
-    "total_goals": 318,
-    "avg_goals_per_match": 2.86,
-    "home_wins": 52,
+    "matches_completed": 112,
+    "total_goals": 321,
+    "avg_goals_per_match": 2.87,
+    "home_wins": 53,
     "draws": 24,
     "away_wins": 35,
-    "home_win_pct": 46.8,
+    "home_win_pct": 47.3,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -8915,7 +8900,7 @@
     "teams_all_time": 38,
     "standings_rows_current": 16,
     "matches_current_season": 240,
-    "upcoming_matches": 9
+    "upcoming_matches": 8
   },
-  "updated_at": "2026/11/23"
+  "updated_at": "2026/11/24"
 }

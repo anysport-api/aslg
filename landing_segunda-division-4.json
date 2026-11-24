@@ -224,6 +224,20 @@
       },
       {
         "position": 12,
+        "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
+        "team": "Atletico Colina",
+        "played": 11,
+        "wins": 4,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 12,
+        "goals_against": 12,
+        "goal_difference": 0,
+        "points": 14,
+        "form": "WWLDL"
+      },
+      {
+        "position": 13,
         "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
         "team": "S. Morning",
         "played": 12,
@@ -237,32 +251,18 @@
         "form": "DWLLD"
       },
       {
-        "position": 13,
-        "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
-        "team": "Atletico Colina",
-        "played": 10,
-        "wins": 3,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 10,
-        "goals_against": 12,
-        "goal_difference": -2,
-        "points": 11,
-        "form": "WLDLW"
-      },
-      {
         "position": 14,
         "team_id": "ast_09bf08e1d36c49bf95bd903d049deb67",
         "team": "Real San Joaquin",
-        "played": 10,
+        "played": 11,
         "wins": 1,
         "draws": 5,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 12,
-        "goals_against": 21,
-        "goal_difference": -9,
+        "goals_against": 23,
+        "goal_difference": -11,
         "points": 8,
-        "form": "LDDWL"
+        "form": "LLDDW"
       }
     ],
     "zh": [
@@ -433,6 +433,21 @@
       },
       {
         "position": 12,
+        "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
+        "team": "科利纳竞技",
+        "played": 11,
+        "wins": 4,
+        "draws": 2,
+        "losses": 5,
+        "goals_for": 12,
+        "goals_against": 12,
+        "goal_difference": 0,
+        "points": 14,
+        "form": "WWLDL",
+        "form_label": "胜胜负平负"
+      },
+      {
+        "position": 13,
         "team_id": "ast_e44dde3eb655431ab39adff6279ca4bd",
         "team": "早晨队",
         "played": 12,
@@ -447,34 +462,19 @@
         "form_label": "平胜负负平"
       },
       {
-        "position": 13,
-        "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b",
-        "team": "科利纳竞技",
-        "played": 10,
-        "wins": 3,
-        "draws": 2,
-        "losses": 5,
-        "goals_for": 10,
-        "goals_against": 12,
-        "goal_difference": -2,
-        "points": 11,
-        "form": "WLDLW",
-        "form_label": "胜负平负胜"
-      },
-      {
         "position": 14,
         "team_id": "ast_09bf08e1d36c49bf95bd903d049deb67",
         "team": "皇家圣华金",
-        "played": 10,
+        "played": 11,
         "wins": 1,
         "draws": 5,
-        "losses": 4,
+        "losses": 5,
         "goals_for": 12,
-        "goals_against": 21,
-        "goal_difference": -9,
+        "goals_against": 23,
+        "goal_difference": -11,
         "points": 8,
-        "form": "LDDWL",
-        "form_label": "负平平胜负"
+        "form": "LLDDW",
+        "form_label": "负负平平胜"
       }
     ]
   },
@@ -607,7 +607,7 @@
         "match_id": "as_f4f6a2a6cd8c4d00983e857ac9818a16",
         "date": "2026-11-23",
         "time": "21:00",
-        "status": "21:00",
+        "status": "FT",
         "league": "智利乙级联赛",
         "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
         "season": "2026",
@@ -619,7 +619,10 @@
           "name": "科利纳竞技",
           "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_c9ba80b5ccaa44129ee0f7f277a791fa",
@@ -639,7 +642,7 @@
         },
         "ht_score": "0-2",
         "reg_score": "0-4",
-        "venue": "",
+        "venue": "Estadio Municipal de Lo Barnechea",
         "status_label": "完场"
       },
       {
@@ -660,7 +663,7 @@
         },
         "ht_score": "0-3",
         "reg_score": "2-3",
-        "venue": "",
+        "venue": "萨拉曼卡市立体育场",
         "status_label": "完场"
       },
       {
@@ -4153,24 +4156,6 @@
           "team_id": "ast_44660de97c11460dbc54ce5e1de3efb4"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_f4f6a2a6cd8c4d00983e857ac9818a16",
-        "date": "2026-11-23",
-        "time": "21:00",
-        "status": "21:00",
-        "league": "智利乙级联赛",
-        "league_id": "asl_d0f685b4b0f54ece807236a3afe620f9",
-        "season": "2026",
-        "home": {
-          "name": "皇家圣华金",
-          "team_id": "ast_09bf08e1d36c49bf95bd903d049deb67"
-        },
-        "away": {
-          "name": "科利纳竞技",
-          "team_id": "ast_40332f0adf1a4362a6b912085bd61b8b"
-        },
-        "venue": ""
       }
     ]
   },
@@ -5735,13 +5720,13 @@
     }
   },
   "stats": {
-    "matches_completed": 163,
-    "total_goals": 397,
-    "avg_goals_per_match": 2.44,
+    "matches_completed": 164,
+    "total_goals": 399,
+    "avg_goals_per_match": 2.43,
     "home_wins": 61,
     "draws": 47,
-    "away_wins": 55,
-    "home_win_pct": 37.4,
+    "away_wins": 56,
+    "home_win_pct": 37.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -6539,7 +6524,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 14,
     "matches_current_season": 170,
-    "upcoming_matches": 7
+    "upcoming_matches": 6
   },
-  "updated_at": "2026/11/23"
+  "updated_at": "2026/11/24"
 }

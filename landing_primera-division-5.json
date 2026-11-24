@@ -186,6 +186,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
+        "team": "Cartagines",
+        "played": 17,
+        "wins": 11,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 34,
+        "goals_against": 21,
+        "goal_difference": 13,
+        "points": 34,
+        "form": "WWDWL"
+      },
+      {
+        "position": 3,
         "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
         "team": "Sporting FC",
         "played": 17,
@@ -199,36 +213,21 @@
         "form": "WLWWW"
       },
       {
-        "position": 3,
-        "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
-        "team": "Cartagines",
-        "played": 16,
-        "wins": 10,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 32,
-        "goals_against": 20,
-        "goal_difference": 12,
-        "points": 31,
-        "form": "WDWLW"
-      },
-      {
         "position": 4,
         "team_id": "ast_362ecce906604e098df706316bc6ac47",
         "team": "Alajuelense",
-        "played": 16,
+        "played": 17,
         "wins": 8,
         "draws": 5,
-        "losses": 3,
-        "goals_for": 27,
-        "goals_against": 15,
-        "goal_difference": 12,
+        "losses": 4,
+        "goals_for": 28,
+        "goals_against": 17,
+        "goal_difference": 11,
         "points": 29,
-        "form": "WWDWW"
+        "form": "LWWDW"
       },
       {
         "position": 5,
-        "team_id": "ast_8846cc907b394f2eae0a5c037109b864",
         "team": "San Carlos",
         "played": 17,
         "wins": 8,
@@ -329,6 +328,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
+        "team": "卡塔吉内斯",
+        "played": 17,
+        "wins": 11,
+        "draws": 1,
+        "losses": 5,
+        "goals_for": 34,
+        "goals_against": 21,
+        "goal_difference": 13,
+        "points": 34,
+        "form": "WWDWL",
+        "form_label": "胜胜平胜负"
+      },
+      {
+        "position": 3,
         "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
         "team": "圣荷西体育",
         "played": 17,
@@ -343,39 +357,23 @@
         "form_label": "胜负胜胜胜"
       },
       {
-        "position": 3,
-        "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
-        "team": "卡塔吉内斯",
-        "played": 16,
-        "wins": 10,
-        "draws": 1,
-        "losses": 5,
-        "goals_for": 32,
-        "goals_against": 20,
-        "goal_difference": 12,
-        "points": 31,
-        "form": "WDWLW",
-        "form_label": "胜平胜负胜"
-      },
-      {
         "position": 4,
         "team_id": "ast_362ecce906604e098df706316bc6ac47",
         "team": "阿拉胡埃伦斯",
-        "played": 16,
+        "played": 17,
         "wins": 8,
         "draws": 5,
-        "losses": 3,
-        "goals_for": 27,
-        "goals_against": 15,
-        "goal_difference": 12,
+        "losses": 4,
+        "goals_for": 28,
+        "goals_against": 17,
+        "goal_difference": 11,
         "points": 29,
-        "form": "WWDWW",
-        "form_label": "胜胜平胜胜"
+        "form": "LWWDW",
+        "form_label": "负胜胜平胜"
       },
       {
         "position": 5,
-        "team_id": "ast_8846cc907b394f2eae0a5c037109b864",
-        "team": "圣卡洛斯",
+        "team": "阿帕雷西达",
         "played": 17,
         "wins": 8,
         "draws": 3,
@@ -575,7 +573,7 @@
         "match_id": "as_3531b1a8db524cb68fea8aa094d74f62",
         "date": "2026-11-24",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -587,7 +585,10 @@
           "name": "卡塔吉内斯",
           "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_78bde96c17144186a56eb9df8ad60e1a",
@@ -649,7 +650,7 @@
         },
         "ht_score": "0-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Estadio Municipal de Puntarenas Miguel Angel Lito Perez Treacy",
         "status_label": "完场"
       },
       {
@@ -2587,7 +2588,7 @@
         "match_id": "as_3531b1a8db524cb68fea8aa094d74f62",
         "date": "2026-11-24",
         "time": "02:00",
-        "status": "02:00",
+        "status": "FT",
         "league": "哥斯达黎加甲级联赛",
         "league_id": "asl_3b3038a91d4a4fb7a8c7d421074da58d",
         "season": "2026/2027",
@@ -2599,7 +2600,10 @@
           "name": "卡塔吉内斯",
           "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-2",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -7047,13 +7051,13 @@
     }
   },
   "stats": {
-    "matches_completed": 84,
-    "total_goals": 237,
+    "matches_completed": 85,
+    "total_goals": 240,
     "avg_goals_per_match": 2.82,
     "home_wins": 39,
     "draws": 17,
-    "away_wins": 28,
-    "home_win_pct": 46.4,
+    "away_wins": 29,
+    "home_win_pct": 45.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -7190,6 +7194,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
+            "team": "Cartagines",
+            "played": 17,
+            "wins": 11,
+            "draws": 1,
+            "losses": 5,
+            "goals_for": 34,
+            "goals_against": 21,
+            "goal_difference": 13,
+            "points": 34,
+            "form": "WWDWL"
+          },
+          {
+            "position": 3,
             "team_id": "ast_056c40b6a94a4dac992925a91f0448fd",
             "team": "Sporting FC",
             "played": 17,
@@ -7201,20 +7219,6 @@
             "goal_difference": 9,
             "points": 33,
             "form": "WLWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_5747353634c4413e9a37ba92e6cd40d4",
-            "team": "Cartagines",
-            "played": 16,
-            "wins": 10,
-            "draws": 1,
-            "losses": 5,
-            "goals_for": 32,
-            "goals_against": 20,
-            "goal_difference": 12,
-            "points": 31,
-            "form": "WDWLW"
           }
         ],
         "meta": {
@@ -7853,5 +7857,5 @@
     "matches_current_season": 97,
     "upcoming_matches": 6
   },
-  "updated_at": "2026/11/23"
+  "updated_at": "2026/11/24"
 }

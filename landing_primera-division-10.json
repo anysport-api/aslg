@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
@@ -920,6 +920,24 @@
     "season": "2026",
     "matches": [
       {
+        "match_id": "as_d37347b01dfb4047b9f4cda12de70424",
+        "date": "2026-11-29",
+        "time": "22:30",
+        "status": "22:30",
+        "league": "委内瑞拉甲级联赛",
+        "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
+        "season": "2026",
+        "home": {
+          "name": "塔奇拉体育",
+          "team_id": "ast_8475930ee8764d0e91a795c75a6b6b2f"
+        },
+        "away": {
+          "name": "卡拉博博",
+          "team_id": "ast_0e7297d7db7248379bbc957f3af0388b"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_ad60c1252c4e43d5a965b918d1d63061",
         "date": "2026-11-22",
         "time": "21:30",
@@ -937,7 +955,7 @@
         },
         "ht_score": "1-2",
         "reg_score": "1-5",
-        "venue": "",
+        "venue": "Estadio Olimpico de la UCV",
         "status_label": "完场"
       },
       {
@@ -5775,10 +5793,11 @@
       {
         "match_id": "as_d37347b01dfb4047b9f4cda12de70424",
         "date": "2026-11-29",
-        "time": "21:00",
-        "status": "21:00",
+        "time": "22:30",
+        "status": "22:30",
         "league": "委内瑞拉甲级联赛",
         "league_id": "asl_02fc3f9442d84a55bec3a5c68c67cee0",
+        "season": "2026",
         "home": {
           "name": "塔奇拉体育",
           "team_id": "ast_8475930ee8764d0e91a795c75a6b6b2f"
@@ -12204,8 +12223,8 @@
     "distinct_title_holders": 12,
     "teams_all_time": 40,
     "standings_rows_current": 14,
-    "matches_current_season": 231,
+    "matches_current_season": 232,
     "upcoming_matches": 1
   },
-  "updated_at": "2026/11/23"
+  "updated_at": "2026/11/24"
 }

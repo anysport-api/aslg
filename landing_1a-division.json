@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": false,
+  "current_season_in_progress": true,
   "seasons": [
     {
       "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
@@ -252,6 +252,7 @@
       },
       {
         "position": 8,
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
         "team": "San Marcos",
         "played": 17,
         "wins": 4,
@@ -400,7 +401,8 @@
       },
       {
         "position": 8,
-        "team": "阿帕雷西达",
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
+        "team": "圣马尔科斯",
         "played": 17,
         "wins": 4,
         "draws": 3,
@@ -461,6 +463,96 @@
   "fixtures": {
     "season": "2026-2027",
     "matches": [
+      {
+        "match_id": "as_7573eefa9204407286cdeb6f343a019e",
+        "date": "2026-11-27",
+        "time": "00:00",
+        "status": "00:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "迪里安根",
+          "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
+        },
+        "away": {
+          "name": "马塔加尔帕",
+          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_918635e2592f4cd6bb48458d0cbd81a9",
+        "date": "2026-11-26",
+        "time": "01:00",
+        "status": "01:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "皇家埃斯特利",
+          "team_id": "ast_954430cf29394cc9b9f7e28f39156229"
+        },
+        "away": {
+          "name": "兰乔圣安塔纳",
+          "team_id": "ast_b6cc38c4080a45709e2a901334869ff7"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_3152a2b8948c40e496c0aace50ff7e4b",
+        "date": "2026-11-26",
+        "time": "01:00",
+        "status": "01:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "马那瓜FC",
+          "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
+        },
+        "away": {
+          "name": "费雷蒂",
+          "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_6b3d3b8ea14e4dd9abcec0ac4963d343",
+        "date": "2026-11-26",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "哈拉帕",
+          "team_id": "ast_f5f350d2964747d9a882068f4310f396"
+        },
+        "away": {
+          "name": "圣马尔科斯",
+          "team_id": "ast_657001f610c14f49b5af5e28679a27cc"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4d09ec9dde4a42199592941cd46bfdee",
+        "date": "2026-11-25",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "马那瓜UNAN",
+          "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
+        },
+        "away": {
+          "name": "塞巴科体育",
+          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
+        },
+        "venue": ""
+      },
       {
         "match_id": "as_30635d880cbf4a2dbe0e56192fe7a5ea",
         "date": "2026-11-23",
@@ -2249,10 +2341,10 @@
     ],
     "upcoming": [
       {
-        "match_id": "as_30635d880cbf4a2dbe0e56192fe7a5ea",
-        "date": "2026-11-23",
-        "time": "01:00",
-        "status": "FT",
+        "match_id": "as_7573eefa9204407286cdeb6f343a019e",
+        "date": "2026-11-27",
+        "time": "00:00",
+        "status": "00:00",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -2261,13 +2353,82 @@
           "team_id": "ast_3000c58fcc1a449ba613a74960f5b392"
         },
         "away": {
+          "name": "马塔加尔帕",
+          "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_6b3d3b8ea14e4dd9abcec0ac4963d343",
+        "date": "2026-11-26",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "哈拉帕",
+          "team_id": "ast_f5f350d2964747d9a882068f4310f396"
+        },
+        "away": {
+          "name": "圣马尔科斯",
+          "team_id": "ast_657001f610c14f49b5af5e28679a27cc"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_3152a2b8948c40e496c0aace50ff7e4b",
+        "date": "2026-11-26",
+        "time": "01:00",
+        "status": "01:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
           "name": "马那瓜FC",
           "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
         },
-        "ht_score": "0-1",
-        "reg_score": "0-1",
-        "venue": "",
-        "status_label": "完场"
+        "away": {
+          "name": "费雷蒂",
+          "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_918635e2592f4cd6bb48458d0cbd81a9",
+        "date": "2026-11-26",
+        "time": "01:00",
+        "status": "01:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "皇家埃斯特利",
+          "team_id": "ast_954430cf29394cc9b9f7e28f39156229"
+        },
+        "away": {
+          "name": "兰乔圣安塔纳",
+          "team_id": "ast_b6cc38c4080a45709e2a901334869ff7"
+        },
+        "venue": ""
+      },
+      {
+        "match_id": "as_4d09ec9dde4a42199592941cd46bfdee",
+        "date": "2026-11-25",
+        "time": "22:00",
+        "status": "22:00",
+        "league": "尼加拉瓜甲级联赛",
+        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
+        "season": "2026/2027",
+        "home": {
+          "name": "马那瓜UNAN",
+          "team_id": "ast_cc7080b99c2342688321977f209ae7a3"
+        },
+        "away": {
+          "name": "塞巴科体育",
+          "team_id": "ast_59dd208d9ecd4b07b26dbc790a91ab90"
+        },
+        "venue": ""
       }
     ]
   },
@@ -4602,8 +4763,8 @@
     "distinct_title_holders": 4,
     "teams_all_time": 17,
     "standings_rows_current": 10,
-    "matches_current_season": 85,
-    "upcoming_matches": 1
+    "matches_current_season": 90,
+    "upcoming_matches": 5
   },
-  "updated_at": "2026/11/23"
+  "updated_at": "2026/11/24"
 }

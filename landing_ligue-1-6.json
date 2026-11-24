@@ -521,6 +521,46 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_b358c32be8524941b854c17a86a21a00",
+        "date": "2027-01-08",
+        "time": "15:00",
+        "status": "Not Started",
+        "league": "刚果（布）甲级联赛",
+        "league_id": "asl_4e0b35e9eead48409ec72ddb73734d11",
+        "season": "2026/2027",
+        "home": {
+          "name": "红星队",
+          "team_id": "ast_86eb63916fb5469486c8202f421fdbba"
+        },
+        "away": {
+          "name": "孔佐",
+          "team_id": "ast_5fcfce2cc8c24022a835e22ba70d35de"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
+        "match_id": "as_087df30cfd42445ab3efb50ee16fc5b9",
+        "date": "2027-01-08",
+        "time": "13:00",
+        "status": "Not Started",
+        "league": "刚果（布）甲级联赛",
+        "league_id": "asl_4e0b35e9eead48409ec72ddb73734d11",
+        "season": "2026/2027",
+        "home": {
+          "name": "尤克",
+          "team_id": "ast_e9cf40ddb9a54071bc0ff36695c58d2b"
+        },
+        "away": {
+          "name": "布拉柴维尔CARA",
+          "team_id": "ast_5d49e1014b3a41849683e3bea663d4f1"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_d511f96b579f4a96895abd025ed5c6bc",
         "date": "2027-01-06",
         "time": "15:00",
@@ -1264,7 +1304,7 @@
         "match_id": "as_16610728b5cb4a368de48ca6fe09cc61",
         "date": "2026-12-01",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "刚果（布）甲级联赛",
         "league_id": "asl_4e0b35e9eead48409ec72ddb73734d11",
         "season": "2026/2027",
@@ -1276,15 +1316,13 @@
           "name": "黑魔鬼",
           "team_id": "ast_c087558ad3d949999a4d05a26bfd3d50"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b0cb31eab75d4d04b08e342c76f36556",
         "date": "2026-12-01",
         "time": "13:00",
-        "status": "Not Started",
+        "status": "13:00",
         "league": "刚果（布）甲级联赛",
         "league_id": "asl_4e0b35e9eead48409ec72ddb73734d11",
         "season": "2026/2027",
@@ -1296,9 +1334,7 @@
           "name": "刚果星星",
           "team_id": "ast_15c5d85fecad40ca8cdacc4669963995"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_40db7b93c44040d3b08b76b6371df8a5",
@@ -1459,42 +1495,6 @@
         "away": {
           "name": "孔佐",
           "team_id": "ast_5fcfce2cc8c24022a835e22ba70d35de"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_c3dc5b0e17ce4025850301008bb17011",
-        "date": "2026-11-25",
-        "time": "15:00",
-        "status": "15:00",
-        "league": "刚果（布）甲级联赛",
-        "league_id": "asl_4e0b35e9eead48409ec72ddb73734d11",
-        "season": "2026/2027",
-        "home": {
-          "name": "红星队",
-          "team_id": "ast_86eb63916fb5469486c8202f421fdbba"
-        },
-        "away": {
-          "name": "黑魔鬼",
-          "team_id": "ast_c087558ad3d949999a4d05a26bfd3d50"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6fcc4f69073a4ebda891f04b12a8fbc0",
-        "date": "2026-11-25",
-        "time": "13:00",
-        "status": "13:00",
-        "league": "刚果（布）甲级联赛",
-        "league_id": "asl_4e0b35e9eead48409ec72ddb73734d11",
-        "season": "2026/2027",
-        "home": {
-          "name": "RCB",
-          "team_id": "ast_9e30413912b744298c0e932700a52cee"
-        },
-        "away": {
-          "name": "刚果星星",
-          "team_id": "ast_15c5d85fecad40ca8cdacc4669963995"
         },
         "venue": ""
       }
@@ -2609,5 +2609,5 @@
     "matches_current_season": 1,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/11/23"
+  "updated_at": "2026/11/24"
 }

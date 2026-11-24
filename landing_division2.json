@@ -248,15 +248,15 @@
         "position": 5,
         "team_id": "ast_736d4fd86aee40a48085b4410641d9c9",
         "team": "Termalica B-B.",
-        "played": 14,
+        "played": 15,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 22,
-        "goals_against": 20,
+        "goals_for": 23,
+        "goals_against": 21,
         "goal_difference": 2,
-        "points": 22,
-        "form": "DDLWD"
+        "points": 23,
+        "form": "DDDLW"
       },
       {
         "position": 6,
@@ -388,15 +388,15 @@
         "position": 15,
         "team_id": "ast_f06781519182439b9bc44d7e3dc4b660",
         "team": "Podbeskidzie",
-        "played": 14,
+        "played": 15,
         "wins": 2,
-        "draws": 9,
+        "draws": 10,
         "losses": 3,
-        "goals_for": 17,
-        "goals_against": 20,
+        "goals_for": 18,
+        "goals_against": 21,
         "goal_difference": -3,
-        "points": 15,
-        "form": "LDWLW"
+        "points": 16,
+        "form": "DLDWL"
       },
       {
         "position": 16,
@@ -506,16 +506,16 @@
         "position": 5,
         "team_id": "ast_736d4fd86aee40a48085b4410641d9c9",
         "team": "特尔马利卡B-B.",
-        "played": 14,
+        "played": 15,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "goals_for": 22,
-        "goals_against": 20,
+        "goals_for": 23,
+        "goals_against": 21,
         "goal_difference": 2,
-        "points": 22,
-        "form": "DDLWD",
-        "form_label": "平平负胜平"
+        "points": 23,
+        "form": "DDDLW",
+        "form_label": "平平平负胜"
       },
       {
         "position": 6,
@@ -656,16 +656,16 @@
         "position": 15,
         "team_id": "ast_f06781519182439b9bc44d7e3dc4b660",
         "team": "波德贝斯基",
-        "played": 14,
+        "played": 15,
         "wins": 2,
-        "draws": 9,
+        "draws": 10,
         "losses": 3,
-        "goals_for": 17,
-        "goals_against": 20,
+        "goals_for": 18,
+        "goals_against": 21,
         "goal_difference": -3,
-        "points": 15,
-        "form": "LDWLW",
-        "form_label": "负平胜负胜"
+        "points": 16,
+        "form": "DLDWL",
+        "form_label": "平负平胜负"
       },
       {
         "position": 16,
@@ -4137,7 +4137,7 @@
         "match_id": "as_6621252848fd4ec1bafb4493d69448c5",
         "date": "2026-11-23",
         "time": "17:00",
-        "status": "17:00",
+        "status": "FT",
         "league": "波兰乙级联赛",
         "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
         "season": "2026/2027",
@@ -4149,7 +4149,10 @@
           "name": "特尔马利卡B-B.",
           "team_id": "ast_736d4fd86aee40a48085b4410641d9c9"
         },
-        "venue": ""
+        "ht_score": "1-1",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_f642117a716249dab821bcd37f159321",
@@ -4169,7 +4172,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "2-1",
-        "venue": "",
+        "venue": "Polsat Plus Arena",
         "status_label": "完场"
       },
       {
@@ -4190,7 +4193,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "0-0",
-        "venue": "",
+        "venue": "城市体育场",
         "status_label": "完场"
       },
       {
@@ -4211,7 +4214,7 @@
         },
         "ht_score": "1-0",
         "reg_score": "4-0",
-        "venue": "",
+        "venue": "Stadion Miejski w Rzeszowie",
         "status_label": "完场"
       },
       {
@@ -7486,24 +7489,6 @@
         "away": {
           "name": "斯基尔涅维采",
           "team_id": "ast_dcde9807eb584f138abe0b3efec3166d"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6621252848fd4ec1bafb4493d69448c5",
-        "date": "2026-11-23",
-        "time": "17:00",
-        "status": "17:00",
-        "league": "波兰乙级联赛",
-        "league_id": "asl_a23f9a6f9936439da37c2ef8d0a3df79",
-        "season": "2026/2027",
-        "home": {
-          "name": "波德贝斯基",
-          "team_id": "ast_f06781519182439b9bc44d7e3dc4b660"
-        },
-        "away": {
-          "name": "特尔马利卡B-B.",
-          "team_id": "ast_736d4fd86aee40a48085b4410641d9c9"
         },
         "venue": ""
       }
@@ -14197,13 +14182,13 @@
     }
   },
   "stats": {
-    "matches_completed": 134,
-    "total_goals": 361,
+    "matches_completed": 135,
+    "total_goals": 363,
     "avg_goals_per_match": 2.69,
     "home_wins": 57,
-    "draws": 37,
+    "draws": 38,
     "away_wins": 40,
-    "home_win_pct": 42.5,
+    "home_win_pct": 42.2,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -15001,7 +14986,7 @@
     "teams_all_time": 78,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 28
+    "upcoming_matches": 27
   },
-  "updated_at": "2026/11/23"
+  "updated_at": "2026/11/24"
 }
