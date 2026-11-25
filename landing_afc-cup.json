@@ -3882,7 +3882,7 @@
         "match_id": "as_73b2e89a69694a35bca68373ae08964c",
         "date": "2026-12-02",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "亚洲杯",
         "league_id": "asl_5ab0cc1bcdd54ec3811591a8005e8849",
         "season": "2026/2027",
@@ -3894,15 +3894,13 @@
           "name": "普斯比",
           "team_id": "ast_3e9ead8b24484b31a4775b5f9ed1fee3"
         },
-        "ht_score": "-",
-        "venue": "Hang Day Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e6de5dad636d4b77a442c9f74003cd68",
         "date": "2026-12-02",
         "time": "10:00",
-        "status": "Not Started",
+        "status": "10:00",
         "league": "亚洲杯",
         "league_id": "asl_5ab0cc1bcdd54ec3811591a8005e8849",
         "season": "2026/2027",
@@ -3914,9 +3912,7 @@
           "name": "墨尔本胜利",
           "team_id": "ast_3c59275cee564d91a898e377905db431"
         },
-        "ht_score": "-",
-        "venue": "首尔世界杯体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e0f44e88dde24cf8bcee3f327ae2fc46",
@@ -4058,7 +4054,7 @@
         },
         "away": {
           "name": "阿尔瓦赫达",
-          "team_id": "ast_8962bb007d3e42ff8490ea195fd240fe"
+          "team_id": "ast_841faf8c0f1e48779907aa7b186cbe2f"
         },
         "venue": ""
       },
@@ -4084,7 +4080,7 @@
         "match_id": "as_2ef68118b73246c78fda066dca7d22a7",
         "date": "2026-11-25",
         "time": "07:45",
-        "status": "07:45",
+        "status": "FT",
         "league": "亚洲杯",
         "league_id": "asl_5ab0cc1bcdd54ec3811591a8005e8849",
         "season": "2026/2027",
@@ -4096,7 +4092,10 @@
           "name": "越南电信",
           "team_id": "ast_ba0c0b973fbf4c98960769b17ed35516"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1a1db9c262c3420b8363f872aa4071c2",
@@ -4167,42 +4166,6 @@
         "away": {
           "name": "阿尔雷扬",
           "team_id": "ast_0696b34481824bc39a662ce5a31dd391"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_0c746c20c12c41fcaff9d1878d185cb9",
-        "date": "2026-11-24",
-        "time": "13:45",
-        "status": "13:45",
-        "league": "亚洲杯",
-        "league_id": "asl_5ab0cc1bcdd54ec3811591a8005e8849",
-        "season": "2026/2027",
-        "home": {
-          "name": "东孟加拉",
-          "team_id": "ast_5e718ba89c594877b7f899e1790c79de"
-        },
-        "away": {
-          "name": "阿尔侯赛因",
-          "team_id": "ast_17401b5a86a542e4bfe5457ad0f28ab7"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_ca15eb8719454829839e575e2949958b",
-        "date": "2026-11-24",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "亚洲杯",
-        "league_id": "asl_5ab0cc1bcdd54ec3811591a8005e8849",
-        "season": "2026/2027",
-        "home": {
-          "name": "阿尔西布",
-          "team_id": "ast_aabbc88674c348a09e3b4f96ec017ab3"
-        },
-        "away": {
-          "name": "阿尔肖尔塔",
-          "team_id": "ast_4c9fefa3eaf4438aa44944dc2d404922"
         },
         "venue": ""
       }
@@ -7024,7 +6987,7 @@
     "teams_all_time": 85,
     "standings_rows_current": 32,
     "matches_current_season": 120,
-    "upcoming_matches": 32
+    "upcoming_matches": 30
   },
-  "updated_at": "2026/11/24"
+  "updated_at": "2026/11/25"
 }

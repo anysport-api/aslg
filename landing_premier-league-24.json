@@ -8524,8 +8524,8 @@
       {
         "match_id": "as_2e1c241d7e6d412780a42c6dbfb80705",
         "date": "2026-12-02",
-        "time": "16:00",
-        "status": "Not Started",
+        "time": "11:00",
+        "status": "11:00",
         "league": "乌克兰超级联赛",
         "league_id": "asl_7e961caa8b8848eebbf7bce61f4650cc",
         "season": "2026/2027",
@@ -8537,9 +8537,7 @@
           "name": "利维贝雷格",
           "team_id": "ast_6f10dd0634624c679e60eceaed25094e"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_5ce3818fca144c6ba435a0696f8349fb",
@@ -8689,7 +8687,7 @@
         "match_id": "as_9fee3af1b68c465290bcf74f6d399457",
         "date": "2026-11-25",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Delayed",
         "league": "乌克兰超级联赛",
         "league_id": "asl_7e961caa8b8848eebbf7bce61f4650cc",
         "season": "2026/2027",
@@ -8701,7 +8699,8 @@
           "name": "梅塔利斯特1925",
           "team_id": "ast_b8852efbe00942fbb03e767980c34b5b"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "推迟"
       }
     ]
   },
@@ -14966,5 +14965,5 @@
     "matches_current_season": 244,
     "upcoming_matches": 27
   },
-  "updated_at": "2026/11/24"
+  "updated_at": "2026/11/25"
 }

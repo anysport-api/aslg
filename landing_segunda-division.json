@@ -4801,6 +4801,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_4f06b0ed120c4463b47855d520226247",
+        "date": "2026-12-09",
+        "time": "00:30",
+        "status": "Not Started",
+        "league": "秘鲁乙级联赛",
+        "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
+        "season": "2026",
+        "home": {
+          "name": "卡洛斯·曼努奇",
+          "team_id": "ast_57f3712097c8453fa07cf5c540dbfa45"
+        },
+        "away": {
+          "name": "联合商业",
+          "team_id": "ast_afbcd847070140dd965a5f0174402f1e"
+        },
+        "ht_score": "-",
+        "venue": "曼西切体育场",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_89c9a3997e2f49e2972f8d73e2a6507d",
         "date": "2026-12-05",
         "time": "21:00",
@@ -4821,10 +4841,28 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_4027e62e5426408a994ad023bb94568c",
+        "date": "2026-11-29",
+        "time": "20:00",
+        "status": "20:00",
+        "league": "秘鲁乙级联赛",
+        "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
+        "season": "2026",
+        "home": {
+          "name": "联合商业",
+          "team_id": "ast_afbcd847070140dd965a5f0174402f1e"
+        },
+        "away": {
+          "name": "卡洛斯·曼努奇",
+          "team_id": "ast_57f3712097c8453fa07cf5c540dbfa45"
+        },
+        "venue": ""
+      },
+      {
         "match_id": "as_3cfedc39bb524d4d8ceabd34356d722e",
         "date": "2026-11-28",
         "time": "21:00",
-        "status": "21:00",
+        "status": "Not Started",
         "league": "秘鲁乙级联赛",
         "league_id": "asl_692e06bcc9d54a5091c99b072041600b",
         "season": "2026",
@@ -4836,7 +4874,9 @@
           "name": "圣马丁大学",
           "team_id": "ast_4cd02e94351041beb2b76c05890d3eee"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Estadio Victor Montoya Segura",
+        "status_label": "未开赛"
       }
     ]
   },
@@ -8777,7 +8817,7 @@
     "teams_all_time": 54,
     "standings_rows_current": 4,
     "matches_current_season": 219,
-    "upcoming_matches": 2
+    "upcoming_matches": 4
   },
-  "updated_at": "2026/11/24"
+  "updated_at": "2026/11/25"
 }

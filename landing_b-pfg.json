@@ -212,6 +212,20 @@
       },
       {
         "position": 3,
+        "team_id": "ast_b767d7be460d4d3f9453282d506098be",
+        "team": "Fratria",
+        "played": 17,
+        "wins": 10,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 34,
+        "goals_against": 16,
+        "goal_difference": 18,
+        "points": 34,
+        "form": "WWWWL"
+      },
+      {
+        "position": 4,
         "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
         "team": "Chernomorets 1919",
         "played": 17,
@@ -225,32 +239,18 @@
         "form": "DWDWD"
       },
       {
-        "position": 4,
-        "team_id": "ast_b767d7be460d4d3f9453282d506098be",
-        "team": "Fratria",
-        "played": 16,
-        "wins": 9,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 32,
-        "goals_against": 16,
-        "goal_difference": 16,
-        "points": 31,
-        "form": "WWWLL"
-      },
-      {
         "position": 5,
         "team_id": "ast_7a592757155745858ec008127ae01a40",
         "team": "Yantra Gabrovo",
-        "played": 16,
+        "played": 17,
         "wins": 8,
         "draws": 3,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 18,
-        "goal_difference": 7,
+        "goals_against": 20,
+        "goal_difference": 5,
         "points": 27,
-        "form": "WDWDW"
+        "form": "LWDWD"
       },
       {
         "position": 6,
@@ -468,6 +468,21 @@
       },
       {
         "position": 3,
+        "team_id": "ast_b767d7be460d4d3f9453282d506098be",
+        "team": "弗拉特里亚",
+        "played": 17,
+        "wins": 10,
+        "draws": 4,
+        "losses": 3,
+        "goals_for": 34,
+        "goals_against": 16,
+        "goal_difference": 18,
+        "points": 34,
+        "form": "WWWWL",
+        "form_label": "胜胜胜胜负"
+      },
+      {
+        "position": 4,
         "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
         "team": "切尔诺莫雷茨1919",
         "played": 17,
@@ -482,34 +497,19 @@
         "form_label": "平胜平胜平"
       },
       {
-        "position": 4,
-        "team_id": "ast_b767d7be460d4d3f9453282d506098be",
-        "team": "弗拉特里亚",
-        "played": 16,
-        "wins": 9,
-        "draws": 4,
-        "losses": 3,
-        "goals_for": 32,
-        "goals_against": 16,
-        "goal_difference": 16,
-        "points": 31,
-        "form": "WWWLL",
-        "form_label": "胜胜胜负负"
-      },
-      {
         "position": 5,
         "team_id": "ast_7a592757155745858ec008127ae01a40",
         "team": "扬特拉·加布罗沃",
-        "played": 16,
+        "played": 17,
         "wins": 8,
         "draws": 3,
-        "losses": 5,
+        "losses": 6,
         "goals_for": 25,
-        "goals_against": 18,
-        "goal_difference": 7,
+        "goals_against": 20,
+        "goal_difference": 5,
         "points": 27,
-        "form": "WDWDW",
-        "form_label": "胜平胜平胜"
+        "form": "LWDWD",
+        "form_label": "负胜平胜平"
       },
       {
         "position": 6,
@@ -3789,7 +3789,7 @@
         "match_id": "as_2186c1fd1c1445d48e2ab0a31507bc75",
         "date": "2026-11-24",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "保加利亚B PFG",
         "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
         "season": "2026/2027",
@@ -3801,7 +3801,10 @@
           "name": "扬特拉·加布罗沃",
           "team_id": "ast_7a592757155745858ec008127ae01a40"
         },
-        "venue": ""
+        "ht_score": "2-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_e0b6e0c3e6114e098ecb7c001d1c8ae6",
@@ -3821,7 +3824,7 @@
         },
         "ht_score": "2-0",
         "reg_score": "3-0",
-        "venue": "",
+        "venue": "德拉加莱夫齐体育场",
         "status_label": "完场"
       },
       {
@@ -7335,24 +7338,6 @@
           "team_id": "ast_43e7191852f940c1bf4f3ceb40f6cfdc"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_2186c1fd1c1445d48e2ab0a31507bc75",
-        "date": "2026-11-24",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "保加利亚B PFG",
-        "league_id": "asl_6b7bf27b10f94e7a871934e5460f9c07",
-        "season": "2026/2027",
-        "home": {
-          "name": "弗拉特里亚",
-          "team_id": "ast_b767d7be460d4d3f9453282d506098be"
-        },
-        "away": {
-          "name": "扬特拉·加布罗沃",
-          "team_id": "ast_7a592757155745858ec008127ae01a40"
-        },
-        "venue": ""
       }
     ]
   },
@@ -9767,13 +9752,13 @@
     }
   },
   "stats": {
-    "matches_completed": 151,
-    "total_goals": 426,
+    "matches_completed": 152,
+    "total_goals": 428,
     "avg_goals_per_match": 2.82,
-    "home_wins": 72,
+    "home_wins": 73,
     "draws": 40,
     "away_wins": 39,
-    "home_win_pct": 47.7,
+    "home_win_pct": 48.0,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -9924,17 +9909,17 @@
           },
           {
             "position": 3,
-            "team_id": "ast_b24bf5090adf49c38fc25fa39b82c28f",
-            "team": "Chernomorets 1919",
+            "team_id": "ast_b767d7be460d4d3f9453282d506098be",
+            "team": "Fratria",
             "played": 17,
-            "wins": 9,
-            "draws": 6,
-            "losses": 2,
-            "goals_for": 31,
-            "goals_against": 15,
-            "goal_difference": 16,
-            "points": 33,
-            "form": "DWDWD"
+            "wins": 10,
+            "draws": 4,
+            "losses": 3,
+            "goals_for": 34,
+            "goals_against": 16,
+            "goal_difference": 18,
+            "points": 34,
+            "form": "WWWWL"
           }
         ],
         "meta": {
@@ -10571,7 +10556,7 @@
     "teams_all_time": 42,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 20
+    "upcoming_matches": 19
   },
-  "updated_at": "2026/11/24"
+  "updated_at": "2026/11/25"
 }
