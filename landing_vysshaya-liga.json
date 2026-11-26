@@ -126,15 +126,15 @@
         "position": 1,
         "team_id": "ast_fd91cb152faf4306be2820457c97d094",
         "team": "Istiqlol Dushanbe",
-        "played": 21,
-        "wins": 14,
+        "played": 22,
+        "wins": 15,
         "draws": 5,
         "losses": 2,
-        "goals_for": 31,
+        "goals_for": 39,
         "goals_against": 8,
-        "goal_difference": 23,
-        "points": 47,
-        "form": "WWWDL"
+        "goal_difference": 31,
+        "points": 50,
+        "form": "WWWWD"
       },
       {
         "position": 2,
@@ -280,15 +280,15 @@
         "position": 12,
         "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
         "team": "Istaravshan",
-        "played": 21,
+        "played": 22,
         "wins": 0,
         "draws": 7,
-        "losses": 14,
+        "losses": 15,
         "goals_for": 16,
-        "goals_against": 40,
-        "goal_difference": -24,
+        "goals_against": 48,
+        "goal_difference": -32,
         "points": 7,
-        "form": "DLLLL"
+        "form": "LDLLL"
       }
     ],
     "zh": [
@@ -296,16 +296,16 @@
         "position": 1,
         "team_id": "ast_fd91cb152faf4306be2820457c97d094",
         "team": "伊斯提克洛尔·杜尚别",
-        "played": 21,
-        "wins": 14,
+        "played": 22,
+        "wins": 15,
         "draws": 5,
         "losses": 2,
-        "goals_for": 31,
+        "goals_for": 39,
         "goals_against": 8,
-        "goal_difference": 23,
-        "points": 47,
-        "form": "WWWDL",
-        "form_label": "胜胜胜平负"
+        "goal_difference": 31,
+        "points": 50,
+        "form": "WWWWD",
+        "form_label": "胜胜胜胜平"
       },
       {
         "position": 2,
@@ -461,16 +461,16 @@
         "position": 12,
         "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
         "team": "伊斯塔拉夫尚",
-        "played": 21,
+        "played": 22,
         "wins": 0,
         "draws": 7,
-        "losses": 14,
+        "losses": 15,
         "goals_for": 16,
-        "goals_against": 40,
-        "goal_difference": -24,
+        "goals_against": 48,
+        "goal_difference": -32,
         "points": 7,
-        "form": "DLLLL",
-        "form_label": "平负负负负"
+        "form": "LDLLL",
+        "form_label": "负平负负负"
       }
     ]
   },
@@ -513,7 +513,7 @@
         "match_id": "as_1b29dc6c5ebc4ac6b540f83bafd4de3f",
         "date": "2026-11-26",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "09:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -525,15 +525,13 @@
           "name": "杜尚别CSKA Pomir",
           "team_id": "ast_a0a0dc9a14ce4822ac4f7c8e39f21ef9"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_dd7f8d4b1385477d95eb0a7581ccfa9f",
         "date": "2026-11-26",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "09:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -545,15 +543,13 @@
           "name": "萨尔多尔·图尔孙佐达",
           "team_id": "ast_ed5e7f70ea9f45ff9117b58ec0a4cccc"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_8aa2a9ede424405d810a74c23078e72d",
         "date": "2026-11-25",
         "time": "10:00",
-        "status": "10:00",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -565,7 +561,10 @@
           "name": "伊斯塔拉夫尚",
           "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64"
         },
-        "venue": ""
+        "ht_score": "4-0",
+        "reg_score": "8-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9e00a6150ecd4e92b140dba2585b8170",
@@ -3279,7 +3278,7 @@
         "match_id": "as_dd7f8d4b1385477d95eb0a7581ccfa9f",
         "date": "2026-11-26",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "09:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3291,15 +3290,13 @@
           "name": "萨尔多尔·图尔孙佐达",
           "team_id": "ast_ed5e7f70ea9f45ff9117b58ec0a4cccc"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1b29dc6c5ebc4ac6b540f83bafd4de3f",
         "date": "2026-11-26",
         "time": "09:00",
-        "status": "Not Started",
+        "status": "09:00",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -3310,26 +3307,6 @@
         "away": {
           "name": "杜尚别CSKA Pomir",
           "team_id": "ast_a0a0dc9a14ce4822ac4f7c8e39f21ef9"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_8aa2a9ede424405d810a74c23078e72d",
-        "date": "2026-11-25",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "伊斯提克洛尔·杜尚别",
-          "team_id": "ast_fd91cb152faf4306be2820457c97d094"
-        },
-        "away": {
-          "name": "伊斯塔拉夫尚",
-          "team_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64"
         },
         "venue": ""
       }
@@ -4734,41 +4711,41 @@
     }
   },
   "stats": {
-    "matches_completed": 128,
-    "total_goals": 315,
-    "avg_goals_per_match": 2.46,
-    "home_wins": 48,
+    "matches_completed": 129,
+    "total_goals": 323,
+    "avg_goals_per_match": 2.5,
+    "home_wins": 49,
     "draws": 40,
     "away_wins": 40,
-    "home_win_pct": 37.5,
+    "home_win_pct": 38.0,
     "biggest_win": {
-      "margin": 5,
+      "margin": 8,
       "match": {
-        "match_id": "as_73bbdf0231824e6eb5cc13ba18955314",
-        "date": "2026-06-13",
-        "home_id": "ast_bec35d4ffce44d559058708b1a1ca19d",
-        "home": "埃斯克哈塔",
-        "away_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
-        "away": "霍西洛特·帕尔哈尔",
-        "score": "1-6"
+        "match_id": "as_8aa2a9ede424405d810a74c23078e72d",
+        "date": "2026-11-25",
+        "home_id": "ast_fd91cb152faf4306be2820457c97d094",
+        "home": "伊斯提克洛尔·杜尚别",
+        "away_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
+        "away": "伊斯塔拉夫尚",
+        "score": "8-0"
       }
     },
     "highest_scoring_match": {
-      "goals": 7,
+      "goals": 8,
       "match": {
-        "match_id": "as_5e820912c9ab42abb13d448f4adf71bd",
-        "date": "2026-08-02",
-        "home_id": "ast_98ed85adb36c48a1b1d1b7071636e389",
-        "home": "霍西洛特·帕尔哈尔",
+        "match_id": "as_8aa2a9ede424405d810a74c23078e72d",
+        "date": "2026-11-25",
+        "home_id": "ast_fd91cb152faf4306be2820457c97d094",
+        "home": "伊斯提克洛尔·杜尚别",
         "away_id": "ast_2f9dcecb2da540c4bc6edfb67f66ca64",
         "away": "伊斯塔拉夫尚",
-        "score": "5-2"
+        "score": "8-0"
       }
     },
     "leader": {
       "team": "Istiqlol Dushanbe",
-      "points": 47,
-      "played": 21
+      "points": 50,
+      "played": 22
     }
   },
   "coverage": {
@@ -4865,15 +4842,15 @@
             "position": 1,
             "team_id": "ast_fd91cb152faf4306be2820457c97d094",
             "team": "Istiqlol Dushanbe",
-            "played": 21,
-            "wins": 14,
+            "played": 22,
+            "wins": 15,
             "draws": 5,
             "losses": 2,
-            "goals_for": 31,
+            "goals_for": 39,
             "goals_against": 8,
-            "goal_difference": 23,
-            "points": 47,
-            "form": "WWWDL"
+            "goal_difference": 31,
+            "points": 50,
+            "form": "WWWWD"
           },
           {
             "position": 2,
@@ -5501,7 +5478,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 4
+    "upcoming_matches": 3
   },
-  "updated_at": "2026/11/25"
+  "updated_at": "2026/11/26"
 }

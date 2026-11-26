@@ -469,7 +469,7 @@
         "match_id": "as_77f3f4fc9a4f494ea40b116e25a947e0",
         "date": "2026-11-26",
         "time": "10:00",
-        "status": "10:00",
+        "status": "51",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -481,13 +481,15 @@
           "name": "奥林匹克-莫比乌斯",
           "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd"
         },
+        "ht_score": "1-1",
+        "reg_score": "1-1",
         "venue": ""
       },
       {
         "match_id": "as_5989c644c13946da83e3b0215f22d840",
         "date": "2026-11-25",
         "time": "10:00",
-        "status": "10:00",
+        "status": "Not Started",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -499,7 +501,9 @@
           "name": "法尔杜",
           "team_id": "ast_3d7aa01f06a64905bf50dc058b5a4501"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_6391362bf1f449fda9ccdb7524ae0a90",
@@ -4329,7 +4333,7 @@
         "match_id": "as_77f3f4fc9a4f494ea40b116e25a947e0",
         "date": "2026-11-26",
         "time": "10:00",
-        "status": "10:00",
+        "status": "51",
         "league": "乌兹别克斯坦职业联赛",
         "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
         "season": "2026",
@@ -4341,24 +4345,8 @@
           "name": "奥林匹克-莫比乌斯",
           "team_id": "ast_9617ff3314734d51a7cb89c45c2ccddd"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_5989c644c13946da83e3b0215f22d840",
-        "date": "2026-11-25",
-        "time": "10:00",
-        "status": "10:00",
-        "league": "乌兹别克斯坦职业联赛",
-        "league_id": "asl_246ba5d5a1d94f57b20ee2fe19bf055a",
-        "season": "2026",
-        "home": {
-          "name": "梅塔卢尔贝卡巴德",
-          "team_id": "ast_46df40ef2d1a438caca8f31a3adce015"
-        },
-        "away": {
-          "name": "法尔杜",
-          "team_id": "ast_3d7aa01f06a64905bf50dc058b5a4501"
-        },
+        "ht_score": "1-1",
+        "reg_score": "1-1",
         "venue": ""
       }
     ]
@@ -4746,13 +4734,13 @@
     }
   },
   "stats": {
-    "matches_completed": 182,
-    "total_goals": 529,
-    "avg_goals_per_match": 2.91,
+    "matches_completed": 183,
+    "total_goals": 531,
+    "avg_goals_per_match": 2.9,
     "home_wins": 77,
-    "draws": 32,
+    "draws": 33,
     "away_wins": 73,
-    "home_win_pct": 42.3,
+    "home_win_pct": 42.1,
     "biggest_win": {
       "margin": 7,
       "match": {
@@ -5549,7 +5537,7 @@
     "teams_all_time": 16,
     "standings_rows_current": 14,
     "matches_current_season": 184,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/25"
+  "updated_at": "2026/11/26"
 }

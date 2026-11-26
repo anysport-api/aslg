@@ -208,13 +208,13 @@
         "position": 6,
         "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740",
         "team": "Herentals",
-        "played": 33,
+        "played": 34,
         "wins": 14,
         "draws": 6,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 32,
-        "goals_against": 37,
-        "goal_difference": -5,
+        "goals_against": 39,
+        "goal_difference": -7,
         "points": 48,
         "form": "LLLLL"
       },
@@ -319,15 +319,15 @@
         "position": 14,
         "team_id": "ast_9e6deb169ff540119c976ff01e4d71d5",
         "team": "ZPC Kariba",
-        "played": 33,
-        "wins": 6,
+        "played": 34,
+        "wins": 7,
         "draws": 15,
         "losses": 12,
-        "goals_for": 18,
+        "goals_for": 20,
         "goals_against": 28,
-        "goal_difference": -10,
-        "points": 33,
-        "form": "LDLWL"
+        "goal_difference": -8,
+        "points": 36,
+        "form": "WLDLW"
       },
       {
         "position": 15,
@@ -466,13 +466,13 @@
         "position": 6,
         "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740",
         "team": "赫伦塔尔斯",
-        "played": 33,
+        "played": 34,
         "wins": 14,
         "draws": 6,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 32,
-        "goals_against": 37,
-        "goal_difference": -5,
+        "goals_against": 39,
+        "goal_difference": -7,
         "points": 48,
         "form": "LLLLL",
         "form_label": "负负负负负"
@@ -585,16 +585,16 @@
         "position": 14,
         "team_id": "ast_9e6deb169ff540119c976ff01e4d71d5",
         "team": "ZPC 卡里巴",
-        "played": 33,
-        "wins": 6,
+        "played": 34,
+        "wins": 7,
         "draws": 15,
         "losses": 12,
-        "goals_for": 18,
+        "goals_for": 20,
         "goals_against": 28,
-        "goal_difference": -10,
-        "points": 33,
-        "form": "LDLWL",
-        "form_label": "负平负胜负"
+        "goal_difference": -8,
+        "points": 36,
+        "form": "WLDLW",
+        "form_label": "胜负平负胜"
       },
       {
         "position": 15,
@@ -679,7 +679,7 @@
         "match_id": "as_4f9270847107448f8d0014dbbf213195",
         "date": "2026-11-25",
         "time": "12:00",
-        "status": "12:00",
+        "status": "Postp.",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -691,13 +691,14 @@
           "name": "高地人",
           "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "延期"
       },
       {
         "match_id": "as_0bd21bbfeaa94d40952edd0cc8b5fece",
         "date": "2026-11-25",
         "time": "12:00",
-        "status": "12:00",
+        "status": "FT",
         "league": "津巴布韦足球超级联赛",
         "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
         "season": "2026",
@@ -709,7 +710,10 @@
           "name": "ZPC 卡里巴",
           "team_id": "ast_9e6deb169ff540119c976ff01e4d71d5"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-2",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_6c5b326abd724d3d989bb3bccd759df8",
@@ -7095,44 +7099,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_0bd21bbfeaa94d40952edd0cc8b5fece",
-        "date": "2026-11-25",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "赫伦塔尔斯",
-          "team_id": "ast_642b43a5e2dd419fae73ec4c0039e740"
-        },
-        "away": {
-          "name": "ZPC 卡里巴",
-          "team_id": "ast_9e6deb169ff540119c976ff01e4d71d5"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_4f9270847107448f8d0014dbbf213195",
-        "date": "2026-11-25",
-        "time": "12:00",
-        "status": "12:00",
-        "league": "津巴布韦足球超级联赛",
-        "league_id": "asl_e9ccc751473c4d55955b1c35bcbed880",
-        "season": "2026",
-        "home": {
-          "name": "阿伽马",
-          "team_id": "ast_fe13b727551e406882937bbf78dd7a19"
-        },
-        "away": {
-          "name": "高地人",
-          "team_id": "ast_e260138477464ca9bd4d505d46f508d3"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -9464,13 +9431,13 @@
     }
   },
   "stats": {
-    "matches_completed": 303,
-    "total_goals": 576,
+    "matches_completed": 304,
+    "total_goals": 578,
     "avg_goals_per_match": 1.9,
     "home_wins": 109,
     "draws": 108,
-    "away_wins": 86,
-    "home_win_pct": 36.0,
+    "away_wins": 87,
+    "home_win_pct": 35.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -10193,7 +10160,7 @@
     "teams_all_time": 39,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 2
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/25"
+  "updated_at": "2026/11/26"
 }

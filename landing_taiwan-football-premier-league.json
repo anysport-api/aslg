@@ -2255,7 +2255,7 @@
         "match_id": "as_8898f6a1343a42458562874c70309036",
         "date": "2026-11-29",
         "time": "11:00",
-        "status": "11:00",
+        "status": "Not Started",
         "league": "中华台北足球超级联赛",
         "league_id": "asl_cb27dcdb1745422e87d148fcf145affc",
         "season": "2026/2027",
@@ -2267,13 +2267,15 @@
           "name": "Kaohsiung",
           "team_id": "ast_010b82b223b9467f98cccb7746177fe1"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_be851fb488fc452fb2b746ab83fddc78",
         "date": "2026-11-29",
         "time": "10:30",
-        "status": "10:30",
+        "status": "Not Started",
         "league": "中华台北足球超级联赛",
         "league_id": "asl_cb27dcdb1745422e87d148fcf145affc",
         "season": "2026/2027",
@@ -2285,13 +2287,15 @@
           "name": "恒源",
           "team_id": "ast_a91b293e4cae464daa02e1c808e21a92"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_eec15e275a584827bd3994f84d148c8b",
         "date": "2026-11-29",
         "time": "08:00",
-        "status": "08:00",
+        "status": "Not Started",
         "league": "中华台北足球超级联赛",
         "league_id": "asl_cb27dcdb1745422e87d148fcf145affc",
         "season": "2026/2027",
@@ -2303,13 +2307,15 @@
           "name": "Tatung",
           "team_id": "ast_ded3cd9f40ef479ca1fffc95614d6633"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_ed31edbdc1174562850c11071ad9f791",
         "date": "2026-11-29",
         "time": "07:30",
-        "status": "07:30",
+        "status": "Not Started",
         "league": "中华台北足球超级联赛",
         "league_id": "asl_cb27dcdb1745422e87d148fcf145affc",
         "season": "2026/2027",
@@ -2321,27 +2327,30 @@
           "name": "Taipower",
           "team_id": "ast_d84a285c5b2340cc8b4ddf7fd704332d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
-        "match_id": "as_e6a270f4327c4a5ab0e601dbfd852242",
-        "date": "2026-11-25",
-        "time": "10:30",
-        "status": "65",
+        "match_id": "as_8569535caa064fbeb259836bbb011034",
+        "date": "2026-11-26",
+        "time": "07:00",
+        "status": "FT",
         "league": "中华台北足球超级联赛",
         "league_id": "asl_cb27dcdb1745422e87d148fcf145affc",
         "season": "2026/2027",
         "home": {
-          "name": "台湾钢铁",
-          "team_id": "ast_8f41573a2ad24edfa07e0fe20f027724"
+          "name": "AC Taipei",
+          "team_id": "ast_a318fc1e403f4b38953ff08ff81a11fa"
         },
         "away": {
-          "name": "Taichung Rock",
-          "team_id": "ast_27f4bf03118546a2ba7aa6a7a0fe5c03"
+          "name": "恒源",
+          "team_id": "ast_a91b293e4cae464daa02e1c808e21a92"
         },
-        "ht_score": "2-0",
-        "reg_score": "3-0",
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "1-1",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -3977,5 +3986,5 @@
     "matches_current_season": 84,
     "upcoming_matches": 15
   },
-  "updated_at": "2026/11/25"
+  "updated_at": "2026/11/26"
 }
