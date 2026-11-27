@@ -563,7 +563,7 @@
         "match_id": "as_0e7da70b5ca74d81af4409049b4da573",
         "date": "2026-11-28",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -575,9 +575,7 @@
           "name": "圣马尔科斯德阿里卡",
           "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
         },
-        "ht_score": "-",
-        "venue": "Estadio Santiago Bueras",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d3b23cb76d8f4c3dae9f268e56c0ee81",
@@ -601,7 +599,7 @@
         "match_id": "as_9e55d96daba849a385306d1dd391a722",
         "date": "2026-11-26",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -613,7 +611,10 @@
           "name": "雷科莱塔",
           "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "2-4",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_2abf44556dd3485aa02498c029415355",
@@ -5747,7 +5748,7 @@
         "match_id": "as_0e7da70b5ca74d81af4409049b4da573",
         "date": "2026-11-28",
         "time": "21:00",
-        "status": "Not Started",
+        "status": "21:00",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -5759,9 +5760,7 @@
           "name": "圣马尔科斯德阿里卡",
           "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
         },
-        "ht_score": "-",
-        "venue": "Estadio Santiago Bueras",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_d3b23cb76d8f4c3dae9f268e56c0ee81",
@@ -5778,24 +5777,6 @@
         "away": {
           "name": "科皮亚波",
           "team_id": "ast_fc71ad129ad74b5a8f86f35f48f062c2"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_9e55d96daba849a385306d1dd391a722",
-        "date": "2026-11-26",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "流浪者队",
-          "team_id": "ast_63b9eedbe17f4d758bc06efd0885c97e"
-        },
-        "away": {
-          "name": "雷科莱塔",
-          "team_id": "ast_bf575c76fb3047aa9a8516c23b791cbe"
         },
         "venue": ""
       }
@@ -7908,13 +7889,13 @@
     }
   },
   "stats": {
-    "matches_completed": 244,
-    "total_goals": 645,
-    "avg_goals_per_match": 2.64,
+    "matches_completed": 245,
+    "total_goals": 651,
+    "avg_goals_per_match": 2.66,
     "home_wins": 107,
     "draws": 72,
-    "away_wins": 65,
-    "home_win_pct": 43.9,
+    "away_wins": 66,
+    "home_win_pct": 43.7,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8712,7 +8693,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 3
+    "upcoming_matches": 2
   },
-  "updated_at": "2026/11/26"
+  "updated_at": "2026/11/27"
 }

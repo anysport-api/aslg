@@ -7031,7 +7031,7 @@
         "match_id": "as_b59f90659e2847a38bbb247b95cfc667",
         "date": "2026-11-29",
         "time": "17:00",
-        "status": "17:00",
+        "status": "Not Started",
         "league": "克罗地亚联赛",
         "league_id": "asl_6229c58c147c4d6cba40d9ab1ba4d8e6",
         "season": "2026/2027",
@@ -7043,13 +7043,15 @@
           "name": "鲁德斯",
           "team_id": "ast_9b9bab80cb2b4d7ba3ec15ed065a600d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "波留德体育场",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_72b78ce102fe449690712e2cb41f9654",
         "date": "2026-11-29",
         "time": "14:00",
-        "status": "14:00",
+        "status": "Not Started",
         "league": "克罗地亚联赛",
         "league_id": "asl_6229c58c147c4d6cba40d9ab1ba4d8e6",
         "season": "2026/2027",
@@ -7061,7 +7063,9 @@
           "name": "萨格勒布迪纳摩",
           "team_id": "ast_b7fb1d45028c4f769bd3944740eadcb8"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "Gradski stadion Velika Gorica",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_05356b6d961c45e096252f1327f3a8b7",
@@ -12135,5 +12139,5 @@
     "matches_current_season": 180,
     "upcoming_matches": 21
   },
-  "updated_at": "2026/11/25"
+  "updated_at": "2026/11/27"
 }

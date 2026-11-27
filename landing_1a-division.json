@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026-2027",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
@@ -170,15 +170,15 @@
         "position": 2,
         "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
         "team": "Diriangen",
-        "played": 17,
-        "wins": 12,
+        "played": 18,
+        "wins": 13,
         "draws": 2,
         "losses": 3,
-        "goals_for": 34,
+        "goals_for": 38,
         "goals_against": 16,
-        "goal_difference": 18,
-        "points": 38,
-        "form": "LWLWW"
+        "goal_difference": 22,
+        "points": 41,
+        "form": "WLWLW"
       },
       {
         "position": 3,
@@ -238,31 +238,31 @@
       },
       {
         "position": 7,
-        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
-        "team": "Jalapa",
-        "played": 17,
-        "wins": 4,
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
+        "team": "San Marcos",
+        "played": 18,
+        "wins": 5,
         "draws": 3,
         "losses": 10,
-        "goals_for": 17,
-        "goals_against": 24,
-        "goal_difference": -7,
-        "points": 15,
-        "form": "LLWWW"
+        "goals_for": 18,
+        "goals_against": 28,
+        "goal_difference": -10,
+        "points": 18,
+        "form": "WLWDD"
       },
       {
         "position": 8,
-        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
-        "team": "San Marcos",
-        "played": 17,
+        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
+        "team": "Jalapa",
+        "played": 18,
         "wins": 4,
         "draws": 3,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 17,
-        "goals_against": 28,
-        "goal_difference": -11,
+        "goals_against": 25,
+        "goal_difference": -8,
         "points": 15,
-        "form": "LWDDL"
+        "form": "LLLWW"
       },
       {
         "position": 9,
@@ -282,15 +282,15 @@
         "position": 10,
         "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5",
         "team": "Matagalpa",
-        "played": 17,
+        "played": 18,
         "wins": 3,
         "draws": 1,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 9,
-        "goals_against": 37,
-        "goal_difference": -28,
+        "goals_against": 41,
+        "goal_difference": -32,
         "points": 10,
-        "form": "LLLLD"
+        "form": "LLLLL"
       }
     ],
     "zh": [
@@ -313,16 +313,16 @@
         "position": 2,
         "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
         "team": "迪里安根",
-        "played": 17,
-        "wins": 12,
+        "played": 18,
+        "wins": 13,
         "draws": 2,
         "losses": 3,
-        "goals_for": 34,
+        "goals_for": 38,
         "goals_against": 16,
-        "goal_difference": 18,
-        "points": 38,
-        "form": "LWLWW",
-        "form_label": "负胜负胜胜"
+        "goal_difference": 22,
+        "points": 41,
+        "form": "WLWLW",
+        "form_label": "胜负胜负胜"
       },
       {
         "position": 3,
@@ -386,33 +386,33 @@
       },
       {
         "position": 7,
-        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
-        "team": "哈拉帕",
-        "played": 17,
-        "wins": 4,
+        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
+        "team": "圣马尔科斯",
+        "played": 18,
+        "wins": 5,
         "draws": 3,
         "losses": 10,
-        "goals_for": 17,
-        "goals_against": 24,
-        "goal_difference": -7,
-        "points": 15,
-        "form": "LLWWW",
-        "form_label": "负负胜胜胜"
+        "goals_for": 18,
+        "goals_against": 28,
+        "goal_difference": -10,
+        "points": 18,
+        "form": "WLWDD",
+        "form_label": "胜负胜平平"
       },
       {
         "position": 8,
-        "team_id": "ast_657001f610c14f49b5af5e28679a27cc",
-        "team": "圣马尔科斯",
-        "played": 17,
+        "team_id": "ast_f5f350d2964747d9a882068f4310f396",
+        "team": "哈拉帕",
+        "played": 18,
         "wins": 4,
         "draws": 3,
-        "losses": 10,
+        "losses": 11,
         "goals_for": 17,
-        "goals_against": 28,
-        "goal_difference": -11,
+        "goals_against": 25,
+        "goal_difference": -8,
         "points": 15,
-        "form": "LWDDL",
-        "form_label": "负胜平平负"
+        "form": "LLLWW",
+        "form_label": "负负负胜胜"
       },
       {
         "position": 9,
@@ -433,16 +433,16 @@
         "position": 10,
         "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5",
         "team": "马塔加尔帕",
-        "played": 17,
+        "played": 18,
         "wins": 3,
         "draws": 1,
-        "losses": 13,
+        "losses": 14,
         "goals_for": 9,
-        "goals_against": 37,
-        "goal_difference": -28,
+        "goals_against": 41,
+        "goal_difference": -32,
         "points": 10,
-        "form": "LLLLD",
-        "form_label": "负负负负平"
+        "form": "LLLLL",
+        "form_label": "负负负负负"
       }
     ]
   },
@@ -467,7 +467,7 @@
         "match_id": "as_7573eefa9204407286cdeb6f343a019e",
         "date": "2026-11-27",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -479,7 +479,10 @@
           "name": "马塔加尔帕",
           "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
         },
-        "venue": ""
+        "ht_score": "3-0",
+        "reg_score": "4-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_918635e2592f4cd6bb48458d0cbd81a9",
@@ -527,7 +530,7 @@
         "match_id": "as_6b3d3b8ea14e4dd9abcec0ac4963d343",
         "date": "2026-11-26",
         "time": "22:00",
-        "status": "22:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -539,7 +542,10 @@
           "name": "圣马尔科斯",
           "team_id": "ast_657001f610c14f49b5af5e28679a27cc"
         },
-        "venue": ""
+        "ht_score": "0-1",
+        "reg_score": "0-1",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_4d09ec9dde4a42199592941cd46bfdee",
@@ -2353,7 +2359,7 @@
         "match_id": "as_7573eefa9204407286cdeb6f343a019e",
         "date": "2026-11-27",
         "time": "00:00",
-        "status": "00:00",
+        "status": "FT",
         "league": "尼加拉瓜甲级联赛",
         "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
         "season": "2026/2027",
@@ -2365,65 +2371,8 @@
           "name": "马塔加尔帕",
           "team_id": "ast_5e26cc30f9d8486d8821a9442da028a5"
         },
-        "venue": ""
-      },
-      {
-        "match_id": "as_6b3d3b8ea14e4dd9abcec0ac4963d343",
-        "date": "2026-11-26",
-        "time": "22:00",
-        "status": "22:00",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "哈拉帕",
-          "team_id": "ast_f5f350d2964747d9a882068f4310f396"
-        },
-        "away": {
-          "name": "圣马尔科斯",
-          "team_id": "ast_657001f610c14f49b5af5e28679a27cc"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3152a2b8948c40e496c0aace50ff7e4b",
-        "date": "2026-11-26",
-        "time": "01:00",
-        "status": "FT",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "马那瓜FC",
-          "team_id": "ast_39a118c6f38341a2b820af1bfb4d1d60"
-        },
-        "away": {
-          "name": "费雷蒂",
-          "team_id": "ast_61abc27f32d84b47b951c60b4bcc99bb"
-        },
-        "ht_score": "0-0",
-        "reg_score": "0-2",
-        "venue": "",
-        "status_label": "完场"
-      },
-      {
-        "match_id": "as_918635e2592f4cd6bb48458d0cbd81a9",
-        "date": "2026-11-26",
-        "time": "01:00",
-        "status": "FT",
-        "league": "尼加拉瓜甲级联赛",
-        "league_id": "asl_1bf922b1d0394c75880ee4068581a33c",
-        "season": "2026/2027",
-        "home": {
-          "name": "皇家埃斯特利",
-          "team_id": "ast_954430cf29394cc9b9f7e28f39156229"
-        },
-        "away": {
-          "name": "兰乔圣安塔纳",
-          "team_id": "ast_b6cc38c4080a45709e2a901334869ff7"
-        },
-        "ht_score": "2-0",
-        "reg_score": "3-0",
+        "ht_score": "3-0",
+        "reg_score": "4-0",
         "venue": "",
         "status_label": "完场"
       }
@@ -3957,13 +3906,13 @@
     }
   },
   "stats": {
-    "matches_completed": 88,
-    "total_goals": 261,
-    "avg_goals_per_match": 2.97,
-    "home_wins": 33,
+    "matches_completed": 90,
+    "total_goals": 266,
+    "avg_goals_per_match": 2.96,
+    "home_wins": 34,
     "draws": 16,
-    "away_wins": 39,
-    "home_win_pct": 37.5,
+    "away_wins": 40,
+    "home_win_pct": 37.8,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -4102,15 +4051,15 @@
             "position": 2,
             "team_id": "ast_3000c58fcc1a449ba613a74960f5b392",
             "team": "Diriangen",
-            "played": 17,
-            "wins": 12,
+            "played": 18,
+            "wins": 13,
             "draws": 2,
             "losses": 3,
-            "goals_for": 34,
+            "goals_for": 38,
             "goals_against": 16,
-            "goal_difference": 18,
-            "points": 38,
-            "form": "LWLWW"
+            "goal_difference": 22,
+            "points": 41,
+            "form": "WLWLW"
           },
           {
             "position": 3,
@@ -4761,7 +4710,7 @@
     "teams_all_time": 17,
     "standings_rows_current": 10,
     "matches_current_season": 90,
-    "upcoming_matches": 4
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/26"
+  "updated_at": "2026/11/27"
 }

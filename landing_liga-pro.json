@@ -250,6 +250,7 @@
       },
       {
         "position": 7,
+        "team_id": "ast_58812e22c29f430dbbe975f627d43664",
         "team": "Libertad",
         "played": 36,
         "wins": 14,
@@ -481,7 +482,8 @@
       },
       {
         "position": 7,
-        "team": "阿帕雷西达",
+        "team_id": "ast_58812e22c29f430dbbe975f627d43664",
+        "team": "自由FC",
         "played": 36,
         "wins": 14,
         "draws": 9,
@@ -714,14 +716,6 @@
           "value": 9
         },
         {
-          "rank": 11,
-          "player_id": "asp_ec662ffd583e4a5c9108529f0866fa32",
-          "player_name": "R. Carrillo",
-          "team_id": "ast_976261ebd4974debba981ed009e436f5",
-          "team_name": "Mushuc Runa",
-          "value": 9
-        },
-        {
           "rank": 12,
           "player_id": "asp_b0f8960fc70346ec8e3bbf8fd38aac9b",
           "player_name": "M. Alonso",
@@ -795,6 +789,14 @@
         },
         {
           "rank": 21,
+          "player_id": "asp_c5720f77ae504bec80fc0da33508fa69",
+          "player_name": "Quiñónez Jhonny",
+          "team_id": "ast_92f7b4620b7e477d8d5eb57eb8f036e6",
+          "team_name": "Barcelona Guayaquil",
+          "value": 6
+        },
+        {
+          "rank": 22,
           "player_id": "asp_704db04039994ff88a7f8cf2c0ef5937",
           "player_name": "Enrique José",
           "team_id": "ast_7d7851a20cff48739670bd26567661a4",
@@ -802,7 +804,7 @@
           "value": 6
         },
         {
-          "rank": 22,
+          "rank": 23,
           "player_id": "asp_f11de2bb560b41aa97e02234618ddbc0",
           "player_name": "R. Briones",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
@@ -810,19 +812,11 @@
           "value": 5
         },
         {
-          "rank": 23,
+          "rank": 24,
           "player_id": "asp_a65dc11a185545b5bda472c33c73fc96",
           "player_name": "Deyverson",
           "team_id": "ast_5786f46e30044153862cd8eca62a0556",
           "team_name": "LDU de Quito",
-          "value": 5
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_c5720f77ae504bec80fc0da33508fa69",
-          "player_name": "Quiñónez Jhonny",
-          "team_id": "ast_92f7b4620b7e477d8d5eb57eb8f036e6",
-          "team_name": "Barcelona Guayaquil",
           "value": 5
         },
         {
@@ -947,38 +941,6 @@
         },
         {
           "rank": 40,
-          "player_id": "asp_2026be96c2744b1dbb1b6af36529bc91",
-          "player_name": "K. Ushiña",
-          "team_id": "ast_fa769caa8fc049b884e6d19f59bb3a7d",
-          "team_name": "Delfin",
-          "value": 4
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_3b03a6f1d0b24c029db5e08d1f712da2",
-          "player_name": "Y. Quiñónez",
-          "team_id": "ast_5786f46e30044153862cd8eca62a0556",
-          "team_name": "LDU de Quito",
-          "value": 4
-        },
-        {
-          "rank": 42,
-          "player_id": "asp_37d2f9d775fd4ad98e7792b6a5d19730",
-          "player_name": "J. Anaya",
-          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
-          "team_name": "Tecnico Universitario",
-          "value": 4
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_f9abd00c49d7415eb6e05ccb5dbd6f0f",
-          "player_name": "L. Estupiñán",
-          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
-          "team_name": "Tecnico Universitario",
-          "value": 4
-        },
-        {
-          "rank": 44,
           "player_id": "asp_3ea7f101a91d4acdb1477254244fd3bb",
           "player_name": "Alberto Valentín",
           "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
@@ -986,7 +948,7 @@
           "value": 4
         },
         {
-          "rank": 45,
+          "rank": 41,
           "player_id": "asp_69820db0b158423898100b5212c79da7",
           "player_name": "C. Castaño",
           "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
@@ -994,7 +956,7 @@
           "value": 4
         },
         {
-          "rank": 46,
+          "rank": 42,
           "player_id": "asp_42a75b122759412db4dddf4692f663ad",
           "player_name": "E. Mejía",
           "team_id": "ast_1c319b291950451a9e1336bceac0af07",
@@ -1002,7 +964,7 @@
           "value": 4
         },
         {
-          "rank": 47,
+          "rank": 43,
           "player_id": "asp_fe48069e7d274ad8a2e49f3e8024d282",
           "player_name": "Klimowicz Matías",
           "team_id": "ast_86fc9bae2a07488d9228f0cf0dfb975d",
@@ -1010,27 +972,59 @@
           "value": 4
         },
         {
+          "rank": 44,
+          "player_id": "asp_2026be96c2744b1dbb1b6af36529bc91",
+          "player_name": "K. Ushiña",
+          "team_id": "ast_fa769caa8fc049b884e6d19f59bb3a7d",
+          "team_name": "Delfin",
+          "value": 4
+        },
+        {
+          "rank": 45,
+          "player_id": "asp_3b03a6f1d0b24c029db5e08d1f712da2",
+          "player_name": "Y. Quiñónez",
+          "team_id": "ast_5786f46e30044153862cd8eca62a0556",
+          "team_name": "LDU de Quito",
+          "value": 4
+        },
+        {
+          "rank": 46,
+          "player_id": "asp_37d2f9d775fd4ad98e7792b6a5d19730",
+          "player_name": "J. Anaya",
+          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
+          "team_name": "Tecnico Universitario",
+          "value": 4
+        },
+        {
+          "rank": 47,
+          "player_id": "asp_f9abd00c49d7415eb6e05ccb5dbd6f0f",
+          "player_name": "L. Estupiñán",
+          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
+          "team_name": "Tecnico Universitario",
+          "value": 4
+        },
+        {
           "rank": 48,
-          "player_id": "asp_a45eace864b941da88a72275fe0dddff",
-          "player_name": "Mateo Viera",
-          "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
-          "team_name": "Macara",
+          "player_id": "asp_71aa29338031458d8cf810c86723e866",
+          "player_name": "A. Bedoya",
+          "team_id": "ast_fa769caa8fc049b884e6d19f59bb3a7d",
+          "team_name": "Delfin",
           "value": 3
         },
         {
           "rank": 49,
-          "player_id": "asp_3e831b715ff540c0a61e40683f27b15d",
-          "player_name": "Rodríguez Tomás",
-          "team_id": "ast_92f7b4620b7e477d8d5eb57eb8f036e6",
-          "team_name": "Barcelona Guayaquil",
+          "player_id": "asp_ec662ffd583e4a5c9108529f0866fa32",
+          "player_name": "R. Carrillo",
+          "team_id": "ast_e32e2df267f7474f95603b983a467875",
+          "team_name": "Emelec",
           "value": 3
         },
         {
           "rank": 50,
-          "player_id": "asp_cc7932f032614f87a4c31b3af4f8f1b9",
-          "player_name": "I. Zambrano",
-          "team_id": "ast_58812e22c29f430dbbe975f627d43664",
-          "team_name": "Libertad",
+          "player_id": "asp_bcad759b1d5347b1a62ba6cfbeb7157f",
+          "player_name": "Gongora Steven",
+          "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
+          "team_name": "Independiente del Valle",
           "value": 3
         }
       ],
@@ -1116,14 +1110,6 @@
           "value": 9
         },
         {
-          "rank": 11,
-          "player_id": "asp_ec662ffd583e4a5c9108529f0866fa32",
-          "player_name": "埃德蒙多·卡里略·莫拉莱斯·罗尼",
-          "team_id": "ast_976261ebd4974debba981ed009e436f5",
-          "team_name": "穆舒克鲁纳",
-          "value": 9
-        },
-        {
           "rank": 12,
           "player_id": "asp_b0f8960fc70346ec8e3bbf8fd38aac9b",
           "player_name": "毛里西奥·阿隆索",
@@ -1197,6 +1183,14 @@
         },
         {
           "rank": 21,
+          "player_id": "asp_c5720f77ae504bec80fc0da33508fa69",
+          "player_name": "劳尔·金诺内斯·鲁伊斯·霍尼",
+          "team_id": "ast_92f7b4620b7e477d8d5eb57eb8f036e6",
+          "team_name": "巴塞罗那SC",
+          "value": 6
+        },
+        {
+          "rank": 22,
           "player_id": "asp_704db04039994ff88a7f8cf2c0ef5937",
           "player_name": "何塞·安古洛",
           "team_id": "ast_7d7851a20cff48739670bd26567661a4",
@@ -1204,7 +1198,7 @@
           "value": 6
         },
         {
-          "rank": 22,
+          "rank": 23,
           "player_id": "asp_f11de2bb560b41aa97e02234618ddbc0",
           "player_name": "罗纳德·布里奥内斯",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
@@ -1212,19 +1206,11 @@
           "value": 5
         },
         {
-          "rank": 23,
+          "rank": 24,
           "player_id": "asp_a65dc11a185545b5bda472c33c73fc96",
           "player_name": "德伊维森",
           "team_id": "ast_5786f46e30044153862cd8eca62a0556",
           "team_name": "LDU 基多",
-          "value": 5
-        },
-        {
-          "rank": 24,
-          "player_id": "asp_c5720f77ae504bec80fc0da33508fa69",
-          "player_name": "劳尔·金诺内斯·鲁伊斯·霍尼",
-          "team_id": "ast_92f7b4620b7e477d8d5eb57eb8f036e6",
-          "team_name": "巴塞罗那SC",
           "value": 5
         },
         {
@@ -1349,38 +1335,6 @@
         },
         {
           "rank": 40,
-          "player_id": "asp_2026be96c2744b1dbb1b6af36529bc91",
-          "player_name": "哈维尔·乌希纳·戈耶斯·凯文",
-          "team_id": "ast_fa769caa8fc049b884e6d19f59bb3a7d",
-          "team_name": "德尔芬",
-          "value": 4
-        },
-        {
-          "rank": 41,
-          "player_id": "asp_3b03a6f1d0b24c029db5e08d1f712da2",
-          "player_name": "耶尔林·金诺内斯",
-          "team_id": "ast_5786f46e30044153862cd8eca62a0556",
-          "team_name": "LDU 基多",
-          "value": 4
-        },
-        {
-          "rank": 42,
-          "player_id": "asp_37d2f9d775fd4ad98e7792b6a5d19730",
-          "player_name": "朱利安·阿纳亚",
-          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
-          "team_name": "技术大学队",
-          "value": 4
-        },
-        {
-          "rank": 43,
-          "player_id": "asp_f9abd00c49d7415eb6e05ccb5dbd6f0f",
-          "player_name": "乔尔·埃斯图皮南·加西亚·路易斯",
-          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
-          "team_name": "技术大学队",
-          "value": 4
-        },
-        {
-          "rank": 44,
           "player_id": "asp_3ea7f101a91d4acdb1477254244fd3bb",
           "player_name": "瓦伦丁·布尔戈亚",
           "team_id": "ast_f084cf0aec8147b1b442003952c33c47",
@@ -1388,7 +1342,7 @@
           "value": 4
         },
         {
-          "rank": 45,
+          "rank": 41,
           "player_id": "asp_69820db0b158423898100b5212c79da7",
           "player_name": "马特奥·卡斯塔诺",
           "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
@@ -1396,7 +1350,7 @@
           "value": 4
         },
         {
-          "rank": 46,
+          "rank": 42,
           "player_id": "asp_42a75b122759412db4dddf4692f663ad",
           "player_name": "埃迪·梅希亚",
           "team_id": "ast_1c319b291950451a9e1336bceac0af07",
@@ -1404,7 +1358,7 @@
           "value": 4
         },
         {
-          "rank": 47,
+          "rank": 43,
           "player_id": "asp_fe48069e7d274ad8a2e49f3e8024d282",
           "player_name": "马蒂亚斯·克里莫维奇",
           "team_id": "ast_86fc9bae2a07488d9228f0cf0dfb975d",
@@ -1412,27 +1366,59 @@
           "value": 4
         },
         {
+          "rank": 44,
+          "player_id": "asp_2026be96c2744b1dbb1b6af36529bc91",
+          "player_name": "哈维尔·乌希纳·戈耶斯·凯文",
+          "team_id": "ast_fa769caa8fc049b884e6d19f59bb3a7d",
+          "team_name": "德尔芬",
+          "value": 4
+        },
+        {
+          "rank": 45,
+          "player_id": "asp_3b03a6f1d0b24c029db5e08d1f712da2",
+          "player_name": "耶尔林·金诺内斯",
+          "team_id": "ast_5786f46e30044153862cd8eca62a0556",
+          "team_name": "LDU 基多",
+          "value": 4
+        },
+        {
+          "rank": 46,
+          "player_id": "asp_37d2f9d775fd4ad98e7792b6a5d19730",
+          "player_name": "朱利安·阿纳亚",
+          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
+          "team_name": "技术大学队",
+          "value": 4
+        },
+        {
+          "rank": 47,
+          "player_id": "asp_f9abd00c49d7415eb6e05ccb5dbd6f0f",
+          "player_name": "乔尔·埃斯图皮南·加西亚·路易斯",
+          "team_id": "ast_879e96bef6454562ab9ff79246715ed7",
+          "team_name": "技术大学队",
+          "value": 4
+        },
+        {
           "rank": 48,
-          "player_id": "asp_a45eace864b941da88a72275fe0dddff",
-          "player_name": "马特奥·维埃拉",
-          "team_id": "ast_d4a1ae948b4942a9a93558ceb1b896ae",
-          "team_name": "马卡拉",
+          "player_id": "asp_71aa29338031458d8cf810c86723e866",
+          "player_name": "安东尼·贝多亚",
+          "team_id": "ast_fa769caa8fc049b884e6d19f59bb3a7d",
+          "team_name": "德尔芬",
           "value": 3
         },
         {
           "rank": 49,
-          "player_id": "asp_3e831b715ff540c0a61e40683f27b15d",
-          "player_name": "托马斯·罗德里格斯",
-          "team_id": "ast_92f7b4620b7e477d8d5eb57eb8f036e6",
-          "team_name": "巴塞罗那SC",
+          "player_id": "asp_ec662ffd583e4a5c9108529f0866fa32",
+          "player_name": "埃德蒙多·卡里略·莫拉莱斯·罗尼",
+          "team_id": "ast_e32e2df267f7474f95603b983a467875",
+          "team_name": "埃梅莱克",
           "value": 3
         },
         {
           "rank": 50,
-          "player_id": "asp_cc7932f032614f87a4c31b3af4f8f1b9",
-          "player_name": "伊万·赞布拉诺",
-          "team_id": "ast_58812e22c29f430dbbe975f627d43664",
-          "team_name": "自由FC",
+          "player_id": "asp_bcad759b1d5347b1a62ba6cfbeb7157f",
+          "player_name": "史蒂文·贡戈拉",
+          "team_id": "ast_7084d995876b4748bd36c927edc08ee3",
+          "team_name": "独立谷",
           "value": 3
         }
       ]
@@ -3317,7 +3303,7 @@
         "match_id": "as_dbd51ff89c7a429da4b7d212c0d76009",
         "date": "2026-11-28",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -3329,15 +3315,13 @@
           "name": "奥卡斯",
           "team_id": "ast_eca758961bcb4851aaa5539cc312d4dc"
         },
-        "ht_score": "-",
-        "venue": "皮钦查银行纪念碑体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c468f92d7cab4a4d9dbac8b9635c0153",
         "date": "2026-11-28",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -3349,15 +3333,13 @@
           "name": "LDU 基多",
           "team_id": "ast_5786f46e30044153862cd8eca62a0556"
         },
-        "ht_score": "-",
-        "venue": "Estadio Bellavista",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fa5df1f071c148e8a70ab419d418f126",
         "date": "2026-11-28",
         "time": "16:30",
-        "status": "Not Started",
+        "status": "16:30",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -3369,9 +3351,7 @@
           "name": "独立谷",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a16f3b2f89ba4af3803bccdcce207d32",
@@ -9849,7 +9829,7 @@
         "match_id": "as_fa5df1f071c148e8a70ab419d418f126",
         "date": "2026-11-28",
         "time": "16:30",
-        "status": "Not Started",
+        "status": "16:30",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -9861,15 +9841,13 @@
           "name": "独立谷",
           "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_c468f92d7cab4a4d9dbac8b9635c0153",
         "date": "2026-11-28",
         "time": "19:00",
-        "status": "Not Started",
+        "status": "19:00",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -9881,15 +9859,13 @@
           "name": "LDU 基多",
           "team_id": "ast_5786f46e30044153862cd8eca62a0556"
         },
-        "ht_score": "-",
-        "venue": "Estadio Bellavista",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_dbd51ff89c7a429da4b7d212c0d76009",
         "date": "2026-11-28",
         "time": "21:30",
-        "status": "Not Started",
+        "status": "21:30",
         "league": "厄瓜多尔职业联赛",
         "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
         "season": "2026",
@@ -9901,9 +9877,7 @@
           "name": "奥卡斯",
           "team_id": "ast_eca758961bcb4851aaa5539cc312d4dc"
         },
-        "ht_score": "-",
-        "venue": "皮钦查银行纪念碑体育场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_eed07112b74d4bb5880d0e7a14cb7d24",
@@ -9940,27 +9914,6 @@
           "team_id": "ast_f084cf0aec8147b1b442003952c33c47"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_c548c76ed57f4a0182d7da708bda977c",
-        "date": "2026-11-26",
-        "time": "00:00",
-        "status": "FT",
-        "league": "厄瓜多尔职业联赛",
-        "league_id": "asl_d92d453bc7284a2aae91b2b988518ea7",
-        "season": "2026",
-        "home": {
-          "name": "巴塞罗那SC",
-          "team_id": "ast_92f7b4620b7e477d8d5eb57eb8f036e6"
-        },
-        "away": {
-          "name": "独立谷",
-          "team_id": "ast_7084d995876b4748bd36c927edc08ee3"
-        },
-        "ht_score": "0-1",
-        "reg_score": "1-1",
-        "venue": "",
-        "status_label": "完场"
       }
     ]
   },
@@ -15039,7 +14992,7 @@
           }
         ],
         "meta": {
-          "total": 50
+          "total": 49
         }
       }
     },
@@ -15460,7 +15413,7 @@
     "teams_all_time": 32,
     "standings_rows_current": 16,
     "matches_current_season": 312,
-    "upcoming_matches": 19
+    "upcoming_matches": 18
   },
-  "updated_at": "2026/11/26"
+  "updated_at": "2026/11/27"
 }
