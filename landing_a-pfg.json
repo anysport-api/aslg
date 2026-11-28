@@ -326,15 +326,15 @@
         "position": 8,
         "team_id": "ast_941aa3f357384142a24b55e499150344",
         "team": "Slavia Sofia",
-        "played": 15,
+        "played": 16,
         "wins": 2,
-        "draws": 9,
+        "draws": 10,
         "losses": 4,
         "goals_for": 10,
         "goals_against": 10,
         "goal_difference": 0,
-        "points": 15,
-        "form": "DDDDL"
+        "points": 16,
+        "form": "DDDDD"
       },
       {
         "position": 9,
@@ -410,15 +410,15 @@
         "position": 14,
         "team_id": "ast_543ef31737ad40e8bcbc25b315223014",
         "team": "Lok. Sofia",
-        "played": 15,
+        "played": 16,
         "wins": 1,
-        "draws": 6,
+        "draws": 7,
         "losses": 8,
         "goals_for": 16,
         "goals_against": 30,
         "goal_difference": -14,
-        "points": 9,
-        "form": "LLLDD"
+        "points": 10,
+        "form": "DLLLD"
       }
     ],
     "zh": [
@@ -531,16 +531,16 @@
         "position": 8,
         "team_id": "ast_941aa3f357384142a24b55e499150344",
         "team": "索非亚斯拉维亚",
-        "played": 15,
+        "played": 16,
         "wins": 2,
-        "draws": 9,
+        "draws": 10,
         "losses": 4,
         "goals_for": 10,
         "goals_against": 10,
         "goal_difference": 0,
-        "points": 15,
-        "form": "DDDDL",
-        "form_label": "平平平平负"
+        "points": 16,
+        "form": "DDDDD",
+        "form_label": "平平平平平"
       },
       {
         "position": 9,
@@ -621,16 +621,16 @@
         "position": 14,
         "team_id": "ast_543ef31737ad40e8bcbc25b315223014",
         "team": "索非亚火车头",
-        "played": 15,
+        "played": 16,
         "wins": 1,
-        "draws": 6,
+        "draws": 7,
         "losses": 8,
         "goals_for": 16,
         "goals_against": 30,
         "goal_difference": -14,
-        "points": 9,
-        "form": "LLLDD",
-        "form_label": "负负负平平"
+        "points": 10,
+        "form": "DLLLD",
+        "form_label": "平负负负平"
       }
     ]
   },
@@ -4501,7 +4501,7 @@
         "match_id": "as_1897edb0cedc45ada49c96bf461a54c0",
         "date": "2026-11-29",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4513,15 +4513,13 @@
           "name": "索非亚CSKA 1948",
           "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92"
         },
-        "ht_score": "-",
-        "venue": "阿尔达竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_a255e3d343a4461cbf7c2da0f8665554",
         "date": "2026-11-29",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4533,9 +4531,7 @@
           "name": "列夫斯基索非亚",
           "team_id": "ast_0d19b8082c2d41f5b46de0fd986b1918"
         },
-        "ht_score": "-",
-        "venue": "National Stadium Vasil Levski",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_6892eeb305b24d9d80eb19519aec4d41",
@@ -4577,7 +4573,7 @@
         "match_id": "as_9967acbb7c794f72a4232efcc71c24e2",
         "date": "2026-11-28",
         "time": "10:45",
-        "status": "10:45",
+        "status": "0",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4595,7 +4591,7 @@
         "match_id": "as_3d142092570e4addacf0c3140e45f14d",
         "date": "2026-11-27",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -4607,7 +4603,10 @@
           "name": "索非亚斯拉维亚",
           "team_id": "ast_941aa3f357384142a24b55e499150344"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_533a2fa3d0714e7980fb65a851fb72c5",
@@ -6979,7 +6978,7 @@
         "match_id": "as_a255e3d343a4461cbf7c2da0f8665554",
         "date": "2026-11-29",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -6991,15 +6990,13 @@
           "name": "列夫斯基索非亚",
           "team_id": "ast_0d19b8082c2d41f5b46de0fd986b1918"
         },
-        "ht_score": "-",
-        "venue": "National Stadium Vasil Levski",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_1897edb0cedc45ada49c96bf461a54c0",
         "date": "2026-11-29",
         "time": "11:30",
-        "status": "Not Started",
+        "status": "11:30",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -7011,15 +7008,13 @@
           "name": "索非亚CSKA 1948",
           "team_id": "ast_c22a8d77cb554b65998fce4f5453bb92"
         },
-        "ht_score": "-",
-        "venue": "阿尔达竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_9967acbb7c794f72a4232efcc71c24e2",
         "date": "2026-11-28",
         "time": "10:45",
-        "status": "10:45",
+        "status": "0",
         "league": "保加利亚甲级联赛",
         "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
         "season": "2026/2027",
@@ -7066,24 +7061,6 @@
         "away": {
           "name": "卢多戈雷茨",
           "team_id": "ast_7b25ad97c5de43679bf444196dfd98ba"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_3d142092570e4addacf0c3140e45f14d",
-        "date": "2026-11-27",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "保加利亚甲级联赛",
-        "league_id": "asl_aa3f1a09069a45a0bbfc8a29e542f12d",
-        "season": "2026/2027",
-        "home": {
-          "name": "索非亚火车头",
-          "team_id": "ast_543ef31737ad40e8bcbc25b315223014"
-        },
-        "away": {
-          "name": "索非亚斯拉维亚",
-          "team_id": "ast_941aa3f357384142a24b55e499150344"
         },
         "venue": ""
       }
@@ -12501,13 +12478,13 @@
     }
   },
   "stats": {
-    "matches_completed": 104,
+    "matches_completed": 105,
     "total_goals": 275,
-    "avg_goals_per_match": 2.64,
+    "avg_goals_per_match": 2.62,
     "home_wins": 44,
-    "draws": 30,
+    "draws": 31,
     "away_wins": 30,
-    "home_win_pct": 42.3,
+    "home_win_pct": 41.9,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -13305,7 +13282,7 @@
     "teams_all_time": 48,
     "standings_rows_current": 14,
     "matches_current_season": 182,
-    "upcoming_matches": 15
+    "upcoming_matches": 14
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

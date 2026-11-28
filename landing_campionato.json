@@ -6184,6 +6184,26 @@
         "status_label": "未开赛"
       },
       {
+        "match_id": "as_2aee2369fb654473a6e00b57fc2e0540",
+        "date": "2026-12-13",
+        "time": "14:00",
+        "status": "Not Started",
+        "league": "圣马力诺联赛",
+        "league_id": "asl_e7d01b8eb4fb4b5b89d41b21e2b01242",
+        "season": "2026/2027",
+        "home": {
+          "name": "穆拉塔",
+          "team_id": "ast_b7def6baf9e54b62b75cdace606246db"
+        },
+        "away": {
+          "name": "法埃塔诺足球俱乐部",
+          "team_id": "ast_61d482861e71487ea1a1a90c24e1c942"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_b4feb1c8ba9d4ac9a355c862f9e3144f",
         "date": "2026-12-12",
         "time": "14:00",
@@ -6218,26 +6238,6 @@
         "away": {
           "name": "维尔图斯",
           "team_id": "ast_b52a2df18f8d4a2a9d6401c2235223e6"
-        },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_2aee2369fb654473a6e00b57fc2e0540",
-        "date": "2026-12-12",
-        "time": "14:00",
-        "status": "Not Started",
-        "league": "圣马力诺联赛",
-        "league_id": "asl_e7d01b8eb4fb4b5b89d41b21e2b01242",
-        "season": "2026/2027",
-        "home": {
-          "name": "穆拉塔",
-          "team_id": "ast_b7def6baf9e54b62b75cdace606246db"
-        },
-        "away": {
-          "name": "法埃塔诺足球俱乐部",
-          "team_id": "ast_61d482861e71487ea1a1a90c24e1c942"
         },
         "ht_score": "-",
         "venue": "",
@@ -6567,7 +6567,7 @@
         "match_id": "as_cb8b99b98e404938813719c478e48d7e",
         "date": "2026-12-01",
         "time": "20:15",
-        "status": "20:15",
+        "status": "Not Started",
         "league": "圣马力诺联赛",
         "league_id": "asl_e7d01b8eb4fb4b5b89d41b21e2b01242",
         "season": "2026/2027",
@@ -6579,13 +6579,15 @@
           "name": "尤文斯/多加纳",
           "team_id": "ast_4bfc0920a2e44655922a2f58e382d2ad"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_636bcf47999d432daa0cdcf6efa99c04",
         "date": "2026-12-01",
         "time": "20:15",
-        "status": "20:15",
+        "status": "Not Started",
         "league": "圣马力诺联赛",
         "league_id": "asl_e7d01b8eb4fb4b5b89d41b21e2b01242",
         "season": "2026/2027",
@@ -6597,13 +6599,15 @@
           "name": "佛罗伦萨人",
           "team_id": "ast_9906378795934f18896851942f2500c6"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_13757656f742429c91eb706233daa712",
         "date": "2026-12-01",
         "time": "20:15",
-        "status": "20:15",
+        "status": "Not Started",
         "league": "圣马力诺联赛",
         "league_id": "asl_e7d01b8eb4fb4b5b89d41b21e2b01242",
         "season": "2026/2027",
@@ -6615,7 +6619,9 @@
           "name": "福尔戈雷",
           "team_id": "ast_8d660156ccd0475e85aa87411b977a1d"
         },
-        "venue": ""
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
       },
       {
         "match_id": "as_63c736e8c0ae420494375e893e722c6c",
@@ -9332,5 +9338,5 @@
     "matches_current_season": 256,
     "upcoming_matches": 40
   },
-  "updated_at": "2026/11/24"
+  "updated_at": "2026/11/28"
 }

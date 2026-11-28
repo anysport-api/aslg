@@ -7713,6 +7713,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_34a38f3b2d714511a645331c530867d3",
+        "date": "2026-12-04",
+        "time": "10:30",
+        "status": "Not Started",
+        "league": "乌克兰第二级联赛",
+        "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
+        "season": "2026/2027",
+        "home": {
+          "name": "卡尔本切尔卡西",
+          "team_id": "ast_bc5268a3ce284d8cad20fab64c1504c9"
+        },
+        "away": {
+          "name": "反叛者基辅",
+          "team_id": "ast_10ea0a6d80bb46dd85ef6efc9f3848ad"
+        },
+        "ht_score": "-",
+        "venue": "",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_06479f44f90e4e87b72c962083106bde",
         "date": "2026-11-29",
         "time": "11:00",
@@ -7752,7 +7772,7 @@
         "match_id": "as_d1260a7ac39647d6b457245f522df4fa",
         "date": "2026-11-28",
         "time": "09:30",
-        "status": "09:30",
+        "status": "Delayed",
         "league": "乌克兰第二级联赛",
         "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
         "season": "2026/2027",
@@ -7764,13 +7784,14 @@
           "name": "基辅竞技",
           "team_id": "ast_d6bd88a6cbdc40faa379ad682fbf2db1"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "推迟"
       },
       {
         "match_id": "as_dad2747be459478f969ce5d0a92e13bc",
         "date": "2026-11-28",
         "time": "10:30",
-        "status": "10:30",
+        "status": "Delayed",
         "league": "乌克兰第二级联赛",
         "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
         "season": "2026/2027",
@@ -7782,7 +7803,8 @@
           "name": "卡尔本切尔卡西",
           "team_id": "ast_bc5268a3ce284d8cad20fab64c1504c9"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "推迟"
       },
       {
         "match_id": "as_43116a8cf6ae453abc3cae17e26f176e",
@@ -7824,7 +7846,7 @@
         "match_id": "as_c9bb7fee00974afe9461953f8699608a",
         "date": "2026-11-28",
         "time": "10:00",
-        "status": "10:00",
+        "status": "Delayed",
         "league": "乌克兰第二级联赛",
         "league_id": "asl_ae0216b033314717a8ce7fd9ce28d9d2",
         "season": "2026/2027",
@@ -7836,7 +7858,8 @@
           "name": "洛佐瓦",
           "team_id": "ast_638ab31af5ed4eceabb6c508a4402817"
         },
-        "venue": ""
+        "venue": "",
+        "status_label": "推迟"
       },
       {
         "match_id": "as_a33eaf0fe6d047a580f4ba72a8c473c1",
@@ -11427,7 +11450,7 @@
     "teams_all_time": 83,
     "standings_rows_current": 22,
     "matches_current_season": 332,
-    "upcoming_matches": 8
+    "upcoming_matches": 9
   },
-  "updated_at": "2026/11/24"
+  "updated_at": "2026/11/28"
 }

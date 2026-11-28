@@ -174,6 +174,20 @@
       },
       {
         "position": 2,
+        "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
+        "team": "Torpedo Moscow",
+        "played": 20,
+        "wins": 11,
+        "draws": 5,
+        "losses": 4,
+        "goals_for": 32,
+        "goals_against": 16,
+        "goal_difference": 16,
+        "points": 38,
+        "form": "WLWWD"
+      },
+      {
+        "position": 3,
         "team_id": "ast_702795b564e746e3bd442b571cd8f52d",
         "team": "Ural",
         "played": 19,
@@ -185,20 +199,6 @@
         "goal_difference": 20,
         "points": 38,
         "form": "DWWWW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
-        "team": "Torpedo Moscow",
-        "played": 19,
-        "wins": 10,
-        "draws": 5,
-        "losses": 4,
-        "goals_for": 30,
-        "goals_against": 16,
-        "goal_difference": 14,
-        "points": 35,
-        "form": "LWWDD"
       },
       {
         "position": 4,
@@ -330,15 +330,15 @@
         "position": 13,
         "team_id": "ast_aaec59d73ecc4f30991d851b573250ae",
         "team": "SKA Khabarovsk",
-        "played": 19,
+        "played": 20,
         "wins": 5,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 25,
-        "goals_against": 29,
-        "goal_difference": -4,
+        "goals_against": 31,
+        "goal_difference": -6,
         "points": 20,
-        "form": "DWWWW"
+        "form": "LDWWW"
       },
       {
         "position": 14,
@@ -429,6 +429,21 @@
       },
       {
         "position": 2,
+        "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
+        "team": "莫斯科火车头",
+        "played": 20,
+        "wins": 11,
+        "draws": 5,
+        "losses": 4,
+        "goals_for": 32,
+        "goals_against": 16,
+        "goal_difference": 16,
+        "points": 38,
+        "form": "WLWWD",
+        "form_label": "胜负胜胜平"
+      },
+      {
+        "position": 3,
         "team_id": "ast_702795b564e746e3bd442b571cd8f52d",
         "team": "乌拉尔",
         "played": 19,
@@ -441,21 +456,6 @@
         "points": 38,
         "form": "DWWWW",
         "form_label": "平胜胜胜胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
-        "team": "莫斯科火车头",
-        "played": 19,
-        "wins": 10,
-        "draws": 5,
-        "losses": 4,
-        "goals_for": 30,
-        "goals_against": 16,
-        "goal_difference": 14,
-        "points": 35,
-        "form": "LWWDD",
-        "form_label": "负胜胜平平"
       },
       {
         "position": 4,
@@ -596,16 +596,16 @@
         "position": 13,
         "team_id": "ast_aaec59d73ecc4f30991d851b573250ae",
         "team": "SKA哈巴罗夫斯克",
-        "played": 19,
+        "played": 20,
         "wins": 5,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "goals_for": 25,
-        "goals_against": 29,
-        "goal_difference": -4,
+        "goals_against": 31,
+        "goal_difference": -6,
         "points": 20,
-        "form": "DWWWW",
-        "form_label": "平胜胜胜胜"
+        "form": "LDWWW",
+        "form_label": "负平胜胜胜"
       },
       {
         "position": 14,
@@ -3265,7 +3265,7 @@
         "match_id": "as_afbe735b643141e98c7ffacc3869d9f5",
         "date": "2026-11-29",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -3277,15 +3277,13 @@
           "name": "乌里扬诺夫斯克",
           "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
         },
-        "ht_score": "-",
-        "venue": "罗希诺竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_382fc49d21e743e59a2796d39eef151a",
         "date": "2026-11-29",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -3297,15 +3295,13 @@
           "name": "帕里NN",
           "team_id": "ast_527b6ce77a1448a29232f307f0762061"
         },
-        "ht_score": "-",
-        "venue": "Neftekhimik Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_81177a6247e6468d9e2eab8034a300ee",
         "date": "2026-11-29",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -3317,15 +3313,13 @@
           "name": "卡马兹",
           "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
         },
-        "ht_score": "-",
-        "venue": "伏尔加格勒竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e761909e6a914671b281a9c16dfa126a",
         "date": "2026-11-29",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -3337,15 +3331,13 @@
           "name": "车里雅宾斯克",
           "team_id": "ast_c558734cfef24f09b38fa798defcd0d3"
         },
-        "ht_score": "-",
-        "venue": "Stadion Urozhay",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7078e7e472764c24ad07cf988cadd0ef",
         "date": "2026-11-29",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -3357,15 +3349,13 @@
           "name": "乌法",
           "team_id": "ast_9d81322700074b689aae3ab50960eca5"
         },
-        "ht_score": "-",
-        "venue": "Avangard Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f586dbb4047d49a08f69b0f41d2d70aa",
         "date": "2026-11-27",
         "time": "16:30",
-        "status": "16:30",
+        "status": "FT",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -3377,7 +3367,10 @@
           "name": "SKA哈巴罗夫斯克",
           "team_id": "ast_aaec59d73ecc4f30991d851b573250ae"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_af76a71132ff4dbbb161eaae071c351a",
@@ -3397,7 +3390,7 @@
         },
         "ht_score": "1-1",
         "reg_score": "1-2",
-        "venue": "",
+        "venue": "Sovcombank Arena",
         "status_label": "完场"
       },
       {
@@ -3418,7 +3411,7 @@
         },
         "ht_score": "0-0",
         "reg_score": "1-1",
-        "venue": "",
+        "venue": "Yekaterinburg Arena",
         "status_label": "完场"
       },
       {
@@ -7217,7 +7210,7 @@
         "match_id": "as_7078e7e472764c24ad07cf988cadd0ef",
         "date": "2026-11-29",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -7229,15 +7222,13 @@
           "name": "乌法",
           "team_id": "ast_9d81322700074b689aae3ab50960eca5"
         },
-        "ht_score": "-",
-        "venue": "Avangard Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_e761909e6a914671b281a9c16dfa126a",
         "date": "2026-11-29",
         "time": "14:00",
-        "status": "Not Started",
+        "status": "14:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -7249,15 +7240,13 @@
           "name": "车里雅宾斯克",
           "team_id": "ast_c558734cfef24f09b38fa798defcd0d3"
         },
-        "ht_score": "-",
-        "venue": "Stadion Urozhay",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_81177a6247e6468d9e2eab8034a300ee",
         "date": "2026-11-29",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -7269,15 +7258,13 @@
           "name": "卡马兹",
           "team_id": "ast_7e78e597bddb4e79952377f457b36ab6"
         },
-        "ht_score": "-",
-        "venue": "伏尔加格勒竞技场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_382fc49d21e743e59a2796d39eef151a",
         "date": "2026-11-29",
         "time": "12:00",
-        "status": "Not Started",
+        "status": "12:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -7289,15 +7276,13 @@
           "name": "帕里NN",
           "team_id": "ast_527b6ce77a1448a29232f307f0762061"
         },
-        "ht_score": "-",
-        "venue": "Neftekhimik Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_afbe735b643141e98c7ffacc3869d9f5",
         "date": "2026-11-29",
         "time": "11:00",
-        "status": "Not Started",
+        "status": "11:00",
         "league": "俄罗斯甲级联赛",
         "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
         "season": "2026/2027",
@@ -7308,26 +7293,6 @@
         "away": {
           "name": "乌里扬诺夫斯克",
           "team_id": "ast_c3d1b367662241dca502451eb81edb7b"
-        },
-        "ht_score": "-",
-        "venue": "罗希诺竞技场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_f586dbb4047d49a08f69b0f41d2d70aa",
-        "date": "2026-11-27",
-        "time": "16:30",
-        "status": "16:30",
-        "league": "俄罗斯甲级联赛",
-        "league_id": "asl_dedd781f11b346cbb482129f6bf5db84",
-        "season": "2026/2027",
-        "home": {
-          "name": "莫斯科火车头",
-          "team_id": "ast_4669036fd9ec413086b2f8e931e92a89"
-        },
-        "away": {
-          "name": "SKA哈巴罗夫斯克",
-          "team_id": "ast_aaec59d73ecc4f30991d851b573250ae"
         },
         "venue": ""
       }
@@ -14312,13 +14277,13 @@
     }
   },
   "stats": {
-    "matches_completed": 172,
-    "total_goals": 465,
+    "matches_completed": 173,
+    "total_goals": 467,
     "avg_goals_per_match": 2.7,
-    "home_wins": 69,
+    "home_wins": 70,
     "draws": 47,
     "away_wins": 56,
-    "home_win_pct": 40.1,
+    "home_win_pct": 40.5,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -14455,6 +14420,20 @@
           },
           {
             "position": 2,
+            "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
+            "team": "Torpedo Moscow",
+            "played": 20,
+            "wins": 11,
+            "draws": 5,
+            "losses": 4,
+            "goals_for": 32,
+            "goals_against": 16,
+            "goal_difference": 16,
+            "points": 38,
+            "form": "WLWWD"
+          },
+          {
+            "position": 3,
             "team_id": "ast_702795b564e746e3bd442b571cd8f52d",
             "team": "Ural",
             "played": 19,
@@ -14466,20 +14445,6 @@
             "goal_difference": 20,
             "points": 38,
             "form": "DWWWW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_4669036fd9ec413086b2f8e931e92a89",
-            "team": "Torpedo Moscow",
-            "played": 19,
-            "wins": 10,
-            "draws": 5,
-            "losses": 4,
-            "goals_for": 30,
-            "goals_against": 16,
-            "goal_difference": 14,
-            "points": 35,
-            "form": "LWWDD"
           }
         ],
         "meta": {
@@ -15116,7 +15081,7 @@
     "teams_all_time": 87,
     "standings_rows_current": 18,
     "matches_current_season": 306,
-    "upcoming_matches": 17
+    "upcoming_matches": 16
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

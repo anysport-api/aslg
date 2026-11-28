@@ -3277,7 +3277,7 @@
         "match_id": "as_6471dcc0494f4486909294d006e548ec",
         "date": "2026-12-02",
         "time": "12:30",
-        "status": "Not Started",
+        "status": "12:30",
         "league": "菲律宾UFL联赛",
         "league_id": "asl_bb8219c5d59e4ae299c9e9eed273ad21",
         "season": "2026/2027",
@@ -3289,15 +3289,13 @@
           "name": "卡亚",
           "team_id": "ast_3552614806714d5bbec6fc0240e8a913"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_7ce5cf668fe2442ebe68d6e903ee2b88",
         "date": "2026-12-02",
         "time": "07:00",
-        "status": "Not Started",
+        "status": "07:00",
         "league": "菲律宾UFL联赛",
         "league_id": "asl_bb8219c5d59e4ae299c9e9eed273ad21",
         "season": "2026/2027",
@@ -3309,15 +3307,13 @@
           "name": "门迪奥拉FC 1991",
           "team_id": "ast_c9c638fd558a4bc386ef69e86be2f442"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4caa410638c447d18bdfa680719d920a",
         "date": "2026-12-02",
         "time": "09:45",
-        "status": "Not Started",
+        "status": "09:45",
         "league": "菲律宾UFL联赛",
         "league_id": "asl_bb8219c5d59e4ae299c9e9eed273ad21",
         "season": "2026/2027",
@@ -3329,9 +3325,7 @@
           "name": "宿务FC",
           "team_id": "ast_051c73d4aded402d906f5cdd3b5b54ef"
         },
-        "ht_score": "-",
-        "venue": "",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_4c71488f163442549613327f30fea715",
@@ -3354,8 +3348,8 @@
       {
         "match_id": "as_43496b9559354bd8af2100983d611b22",
         "date": "2026-11-29",
-        "time": "09:45",
-        "status": "09:45",
+        "time": "08:00",
+        "status": "08:00",
         "league": "菲律宾UFL联赛",
         "league_id": "asl_bb8219c5d59e4ae299c9e9eed273ad21",
         "season": "2026/2027",
@@ -3372,8 +3366,8 @@
       {
         "match_id": "as_92420f11acc3425997b03af11ccb9a3d",
         "date": "2026-11-29",
-        "time": "12:30",
-        "status": "12:30",
+        "time": "11:00",
+        "status": "11:00",
         "league": "菲律宾UFL联赛",
         "league_id": "asl_bb8219c5d59e4ae299c9e9eed273ad21",
         "season": "2026/2027",
@@ -3391,7 +3385,7 @@
         "match_id": "as_85f28c05a1e84ca68baa798349d6208f",
         "date": "2026-11-28",
         "time": "11:00",
-        "status": "11:00",
+        "status": "44",
         "league": "菲律宾UFL联赛",
         "league_id": "asl_bb8219c5d59e4ae299c9e9eed273ad21",
         "season": "2026/2027",
@@ -3403,13 +3397,15 @@
           "name": "马尼拉挖掘者",
           "team_id": "ast_39ea09a59b7c4759981c13fca4da392b"
         },
+        "ht_score": "0-1",
+        "reg_score": "0-1",
         "venue": ""
       },
       {
         "match_id": "as_b2fbd1bd04f84fd8b118f64415c3c05a",
         "date": "2026-11-28",
         "time": "08:00",
-        "status": "08:00",
+        "status": "FT",
         "league": "菲律宾UFL联赛",
         "league_id": "asl_bb8219c5d59e4ae299c9e9eed273ad21",
         "season": "2026/2027",
@@ -3421,7 +3417,10 @@
           "name": "卡亚",
           "team_id": "ast_3552614806714d5bbec6fc0240e8a913"
         },
-        "venue": ""
+        "ht_score": "0-2",
+        "reg_score": "1-6",
+        "venue": "",
+        "status_label": "完场"
       }
     ]
   },
@@ -4470,5 +4469,5 @@
     "matches_current_season": 135,
     "upcoming_matches": 10
   },
-  "updated_at": "2026/11/24"
+  "updated_at": "2026/11/28"
 }

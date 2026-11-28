@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
@@ -353,7 +353,7 @@
         "match_id": "as_ded7247cbbaf49d88ffb3db160d21e02",
         "date": "2026-11-27",
         "time": "17:30",
-        "status": "17:30",
+        "status": "AET",
         "league": "爱沙尼亚乙级联赛B组",
         "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
         "season": "2026",
@@ -365,7 +365,11 @@
           "name": "Viimsi JK U21",
           "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "1-1",
+        "et_score": "0-1",
+        "venue": "",
+        "status_label": "加时赛后结束"
       },
       {
         "match_id": "as_53d666859eff40d8a6592f4633ba3c4e",
@@ -4169,26 +4173,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_ded7247cbbaf49d88ffb3db160d21e02",
-        "date": "2026-11-27",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "爱沙尼亚乙级联赛B组",
-        "league_id": "asl_b4c487c028874ab0bc98bae7187617bc",
-        "season": "2026",
-        "home": {
-          "name": "塔林卡列夫U21",
-          "team_id": "ast_71c2b12883764488b51fe5136ef5c65d"
-        },
-        "away": {
-          "name": "Viimsi JK U21",
-          "team_id": "ast_73b5f1efe5084be6975d68c9352e8a8f"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -4569,13 +4554,13 @@
     }
   },
   "stats": {
-    "matches_completed": 181,
-    "total_goals": 783,
-    "avg_goals_per_match": 4.33,
+    "matches_completed": 182,
+    "total_goals": 785,
+    "avg_goals_per_match": 4.31,
     "home_wins": 100,
-    "draws": 21,
+    "draws": 22,
     "away_wins": 60,
-    "home_win_pct": 55.2,
+    "home_win_pct": 54.9,
     "biggest_win": {
       "margin": 12,
       "match": {
@@ -5335,7 +5320,7 @@
     "teams_all_time": 15,
     "standings_rows_current": 10,
     "matches_current_season": 182,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

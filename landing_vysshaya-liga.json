@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
@@ -166,6 +166,20 @@
       },
       {
         "position": 4,
+        "team_id": "ast_7e929f8928a84f40a7714d11051c1f95",
+        "team": "Khujand",
+        "played": 22,
+        "wins": 8,
+        "draws": 9,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 14,
+        "goal_difference": 5,
+        "points": 33,
+        "form": "DWDLD"
+      },
+      {
+        "position": 5,
         "team_id": "ast_a0a0dc9a14ce4822ac4f7c8e39f21ef9",
         "team": "CSKA Pomir Dushanbe",
         "played": 22,
@@ -177,20 +191,6 @@
         "goal_difference": -1,
         "points": 32,
         "form": "DWLDL"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_7e929f8928a84f40a7714d11051c1f95",
-        "team": "Khujand",
-        "played": 21,
-        "wins": 8,
-        "draws": 8,
-        "losses": 5,
-        "goals_for": 19,
-        "goals_against": 14,
-        "goal_difference": 5,
-        "points": 32,
-        "form": "WDLDW"
       },
       {
         "position": 6,
@@ -208,6 +208,20 @@
       },
       {
         "position": 7,
+        "team_id": "ast_6457475ae9194c228f139f98870a95ab",
+        "team": "Barkchi Hisor",
+        "played": 22,
+        "wins": 8,
+        "draws": 6,
+        "losses": 8,
+        "goals_for": 27,
+        "goals_against": 31,
+        "goal_difference": -4,
+        "points": 30,
+        "form": "DLDDW"
+      },
+      {
+        "position": 8,
         "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1",
         "team": "Vakhsh",
         "played": 22,
@@ -219,20 +233,6 @@
         "goal_difference": 5,
         "points": 30,
         "form": "WLDWW"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_6457475ae9194c228f139f98870a95ab",
-        "team": "Barkchi Hisor",
-        "played": 21,
-        "wins": 8,
-        "draws": 5,
-        "losses": 8,
-        "goals_for": 27,
-        "goals_against": 31,
-        "goal_difference": -4,
-        "points": 29,
-        "form": "LDDWL"
       },
       {
         "position": 9,
@@ -339,6 +339,21 @@
       },
       {
         "position": 4,
+        "team_id": "ast_7e929f8928a84f40a7714d11051c1f95",
+        "team": "胡贾德",
+        "played": 22,
+        "wins": 8,
+        "draws": 9,
+        "losses": 5,
+        "goals_for": 19,
+        "goals_against": 14,
+        "goal_difference": 5,
+        "points": 33,
+        "form": "DWDLD",
+        "form_label": "平胜平负平"
+      },
+      {
+        "position": 5,
         "team_id": "ast_a0a0dc9a14ce4822ac4f7c8e39f21ef9",
         "team": "杜尚别CSKA Pomir",
         "played": 22,
@@ -351,21 +366,6 @@
         "points": 32,
         "form": "DWLDL",
         "form_label": "平胜负平负"
-      },
-      {
-        "position": 5,
-        "team_id": "ast_7e929f8928a84f40a7714d11051c1f95",
-        "team": "胡贾德",
-        "played": 21,
-        "wins": 8,
-        "draws": 8,
-        "losses": 5,
-        "goals_for": 19,
-        "goals_against": 14,
-        "goal_difference": 5,
-        "points": 32,
-        "form": "WDLDW",
-        "form_label": "胜平负平胜"
       },
       {
         "position": 6,
@@ -384,6 +384,21 @@
       },
       {
         "position": 7,
+        "team_id": "ast_6457475ae9194c228f139f98870a95ab",
+        "team": "巴尔基奇希索尔",
+        "played": 22,
+        "wins": 8,
+        "draws": 6,
+        "losses": 8,
+        "goals_for": 27,
+        "goals_against": 31,
+        "goal_difference": -4,
+        "points": 30,
+        "form": "DLDDW",
+        "form_label": "平负平平胜"
+      },
+      {
+        "position": 8,
         "team_id": "ast_fce3dd54d17c45e28c75b08d5d4303a1",
         "team": "瓦赫什",
         "played": 22,
@@ -396,21 +411,6 @@
         "points": 30,
         "form": "WLDWW",
         "form_label": "胜负平胜胜"
-      },
-      {
-        "position": 8,
-        "team_id": "ast_6457475ae9194c228f139f98870a95ab",
-        "team": "巴尔基奇希索尔",
-        "played": 21,
-        "wins": 8,
-        "draws": 5,
-        "losses": 8,
-        "goals_for": 27,
-        "goals_against": 31,
-        "goal_difference": -4,
-        "points": 29,
-        "form": "LDDWL",
-        "form_label": "负平平胜负"
       },
       {
         "position": 9,
@@ -495,7 +495,7 @@
         "match_id": "as_4cd553899ba047db8d1a0ba0068655a6",
         "date": "2026-11-27",
         "time": "09:00",
-        "status": "09:00",
+        "status": "FT",
         "league": "塔吉克斯坦Vysshaya Liga",
         "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
         "season": "2026",
@@ -507,7 +507,10 @@
           "name": "巴尔基奇希索尔",
           "team_id": "ast_6457475ae9194c228f139f98870a95ab"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "0-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_1b29dc6c5ebc4ac6b540f83bafd4de3f",
@@ -3261,26 +3264,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_4cd553899ba047db8d1a0ba0068655a6",
-        "date": "2026-11-27",
-        "time": "09:00",
-        "status": "09:00",
-        "league": "塔吉克斯坦Vysshaya Liga",
-        "league_id": "asl_e873fce7a3544ad2b4a4e8fe652e419e",
-        "season": "2026",
-        "home": {
-          "name": "胡贾德",
-          "team_id": "ast_7e929f8928a84f40a7714d11051c1f95"
-        },
-        "away": {
-          "name": "巴尔基奇希索尔",
-          "team_id": "ast_6457475ae9194c228f139f98870a95ab"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -4681,13 +4665,13 @@
     }
   },
   "stats": {
-    "matches_completed": 131,
+    "matches_completed": 132,
     "total_goals": 329,
-    "avg_goals_per_match": 2.51,
+    "avg_goals_per_match": 2.49,
     "home_wins": 50,
-    "draws": 41,
+    "draws": 42,
     "away_wins": 40,
-    "home_win_pct": 38.2,
+    "home_win_pct": 37.9,
     "biggest_win": {
       "margin": 8,
       "match": {
@@ -5448,7 +5432,7 @@
     "teams_all_time": 19,
     "standings_rows_current": 12,
     "matches_current_season": 132,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

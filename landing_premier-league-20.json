@@ -7916,6 +7916,26 @@
     ],
     "upcoming": [
       {
+        "match_id": "as_0d3d110bdf1743ffa2edae6e70c4e7f7",
+        "date": "2027-01-12",
+        "time": "19:45",
+        "status": "Not Started",
+        "league": "苏格兰超级联赛",
+        "league_id": "asl_60d46ec5c64a44898f1fd46526ca3fcf",
+        "season": "2026/2027",
+        "home": {
+          "name": "邓迪联",
+          "team_id": "ast_9d45838c40e6412186ba1bf9832b02e9"
+        },
+        "away": {
+          "name": "哈茨",
+          "team_id": "ast_5f847045e96c49d7bef1ece7eb1dcee2"
+        },
+        "ht_score": "-",
+        "venue": "Tannadice Park",
+        "status_label": "未开赛"
+      },
+      {
         "match_id": "as_f394c6b706104c989401810408cb3cf1",
         "date": "2027-01-09",
         "time": "15:00",
@@ -8839,7 +8859,7 @@
         "match_id": "as_36761621d9af4ad9b08ae1126fd9ab4f",
         "date": "2026-11-29",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "苏格兰超级联赛",
         "league_id": "asl_60d46ec5c64a44898f1fd46526ca3fcf",
         "season": "2026/2027",
@@ -8851,15 +8871,13 @@
           "name": "凯尔特人",
           "team_id": "ast_39d76652783441ea940cc0f5557e558e"
         },
-        "ht_score": "-",
-        "venue": "泰恩河畔城堡公园球场",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_fbf29c2dc05444d5a45f06fac786e177",
         "date": "2026-11-28",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "苏格兰超级联赛",
         "league_id": "asl_60d46ec5c64a44898f1fd46526ca3fcf",
         "season": "2026/2027",
@@ -8871,15 +8889,13 @@
           "name": "基尔马诺克",
           "team_id": "ast_73c37d08663c4b489335eb1051b184c5"
         },
-        "ht_score": "-",
-        "venue": "St Mirren Park",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_f2a8ca000a9842a8b189aaafe0f9045b",
         "date": "2026-11-28",
         "time": "15:00",
-        "status": "Not Started",
+        "status": "15:00",
         "league": "苏格兰超级联赛",
         "league_id": "asl_60d46ec5c64a44898f1fd46526ca3fcf",
         "season": "2026/2027",
@@ -8891,29 +8907,7 @@
           "name": "法尔基尔",
           "team_id": "ast_2a272fefd28249abbf3f4fd57231d8e8"
         },
-        "ht_score": "-",
-        "venue": "埃布罗克斯球场",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_c19fd5556ad9486285585110e9621536",
-        "date": "2026-11-28",
-        "time": "17:45",
-        "status": "Not Started",
-        "league": "苏格兰超级联赛",
-        "league_id": "asl_60d46ec5c64a44898f1fd46526ca3fcf",
-        "season": "2026/2027",
-        "home": {
-          "name": "马瑟韦尔",
-          "team_id": "ast_a475d9d725814e08b6a231850e6fb46c"
-        },
-        "away": {
-          "name": "希伯尼安",
-          "team_id": "ast_8e62d408016546128aba8644c0a7a678"
-        },
-        "ht_score": "-",
-        "venue": "枞树公园球场",
-        "status_label": "未开赛"
+        "venue": ""
       }
     ]
   },
@@ -13679,5 +13673,5 @@
     "matches_current_season": 234,
     "upcoming_matches": 50
   },
-  "updated_at": "2026/11/26"
+  "updated_at": "2026/11/28"
 }

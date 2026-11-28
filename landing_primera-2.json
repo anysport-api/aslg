@@ -14,7 +14,7 @@
     "is_cup": false
   },
   "current_season": "2026",
-  "current_season_in_progress": true,
+  "current_season_in_progress": false,
   "seasons": [
     {
       "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
@@ -665,19 +665,24 @@
         "match_id": "as_d33526eacad44d0baa3045299fb865ba",
         "date": "2026-11-27",
         "time": "23:30",
-        "status": "23:30",
+        "status": "Pen.",
         "league": "乌拉圭甲级联赛",
         "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
         "season": "2026",
         "home": {
-          "name": "蒙得维的亚竞技",
-          "team_id": "ast_d00746fec114471880772005ba79dfab"
-        },
-        "away": {
           "name": "利物浦M队",
           "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b"
         },
-        "venue": ""
+        "away": {
+          "name": "蒙得维的亚竞技",
+          "team_id": "ast_d00746fec114471880772005ba79dfab"
+        },
+        "ht_score": "0-1",
+        "reg_score": "2-2",
+        "et_score": "0-0",
+        "penalty_score": "4-2",
+        "venue": "",
+        "status_label": "点球决胜"
       },
       {
         "match_id": "as_c721fa46444c4a7f90526efa6a6efb81",
@@ -6917,26 +6922,7 @@
         "status_label": "完场"
       }
     ],
-    "upcoming": [
-      {
-        "match_id": "as_d33526eacad44d0baa3045299fb865ba",
-        "date": "2026-11-27",
-        "time": "23:30",
-        "status": "23:30",
-        "league": "乌拉圭甲级联赛",
-        "league_id": "asl_1b1e8572c4cd4cf6a84e860dd0012059",
-        "season": "2026",
-        "home": {
-          "name": "蒙得维的亚竞技",
-          "team_id": "ast_d00746fec114471880772005ba79dfab"
-        },
-        "away": {
-          "name": "利物浦M队",
-          "team_id": "ast_abc5ea409b554a69ab8ddd5b9c3b395b"
-        },
-        "venue": ""
-      }
-    ]
+    "upcoming": []
   },
   "champions": [
     {
@@ -12281,13 +12267,13 @@
     }
   },
   "stats": {
-    "matches_completed": 297,
-    "total_goals": 702,
-    "avg_goals_per_match": 2.36,
+    "matches_completed": 298,
+    "total_goals": 706,
+    "avg_goals_per_match": 2.37,
     "home_wins": 124,
-    "draws": 77,
+    "draws": 78,
     "away_wins": 96,
-    "home_win_pct": 41.8,
+    "home_win_pct": 41.6,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -13026,7 +13012,7 @@
     "teams_all_time": 34,
     "standings_rows_current": 16,
     "matches_current_season": 298,
-    "upcoming_matches": 1
+    "upcoming_matches": 0
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

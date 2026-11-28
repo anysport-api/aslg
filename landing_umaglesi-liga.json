@@ -256,6 +256,20 @@
     "en": [
       {
         "position": 1,
+        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
+        "team": "Dinamo Batumi",
+        "played": 34,
+        "wins": 19,
+        "draws": 8,
+        "losses": 7,
+        "goals_for": 60,
+        "goals_against": 41,
+        "goal_difference": 19,
+        "points": 65,
+        "form": "WWLWW"
+      },
+      {
+        "position": 2,
         "team_id": "ast_9079ae9734e140a289c4d85e39937659",
         "team": "Iberia 1999",
         "played": 34,
@@ -269,7 +283,7 @@
         "form": "WDWDW"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
         "team": "Dinamo Tbilisi",
         "played": 34,
@@ -281,20 +295,6 @@
         "goal_difference": 21,
         "points": 62,
         "form": "WDWDW"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
-        "team": "Dinamo Batumi",
-        "played": 33,
-        "wins": 18,
-        "draws": 8,
-        "losses": 7,
-        "goals_for": 58,
-        "goals_against": 41,
-        "goal_difference": 17,
-        "points": 62,
-        "form": "WLWWW"
       },
       {
         "position": 4,
@@ -328,15 +328,15 @@
         "position": 6,
         "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
         "team": "Dila Gori",
-        "played": 33,
+        "played": 34,
         "wins": 13,
         "draws": 4,
-        "losses": 16,
+        "losses": 17,
         "goals_for": 44,
-        "goals_against": 43,
-        "goal_difference": 1,
+        "goals_against": 45,
+        "goal_difference": -1,
         "points": 43,
-        "form": "WLLLL"
+        "form": "LWLLL"
       },
       {
         "position": 7,
@@ -398,6 +398,21 @@
     "zh": [
       {
         "position": 1,
+        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
+        "team": "巴统迪纳摩",
+        "played": 34,
+        "wins": 19,
+        "draws": 8,
+        "losses": 7,
+        "goals_for": 60,
+        "goals_against": 41,
+        "goal_difference": 19,
+        "points": 65,
+        "form": "WWLWW",
+        "form_label": "胜胜负胜胜"
+      },
+      {
+        "position": 2,
         "team_id": "ast_9079ae9734e140a289c4d85e39937659",
         "team": "伊比利亚",
         "played": 34,
@@ -412,7 +427,7 @@
         "form_label": "胜平胜平胜"
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
         "team": "第比利斯迪纳摩",
         "played": 34,
@@ -425,21 +440,6 @@
         "points": 62,
         "form": "WDWDW",
         "form_label": "胜平胜平胜"
-      },
-      {
-        "position": 3,
-        "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
-        "team": "巴统迪纳摩",
-        "played": 33,
-        "wins": 18,
-        "draws": 8,
-        "losses": 7,
-        "goals_for": 58,
-        "goals_against": 41,
-        "goal_difference": 17,
-        "points": 62,
-        "form": "WLWWW",
-        "form_label": "胜负胜胜胜"
       },
       {
         "position": 4,
@@ -475,16 +475,16 @@
         "position": 6,
         "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7",
         "team": "迪拉",
-        "played": 33,
+        "played": 34,
         "wins": 13,
         "draws": 4,
-        "losses": 16,
+        "losses": 17,
         "goals_for": 44,
-        "goals_against": 43,
-        "goal_difference": 1,
+        "goals_against": 45,
+        "goal_difference": -1,
         "points": 43,
-        "form": "WLLLL",
-        "form_label": "胜负负负负"
+        "form": "LWLLL",
+        "form_label": "负胜负负负"
       },
       {
         "position": 7,
@@ -749,7 +749,7 @@
         "match_id": "as_2d04c1f2ea314e08af302b076c832e2b",
         "date": "2026-11-29",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -761,15 +761,13 @@
           "name": "第比利斯迪纳摩",
           "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b"
         },
-        "ht_score": "-",
-        "venue": "Agrano Vachadze Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_acc29885a27447c9a2c784d2aa828b43",
         "date": "2026-11-27",
         "time": "16:00",
-        "status": "16:00",
+        "status": "FT",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -781,7 +779,10 @@
           "name": "迪拉",
           "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3965b1d499a04c5c9d86ecfac50b28bb",
@@ -4518,7 +4519,7 @@
         "match_id": "as_2d04c1f2ea314e08af302b076c832e2b",
         "date": "2026-11-29",
         "time": "09:30",
-        "status": "Not Started",
+        "status": "09:30",
         "league": "格鲁吉亚Umaglesi Liga",
         "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
         "season": "2026",
@@ -4529,26 +4530,6 @@
         "away": {
           "name": "第比利斯迪纳摩",
           "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b"
-        },
-        "ht_score": "-",
-        "venue": "Agrano Vachadze Stadium",
-        "status_label": "未开赛"
-      },
-      {
-        "match_id": "as_acc29885a27447c9a2c784d2aa828b43",
-        "date": "2026-11-27",
-        "time": "16:00",
-        "status": "16:00",
-        "league": "格鲁吉亚Umaglesi Liga",
-        "league_id": "asl_b4caf1170e5147b09ecb57ef0142cecb",
-        "season": "2026",
-        "home": {
-          "name": "巴统迪纳摩",
-          "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64"
-        },
-        "away": {
-          "name": "迪拉",
-          "team_id": "ast_c0c478ff455841a2bc4d51518d037ab7"
         },
         "venue": ""
       }
@@ -7120,13 +7101,13 @@
     }
   },
   "stats": {
-    "matches_completed": 169,
-    "total_goals": 452,
+    "matches_completed": 170,
+    "total_goals": 454,
     "avg_goals_per_match": 2.67,
-    "home_wins": 69,
+    "home_wins": 70,
     "draws": 46,
     "away_wins": 54,
-    "home_win_pct": 40.8,
+    "home_win_pct": 41.2,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -7152,8 +7133,8 @@
       }
     },
     "leader": {
-      "team": "Iberia 1999",
-      "points": 63,
+      "team": "Dinamo Batumi",
+      "points": 65,
       "played": 34
     }
   },
@@ -7249,6 +7230,20 @@
         "data": [
           {
             "position": 1,
+            "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
+            "team": "Dinamo Batumi",
+            "played": 34,
+            "wins": 19,
+            "draws": 8,
+            "losses": 7,
+            "goals_for": 60,
+            "goals_against": 41,
+            "goal_difference": 19,
+            "points": 65,
+            "form": "WWLWW"
+          },
+          {
+            "position": 2,
             "team_id": "ast_9079ae9734e140a289c4d85e39937659",
             "team": "Iberia 1999",
             "played": 34,
@@ -7262,7 +7257,7 @@
             "form": "WDWDW"
           },
           {
-            "position": 2,
+            "position": 3,
             "team_id": "ast_e518d8bfc12e46f8b22e8469f7c7c38b",
             "team": "Dinamo Tbilisi",
             "played": 34,
@@ -7274,20 +7269,6 @@
             "goal_difference": 21,
             "points": 62,
             "form": "WDWDW"
-          },
-          {
-            "position": 3,
-            "team_id": "ast_e9c0ed41eb134290aec6cd757983ad64",
-            "team": "Dinamo Batumi",
-            "played": 33,
-            "wins": 18,
-            "draws": 8,
-            "losses": 7,
-            "goals_for": 58,
-            "goals_against": 41,
-            "goal_difference": 17,
-            "points": 62,
-            "form": "WLWWW"
           }
         ],
         "meta": {
@@ -7924,7 +7905,7 @@
     "teams_all_time": 26,
     "standings_rows_current": 10,
     "matches_current_season": 180,
-    "upcoming_matches": 11
+    "upcoming_matches": 10
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

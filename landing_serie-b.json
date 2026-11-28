@@ -3235,7 +3235,7 @@
         "match_id": "as_4f8da510e8b74dd38a18c15855004e89",
         "date": "2026-11-27",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "巴西乙级联赛",
         "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
         "season": "2026",
@@ -3247,7 +3247,10 @@
           "name": "GO竞技",
           "team_id": "ast_c65e94732e264ce29a255721f7943550"
         },
-        "venue": ""
+        "ht_score": "0-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_3069a8c513f74c3a873f456e59e9ba75",
@@ -11290,24 +11293,6 @@
           "team_id": "ast_7e8eeb7e823749dd8109dc41f2f0730f"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_4f8da510e8b74dd38a18c15855004e89",
-        "date": "2026-11-27",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "巴西乙级联赛",
-        "league_id": "asl_2bc54b3f02284321a36b593d56b6ef22",
-        "season": "2026",
-        "home": {
-          "name": "维拉·诺瓦",
-          "team_id": "ast_9fbdd69cc4464294bf40c62e1a8ae3cf"
-        },
-        "away": {
-          "name": "GO竞技",
-          "team_id": "ast_c65e94732e264ce29a255721f7943550"
-        },
-        "venue": ""
       }
     ]
   },
@@ -18378,13 +18363,13 @@
     }
   },
   "stats": {
-    "matches_completed": 382,
-    "total_goals": 895,
+    "matches_completed": 383,
+    "total_goals": 897,
     "avg_goals_per_match": 2.34,
-    "home_wins": 173,
+    "home_wins": 174,
     "draws": 100,
     "away_wins": 109,
-    "home_win_pct": 45.3,
+    "home_win_pct": 45.4,
     "biggest_win": {
       "margin": 6,
       "match": {
@@ -19208,7 +19193,7 @@
     "teams_all_time": 82,
     "standings_rows_current": 20,
     "matches_current_season": 384,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

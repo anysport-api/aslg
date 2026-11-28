@@ -581,7 +581,7 @@
         "match_id": "as_d3b23cb76d8f4c3dae9f268e56c0ee81",
         "date": "2026-11-27",
         "time": "23:00",
-        "status": "23:00",
+        "status": "FT",
         "league": "智利B级联赛",
         "league_id": "asl_cdead360d3674c78a3ae77db31577405",
         "season": "2026",
@@ -593,7 +593,10 @@
           "name": "科皮亚波",
           "team_id": "ast_fc71ad129ad74b5a8f86f35f48f062c2"
         },
-        "venue": ""
+        "ht_score": "1-0",
+        "reg_score": "2-0",
+        "venue": "",
+        "status_label": "完场"
       },
       {
         "match_id": "as_9e55d96daba849a385306d1dd391a722",
@@ -5761,24 +5764,6 @@
           "team_id": "ast_7b26c0410dac45bbaeca5c47b984b939"
         },
         "venue": ""
-      },
-      {
-        "match_id": "as_d3b23cb76d8f4c3dae9f268e56c0ee81",
-        "date": "2026-11-27",
-        "time": "23:00",
-        "status": "23:00",
-        "league": "智利B级联赛",
-        "league_id": "asl_cdead360d3674c78a3ae77db31577405",
-        "season": "2026",
-        "home": {
-          "name": "安托法加斯塔",
-          "team_id": "ast_86faf5a093c04da5a07943234315037a"
-        },
-        "away": {
-          "name": "科皮亚波",
-          "team_id": "ast_fc71ad129ad74b5a8f86f35f48f062c2"
-        },
-        "venue": ""
       }
     ]
   },
@@ -7889,13 +7874,13 @@
     }
   },
   "stats": {
-    "matches_completed": 245,
-    "total_goals": 651,
-    "avg_goals_per_match": 2.66,
-    "home_wins": 107,
+    "matches_completed": 246,
+    "total_goals": 653,
+    "avg_goals_per_match": 2.65,
+    "home_wins": 108,
     "draws": 72,
     "away_wins": 66,
-    "home_win_pct": 43.7,
+    "home_win_pct": 43.9,
     "biggest_win": {
       "margin": 5,
       "match": {
@@ -8693,7 +8678,7 @@
     "teams_all_time": 27,
     "standings_rows_current": 16,
     "matches_current_season": 247,
-    "upcoming_matches": 2
+    "upcoming_matches": 1
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }

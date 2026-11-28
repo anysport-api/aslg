@@ -603,14 +603,6 @@
         },
         {
           "rank": 14,
-          "player_id": "asp_f923ca00f8064ecb921426f2a8a516c7",
-          "player_name": "V. Isgandarli",
-          "team_id": "ast_79b86b8bdb894a44bafbf4a284d9a2a0",
-          "team_name": "Partizani",
-          "value": 3
-        },
-        {
-          "rank": 14,
           "player_id": "asp_69c8357cb0d64bda8227dfc8558592e5",
           "player_name": "M. Ayodeji",
           "team_id": "ast_bd18c2e366b14d8185121c05f928e632",
@@ -653,6 +645,14 @@
           "rank": 14,
           "player_id": "asp_fbc20d8b23f0436d9f09cb896cd25c08",
           "player_name": "D. Contreras",
+          "team_id": "ast_79b86b8bdb894a44bafbf4a284d9a2a0",
+          "team_name": "Partizani",
+          "value": 3
+        },
+        {
+          "rank": 14,
+          "player_id": "asp_f923ca00f8064ecb921426f2a8a516c7",
+          "player_name": "V. Isgandarli",
           "team_id": "ast_79b86b8bdb894a44bafbf4a284d9a2a0",
           "team_name": "Partizani",
           "value": 3
@@ -765,14 +765,6 @@
         },
         {
           "rank": 14,
-          "player_id": "asp_f923ca00f8064ecb921426f2a8a516c7",
-          "player_name": "武萨尔·伊斯甘达尔利",
-          "team_id": "ast_79b86b8bdb894a44bafbf4a284d9a2a0",
-          "team_name": "帕尔蒂扎尼",
-          "value": 3
-        },
-        {
-          "rank": 14,
           "player_id": "asp_69c8357cb0d64bda8227dfc8558592e5",
           "player_name": "马洛莫·阿约德吉",
           "team_id": "ast_bd18c2e366b14d8185121c05f928e632",
@@ -815,6 +807,14 @@
           "rank": 14,
           "player_id": "asp_fbc20d8b23f0436d9f09cb896cd25c08",
           "player_name": "迭戈·孔特雷拉斯",
+          "team_id": "ast_79b86b8bdb894a44bafbf4a284d9a2a0",
+          "team_name": "帕尔蒂扎尼",
+          "value": 3
+        },
+        {
+          "rank": 14,
+          "player_id": "asp_f923ca00f8064ecb921426f2a8a516c7",
+          "player_name": "武萨尔·伊斯甘达尔利",
           "team_id": "ast_79b86b8bdb894a44bafbf4a284d9a2a0",
           "team_name": "帕尔蒂扎尼",
           "value": 3
@@ -5329,7 +5329,7 @@
         "match_id": "as_2129078a89e6463d9d5d2c8105ad7956",
         "date": "2026-11-29",
         "time": "17:30",
-        "status": "Not Started",
+        "status": "17:30",
         "league": "阿尔巴尼亚超级联赛",
         "league_id": "asl_8e10d4f1fad747e8869aa1fcebd23ccf",
         "season": "2026/2027",
@@ -5341,9 +5341,7 @@
           "name": "埃尔巴萨尼AF",
           "team_id": "ast_f5f86ca25c4c4577bea63e5d9600c08b"
         },
-        "ht_score": "-",
-        "venue": "Demrozi Stadium",
-        "status_label": "未开赛"
+        "venue": ""
       },
       {
         "match_id": "as_b2e24d26b93145acb179b1301ad8fa8a",
@@ -5378,42 +5376,6 @@
         "away": {
           "name": "拉奇",
           "team_id": "ast_752185c2d77044809c363925f6dceedf"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_abadaafba61249b590d18273091b4b5f",
-        "date": "2026-11-27",
-        "time": "12:30",
-        "status": "12:30",
-        "league": "阿尔巴尼亚超级联赛",
-        "league_id": "asl_8e10d4f1fad747e8869aa1fcebd23ccf",
-        "season": "2026/2027",
-        "home": {
-          "name": "KF 提拉纳",
-          "team_id": "ast_fa284fc1bf3b474f9ac32147076f8153"
-        },
-        "away": {
-          "name": "斯肯德尔贝乌",
-          "team_id": "ast_62ce2bd0d4ea46aeb6e74cc9e5b7e956"
-        },
-        "venue": ""
-      },
-      {
-        "match_id": "as_d17bd33f88724ea19147086f2dc3fd53",
-        "date": "2026-11-27",
-        "time": "17:30",
-        "status": "17:30",
-        "league": "阿尔巴尼亚超级联赛",
-        "league_id": "asl_8e10d4f1fad747e8869aa1fcebd23ccf",
-        "season": "2026/2027",
-        "home": {
-          "name": "地拉那迪纳摩",
-          "team_id": "ast_df62acf90d9d4553a9650c52c50e5856"
-        },
-        "away": {
-          "name": "帕尔蒂扎尼",
-          "team_id": "ast_79b86b8bdb894a44bafbf4a284d9a2a0"
         },
         "venue": ""
       }
@@ -10175,7 +10137,7 @@
     "teams_all_time": 28,
     "standings_rows_current": 10,
     "matches_current_season": 190,
-    "upcoming_matches": 30
+    "upcoming_matches": 28
   },
-  "updated_at": "2026/11/27"
+  "updated_at": "2026/11/28"
 }
